@@ -1,5 +1,5 @@
 const Map<String, String> _bookDisplayTitles = {
-  'chengyu-catalog': '成語目錄',
+  'chengyu-catalog': '成語',
   'da-xue': '大學',
   'daodejing': '道德經',
   'lunyu': '論語',
@@ -12,7 +12,7 @@ const Map<String, String> _bookDisplayTitles = {
 };
 
 const Map<String, String> _bookTitleTranslations = {
-  'chengyu-catalog': 'Chengyu Catalog',
+  'chengyu-catalog': 'Chengyu',
   'da-xue': 'The Great Learning',
   'daodejing': 'Dao De Jing',
   'lunyu': 'The Analects',

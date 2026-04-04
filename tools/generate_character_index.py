@@ -300,6 +300,134 @@ MEANING_MAP_ANTONYM_CONCEPTS = {
     ),
     "life_death": ({"life", "lifetime", "birth", "growth", "to live"}, {"death", "dead"}),
     "quantity": ({"many", "much", "more than", "over", "multi-"}, {"few", "little", "less"}),
+    "love_hate": (
+        {"to love", "love", "affection", "fond", "cherish"},
+        {"to hate", "hate", "hatred", "to detest", "to loathe"},
+    ),
+    "beautiful_ugly": (
+        {"beautiful", "pretty", "handsome", "elegant", "graceful"},
+        {"ugly"},
+    ),
+    "true_false": (
+        {"true", "real", "genuine", "truth"},
+        {"false", "fake", "counterfeit"},
+    ),
+    "male_female": (
+        {"male", "man", "husband"},
+        {"female", "woman", "wife"},
+    ),
+    "king_subject": (
+        {"king", "emperor", "ruler", "sovereign", "monarch"},
+        {"servant", "slave", "vassal", "minister"},
+    ),
+    "war_peace": (
+        {"war", "battle", "fight", "combat", "military"},
+        {"peace", "harmony"},
+    ),
+    "rich_poor": (
+        {"rich", "wealthy", "prosperous", "abundant"},
+        {"poor", "poverty", "destitute", "needy"},
+    ),
+    "hard_soft": (
+        {"hard", "firm", "solid", "rigid", "tough"},
+        {"soft", "gentle", "tender"},
+    ),
+    "clean_dirty": (
+        {"clean", "pure"},
+        {"dirty", "filthy", "unclean", "soiled"},
+    ),
+    "fast_slow": (
+        {"fast", "quick", "rapid", "swift", "hasty"},
+        {"slow", "sluggish", "leisurely"},
+    ),
+    "strong_weak": (
+        {"strong", "powerful", "mighty", "robust", "vigorous"},
+        {"weak", "feeble", "frail", "fragile"},
+    ),
+    "heavy_light": (
+        {"heavy", "weight"},
+        {"light"},
+    ),
+    "far_near": (
+        {"far", "distant", "remote"},
+        {"near", "close", "nearby"},
+    ),
+    "early_late": (
+        {"early"},
+        {"late", "to delay", "tardy"},
+    ),
+    "success_failure": (
+        {"to succeed", "to win", "victory", "triumph", "to achieve", "to accomplish"},
+        {"failure", "to fail", "defeat", "to lose", "loss"},
+    ),
+    "buy_sell": (
+        {"to buy", "to purchase"},
+        {"to sell", "to vend"},
+    ),
+    "ask_answer": (
+        {"to ask", "to inquire", "to question"},
+        {"to reply", "to respond"},
+    ),
+    "teach_learn": (
+        {"to teach", "to instruct", "to educate"},
+        {"to learn", "to study"},
+    ),
+    "give_receive": (
+        {"to give", "to grant", "to bestow", "to donate", "to offer"},
+        {"to receive", "to accept", "to obtain", "to acquire"},
+    ),
+    "rise_fall": (
+        {"to rise", "to ascend", "to climb", "to soar", "to elevate"},
+        {"to fall", "to descend", "to drop", "to decline", "to sink"},
+    ),
+    "attack_defend": (
+        {"to attack", "to assault", "to strike", "to invade"},
+        {"to defend", "to protect", "to guard", "shield"},
+    ),
+    "praise_criticize": (
+        {"to praise", "to commend"},
+        {"to criticize", "to blame", "to reprove"},
+    ),
+    "joy_sorrow": (
+        {"joy", "happy", "glad", "pleased", "delight", "cheerful"},
+        {"sorrow", "sad", "grief", "to mourn", "to lament", "melancholy"},
+    ),
+    "gather_scatter": (
+        {"to gather", "to collect", "to assemble", "to amass"},
+        {"to scatter", "to disperse", "to spread"},
+    ),
+    "connect_separate": (
+        {"to connect", "to join", "to link", "to unite", "to attach", "to combine"},
+        {"to separate", "to divide", "to split", "to part"},
+    ),
+    "honor_shame": (
+        {"honorable", "dignified", "noble", "respect"},
+        {"shameful", "disgrace", "shame"},
+    ),
+    "loyal_traitor": (
+        {"loyal", "loyalty", "faithful"},
+        {"traitor", "treason", "to betray"},
+    ),
+    "reward_punish": (
+        {"to reward", "prize", "award"},
+        {"to punish", "punishment", "penalty"},
+    ),
+    "wise_foolish": (
+        {"wise", "wisdom", "intelligent", "sagely"},
+        {"foolish", "stupid", "ignorant"},
+    ),
+    "brave_cowardly": (
+        {"brave", "courage", "courageous", "valiant"},
+        {"cowardly", "coward", "timid"},
+    ),
+    "humble_arrogant": (
+        {"humble", "modest", "modesty"},
+        {"arrogant", "proud", "pride", "conceited"},
+    ),
+    "order_chaos": (
+        {"order", "ordered", "systematic", "neat"},
+        {"chaos", "chaotic", "disorder", "mess"},
+    ),
 }
 MEANING_MAP_CORE_ANTONYM_OVERRIDES = {
     "上": ["下"],
@@ -346,6 +474,110 @@ MEANING_MAP_CORE_ANTONYM_OVERRIDES = {
     "疏": ["亲"],
     "新": ["旧"],
     "旧": ["新"],
+    "爱": ["恨"],
+    "恨": ["爱"],
+    "美": ["丑"],
+    "丑": ["美"],
+    "真": ["假"],
+    "假": ["真"],
+    "男": ["女"],
+    "女": ["男"],
+    "雄": ["雌"],
+    "雌": ["雄"],
+    "王": ["臣"],
+    "臣": ["王"],
+    "战": ["和"],
+    "和": ["战"],
+    "富": ["贫"],
+    "贫": ["富"],
+    "硬": ["软"],
+    "软": ["硬"],
+    "刚": ["柔"],
+    "柔": ["刚"],
+    "清": ["浊"],
+    "浊": ["清"],
+    "快": ["慢"],
+    "慢": ["快"],
+    "强": ["弱"],
+    "弱": ["强"],
+    "重": ["轻"],
+    "轻": ["重"],
+    "远": ["近"],
+    "近": ["远"],
+    "早": ["晚"],
+    "晚": ["早"],
+    "胜": ["败"],
+    "败": ["胜"],
+    "买": ["卖"],
+    "卖": ["买"],
+    "问": ["答"],
+    "答": ["问"],
+    "教": ["学"],
+    "学": ["教"],
+    "给": ["受"],
+    "受": ["给"],
+    "起": ["落"],
+    "落": ["起"],
+    "升": ["降"],
+    "降": ["升"],
+    "攻": ["守"],
+    "守": ["攻"],
+    "赞": ["贬"],
+    "贬": ["赞"],
+    "褒": ["贬"],
+    "喜": ["悲"],
+    "悲": ["喜"],
+    "欢": ["哀"],
+    "哀": ["欢"],
+    "聚": ["散"],
+    "散": ["聚"],
+    "合": ["分"],
+    "分": ["合"],
+    "连": ["断"],
+    "忠": ["叛"],
+    "叛": ["忠"],
+    "赏": ["罚"],
+    "罚": ["赏"],
+    "智": ["愚"],
+    "愚": ["智"],
+    "勇": ["怯"],
+    "怯": ["勇"],
+    "谦": ["傲"],
+    "傲": ["谦"],
+    "治": ["乱"],
+    "乱": ["治"],
+    "尊": ["卑"],
+    "卑": ["尊"],
+    "荣": ["辱"],
+    "辱": ["荣"],
+    "功": ["过"],
+    "过": ["功"],
+    "进": ["退"],
+    "退": ["进"],
+    "加": ["减"],
+    "减": ["加"],
+    "取": ["舍"],
+    "舍": ["取"],
+    "恩": ["仇"],
+    "仇": ["恩"],
+    "信": ["疑"],
+    "疑": ["信"],
+    "宽": ["严"],
+    "严": ["宽"],
+    "勤": ["懒"],
+    "懒": ["勤"],
+    "益": ["损"],
+    "损": ["益"],
+    "安": ["危"],
+    "危": ["安"],
+    "福": ["祸"],
+    "祸": ["福"],
+    "兴": ["衰"],
+    "衰": ["兴"],
+    "盈": ["虚"],
+    "虚": ["盈"],
+    "实": ["空"],
+    "空": ["实"],
 }
 
 
@@ -1696,8 +1928,22 @@ def build_phrase_usage(content_root: Path, ts_map: dict[str, str], st_map: dict[
     return usage
 
 
+def build_entry_containing_map(entries: dict[str, dict]) -> dict[str, list[str]]:
+    containing: dict[str, list[str]] = {}
+    for key, entry in entries.items():
+        for part in entry.get("explosion", {}).get("analysis", {}).get("parts", []):
+            if not part or not is_cjk_character(part) or part == entry["character"]:
+                continue
+            if part not in containing:
+                containing[part] = []
+            if key not in containing[part]:
+                containing[part].append(key)
+    return containing
+
+
 def enrich_explosions(entries: dict[str, dict], ids_data: dict[str, str], content_root: Path, ts_map: dict[str, str], st_map: dict[str, str]) -> dict[str, dict]:
     containing_map = build_containing_character_map(ids_data)
+    entry_containing_map = build_entry_containing_map(entries)
     phrase_usage = build_phrase_usage(content_root, ts_map, st_map)
     primary_by_exact_pinyin: dict[str, list[str]] = {}
     primary_by_toneless_pinyin: dict[str, list[str]] = {}
@@ -1718,7 +1964,12 @@ def enrich_explosions(entries: dict[str, dict], ids_data: dict[str, str], conten
             "parts": analysis["parts"],
         }
 
-        containing_characters = containing_map.get(entry["simplified"], []) + containing_map.get(entry["traditional"], [])
+        containing_characters = (
+            containing_map.get(entry["simplified"], [])
+            + containing_map.get(entry["traditional"], [])
+            + entry_containing_map.get(entry["simplified"], [])
+            + entry_containing_map.get(entry["traditional"], [])
+        )
         ordered_containing: list[str] = []
         for candidate in containing_characters:
             if candidate == entry["character"] or candidate in ordered_containing:

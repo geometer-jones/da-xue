@@ -1340,19 +1340,35 @@ class _HomeShellPageState extends State<HomeShellPage> {
   static const int _tabCount = 4;
 
   int _selectedTabIndex = 0;
+  final GlobalKey<_FlashcardsPageState> _flashcardsPageKey =
+      GlobalKey<_FlashcardsPageState>();
   final List<GlobalKey<NavigatorState>> _tabNavigatorKeys = List.generate(
     _tabCount,
     (_) => GlobalKey<NavigatorState>(),
   );
 
   void _selectTab(int index) {
-    if (_selectedTabIndex == index) {
+    final isReadingTab = index == 1;
+    final isFlashcardsTab = index == 2;
+
+    if (_selectedTabIndex != index) {
+      setState(() {
+        _selectedTabIndex = index;
+      });
+    }
+
+    if (isFlashcardsTab) {
+      _flashcardsPageKey.currentState?.reshuffleFromTabTap();
+    }
+
+    if (!isReadingTab) {
       return;
     }
 
-    setState(() {
-      _selectedTabIndex = index;
-    });
+    final activeNavigator = _tabNavigatorKeys[index].currentState;
+    if (activeNavigator != null && activeNavigator.canPop()) {
+      activeNavigator.popUntil((route) => route.isFirst);
+    }
   }
 
   Widget _buildTabRoot(int index) {
@@ -1363,6 +1379,7 @@ class _HomeShellPageState extends State<HomeShellPage> {
         return ReadingMenuPage(client: widget.client);
       case 2:
         return FlashcardsPage(
+          key: _flashcardsPageKey,
           client: widget.client,
           isActive: true,
         );
@@ -1575,25 +1592,19 @@ class FlashcardsPage extends StatefulWidget {
 }
 
 class _FlashcardsPageState extends State<FlashcardsPage> {
-  static const int _minimumFlashcardsForLooping = 3;
-  static const int _flashcardLoopCyclesPerSide = 120;
-  static const ValueKey<String> _flashcardsLoopCenterKey = ValueKey<String>(
-    'flashcards-loop-center',
-  );
-
   late final SharedPreferencesFlashcardStore _flashcardStore;
   late final Future<void> _loadFlashcardsFuture;
   late final Future<CharacterIndex> _characterIndexFuture;
   late final Future<CharacterComponentsDataset> _characterComponentsFuture;
   late final math.Random _random;
-  late final ScrollController _flashcardsScrollController;
+  late final ScrollController _scrollController;
   List<String> _orderedFlashcardIds = const [];
   Map<String, _FlashcardVisibleSides> _visibleSidesByEntryId = const {};
 
   @override
   void initState() {
     super.initState();
-    _flashcardsScrollController = ScrollController();
+    _scrollController = ScrollController();
     _flashcardStore =
         widget.flashcardStore ?? SharedPreferencesFlashcardStore.instance;
     _characterIndexFuture = _loadOptionalCharacterIndex(
@@ -1612,7 +1623,7 @@ class _FlashcardsPageState extends State<FlashcardsPage> {
   @override
   void dispose() {
     _flashcardStore.removeListener(_handleFlashcardsChanged);
-    _flashcardsScrollController.dispose();
+    _scrollController.dispose();
     super.dispose();
   }
 
@@ -1684,7 +1695,18 @@ class _FlashcardsPageState extends State<FlashcardsPage> {
           ),
       };
     });
-    _resetFlashcardsScrollPosition();
+  }
+
+  void reshuffleFromTabTap() {
+    _reshuffleFlashcards();
+    _scrollToTop();
+  }
+
+  void _scrollToTop() {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (!uiActive || !_scrollController.hasClients) return;
+      _scrollController.jumpTo(0);
+    });
   }
 
   List<String> _weightedOrderedFlashcardIds(List<FlashcardEntry> entries) {
@@ -1793,16 +1815,6 @@ class _FlashcardsPageState extends State<FlashcardsPage> {
     }
 
     await _flashcardStore.removeEntry(entry.id);
-  }
-
-  void _resetFlashcardsScrollPosition() {
-    WidgetsBinding.instance.addPostFrameCallback((_) {
-      if (!uiActive || !_flashcardsScrollController.hasClients) {
-        return;
-      }
-
-      _flashcardsScrollController.jumpTo(0);
-    });
   }
 
   Widget _buildFlashcardSide({
@@ -2043,60 +2055,15 @@ class _FlashcardsPageState extends State<FlashcardsPage> {
     ).whenComplete(exploderHistory.dispose);
   }
 
-  Widget _buildFiniteFlashcardsList(List<FlashcardEntry> orderedEntries) {
+  Widget _buildFlashcardsList(List<FlashcardEntry> orderedEntries) {
     return ListView.separated(
       key: const PageStorageKey<String>('flashcards-list'),
-      controller: _flashcardsScrollController,
+      controller: _scrollController,
       itemCount: orderedEntries.length,
       separatorBuilder: (_, _) => const SizedBox(height: 12),
       itemBuilder: (context, index) {
         return _buildFlashcardCard(context, orderedEntries[index]);
       },
-    );
-  }
-
-  Widget _buildLoopingFlashcardsList(List<FlashcardEntry> orderedEntries) {
-    final repeatedItemCount =
-        orderedEntries.length * _flashcardLoopCyclesPerSide;
-
-    Widget leadingFlashcardBuilder(BuildContext context, int index) {
-      final reversedIndex =
-          orderedEntries.length - 1 - (index % orderedEntries.length);
-      return Padding(
-        padding: const EdgeInsets.only(bottom: 12),
-        child: _buildFlashcardCard(context, orderedEntries[reversedIndex]),
-      );
-    }
-
-    Widget trailingFlashcardBuilder(BuildContext context, int index) {
-      return Padding(
-        padding: const EdgeInsets.only(bottom: 12),
-        child: _buildFlashcardCard(
-          context,
-          orderedEntries[index % orderedEntries.length],
-        ),
-      );
-    }
-
-    return CustomScrollView(
-      key: const PageStorageKey<String>('flashcards-list'),
-      controller: _flashcardsScrollController,
-      center: _flashcardsLoopCenterKey,
-      slivers: [
-        SliverList(
-          delegate: SliverChildBuilderDelegate(
-            leadingFlashcardBuilder,
-            childCount: repeatedItemCount,
-          ),
-        ),
-        SliverList(
-          key: _flashcardsLoopCenterKey,
-          delegate: SliverChildBuilderDelegate(
-            trailingFlashcardBuilder,
-            childCount: repeatedItemCount,
-          ),
-        ),
-      ],
     );
   }
 
@@ -2131,14 +2098,9 @@ class _FlashcardsPageState extends State<FlashcardsPage> {
             return const SizedBox.shrink();
           }
 
-          final shouldLoop =
-              orderedEntries.length >= _minimumFlashcardsForLooping;
-
           return Padding(
             padding: const EdgeInsets.all(24),
-            child: shouldLoop
-                ? _buildLoopingFlashcardsList(orderedEntries)
-                : _buildFiniteFlashcardsList(orderedEntries),
+            child: _buildFlashcardsList(orderedEntries),
           );
         },
       ),
@@ -3848,10 +3810,8 @@ class _CharacterComponentsDatasetListState
         _scrollController.position.minScrollExtent,
         _scrollController.position.maxScrollExtent,
       );
-      await _scrollController.animateTo(
+      _scrollController.jumpTo(
         clampedOffset.toDouble(),
-        duration: _componentScrollDuration,
-        curve: Curves.easeInOutCubic,
       );
       await WidgetsBinding.instance.endOfFrame;
       await Future<void>.delayed(_componentScrollDelay);
@@ -4687,22 +4647,15 @@ class BookChaptersPage extends StatefulWidget {
 class _BookChaptersPageState extends State<BookChaptersPage> {
   static const Duration _chapterScrollDelay = Duration(milliseconds: 180);
   static const Duration _chapterScrollDuration = Duration(milliseconds: 450);
-  static const Duration _chapterAlignRetryDelay = Duration(milliseconds: 60);
-  static const int _chapterAlignRetryCount = 8;
-  static const double _chapterAlignTolerance = 1;
-  static const double _estimatedCollapsedChapterExtent = 148;
   static const double _chapterCardSpacing = 12;
-  static const int _minimumChaptersForLooping = 3;
-  static const int _chapterLoopCyclesPerSide = 200;
   late final Future<CharacterComponentsDataset> _characterComponentsFuture;
-  final GlobalKey _chapterLoopCenterKey = GlobalKey();
   final ScrollController _scrollController = ScrollController();
 
   final Map<int, GlobalKey> _chapterKeys = {};
   final Map<int, GlobalKey<_ChapterReaderPageState>> _chapterReaderKeys = {};
   final Map<String, Map<String, LineStudyEntry>> _lineStudyEntriesByChapterId =
       {};
-  int? _expandedChapterLoopIndex;
+  int? _expandedChapterIndex;
   int _scrollRequestId = 0;
 
   LineStudyStore get _lineStudyStore =>
@@ -4710,52 +4663,25 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
   ReadingProgressStore get _readingProgressStore =>
       widget.readingProgressStore ??
       SharedPreferencesReadingProgressStore.instance;
-  bool get _shouldLoopChapters =>
-      widget.book.chapters.length >= _minimumChaptersForLooping;
-  int get _chapterLoopRepeatedItemCount =>
-      widget.book.chapters.length * _chapterLoopCyclesPerSide;
-  int get _chapterLoopCenterIndex => _chapterLoopRepeatedItemCount;
-  double get _estimatedCollapsedChapterStride =>
-      _estimatedCollapsedChapterExtent + _chapterCardSpacing;
 
-  int _chapterLogicalIndexForLoopIndex(int loopIndex) {
-    final chapterCount = widget.book.chapters.length;
-    final normalizedIndex = loopIndex % chapterCount;
-    return normalizedIndex < 0
-        ? normalizedIndex + chapterCount
-        : normalizedIndex;
+  GlobalKey _chapterKeyForIndex(int index) {
+    return _chapterKeys.putIfAbsent(index, () => GlobalKey());
   }
 
-  ChapterSummary _chapterForLoopIndex(int loopIndex) {
-    return widget.book.chapters[_chapterLogicalIndexForLoopIndex(loopIndex)];
-  }
-
-  int _loopIndexForLogicalChapter(int chapterIndex) {
-    return _shouldLoopChapters
-        ? _chapterLoopCenterIndex + chapterIndex
-        : chapterIndex;
-  }
-
-  GlobalKey _chapterKeyForLoopIndex(int loopIndex) {
-    return _chapterKeys.putIfAbsent(loopIndex, () => GlobalKey());
-  }
-
-  GlobalKey<_ChapterReaderPageState> _chapterReaderKeyForLoopIndex(
-    int loopIndex,
-  ) {
+  GlobalKey<_ChapterReaderPageState> _chapterReaderKeyForIndex(int index) {
     return _chapterReaderKeys.putIfAbsent(
-      loopIndex,
+      index,
       () => GlobalKey<_ChapterReaderPageState>(),
     );
   }
 
   String? get _expandedChapterId {
-    final expandedChapterLoopIndex = _expandedChapterLoopIndex;
-    if (expandedChapterLoopIndex == null) {
+    final expandedIndex = _expandedChapterIndex;
+    if (expandedIndex == null) {
       return null;
     }
 
-    return _chapterForLoopIndex(expandedChapterLoopIndex).id;
+    return widget.book.chapters[expandedIndex].id;
   }
 
   @override
@@ -4847,18 +4773,18 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
     );
   }
 
-  void _toggleChapter(int chapterLoopIndex) {
-    final chapterId = _chapterForLoopIndex(chapterLoopIndex).id;
-    final nextExpandedChapterLoopIndex =
-        _expandedChapterLoopIndex == chapterLoopIndex ? null : chapterLoopIndex;
+  void _toggleChapter(int chapterIndex) {
+    final chapterId = widget.book.chapters[chapterIndex].id;
+    final nextExpandedChapterIndex =
+        _expandedChapterIndex == chapterIndex ? null : chapterIndex;
 
     setState(() {
-      _expandedChapterLoopIndex = nextExpandedChapterLoopIndex;
+      _expandedChapterIndex = nextExpandedChapterIndex;
     });
 
-    if (nextExpandedChapterLoopIndex != null) {
+    if (nextExpandedChapterIndex != null) {
       unawaited(_persistExpandedChapter(chapterId));
-      _scrollChapterToTop(chapterLoopIndex);
+      unawaited(_scrollChapterToTop(chapterIndex));
     } else {
       unawaited(
         _readingProgressStore.saveBookProgress(
@@ -4876,7 +4802,7 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
     final progress = await _readingProgressStore.loadBookProgress(
       bookId: widget.book.id,
     );
-    if (!uiActive || progress == null || _expandedChapterLoopIndex != null) {
+    if (!uiActive || progress == null || _expandedChapterIndex != null) {
       return;
     }
 
@@ -4887,12 +4813,11 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
       return;
     }
 
-    final chapterLoopIndex = _loopIndexForLogicalChapter(chapterIndex);
     setState(() {
-      _expandedChapterLoopIndex = chapterLoopIndex;
+      _expandedChapterIndex = chapterIndex;
     });
 
-    await _scrollChapterToTop(chapterLoopIndex);
+    await _scrollChapterToTop(chapterIndex, force: true);
   }
 
   Future<void> _persistExpandedChapter(String chapterId) async {
@@ -4909,9 +4834,32 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
     );
   }
 
-  Future<void> _scrollChapterToTop(int chapterLoopIndex) async {
+  Future<void> _scrollChapterToTop(int chapterIndex, {bool force = false}) async {
     if (!uiActive) {
       return;
+    }
+
+    // If the chapter is already expanded and visible, only ensure its top
+    // is visible — don't force-scroll to position 0. This avoids jarring
+    // snap-back when advancing between lines within an already-open chapter.
+    final isAlreadyExpanded = _expandedChapterIndex == chapterIndex;
+    if (isAlreadyExpanded && !force) {
+      final chapterContext = _chapterKeyForIndex(chapterIndex).currentContext;
+      if (chapterContext != null && chapterContext.mounted) {
+        final chapterRenderObject = chapterContext.findRenderObject();
+        final scrollViewportRenderObject = _scrollController
+            .position.context.storageContext.findRenderObject();
+        if (chapterRenderObject is RenderBox &&
+            scrollViewportRenderObject is RenderBox) {
+          final chapterTopOffset = chapterRenderObject.localToGlobal(
+            Offset.zero,
+            ancestor: scrollViewportRenderObject,
+          ).dy;
+          if (chapterTopOffset.abs() <= 1) {
+            return;
+          }
+        }
+      }
     }
 
     final requestId = ++_scrollRequestId;
@@ -4920,35 +4868,38 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
 
     if (!uiActive ||
         requestId != _scrollRequestId ||
-        _expandedChapterLoopIndex != chapterLoopIndex) {
+        _expandedChapterIndex != chapterIndex) {
       return;
     }
 
-    final chapterContext = _chapterKeyForLoopIndex(
-      chapterLoopIndex,
-    ).currentContext;
+    var chapterContext = _chapterKeyForIndex(chapterIndex).currentContext;
     if ((chapterContext == null || !chapterContext.mounted) &&
         _scrollController.hasClients) {
-      final approximateOffset = _shouldLoopChapters
-          ? (chapterLoopIndex - _chapterLoopCenterIndex) *
-                _estimatedCollapsedChapterStride
-          : chapterLoopIndex * _estimatedCollapsedChapterStride;
-      final clampedOffset = approximateOffset.clamp(
-        _scrollController.position.minScrollExtent,
-        _scrollController.position.maxScrollExtent,
-      );
-      await _scrollController.animateTo(
-        clampedOffset.toDouble(),
-        duration: _chapterScrollDuration,
-        curve: Curves.easeInOutCubic,
+      // Jump to approximate position, then keep advancing until the lazy
+      // ListView builds the target chapter.
+      final approximateOffset = chapterIndex * 200.0;
+      _scrollController.jumpTo(
+        approximateOffset.clamp(
+          _scrollController.position.minScrollExtent,
+          _scrollController.position.maxScrollExtent,
+        ),
       );
       await WidgetsBinding.instance.endOfFrame;
+      for (var i = 0; i < 30; i++) {
+        chapterContext = _chapterKeyForIndex(chapterIndex).currentContext;
+        if (chapterContext != null && chapterContext.mounted) break;
+        if (!_scrollController.hasClients) break;
+        final offset = _scrollController.offset;
+        final max = _scrollController.position.maxScrollExtent;
+        if (offset >= max) break;
+        _scrollController.jumpTo((offset + 600).clamp(0, max));
+        await WidgetsBinding.instance.endOfFrame;
+      }
       await Future<void>.delayed(_chapterScrollDelay);
     }
 
-    final resolvedChapterContext = _chapterKeyForLoopIndex(
-      chapterLoopIndex,
-    ).currentContext;
+    final resolvedChapterContext = _chapterKeyForIndex(chapterIndex)
+        .currentContext;
     if (resolvedChapterContext == null ||
         !resolvedChapterContext.mounted ||
         !uiActive) {
@@ -4963,149 +4914,115 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
       curve: Curves.easeInOutCubic,
     );
 
-    await _alignChapterToTop(chapterLoopIndex, requestId);
+    await _alignChapterToTop(chapterIndex);
   }
 
-  Future<void> _alignChapterToTop(
-    int chapterLoopIndex,
-    int requestId,
-  ) async {
-    for (var attempt = 0; attempt < _chapterAlignRetryCount; attempt++) {
-      await WidgetsBinding.instance.endOfFrame;
-      if (!uiActive ||
-          requestId != _scrollRequestId ||
-          _expandedChapterLoopIndex != chapterLoopIndex ||
-          !_scrollController.hasClients) {
-        return;
-      }
-
-      final chapterContext = _chapterKeyForLoopIndex(chapterLoopIndex).currentContext;
-      if (chapterContext == null || !chapterContext.mounted) {
-        return;
-      }
-
-      final chapterRenderObject = chapterContext.findRenderObject();
-      final chapterViewport = chapterRenderObject == null
-          ? null
-          : RenderAbstractViewport.of(chapterRenderObject);
-      if (chapterRenderObject == null || chapterViewport == null) {
-        return;
-      }
-
-      final chapterRevealOffset = chapterViewport
-          .getOffsetToReveal(chapterRenderObject, 0.0)
-          .offset;
-
-      if (chapterRevealOffset.abs() <= _chapterAlignTolerance &&
-          attempt < _chapterAlignRetryCount - 1) {
-        await Future<void>.delayed(_chapterAlignRetryDelay);
-        continue;
-      }
-
-      final targetOffset = (_scrollController.offset + chapterRevealOffset).clamp(
-        _scrollController.position.minScrollExtent,
-        _scrollController.position.maxScrollExtent,
-      );
-      if ((targetOffset - _scrollController.offset).abs() <=
-          _chapterAlignTolerance) {
-        if (attempt < _chapterAlignRetryCount - 1) {
-          await Future<void>.delayed(_chapterAlignRetryDelay);
-          continue;
-        }
-        return;
-      }
-
-      await _scrollController.animateTo(
-        targetOffset,
-        duration: attempt == 0 ? _chapterScrollDuration : _chapterAlignRetryDelay,
-        curve: Curves.easeInOutCubic,
-      );
-    }
-
-    if (!uiActive ||
-        requestId != _scrollRequestId ||
-        _expandedChapterLoopIndex != chapterLoopIndex ||
-        !_scrollController.hasClients) {
+  Future<void> _alignChapterToTop(int chapterIndex) async {
+    await WidgetsBinding.instance.endOfFrame;
+    if (!uiActive || !_scrollController.hasClients) {
       return;
     }
 
-    final finalChapterContext = _chapterKeyForLoopIndex(chapterLoopIndex).currentContext;
-    if (finalChapterContext == null || !finalChapterContext.mounted) {
+    final chapterContext = _chapterKeyForIndex(chapterIndex).currentContext;
+    if (chapterContext == null || !chapterContext.mounted) {
       return;
     }
 
-    final finalChapterRenderObject = finalChapterContext.findRenderObject();
-    final finalChapterViewport = finalChapterRenderObject == null
-        ? null
-        : RenderAbstractViewport.of(finalChapterRenderObject);
-    if (finalChapterRenderObject == null || finalChapterViewport == null) {
+    final chapterRenderObject = chapterContext.findRenderObject();
+    final scrollViewportRenderObject = _scrollController
+        .position.context.storageContext.findRenderObject();
+    if (chapterRenderObject is! RenderBox ||
+        scrollViewportRenderObject is! RenderBox) {
       return;
     }
 
-    final finalChapterRevealOffset = finalChapterViewport
-        .getOffsetToReveal(finalChapterRenderObject, 0.0)
-        .offset;
-    if (finalChapterRevealOffset.abs() <= _chapterAlignTolerance) {
+    final chapterTopOffset = chapterRenderObject.localToGlobal(
+      Offset.zero,
+      ancestor: scrollViewportRenderObject,
+    ).dy;
+
+    if (chapterTopOffset.abs() <= 1) {
       return;
     }
 
-    final finalTargetOffset = (_scrollController.offset + finalChapterRevealOffset)
-        .clamp(
-          _scrollController.position.minScrollExtent,
-          _scrollController.position.maxScrollExtent,
-        );
-    if (finalTargetOffset == _scrollController.offset) {
+    final targetOffset = (_scrollController.offset + chapterTopOffset).clamp(
+      _scrollController.position.minScrollExtent,
+      _scrollController.position.maxScrollExtent,
+    );
+    if ((targetOffset - _scrollController.offset).abs() <= 1) {
       return;
     }
 
-    _scrollController.jumpTo(finalTargetOffset);
+    await _scrollController.animateTo(
+      targetOffset,
+      duration: _chapterScrollDuration,
+      curve: Curves.easeInOutCubic,
+    );
   }
 
-  Future<void> _openNextChapterFrom(int chapterLoopIndex) async {
-    final chapterIndex = _chapterLogicalIndexForLoopIndex(chapterLoopIndex);
+  Future<void> _openPreviousChapterFrom(int chapterIndex) async {
+    final previousChapterIndex = chapterIndex - 1;
+    if (previousChapterIndex < 0) {
+      return;
+    }
+
+    final previousChapterId = widget.book.chapters[previousChapterIndex].id;
+    if (!uiActive) {
+      return;
+    }
+
+    setState(() {
+      _expandedChapterIndex = previousChapterIndex;
+    });
+
+    unawaited(_persistExpandedChapter(previousChapterId));
+    _chapterReaderKeyForIndex(
+      previousChapterIndex,
+    ).currentState?.jumpToLastReadingUnit();
+    unawaited(_scrollChapterToTop(previousChapterIndex));
+  }
+
+  Future<void> _openNextChapterFrom(int chapterIndex) async {
     final nextChapterIndex = chapterIndex + 1;
     if (nextChapterIndex >= widget.book.chapters.length) {
       return;
     }
 
-    final nextChapterLoopIndex = _shouldLoopChapters
-        ? chapterLoopIndex + 1
-        : nextChapterIndex;
     final nextChapterId = widget.book.chapters[nextChapterIndex].id;
     if (!uiActive) {
       return;
     }
 
     setState(() {
-      _expandedChapterLoopIndex = nextChapterLoopIndex;
+      _expandedChapterIndex = nextChapterIndex;
     });
 
     unawaited(_persistExpandedChapter(nextChapterId));
-    await _scrollChapterToTop(nextChapterLoopIndex);
-    _chapterReaderKeyForLoopIndex(
-      nextChapterLoopIndex,
+    _chapterReaderKeyForIndex(
+      nextChapterIndex,
     ).currentState?.jumpToFirstReadingUnit();
+    unawaited(_scrollChapterToTop(nextChapterIndex));
   }
 
   Future<void> _openExpandedChapterChat() async {
-    final chapterLoopIndex = _expandedChapterLoopIndex;
-    if (chapterLoopIndex == null) {
+    final chapterIndex = _expandedChapterIndex;
+    if (chapterIndex == null) {
       return;
     }
 
-    await _chapterReaderKeyForLoopIndex(
-      chapterLoopIndex,
+    await _chapterReaderKeyForIndex(
+      chapterIndex,
     ).currentState?.openGuidedChatThreadForCurrentChapter();
   }
 
-  Widget _buildChapterMenuCardForLoopIndex(
+  Widget _buildChapterMenuCard(
     BuildContext context,
-    int chapterLoopIndex,
+    int chapterIndex,
   ) {
-    final chapter = _chapterForLoopIndex(chapterLoopIndex);
-    final isExpanded = _expandedChapterLoopIndex == chapterLoopIndex;
+    final chapter = widget.book.chapters[chapterIndex];
+    final isExpanded = _expandedChapterIndex == chapterIndex;
     return _ChapterMenuCard(
-      key: _chapterKeyForLoopIndex(chapterLoopIndex),
+      key: _chapterKeyForIndex(chapterIndex),
       client: widget.client,
       bookId: widget.book.id,
       chapter: chapter,
@@ -5119,7 +5036,7 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
                 'chapter-reader-${widget.book.id}-${chapter.id}-embedded',
               ),
               child: ChapterReaderPage(
-                key: _chapterReaderKeyForLoopIndex(chapterLoopIndex),
+                key: _chapterReaderKeyForIndex(chapterIndex),
                 client: widget.client,
                 bookTitle: widget.book.title,
                 bookId: widget.book.id,
@@ -5130,65 +5047,17 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
                 embedded: true,
                 onLineStudyEntriesChanged: (chapterEntries) =>
                     _updateChapterLineStudyEntries(chapter.id, chapterEntries),
-                onAdvanceToNextReading: () =>
-                    _scrollChapterToTop(chapterLoopIndex),
                 onAdvancePastChapterEnd: () =>
-                    _openNextChapterFrom(chapterLoopIndex),
+                    _openNextChapterFrom(chapterIndex),
+                onRetreatToPreviousChapter: chapterIndex > 0
+                    ? () => _openPreviousChapterFrom(chapterIndex)
+                    : null,
+                onReadingUnitChanged: () =>
+                    unawaited(_scrollChapterToTop(chapterIndex)),
               ),
             )
           : null,
-      onTap: () => _toggleChapter(chapterLoopIndex),
-    );
-  }
-
-  Widget _buildFiniteBookChaptersList(BuildContext context) {
-    return ListView.separated(
-      controller: _scrollController,
-      itemCount: widget.book.chapters.length,
-      separatorBuilder: (_, _) => const SizedBox(height: _chapterCardSpacing),
-      itemBuilder: (context, index) {
-        return _buildChapterMenuCardForLoopIndex(context, index);
-      },
-    );
-  }
-
-  Widget _buildLoopingBookChaptersList(BuildContext context) {
-    final repeatedItemCount = _chapterLoopRepeatedItemCount;
-
-    Widget buildLeadingChapterCard(BuildContext context, int index) {
-      final chapterLoopIndex = _chapterLoopCenterIndex - 1 - index;
-      return Padding(
-        padding: const EdgeInsets.only(bottom: _chapterCardSpacing),
-        child: _buildChapterMenuCardForLoopIndex(context, chapterLoopIndex),
-      );
-    }
-
-    Widget buildTrailingChapterCard(BuildContext context, int index) {
-      final chapterLoopIndex = _chapterLoopCenterIndex + index;
-      return Padding(
-        padding: const EdgeInsets.only(bottom: _chapterCardSpacing),
-        child: _buildChapterMenuCardForLoopIndex(context, chapterLoopIndex),
-      );
-    }
-
-    return CustomScrollView(
-      controller: _scrollController,
-      center: _chapterLoopCenterKey,
-      slivers: [
-        SliverList(
-          delegate: SliverChildBuilderDelegate(
-            buildLeadingChapterCard,
-            childCount: repeatedItemCount,
-          ),
-        ),
-        SliverList(
-          key: _chapterLoopCenterKey,
-          delegate: SliverChildBuilderDelegate(
-            buildTrailingChapterCard,
-            childCount: repeatedItemCount,
-          ),
-        ),
-      ],
+      onTap: () => _toggleChapter(chapterIndex),
     );
   }
 
@@ -5213,9 +5082,7 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
           children: [
             _TranslatedTitle(
               primary: bookDisplayTitle,
-              translation: bookTitleTranslation == null
-                  ? 'Chapter List'
-                  : '$bookTitleTranslation · Chapter List',
+              translation: bookTitleTranslation,
               primaryStyle: textTheme.titleLarge,
               translationStyle: _supportTableEnglishTextStyle(context),
               primaryMaxLines: 1,
@@ -5235,9 +5102,14 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
                   ),
                 ),
               )
-            : _shouldLoopChapters
-            ? _buildLoopingBookChaptersList(context)
-            : _buildFiniteBookChaptersList(context),
+            : ListView.separated(
+                controller: _scrollController,
+                itemCount: widget.book.chapters.length,
+                separatorBuilder: (_, _) =>
+                    const SizedBox(height: _chapterCardSpacing),
+                itemBuilder: (context, index) =>
+                    _buildChapterMenuCard(context, index),
+              ),
       ),
       floatingActionButton: _expandedChapterId == null
           ? null
@@ -5265,6 +5137,8 @@ class ChapterReaderPage extends StatefulWidget {
     this.onLineStudyEntriesChanged,
     this.onAdvanceToNextReading,
     this.onAdvancePastChapterEnd,
+    this.onRetreatToPreviousChapter,
+    this.onReadingUnitChanged,
   });
 
   final BackendClient client;
@@ -5278,6 +5152,8 @@ class ChapterReaderPage extends StatefulWidget {
   final ValueChanged<Map<String, LineStudyEntry>>? onLineStudyEntriesChanged;
   final Future<void> Function()? onAdvanceToNextReading;
   final Future<void> Function()? onAdvancePastChapterEnd;
+  final Future<void> Function()? onRetreatToPreviousChapter;
+  final VoidCallback? onReadingUnitChanged;
 
   @override
   State<ChapterReaderPage> createState() => _ChapterReaderPageState();
@@ -5297,6 +5173,7 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
   final Map<String, String> _messageDrafts = {};
   final Map<String, LineStudyEntry> _lineStudyEntries = {};
   int _currentReadingUnitIndex = 0;
+  bool _jumpToLastOnLoad = false;
   bool _isExplosionSheetOpen = false;
   String _openLineForCharacterExplosion = '';
   bool _restoredReadingUnitIndex = false;
@@ -5463,6 +5340,7 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
       _currentReadingUnitIndex = nextIndex;
     });
     _persistCurrentReadingUnitIndex();
+    widget.onReadingUnitChanged?.call();
   }
 
   void jumpToFirstReadingUnit() {
@@ -5474,6 +5352,10 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
       _currentReadingUnitIndex = 0;
     });
     _persistCurrentReadingUnitIndex();
+  }
+
+  void jumpToLastReadingUnit() {
+    _jumpToLastOnLoad = true;
   }
 
   int? _readingUnitIndexForLineNumber(ChapterDetail chapter, int lineNumber) {
@@ -5538,6 +5420,10 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
   bool _canAdvanceBeyondChapter(ChapterDetail chapter) {
     return !_canAdvanceToNextReadingUnit(chapter) &&
         widget.onAdvancePastChapterEnd != null;
+  }
+
+  bool _canRetreatToPreviousChapter() {
+    return widget.onRetreatToPreviousChapter != null;
   }
 
   void _storeDraft(
@@ -6156,7 +6042,9 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
         ? () => _advanceToNextReadingUnit(chapter)
         : null;
     final onPreviousPressed = safeReadingUnitIndex == 0
-        ? null
+        ? (_canRetreatToPreviousChapter()
+            ? () => widget.onRetreatToPreviousChapter!()
+            : null)
         : () => _selectReadingUnit(chapter, safeReadingUnitIndex - 1);
 
     return DecoratedBox(
@@ -6261,6 +6149,12 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
             );
           }
 
+          if (_jumpToLastOnLoad) {
+            _jumpToLastOnLoad = false;
+            _currentReadingUnitIndex = chapter.readingUnits.length - 1;
+            _persistCurrentReadingUnitIndex();
+          }
+
           if (widget.embedded) {
             return _buildEmbeddedChapterContent(context, chapter);
           }
@@ -6337,7 +6231,9 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
                       currentReadingUnit.id,
                     );
                     final onPreviousPressed = safeReadingUnitIndex == 0
-                        ? null
+                        ? (_canRetreatToPreviousChapter()
+                            ? () => widget.onRetreatToPreviousChapter!()
+                            : null)
                         : () => _selectReadingUnit(
                             chapter,
                             safeReadingUnitIndex - 1,

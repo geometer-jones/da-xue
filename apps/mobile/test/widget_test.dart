@@ -2570,7 +2570,7 @@ void main() {
     await _dragUntilVisibleText(
       tester,
       _readingMenuScrollable(),
-      '10. 成語目錄',
+      '10. 成語',
       const Offset(0, -200),
     );
 
@@ -2579,7 +2579,7 @@ void main() {
         .position
         .pixels;
 
-    await tester.tapAt(_visibleTextCenter(tester, '10. 成語目錄'));
+    await tester.tapAt(_visibleTextCenter(tester, '10. 成語'));
     await tester.pumpAndSettle();
 
     await tester.tap(find.byType(BackButton));
@@ -2613,12 +2613,12 @@ void main() {
         ),
         returnsNormally,
       );
-      expect(() => _visibleTextRect(tester, '10. 成語目錄'), throwsStateError);
+      expect(() => _visibleTextRect(tester, '10. 成語'), throwsStateError);
 
       await tester.drag(scrollable, const Offset(0, 400));
       await tester.pumpAndSettle();
 
-      expect(() => _visibleTextRect(tester, '10. 成語目錄'), returnsNormally);
+      expect(() => _visibleTextRect(tester, '10. 成語'), returnsNormally);
 
       await tester.pumpWidget(
         MaterialApp(home: ReadingMenuPage(client: TenthWorkBackendClient())),
@@ -2630,14 +2630,14 @@ void main() {
       await _dragUntilVisibleText(
         tester,
         resetScrollable,
-        '10. 成語目錄',
+        '10. 成語',
         const Offset(0, 200),
       );
       final offsetAboveStart = tester
           .state<ScrollableState>(resetScrollable)
           .position
           .pixels;
-      expect(find.text('10. 成語目錄'), findsWidgets);
+      expect(find.text('10. 成語'), findsWidgets);
       expect((offsetAboveStart - initialOffset).abs(), greaterThan(100));
 
       await tester.pumpWidget(
@@ -2649,7 +2649,7 @@ void main() {
       await _dragUntilVisibleText(
         tester,
         forwardScrollable,
-        '10. 成語目錄',
+        '10. 成語',
         const Offset(0, -200),
       );
       final offsetAtLastBook = tester
@@ -3759,7 +3759,7 @@ void main() {
         MaterialApp(
           home: ChapterReaderPage(
             client: client,
-            bookTitle: '成語目錄',
+            bookTitle: '成語',
             bookId: 'chengyu-catalog',
             chapterId: 'chapter-001',
           ),
@@ -4657,7 +4657,7 @@ void main() {
                 );
                 return ChapterReaderPage(
                   client: client,
-                  bookTitle: '成語目錄',
+                  bookTitle: '成語',
                   bookId: 'chengyu-catalog',
                   chapterId: 'chapter-001',
                 );
@@ -5415,7 +5415,7 @@ void main() {
     await tester.tap(find.text('Enter library'));
     await tester.pumpAndSettle();
 
-    final tenthWorkLabel = find.text('10. 成語目錄');
+    final tenthWorkLabel = find.text('10. 成語');
 
     await tester.scrollUntilVisible(
       tenthWorkLabel,
@@ -5425,7 +5425,7 @@ void main() {
     await tester.pump();
 
     expect(tenthWorkLabel, findsOneWidget);
-    expect(find.text('Chengyu Catalog'), findsWidgets);
+    expect(find.text('Chengyu'), findsWidgets);
     expect(find.text('99 chengyu'), findsOneWidget);
     expect(find.text('9 chapters • 99 lines • 999 chars'), findsNothing);
   });
@@ -6067,7 +6067,7 @@ class ChengyuGuidedChatBackendClient extends RecordingGuidedChatBackendClient {
 
     return const BookDetail(
       id: 'chengyu-catalog',
-      title: '成語目錄',
+      title: '成語',
       chapterCount: 1,
       sourceUrl: 'bundled://chengyu-catalog',
       sourceProvider: 'bundled',
@@ -6907,7 +6907,7 @@ class TenthWorkBackendClient extends FakeBackendClient {
     'san-zi-jing': '三字經',
     'qian-zi-wen': '千字文',
     'sanguo-yanyi': '三國演義',
-    'chengyu-catalog': '成語目錄',
+    'chengyu-catalog': '成語',
   };
 
   @override

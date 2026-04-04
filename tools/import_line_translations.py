@@ -824,6 +824,23 @@ def parse_sanguo_english_paragraphs(session: requests.Session, order: int) -> li
     for paragraph in paragraphs:
         paragraph = re.sub(r"^([A-Z])\s+([a-z]{2,})", r"\1\2", paragraph)
         cleaned.append(clean_translation_text(paragraph))
+
+    # Remove trailing non-content paragraphs (publisher info, "The End", etc.)
+    while cleaned:
+        last = cleaned[-1].strip()
+        if not last:
+            cleaned.pop()
+            continue
+        lower = last.lower()
+        if lower == "the end" or lower.startswith("printed by"):
+            cleaned.pop()
+            continue
+        if re.fullmatch(r"[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\.?", last):
+            # Publisher names like "PRINTED BY KELLY & WALSH, LTD."
+            cleaned.pop()
+            continue
+        break
+
     return [paragraph for paragraph in cleaned if paragraph]
 
 
@@ -1659,14 +1676,17 @@ def build_sanguo_assignments(session: requests.Session) -> tuple[dict[str, str],
         order = document["chapter"]["order"]
         chapter_units = reading_units(document)
 
+        # Length-based alignment as fallback
         chapter_assignments = assign_english_paragraphs_by_length(
             chapter_units,
             parse_sanguo_english_paragraphs(session, order),
         )
-        if order <= 19:
+        # Try bilingual source for all chapters (covers chapters 1-19 on Wikisource)
+        rotk_groups = parse_rotk_translation_groups(session, order)
+        if rotk_groups:
             exact_assignments, chapter_source_texts = assign_flexible_groups(
                 chapter_units,
-                parse_rotk_translation_groups(session, order),
+                rotk_groups,
                 max_unit_span=4,
                 max_group_span=6,
             )

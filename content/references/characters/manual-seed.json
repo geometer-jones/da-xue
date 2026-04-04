@@ -609,6 +609,24 @@
         "component form from 左",
         "used in 左, 雄, 爱, 贼"
       ]
+    },
+    {
+      "character": "碫",
+      "simplified": "碫",
+      "traditional": "碫",
+      "english": [
+        "whetstone",
+        "grindstone"
+      ]
+    },
+    {
+      "character": "蘙",
+      "simplified": "蘙",
+      "traditional": "蘙",
+      "english": [
+        "dense vegetation",
+        "lush grass"
+      ]
     }
   ]
 }
