@@ -47,6 +47,8 @@ type guidedChatContext struct {
 	BookID             string `json:"bookId"`
 	ChapterID          string `json:"chapterId"`
 	ReadingUnitID      string `json:"readingUnitId,omitempty"`
+	OpenLine           string `json:"openLine,omitempty"`
+	CharacterComponent string `json:"characterComponent,omitempty"`
 	LearnerTranslation string `json:"learnerTranslation,omitempty"`
 	LearnerResponse    string `json:"learnerResponse,omitempty"`
 }
@@ -466,6 +468,8 @@ func normalizeGuidedChatContext(
 		BookID:             strings.TrimSpace(rawContext.BookID),
 		ChapterID:          strings.TrimSpace(rawContext.ChapterID),
 		ReadingUnitID:      strings.TrimSpace(rawContext.ReadingUnitID),
+		OpenLine:           strings.TrimSpace(rawContext.OpenLine),
+		CharacterComponent: strings.TrimSpace(rawContext.CharacterComponent),
 		LearnerTranslation: strings.TrimSpace(rawContext.LearnerTranslation),
 		LearnerResponse:    strings.TrimSpace(rawContext.LearnerResponse),
 	}
@@ -575,13 +579,12 @@ func buildGuidedChatMessages(
 		{
 			Role: "system",
 			Content: "You are the guided-reading loop for this mobile app. " +
-				"Help the learner stay with the current reading focus, answer concisely, and stay grounded in the provided text. " +
+				"Help the learner stay with the current reading focus, remain flexible in style and pedagogy, and stay grounded in the provided text. " +
 				"Use English by default, but quote Chinese text and pinyin when helpful. " +
-				"You may respond as a researcher, philosopher, and linguist, or blend those lenses when useful, but always start from the provided text. " +
-				"When the learner submits a translation or interpretation, evaluate it against the current line and prioritize fidelity to the text over generic encouragement. " +
+				"Try to draw inspiration from the text and relate it to what the learner is conveying. " +
+				"When the learner submits a translation or interpretation, evaluate it against the current line and prioritize fidelity to the text. " +
 				"If earlier chapter lines or the learner's own earlier translations and responses are provided, use them to keep continuity without losing the current focus. " +
-				"If the learner asks for something beyond the provided chapter context, say so plainly instead of inventing details. " +
-				"Prefer concrete observations over vague praise, and keep replies short enough to read comfortably on mobile.",
+				"If the learner asks for something beyond the provided chapter context, say so plainly instead of inventing details.",
 		},
 		{
 			Role: "user",
@@ -643,6 +646,10 @@ func buildGuidedChatContext(
 		builder.WriteString(readingUnit.ID)
 		builder.WriteString("\nChinese text: ")
 		builder.WriteString(readingUnit.Text)
+		if context.OpenLine != "" {
+			builder.WriteString("\nOpen line: ")
+			builder.WriteString(context.OpenLine)
+		}
 		if strings.TrimSpace(readingUnit.TranslationEn) != "" {
 			builder.WriteString("\nSaved English translation: ")
 			builder.WriteString(readingUnit.TranslationEn)
@@ -662,6 +669,13 @@ func buildGuidedChatContext(
 			builder.WriteString(chapter.Text)
 			builder.WriteString("\n")
 		}
+	}
+	if context.CharacterComponent != "" {
+		builder.WriteString("\nCharacter component focus: ")
+		builder.WriteString(context.CharacterComponent)
+		builder.WriteString(
+			"\nYou are helping a learner understand how the character component functions in the language.\n",
+		)
 	}
 	if len(previousLines) > 0 {
 		if readingUnit != nil {

@@ -24,10 +24,10 @@
         "order": 2,
         "source_block_chunk": 2,
         "source_block_order": 1,
-        "text": "諸侯之地三屬，先至而得天下之眾者，為衢地。入人之地深，背城邑多者，為重地。山林、險阻、沮澤，凡難行之道者，為圮地。所由入者隘，所從歸者迂，彼寡可以擊吾之眾者，為圍地。疾戰則存，不疾戰則亡者，為死地。",
+        "text": "諸侯 之 地 三 屬 ， 先 至 而 得 天下 之 衆 者 ， 為 衢 地 ；入 人 之 地 深 ， 背 城邑 多 者 ， 為重 地 ；山林 、 險阻 、 沮澤 ， 凡 難行 之 道者 ， 為 圮地 ；所 由 入 者 隘 ， 所 從 歸 者 迂 ， 彼 寡 可以 擊 吾 之 衆 者 ， 為 圍 地 ；疾戰 則 存 ， 不 疾戰 則 亡者 ， 為 死地 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Ground which forms the key to three contiguous states, so that he who occupies it first has most of the Empire at his command, is ground of intersecting highways."
+            "translation_en": "Ground which forms the key to three contiguous states, so that he who occupies it first has most of the Empire at his command, is ground of intersecting highways. When an army has penetrated into the heart of a hostile country, leaving a number of fortified cities in its rear, it is serious ground. Mountain forests, rugged steeps, marshes and fens--all country that is hard to traverse: this is difficult ground. Ground which is reached through narrow gorges, and from which we can only retire by tortuous paths, so that a small number of the enemy would suffice to crush a large body of our men: this is hemmed in ground. Ground on which we can only be saved from destruction by fighting without delay, is desperate ground."
           }
         }
       },
@@ -37,10 +37,10 @@
         "order": 3,
         "source_block_chunk": 3,
         "source_block_order": 1,
-        "text": "是故散地則無戰，輕地則無止，爭地則無攻，交地則無絕，衢地則合交，重地則掠，圮地則行，圍地則謀，死地則戰。",
+        "text": "是故 散 地 則 無 戰 ， 輕 地 則 無 止 ， 爭地 則 無 攻 ，交 地 則 無 絕 ， 衢 地 則 合 交 ，重地 則 掠 ， 圮地則行 ，圍 地 則 謀 ， 死地則戰 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "When an army has penetrated into the heart of a hostile country, leaving a number of fortified cities in its rear, it is serious ground. Mountain forests, rugged steeps, marshes and fens--all country that is hard to traverse: this is difficult ground. Ground which is reached through narrow gorges, and from which we can only retire by tortuous paths, so that a small number of the enemy would suffice to crush a large body of our men: this is hemmed in ground. Ground on which we can only be saved from destruction by fighting without delay, is desperate ground. On dispersive ground, therefore, fight not. On facile ground, halt not. On contentious ground, attack not. On open ground, do not try to block the enemy's way. On the ground of intersecting highways, join hands with your allies. On serious ground, gather in plunder. In difficult ground, keep steadily on the march. On hemmed-in ground, resort to stratagem. On desperate ground, fight."
+            "translation_en": "On dispersive ground, therefore, fight not. On facile ground, halt not. On contentious ground, attack not. On open ground, do not try to block the enemy's way. On the ground of intersecting highways, join hands with your allies. On serious ground, gather in plunder. In difficult ground, keep steadily on the march. On hemmed-in ground, resort to stratagem. On desperate ground, fight."
           }
         }
       },
@@ -50,10 +50,10 @@
         "order": 4,
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "古之所謂善用兵者，能使敵人前後不相及，眾寡不相恃，貴賤不相救，上下不相收，卒離而不集，兵合而不齊。合于利而動，不合于利而止。敢問：「敵眾整而將來，待之若何？」曰：「先奪其所愛，則聽矣；兵之情主速，乘人之不及，由不虞之道，攻其所不戒也。」",
+        "text": "所謂 古 之 善用 兵 者 ， 能 使 敵人 前後 不 相 及 ， 衆寡 不 相 恃 ， 貴賤 不 相救 ， 上下 不 相 收 ，卒 離 而 不 集 ， 兵 合 而 不 齊 。合於利而動 ， 不合 於 利 而 止 。敢 問 ︰「 敵 衆 整 而 將來 ， 待 之 若 何 ？」 曰 ：「 先 奪 其所 愛 ， 則 聽 矣 。」故 兵之情主速 ， 乘 人 之 不及 ， 由 不虞 之 道 ， 攻其所不戒 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Those who were called skilful leaders of old knew how to drive a wedge between the enemy's front and rear; to prevent co-operation between his large and small divisions; to hinder the good troops from rescuing the bad, the officers from rallying their men."
+            "translation_en": "Those who were called skilful leaders of old knew how to drive a wedge between the enemy's front and rear; to prevent co-operation between his large and small divisions; to hinder the good troops from rescuing the bad, the officers from rallying their men. When the enemy's men were united, they managed to keep them in disorder. When it was to their advantage, they made a forward move; when otherwise, they stopped still. If asked how to cope with a great host of the enemy in orderly array and on the point of marching to the attack, I should say: “Begin by seizing something which your opponent holds dear; then he will be amenable to your will.” Rapidity is the essence of war: take advantage of the enemy's unreadiness, make your way by unexpected routes, and attack unguarded spots."
           }
         }
       },
@@ -63,10 +63,10 @@
         "order": 5,
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "凡為客之道，深入則專，主人不克，掠于饒野，三軍足食，謹養而無勞，併氣積力，運兵計謀，為不可測，投之無所往，死且不北，死焉不得，士人盡力。兵士甚陷則不懼，無所往則固，深入則拘，不得已則鬥。",
+        "text": "凡 為 客 之 道 ， 深入 則 專 ， 主人 不克 。掠 于 饒 野 ， 三軍 足 食 。謹 養 而 勿 勞 ， 併氣積力 ， 運 兵 計謀 ， 為 不可 測 。投 之 無 所 往 ， 死 且 不 北 。 死 焉 不得 ， 士人 盡力 。兵士 甚 陷 則 不懼 ， 無 所 往 則 固 ， 深入 則 拘 ， 不得已則鬥 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "When the enemy's men were united, they managed to keep them in disorder. When it was to their advantage, they made a forward move; when otherwise, they stopped still. If asked how to cope with a great host of the enemy in orderly array and on the point of marching to the attack, I should say: “Begin by seizing something which your opponent holds dear; then he will be amenable to your will.” Rapidity is the essence of war: take advantage of the enemy's unreadiness, make your way by unexpected routes, and attack unguarded spots. The following are the principles to be observed by an invading force: The further you penetrate into a country, the greater will be the solidarity of your troops, and thus the defenders will not prevail against you. Make forays in fertile country in order to supply your army with food. Carefully study the well-being of your men, and do not overtax them. Concentrate your energy and hoard your strength. Keep your army continually on the move, and devise unfathomable plans. Throw your soldiers into positions whence there is no escape, and they will prefer death to flight. If they will face death, there is nothing they may not achieve. Officers and men alike will put forth their uttermost strength. Soldiers when in desperate straits lose the sense of fear. If there is no place of refuge, they will stand firm. If they are in hostile country, they will show a stubborn front. If there is no help for it, they will fight hard."
+            "translation_en": "The following are the principles to be observed by an invading force: The further you penetrate into a country, the greater will be the solidarity of your troops, and thus the defenders will not prevail against you. Make forays in fertile country in order to supply your army with food. Carefully study the well-being of your men, and do not overtax them. Concentrate your energy and hoard your strength. Keep your army continually on the move, and devise unfathomable plans. Throw your soldiers into positions whence there is no escape, and they will prefer death to flight. If they will face death, there is nothing they may not achieve. Officers and men alike will put forth their uttermost strength. Soldiers when in desperate straits lose the sense of fear. If there is no place of refuge, they will stand firm. If they are in hostile country, they will show a stubborn front. If there is no help for it, they will fight hard."
           }
         }
       },
@@ -89,10 +89,10 @@
         "order": 7,
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "故善用兵者，譬如率然；率然者，常山之蛇也，擊其首，則尾至，擊其尾，則首至，擊其中，則首尾俱至。敢問：「兵可使如率然乎？」曰：「可。」夫吳人與越人相惡也，當其同舟濟而遇風，其相救也如左右手。是故，方馬埋輪，未足恃也，齊勇若一，政之道也；",
+        "text": "故 善用 兵 者 ， 譬如 率然 。 率然 者 ， 常山 之 蛇 也 。 擊 其 首 則 尾 至 ， 擊 其 尾 則 首 至 ， 擊 其中 則 首尾 俱 至 。敢 問 ︰「 兵 可 使 如 率然 乎 ？」 曰 ︰「 可 。 夫 吳 人 與 越 人 相惡 也 ， 當 其 同舟而濟 。 遇 風 ， 其 相救 也 ， 如 左右手 。」是故 方 馬 埋輪 ， 未足恃 也 ；齊勇如一 ， 政 之 道 也 ；",
         "generated_annotation": {
           "layers": {
-            "translation_en": "The skillful tactician may be likened to the shuai-jan."
+            "translation_en": "The skillful tactician may be likened to the shuai-jan. Now the shuai-jan is a snake that is found in the Ch'ang mountains. Strike at its head, and you will be attacked by its tail; strike at its tail, and you will be attacked by its head; strike at its middle, and you will be attacked by head and tail both. Asked if an army can be made to imitate the shuai-jan, I should answer, Yes. For the men of Wu and the men of Yueh are enemies; yet if they are crossing a river in the same boat and are caught by a storm, they will come to each other's assistance just as the left hand helps the right. Hence it is not enough to put one's trust in the tethering of horses, and the burying of chariot wheels in the ground. The principle on which to manage an army is to set up one standard of courage which all must reach."
           }
         }
       },
@@ -102,10 +102,10 @@
         "order": 8,
         "source_block_chunk": 2,
         "source_block_order": 4,
-        "text": "剛柔皆得，地之理也。故善用兵者，攜手若使一人，不得已也。",
+        "text": "剛柔皆得 ， 地 之 理 也 。故 善用 兵 者 ， 攜手 若 使 一 人 ， 不得已 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Now the shuai-jan is a snake that is found in the Ch'ang mountains. Strike at its head, and you will be attacked by its tail; strike at its tail, and you will be attacked by its head; strike at its middle, and you will be attacked by head and tail both. Asked if an army can be made to imitate the shuai-jan, I should answer, Yes. For the men of Wu and the men of Yueh are enemies; yet if they are crossing a river in the same boat and are caught by a storm, they will come to each other's assistance just as the left hand helps the right. Hence it is not enough to put one's trust in the tethering of horses, and the burying of chariot wheels in the ground. The principle on which to manage an army is to set up one standard of courage which all must reach. How to make the best of both strong and weak — that is a question involving the proper use of ground. Thus the skillful general conducts his army just as though he were leading a single man, willy-nilly, by the hand."
+            "translation_en": "How to make the best of both strong and weak — that is a question involving the proper use of ground. Thus the skillful general conducts his army just as though he were leading a single man, willy-nilly, by the hand."
           }
         }
       },
@@ -115,10 +115,10 @@
         "order": 9,
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "將軍之事，靜以幽，正以治，能愚士卒之耳目，使之無知。易其事，革其謀，使人無識，易其居，迂其途，使人不得慮。帥與之期，如登高而去其梯，帥與之深，入諸侯之地而發其機。若驅群羊，驅而往，驅而來，莫知所之。聚三軍之眾，投之于險，此將軍之事也。",
+        "text": "將軍 之 事 ， 靜 以 幽 ， 正 以 治 。能 愚 士卒 之 耳目 ， 使 之 無知 ；易 其事 ， 革 其 謀 ， 使 人 無識 ； 易 其 居 ， 迂 其 途 ， 使 人 不得 慮 。帥 與 之 期 ， 如 登高 而 去 其 梯 ； 帥 與 之 深入 諸侯 之 地 ， 而 發 其 機 ，焚舟破釜 ， 若 驅 群羊 。 驅 而 往 ， 驅 而 來 ， 莫 知 所 之 。聚 三軍 之 衆 ， 投 之 於 險 ， 此 謂 將軍 之 事 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "It is the business of a general to be quiet and thus ensure secrecy; upright and just, and thus maintain order."
+            "translation_en": "It is the business of a general to be quiet and thus ensure secrecy; upright and just, and thus maintain order. He must be able to mystify his officers and men by false reports and appearances, and thus keep them in total ignorance. By altering his arrangements and changing his plans, he keeps the enemy without definite knowledge. By shifting his camp and taking circuitous routes, he prevents the enemy from anticipating his purpose. At the critical moment, the leader of an army acts like one who has climbed up a height and then kicks away the ladder behind him. He carries his men deep into hostile territory before he shows his hand. He burns his boats and breaks his cooking-pots; like a shepherd driving a flock of sheep, he drives his men this way and that, and nothing knows whither he is going. To muster his host and bring it into danger: — this may be termed the business of the general."
           }
         }
       },
@@ -128,10 +128,10 @@
         "order": 10,
         "source_block_chunk": 2,
         "source_block_order": 5,
-        "text": "九地之變，屈伸之利，人情之理，不可不察也。",
+        "text": "九地 之 變 ， 屈伸之利 ， 人情之理 ， 不可不察 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "He must be able to mystify his officers and men by false reports and appearances, and thus keep them in total ignorance. By altering his arrangements and changing his plans, he keeps the enemy without definite knowledge. By shifting his camp and taking circuitous routes, he prevents the enemy from anticipating his purpose. At the critical moment, the leader of an army acts like one who has climbed up a height and then kicks away the ladder behind him. He carries his men deep into hostile territory before he shows his hand. He burns his boats and breaks his cooking-pots; like a shepherd driving a flock of sheep, he drives his men this way and that, and nothing knows whither he is going. To muster his host and bring it into danger: — this may be termed the business of the general. The different measures suited to the nine varieties of ground; the expediency of aggressive or defensive tactics; and the fundamental laws of human nature: these are things that must most certainly be studied."
+            "translation_en": "The different measures suited to the nine varieties of ground; the expediency of aggressive or defensive tactics; and the fundamental laws of human nature: these are things that must most certainly be studied."
           }
         }
       },
@@ -167,10 +167,10 @@
         "order": 13,
         "source_block_chunk": 1,
         "source_block_order": 7,
-        "text": "是故不知諸侯之謀者，不能預交，不知山林險阻沮澤之形者，不能行軍，不用鄉導者，不能得地利，此三者不知一，非霸王之兵也。夫霸王之兵，伐大國則其眾不得聚，威加于敵，則其交不得合。",
+        "text": "是故 不知 諸侯 之 謀 者 ， 不能 豫交 ； 不知 山林 、 險阻 、 沮澤 之 形 者 ， 不能 行軍 ； 不用 鄉導 者 ， 不能 得 地利 。四 五者 ， 不知 一 ， 非 霸王 之 兵 也 。夫 霸王 之 兵 ， 伐大國 ， 則 其 衆 不得 聚 ； 威加於敵 ， 則 其 交 不得 合 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "We cannot enter into alliance with neighboring princes until we are acquainted with their designs."
+            "translation_en": "We cannot enter into alliance with neighboring princes until we are acquainted with their designs. We are not fit to lead an army on the march unless we are familiar with the face of the country--its mountains and forests, its pitfalls and precipices, its marshes and swamps. We shall be unable to turn natural advantages to account unless we make use of local guides. To be ignorant of any one of the following four or five principles does not befit a warlike prince. When a warlike prince attacks a powerful state, his generalship shows itself in preventing the concentration of the enemy's forces. He overawes his opponents, and their allies are prevented from joining against him."
           }
         }
       },
@@ -180,10 +180,10 @@
         "order": 14,
         "source_block_chunk": 2,
         "source_block_order": 7,
-        "text": "是故不爭天下之交，不養天下之權，信己之私，威加于敵，故其城可拔，其國可墮。施無法之賞，懸無政之令，犯三軍之眾，若使一人。犯之以事，勿告以言；犯之以利，勿告以害；投之亡地然後存，陷之死地然後生。",
+        "text": "是故 不爭 天下 之 交 ， 不 養 天下 之 權 ， 信 己 之 私 ， 威加於敵 ， 則 其 城 可 拔 ， 其 國 可 隳 。施 無法 之 賞 ， 懸 無 政 之 令 。 犯 三軍 之 衆 ， 若 使 一 人 。犯 之 以 事 ， 勿 告 以 言 ； 犯 之 以 利 ， 勿 告 以 害 。投 之 亡 地 然後 存 ， 陷 之 死地 然後 生 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "We are not fit to lead an army on the march unless we are familiar with the face of the country--its mountains and forests, its pitfalls and precipices, its marshes and swamps. We shall be unable to turn natural advantages to account unless we make use of local guides. To be ignorant of any one of the following four or five principles does not befit a warlike prince. When a warlike prince attacks a powerful state, his generalship shows itself in preventing the concentration of the enemy's forces. He overawes his opponents, and their allies are prevented from joining against him. Hence he does not strive to ally himself with all and sundry, nor does he foster the power of other states. He carries out his own secret designs, keeping his antagonists in awe. Thus he is able to capture their cities and overthrow their kingdoms. Bestow rewards without regard to rule, issue orders without regard to previous arrangements; and you will be able to handle a whole army as though you had to do with but a single man. Confront your soldiers with the deed itself; never let them know your design. When the outlook is bright, bring it before their eyes; but tell them nothing when the situation is gloomy. Place your army in deadly peril, and it will survive; plunge it into desperate straits, and it will come off in safety."
+            "translation_en": "Hence he does not strive to ally himself with all and sundry, nor does he foster the power of other states. He carries out his own secret designs, keeping his antagonists in awe. Thus he is able to capture their cities and overthrow their kingdoms. Bestow rewards without regard to rule, issue orders without regard to previous arrangements; and you will be able to handle a whole army as though you had to do with but a single man. Confront your soldiers with the deed itself; never let them know your design. When the outlook is bright, bring it before their eyes; but tell them nothing when the situation is gloomy. Place your army in deadly peril, and it will survive; plunge it into desperate straits, and it will come off in safety."
           }
         }
       },
@@ -193,10 +193,10 @@
         "order": 15,
         "source_block_chunk": 3,
         "source_block_order": 7,
-        "text": "夫眾陷于害，然後能為勝敗，故為兵之事，在于順詳敵之意，併力一向，千里殺將，是謂巧能成事。",
+        "text": "夫 衆 陷於 害 ， 然後 能 為 勝敗 。故 為兵 之 事 ， 在於 佯 順 敵 之 意 ，併 敵 一向 ， 千里 殺 將 ，是 謂 巧 能 成事 者 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "For it is precisely when a force has fallen into harm's way that is capable of striking a blow for victory."
+            "translation_en": "For it is precisely when a force has fallen into harm's way that is capable of striking a blow for victory. Success in warfare is gained by carefully accommodating ourselves to the enemy's purpose. By persistently hanging on the enemy's flank, we shall succeed in the long run in killing the commander-in-chief. This is called ability to accomplish a thing by sheer cunning."
           }
         }
       },
@@ -206,10 +206,10 @@
         "order": 16,
         "source_block_chunk": 1,
         "source_block_order": 8,
-        "text": "是故政舉之日，夷關折符，無通其使，厲于廊廟之上，以誅其事，敵人開闔，必亟入之。先其所愛，微與之期，賤墨隨敵，以決戰爭。是故始如處女，敵人開戶，後如脫兔，敵不及拒。",
+        "text": "是故 政 舉 之 日 ， 夷 關 折 符 ， 無 通 其 使 ；厲 於 廊廟 之上 ， 以 誅 其事 。敵人 開闔 ， 必 亟 入 之 ，先 其所 愛 ， 微 與 之 期 ，踐 墨 隨 敵 ， 以 決戰 事 。是故 始 如 處女 ， 敵人開戶 ； 後 如 脫 兔 ， 敵 不及 拒 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Success in warfare is gained by carefully accommodating ourselves to the enemy's purpose. By persistently hanging on the enemy's flank, we shall succeed in the long run in killing the commander-in-chief. This is called ability to accomplish a thing by sheer cunning. On the day that you take up your command, block the frontier passes, destroy the official tallies, and stop the passage of all emissaries. Be stern in the council-chamber, so that you may control the situation. If the enemy leaves a door open, you must rush in. Forestall your opponent by seizing what he holds dear, and subtly contrive to time his arrival on the ground. Walk in the path defined by rule, and accommodate yourself to the enemy until you can fight a decisive battle. At first, then, exhibit the coyness of a maiden, until the enemy gives you an opening; afterwards emulate the rapidity of a running hare, and it will be too late for the enemy to oppose you."
+            "translation_en": "On the day that you take up your command, block the frontier passes, destroy the official tallies, and stop the passage of all emissaries. Be stern in the council-chamber, so that you may control the situation. If the enemy leaves a door open, you must rush in. Forestall your opponent by seizing what he holds dear, and subtly contrive to time his arrival on the ground. Walk in the path defined by rule, and accommodate yourself to the enemy until you can fight a decisive battle. At first, then, exhibit the coyness of a maiden, until the enemy gives you an opening; afterwards emulate the rapidity of a running hare, and it will be too late for the enemy to oppose you."
           }
         }
       }

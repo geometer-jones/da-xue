@@ -43,4 +43,28 @@ void main() {
       expect(progress, isNull);
     },
   );
+
+  test('shared preferences reading progress store clears on empty chapter id', () async {
+    final store = SharedPreferencesReadingProgressStore.instance;
+
+    await store.saveBookProgress(
+      bookId: 'da-xue',
+      progress: const BookReadingProgress(
+        chapterId: 'chapter-003',
+        readingUnitIndex: 7,
+      ),
+    );
+
+    await store.saveBookProgress(
+      bookId: 'da-xue',
+      progress: const BookReadingProgress(
+        chapterId: '',
+        readingUnitIndex: 0,
+      ),
+    );
+
+    final progress = await store.loadBookProgress(bookId: 'da-xue');
+
+    expect(progress, isNull);
+  });
 }

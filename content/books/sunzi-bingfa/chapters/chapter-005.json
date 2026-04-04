@@ -11,10 +11,10 @@
         "order": 1,
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "孫子曰：凡治眾如治寡，分數是也。鬥眾如鬥寡，形名是也。三軍之眾，可使必受敵而無敗者，奇正是也。兵之所加，如以碬投卵者，虛實是也。",
+        "text": "孫子 曰 ： 凡 治 衆 如 治 寡 ， 分數 是 也 ；鬥 衆 如 鬥 寡 ， 形 名 是 也 ；三軍 之 衆 ， 可 使 必 受 敵 而 無 敗 者 ， 奇 正是 也 ；兵 之 所 加 ， 如 以碫投卵 者 ， 虛實 是 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Sun Tzŭ said: The control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers."
+            "translation_en": "Sun Tzŭ said: The control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers. Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals. To ensure that your whole host may withstand the brunt of the enemy's attack and remain unshaken — this is effected by manœuvres direct and indirect. That the impact of your army may be like a grindstone dashed against an egg — this is effected by the science of weak points and strong."
           }
         }
       },
@@ -24,10 +24,10 @@
         "order": 2,
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "凡戰者，以正合，以奇勝。故善出奇者，無窮如天地，不竭如江河，終而復始，日月是也；死而復生，四時是也。聲不過五，五聲之變，不可勝聽也。色不過五，五色之變，不可勝觀也。味不過五，五味之變，不可勝嘗也。戰勢不過奇正，奇正之變，不可勝窮也。",
+        "text": "凡 戰 者 ， 以 正 合 ， 以 奇 勝 。故 善 出奇 者 ， 無窮如天地 ， 不竭如江海 。 終而復始 ， 日月 是 也 。 死而復生 ， 四時 是 也 。聲 不過 五 ， 五聲 之 變 ， 不可 勝 聽 也 ；色 不過 五 ， 五色 之 變 ， 不可 勝 觀 也 ；味 不過 五 ， 五味 之 變 ， 不可 勝 嘗 也 ；戰 勢 不過 奇 正 ， 奇 正 之 變 ， 不可 勝 窮 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals. To ensure that your whole host may withstand the brunt of the enemy's attack and remain unshaken — this is effected by manœuvres direct and indirect. That the impact of your army may be like a grindstone dashed against an egg — this is effected by the science of weak points and strong. In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory. Indirect tactics, efficiently applied, are inexhaustible as Heaven and Earth, unending as the flow of rivers and streams; like the sun and moon, they end but to begin anew; like the four seasons, they pass away to return once more. There are not more than five musical notes, yet the combinations of these five give rise to more melodies than can ever be heard. There are not more than five primary colours, yet in combination they produce more hues than can ever be seen. There are not more than five cardinal tastes, yet combinations of them yield more flavors than can ever be tasted. In battle, there are not more than two methods of attack — the direct and the indirect; yet these two in combination give rise to an endless series of manœuvres."
+            "translation_en": "In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory. Indirect tactics, efficiently applied, are inexhaustible as Heaven and Earth, unending as the flow of rivers and streams; like the sun and moon, they end but to begin anew; like the four seasons, they pass away to return once more. There are not more than five musical notes, yet the combinations of these five give rise to more melodies than can ever be heard. There are not more than five primary colours, yet in combination they produce more hues than can ever be seen. There are not more than five cardinal tastes, yet combinations of them yield more flavors than can ever be tasted. In battle, there are not more than two methods of attack — the direct and the indirect; yet these two in combination give rise to an endless series of manœuvres."
           }
         }
       },
@@ -50,10 +50,10 @@
         "order": 4,
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "激水之疾，至于漂石者，勢也。鷙鳥之擊，至于毀折者，節也。是故善戰者，其勢險，其節短，勢如張弩，節如機發。",
+        "text": "激水之疾 ， 至於 漂 石 者 ， 勢 也 ；鷙鳥之疾 ， 至於 毀 折 者 ， 節 也 。故 善 戰 者 ， 其 勢 險 ， 其 節 短 。勢如彍弩 ， 節 如 發 機 。紛紛紜紜 ， 鬥亂 而 不可 亂 也 ； 渾渾沌沌 ， 形 圓 而 不可 敗 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "The onset of troops is like the rush of a torrent which will even roll stones along in its course."
+            "translation_en": "The onset of troops is like the rush of a torrent which will even roll stones along in its course. The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim. Therefore the good fighter will be terrible in his onset, and prompt in his decision. Energy may be likened to the bending of a crossbow; decision, to the releasing of a trigger. Amid the turmoil and tumult of battle, there may be seeming disorder and yet no real disorder at all; amid confusion and chaos, your array may be without head or tail, yet it will be proof against defeat."
           }
         }
       },
@@ -63,10 +63,10 @@
         "order": 5,
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "紛紛紜紜，鬥亂，而不可亂也。渾渾沌沌，形圓，而不可敗也。亂生于治，怯生于勇，弱生于強。治亂，數也。勇怯，勢也。強弱，形也。故善動敵者，形之，敵必從之；予之，敵必取之；以利動之，以實待之。",
+        "text": "亂 生 於 治 ， 怯生 於 勇 ， 弱 生 於 強 。治亂 ， 數 也 ； 勇 怯 ， 勢 也 ； 強弱 ， 形 也 。故 善 動 敵 者 ， 形 之 ， 敵 必 從 之 ； 予 之 ， 敵 必 取 之 。以利動 之 ， 以 實 待 之 。故 善 戰 者 ， 求 之 於 勢 ， 不 責 於 人 ， 故 能 擇 人 而 任 勢 。任 勢 者 ， 其 戰 人 也 ， 如 轉 木 石 。 木 石 之 性 ， 安 則 靜 ， 危 則 動 ， 方 則 止 ， 圓 則 行 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim. Therefore the good fighter will be terrible in his onset, and prompt in his decision. Energy may be likened to the bending of a crossbow; decision, to the releasing of a trigger. Amid the turmoil and tumult of battle, there may be seeming disorder and yet no real disorder at all; amid confusion and chaos, your array may be without head or tail, yet it will be proof against defeat. Simulated disorder postulates perfect discipline, simulated fear postulates courage; simulated weakness postulates strength. Hiding order beneath the cloak of disorder is simply a question of subdivision; concealing courage under a show of timidity presupposes a fund of latent energy; masking strength with weakness is to be effected by tactical dispositions. Thus one who is skilful at keeping the enemy on the move maintains deceitful appearances, according to which the enemy will act. He sacrifices something, that the enemy may snatch at it. By holding out baits, he keeps him on the march; then with a body of picked men he lies in wait for him."
+            "translation_en": "Simulated disorder postulates perfect discipline, simulated fear postulates courage; simulated weakness postulates strength. Hiding order beneath the cloak of disorder is simply a question of subdivision; concealing courage under a show of timidity presupposes a fund of latent energy; masking strength with weakness is to be effected by tactical dispositions. Thus one who is skilful at keeping the enemy on the move maintains deceitful appearances, according to which the enemy will act. He sacrifices something, that the enemy may snatch at it. By holding out baits, he keeps him on the march; then with a body of picked men he lies in wait for him. The clever combatant looks to the effect of combined energy, and does not require too much from individuals. Hence his ability to pick out the right men and utilize combined energy. When he utilizes combined energy, his fighting men become as it were like unto rolling logs or stones. For it is the nature of a log or stone to remain motionless on level ground, and to move when on a slope; if four-cornered, to come to a standstill, but if round-shaped, to go rolling down."
           }
         }
       },
@@ -76,10 +76,10 @@
         "order": 6,
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "故善戰者，求之于勢，不責于人，故能擇人任勢；任勢者，其戰人也，如轉木石，木石之性，安則靜，危則動，方則止，圓則行。故善戰人之勢，如轉圓石于千仞之山者，勢也。",
+        "text": "故 善 戰 人 之 勢 ， 如 轉 圓 石 於 千仞 之 山 者 ， 勢 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "The clever combatant looks to the effect of combined energy, and does not require too much from individuals."
+            "translation_en": "Thus the energy developed by good fighting men is as the momentum of a round stone rolled down a mountain thousands of feet in height. So much on the subject of energy."
           }
         }
       }

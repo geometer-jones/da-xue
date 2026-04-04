@@ -15,6 +15,8 @@ abstract class BackendClient {
     required String chapterId,
     String? readingUnitId,
     required List<GuidedConversationMessage> messages,
+    String openLine = '',
+    String characterComponent = '',
     String learnerTranslation = '',
     String learnerResponse = '',
     List<GuidedChatPreviousLine> previousLines = const [],
@@ -163,16 +165,26 @@ class HttpBackendClient implements BackendClient {
     required String chapterId,
     String? readingUnitId,
     required List<GuidedConversationMessage> messages,
+    String openLine = '',
+    String characterComponent = '',
     String learnerTranslation = '',
     String learnerResponse = '',
     List<GuidedChatPreviousLine> previousLines = const [],
   }) async {
     final trimmedReadingUnitId = readingUnitId?.trim() ?? '';
+    final trimmedOpenLine = openLine.trim();
+    final trimmedCharacterComponent = characterComponent.trim();
     final trimmedLearnerTranslation = learnerTranslation.trim();
     final trimmedLearnerResponse = learnerResponse.trim();
     final context = <String, dynamic>{'bookId': bookId, 'chapterId': chapterId};
     if (trimmedReadingUnitId.isNotEmpty) {
       context['readingUnitId'] = trimmedReadingUnitId;
+    }
+    if (trimmedOpenLine.isNotEmpty) {
+      context['openLine'] = trimmedOpenLine;
+    }
+    if (trimmedCharacterComponent.isNotEmpty) {
+      context['characterComponent'] = trimmedCharacterComponent;
     }
     if (trimmedLearnerTranslation.isNotEmpty) {
       context['learnerTranslation'] = trimmedLearnerTranslation;

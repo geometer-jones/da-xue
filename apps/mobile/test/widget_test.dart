@@ -374,7 +374,7 @@ void main() {
       findsOneWidget,
     );
     expect(find.text('Home'), findsOneWidget);
-    expect(find.text('Readings'), findsOneWidget);
+    expect(find.text('Reading list'), findsOneWidget);
     expect(find.text('Flashcards'), findsNWidgets(2));
     expect(find.text('Settings'), findsOneWidget);
 
@@ -388,7 +388,7 @@ void main() {
     );
     await tester.pumpAndSettle();
 
-    expect(find.text('Readings'), findsWidgets);
+    expect(find.text('Reading list'), findsWidgets);
     expect(find.text('1. Demo Book'), findsOneWidget);
     expect(find.text('1 chapter • 2 lines • 10 chars'), findsOneWidget);
     expect(find.text('1. Chapter One'), findsNothing);
@@ -707,6 +707,73 @@ void main() {
     );
   });
 
+  testWidgets('does not reopen a chapter when all chapters are closed', (
+    WidgetTester tester,
+  ) async {
+    final readingProgressStore = MemoryReadingProgressStore();
+
+    await tester.pumpWidget(
+      MaterialApp(
+        home: ReadingMenuPage(
+          client: MultiChapterLineBackendClient(chapterCount: 8),
+          readingProgressStore: readingProgressStore,
+        ),
+      ),
+    );
+    await tester.pumpAndSettle();
+
+    await tester.scrollUntilVisible(
+      find.text('1. Demo Book'),
+      200,
+      scrollable: _readingMenuScrollable(),
+    );
+    await tester.pumpAndSettle();
+
+    await tester.tap(find.text('1. Demo Book'));
+    await tester.pumpAndSettle();
+
+    await tester.scrollUntilVisible(
+      find.text('6. Chapter 6'),
+      200,
+      scrollable: _bookChaptersScrollable(),
+    );
+    await tester.pumpAndSettle();
+
+    final chapterTile = find.ancestor(
+      of: find.text('6. Chapter 6'),
+      matching: find.byType(ListTile),
+    );
+    await tester.tap(chapterTile);
+    await tester.pumpAndSettle();
+
+    await tester.tap(
+      find.byKey(const ValueKey('line-number-jump-next-button')),
+    );
+    await tester.pumpAndSettle();
+
+    expect(find.text('Translation for chapter 6, line 2.'), findsNWidgets(2));
+
+    await tester.tap(chapterTile);
+    await tester.pumpAndSettle();
+
+    expect(
+      find.byKey(const ValueKey('line-number-jump-field')),
+      findsNothing,
+    );
+
+    await tester.pageBack();
+    await tester.pumpAndSettle();
+
+    await tester.tap(find.text('1. Demo Book'));
+    await tester.pumpAndSettle();
+
+    expect(find.text('Translation for chapter 6, line 2.'), findsNothing);
+    expect(
+      find.byKey(const ValueKey('line-number-jump-field')),
+      findsNothing,
+    );
+  });
+
   testWidgets(
     'reopens the components reference at the saved chapter and line',
     (WidgetTester tester) async {
@@ -723,7 +790,7 @@ void main() {
       );
       await tester.pumpAndSettle();
 
-      await tester.tap(find.text('0. 參考：漢字部件').first);
+      await tester.tap(find.text('0. 漢字部件').first);
       await tester.pumpAndSettle();
 
       await tester.scrollUntilVisible(
@@ -762,7 +829,7 @@ void main() {
       await tester.pageBack();
       await tester.pumpAndSettle();
 
-      await tester.tap(find.text('0. 參考：漢字部件').first);
+      await tester.tap(find.text('0. 漢字部件').first);
       await tester.pumpAndSettle();
 
       expect(
@@ -1286,10 +1353,10 @@ void main() {
 
       expect(tester.widget<MaterialApp>(appFinder).themeMode, ThemeMode.system);
 
-      await tester.tap(find.text('Readings'));
+      await tester.tap(find.text('Reading list'));
       await tester.pumpAndSettle();
 
-      expect(find.text('Readings'), findsWidgets);
+      expect(find.text('Reading list'), findsWidgets);
       expect(find.text('Choose a reading from the library.'), findsNothing);
       expect(
         find.text(
@@ -2190,6 +2257,7 @@ void main() {
     );
     await tester.pumpAndSettle();
 
+    expect(find.text('Start here!'), findsOneWidget);
     expect(find.text('1. 大學之道'), findsOneWidget);
     expect(find.text('The Way of Great Learning'), findsOneWidget);
     expect(find.text('1 line • 16 chars'), findsOneWidget);
@@ -2538,7 +2606,13 @@ void main() {
           .position
           .pixels;
 
-      expect(() => _visibleTextRect(tester, '0. 參考：漢字部件'), returnsNormally);
+      expect(
+        () => _visibleTextRect(
+          tester,
+          '1. 四書章句集注 : 大學章句',
+        ),
+        returnsNormally,
+      );
       expect(() => _visibleTextRect(tester, '10. 成語目錄'), throwsStateError);
 
       await tester.drag(scrollable, const Offset(0, 400));
@@ -2602,13 +2676,13 @@ void main() {
     await tester.tap(find.text('Enter library'));
     await tester.pumpAndSettle();
 
-    expect(find.text('0. 參考：漢字部件'), findsWidgets);
+    expect(find.text('0. 漢字部件'), findsWidgets);
 
-    await tester.tap(find.text('0. 參考：漢字部件').first);
+    await tester.tap(find.text('0. 漢字部件').first);
     await tester.pumpAndSettle();
 
-    expect(find.text('參考：漢字部件'), findsOneWidget);
-    expect(find.text('Reference: Character components'), findsOneWidget);
+    expect(find.text('漢字部件'), findsOneWidget);
+    expect(find.text('Hanzi character components'), findsOneWidget);
     expect(find.text('Characters'), findsNothing);
     expect(find.text('Components'), findsNothing);
     expect(find.text('Modern Common Character Components'), findsNothing);
@@ -2744,7 +2818,7 @@ void main() {
     );
     await tester.pumpAndSettle();
 
-    expect(find.text('0. 參考：漢字部件'), findsWidgets);
+    expect(find.text('0. 漢字部件'), findsWidgets);
     expect(find.text('1. Demo Book'), findsWidgets);
   });
 
@@ -2893,7 +2967,7 @@ void main() {
       await tester.tap(find.text('Enter library'));
       await tester.pumpAndSettle();
 
-      await tester.tap(find.text('0. 參考：漢字部件').first);
+      await tester.tap(find.text('0. 漢字部件').first);
       await tester.pumpAndSettle();
 
       await tester.tap(find.text('Chapter 1: 1-2'));
@@ -5816,6 +5890,8 @@ class FakeBackendClient implements BackendClient {
     required String chapterId,
     String? readingUnitId,
     required List<GuidedConversationMessage> messages,
+    String openLine = '',
+    String characterComponent = '',
     String learnerTranslation = '',
     String learnerResponse = '',
     List<GuidedChatPreviousLine> previousLines = const [],
@@ -5936,6 +6012,8 @@ class RecordingGuidedChatBackendClient extends FakeBackendClient {
   String? lastBookId;
   String? lastChapterId;
   String? lastReadingUnitId;
+  String? lastOpenLine;
+  String? lastCharacterComponent;
   String? lastLearnerTranslation;
   String? lastLearnerResponse;
   List<GuidedConversationMessage>? lastMessages;
@@ -5948,6 +6026,8 @@ class RecordingGuidedChatBackendClient extends FakeBackendClient {
     required String chapterId,
     String? readingUnitId,
     required List<GuidedConversationMessage> messages,
+    String openLine = '',
+    String characterComponent = '',
     String learnerTranslation = '',
     String learnerResponse = '',
     List<GuidedChatPreviousLine> previousLines = const [],
@@ -5955,6 +6035,8 @@ class RecordingGuidedChatBackendClient extends FakeBackendClient {
     lastBookId = bookId;
     lastChapterId = chapterId;
     lastReadingUnitId = readingUnitId;
+    lastOpenLine = openLine;
+    lastCharacterComponent = characterComponent;
     lastLearnerTranslation = learnerTranslation;
     lastLearnerResponse = learnerResponse;
     lastMessages = List<GuidedConversationMessage>.from(messages);
@@ -6043,6 +6125,8 @@ class ChengyuGuidedChatBackendClient extends RecordingGuidedChatBackendClient {
     required String chapterId,
     String? readingUnitId,
     required List<GuidedConversationMessage> messages,
+    String openLine = '',
+    String characterComponent = '',
     String learnerTranslation = '',
     String learnerResponse = '',
     List<GuidedChatPreviousLine> previousLines = const [],
@@ -6052,6 +6136,8 @@ class ChengyuGuidedChatBackendClient extends RecordingGuidedChatBackendClient {
       chapterId: chapterId,
       readingUnitId: readingUnitId,
       messages: messages,
+      openLine: openLine,
+      characterComponent: characterComponent,
       learnerTranslation: learnerTranslation,
       learnerResponse: learnerResponse,
       previousLines: previousLines,
@@ -6081,6 +6167,8 @@ class DelayedGuidedChatBackendClient extends RecordingGuidedChatBackendClient {
     required String chapterId,
     String? readingUnitId,
     required List<GuidedConversationMessage> messages,
+    String openLine = '',
+    String characterComponent = '',
     String learnerTranslation = '',
     String learnerResponse = '',
     List<GuidedChatPreviousLine> previousLines = const [],
@@ -6090,6 +6178,8 @@ class DelayedGuidedChatBackendClient extends RecordingGuidedChatBackendClient {
       chapterId: chapterId,
       readingUnitId: readingUnitId,
       messages: messages,
+      openLine: openLine,
+      characterComponent: characterComponent,
       learnerTranslation: learnerTranslation,
       learnerResponse: learnerResponse,
       previousLines: previousLines,
@@ -6111,6 +6201,8 @@ class LongReplyGuidedChatBackendClient
     required String chapterId,
     String? readingUnitId,
     required List<GuidedConversationMessage> messages,
+    String openLine = '',
+    String characterComponent = '',
     String learnerTranslation = '',
     String learnerResponse = '',
     List<GuidedChatPreviousLine> previousLines = const [],
@@ -6118,6 +6210,8 @@ class LongReplyGuidedChatBackendClient
     lastBookId = bookId;
     lastChapterId = chapterId;
     lastReadingUnitId = readingUnitId;
+    lastOpenLine = openLine;
+    lastCharacterComponent = characterComponent;
     lastLearnerTranslation = learnerTranslation;
     lastLearnerResponse = learnerResponse;
     lastMessages = List<GuidedConversationMessage>.from(messages);
@@ -6293,6 +6387,8 @@ class RecordingTranslationFeedbackBackendClient extends FakeBackendClient {
     required String chapterId,
     String? readingUnitId,
     required List<GuidedConversationMessage> messages,
+    String openLine = '',
+    String characterComponent = '',
     String learnerTranslation = '',
     String learnerResponse = '',
     List<GuidedChatPreviousLine> previousLines = const [],
@@ -6331,6 +6427,8 @@ class FailingTranslationFeedbackBackendClient extends FakeBackendClient {
     required String chapterId,
     String? readingUnitId,
     required List<GuidedConversationMessage> messages,
+    String openLine = '',
+    String characterComponent = '',
     String learnerTranslation = '',
     String learnerResponse = '',
     List<GuidedChatPreviousLine> previousLines = const [],
@@ -6627,6 +6725,8 @@ class ChineseGuidedChatBackendClient extends ChineseTitleBackendClient {
     required String chapterId,
     String? readingUnitId,
     required List<GuidedConversationMessage> messages,
+    String openLine = '',
+    String characterComponent = '',
     String learnerTranslation = '',
     String learnerResponse = '',
     List<GuidedChatPreviousLine> previousLines = const [],
@@ -6649,6 +6749,8 @@ class ChineseFeedbackBackendClient extends ChineseTitleBackendClient {
     required String chapterId,
     String? readingUnitId,
     required List<GuidedConversationMessage> messages,
+    String openLine = '',
+    String characterComponent = '',
     String learnerTranslation = '',
     String learnerResponse = '',
     List<GuidedChatPreviousLine> previousLines = const [],

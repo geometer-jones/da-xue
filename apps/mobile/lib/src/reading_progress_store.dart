@@ -83,6 +83,7 @@ class SharedPreferencesReadingProgressStore implements ReadingProgressStore {
     required BookReadingProgress progress,
   }) async {
     if (progress.chapterId.trim().isEmpty) {
+      await removeStoredString(_bookKey(bookId));
       return;
     }
 
@@ -109,6 +110,7 @@ class MemoryReadingProgressStore implements ReadingProgressStore {
     required BookReadingProgress progress,
   }) async {
     if (progress.chapterId.trim().isEmpty) {
+      _progressByBookId.remove(bookId);
       return;
     }
 

@@ -536,6 +536,113 @@ def parse_sunzi_groups(session: requests.Session, url: str) -> list[tuple[str, s
     return groups
 
 
+def parse_sunzi_chapter_groups(session: requests.Session, url: str) -> list[list[tuple[str, str]]]:
+    """Parse Sunzi groups, returning a list of per-chapter group lists."""
+    lines = extract_corpus_br_lines(session, url)
+    chapters: list[list[tuple[str, str]]] = []
+    current_zh: list[str] = []
+    current_en: list[str] = []
+
+    def finalize() -> None:
+        nonlocal current_zh, current_en
+        zh = "".join(current_zh).strip()
+        en = clean_ws(" ".join(current_en))
+        if canonical_zh(zh) and en:
+            if not chapters:
+                chapters.append([])
+            chapters[-1].append((zh, en))
+        current_zh = []
+        current_en = []
+
+    for raw_line in lines:
+        line = clean_ws(raw_line)
+        collapsed = line.replace(" ", "")
+        if not line:
+            continue
+
+        if collapsed.startswith("作者："):
+            continue
+
+        if re.fullmatch(r".*第[一二三四五六七八九十百]+", collapsed):
+            if current_en:
+                finalize()
+            chapters.append([])
+            continue
+        if line.startswith("Section "):
+            continue
+        if re.search(r"[A-Za-z]{2,}", line):
+            if current_zh:
+                current_en.append(line)
+            continue
+        if looks_cjk(line):
+            if current_en:
+                finalize()
+            current_zh = [line]
+
+    if current_en:
+        finalize()
+
+    # Remove empty leading chapter if any (from text before first header)
+    if chapters and not chapters[0]:
+        chapters.pop(0)
+
+    return chapters
+
+
+def assign_units_by_containment(
+    units: list[dict],
+    groups: list[tuple[str, str]],
+) -> tuple[dict[str, str], dict[str, str]]:
+    """Assign translations to reading units using character-level containment.
+
+    Works by concatenating all groups' canonical text into a single string, then
+    for each reading unit, finding which groups' canonical characters are
+    contained within the unit's canonical text range.  Merges those groups' English.
+    """
+    if not units or not groups:
+        return {}, {}
+    group_canonical = [canonical_zh(zh) for zh, _ in groups]
+    unit_canonical = [canonical_zh(u["text"]) for u in units]
+    if not group_canonical or not unit_canonical:
+        return {}, {}
+
+    group_ranges: list[tuple[int, int]] = []
+    pos = 0
+    for gc in group_canonical:
+        group_ranges.append((pos, pos + len(gc)))
+        pos += len(gc)
+    unit_ranges: list[tuple[int, int]] = []
+    pos = 0
+    for uc in unit_canonical:
+        unit_ranges.append((pos, pos + len(uc)))
+        pos += len(uc)
+    assignments: dict[str, str] = {}
+    source_texts: dict[str, str] = {}
+
+    for unit_idx in range(len(units)):
+        u_start, u_end = unit_ranges[unit_idx]
+        if u_end <= u_start:
+            continue
+        first_group = None
+        last_group = None
+        for g_idx in range(len(group_ranges)):
+            g_start, g_end = group_ranges[g_idx]
+            if g_end <= u_start or g_start >= u_end:
+                continue
+            if first_group is None:
+                first_group = g_idx
+            last_group = g_idx
+
+        if first_group is None or last_group is None:
+            continue
+        covered_groups = groups[first_group : last_group + 1]
+        assignments[units[unit_idx]["id"]] = clean_translation_text(
+            " ".join(english for _, english in covered_groups)
+        )
+        source_texts[units[unit_idx]["id"]] = "".join(
+            zh for zh, _ in covered_groups
+        )
+    return assignments, source_texts
 def parse_wikisource_paragraph_pairs(session: requests.Session, url: str) -> list[tuple[str, str]]:
     response = session.get(url, timeout=30)
     response.raise_for_status()
@@ -1510,14 +1617,38 @@ def build_sanzi_assignments(session: requests.Session) -> tuple[dict[str, str], 
 
 
 def build_sunzi_assignments(session: requests.Session) -> tuple[dict[str, str], dict[str, str]]:
-    groups = parse_sunzi_groups(
+    chapter_groups = parse_sunzi_chapter_groups(
         session,
         "https://chinesenotes.com/sunzibingfa/sunzibingfa001.html",
     )
-    units: list[dict] = []
-    for chapter_path in list_chapter_paths("sunzi-bingfa"):
-        units.extend(reading_units(read_json(chapter_path)))
-    return assign_flexible_groups(units, groups, max_unit_span=2, max_group_span=20)
+    assignments: dict[str, str] = {}
+    source_texts: dict[str, str] = {}
+
+    for chapter_index, chapter_path in enumerate(list_chapter_paths("sunzi-bingfa")):
+        document = read_json(chapter_path)
+        chapter_units = reading_units(document)
+        if chapter_index >= len(chapter_groups):
+            break
+        groups = chapter_groups[chapter_index]
+        if not groups:
+            continue
+        chapter_assignments, chapter_source_texts = assign_units_by_containment(
+            chapter_units,
+            groups,
+        )
+        assignments.update(chapter_assignments)
+        source_texts.update(chapter_source_texts)
+
+        # Debug: show per-chapter stats
+        total_units = len(chapter_units)
+        matched_units = len(chapter_assignments)
+        print(f"  Ch{chapter_index+1:02d}: {matched_units}/{total_units} units matched")
+
+    # Fix known source typo: Giles Ch13 has "water" where "war" is intended
+    for unit_id, translation in assignments.items():
+        if "element in water" in translation:
+            assignments[unit_id] = translation.replace("element in water", "element in war")
+    return assignments, source_texts
 
 
 def build_sanguo_assignments(session: requests.Session) -> tuple[dict[str, str], dict[str, str]]:
@@ -1592,6 +1723,7 @@ def import_book(session: requests.Session, book_id: str) -> tuple[int, int, int]
         assignments, source_texts = build_daodejing_assignments(session)
     elif book_id == "sunzi-bingfa":
         assignments, source_texts = build_sunzi_assignments(session)
+        replace_generated = True
     elif book_id == "zhong-yong":
         assignments, source_texts = build_full_page_assignments(
             session,

@@ -11,10 +11,10 @@
         "order": 1,
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "孫子曰：凡用兵之法，將受命於君，合軍聚眾，交和而舍，莫難於軍爭。軍爭之難者，以迂為直，以患為利。故迂其途，而誘之以利，後人發，先人至，此知迂直之計者也。故軍爭為利，軍爭為危。",
+        "text": "孫子 曰 ： 凡 用兵 之 法 ， 將受命於君 ，合 軍 聚 衆 ， 交 和 而 舍 ，莫 難 於 軍 爭 。 軍 爭 之 難 者 ， 以迂為直 ， 以患為利 。故 迂 其 途 ， 而 誘 之 以 利 ， 後人 發 ， 先人 至 ， 此 知 迂直之計 者 也 。故 軍 爭 為 利 ， 軍 爭 為 危 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "So in war, the way is to avoid what is strong and to strike at what is weak. Water shapes its course according to the nature of the ground over which it flows; Therefore, just as water retains no constant shape, so in warfare there are no constant conditions. He who can modify his tactics in relation to his opponent and thereby succeed in winning, may be called a heaven-born captain. The five elements are not always equally predominant; the four seasons make way for each other in turn. There are short days and long; the moon has its periods of waning and waxing. Sun Tzu said: In war, the general receives his commands from the sovereign. Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp. After that, comes tactical manœuvring, than which there is nothing more difficult. The difficulty of tactical manœuvring consists in turning the devious into the direct, and misfortune into gain. Thus, to take a long and circuitous route, after enticing the enemy out of the way, and though starting after him, to contrive to reach the goal before him, shows knowledge of the artifice of deviation. Manœuvring with an army is advantageous; with an undisciplined multitude, most dangerous."
+            "translation_en": "Sun Tzu said: In war, the general receives his commands from the sovereign. Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp. After that, comes tactical manœuvring, than which there is nothing more difficult. The difficulty of tactical manœuvring consists in turning the devious into the direct, and misfortune into gain. Thus, to take a long and circuitous route, after enticing the enemy out of the way, and though starting after him, to contrive to reach the goal before him, shows knowledge of the artifice of deviation. Manœuvring with an army is advantageous; with an undisciplined multitude, most dangerous."
           }
         }
       },
@@ -24,10 +24,10 @@
         "order": 2,
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "舉軍而爭利，則不及；委軍而爭利，則輜重捐。是故卷甲而趨，日夜不處，倍道兼行，百里而爭利，則擒三將軍，勁者先，疲者後，其法十一而至；五十里而爭利，則蹶上將軍，其法半至；卅里而爭利，則三分之二至。是故軍無輜重則亡，無糧食則亡，無委積則亡。",
+        "text": "舉 軍 而 爭利 ， 則 不及 ； 委 軍 而 爭利 ， 則 輜 重 捐 。是故 卷甲 而 趨 ，日夜不處 ， 倍 道 兼行 ， 百里 而 爭利 ， 則 擒 三軍 將 ，勁者先 ， 疲 者 後 ， 其 法 十一 而 至 ；五十 里 而 爭利 ， 則 蹶 上 軍 將 ， 其 法 半 至 ；三十 里 而 爭利 ， 則 三分之二 至 。是故 軍 無 輜 重 則 亡 ， 無 糧食 則 亡 ， 無 委 積 則 亡 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "If you set a fully equipped army in march in order to snatch an advantage, the chances are that you will be too late."
+            "translation_en": "If you set a fully equipped army in march in order to snatch an advantage, the chances are that you will be too late. On the other hand, to detach a flying column for the purpose involves the sacrifice of its baggage and stores. Thus, if you order your men to roll up their buff-coats, and make forced marches without halting day or night, covering double the usual distance at a stretch, doing a hundred li in order to wrest an advantage, the leaders of all your three divisions will fall into the hands of the enemy. The stronger men will be in front, the jaded ones will fall behind, and on this plan only one-tenth of your army will reach its destination. If you march fifty li in order to outmanœuvre the enemy, you will lose the leader of your first division, and only half your force will reach the goal. If you march thirty li with the same object, two-thirds of your army will arrive. We may take it then that an army without its baggage-train is lost; without provisions it is lost; without bases of supply it is lost."
           }
         }
       },
@@ -37,10 +37,10 @@
         "order": 3,
         "source_block_chunk": 2,
         "source_block_order": 2,
-        "text": "故不知諸侯之謀者，不能豫交；不知山林、險阻、沮澤之形者，不能行軍，不能鄉導者，不能得地利。",
+        "text": "故 不知 諸侯 之 謀 者 ， 不能 豫交 ；不知 山林 、 險阻 、 沮澤 之 形 者 ， 不能 行軍 ；不用 鄉導 者 ， 不能 得 地利 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "On the other hand, to detach a flying column for the purpose involves the sacrifice of its baggage and stores. Thus, if you order your men to roll up their buff-coats, and make forced marches without halting day or night, covering double the usual distance at a stretch, doing a hundred li in order to wrest an advantage, the leaders of all your three divisions will fall into the hands of the enemy. The stronger men will be in front, the jaded ones will fall behind, and on this plan only one-tenth of your army will reach its destination. If you march fifty li in order to outmanœuvre the enemy, you will lose the leader of your first division, and only half your force will reach the goal. If you march thirty li with the same object, two-thirds of your army will arrive. We may take it then that an army without its baggage-train is lost; without provisions it is lost; without bases of supply it is lost. We cannot enter into alliances until we are acquainted with the designs of our neighbours. We are not fit to lead an army on the march unless we are familiar with the face of the country — its mountains and forests, its pitfalls and precipices, its marshes and swamps. We shall be unable to turn natural advantage to account unless we make use of local guides."
+            "translation_en": "We cannot enter into alliances until we are acquainted with the designs of our neighbours. We are not fit to lead an army on the march unless we are familiar with the face of the country — its mountains and forests, its pitfalls and precipices, its marshes and swamps. We shall be unable to turn natural advantage to account unless we make use of local guides."
           }
         }
       },
@@ -63,10 +63,10 @@
         "order": 5,
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "軍政曰：「言不相聞，故為金鼓；視不相見，故為旌旗。」夫金鼓旌旗者，所以一人之耳目也；人既專一，則勇者不得獨進，怯者不得獨退，此用眾之法也。故夜戰多火鼓，晝戰多旌旗，所以變人之耳目也。",
+        "text": "《 軍政 》 曰 ：「 言 不 相 聞 ， 故 為 金鼓 ； 視 不 相見 ， 故 為 旌旗 。」夫 金鼓旌旗 者 ， 所以 一 民 之 耳目 也 。民 既 專一 ， 則 勇 者 不得獨進 ， 怯 者 不得 獨 退 ，此 用 衆 之 法 也 。故 夜戰 多 金鼓 ， 晝戰 多 旌旗 ， 所以 變 人 之 耳目 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "The Book of Army Management says: the spoken word does not carry far enough: hence the institution of gongs and drums."
+            "translation_en": "The Book of Army Management says: the spoken word does not carry far enough: hence the institution of gongs and drums. Nor can ordinary objects be seen clearly enough: hence the institution of banners and flags. Gongs and drums, banners and flags, are means whereby the ears and eyes of the host may be focused on one particular point. The host thus forming a single united body, is it impossible either for the brave to advance alone, or for the cowardly to retreat alone. This is the art of handling large masses of men. In night-fighting, then, make much use of signal-fires and drums, and in fighting by day, of flags and banners, as a means of influencing the ears and eyes of your army."
           }
         }
       },
@@ -76,10 +76,10 @@
         "order": 6,
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "故三軍可奪氣，將軍可奪心。是故朝氣銳，晝氣惰，暮氣歸；故善用兵者，避其銳氣，擊其惰歸，此治氣者也。以治待亂，以靜待譁，此治心者也。以近待遠，以佚待勞，以飽待飢，此治力者也。",
+        "text": "三軍 可 奪氣 ， 將軍 可 奪 心 。是故 朝氣銳 ， 晝 氣 惰 ， 暮氣 歸 。故 善用 兵 者 ， 避 其 銳氣 ， 擊 其 惰 歸 ， 此 治氣 者 也 ；以 治 待 亂 ， 以 靜 待 嘩 ， 此 治 心 者 也 ；以 近 待 遠 ， 以佚待勞 ， 以飽待饑 ， 此 治 力 者 也 ；",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Nor can ordinary objects be seen clearly enough: hence the institution of banners and flags. Gongs and drums, banners and flags, are means whereby the ears and eyes of the host may be focused on one particular point. The host thus forming a single united body, is it impossible either for the brave to advance alone, or for the cowardly to retreat alone. This is the art of handling large masses of men. In night-fighting, then, make much use of signal-fires and drums, and in fighting by day, of flags and banners, as a means of influencing the ears and eyes of your army. A whole army may be robbed of its spirit; a commander-in-chief may be robbed of his presence of mind. Now a soldier's spirit is keenest in the morning; by noonday it has begun to flag; and in the evening, his mind is bent only on returning to camp. A clever general, therefore, avoids an army when its spirit is keen, but attacks it when it is sluggish and inclined to return. This is the art of studying moods. Disciplined and calm, to await the appearance of disorder and hubbub amongst the enemy: — this is the art of retaining self-possession. To be near the goal while the enemy is still far from it, to wait at ease while the enemy is toiling and struggling, to be well-fed while the enemy is famished: — this is the art of husbanding one's strength."
+            "translation_en": "A whole army may be robbed of its spirit; a commander-in-chief may be robbed of his presence of mind. Now a soldier's spirit is keenest in the morning; by noonday it has begun to flag; and in the evening, his mind is bent only on returning to camp. A clever general, therefore, avoids an army when its spirit is keen, but attacks it when it is sluggish and inclined to return. This is the art of studying moods. Disciplined and calm, to await the appearance of disorder and hubbub amongst the enemy: — this is the art of retaining self-possession. To be near the goal while the enemy is still far from it, to wait at ease while the enemy is toiling and struggling, to be well-fed while the enemy is famished: — this is the art of husbanding one's strength."
           }
         }
       },
@@ -89,10 +89,10 @@
         "order": 7,
         "source_block_chunk": 1,
         "source_block_order": 6,
-        "text": "無邀正正之旗，勿擊堂堂之陣，此治變者也；故用兵之法，高陵勿向，背邱勿逆，佯北勿從，銳卒勿攻，餌兵勿食，歸師勿遏，圍師必闕，窮寇勿迫，此用兵之法也。",
+        "text": "無 邀 正正 之 旗 ， 無 擊 堂堂 之 陣 ， 此 治 變 者 也 。故 用兵 之 法 ， 高陵勿向 ， 背 丘 勿 逆 ，佯 北 勿 從 ， 銳卒勿攻 ，餌 兵 勿 食 ， 歸師勿遏 ，圍師必闕 ， 窮寇勿迫 ，此 用兵 之 法 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "To refrain from intercepting an enemy whose banners are in perfect order, to refrain from attacking an army drawn up in calm and confident array: — this is the art of studying circumstances."
+            "translation_en": "To refrain from intercepting an enemy whose banners are in perfect order, to refrain from attacking an army drawn up in calm and confident array: — this is the art of studying circumstances. It is a military axiom not to advance uphill against the enemy, nor to oppose him when he comes downhill. Do not pursue an enemy who simulates flight; do not attack soldiers whose temper is keen. Do not swallow bait offered by the enemy. Do not interfere with an army that is returning home. When you surround an army, leave an outlet free. Do not press a desperate foe too hard. Such is the art of warfare."
           }
         }
       }

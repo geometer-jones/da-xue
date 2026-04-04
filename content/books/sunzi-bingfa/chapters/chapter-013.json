@@ -11,10 +11,10 @@
         "order": 1,
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "孫子曰：凡興師十萬，出征千里，百姓之費，公家之奉，日費千金，內外騷動，怠于道路，不得操事者，七十萬家，相守數年，以爭一日之勝，而愛爵祿百金，不知敵之情者，不仁之至也，非人之將也，非主之佐也，非勝之主也。",
+        "text": "孫子 曰 ： 凡 興師 十萬 ， 出征 千里 ， 百姓 之 費 ， 公家 之 奉 ， 日 費 千金 ， 內外騷動 ， 怠 于 道路 ， 不得 操事 者 ， 七十 萬 家 。相守 數年 ， 以 爭 一日 之 勝 ， 而 愛 爵祿 百 金 ， 不 知敵之情 者 ， 不仁 之至 也 ，非人 之 將 也 ， 非 主 之 佐 也 ， 非 勝 之 主 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "This is the way to keep a country at peace and an army intact. Sun Tzu said: Raising a host of a hundred thousand men and marching them great distances entails heavy loss on the people and a drain on the resources of the State. The daily expenditure will amount to a thousand ounces of silver. There will be commotion at home and abroad, and men will drop down exhausted on the highways. As many as seven hundred thousand families will be impeded in their labor. Hostile armies may face each other for years, striving for the victory which is decided in a single day. This being so, to remain in ignorance of the enemy's condition simply because one grudges the outlay of a hundred ounces of silver in honors and emoluments, is the height of inhumanity. One who acts thus is no leader of men, no present help to his sovereign, no master of victory."
+            "translation_en": "Sun Tzu said: Raising a host of a hundred thousand men and marching them great distances entails heavy loss on the people and a drain on the resources of the State. The daily expenditure will amount to a thousand ounces of silver. There will be commotion at home and abroad, and men will drop down exhausted on the highways. As many as seven hundred thousand families will be impeded in their labor. Hostile armies may face each other for years, striving for the victory which is decided in a single day. This being so, to remain in ignorance of the enemy's condition simply because one grudges the outlay of a hundred ounces of silver in honors and emoluments, is the height of inhumanity. One who acts thus is no leader of men, no present help to his sovereign, no master of victory."
           }
         }
       },
@@ -24,10 +24,10 @@
         "order": 2,
         "source_block_chunk": 2,
         "source_block_order": 1,
-        "text": "故明君賢將，所以動而勝人，成功出于眾者，先知也；先知者，不可取于鬼神，不可象于事，不可驗于度；必取于人，知敵之情者也。",
+        "text": "故 明君 賢 將 ， 所以 動 而 勝 人 ， 成功 出於 眾 者 ， 先知 也 。先知 者 ， 不可取 於 鬼神 ， 不可 象 於 事 ， 不可 驗 於 度 ，必 取 於 人 ， 知敵之情 者 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Thus, what enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge."
+            "translation_en": "Thus, what enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge. Now this foreknowledge cannot be elicited from spirits; it cannot be obtained inductively from experience, nor by any deductive calculation. Knowledge of the enemy's dispositions can only be obtained from other men."
           }
         }
       },
@@ -37,10 +37,10 @@
         "order": 3,
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "故用間有五：有鄉間、有內間、有反間、有死間、有生間。五間俱起，莫知其道，是謂神紀，人君之寶也。鄉間者，因其鄉人而用之。內間者，因其官人而用之。反間者，因其敵間而用之。死間者，為誑事于外，令吾間知之，而傳于敵。生間者，反報也。",
+        "text": "故 用間 有 五 ： 有 鄉間 ， 有 內間 ， 有 反間 ， 有 死 間 ， 有 生 間 。五 間 俱 起 ， 莫 知 其 道 ， 是 謂 「 神 紀 」， 人 君 之 寶 也 。鄉間 者 ， 因 其 鄉人 而 用 之 ；內間 者 ， 因 其 官 人 而 用 之 ；反間 者 ， 因 其 敵 間 而 用 之 ；死 間 者 ， 為 誑 事 於 外 ， 令 吾 間知 之 ， 而 傳 於 敵 間 也 ；生 間 者 ， 反報 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Now this foreknowledge cannot be elicited from spirits; it cannot be obtained inductively from experience, nor by any deductive calculation. Knowledge of the enemy's dispositions can only be obtained from other men. Hence the use of spies, of whom there are five classes: (1) Local spies; (2) inward spies; (3) converted spies; (4) doomed spies; (5) surviving spies. When these five kinds of spy are all at work, none can discover the secret system. This is called “divine manipulation of the threads.” It is the sovereign's most precious faculty. Having local spies means employing the services of the inhabitants of a district. Having inward spies, making use of officials of the enemy. Having converted spies, getting hold of the enemy's spies and using them for our own purposes. Having doomed spies, doing certain things openly for purposes of deception, and allowing our spies to know of them and report them to the enemy. Surviving spies, finally, are those who bring back news from the enemy's camp."
+            "translation_en": "Hence the use of spies, of whom there are five classes: (1) Local spies; (2) inward spies; (3) converted spies; (4) doomed spies; (5) surviving spies. When these five kinds of spy are all at work, none can discover the secret system. This is called “divine manipulation of the threads.” It is the sovereign's most precious faculty. Having local spies means employing the services of the inhabitants of a district. Having inward spies, making use of officials of the enemy. Having converted spies, getting hold of the enemy's spies and using them for our own purposes. Having doomed spies, doing certain things openly for purposes of deception, and allowing our spies to know of them and report them to the enemy. Surviving spies, finally, are those who bring back news from the enemy's camp."
           }
         }
       },
@@ -50,10 +50,10 @@
         "order": 4,
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "故三軍之事，親莫親于間，賞莫厚于間，事莫密于間，非聖智不能用間，非仁義不能使間，非微妙不能得間之實。微哉，微哉，無所不用間也。間事未發而先聞者，間與所告者皆死。",
+        "text": "故 三軍 之 事 ， 莫 親 於 間 ，賞 莫 厚 於 間 ， 事 莫 密 於 間 ， 非 聖 智 不能 用間 ，非 仁義 不能 使 間 ，非 微妙 不能 得 間 之 實 。微 哉 ！ 微 哉 ！ 無 所 不用 間 也 。間 事 未 發 而 先 聞 者 ， 間 與 所 告 者 皆 死 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Hence it is that which none in the whole army are more intimate relations to be maintained than with spies."
+            "translation_en": "Hence it is that which none in the whole army are more intimate relations to be maintained than with spies. None should be more liberally rewarded. In no other business should greater secrecy be preserved. Spies cannot be usefully employed without a certain intuitive sagacity. They cannot be properly managed without benevolence and straightforwardness. Without subtle ingenuity of mind, one cannot make certain of the truth of their reports. Be subtle! be subtle! and use your spies for every kind of business. If a secret piece of news is divulged by a spy before the time is ripe, he must be put to death together with the man to whom the secret was told."
           }
         }
       },
@@ -63,10 +63,10 @@
         "order": 5,
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "凡軍之所欲擊，城之所欲攻，人之所欲殺；必先知其守將，左右，謁者，門者，舍人之姓名，令吾間必索知之。必索敵間之來間我者，因而利之，導而舍之，故反間可得而使也。因是而知之，故鄉間內間可得而使也；因是而知之，故死間為誑事，可使告敵；",
+        "text": "凡 軍 之 所 欲 擊 ， 城 之 所 欲 攻 ， 人 之 所 欲 殺 ， 必 先知 其 守 將 、 左右 、 謁者 、 門 者 、 舍人 之 姓名 ， 令 吾 間 必 索 知 之 。必 索 敵人 之間 來 間 我 者 ， 因而 利 之 ， 導 而 舍 之 ， 故 反間 可 得 而 用 也 ；因 是 而 知 之 ， 故鄉 間 、 內間 可 得 而 使 也 ；因 是 而 知 之 ， 故 死 間 為 誑 事 ， 可 使 告 敵 ；",
         "generated_annotation": {
           "layers": {
-            "translation_en": "None should be more liberally rewarded. In no other business should greater secrecy be preserved. Spies cannot be usefully employed without a certain intuitive sagacity. They cannot be properly managed without benevolence and straightforwardness. Without subtle ingenuity of mind, one cannot make certain of the truth of their reports. Be subtle! be subtle! and use your spies for every kind of business. If a secret piece of news is divulged by a spy before the time is ripe, he must be put to death together with the man to whom the secret was told. Whether the object be to crush an army, to storm a city, or to assassinate an individual, it is always necessary to begin by finding out the names of the attendants, the aides-de-camp, and door-keepers and sentries of the general in command. Our spies must be commissioned to ascertain these. The enemy's spies who have come to spy on us must be sought out, tempted with bribes, led away and comfortably housed. Thus they will become converted spies and available for our service. It is through the information brought by the converted spy that we are able to acquire and employ local and inward spies. It is owing to his information, again, that we can cause the doomed spy to carry false tidings to the enemy."
+            "translation_en": "Whether the object be to crush an army, to storm a city, or to assassinate an individual, it is always necessary to begin by finding out the names of the attendants, the aides-de-camp, and door-keepers and sentries of the general in command. Our spies must be commissioned to ascertain these. The enemy's spies who have come to spy on us must be sought out, tempted with bribes, led away and comfortably housed. Thus they will become converted spies and available for our service. It is through the information brought by the converted spy that we are able to acquire and employ local and inward spies. It is owing to his information, again, that we can cause the doomed spy to carry false tidings to the enemy."
           }
         }
       },
@@ -76,10 +76,10 @@
         "order": 6,
         "source_block_chunk": 2,
         "source_block_order": 4,
-        "text": "因是而知之，故生間可使如期。五間之事，主必知之，知之必在于反間，故反間不可不厚也。",
+        "text": "因 是 而 知 之 ， 故 生 間 可 使 如期 。五 間 之 事 ， 主 必 知 之 ， 知 之 必 在於 反間 ， 故 反間 不可 不 厚 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Lastly, it is by his information that the surviving spy can be used on appointed occasions."
+            "translation_en": "Lastly, it is by his information that the surviving spy can be used on appointed occasions. The end and aim of spying in all its five varieties is knowledge of the enemy; and this knowledge can only be derived, in the first instance, from the converted spy. Hence it is essential that the converted spy be treated with the utmost liberality."
           }
         }
       },
@@ -89,10 +89,10 @@
         "order": 7,
         "source_block_chunk": 1,
         "source_block_order": 5,
-        "text": "昔殷之興也，伊摯在夏。周之興也，呂牙在殷。故明君賢將，能以上智為間者，必成大功，此兵之要，三軍之所恃而動也。",
+        "text": "昔 殷 之 興 也 ， 伊 摯 在 夏 ； 周 之 興 也 ， 呂牙 在 殷 。故 明君 賢 將 ， 能 以上 智 為 間 者 ， 必 成 大功 。 此 兵 之 要 ， 三軍 之 所 恃 而 動 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "The end and aim of spying in all its five varieties is knowledge of the enemy; and this knowledge can only be derived, in the first instance, from the converted spy. Hence it is essential that the converted spy be treated with the utmost liberality. Of old, the rise of the Yin dynasty was due to I Chih who had served under the Hsia. Likewise, the rise of the Chou dynasty was due to Lü Ya who had served under the Yin. Hence it is only the enlightened ruler and the wise general who will use the highest intelligence of the army for purposes of spying, and thereby they achieve great results. Spies are a most important element in water, because on them depends an army's ability to move."
+            "translation_en": "Of old, the rise of the Yin dynasty was due to I Chih who had served under the Hsia. Likewise, the rise of the Chou dynasty was due to Lü Ya who had served under the Yin. Hence it is only the enlightened ruler and the wise general who will use the highest intelligence of the army for purposes of spying, and thereby they achieve great results. Spies are a most important element in war, because on them depends an army's ability to move."
           }
         }
       }

@@ -210,6 +210,63 @@ void main() {
     },
   );
 
+  test(
+    'sendGuidedReadingMessage includes open line and character component in context when present',
+    () async {
+      final client = HttpBackendClient(
+        baseUrl: 'http://backend.test',
+        httpClient: MockClient((request) async {
+          expect(
+            request.url.toString(),
+            'http://backend.test/api/v1/guided-chat',
+          );
+          expect(request.method, 'POST');
+
+          final payload = jsonDecode(request.body) as Map<String, dynamic>;
+          expect(payload['context'], {
+            'bookId': 'demo',
+            'chapterId': 'chapter-001',
+            'readingUnitId': 'line-001',
+            'openLine': '天地玄黃。',
+            'characterComponent': '口',
+          });
+
+          return http.Response(
+            jsonEncode({
+              'reply': {
+                'role': 'assistant',
+                'content': 'The character component is doing useful work here.',
+              },
+              'provider': 'z.ai',
+              'model': 'glm-5-turbo',
+            }),
+            200,
+            headers: const {'content-type': 'application/json'},
+          );
+        }),
+      );
+
+      final reply = await client.sendGuidedReadingMessage(
+        bookId: 'demo',
+        chapterId: 'chapter-001',
+        readingUnitId: 'line-001',
+        openLine: '天地玄黃。',
+        characterComponent: '口',
+        messages: const [
+          GuidedConversationMessage(
+            role: 'user',
+            content: 'Why does this symbol matter here?',
+          ),
+        ],
+      );
+
+      expect(
+        reply.message.content,
+        'The character component is doing useful work here.',
+      );
+    },
+  );
+
   test('fetchCharacterIndex accepts direct payload shapes', () async {
     final client = HttpBackendClient(
       baseUrl: 'http://backend.test',

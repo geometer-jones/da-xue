@@ -59,6 +59,41 @@ const Map<String, String> _lunyuChapterTranslations = {
   '堯曰第二十': 'Yao Said',
 };
 
+const Map<String, String> _zhongYongChapterTranslations = {
+  '天命之謂性': 'Heaven is Nature',
+  '君子中庸': 'The Gentleman Follows the Mean',
+  '中庸其至矣乎': 'The Mean Reaches Its Fulfillment',
+  '道之不行也': 'When the Way Does Not Flow',
+  '道其不行矣夫': 'When the Way Does Not Prevail',
+  '舜其大知也與': 'Was Shun Truly So Wise',
+  '人皆曰『予知': 'All Say “I Know”',
+  '回之為人也': 'This Is What It Is to Be Human',
+  '天下國家可均也': 'A Country Can Be Made Equal',
+  '子路問強': 'Zilu Asked About Strength',
+  '素隱行怪': 'The Mysterious and Hidden Is Strange',
+  '君子之道費而隱': 'The Noble Way Is Costly and Hidden',
+  '道不遠人': 'The Way Is Not Far From People',
+  '君子素其位而行': 'The Gentleman Stays in His Place and Acts',
+  '君子之道': 'The Noble Way',
+  '鬼神之為德': 'The Virtue of Spirits and Gods',
+  '舜其大孝也與': 'Was Shun the Most Filial of Men',
+  '無憂者其惟文王乎': 'Who Else Could Be Without Worry but King Wen',
+  '武王': 'King Wu',
+  '哀公問政': 'Duke Ai Asked About Government',
+  '自誠明': 'Sincerity Makes Things Clear',
+  '唯天下至誠': 'Only Perfect Sincerity is Under Heaven',
+  '其次致曲': 'Then Comes Distortion',
+  '至誠之道': 'The Way of Perfect Sincerity',
+  '誠者自成也': 'Sincerity Makes One Complete',
+  '故至誠無息': 'Therefore Perfect Sincerity Never Ceases',
+  '大哉聖人之道': 'Great Is the Way of the Sage',
+  '愚而好自用': 'The Fool Loves to Rely on Himself',
+  '王天下有三重焉': 'Ruling the World Has Three Layers',
+  '仲尼祖述堯舜': 'Zhongni Expounds Yao and Shun',
+  '唯天下至聖': 'Only the Supreme Sage is Under Heaven',
+  '衣錦尚絅': 'Fine Brocade and Flashy Garb Are Praised',
+};
+
 const Map<String, String> _mengziChapterTranslations = {
   '梁惠王章句上': 'King Hui of Liang, Part 1',
   '梁惠王章句下': 'King Hui of Liang, Part 2',
@@ -202,6 +237,8 @@ String? translatedChapterTitle({
       return _mengziChapterTranslations[trimmedTitle];
     case 'sunzi-bingfa':
       return _sunziChapterTranslations[trimmedTitle];
+    case 'zhong-yong':
+      return _zhongYongChapterTranslations[trimmedTitle];
   }
 
   if (trimmedTitle == '全篇') {

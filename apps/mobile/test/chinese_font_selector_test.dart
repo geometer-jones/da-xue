@@ -108,6 +108,8 @@ class _StubBackendClient implements BackendClient {
     required String chapterId,
     String? readingUnitId,
     required List<GuidedConversationMessage> messages,
+    String openLine = '',
+    String characterComponent = '',
     String learnerTranslation = '',
     String learnerResponse = '',
     List<GuidedChatPreviousLine> previousLines = const [],

@@ -632,7 +632,7 @@ func TestGuidedChatEndpointReturnsAssistantReply(t *testing.T) {
 		chatClient,
 	)
 
-	request := httptest.NewRequest(
+  request := httptest.NewRequest(
 		http.MethodPost,
 		"/api/v1/guided-chat",
 		strings.NewReader(`{
@@ -640,6 +640,8 @@ func TestGuidedChatEndpointReturnsAssistantReply(t *testing.T) {
     "bookId": "demo-book",
     "chapterId": "chapter-001",
     "readingUnitId": "chapter-001-line-002",
+    "openLine": "宇宙洪荒。",
+    "characterComponent": "口",
     "learnerTranslation": "The cosmos begins in wild expansion.",
     "learnerResponse": "The scale suddenly opens from earth to the whole cosmos."
   },
@@ -706,8 +708,8 @@ func TestGuidedChatEndpointReturnsAssistantReply(t *testing.T) {
 		t.Fatalf("expected prompt context plus history, got %d messages", len(chatClient.requests[0].Messages))
 	}
 
-	if !strings.Contains(chatClient.requests[0].Messages[0].Content, "researcher, philosopher, and linguist") {
-		t.Fatalf("expected guided chat system prompt to allow blended reading lenses, got %q", chatClient.requests[0].Messages[0].Content)
+	if !strings.Contains(chatClient.requests[0].Messages[0].Content, "prioritize fidelity to the text") {
+		t.Fatalf("expected guided chat system prompt to prioritize fidelity to text, got %q", chatClient.requests[0].Messages[0].Content)
 	}
 
 	if !strings.Contains(chatClient.requests[0].Messages[1].Content, "Chinese text: 宇宙洪荒。") {
@@ -724,6 +726,18 @@ func TestGuidedChatEndpointReturnsAssistantReply(t *testing.T) {
 
 	if !strings.Contains(chatClient.requests[0].Messages[1].Content, "Line 1 (chapter-001-line-001): 天地玄黃。") {
 		t.Fatalf("expected guided chat context to include the previous line, got %q", chatClient.requests[0].Messages[1].Content)
+	}
+
+	if !strings.Contains(chatClient.requests[0].Messages[1].Content, "\nOpen line: 宇宙洪荒。") {
+		t.Fatalf("expected guided chat context to include the open line, got %q", chatClient.requests[0].Messages[1].Content)
+	}
+
+	if !strings.Contains(chatClient.requests[0].Messages[1].Content, "Character component focus: 口") {
+		t.Fatalf("expected guided chat context to include the character component focus, got %q", chatClient.requests[0].Messages[1].Content)
+	}
+
+	if !strings.Contains(chatClient.requests[0].Messages[1].Content, "You are helping a learner understand how the character component ") {
+		t.Fatalf("expected guided chat context to include the character-component pedagogical guidance, got %q", chatClient.requests[0].Messages[1].Content)
 	}
 
 	if !strings.Contains(chatClient.requests[0].Messages[1].Content, "Learner translation: Heaven and earth begin in mystery.") {

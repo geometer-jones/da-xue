@@ -116,4 +116,19 @@ void main() {
       );
     },
   );
+
+  test('translatedChapterTitle provides English for Zhong Yong chapter titles', () {
+    expect(
+      translatedChapterTitle(bookId: 'zhong-yong', title: '天命之謂性'),
+      'Heaven is Nature',
+    );
+    expect(
+      translatedChapterTitle(bookId: 'zhong-yong', title: '王天下有三重焉'),
+      'Ruling the World Has Three Layers',
+    );
+    expect(
+      translatedChapterTitle(bookId: 'zhong-yong', title: '人皆曰『予知'),
+      'All Say “I Know”',
+    );
+  });
 }

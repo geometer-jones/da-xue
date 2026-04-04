@@ -24,10 +24,10 @@
         "order": 2,
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "凡火攻，必因五火之變而應之，火發于內，則早應之于外。火發而其兵靜者，待而勿攻。極其火力，可從而從之，不可從而止。火可發于外，無待于內，以時發之。火發上風，無攻下風，晝風久，夜風止。凡軍必知五火之變，以數守之。",
+        "text": "凡 火攻 ， 必 因 五 火 之 變 而 應 之 ：火發 於 內 ， 則 早 應 之 於 外 ；火發 而 其 兵 靜 者 ， 待 而 勿 攻 ，極其 火力 ， 可 從而 從 之 ， 不可 從 則 止 ；火 可 發 於 外 ， 無 待 於 內 ， 以時 發 之 ；火發 上風 ， 無 攻下 風 ；晝風 久 ， 夜風 止 。凡 軍 必 知 有 五 火 之 變 ， 以 數 守 之 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "In attacking with fire, one should be prepared to meet five possible developments: (1) When fire breaks out inside to enemy's camp, respond at once with an attack from without."
+            "translation_en": "In attacking with fire, one should be prepared to meet five possible developments: (1) When fire breaks out inside to enemy's camp, respond at once with an attack from without. (2) If there is an outbreak of fire, but the enemy's soldiers remain quiet, bide your time and do not attack. (3) When the force of the flames has reached its height, follow it up with an attack, if that is practicable; if not, stay where you are. (4) If it is possible to make an assault with fire from without, do not wait for it to break out within, but deliver your attack at a favourable moment. (5) When you start a fire, be to windward of it. Do not attack from the leeward. A wind that rises in the daytime lasts long, but a night breeze soon falls. In every army, the five developments connected with fire must be known, the movements of the stars calculated, and a watch kept for the proper days."
           }
         }
       },
@@ -37,10 +37,10 @@
         "order": 3,
         "source_block_chunk": 2,
         "source_block_order": 2,
-        "text": "故以火佐攻者明，以水佐攻者強，水可以絕，不可以奪。",
+        "text": "故 以 火 佐攻 者 明 ，以 水 佐攻 者 強 。水 可以 絕 ， 不可以 奪 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "(2) If there is an outbreak of fire, but the enemy's soldiers remain quiet, bide your time and do not attack. (3) When the force of the flames has reached its height, follow it up with an attack, if that is practicable; if not, stay where you are. (4) If it is possible to make an assault with fire from without, do not wait for it to break out within, but deliver your attack at a favourable moment. (5) When you start a fire, be to windward of it. Do not attack from the leeward. A wind that rises in the daytime lasts long, but a night breeze soon falls. In every army, the five developments connected with fire must be known, the movements of the stars calculated, and a watch kept for the proper days. Hence those who use fire as an aid to the attack show intelligence; those who use water as an aid to the attack gain an accession of strength. By means of water, an enemy may be intercepted, but not robbed of all his belongings."
+            "translation_en": "Hence those who use fire as an aid to the attack show intelligence; those who use water as an aid to the attack gain an accession of strength. By means of water, an enemy may be intercepted, but not robbed of all his belongings."
           }
         }
       },
@@ -63,10 +63,10 @@
         "order": 5,
         "source_block_chunk": 2,
         "source_block_order": 3,
-        "text": "故明君慎之，良將警之，此安國全軍之道也。",
+        "text": "故 明主 慎 之 ， 良將警之 ，此 安國 全軍之道 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Hence the enlightened ruler is heedful, and the good general full of caution."
+            "translation_en": "Hence the enlightened ruler is heedful, and the good general full of caution. This is the way to keep a country at peace and an army intact."
           }
         }
       }

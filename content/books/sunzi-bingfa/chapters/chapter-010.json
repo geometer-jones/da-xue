@@ -11,10 +11,10 @@
         "order": 1,
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "孫子曰：地形有通者，有挂者，有支者，有隘者，有險者，有遠者。我可以往，彼可以來，曰通；通形者，先居高陽，利糧道以戰，則利。可以往，難以返，曰挂；挂形者，敵無備，出而勝之，敵若有備，出而不勝，難以返，不利。我出而不利，彼出而不利，曰支；",
+        "text": "孫子 曰 ： 凡 地形 有 通 者 、 有 掛 者 、 有 支 者 、 有 隘 者 、 有 險 者 、 有 遠 者 。我 可以 往 ， 彼 可以 來 ， 曰 通 。通 形 者 ， 先 居 高陽 ， 利 糧道 ， 以 戰 則 利 。可以 往 ， 難以 返 ， 曰 掛 。掛 形 者 ， 敵 無備 ， 出 而 勝 之 ； 敵若有備 ， 出 而 不勝 ， 難以 返 ， 不利 。我 出 而 不利 ， 彼 出 而 不利 ， 曰 支 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "If, when the soldiers have become attached to you, punishments are not enforced, they will still be useless. Therefore soldiers must be treated in the first instance with humanity, but kept under control by means of iron discipline. This is a certain road to victory. If in training soldiers commands are habitually enforced, the army will be well-disciplined; if not, its discipline will be bad. If a general shows confidence in his men but always insists on his orders being obeyed, the gain will be mutual. Sun Tzu said: We may distinguish six kinds of terrain, to wit: (1) Accessible ground; (2) entangling ground; (3) temporizing ground; (4) narrow passes; (5) precipitous heights; (6) positions at a great distance from the enemy. 2. Ground which can be freely traversed by both sides is called accessible. With regard to ground of this nature, be before the enemy in occupying the raised and sunny spots, and carefully guard your line of supplies. Then you will be able to fight with advantage. Ground which can be abandoned but is hard to re-occupy is called entangling. From a position of this sort, if the enemy is unprepared, you may sally forth and defeat him. But if the enemy is prepared for your coming, and you fail to defeat him, then, return being impossible, disaster will ensue. When the position is such that neither side will gain by making the first move, it is called temporizing ground."
+            "translation_en": "Sun Tzu said: We may distinguish six kinds of terrain, to wit: (1) Accessible ground; (2) entangling ground; (3) temporizing ground; (4) narrow passes; (5) precipitous heights; (6) positions at a great distance from the enemy. 2. Ground which can be freely traversed by both sides is called accessible. With regard to ground of this nature, be before the enemy in occupying the raised and sunny spots, and carefully guard your line of supplies. Then you will be able to fight with advantage. Ground which can be abandoned but is hard to re-occupy is called entangling. From a position of this sort, if the enemy is unprepared, you may sally forth and defeat him. But if the enemy is prepared for your coming, and you fail to defeat him, then, return being impossible, disaster will ensue. When the position is such that neither side will gain by making the first move, it is called temporizing ground."
           }
         }
       },
@@ -24,10 +24,10 @@
         "order": 2,
         "source_block_chunk": 2,
         "source_block_order": 1,
-        "text": "支形者，敵雖利我，我無出也；引而去之，令敵半出而擊之，利。隘形者，我先居之，必盈以待敵；若敵先居之，盈而勿從，不盈而從之。險形者，我先居之，必居高陽以待敵；若敵先居之，引而去之，勿從也。遠形者，勢均，難以挑戰，戰而不利。",
+        "text": "支 形 者 ， 敵 雖 利 我 ， 我 無 出 也 ， 引 而 去 之 ， 令 敵 半 出 而 擊 之 ， 利 。隘 形 者 ， 我 先 居 之 ， 必 盈 之 以 待敵 。若 敵 先 居 之 ， 盈 而 勿 從 ， 不盈 而 從 之 。險 形 者 ， 我 先 居 之 ， 必 居 高陽 以 待敵 ；若 敵 先 居 之 ， 引 而 去 之 ， 勿 從 也 。遠 形 者 ， 勢均 ， 難以 挑戰 ， 戰 而 不利 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "In a position of this sort, even though the enemy should offer us an attractive bait, it will be advisable not to stir forth, but rather to retreat, thus enticing the enemy in his turn; then, when part of his army has come out, we may deliver our attack with advantage."
+            "translation_en": "In a position of this sort, even though the enemy should offer us an attractive bait, it will be advisable not to stir forth, but rather to retreat, thus enticing the enemy in his turn; then, when part of his army has come out, we may deliver our attack with advantage. With regard to narrow passes, if you can occupy them first, let them be strongly garrisoned and await the advent of the enemy. Should the army forestall you in occupying a pass, do not go after him if the pass is fully garrisoned, but only if it is weakly garrisoned. With regard to precipitous heights, if you are beforehand with your adversary, you should occupy the raised and sunny spots, and there wait for him to come up. If the enemy has occupied them before you, do not follow him, but retreat and try to entice him away. If you are situated at a great distance from the enemy, and the strength of the two armies is equal, it is not easy to provoke a battle, and fighting will be to your disadvantage."
           }
         }
       },
@@ -37,10 +37,10 @@
         "order": 3,
         "source_block_chunk": 3,
         "source_block_order": 1,
-        "text": "凡此六者，地之道也，將之至任，不可不察也。",
+        "text": "凡 此 六 者 ， 地 之 道 也 ， 將 之至 任 ， 不可不察 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "With regard to narrow passes, if you can occupy them first, let them be strongly garrisoned and await the advent of the enemy. Should the army forestall you in occupying a pass, do not go after him if the pass is fully garrisoned, but only if it is weakly garrisoned. With regard to precipitous heights, if you are beforehand with your adversary, you should occupy the raised and sunny spots, and there wait for him to come up. If the enemy has occupied them before you, do not follow him, but retreat and try to entice him away. If you are situated at a great distance from the enemy, and the strength of the two armies is equal, it is not easy to provoke a battle, and fighting will be to your disadvantage. These six are the principles connected with Earth. The general who has attained a responsible post must be careful to study them."
+            "translation_en": "These six are the principles connected with Earth. The general who has attained a responsible post must be careful to study them."
           }
         }
       },
@@ -76,10 +76,10 @@
         "order": 6,
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "夫地形者，兵之助也。料敵制勝，計險阨遠近，上將之道也。知此而用戰者，必勝；不知此而用戰者必敗。故戰道必勝；主曰：無戰；必戰可也。戰道不勝，主曰必戰，無戰可也。故進不求名，退不避罪，唯民是保，而利于主，國之寶也。",
+        "text": "夫 地形 者 ， 兵 之 助 也 。 料敵制勝 ， 計 險 厄 遠近 ， 上將 之 道 也 。知 此 而 用 戰 者 必勝 ， 不知 此 而 用 戰 者 必 敗 。故 戰 道 必勝 ， 主 曰 無 戰 ， 必 戰 可 也 ； 戰 道 不勝 ， 主 曰 必 戰 ， 無 戰 可 也 。是故 進 不 求 名 ， 退 不 避 罪 ， 唯 民 是 保 ， 而 利 合於 主 ， 國之寶 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "The natural formation of the country is the soldier's best ally; but a power of estimating the adversary, of controlling the forces of victory, and of shrewdly calculating difficulties, dangers and distances, constitutes the test of a great general."
+            "translation_en": "The natural formation of the country is the soldier's best ally; but a power of estimating the adversary, of controlling the forces of victory, and of shrewdly calculating difficulties, dangers and distances, constitutes the test of a great general. He who knows these things, and in fighting puts his knowledge into practice, will win his battles. He who knows them not, nor practices them, will surely be defeated. If fighting is sure to result in victory, then you must fight, even though the ruler forbid it; if fighting will not result in victory, then you must not fight even at the ruler's bidding. The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom."
           }
         }
       },
@@ -89,10 +89,10 @@
         "order": 7,
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "視卒如嬰兒，故可與之赴深谿；視卒如愛子，故可與之俱死。厚而不能使，愛而不能令，亂而不能治，譬若驕子，不可用也。",
+        "text": "視 卒 如 嬰兒 ， 故 可以 與 之 赴 深 溪 ； 視 卒 如 愛子 ， 故 可 與 之 俱 死 。厚 而 不能 使 ， 愛 而 不能 令 ， 亂 而 不能 治 ， 譬 若 驕子 ， 不可 用 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "He who knows these things, and in fighting puts his knowledge into practice, will win his battles. He who knows them not, nor practices them, will surely be defeated. If fighting is sure to result in victory, then you must fight, even though the ruler forbid it; if fighting will not result in victory, then you must not fight even at the ruler's bidding. The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom. Regard your soldiers as your children, and they will follow you into the deepest valleys; look upon them as your own beloved sons, and they will stand by you even unto death. If, however, you are indulgent, but unable to make your authority felt; kind-hearted, but unable to enforce your commands; and incapable, moreover, of quelling disorder: then your soldiers must be likened to spoilt children; they are useless for any practical purpose."
+            "translation_en": "Regard your soldiers as your children, and they will follow you into the deepest valleys; look upon them as your own beloved sons, and they will stand by you even unto death. If, however, you are indulgent, but unable to make your authority felt; kind-hearted, but unable to enforce your commands; and incapable, moreover, of quelling disorder: then your soldiers must be likened to spoilt children; they are useless for any practical purpose."
           }
         }
       },

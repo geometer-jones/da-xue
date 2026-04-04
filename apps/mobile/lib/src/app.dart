@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:convert';
 import 'dart:math' as math;
 
 import 'package:daxue_mobile/src/backend_client.dart';
@@ -7,7 +8,9 @@ import 'package:daxue_mobile/src/line_study_store.dart';
 import 'package:daxue_mobile/src/reading_progress_store.dart';
 import 'package:daxue_mobile/src/title_translations.dart';
 import 'package:flutter/foundation.dart';
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 
 String _chapterDetailTitle({required int order, required String title}) {
@@ -1122,6 +1125,31 @@ TextStyle? _supportTableEnglishTextStyle(BuildContext context) {
   return Theme.of(context).textTheme.bodyLarge;
 }
 
+TextStyle? _supportTableReadingTextStyle(
+  BuildContext context,
+  String text, {
+  Color? color,
+}) {
+  final baseStyle = Theme.of(context).textTheme.bodySmall;
+  if (baseStyle == null) {
+    return null;
+  }
+
+  final baseFontSize = baseStyle.fontSize ?? 14;
+  final readingBaseStyle = baseStyle.copyWith(
+    color: color ?? baseStyle.color,
+    fontSize: baseFontSize + 2,
+  );
+
+  return _withLargerChineseFont(
+    context,
+    text,
+    readingBaseStyle,
+    fallbackFontSize: baseFontSize + 2,
+    sizeIncrease: 0,
+  );
+}
+
 String _formatCharacterHeading(CharacterEntry entry, {String? fallback}) {
   final fallbackCharacter = fallback ?? entry.character;
   final simplified = entry.simplified.trim();
@@ -1309,7 +1337,13 @@ class HomeShellPage extends StatefulWidget {
 }
 
 class _HomeShellPageState extends State<HomeShellPage> {
+  static const int _tabCount = 4;
+
   int _selectedTabIndex = 0;
+  final List<GlobalKey<NavigatorState>> _tabNavigatorKeys = List.generate(
+    _tabCount,
+    (_) => GlobalKey<NavigatorState>(),
+  );
 
   void _selectTab(int index) {
     if (_selectedTabIndex == index) {
@@ -1321,53 +1355,85 @@ class _HomeShellPageState extends State<HomeShellPage> {
     });
   }
 
+  Widget _buildTabRoot(int index) {
+    switch (index) {
+      case 0:
+        return IntroPage(onOpenReadings: () => _selectTab(1));
+      case 1:
+        return ReadingMenuPage(client: widget.client);
+      case 2:
+        return FlashcardsPage(
+          client: widget.client,
+          isActive: true,
+        );
+      case 3:
+        return SettingsPage(
+          client: widget.client,
+          themeMode: widget.themeMode,
+          onThemeModeChanged: widget.onThemeModeChanged,
+          chineseFontOption: widget.chineseFontOption,
+          onChineseFontOptionChanged: widget.onChineseFontOptionChanged,
+        );
+      default:
+        throw StateError('Unexpected tab index: $index');
+    }
+  }
+
+  Widget _buildTabNavigator(int index) {
+    return Offstage(
+      offstage: _selectedTabIndex != index,
+      child: Navigator(
+        key: _tabNavigatorKeys[index],
+        onGenerateRoute: (RouteSettings settings) {
+          return MaterialPageRoute<dynamic>(builder: (_) => _buildTabRoot(index));
+        },
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: IndexedStack(
-        index: _selectedTabIndex,
-        children: [
-          IntroPage(onOpenReadings: () => _selectTab(1)),
-          ReadingMenuPage(client: widget.client),
-          FlashcardsPage(
-            client: widget.client,
-            isActive: _selectedTabIndex == 2,
-          ),
-          SettingsPage(
-            client: widget.client,
-            themeMode: widget.themeMode,
-            onThemeModeChanged: widget.onThemeModeChanged,
-            chineseFontOption: widget.chineseFontOption,
-            onChineseFontOptionChanged: widget.onChineseFontOptionChanged,
-          ),
-        ],
-      ),
-      bottomNavigationBar: NavigationBar(
-        selectedIndex: _selectedTabIndex,
-        labelBehavior: NavigationDestinationLabelBehavior.alwaysShow,
-        onDestinationSelected: _selectTab,
-        destinations: const [
-          NavigationDestination(
-            icon: Icon(Icons.home_outlined),
-            selectedIcon: Icon(Icons.home),
-            label: 'Home',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.menu_book_outlined),
-            selectedIcon: Icon(Icons.menu_book),
-            label: 'Readings',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.style_outlined),
-            selectedIcon: Icon(Icons.style),
-            label: 'Flashcards',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.settings_outlined),
-            selectedIcon: Icon(Icons.settings),
-            label: 'Settings',
-          ),
-        ],
+    return WillPopScope(
+      onWillPop: () async {
+        final activeNavigator = _tabNavigatorKeys[_selectedTabIndex].currentState;
+        if (activeNavigator != null && activeNavigator.canPop()) {
+          activeNavigator.pop();
+          return false;
+        }
+        return true;
+      },
+      child: Scaffold(
+        body: IndexedStack(
+          index: _selectedTabIndex,
+          children: List.generate(_tabCount, _buildTabNavigator),
+        ),
+        bottomNavigationBar: NavigationBar(
+          selectedIndex: _selectedTabIndex,
+          labelBehavior: NavigationDestinationLabelBehavior.alwaysShow,
+          onDestinationSelected: _selectTab,
+          destinations: const [
+            NavigationDestination(
+              icon: Icon(Icons.home_outlined),
+              selectedIcon: Icon(Icons.home),
+              label: 'Home',
+            ),
+            NavigationDestination(
+              icon: Icon(Icons.menu_book_outlined),
+              selectedIcon: Icon(Icons.menu_book),
+              label: 'Readings',
+            ),
+            NavigationDestination(
+              icon: Icon(Icons.style_outlined),
+              selectedIcon: Icon(Icons.style),
+              label: 'Flashcards',
+            ),
+            NavigationDestination(
+              icon: Icon(Icons.settings_outlined),
+              selectedIcon: Icon(Icons.settings),
+              label: 'Settings',
+            ),
+          ],
+        ),
       ),
     );
   }
@@ -1388,6 +1454,7 @@ class IntroPage extends StatelessWidget {
         : [const Color(0xFFE8F0E2), theme.scaffoldBackgroundColor];
 
     return Scaffold(
+      appBar: AppBar(title: const Text('Da Xue')),
       body: DecoratedBox(
         decoration: BoxDecoration(
           gradient: LinearGradient(
@@ -2079,7 +2146,7 @@ class _FlashcardsPageState extends State<FlashcardsPage> {
   }
 }
 
-class SettingsPage extends StatelessWidget {
+class SettingsPage extends StatefulWidget {
   const SettingsPage({
     super.key,
     required this.client,
@@ -2087,6 +2154,7 @@ class SettingsPage extends StatelessWidget {
     required this.onThemeModeChanged,
     required this.chineseFontOption,
     required this.onChineseFontOptionChanged,
+    this.lineStudyStore,
   });
 
   final BackendClient client;
@@ -2094,6 +2162,555 @@ class SettingsPage extends StatelessWidget {
   final ValueChanged<ThemeMode> onThemeModeChanged;
   final ChineseFontOption chineseFontOption;
   final ValueChanged<ChineseFontOption> onChineseFontOptionChanged;
+  final LineStudyStore? lineStudyStore;
+
+  @override
+  State<SettingsPage> createState() => _SettingsPageState();
+}
+
+class _SettingsPageState extends State<SettingsPage> {
+  static const Map<String, int> _curriculumOrder = {
+    'da-xue': 0,
+    'zhong-yong': 1,
+    'lunyu': 2,
+    'mengzi': 3,
+    'sunzi-bingfa': 4,
+    'daodejing': 5,
+    'san-zi-jing': 6,
+    'qian-zi-wen': 7,
+    'sanguo-yanyi': 8,
+    'chengyu-catalog': 9,
+  };
+
+  static const Map<String, String> _exportActionById = {
+    'book': 'Export all translations in this book',
+    'chapter': 'Export translations in this chapter',
+  };
+
+  late Future<List<BookDetail>> _exportBooksFuture;
+  String? _selectedExportBookId;
+  String? _selectedExportChapterId;
+  bool _isExportingByBook = false;
+  bool _isExportingByChapter = false;
+
+  LineStudyStore get _lineStudyStore =>
+      widget.lineStudyStore ?? SharedPreferencesLineStudyStore.instance;
+
+  @override
+  void initState() {
+    super.initState();
+    _reloadExportBooks();
+  }
+
+  void _reloadExportBooks() {
+    setState(() {
+      _exportBooksFuture = _loadExportBooks();
+    });
+  }
+
+  Future<List<BookDetail>> _loadExportBooks() async {
+    final bookSummaries = await widget.client.fetchBooks();
+    final orderedBookSummaries = <BookSummary>[...bookSummaries]..sort(_compareBooks);
+    final books = await Future.wait<BookDetail>(
+      orderedBookSummaries.map((summary) => widget.client.fetchBook(summary.id)),
+    );
+
+    if (!mounted) {
+      return books;
+    }
+
+    if (books.isEmpty) {
+      setState(() {
+        _selectedExportBookId = null;
+        _selectedExportChapterId = null;
+      });
+      return books;
+    }
+
+    final selectedBook = _findBookById(
+      books: books,
+      bookId: _selectedExportBookId ?? books.first.id,
+    );
+    final selectedBookId = selectedBook?.id;
+    if (selectedBookId == null) {
+      setState(() {
+        _selectedExportBookId = books.first.id;
+        _selectedExportChapterId = books.first.chapters.isNotEmpty
+            ? books.first.chapters.first.id
+            : null;
+      });
+      return books;
+    }
+
+    final selectedBookSafe = _findBookById(
+      books: books,
+      bookId: selectedBookId,
+    );
+    if (selectedBookSafe == null) {
+      setState(() {
+        _selectedExportBookId = books.first.id;
+        _selectedExportChapterId = books.first.chapters.isNotEmpty
+            ? books.first.chapters.first.id
+            : null;
+      });
+      return books;
+    }
+
+    final selectedChapterId = _selectedExportChapterId;
+    final hasSelectedChapter = selectedChapterId != null &&
+        selectedBookSafe.chapters.any((chapter) => chapter.id == selectedChapterId);
+    setState(() {
+      _selectedExportBookId = selectedBookId;
+      _selectedExportChapterId = hasSelectedChapter
+          ? selectedChapterId
+          : (selectedBookSafe.chapters.isNotEmpty
+                ? selectedBookSafe.chapters.first.id
+                : null);
+    });
+
+    return books;
+  }
+
+  int _compareBooks(BookSummary left, BookSummary right) {
+    final leftOrder = _curriculumOrder[left.id] ?? 999;
+    final rightOrder = _curriculumOrder[right.id] ?? 999;
+    if (leftOrder != rightOrder) {
+      return leftOrder.compareTo(rightOrder);
+    }
+    return left.title.compareTo(right.title);
+  }
+
+  BookDetail? _findBookById({
+    required List<BookDetail> books,
+    required String bookId,
+  }) {
+    for (final book in books) {
+      if (book.id == bookId) {
+        return book;
+      }
+    }
+    return null;
+  }
+
+  ChapterSummary? _findChapterById({
+    required BookDetail book,
+    required String? chapterId,
+  }) {
+    if (chapterId == null) {
+      return null;
+    }
+    for (final chapter in book.chapters) {
+      if (chapter.id == chapterId) {
+        return chapter;
+      }
+    }
+    return null;
+  }
+
+  void _showExportSnackBar(String message) {
+    if (!mounted) {
+      return;
+    }
+
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(content: Text(message)),
+    );
+  }
+
+  void _onExportBookChanged(String? bookId) {
+    if (bookId == null || bookId == _selectedExportBookId) {
+      return;
+    }
+
+    setState(() {
+      _selectedExportBookId = bookId;
+      _selectedExportChapterId = null;
+    });
+  }
+
+  void _onExportChapterChanged(String? chapterId) {
+    setState(() {
+      _selectedExportChapterId = chapterId;
+    });
+  }
+
+  Future<List<Map<String, dynamic>>> _translationRowsFromChapter({
+    required String bookId,
+    required ChapterDetail chapter,
+  }) async {
+    final storedEntries = await _lineStudyStore.loadChapterEntries(
+      bookId: bookId,
+      chapterId: chapter.id,
+    );
+    if (storedEntries.isEmpty) {
+      return const [];
+    }
+
+    final translationRows = <Map<String, dynamic>>[];
+    final readingUnitsById = <String, ReadingUnit>{
+      for (final readingUnit in chapter.readingUnits) readingUnit.id: readingUnit,
+    };
+    final usedReadingUnitIds = <String>{};
+
+    for (final readingUnit in chapter.readingUnits) {
+      final entry = storedEntries[readingUnit.id];
+      if (entry == null || !entry.hasTranslation) {
+        continue;
+      }
+
+      usedReadingUnitIds.add(readingUnit.id);
+      translationRows.add(
+        <String, dynamic>{
+          'chapterId': chapter.id,
+          'chapterOrder': chapter.order,
+          'chapterTitle': chapter.title,
+          'chapterSummary': chapter.summary,
+          'readingUnitId': readingUnit.id,
+          'readingUnitOrder': readingUnit.order,
+          'readingUnitText': readingUnit.text,
+          'translation': entry.translation,
+        },
+      );
+    }
+
+    final orphanReadingUnitIds = storedEntries.keys.toList()..sort();
+    for (final readingUnitId in orphanReadingUnitIds) {
+      final entry = storedEntries[readingUnitId];
+      if (entry == null || !entry.hasTranslation) {
+        continue;
+      }
+
+      if (usedReadingUnitIds.contains(readingUnitId)) {
+        continue;
+      }
+
+      final readingUnit = readingUnitsById[readingUnitId];
+      translationRows.add(
+        <String, dynamic>{
+          'chapterId': chapter.id,
+          'chapterOrder': chapter.order,
+          'chapterTitle': chapter.title,
+          'chapterSummary': chapter.summary,
+          'readingUnitId': readingUnitId,
+          if (readingUnit != null) ...{
+            'readingUnitOrder': readingUnit.order,
+            'readingUnitText': readingUnit.text,
+          },
+          'translation': entry.translation,
+        },
+      );
+    }
+
+    return translationRows;
+  }
+
+  Future<void> _exportTranslationsByBook(BookDetail book) async {
+    if (_isExportingByBook || !mounted) {
+      return;
+    }
+
+    setState(() {
+      _isExportingByBook = true;
+    });
+
+    try {
+      final orderedChapters = [...book.chapters]
+        ..sort((left, right) => left.order.compareTo(right.order));
+      final chapterDetails = await Future.wait(
+        orderedChapters
+            .map((chapter) => widget.client.fetchChapter(book.id, chapter.id)),
+      );
+
+      final translationRows = <Map<String, dynamic>>[];
+      for (final chapter in chapterDetails) {
+        final chapterRows = await _translationRowsFromChapter(
+          bookId: book.id,
+          chapter: chapter,
+        );
+        translationRows.addAll(chapterRows);
+      }
+
+      if (translationRows.isEmpty) {
+        _showExportSnackBar(
+          'No translations found for ${displayBookTitle(bookId: book.id, title: book.title)}.',
+        );
+        return;
+      }
+
+      final payload = <String, dynamic>{
+        'scope': 'book',
+        'exportedAtUtc': DateTime.now().toUtc().toIso8601String(),
+        'bookId': book.id,
+        'bookTitle': book.title,
+        'translations': translationRows,
+      };
+      await Clipboard.setData(ClipboardData(text: jsonEncode(payload)));
+      _showExportSnackBar(
+        'Exported ${translationRows.length} translations for ${displayBookTitle(bookId: book.id, title: book.title)}.',
+      );
+    } catch (error) {
+      _showExportSnackBar(
+        'Could not export ${_exportActionById['book']}: $error',
+      );
+    } finally {
+      if (!mounted) {
+        return;
+      }
+
+      setState(() {
+        _isExportingByBook = false;
+      });
+    }
+  }
+
+  Future<void> _exportTranslationsByChapter(BookDetail book) async {
+    final chapter = _findChapterById(
+      book: book,
+      chapterId: _selectedExportChapterId,
+    );
+    if (chapter == null || _isExportingByChapter || !mounted) {
+      return;
+    }
+
+    setState(() {
+      _isExportingByChapter = true;
+    });
+
+    try {
+      final chapterDetail = await widget.client.fetchChapter(
+        book.id,
+        chapter.id,
+      );
+      final translationRows = await _translationRowsFromChapter(
+        bookId: book.id,
+        chapter: chapterDetail,
+      );
+
+      if (translationRows.isEmpty) {
+        _showExportSnackBar(
+          'No translations found for ${displayChapterTitle(bookId: book.id, title: chapter.title)}.',
+        );
+        return;
+      }
+
+      final payload = <String, dynamic>{
+        'scope': 'chapter',
+        'exportedAtUtc': DateTime.now().toUtc().toIso8601String(),
+        'bookId': book.id,
+        'bookTitle': book.title,
+        'chapterId': chapter.id,
+        'chapterOrder': chapter.order,
+        'chapterTitle': chapter.title,
+        'translations': translationRows,
+      };
+      await Clipboard.setData(ClipboardData(text: jsonEncode(payload)));
+      _showExportSnackBar(
+        'Exported ${translationRows.length} translations for ${displayChapterTitle(bookId: book.id, title: chapter.title)}.',
+      );
+    } catch (error) {
+      _showExportSnackBar(
+        'Could not export ${_exportActionById['chapter']}: $error',
+      );
+    } finally {
+      if (!mounted) {
+        return;
+      }
+
+      setState(() {
+        _isExportingByChapter = false;
+      });
+    }
+  }
+
+  Future<void> _onExportByBookPressed() async {
+    final books = await _exportBooksFuture;
+    if (!mounted) {
+      return;
+    }
+
+    final book = _findBookById(
+      books: books,
+      bookId: _selectedExportBookId ?? '',
+    );
+    if (book == null) {
+      _showExportSnackBar('Select a book first.');
+      return;
+    }
+
+    await _exportTranslationsByBook(book);
+  }
+
+  Future<void> _onExportByChapterPressed() async {
+    final books = await _exportBooksFuture;
+    if (!mounted) {
+      return;
+    }
+
+    final book = _findBookById(
+      books: books,
+      bookId: _selectedExportBookId ?? '',
+    );
+    if (book == null) {
+      _showExportSnackBar('Select a book first.');
+      return;
+    }
+
+    await _exportTranslationsByChapter(book);
+  }
+
+  Widget _buildExportButton({
+    required BuildContext context,
+    required String mode,
+    required bool isLoading,
+    required VoidCallback? onPressed,
+    required bool isBookScope,
+  }) {
+    final actionLabel = _exportActionById[mode] ?? '';
+    return FilledButton.icon(
+      onPressed: isLoading ? null : onPressed,
+      icon: isLoading
+          ? const SizedBox(
+              height: 16,
+              width: 16,
+              child: CircularProgressIndicator(strokeWidth: 2),
+            )
+      : const Icon(Icons.upload_file_outlined),
+      label: Text(isLoading ? 'Exporting…' : actionLabel),
+      key: ValueKey('export-$mode-button'),
+      style: isBookScope
+          ? FilledButton.styleFrom()
+          : FilledButton.styleFrom(
+              backgroundColor:
+                  Theme.of(context).colorScheme.secondary,
+              foregroundColor: Theme.of(context).colorScheme.onSecondary,
+            ),
+    );
+  }
+
+  Widget _buildTranslationExportPanel(BuildContext context) {
+    return _StatusCard(
+      title: 'Export translations',
+      child: FutureBuilder<List<BookDetail>>(
+        future: _exportBooksFuture,
+        builder: (context, snapshot) {
+          if (snapshot.connectionState != ConnectionState.done) {
+            return const Center(child: CircularProgressIndicator());
+          }
+
+          if (snapshot.hasError) {
+            return Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text('Could not load readings: ${snapshot.error}'),
+                const SizedBox(height: 16),
+                FilledButton(
+                  onPressed: _reloadExportBooks,
+                  child: const Text('Retry'),
+                ),
+              ],
+            );
+          }
+
+          final books = snapshot.data ?? const <BookDetail>[];
+          if (books.isEmpty) {
+            return const Text('No readings available to export.');
+          }
+
+          final selectedBook = _findBookById(
+            books: books,
+            bookId: _selectedExportBookId ?? books.first.id,
+          );
+          if (selectedBook == null) {
+            return const Text('No book selected.');
+          }
+
+          final sortedChapters = [...selectedBook.chapters]
+            ..sort((left, right) => left.order.compareTo(right.order));
+          final selectedChapter = _findChapterById(
+            book: selectedBook,
+            chapterId: _selectedExportChapterId ??
+                (sortedChapters.isNotEmpty ? sortedChapters.first.id : null),
+          );
+
+          return Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'Export your saved translations as JSON and paste them where you need them.',
+                style: Theme.of(context).textTheme.bodyMedium,
+              ),
+              const SizedBox(height: 16),
+              DropdownButtonFormField<String>(
+                key: const ValueKey('export-book-selector'),
+                value: selectedBook.id,
+                decoration: const InputDecoration(
+                  labelText: 'Book',
+                  border: OutlineInputBorder(),
+                ),
+                isExpanded: true,
+                items: books
+                    .map(
+                      (book) => DropdownMenuItem<String>(
+                        value: book.id,
+                        child: Text(displayBookTitle(bookId: book.id, title: book.title)),
+                      ),
+                    )
+                    .toList(),
+                onChanged: _onExportBookChanged,
+              ),
+              const SizedBox(height: 12),
+              _buildExportButton(
+                context: context,
+                mode: 'book',
+                isLoading: _isExportingByBook,
+                isBookScope: true,
+                onPressed: _selectedExportBookId == null ||
+                        _isExportingByChapter
+                    ? null
+                    : () => _onExportByBookPressed(),
+              ),
+              const SizedBox(height: 20),
+              DropdownButtonFormField<String>(
+                key: const ValueKey('export-chapter-selector'),
+                value: selectedChapter?.id,
+                decoration: const InputDecoration(
+                  labelText: 'Chapter',
+                  border: OutlineInputBorder(),
+                ),
+                isExpanded: true,
+                hint: const Text('Select a chapter'),
+                items: sortedChapters
+                    .map(
+                      (chapter) => DropdownMenuItem<String>(
+                        value: chapter.id,
+                        child: Text(
+                          _chapterMenuTitle(
+                            order: chapter.order,
+                            title: chapter.title,
+                          ),
+                        ),
+                      ),
+                    )
+                    .toList(),
+                onChanged: sortedChapters.isEmpty ? null : _onExportChapterChanged,
+              ),
+              const SizedBox(height: 12),
+              _buildExportButton(
+                context: context,
+                mode: 'chapter',
+                isLoading: _isExportingByChapter,
+                isBookScope: false,
+                onPressed: _selectedExportChapterId == null ||
+                        _isExportingByBook
+                    ? null
+                    : () => _onExportByChapterPressed(),
+              ),
+            ],
+          );
+        },
+      ),
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -2101,7 +2718,7 @@ class SettingsPage extends StatelessWidget {
     final previewBaseStyle =
         Theme.of(context).textTheme.titleLarge ?? const TextStyle();
     final previewBaseFontSize = previewBaseStyle.fontSize ?? 22;
-    final previewStyle = chineseFontOption.apply(
+    final previewStyle = widget.chineseFontOption.apply(
       previewBaseStyle.copyWith(fontSize: previewBaseFontSize * 1.6),
     );
 
@@ -2113,7 +2730,7 @@ class SettingsPage extends StatelessWidget {
           children: [
             _StatusCard(
               title: 'Backend connection',
-              child: Text('Current API base URL: ${client.baseUrl}'),
+              child: Text('Current API base URL: ${widget.client.baseUrl}'),
             ),
             const SizedBox(height: 16),
             _StatusCard(
@@ -2134,14 +2751,14 @@ class SettingsPage extends StatelessWidget {
                         key: ValueKey('theme-mode-${mode.name}'),
                         avatar: Icon(_themeModeIcon(mode), size: 18),
                         label: Text(_themeModeLabel(mode)),
-                        selected: mode == themeMode,
-                        onSelected: (_) => onThemeModeChanged(mode),
+                        selected: mode == widget.themeMode,
+                        onSelected: (_) => widget.onThemeModeChanged(mode),
                       );
                     }).toList(),
                   ),
                   const SizedBox(height: 12),
                   Text(
-                    _themeModeDescription(themeMode),
+                    _themeModeDescription(widget.themeMode),
                     style: Theme.of(context).textTheme.bodySmall?.copyWith(
                       color: colorScheme.onSurfaceVariant,
                     ),
@@ -2160,42 +2777,42 @@ class SettingsPage extends StatelessWidget {
                     style: Theme.of(context).textTheme.bodyMedium,
                   ),
                   const SizedBox(height: 16),
-                  KeyedSubtree(
-                    key: ValueKey(
-                      'chinese-font-selector-${chineseFontOption.name}',
-                    ),
-                    child: DropdownButtonFormField<ChineseFontOption>(
-                      key: const ValueKey('chinese-font-selector'),
-                      initialValue: chineseFontOption,
-                      decoration: const InputDecoration(
-                        labelText: 'Chinese font',
-                        border: OutlineInputBorder(),
-                      ),
-                      items: _chineseFontOptions.map((option) {
-                        return DropdownMenuItem<ChineseFontOption>(
-                          value: option,
-                          child: Text(option.label),
-                        );
-                      }).toList(),
-                      onChanged: (option) {
-                        if (option == null) {
-                          return;
-                        }
-                        onChineseFontOptionChanged(option);
-                      },
-                    ),
-                  ),
+                   KeyedSubtree(
+                     key: ValueKey(
+                       'chinese-font-selector-${widget.chineseFontOption.name}',
+                     ),
+                     child: DropdownButtonFormField<ChineseFontOption>(
+                       key: const ValueKey('chinese-font-selector'),
+                       initialValue: widget.chineseFontOption,
+                       decoration: const InputDecoration(
+                         labelText: 'Chinese font',
+                         border: OutlineInputBorder(),
+                       ),
+                       items: _chineseFontOptions.map((option) {
+                         return DropdownMenuItem<ChineseFontOption>(
+                           value: option,
+                           child: Text(option.label),
+                         );
+                       }).toList(),
+                       onChanged: (option) {
+                         if (option == null) {
+                           return;
+                         }
+                         widget.onChineseFontOptionChanged(option);
+                       },
+                     ),
+                   ),
                   const SizedBox(height: 12),
-                  Text(
-                    chineseFontOption.description,
-                    style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                      color: colorScheme.onSurfaceVariant,
+                    Text(
+                      widget.chineseFontOption.description,
+                      style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                        color: colorScheme.onSurfaceVariant,
+                      ),
                     ),
-                  ),
                   const SizedBox(height: 16),
                   KeyedSubtree(
                     key: ValueKey(
-                      'chinese-font-preview-${chineseFontOption.name}',
+                      'chinese-font-preview-${widget.chineseFontOption.name}',
                     ),
                     child: Text(
                       '大學之道，在明明德。',
@@ -2206,6 +2823,8 @@ class SettingsPage extends StatelessWidget {
                 ],
               ),
             ),
+            const SizedBox(height: 16),
+            _buildTranslationExportPanel(context),
           ],
         ),
       ),
@@ -2242,10 +2861,10 @@ class _ReadingMenuData {
 }
 
 class _ReadingMenuPageState extends State<ReadingMenuPage> {
-  static const String _referenceIndexesMenuDisplayTitle = '參考：漢字部件';
-  static const String _referenceIndexesMenuSupportTitle = '參考漢字部件';
+  static const String _referenceIndexesMenuDisplayTitle = '漢字部件';
+  static const String _referenceIndexesMenuSupportTitle = '漢字部件';
   static const String _referenceIndexesMenuSubtitle =
-      'Reference: character components';
+      'Hanzi character components';
   static const int _menuLoopCyclesPerSide = 200;
   static const ValueKey<String> _readingMenuLoopCenterKey = ValueKey<String>(
     'reading-menu-loop-center',
@@ -2274,7 +2893,7 @@ class _ReadingMenuPageState extends State<ReadingMenuPage> {
   @override
   void initState() {
     super.initState();
-    _readingMenuScrollController = ScrollController();
+    _readingMenuScrollController = ScrollController(keepScrollOffset: false);
     _componentsFuture = widget.client.fetchCharacterComponents();
     _characterIndexFuture = _loadOptionalCharacterIndex(widget.client);
     _readingMenuFuture = _loadReadingMenu();
@@ -2289,7 +2908,7 @@ class _ReadingMenuPageState extends State<ReadingMenuPage> {
   Future<_ReadingMenuData> _loadReadingMenu() async {
     final books = await widget.client.fetchBooks();
     final orderedBooks = [...books]..sort(_compareBooks);
-    final bookDetails = await Future.wait(
+    final bookDetails = await Future.wait<BookDetail>(
       orderedBooks.map((book) => widget.client.fetchBook(book.id)),
     );
     final characterIndex = await _characterIndexFuture;
@@ -2402,15 +3021,21 @@ class _ReadingMenuPageState extends State<ReadingMenuPage> {
     _ReadingMenuData menuData,
     int logicalIndex,
   ) {
-    if (logicalIndex == 0) {
+    const characterComponentsMenuIndex = 0;
+    final characterComponentsMenuLogicalIndex = menuData.books.length;
+
+    if (logicalIndex == characterComponentsMenuLogicalIndex) {
       return FutureBuilder<CharacterComponentsDataset>(
         future: _componentsFuture,
         builder: (context, componentsSnapshot) {
           if (componentsSnapshot.connectionState != ConnectionState.done) {
-            return const _LibraryMenuTile(
-              title: '0. 參考：漢字部件',
-              subtitle: Text('Reference: character components'),
-              trailing: Padding(
+            return _LibraryMenuTile(
+              title: _topLevelMenuTitle(
+                index: characterComponentsMenuIndex,
+                title: _referenceIndexesMenuDisplayTitle,
+              ),
+              subtitle: const Text('Hanzi character components'),
+              trailing: const Padding(
                 padding: EdgeInsets.only(left: 12),
                 child: SizedBox(
                   width: 24,
@@ -2423,7 +3048,7 @@ class _ReadingMenuPageState extends State<ReadingMenuPage> {
 
           if (componentsSnapshot.hasError) {
             return _MessageCard(
-              title: 'Character components unavailable',
+              title: 'Hanzi character components unavailable',
               message: '${componentsSnapshot.error}',
               buttonLabel: 'Retry',
               onPressed: _reload,
@@ -2433,7 +3058,7 @@ class _ReadingMenuPageState extends State<ReadingMenuPage> {
           final dataset = componentsSnapshot.data;
           if (dataset == null) {
             return _MessageCard(
-              title: 'Character components unavailable',
+              title: 'Hanzi character components unavailable',
               message: 'The backend returned an empty components dataset.',
               buttonLabel: 'Retry',
               onPressed: _reload,
@@ -2442,7 +3067,7 @@ class _ReadingMenuPageState extends State<ReadingMenuPage> {
 
           return _LibraryMenuTile(
             title: _topLevelMenuTitle(
-              index: 0,
+              index: characterComponentsMenuIndex,
               title: _referenceIndexesMenuDisplayTitle,
             ),
             subtitle: const Text(_referenceIndexesMenuSubtitle),
@@ -2469,7 +3094,7 @@ class _ReadingMenuPageState extends State<ReadingMenuPage> {
       );
     }
 
-    final book = menuData.books[logicalIndex - 1];
+    final book = menuData.books[logicalIndex];
     final lineStudyCounts =
         menuData.lineStudyCountsByBookId[book.id] ?? const _LineStudyCounts();
     return _ReadingMenuCard(
@@ -2477,7 +3102,7 @@ class _ReadingMenuPageState extends State<ReadingMenuPage> {
       book: book,
       characterIndex: menuData.characterIndex,
       characterComponentsFuture: _componentsFuture,
-      menuIndex: logicalIndex,
+      menuIndex: logicalIndex + 1,
       lineStudySummary: _savedLineStudyCountSummary(
         translationCount: lineStudyCounts.translationCount,
         responseCount: lineStudyCounts.responseCount,
@@ -2613,8 +3238,8 @@ class CharacterReferencePage extends StatelessWidget {
         appBar: AppBar(
           toolbarHeight: 72,
           title: _TranslatedTitle(
-            primary: '參考：漢字與部件',
-            translation: 'Reference: Character and component indexes',
+            primary: '漢字與部件',
+            translation: 'Character and component indexes',
             primaryStyle: textTheme.titleLarge,
             translationStyle: _supportTableEnglishTextStyle(context),
             primaryMaxLines: 1,
@@ -2911,14 +3536,10 @@ class _CharacterIndexDatasetListState
           Text(
             reading,
             softWrap: true,
-            style: _withLargerChineseFont(
+            style: _supportTableReadingTextStyle(
               context,
               reading,
-              textTheme.bodySmall?.copyWith(
-                color: colorScheme.onSurfaceVariant,
-              ),
-              fallbackFontSize: 12,
-              sizeIncrease: 1,
+              color: colorScheme.onSurfaceVariant,
             ),
           ),
         ],
@@ -3048,8 +3669,8 @@ class CharacterComponentsPage extends StatelessWidget {
       appBar: AppBar(
         toolbarHeight: 72,
         title: _TranslatedTitle(
-          primary: '參考：漢字部件',
-          translation: 'Reference: Character components',
+          primary: '漢字部件',
+          translation: 'Hanzi character components',
           primaryStyle: textTheme.titleLarge,
           translationStyle: _supportTableEnglishTextStyle(context),
           primaryMaxLines: 1,
@@ -3246,6 +3867,59 @@ class _CharacterComponentsDatasetListState
     await Scrollable.ensureVisible(
       resolvedChapterContext,
       alignment: 0,
+      alignmentPolicy: ScrollPositionAlignmentPolicy.explicit,
+      duration: _componentScrollDuration,
+      curve: Curves.easeInOutCubic,
+    );
+
+    await _alignChapterToTop(chapterLoopIndex, requestId);
+  }
+
+  Future<void> _alignChapterToTop(
+    int chapterLoopIndex,
+    int requestId,
+  ) async {
+    await WidgetsBinding.instance.endOfFrame;
+    if (!uiActive ||
+        requestId != _scrollRequestId ||
+        _expandedChapterLoopIndex != chapterLoopIndex ||
+        !_scrollController.hasClients) {
+      return;
+    }
+
+    final chapterContext = _chapterKeyForLoopIndex(chapterLoopIndex).currentContext;
+    if (chapterContext == null || !chapterContext.mounted) {
+      return;
+    }
+
+    final chapterRenderObject = chapterContext.findRenderObject();
+    final scrollViewportRenderObject = _scrollController.position.context.storageContext
+        .findRenderObject();
+
+    if (chapterRenderObject is! RenderBox ||
+        scrollViewportRenderObject is! RenderBox) {
+      return;
+    }
+
+    final chapterTopOffset = chapterRenderObject.localToGlobal(
+      Offset.zero,
+      ancestor: scrollViewportRenderObject,
+    ).dy;
+
+    if (chapterTopOffset.abs() <= 1) {
+      return;
+    }
+
+    final targetOffset = (_scrollController.offset + chapterTopOffset).clamp(
+      _scrollController.position.minScrollExtent,
+      _scrollController.position.maxScrollExtent,
+    );
+    if (targetOffset == _scrollController.offset) {
+      return;
+    }
+
+    await _scrollController.animateTo(
+      targetOffset,
       duration: _componentScrollDuration,
       curve: Curves.easeInOutCubic,
     );
@@ -3664,7 +4338,6 @@ class _CharacterComponentsDatasetListState
     _CharacterComponentExampleRow example,
     int exampleIndex,
   ) {
-    final textTheme = Theme.of(context).textTheme;
     final supportTableEnglishStyle = _supportTableEnglishTextStyle(context);
     final reading = _formatCombinedReadingValues(
       pinyin: example.pinyin,
@@ -3692,7 +4365,11 @@ class _CharacterComponentsDatasetListState
               ),
               if (_hasVisibleText(reading)) ...[
                 const SizedBox(height: 2),
-                Text(reading, softWrap: true, style: textTheme.bodySmall),
+                Text(
+                  reading,
+                  softWrap: true,
+                  style: _supportTableReadingTextStyle(context, reading),
+                ),
               ],
             ],
           ),
@@ -3717,9 +4394,6 @@ class _CharacterComponentsDatasetListState
   ) {
     final colorScheme = Theme.of(context).colorScheme;
     final textTheme = Theme.of(context).textTheme;
-    final secondaryStyle = textTheme.bodySmall?.copyWith(
-      color: colorScheme.onSurfaceVariant,
-    );
     final supportTableEnglishStyle = _supportTableEnglishTextStyle(context);
     final reading = _formatCombinedReading(row);
     final hasExamples = row.exampleCharacters.isNotEmpty;
@@ -3738,12 +4412,10 @@ class _CharacterComponentsDatasetListState
           Text(
             reading,
             softWrap: true,
-            style: _withLargerChineseFont(
+            style: _supportTableReadingTextStyle(
               context,
               reading,
-              secondaryStyle,
-              fallbackFontSize: 12,
-              sizeIncrease: 1,
+              color: colorScheme.onSurfaceVariant,
             ),
           ),
         ],
@@ -3869,6 +4541,16 @@ class _CharacterComponentsDatasetListState
         title: _characterComponentsChapterTitle(chapterIndex),
         subtitle: Text(
           _componentChapterCountSummary(_entriesForChapter(chapterIndex)),
+        ),
+        trailing: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            _ChapterArrowPulse(
+              icon: isExpanded ? Icons.expand_less : Icons.expand_more,
+              color: _appSeedColor,
+              pulseWhen: !isExpanded,
+            ),
+          ],
         ),
         expandedChild: isExpanded
             ? _buildChapterReader(context, chapterIndex)
@@ -4005,6 +4687,9 @@ class BookChaptersPage extends StatefulWidget {
 class _BookChaptersPageState extends State<BookChaptersPage> {
   static const Duration _chapterScrollDelay = Duration(milliseconds: 180);
   static const Duration _chapterScrollDuration = Duration(milliseconds: 450);
+  static const Duration _chapterAlignRetryDelay = Duration(milliseconds: 60);
+  static const int _chapterAlignRetryCount = 8;
+  static const double _chapterAlignTolerance = 1;
   static const double _estimatedCollapsedChapterExtent = 148;
   static const double _chapterCardSpacing = 12;
   static const int _minimumChaptersForLooping = 3;
@@ -4174,6 +4859,16 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
     if (nextExpandedChapterLoopIndex != null) {
       unawaited(_persistExpandedChapter(chapterId));
       _scrollChapterToTop(chapterLoopIndex);
+    } else {
+      unawaited(
+        _readingProgressStore.saveBookProgress(
+          bookId: widget.book.id,
+          progress: const BookReadingProgress(
+            chapterId: '',
+            readingUnitIndex: 0,
+          ),
+        ),
+      );
     }
   }
 
@@ -4263,9 +4958,107 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
     await Scrollable.ensureVisible(
       resolvedChapterContext,
       alignment: 0,
+      alignmentPolicy: ScrollPositionAlignmentPolicy.explicit,
       duration: _chapterScrollDuration,
       curve: Curves.easeInOutCubic,
     );
+
+    await _alignChapterToTop(chapterLoopIndex, requestId);
+  }
+
+  Future<void> _alignChapterToTop(
+    int chapterLoopIndex,
+    int requestId,
+  ) async {
+    for (var attempt = 0; attempt < _chapterAlignRetryCount; attempt++) {
+      await WidgetsBinding.instance.endOfFrame;
+      if (!uiActive ||
+          requestId != _scrollRequestId ||
+          _expandedChapterLoopIndex != chapterLoopIndex ||
+          !_scrollController.hasClients) {
+        return;
+      }
+
+      final chapterContext = _chapterKeyForLoopIndex(chapterLoopIndex).currentContext;
+      if (chapterContext == null || !chapterContext.mounted) {
+        return;
+      }
+
+      final chapterRenderObject = chapterContext.findRenderObject();
+      final chapterViewport = chapterRenderObject == null
+          ? null
+          : RenderAbstractViewport.of(chapterRenderObject);
+      if (chapterRenderObject == null || chapterViewport == null) {
+        return;
+      }
+
+      final chapterRevealOffset = chapterViewport
+          .getOffsetToReveal(chapterRenderObject, 0.0)
+          .offset;
+
+      if (chapterRevealOffset.abs() <= _chapterAlignTolerance &&
+          attempt < _chapterAlignRetryCount - 1) {
+        await Future<void>.delayed(_chapterAlignRetryDelay);
+        continue;
+      }
+
+      final targetOffset = (_scrollController.offset + chapterRevealOffset).clamp(
+        _scrollController.position.minScrollExtent,
+        _scrollController.position.maxScrollExtent,
+      );
+      if ((targetOffset - _scrollController.offset).abs() <=
+          _chapterAlignTolerance) {
+        if (attempt < _chapterAlignRetryCount - 1) {
+          await Future<void>.delayed(_chapterAlignRetryDelay);
+          continue;
+        }
+        return;
+      }
+
+      await _scrollController.animateTo(
+        targetOffset,
+        duration: attempt == 0 ? _chapterScrollDuration : _chapterAlignRetryDelay,
+        curve: Curves.easeInOutCubic,
+      );
+    }
+
+    if (!uiActive ||
+        requestId != _scrollRequestId ||
+        _expandedChapterLoopIndex != chapterLoopIndex ||
+        !_scrollController.hasClients) {
+      return;
+    }
+
+    final finalChapterContext = _chapterKeyForLoopIndex(chapterLoopIndex).currentContext;
+    if (finalChapterContext == null || !finalChapterContext.mounted) {
+      return;
+    }
+
+    final finalChapterRenderObject = finalChapterContext.findRenderObject();
+    final finalChapterViewport = finalChapterRenderObject == null
+        ? null
+        : RenderAbstractViewport.of(finalChapterRenderObject);
+    if (finalChapterRenderObject == null || finalChapterViewport == null) {
+      return;
+    }
+
+    final finalChapterRevealOffset = finalChapterViewport
+        .getOffsetToReveal(finalChapterRenderObject, 0.0)
+        .offset;
+    if (finalChapterRevealOffset.abs() <= _chapterAlignTolerance) {
+      return;
+    }
+
+    final finalTargetOffset = (_scrollController.offset + finalChapterRevealOffset)
+        .clamp(
+          _scrollController.position.minScrollExtent,
+          _scrollController.position.maxScrollExtent,
+        );
+    if (finalTargetOffset == _scrollController.offset) {
+      return;
+    }
+
+    _scrollController.jumpTo(finalTargetOffset);
   }
 
   Future<void> _openNextChapterFrom(int chapterLoopIndex) async {
@@ -4411,16 +5204,24 @@ class _BookChaptersPageState extends State<BookChaptersPage> {
       title: widget.book.title,
     );
 
-    return Scaffold(
+  return Scaffold(
       appBar: AppBar(
-        toolbarHeight: bookTitleTranslation == null ? kToolbarHeight : 72,
-        title: _TranslatedTitle(
-          primary: bookDisplayTitle,
-          translation: bookTitleTranslation,
-          primaryStyle: textTheme.titleLarge,
-          translationStyle: _supportTableEnglishTextStyle(context),
-          primaryMaxLines: 1,
-          translationMaxLines: 1,
+        toolbarHeight: 72,
+        title: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            _TranslatedTitle(
+              primary: bookDisplayTitle,
+              translation: bookTitleTranslation == null
+                  ? 'Chapter List'
+                  : '$bookTitleTranslation · Chapter List',
+              primaryStyle: textTheme.titleLarge,
+              translationStyle: _supportTableEnglishTextStyle(context),
+              primaryMaxLines: 1,
+              translationMaxLines: 1,
+            ),
+          ],
         ),
       ),
       body: Padding(
@@ -4497,6 +5298,7 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
   final Map<String, LineStudyEntry> _lineStudyEntries = {};
   int _currentReadingUnitIndex = 0;
   bool _isExplosionSheetOpen = false;
+  String _openLineForCharacterExplosion = '';
   bool _restoredReadingUnitIndex = false;
 
   LineStudyStore get _lineStudyStore =>
@@ -4916,6 +5718,9 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
         characterIndexFuture: _characterIndexFuture,
         characterComponentsFuture: _characterComponentsFuture,
         onCharacterTap: _openCharacterExplosionSheet,
+        openLine: _openLineForCharacterExplosion,
+        onCharacterComponentChat: (characterComponent) =>
+            _openGuidedChatThreadFromCharacterComponent(characterComponent),
         onBack: _goBackInExploder,
         onForward: _goForwardInExploder,
       ),
@@ -4924,11 +5729,34 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
     });
   }
 
-  void _openCharacterExplosionSheet(String character) {
+  Future<void> _openGuidedChatThreadFromCharacterComponent(
+    String characterComponent,
+  ) async {
+    try {
+      final chapter = await _chapterFuture;
+      if (!uiActive || chapter.readingUnits.isEmpty) {
+        return;
+      }
+
+      await _openGuidedChatThread(
+        chapter,
+        openLine: _openLineForCharacterExplosion,
+        focusedCharacterComponent: characterComponent,
+      );
+    } on Exception {
+      return;
+    }
+  }
+
+  void _openCharacterExplosionSheet(
+    String character, {
+    String openLine = '',
+  }) {
     if (!_containsChineseText(character)) {
       return;
     }
 
+    _openLineForCharacterExplosion = openLine.trim();
     _addCharacterToExploder(character);
     _ensureCharacterExplosionSheetOpen();
   }
@@ -4936,6 +5764,7 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
   Future<void> _openLineStudyEditor({
     required ReadingUnit readingUnit,
     required _LineStudyField field,
+    String openLine = '',
   }) async {
     var lineStudyEntry = _lineStudyEntryFor(readingUnit.id);
     final initialValue = switch (field) {
@@ -4972,7 +5801,10 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
             _LineStudyField.translation => '',
             _LineStudyField.response => lineStudyEntry.translation,
           },
-          onReadingUnitCharacterTap: _openCharacterExplosionSheet,
+          onReadingUnitCharacterTap: (character) => _openCharacterExplosionSheet(
+            character,
+            openLine: openLine,
+          ),
           initialValue: initialValue,
           initialFeedback: switch (field) {
             _LineStudyField.translation => '',
@@ -5052,7 +5884,11 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
     );
   }
 
-  Future<void> _openGuidedChatThread(ChapterDetail chapter) async {
+  Future<void> _openGuidedChatThread(
+    ChapterDetail chapter, {
+    String openLine = '',
+    String focusedCharacterComponent = '',
+  }) async {
     if (chapter.readingUnits.isEmpty) {
       return;
     }
@@ -5105,6 +5941,8 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
                 _storeDraft(_messageDrafts, currentReadingUnit.id, value);
               },
               onCharacterTap: _openCharacterExplosionSheet,
+              openLine: openLine,
+              focusedCharacterComponent: focusedCharacterComponent,
             ),
           ),
         );
@@ -5140,6 +5978,7 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
     required String bottomKeyPrefix,
     bool showTopLineJump = true,
     bool topLineJumpShowsNavigationButtons = true,
+    required String openLine,
     String? bottomLineJumpKeyPrefix,
     bool bottomLineJumpShowsNavigationButtons = true,
   }) {
@@ -5166,7 +6005,10 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
         _InteractiveChineseText(
           text: simplifiedText,
           keyPrefix: topKeyPrefix,
-          onCharacterTap: _openCharacterExplosionSheet,
+          onCharacterTap: (character) => _openCharacterExplosionSheet(
+            character,
+            openLine: openLine,
+          ),
           style: _withLargerChineseFont(
             context,
             simplifiedText,
@@ -5202,7 +6044,10 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
         _InteractiveChineseText(
           text: simplifiedText,
           keyPrefix: bottomKeyPrefix,
-          onCharacterTap: _openCharacterExplosionSheet,
+          onCharacterTap: (character) => _openCharacterExplosionSheet(
+            character,
+            openLine: openLine,
+          ),
           style: _withLargerChineseFont(
             context,
             simplifiedText,
@@ -5330,17 +6175,20 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
               chapterLineCount: chapter.readingUnits.length,
               characterIndex: characterIndex,
               lineStudyEntry: lineStudyEntry,
-              onTranslatePressed: () => _openLineStudyEditor(
-                readingUnit: readingUnit,
-                field: _LineStudyField.translation,
-              ),
-              onRespondPressed: () => _openLineStudyEditor(
-                readingUnit: readingUnit,
-                field: _LineStudyField.response,
-              ),
+                          onTranslatePressed: () => _openLineStudyEditor(
+                            readingUnit: readingUnit,
+                            field: _LineStudyField.translation,
+                            openLine: readingUnit.text,
+                          ),
+                          onRespondPressed: () => _openLineStudyEditor(
+                            readingUnit: readingUnit,
+                            field: _LineStudyField.response,
+                            openLine: readingUnit.text,
+                          ),
               onLineNumberSubmitted: onLineNumberSubmitted,
               onPreviousPressed: onPreviousPressed,
               onNextPressed: onNextPressed,
+              openLine: readingUnit.text,
               topKeyPrefix:
                   'embedded-reading-line-${readingUnit.order}-top-character',
               bottomKeyPrefix:
@@ -5553,15 +6401,18 @@ class _ChapterReaderPageState extends State<ChapterReaderPage> {
                           onTranslatePressed: () => _openLineStudyEditor(
                             readingUnit: currentReadingUnit,
                             field: _LineStudyField.translation,
+                            openLine: currentReadingUnit.text,
                           ),
                           onRespondPressed: () => _openLineStudyEditor(
                             readingUnit: currentReadingUnit,
                             field: _LineStudyField.response,
+                            openLine: currentReadingUnit.text,
                           ),
                           onLineNumberSubmitted: (value) =>
                               _jumpToReadingUnitFromLineNumber(chapter, value),
                           onPreviousPressed: onPreviousPressed,
                           onNextPressed: onNextPressed,
+                          openLine: currentReadingUnit.text,
                           topKeyPrefix: 'current-reading-character',
                           bottomKeyPrefix: 'current-reading-repeat-character',
                           showTopLineJump: false,
@@ -6193,6 +7044,8 @@ class _GuidedChatThreadSheet extends StatefulWidget {
     required this.onThreadChanged,
     required this.onDraftChanged,
     required this.onCharacterTap,
+    this.openLine = '',
+    this.focusedCharacterComponent = '',
     this.readingUnit,
   });
 
@@ -6208,6 +7061,8 @@ class _GuidedChatThreadSheet extends StatefulWidget {
   final ValueChanged<List<GuidedConversationMessage>> onThreadChanged;
   final ValueChanged<String> onDraftChanged;
   final ValueChanged<String> onCharacterTap;
+  final String openLine;
+  final String focusedCharacterComponent;
 
   @override
   State<_GuidedChatThreadSheet> createState() => _GuidedChatThreadSheetState();
@@ -6284,8 +7139,16 @@ class _GuidedChatThreadSheetState extends State<_GuidedChatThreadSheet> {
       return 'Start the guided chat for the current line.';
     }
 
+    final trimmedOpenLine = widget.openLine.trim();
+    final trimmedFocusedCharacterComponent =
+        widget.focusedCharacterComponent.trim();
     final buffer = StringBuffer('Start the guided chat for the current line.')
       ..write('\n\nCurrent line:\n${readingUnit.text}');
+    if (trimmedOpenLine.isNotEmpty) {
+      buffer
+        ..write('\n\nOpen line:\n')
+        ..write(trimmedOpenLine);
+    }
     final category = readingUnit.category.trim();
     final translation = readingUnit.translationEn.trim();
 
@@ -6305,6 +7168,15 @@ class _GuidedChatThreadSheetState extends State<_GuidedChatThreadSheet> {
     final learnerResponse = widget.learnerResponse.trim();
     if (learnerResponse.isNotEmpty) {
       buffer.write('\n\nMy response to this line:\n$learnerResponse');
+    }
+
+    if (trimmedFocusedCharacterComponent.isNotEmpty) {
+      buffer
+        ..write(
+          '\n\nYou are helping a learner understand how the character component ',
+        )
+        ..write(trimmedFocusedCharacterComponent)
+        ..write(' functions in language, especially in the open line context.');
     }
 
     buffer.write(
@@ -6382,6 +7254,8 @@ class _GuidedChatThreadSheetState extends State<_GuidedChatThreadSheet> {
         chapterId: widget.chapterId,
         readingUnitId: widget.readingUnit?.id,
         messages: requestMessages,
+        openLine: widget.openLine,
+        characterComponent: widget.focusedCharacterComponent,
         learnerTranslation: widget.learnerTranslation,
         learnerResponse: widget.learnerResponse,
         previousLines: widget.previousLines,
@@ -6537,7 +7411,7 @@ class _GuidedChatThreadSheetState extends State<_GuidedChatThreadSheet> {
   }
 }
 
-class _InteractiveChineseText extends StatelessWidget {
+class _InteractiveChineseText extends StatefulWidget {
   const _InteractiveChineseText({
     required this.text,
     required this.style,
@@ -6551,41 +7425,84 @@ class _InteractiveChineseText extends StatelessWidget {
   final String? keyPrefix;
 
   @override
+  State<_InteractiveChineseText> createState() =>
+      _InteractiveChineseTextState();
+}
+
+class _InteractiveChineseTextState extends State<_InteractiveChineseText> {
+  final List<TapGestureRecognizer> _recognizers = [];
+
+  @override
+  void dispose() {
+    for (final recognizer in _recognizers) {
+      recognizer.dispose();
+    }
+    super.dispose();
+  }
+
+  void _disposeRecognizers() {
+    for (final recognizer in _recognizers) {
+      recognizer.dispose();
+    }
+    _recognizers.clear();
+  }
+
+  @override
   Widget build(BuildContext context) {
-    final runes = text.runes.toList(growable: false);
-    return Wrap(
-      children: [
-        for (var index = 0; index < runes.length; index++)
-          _buildCharacter(context, String.fromCharCode(runes[index]), index),
-      ],
+    _disposeRecognizers();
+    return SelectableText.rich(
+      TextSpan(
+        children: _buildSpans(context),
+      ),
+      maxLines: null,
+      textAlign: TextAlign.start,
     );
   }
 
-  Widget _buildCharacter(BuildContext context, String character, int index) {
-    final child = Text(character, style: style);
-    if (!_containsChineseText(character)) {
-      return child;
+  List<InlineSpan> _buildSpans(BuildContext context) {
+    final colorScheme = Theme.of(context).colorScheme;
+    final messageStyle = widget.style ?? DefaultTextStyle.of(context).style;
+    final linkStyle = messageStyle.copyWith(color: colorScheme.primary);
+    final spans = <InlineSpan>[];
+    final buffer = StringBuffer();
+    final runes = widget.text.runes.toList(growable: false);
+
+    void flushBuffer() {
+      if (buffer.isEmpty) {
+        return;
+      }
+
+      spans.add(TextSpan(text: buffer.toString(), style: messageStyle));
+      buffer.clear();
     }
 
-    final colorScheme = Theme.of(context).colorScheme;
-    final linkStyle = (style ?? const TextStyle()).copyWith(
-      color: colorScheme.primary,
-    );
+    for (var index = 0; index < runes.length; index++) {
+      final character = String.fromCharCode(runes[index]);
+      if (!_containsChineseText(character)) {
+        buffer.write(character);
+        continue;
+      }
 
-    return Semantics(
-      link: true,
-      child: GestureDetector(
-        key: keyPrefix == null
-            ? null
-            : ValueKey('$keyPrefix-$character-$index'),
-        onTap: () => onCharacterTap(character),
-        child: Text(character, style: linkStyle),
-      ),
-    );
+      flushBuffer();
+      final recognizer = TapGestureRecognizer()
+        ..onTap = () => widget.onCharacterTap(character);
+      _recognizers.add(recognizer);
+      spans.add(
+        TextSpan(
+          text: character,
+          style: linkStyle,
+          recognizer: recognizer,
+          mouseCursor: SystemMouseCursors.click,
+        ),
+      );
+    }
+
+    flushBuffer();
+    return spans;
   }
 }
 
-class _InteractiveChineseInlineText extends StatelessWidget {
+class _InteractiveChineseInlineText extends StatefulWidget {
   const _InteractiveChineseInlineText({
     required this.text,
     required this.style,
@@ -6599,26 +7516,48 @@ class _InteractiveChineseInlineText extends StatelessWidget {
   final String? keyPrefix;
 
   @override
+  State<_InteractiveChineseInlineText> createState() =>
+      _InteractiveChineseInlineTextState();
+}
+
+class _InteractiveChineseInlineTextState
+    extends State<_InteractiveChineseInlineText> {
+  final List<TapGestureRecognizer> _recognizers = [];
+
+  @override
+  void dispose() {
+    for (final recognizer in _recognizers) {
+      recognizer.dispose();
+    }
+    super.dispose();
+  }
+
+  void _disposeRecognizers() {
+    for (final recognizer in _recognizers) {
+      recognizer.dispose();
+    }
+    _recognizers.clear();
+  }
+
+  @override
   Widget build(BuildContext context) {
-    final messageStyle = style ?? DefaultTextStyle.of(context).style;
-    return Text.rich(
+    _disposeRecognizers();
+    return SelectableText.rich(
       TextSpan(
-        style: messageStyle,
-        children: _buildSpans(context, messageStyle),
+        children: _buildSpans(context),
       ),
-      softWrap: true,
+      maxLines: null,
     );
   }
 
-  List<InlineSpan> _buildSpans(BuildContext context, TextStyle messageStyle) {
+  List<InlineSpan> _buildSpans(BuildContext context) {
     final colorScheme = Theme.of(context).colorScheme;
-    final chineseStyle = _supportTableChineseTextStyle(
-      context,
-      text,
-    )?.copyWith(color: colorScheme.primary);
+    final messageStyle = widget.style ?? DefaultTextStyle.of(context).style;
+    final chineseStyle = _supportTableChineseTextStyle(context, widget.text)
+            ?.copyWith(color: colorScheme.primary) ??
+        messageStyle;
     final spans = <InlineSpan>[];
     final buffer = StringBuffer();
-    var chineseCharacterIndex = 0;
 
     void flushBuffer() {
       if (buffer.isEmpty) {
@@ -6629,7 +7568,7 @@ class _InteractiveChineseInlineText extends StatelessWidget {
       buffer.clear();
     }
 
-    for (final rune in text.runes) {
+    for (final rune in widget.text.runes) {
       final character = String.fromCharCode(rune);
       if (!_containsChineseText(character)) {
         buffer.write(character);
@@ -6637,23 +7576,17 @@ class _InteractiveChineseInlineText extends StatelessWidget {
       }
 
       flushBuffer();
+      final recognizer = TapGestureRecognizer()
+        ..onTap = () => widget.onCharacterTap(character);
+      _recognizers.add(recognizer);
       spans.add(
-        WidgetSpan(
-          alignment: PlaceholderAlignment.baseline,
-          baseline: TextBaseline.alphabetic,
-          child: Semantics(
-            link: true,
-            child: GestureDetector(
-              key: keyPrefix == null
-                  ? null
-                  : ValueKey('$keyPrefix-$character-$chineseCharacterIndex'),
-              onTap: () => onCharacterTap(character),
-              child: Text(character, style: chineseStyle),
-            ),
-          ),
+        TextSpan(
+          text: character,
+          style: chineseStyle,
+          recognizer: recognizer,
+          mouseCursor: SystemMouseCursors.click,
         ),
       );
-      chineseCharacterIndex += 1;
     }
 
     flushBuffer();
@@ -6668,6 +7601,8 @@ class _CharacterExplosionSheet extends StatefulWidget {
     required this.characterIndexFuture,
     required this.characterComponentsFuture,
     required this.onCharacterTap,
+    this.openLine = '',
+    this.onCharacterComponentChat,
     required this.onBack,
     required this.onForward,
   });
@@ -6677,6 +7612,8 @@ class _CharacterExplosionSheet extends StatefulWidget {
   final Future<CharacterIndex> characterIndexFuture;
   final Future<CharacterComponentsDataset> characterComponentsFuture;
   final ValueChanged<String> onCharacterTap;
+  final String openLine;
+  final ValueChanged<String>? onCharacterComponentChat;
   final VoidCallback onBack;
   final VoidCallback onForward;
 
@@ -6970,6 +7907,7 @@ class _CharacterExplosionSheetState extends State<_CharacterExplosionSheet> {
                     characterEntryOverrides: _reloadedEntriesByCharacter.values
                         .toList(growable: false),
                     onCharacterTap: widget.onCharacterTap,
+                    onCharacterComponentChat: widget.onCharacterComponentChat,
                   ),
               ],
             );
@@ -7075,7 +8013,9 @@ class _ExplosionReferenceRow extends StatelessWidget {
                 if (_hasVisibleText(item.reading))
                   Text(
                     item.reading,
-                    style: textTheme.bodySmall?.copyWith(
+                    style: _supportTableReadingTextStyle(
+                      context,
+                      item.reading,
                       color: colorScheme.onSurfaceVariant,
                     ),
                   ),
@@ -7099,10 +8039,12 @@ class _CharacterAnalysisTree extends StatelessWidget {
   const _CharacterAnalysisTree({
     required this.root,
     required this.onCharacterTap,
+    this.onCharacterComponentChat,
   });
 
   final _CharacterAnalysisTreeNode root;
   final ValueChanged<String> onCharacterTap;
+  final ValueChanged<String>? onCharacterComponentChat;
 
   @override
   Widget build(BuildContext context) {
@@ -7128,6 +8070,7 @@ class _CharacterAnalysisTree extends StatelessWidget {
         depth: depth,
         isRoot: isRoot,
         onCharacterTap: onCharacterTap,
+        onCharacterComponentChat: onCharacterComponentChat,
       ),
     ];
 
@@ -7156,6 +8099,7 @@ class _CharacterAnalysisTreeRow extends StatelessWidget {
     required this.depth,
     required this.isRoot,
     required this.onCharacterTap,
+    this.onCharacterComponentChat,
   });
 
   final String symbol;
@@ -7165,6 +8109,13 @@ class _CharacterAnalysisTreeRow extends StatelessWidget {
   final int depth;
   final bool isRoot;
   final ValueChanged<String> onCharacterTap;
+  final ValueChanged<String>? onCharacterComponentChat;
+
+  bool get _shouldShowComponentChatAction =>
+      onCharacterComponentChat != null &&
+      !isRoot &&
+      _containsChineseText(symbol) &&
+      componentEntry != null;
 
   @override
   Widget build(BuildContext context) {
@@ -7223,7 +8174,9 @@ class _CharacterAnalysisTreeRow extends StatelessWidget {
                 if (_hasVisibleText(reading))
                   Text(
                     reading,
-                    style: textTheme.bodySmall?.copyWith(
+                    style: _supportTableReadingTextStyle(
+                      context,
+                      reading,
                       color: colorScheme.onSurfaceVariant,
                     ),
                   ),
@@ -7248,6 +8201,16 @@ class _CharacterAnalysisTreeRow extends StatelessWidget {
                       color: colorScheme.onSurfaceVariant,
                     ),
                   ),
+                if (_shouldShowComponentChatAction)
+                  Align(
+                    alignment: Alignment.centerLeft,
+                    child: IconButton(
+                      key: ValueKey('analysis-tree-component-chat-$symbol'),
+                      tooltip: 'Discuss this character component',
+                      icon: const Icon(Icons.forum_outlined),
+                      onPressed: () => onCharacterComponentChat!(symbol),
+                    ),
+                  ),
               ],
             ),
           ),
@@ -7264,6 +8227,7 @@ class _CharacterExplosionCard extends StatelessWidget {
     required this.characterComponentsFuture,
     this.characterEntryOverrides = const [],
     required this.onCharacterTap,
+    this.onCharacterComponentChat,
   });
 
   final String character;
@@ -7271,6 +8235,7 @@ class _CharacterExplosionCard extends StatelessWidget {
   final Future<CharacterComponentsDataset> characterComponentsFuture;
   final List<CharacterEntry> characterEntryOverrides;
   final ValueChanged<String> onCharacterTap;
+  final ValueChanged<String>? onCharacterComponentChat;
 
   @override
   Widget build(BuildContext context) {
@@ -7337,6 +8302,7 @@ class _CharacterExplosionCard extends StatelessWidget {
                   _CharacterAnalysisTree(
                     root: analysisTree,
                     onCharacterTap: onCharacterTap,
+                    onCharacterComponentChat: onCharacterComponentChat,
                   ),
                   if (explosion.synthesis.hasContent ||
                       explosion.meaningMap.hasContent)
@@ -7582,8 +8548,10 @@ class _ChapterMenuCard extends StatelessWidget {
       bookId: bookId,
       title: chapter.title,
     );
+    final colorScheme = Theme.of(context).colorScheme;
     final hasChineseTitle = _containsChineseText(displayTitle);
     final chapterCountSummary = _chapterSummaryCountSummary(chapter);
+    final showStartHereBadge = bookId == 'da-xue' && chapter.order == 1;
     final counterTextStyle = _counterTextStyle(context);
     final titleSupportTableKey = ValueKey(
       'chapter-title-support-table-$bookId-${chapter.id}',
@@ -7625,11 +8593,31 @@ class _ChapterMenuCard extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: detailsChildren,
       ),
-      trailing: _ChapterArrowPulse(
-        icon: isExpanded ? Icons.expand_less : Icons.expand_more,
-        color: _appSeedColor,
-        pulseWhen: !isExpanded,
+      trailing: Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          if (showStartHereBadge && !isExpanded) ...[
+            Chip(
+              label: const Text('START!'),
+              labelStyle: Theme.of(context).textTheme.labelSmall?.copyWith(
+                    color: colorScheme.onSecondaryContainer,
+                    fontWeight: FontWeight.w700,
+                  ),
+              shape: const StadiumBorder(),
+              side: BorderSide.none,
+              visualDensity: VisualDensity.compact,
+              backgroundColor: colorScheme.secondaryContainer,
+            ),
+            const SizedBox(width: 8),
+          ],
+          _ChapterArrowPulse(
+            icon: isExpanded ? Icons.expand_less : Icons.expand_more,
+            color: _appSeedColor,
+            pulseWhen: !isExpanded,
+          ),
+        ],
       ),
+      badgeLabel: null,
       expandedChild: expandedChild,
       onTap: onTap,
     );
@@ -7962,7 +8950,6 @@ class _TitleCharacterSupportTable extends StatelessWidget {
     }
 
     final textTheme = Theme.of(context).textTheme;
-    final supportTableMetadataStyle = textTheme.bodySmall;
     final supportTableEnglishStyle = _supportTableEnglishTextStyle(context);
 
     void openCharacterExplosionSheet(String character) {
@@ -8066,7 +9053,7 @@ class _TitleCharacterSupportTable extends StatelessWidget {
               Text(
                 row.reading,
                 softWrap: true,
-                style: supportTableMetadataStyle,
+                style: _supportTableReadingTextStyle(context, row.reading),
               ),
             ],
           ],

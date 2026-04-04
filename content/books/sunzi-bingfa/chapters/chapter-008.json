@@ -11,10 +11,10 @@
         "order": 1,
         "source_block_chunk": 1,
         "source_block_order": 1,
-        "text": "孫子曰：凡用兵之法，將受命於君，合軍聚眾；圮地無舍，衢地合交，絕地無留，圍地則謀，死地則戰，途有所不由，軍有所不擊，城有所不攻，地有所不爭，君命有所不受。故將通于九變之利者，知用兵矣。將不通于九變之利者，雖知地形，不能得地之利矣。",
+        "text": "孫子 曰 ： 凡 用兵 之 法 ， 將受命於君 ， 合 軍 聚眾 。圮地 無 舍 ， 衢 地 合 交 ， 絕地無留 ， 圍 地 則 謀 ， 死地則戰 。途 有所 不由 ， 軍 有所 不 擊 ， 城 有所 不 攻 ， 地 有所 不爭 ， 君 命 有所 不受 。故 將 通於九變 之 利 者 ， 知 用兵 矣 ；將 不 通於九變 之 利 ， 雖 知地形 ， 不能得地之利 矣 ；",
         "generated_annotation": {
           "layers": {
-            "translation_en": "It is a military axiom not to advance uphill against the enemy, nor to oppose him when he comes downhill. Do not pursue an enemy who simulates flight; do not attack soldiers whose temper is keen. Do not swallow bait offered by the enemy. Do not interfere with an army that is returning home. When you surround an army, leave an outlet free. Do not press a desperate foe too hard. Such is the art of warfare. Sun Tzu said: In war, the general receives his commands from the sovereign, collects his army and concentrates his forces. When in difficult country, do not encamp. In country where high roads intersect, join hands with your allies. Do not linger in dangerously isolated positions. In hemmed-in situations, you must resort to stratagem. In desperate position, you must fight. There are roads which must not be followed, armies which must be not attacked, towns which must not be besieged, positions which must not be contested, commands of the sovereign which must not be obeyed. The general who thoroughly understands the advantages that accompany variation of tactics knows how to handle his troops. The general who does not understand these, may be well acquainted with the configuration of the country, yet he will not be able to turn his knowledge to practical account."
+            "translation_en": "Sun Tzu said: In war, the general receives his commands from the sovereign, collects his army and concentrates his forces. When in difficult country, do not encamp. In country where high roads intersect, join hands with your allies. Do not linger in dangerously isolated positions. In hemmed-in situations, you must resort to stratagem. In desperate position, you must fight. There are roads which must not be followed, armies which must be not attacked, towns which must not be besieged, positions which must not be contested, commands of the sovereign which must not be obeyed. The general who thoroughly understands the advantages that accompany variation of tactics knows how to handle his troops. The general who does not understand these, may be well acquainted with the configuration of the country, yet he will not be able to turn his knowledge to practical account."
           }
         }
       },
@@ -37,10 +37,10 @@
         "order": 3,
         "source_block_chunk": 1,
         "source_block_order": 2,
-        "text": "是故智者之慮，必雜于利害，雜于利而務可信也，雜于害而患可解也。是故屈諸侯者以害，役諸侯者以業，趨諸侯者以利。",
+        "text": "是故 智者 之 慮 ， 必 雜 於 利害 ，雜 於 利 而 務 可信 也 ，雜 於 害 而 患 可解 也 。是故 屈 諸侯 者 以 害 ， 役 諸侯 者 以 業 ， 趨 諸侯 者 以 利 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Hence in the wise leader's plans, considerations of advantage and of disadvantage will be blended together."
+            "translation_en": "Hence in the wise leader's plans, considerations of advantage and of disadvantage will be blended together. If our expectation of advantage be tempered in this way, we may succeed in accomplishing the essential part of our schemes. If, on the other hand, in the midst of difficulties we are always ready to seize an advantage, we may extricate ourselves from misfortune. Reduce the hostile chiefs by inflicting damage on them; and make trouble for them, and keep them constantly engaged; hold out specious allurements, and make them rush to any given point."
           }
         }
       },
@@ -50,10 +50,10 @@
         "order": 4,
         "source_block_chunk": 1,
         "source_block_order": 3,
-        "text": "故用兵之法，無恃其不來，恃吾有以待之；無恃其不攻，恃吾有所不可攻也。",
+        "text": "故 用兵 之 法 ， 無 恃 其 不 來 ， 恃 吾 有 以 待 也 ； 無 恃 其 不 攻 ， 恃 吾 有所 不可 攻 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "If our expectation of advantage be tempered in this way, we may succeed in accomplishing the essential part of our schemes. If, on the other hand, in the midst of difficulties we are always ready to seize an advantage, we may extricate ourselves from misfortune. Reduce the hostile chiefs by inflicting damage on them; and make trouble for them, and keep them constantly engaged; hold out specious allurements, and make them rush to any given point. The art of war teaches us to rely not on the likelihood of the enemy's not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made our position unassailable."
+            "translation_en": "The art of war teaches us to rely not on the likelihood of the enemy's not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made our position unassailable."
           }
         }
       },
@@ -63,10 +63,10 @@
         "order": 5,
         "source_block_chunk": 1,
         "source_block_order": 4,
-        "text": "故將有五危：必死可殺，必生可虜，忿速可侮，廉潔可辱，愛民可煩；凡此五危，將之過也，用兵之災也。覆軍殺將，必以五危，不可不察也。",
+        "text": "故 將 有 五 危 ︰ 必 死 ， 可 殺 也 ﹔ 必 生 ， 可 虜 也 ﹔ 忿速 ， 可 侮 也 ﹔ 廉潔 ， 可 辱 也 ﹔ 愛民 ， 可 煩 也 。凡 此 五者 ， 將 之 過 也 ， 用兵 之 災 也 。覆軍殺將 ， 必 以 五 危 ， 不可不察 也 。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "There are five dangerous faults which may affect a general: (1) Recklessness, which leads to destruction; (2) cowardice, which leads to capture; (3) a hasty temper, which can be provoked by insults; (4) a delicacy of honour which is sensitive to shame; (5) over-solicitude for his men, which exposes him to worry and trouble."
+            "translation_en": "There are five dangerous faults which may affect a general: (1) Recklessness, which leads to destruction; (2) cowardice, which leads to capture; (3) a hasty temper, which can be provoked by insults; (4) a delicacy of honour which is sensitive to shame; (5) over-solicitude for his men, which exposes him to worry and trouble. These are the five besetting sins of a general, ruinous to the conduct of war. When an army is overthrown and its leader slain, the cause will surely be found among these five dangerous faults. Let them be a subject of meditation."
           }
         }
       }
