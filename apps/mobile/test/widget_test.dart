@@ -2454,6 +2454,43 @@ void main() {
     },
   );
 
+  testWidgets('book menu arrow icons are highlighted in green', (
+    WidgetTester tester,
+  ) async {
+    await tester.pumpWidget(
+      MaterialApp(home: ReadingMenuPage(client: FakeBackendClient())),
+    );
+    await tester.pumpAndSettle();
+
+    final readingMenuArrows = tester.widgetList<Icon>(
+      find.descendant(
+        of: find.byType(ReadingMenuPage),
+        matching: find.byIcon(Icons.chevron_right),
+      ),
+    );
+    expect(readingMenuArrows, isNotEmpty);
+    for (final icon in readingMenuArrows) {
+      expect(icon.color, const Color(0xFF0B6E4F));
+    }
+
+    final client = FakeBackendClient();
+    final book = await client.fetchBook('demo-book');
+
+    await tester.pumpWidget(
+      MaterialApp(
+        home: BookChaptersPage(
+          client: client,
+          book: book,
+          characterIndex: CharacterIndex.empty(),
+        ),
+      ),
+    );
+    await tester.pumpAndSettle();
+
+    final chapterArrow = tester.widget<Icon>(find.byIcon(Icons.expand_more));
+    expect(chapterArrow.color, const Color(0xFF0B6E4F));
+  });
+
   testWidgets('returning from a book preserves the book menu scroll position', (
     WidgetTester tester,
   ) async {
@@ -2576,7 +2613,7 @@ void main() {
     expect(find.text('Components'), findsNothing);
     expect(find.text('Modern Common Character Components'), findsNothing);
     expect(find.byType(DataTable), findsNothing);
-    expect(find.text('Chapter 1'), findsOneWidget);
+    expect(find.text('Chapter 1: 1-2'), findsOneWidget);
     expect(find.text('2 lines • 3 chars'), findsOneWidget);
     expect(find.byKey(const ValueKey('component-heading-1-口-0')), findsNothing);
     expect(
@@ -2588,7 +2625,7 @@ void main() {
       findsNothing,
     );
 
-    await tester.tap(find.text('Chapter 1'));
+    await tester.tap(find.text('Chapter 1: 1-2'));
     await tester.pumpAndSettle();
 
     expect(
@@ -2653,9 +2690,32 @@ void main() {
       find.text('wǔ wèi lìng rén kǒu shuǎng (ㄨˇ ㄨㄟˋ ㄌㄧㄥˋ ㄖㄣˊ ㄎㄡˇ ㄕㄨㄤˇ)'),
       findsNothing,
     );
+    expect(
+      find.text(
+        'Literal gloss: five + taste + to cause + person + mouth + refreshed',
+      ),
+      findsNothing,
+    );
+    expect(
+      find.byKey(const ValueKey('component-example-word-1-1-道-0')),
+      findsNothing,
+    );
+    expect(
+      find.text('dào zhī chū kǒu (ㄉㄠˋ ㄓ ㄔㄨ ㄎㄡˇ)'),
+      findsNothing,
+    );
+    expect(
+      find.text(
+        'Literal gloss: way + it; possessive marker + to go out, to issue forth + mouth',
+      ),
+      findsNothing,
+    );
     final kouPosition = tester.getTopLeft(componentHeading);
     final firstExampleCharacterPosition = tester.getTopLeft(
       find.byKey(const ValueKey('component-example-1-0-吃-0')),
+    );
+    final firstExampleEnglishPosition = tester.getTopLeft(
+      find.text('to eat'),
     );
     final readingPosition = tester.getTopLeft(find.text('kǒu (ㄎㄡˇ)'));
     final meaningPosition = tester.getTopLeft(
@@ -2670,6 +2730,8 @@ void main() {
     expect(readingPosition.dy, lessThan(meaningPosition.dy));
     expect(dividerPosition.dy, greaterThan(readingPosition.dy));
     expect(dividerPosition.dy, greaterThan(meaningPosition.dy));
+    expect(firstExampleEnglishPosition.dx, greaterThan(firstExampleCharacterPosition.dx));
+    expect(firstExampleEnglishPosition.dy, greaterThan(dividerPosition.dy));
     expect(firstExampleCharacterPosition.dy, greaterThan(dividerPosition.dy));
 
     await tester.tap(find.byType(BackButton));
@@ -2727,7 +2789,7 @@ void main() {
       );
       await tester.pumpAndSettle();
 
-      await tester.tap(find.text('Chapter 1'));
+      await tester.tap(find.text('Chapter 1: 1-2'));
       await tester.pumpAndSettle();
 
       final componentHeading = find.byKey(
@@ -2791,7 +2853,7 @@ void main() {
       );
       await tester.pumpAndSettle();
 
-      await tester.tap(find.text('Chapter 1'));
+      await tester.tap(find.text('Chapter 1: 1-2'));
       await tester.pumpAndSettle();
 
       final exampleCharacter = find.byKey(
@@ -2834,7 +2896,7 @@ void main() {
       await tester.tap(find.text('0. 參考：漢字部件').first);
       await tester.pumpAndSettle();
 
-      await tester.tap(find.text('Chapter 1'));
+      await tester.tap(find.text('Chapter 1: 1-2'));
       await tester.pumpAndSettle();
 
       expect(
@@ -2926,9 +2988,9 @@ void main() {
     );
     await tester.pumpAndSettle();
 
-    expect(find.text('Chapter 1'), findsOneWidget);
+    expect(find.text('Chapter 1: 1-30'), findsOneWidget);
     expect(find.text('30 lines • 30 chars'), findsOneWidget);
-    expect(find.text('Chapter 2'), findsOneWidget);
+    expect(find.text('Chapter 2: 31-35'), findsOneWidget);
     expect(find.text('5 lines • 5 chars'), findsOneWidget);
     expect(find.byType(ChoiceChip), findsNothing);
     expect(find.text('Load more'), findsNothing);
@@ -2938,7 +3000,7 @@ void main() {
     );
     expect(find.text(thirtyFirstCharacter), findsNothing);
 
-    await tester.tap(find.text('Chapter 1'));
+    await tester.tap(find.text('Chapter 1: 1-30'));
     await tester.pumpAndSettle();
 
     expect(
@@ -2957,13 +3019,13 @@ void main() {
     );
 
     await tester.scrollUntilVisible(
-      find.text('Chapter 2'),
+      find.text('Chapter 2: 31-35'),
       200,
       scrollable: _characterComponentsScrollable(),
     );
     await tester.pumpAndSettle();
 
-    await tester.tap(find.text('Chapter 2'));
+    await tester.tap(find.text('Chapter 2: 31-35'));
     await tester.pumpAndSettle();
 
     expect(find.text('Load more'), findsNothing);
@@ -2995,7 +3057,7 @@ void main() {
       );
       await tester.pumpAndSettle();
 
-      await tester.tap(find.text('Chapter 1'));
+      await tester.tap(find.text('Chapter 1: 1-30'));
       await tester.pumpAndSettle();
 
       expect(
@@ -3004,14 +3066,14 @@ void main() {
       );
 
       await tester.scrollUntilVisible(
-        find.text('Chapter 2'),
+        find.text('Chapter 2: 31-35'),
         200,
         scrollable: _characterComponentsScrollable(),
       );
       await tester.pumpAndSettle();
 
-      final chapterTopBeforeOpen = _visibleTextRect(tester, 'Chapter 2').top;
-      await tester.tap(find.text('Chapter 2'));
+      final chapterTopBeforeOpen = _visibleTextRect(tester, 'Chapter 2: 31-35').top;
+      await tester.tap(find.text('Chapter 2: 31-35'));
       await tester.pumpAndSettle();
 
       expect(
@@ -3023,10 +3085,10 @@ void main() {
         findsOneWidget,
       );
       expect(
-        _visibleTextRect(tester, 'Chapter 2').top,
+        _visibleTextRect(tester, 'Chapter 2: 31-35').top,
         lessThanOrEqualTo(chapterTopBeforeOpen),
       );
-      expect(_visibleTextRect(tester, 'Chapter 2').top, lessThan(160));
+      expect(_visibleTextRect(tester, 'Chapter 2: 31-35').top, lessThan(160));
     },
   );
 
@@ -3056,13 +3118,13 @@ void main() {
           .position
           .pixels;
 
-      expect(() => _visibleTextRect(tester, 'Chapter 1'), returnsNormally);
-      expect(() => _visibleTextRect(tester, 'Chapter 7'), throwsStateError);
+      expect(() => _visibleTextRect(tester, 'Chapter 1: 1-30'), returnsNormally);
+      expect(() => _visibleTextRect(tester, 'Chapter 7: 181-185'), throwsStateError);
 
       await tester.drag(scrollable, const Offset(0, 400));
       await tester.pumpAndSettle();
 
-      expect(() => _visibleTextRect(tester, 'Chapter 7'), returnsNormally);
+      expect(() => _visibleTextRect(tester, 'Chapter 7: 181-185'), returnsNormally);
 
       await pumpComponentsPage();
 
@@ -3070,14 +3132,14 @@ void main() {
       await _dragUntilVisibleText(
         tester,
         resetScrollable,
-        'Chapter 7',
+        'Chapter 7: 181-185',
         const Offset(0, 200),
       );
       final offsetAboveStart = tester
           .state<ScrollableState>(resetScrollable)
           .position
           .pixels;
-      expect(find.text('Chapter 7'), findsWidgets);
+      expect(find.text('Chapter 7: 181-185'), findsWidgets);
       expect((offsetAboveStart - initialOffset).abs(), greaterThan(100));
 
       await pumpComponentsPage();
@@ -3086,7 +3148,7 @@ void main() {
       await _dragUntilVisibleText(
         tester,
         forwardScrollable,
-        'Chapter 7',
+        'Chapter 7: 181-185',
         const Offset(0, -200),
       );
       final offsetAtLastChapter = tester
@@ -3125,7 +3187,7 @@ void main() {
     );
     await tester.pumpAndSettle();
 
-    expect(find.text('Chapter 1'), findsOneWidget);
+    expect(find.text('Chapter 1: 1-2'), findsOneWidget);
     expect(
       find.byKey(const ValueKey('component-index-reference-lookup-field')),
       findsNothing,
@@ -3135,7 +3197,7 @@ void main() {
       findsNothing,
     );
 
-    await tester.tap(find.text('Chapter 1'));
+    await tester.tap(find.text('Chapter 1: 1-2'));
     await tester.pumpAndSettle();
 
     expect(

@@ -904,38 +904,29 @@ extension ChineseFontOptionPresentation on ChineseFontOption {
 
   List<String> get fallbackFamilies => switch (this) {
     ChineseFontOption.systemSans => const <String>[
+      _bundledPingFangFamily,
+      _bundledHeiTiFamily,
       'PingFang SC',
       'Hiragino Sans GB',
       'Heiti SC',
-      'Noto Sans SC',
-      'Noto Sans CJK SC',
       'Microsoft YaHei',
-      _bundledPingFangFamily,
-      _bundledHeiTiFamily,
     ],
     ChineseFontOption.pingFang => const <String>[
       'Hiragino Sans GB',
       'Heiti SC',
-      'Noto Sans SC',
-      'Noto Sans CJK SC',
       'Microsoft YaHei',
       _bundledPingFangFamily,
       _bundledHeiTiFamily,
     ],
     ChineseFontOption.heiTi => const <String>[
+      _bundledHeiTiFamily,
       'Heiti SC',
       'SimHei',
       'Microsoft YaHei',
-      'Noto Sans SC',
-      'Noto Sans CJK SC',
-      _bundledHeiTiFamily,
-      _bundledPingFangFamily,
     ],
     ChineseFontOption.songTi => const <String>[
       'STSong',
       'SimSun',
-      'Noto Serif SC',
-      'Noto Serif CJK SC',
       'Source Han Serif SC',
       _bundledSongTiFamily,
       _bundledFangSongFamily,
@@ -944,8 +935,6 @@ extension ChineseFontOptionPresentation on ChineseFontOption {
       'FangSong',
       'FangSong_GB2312',
       'STSong',
-      'Noto Serif SC',
-      'Noto Serif CJK SC',
       _bundledFangSongFamily,
       _bundledSongTiFamily,
     ],
@@ -968,7 +957,12 @@ extension ChineseFontOptionPresentation on ChineseFontOption {
   }
 
   TextStyle apply(TextStyle style) => switch (this) {
-    ChineseFontOption.systemSans => style,
+    ChineseFontOption.systemSans => style.copyWith(
+      fontFamilyFallback: _mergeFontFamilies(
+        fallbackFamilies,
+        style.fontFamilyFallback,
+      ),
+    ),
     ChineseFontOption.pingFang => style.copyWith(
       fontFamily: primaryFamily,
       fontFamilyFallback: _mergeFontFamilies(
@@ -1013,7 +1007,12 @@ extension ChineseFontOptionPresentation on ChineseFontOption {
 
   TextStyle applyFallback(TextStyle style) {
     if (this == ChineseFontOption.systemSans) {
-      return style;
+      return style.copyWith(
+        fontFamilyFallback: _mergeFontFamilies(
+          fallbackFamilies,
+          style.fontFamilyFallback,
+        ),
+      );
     }
 
     return style.copyWith(
@@ -1447,12 +1446,12 @@ class IntroPage extends StatelessWidget {
                                 icon: Icons.forum_outlined,
                                 title: 'Line-by-line discussion',
                                 description:
-                                    'Read closely, then draft your own translations and responses to these classic texts.',
+                                    'Read closely, chat about it with AI, then draft your own translations and responses to these classic texts.',
                               ),
                               SizedBox(height: 16),
                               _IntroFeatureRow(
                                 icon: Icons.account_tree_outlined,
-                                title: 'Character explosion',
+                                title: 'Character exploration',
                                 description:
                                     'Follow linked Hanzi into their components to see how the language is built from the inside.',
                               ),
@@ -1610,6 +1609,13 @@ class _FlashcardsPageState extends State<FlashcardsPage> {
 
     setState(() {
       _orderedFlashcardIds = _weightedOrderedFlashcardIds(entries);
+      _visibleSidesByEntryId = {
+        for (final entry in entries)
+          entry.id: _initialFlashcardVisibleSides(
+            entry,
+            random: _random,
+          ),
+      };
     });
     _resetFlashcardsScrollPosition();
   }
@@ -3268,6 +3274,18 @@ class _CharacterComponentsDatasetListState
     return math.min(_chapterSize, _orderedEntries.length - startIndex);
   }
 
+  String _characterComponentsChapterTitle(int chapterIndex) {
+    final chapterNumber = chapterIndex + 1;
+    final startLine = _chapterStartIndex(chapterIndex) + 1;
+    final lineCount = _chapterLineCount(chapterIndex);
+    if (lineCount <= 0) {
+      return 'Chapter $chapterNumber';
+    }
+
+    final endLine = startLine + lineCount - 1;
+    return 'Chapter $chapterNumber: $startLine-$endLine';
+  }
+
   Iterable<CharacterComponentEntry> _entriesForChapter(int chapterIndex) sync* {
     final startIndex = _chapterStartIndex(chapterIndex);
     final endIndex = math.min(
@@ -3438,6 +3456,7 @@ class _CharacterComponentsDatasetListState
       pinyin: _formatPinyin(referenceEntry),
       zhuyin: _formatZhuyin(referenceEntry),
       englishMeaning: _formatEnglishMeaning(referenceEntry),
+      exampleWords: const [],
       exampleCharacters: _buildExampleCharacters(referenceEntry, entry),
     );
   }
@@ -3656,25 +3675,36 @@ class _CharacterComponentsDatasetListState
       example.character,
     );
 
-    return Column(
+    final hasEnglish = _hasVisibleText(example.englishMeaning);
+
+    return Row(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        _InteractiveChineseText(
-          text: example.character,
-          style: chineseStyle,
-          onCharacterTap: _openCharacterExplosionSheet,
-          keyPrefix: 'component-example-${row.index}-$exampleIndex',
+        Expanded(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              _InteractiveChineseText(
+                text: example.character,
+                style: chineseStyle,
+                onCharacterTap: _openCharacterExplosionSheet,
+                keyPrefix: 'component-example-${row.index}-$exampleIndex',
+              ),
+              if (_hasVisibleText(reading)) ...[
+                const SizedBox(height: 2),
+                Text(reading, softWrap: true, style: textTheme.bodySmall),
+              ],
+            ],
+          ),
         ),
-        if (_hasVisibleText(reading)) ...[
-          const SizedBox(height: 2),
-          Text(reading, softWrap: true, style: textTheme.bodySmall),
-        ],
-        if (_hasVisibleText(example.englishMeaning)) ...[
-          const SizedBox(height: 2),
-          Text(
-            example.englishMeaning,
-            softWrap: true,
-            style: supportTableEnglishStyle,
+        if (hasEnglish) ...[
+          const SizedBox(width: 16),
+          Expanded(
+            child: Text(
+              example.englishMeaning,
+              softWrap: true,
+              style: supportTableEnglishStyle,
+            ),
           ),
         ],
       ],
@@ -3692,6 +3722,7 @@ class _CharacterComponentsDatasetListState
     );
     final supportTableEnglishStyle = _supportTableEnglishTextStyle(context);
     final reading = _formatCombinedReading(row);
+    final hasExamples = row.exampleCharacters.isNotEmpty;
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -3724,7 +3755,7 @@ class _CharacterComponentsDatasetListState
             style: supportTableEnglishStyle,
           ),
         ],
-        if (row.exampleCharacters.isNotEmpty) ...[
+        if (hasExamples) ...[
           const SizedBox(height: 12),
           Divider(
             key: ValueKey('component-header-divider-${row.index}'),
@@ -3733,30 +3764,32 @@ class _CharacterComponentsDatasetListState
             color: colorScheme.outlineVariant,
           ),
           const SizedBox(height: 12),
-          Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              for (
-                var index = 0;
-                index < row.exampleCharacters.length;
-                index++
-              ) ...[
-                if (index > 0) const SizedBox(height: 8),
-                _buildExampleLine(
-                  context,
-                  row,
-                  row.exampleCharacters[index],
-                  index,
-                ),
+          if (row.exampleCharacters.isNotEmpty)
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                for (
+                  var index = 0;
+                  index < row.exampleCharacters.length;
+                  index++
+                ) ...[
+                  if (index > 0) const SizedBox(height: 8),
+                  _buildExampleLine(
+                    context,
+                    row,
+                    row.exampleCharacters[index],
+                    index,
+                  ),
+                ],
               ],
-            ],
-          ),
+            ),
         ],
       ],
     );
   }
 
   Widget _buildChapterReader(BuildContext context, int chapterIndex) {
+    final colorScheme = Theme.of(context).colorScheme;
     final startIndex = _chapterStartIndex(chapterIndex);
     final lineCount = _chapterLineCount(chapterIndex);
     final currentLineIndex = _currentChapterLineIndex(chapterIndex);
@@ -3773,34 +3806,40 @@ class _CharacterComponentsDatasetListState
         : () => _selectNextChapterLine(chapterIndex);
 
     return Padding(
-      padding: const EdgeInsets.fromLTRB(20, 0, 20, 20),
-      child: _StatusCard(
-        title: '',
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            _LineNumberJumpField(
-              currentLineNumber: currentLineIndex + 1,
-              totalLineCount: lineCount,
-              onSubmitted: (rawValue) =>
-                  _jumpToChapterLine(chapterIndex, rawValue),
-              onPreviousPressed: onPreviousPressed,
-              onNextPressed: onNextPressed,
-            ),
-            const SizedBox(height: 16),
-            _buildReferenceLine(context, currentRow),
-            const SizedBox(height: 16),
-            _LineNumberJumpField(
-              currentLineNumber: currentLineIndex + 1,
-              totalLineCount: lineCount,
-              onSubmitted: (rawValue) =>
-                  _jumpToChapterLine(chapterIndex, rawValue),
-              onPreviousPressed: onPreviousPressed,
-              onNextPressed: onNextPressed,
-              keyPrefix: 'bottom',
-              showSelectorBeforeNavigationButtons: true,
-            ),
-          ],
+      padding: const EdgeInsets.only(bottom: 20),
+      child: DecoratedBox(
+        decoration: BoxDecoration(
+          color: colorScheme.surface,
+          borderRadius: BorderRadius.circular(20),
+        ),
+        child: Padding(
+          padding: const EdgeInsets.all(20),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              _LineNumberJumpField(
+                currentLineNumber: currentLineIndex + 1,
+                totalLineCount: lineCount,
+                onSubmitted: (rawValue) =>
+                    _jumpToChapterLine(chapterIndex, rawValue),
+                onPreviousPressed: onPreviousPressed,
+                onNextPressed: onNextPressed,
+              ),
+              const SizedBox(height: 16),
+              _buildReferenceLine(context, currentRow),
+              const SizedBox(height: 16),
+              _LineNumberJumpField(
+                currentLineNumber: currentLineIndex + 1,
+                totalLineCount: lineCount,
+                onSubmitted: (rawValue) =>
+                    _jumpToChapterLine(chapterIndex, rawValue),
+                onPreviousPressed: onPreviousPressed,
+                onNextPressed: onNextPressed,
+                keyPrefix: 'bottom',
+                showSelectorBeforeNavigationButtons: true,
+              ),
+            ],
+          ),
         ),
       ),
     );
@@ -3827,7 +3866,7 @@ class _CharacterComponentsDatasetListState
     return KeyedSubtree(
       key: _chapterKeyForLoopIndex(chapterLoopIndex),
       child: _LibraryMenuTile(
-        title: 'Chapter ${chapterIndex + 1}',
+        title: _characterComponentsChapterTitle(chapterIndex),
         subtitle: Text(
           _componentChapterCountSummary(_entriesForChapter(chapterIndex)),
         ),
@@ -3898,6 +3937,7 @@ class _CharacterComponentReferenceRow {
     required this.pinyin,
     required this.zhuyin,
     required this.englishMeaning,
+    required this.exampleWords,
     required this.exampleCharacters,
   });
 
@@ -3906,6 +3946,7 @@ class _CharacterComponentReferenceRow {
   final String pinyin;
   final String zhuyin;
   final String englishMeaning;
+  final List<_ExplosionReferenceItemData> exampleWords;
   final List<_CharacterComponentExampleRow> exampleCharacters;
 }
 
@@ -6800,9 +6841,9 @@ class _CharacterExplosionSheetState extends State<_CharacterExplosionSheet> {
               return Padding(
                 padding: const EdgeInsets.all(24),
                 child: _StatusCard(
-                  title: 'Exploded view',
+                  title: 'Character exploration',
                   child: const Text(
-                    'Tap a linked Hanzi to add it to the exploder.',
+                    "Click on any character to run it through the exploder to see what it's made of.",
                   ),
                 ),
               );
@@ -6838,7 +6879,7 @@ class _CharacterExplosionSheetState extends State<_CharacterExplosionSheet> {
                   children: [
                     Expanded(
                       child: Text(
-                        'Exploded view',
+                        'Character exploration',
                         style: Theme.of(context).textTheme.titleLarge?.copyWith(
                           fontWeight: FontWeight.w700,
                         ),
@@ -7490,6 +7531,7 @@ class _ReadingMenuCard extends StatelessWidget {
         ],
       ),
       badgeLabel: showStartHereBadge ? 'Start here!' : null,
+      pulseTrailingChevron: true,
       onTap: onTap,
     );
   }
@@ -7583,9 +7625,116 @@ class _ChapterMenuCard extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: detailsChildren,
       ),
-      trailing: Icon(isExpanded ? Icons.expand_less : Icons.expand_more),
+      trailing: _ChapterArrowPulse(
+        icon: isExpanded ? Icons.expand_less : Icons.expand_more,
+        color: _appSeedColor,
+        pulseWhen: !isExpanded,
+      ),
       expandedChild: expandedChild,
       onTap: onTap,
+    );
+  }
+}
+
+class _ChapterArrowPulse extends StatefulWidget {
+  const _ChapterArrowPulse({
+    required this.icon,
+    required this.color,
+    required this.pulseWhen,
+  });
+
+  final IconData icon;
+  final Color color;
+  final bool pulseWhen;
+
+  @override
+  State<_ChapterArrowPulse> createState() => _ChapterArrowPulseState();
+}
+
+class _ChapterArrowPulseState extends State<_ChapterArrowPulse>
+    with SingleTickerProviderStateMixin {
+  static const _duration = Duration(milliseconds: 700);
+
+  late final AnimationController _controller;
+  late final Animation<double> _scale;
+  late final Animation<double> _opacity;
+  late final Animation<Color?> _color;
+
+  @override
+  void initState() {
+    super.initState();
+    _controller = AnimationController(
+      vsync: this,
+      duration: _duration,
+    );
+
+    _scale = Tween<double>(begin: 0.97, end: 1.14).animate(
+      CurvedAnimation(parent: _controller, curve: Curves.easeInOut),
+    );
+    _opacity = Tween<double>(begin: 0.72, end: 1).animate(
+      CurvedAnimation(parent: _controller, curve: Curves.easeInOut),
+    );
+    _color = ColorTween(
+      begin: widget.color,
+      end: Color.lerp(widget.color, Colors.white, 0.28),
+    ).animate(CurvedAnimation(parent: _controller, curve: Curves.easeInOut));
+
+    if (widget.pulseWhen) {
+      _controller.repeat(reverse: true);
+    }
+  }
+
+  @override
+  void didUpdateWidget(covariant _ChapterArrowPulse oldWidget) {
+    super.didUpdateWidget(oldWidget);
+
+    if (widget.pulseWhen == oldWidget.pulseWhen) {
+      return;
+    }
+
+    if (widget.pulseWhen) {
+      _controller.repeat(reverse: true);
+    } else {
+      _controller
+        ..stop()
+        ..value = 1;
+    }
+  }
+
+  @override
+  void dispose() {
+    _controller.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (!widget.pulseWhen) {
+      return Icon(widget.icon, color: widget.color);
+    }
+
+    return FadeTransition(
+      opacity: _opacity,
+      child: ScaleTransition(
+        scale: _scale,
+        child: AnimatedBuilder(
+          animation: _color,
+          builder: (context, child) {
+            return Icon(
+              widget.icon,
+              color: _color.value ?? widget.color,
+              size: 24,
+              shadows: const [
+                Shadow(
+                  color: Color(0x22000000),
+                  blurRadius: 8,
+                  offset: Offset(0, 2),
+                ),
+              ],
+            );
+          },
+        ),
+      ),
     );
   }
 }
@@ -7603,6 +7752,7 @@ class _LibraryMenuTile extends StatelessWidget {
     this.badgeLabel,
     this.onTap,
     this.trailing,
+    this.pulseTrailingChevron = false,
     this.expandedChild,
   });
 
@@ -7614,6 +7764,7 @@ class _LibraryMenuTile extends StatelessWidget {
   final String? badgeLabel;
   final VoidCallback? onTap;
   final Widget? trailing;
+  final bool pulseTrailingChevron;
   final Widget? expandedChild;
 
   @override
@@ -7660,7 +7811,7 @@ class _LibraryMenuTile extends StatelessWidget {
                 Row(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    if (badgeLabel != null) ...[
+            if (badgeLabel != null) ...[
                       DecoratedBox(
                         decoration: BoxDecoration(
                           color: Theme.of(
@@ -7683,13 +7834,20 @@ class _LibraryMenuTile extends StatelessWidget {
                                   fontWeight: FontWeight.w700,
                                 ),
                           ),
-                        ),
-                      ),
-                      const SizedBox(width: 8),
-                    ],
-                    const Icon(Icons.chevron_right),
-                  ],
-                ),
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                ],
+                if (pulseTrailingChevron)
+                  const _ChapterArrowPulse(
+                    icon: Icons.chevron_right,
+                    color: _appSeedColor,
+                    pulseWhen: true,
+                  )
+                else
+                  const Icon(Icons.chevron_right, color: _appSeedColor),
+              ],
+            ),
             onTap: onTap,
           ),
           if (details != null || expandedChild != null)
