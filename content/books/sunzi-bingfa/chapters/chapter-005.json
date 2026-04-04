@@ -1,0 +1,99 @@
+{
+  "chapter": {
+    "character_count": 337,
+    "id": "chapter-005",
+    "order": 5,
+    "reading_unit_count": 6,
+    "reading_units": [
+      {
+        "character_count": 53,
+        "id": "chapter-005-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "孫子曰：凡治眾如治寡，分數是也。鬥眾如鬥寡，形名是也。三軍之眾，可使必受敵而無敗者，奇正是也。兵之所加，如以碬投卵者，虛實是也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Tzŭ said: The control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-005-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "凡戰者，以正合，以奇勝。故善出奇者，無窮如天地，不竭如江河，終而復始，日月是也；死而復生，四時是也。聲不過五，五聲之變，不可勝聽也。色不過五，五色之變，不可勝觀也。味不過五，五味之變，不可勝嘗也。戰勢不過奇正，奇正之變，不可勝窮也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals. To ensure that your whole host may withstand the brunt of the enemy's attack and remain unshaken — this is effected by manœuvres direct and indirect. That the impact of your army may be like a grindstone dashed against an egg — this is effected by the science of weak points and strong. In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory. Indirect tactics, efficiently applied, are inexhaustible as Heaven and Earth, unending as the flow of rivers and streams; like the sun and moon, they end but to begin anew; like the four seasons, they pass away to return once more. There are not more than five musical notes, yet the combinations of these five give rise to more melodies than can ever be heard. There are not more than five primary colours, yet in combination they produce more hues than can ever be seen. There are not more than five cardinal tastes, yet combinations of them yield more flavors than can ever be tasted. In battle, there are not more than two methods of attack — the direct and the indirect; yet these two in combination give rise to an endless series of manœuvres."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-005-line-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "奇 正 相生 ， 如 循環 之 無端 ， 孰 能 窮 之 哉 ？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The direct and the indirect lead on to each other in turn. It is like moving in a circle — you never come to an end. Who can exhaust the possibilities of their combination?"
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-005-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "激水之疾，至于漂石者，勢也。鷙鳥之擊，至于毀折者，節也。是故善戰者，其勢險，其節短，勢如張弩，節如機發。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The onset of troops is like the rush of a torrent which will even roll stones along in its course."
+          }
+        }
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-005-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "紛紛紜紜，鬥亂，而不可亂也。渾渾沌沌，形圓，而不可敗也。亂生于治，怯生于勇，弱生于強。治亂，數也。勇怯，勢也。強弱，形也。故善動敵者，形之，敵必從之；予之，敵必取之；以利動之，以實待之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim. Therefore the good fighter will be terrible in his onset, and prompt in his decision. Energy may be likened to the bending of a crossbow; decision, to the releasing of a trigger. Amid the turmoil and tumult of battle, there may be seeming disorder and yet no real disorder at all; amid confusion and chaos, your array may be without head or tail, yet it will be proof against defeat. Simulated disorder postulates perfect discipline, simulated fear postulates courage; simulated weakness postulates strength. Hiding order beneath the cloak of disorder is simply a question of subdivision; concealing courage under a show of timidity presupposes a fund of latent energy; masking strength with weakness is to be effected by tactical dispositions. Thus one who is skilful at keeping the enemy on the move maintains deceitful appearances, according to which the enemy will act. He sacrifices something, that the enemy may snatch at it. By holding out baits, he keeps him on the march; then with a body of picked men he lies in wait for him."
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-005-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "故善戰者，求之于勢，不責于人，故能擇人任勢；任勢者，其戰人也，如轉木石，木石之性，安則靜，危則動，方則止，圓則行。故善戰人之勢，如轉圓石于千仞之山者，勢也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The clever combatant looks to the effect of combined energy, and does not require too much from individuals."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "孫子曰：凡治眾如治寡，分數是也。鬥眾如鬥寡，形名是也。三軍之眾，可使必受敵而無敗者，奇正是也。兵之所加，如以碬投卵者，虛實是也。\n凡戰者，以正合，以奇勝。故善出奇者，無窮如天地，不竭如江河，終而復始，日月是也；死而復生，四時是也。聲不過五，五聲之變，不可勝聽也。色不過五，五色之變，不可勝觀也。味不過五，五味之變，不可勝嘗也。戰勢不過奇正，奇正之變，不可勝窮也。奇正相生，如循環之無端，孰能窮之哉！\n激水之疾，至于漂石者，勢也。鷙鳥之擊，至于毀折者，節也。是故善戰者，其勢險，其節短，勢如張弩，節如機發。\n紛紛紜紜，鬥亂，而不可亂也。渾渾沌沌，形圓，而不可敗也。亂生于治，怯生于勇，弱生于強。治亂，數也。勇怯，勢也。強弱，形也。故善動敵者，形之，敵必從之；予之，敵必取之；以利動之，以實待之。\n故善戰者，求之于勢，不責于人，故能擇人任勢；任勢者，其戰人也，如轉木石，木石之性，安則靜，危則動，方則止，圓則行。故善戰人之勢，如轉圓石于千仞之山者，勢也。",
+    "title": "兵勢"
+  },
+  "chapter_path": "books/sunzi-bingfa/chapters/chapter-005.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "The Art of War",
+  "source_url": "https://ctext.org/art-of-war?if=en"
+}

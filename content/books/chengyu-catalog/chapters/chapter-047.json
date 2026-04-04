@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-047",
+    "order": 47,
+    "summary": "朝三暮二",
+    "text": "朝三暮二\n平地登云\n心腹重患\n文治武功\n三省吾身\n巧作名目\n德厚流光\n功若丘山\n超然物外\n如左右手\n急起直追\n平地青云\n出敌意外\n苟合取容\n若存若亡\n本枝百世\n唾地成文\n朝生夕死\n百忍成金\n玄妙入神\n千里神交\n故我依然\n多如牛毛\n知易行难\n少成若性\n知微知彰\n才兼文武\n合情合理\n云心水性\n是非之心",
+    "title": "1381-1410",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "朝三暮二",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor of changing ideas"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "平地登云",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor for situations that suddenly change for the better and reaching a high status in one go without any hindrance."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "心腹重患",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to serious hidden dangers or major dangers in key departments"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "文治武功",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "political and military achievements (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "三省吾身",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Provincial inspection, reflection"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "巧作名目",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Clever naming"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "德厚流光",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "virtue, virtue"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "功若丘山",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "meritorious deeds"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "超然物外",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Super superb and refined"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "如左右手",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like one's own left and right hands"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "急起直追",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Take action now and try to catch up"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "平地青云",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Smooth"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "出敌意外",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to actions that are unexpected by the enemy"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "苟合取容",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just get along with each other"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "若存若亡",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sometimes I keep it in mind, sometimes I forget it"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "本枝百世",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to descendants being prosperous and lasting for generations"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "唾地成文",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describe quick thinking"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "朝生夕死",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "① Born in the morning and died in the evening"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "百忍成金",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To describe the value of patience"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "玄妙入神",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes that skills and knowledge have entered a superb and magical realm"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "千里神交",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thousands of miles apart, spiritual unity"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "故我依然",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So my old self"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "多如牛毛",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. as numerous as the hairs of an ox (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "知易行难",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "easy to grasp but difficult to put into practice (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "少成若性",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to habits formed since childhood, as if they were innate"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "知微知彰",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "tiny"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "才兼文武",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "talent in both military and civil field (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "合情合理",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) reasonable; fair"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "云心水性",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to a woman's frivolous style and unfocused love"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-047-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "是非之心",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The ability to distinguish between right and wrong"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-047.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

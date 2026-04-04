@@ -1,0 +1,671 @@
+{
+  "chapter": {
+    "character_count": 3153,
+    "id": "chapter-079",
+    "order": 79,
+    "reading_unit_count": 50,
+    "reading_units": [
+      {
+        "character_count": 92,
+        "id": "chapter-079-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說曹丕聞曹彰提兵而來，驚問眾官；一人挺身而出，願往折服之。眾視其人，乃諫議大夫賈逵也。曹丕大喜，即命賈逵前往。逵領命出城，迎見曹彰。彰問曰：「先王璽綬安在？」逵正色而言曰：「家有長子，國有儲君，先王璽綬，非君侯之所宜問也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who has the late prince’s seal?” asked he. Chia K‘uei replied calmly, “There is an eldest son to a house, and an heir-apparent to a state. Such a question from you is unbecoming, O Marquis.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-079-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "」彰默然無語，乃與賈逵同入城。至宮門前，逵問曰：「君侯此來，欲奔喪耶？欲爭位耶？」彰曰：「吾來奔喪，別無異心。」逵曰：「既無異心，何故帶兵入城？」彰即時叱退左右將士，隻身入內，拜見曹丕。兄弟二人，相抱大哭。曹彰將本部軍馬盡交與曹丕。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The marquis held his peace, and the two proceeded into the city to the gates of the palace. There Chia K‘uei suddenly asked him whether he came as a mourner or as a rival claimant. “I am come as a mourner; I never had any ulterior motive.”"
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-079-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "丕令彰回鄢陵自守，彰拜辭而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“That being so, why bring in your soldiers?”"
+          }
+        }
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-079-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "於是曹丕安居王位，改建安二十五年為延康元年。封賈詡為太尉，華歆為相國，王朗為御史大夫。大小官僚，盡皆陞賞。諡曹操曰武王，葬於鄴郡高陵。令于禁董治陵事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Whereupon Ts‘ao Chang ordered his escort to retire, and entered the city alone. When the brothers met they fell into each other’s arms and wept. Then the younger brother yielded command of all his following, and he was directed to go back to Yenling and guard it. He obediently withdrew. ”"
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-079-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "禁奉命到彼，只見陵屋中白粉壁上，圖畫關雲長水渰七軍擒獲于禁之事：畫雲長儼然上坐，龐德憤怒不屈，于禁拜伏於地，哀求乞命之狀。原來曹丕以于禁兵敗被擒，不能死節，既降敵而復歸，心鄙其為人，故先令人圖畫陵屋粉壁，故意使之往見以愧之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao P‘ei, being now firmly established, changed the name of the period of his rule to Yen-K‘ang, “Prolonged Repose. He gave high rank to Chia Hsü, Hua Hsin and Wang Lang, and made many promotions. To the late prince he gave the posthumous title of Wu Wang, “Prince of War,” and buried him in Kaoling. To the superintendence of the building of his tomb he nominated Yü Chin, but with malevolent intent. For when Yü Chin reached his post he found the walls of the rooms decorated with chalk sketches depicting the drowning of his army and the capture of himself by Kuan Yü. Kuan Yü was looking very dignified and severe. P‘ang Tê was refusing to bow to the victor, while he himself was lying in the dust pleading for his life."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-079-line-006",
+        "order": 6,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "當下于禁見此畫像，又羞又惱，氣憤成病，不久而死。後人有詩歎曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao P‘ei had chosen this method of putting Yü to open shame because he had not preferred death to the dishonour of capture, and had sent an artist on purpose to depict the shameful scenes. When Yü Chin saw them, shame and rage alternately took possession of him till he fell ill. Soon after he died."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-079-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "三十年來說舊交，可憐臨難不忠曹。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-079-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "知人未向心中識，畫虎今從骨裏描。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "War waged he for many a year, Yet fell prey to craven fear. None can know another’s heart, Drawing tigers, with bones start."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-079-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "卻說華歆奏曹丕曰：「鄢陵侯已交割軍馬，赴本國去了；臨淄侯植，蕭懷侯熊，二人竟不來奔喪，理當問罪。」丕從之，即分遣二使往二處問罪。不一日，蕭懷使者回報：「蕭懷侯曹熊懼罪，自縊身死。」丕令厚葬之，追贈蕭懷王。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Soon after the accession, Hua Hsin memorialised, saying, “The Marquis of Yenling has cut himself loose from his army and gone quietly to his post, but your other two brothers did not attend the funeral of their father. Their conduct should be enquired into and punished.” Ts‘ao P‘ei took up the suggestion and sent a commissioner to each. He who was sent to the younger quickly returned to say that the Marquis of Hsiaohuai had committed suicide rather than suffer for his fault. P‘ei ordered honourable burial for him and gave him the posthumous title of “Prince.”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-079-line-010",
+        "order": 10,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "又過了一日，臨淄使者回報，說：「臨淄侯日與丁儀、丁廙兄弟二人酣飲，悖慢無禮；聞使命至，臨淄侯端坐不動。丁儀罵曰：『昔日先王本欲立吾主為世子，被讒臣所阻；今王喪未遠，便問罪於骨肉，何也？』丁廙又曰：『據吾主聰明冠世，自當承嗣大位，今反不得立。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Soon after, the envoy to Lintzŭ returned to report that the marquis was spending his time in dissipation, his especial boon companions being two brothers named Ting. They had been very rude. When the envoy had presented himself, the marquis had sat bolt upright, but would not say a word. Ting I had used insulting words. “The late prince intended our lord to succeed, but was turned therefrom by the slanderous tongues of certain among you. As soon as he is dead your master begins to think of punishment for his own flesh and blood.” The other brother said, “In intellect our lord leads the age, and he ought to have been heir to his father. Now, not only does he not succeed, but he is treated in this harsh way by a lot of court persons of your sort, ignorant of what genius means.”"
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-079-line-011",
+        "order": 11,
+        "source_block_chunk": 3,
+        "source_block_order": 5,
+        "text": "汝那廟堂之臣，何不識人才若此！』臨淄侯因怒叱武士，將臣亂棒打出。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And then the marquis, in a fit of anger, had ordered his lictors to beat the envoy and turn him out."
+          }
+        }
+      },
+      {
+        "character_count": 102,
+        "id": "chapter-079-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "丕聞之，大怒，即令許褚領虎衛軍三千，火速至臨淄擒曹植等一干人來。褚奉命，引軍至臨淄城。守將攔阻，褚立斬之，直入城中，無一人敢當鋒銳，逕到府堂。只見曹植與丁儀、丁廙等盡皆醉倒。褚皆縛之，載於車上，并將府下大小屬官，盡行拿解鄴郡，聽候曹丕發落。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This treatment of his messenger annoyed Ts‘ao P‘ei greatly, and he despatched a force under Hsu Chu to arrest his brother and all his immediate surroundings. When Hsü Chu arrived he found the marquis and all his companions dead drunk; so he bound them, put them into carts and sent them to court. He also arrested all the officers of the palace. Ts‘ao P‘ei’s first order was to put to death the two brothers Ting. The two brothers were not wholly base; they had a reputation for learning, and many were sorry for them. Ts‘ao P‘ei’s mother, the Lady P‘ien, was alarmed at the severity of the new rule, and the suicide of her youngest son wounded her deeply. When she heard that Ts‘ao Chih had been arrested and his comrades put to death, she left her palace and went to see her eldest son. As soon as he saw her, the prince hastened to meet her. She began to weep."
+          }
+        }
+      },
+      {
+        "character_count": 40,
+        "id": "chapter-079-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "丕下令，先將丁儀、丁廙等盡皆誅戮。丁儀字正禮，丁廙字敬禮，沛郡人，乃一時文士；及其被殺，人多惜之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Your brother has always had that weakness for wine, but we let him go his way out of consideration for his undoubted ability. I hope you will not forget he is your brother and ​ that I bore you both. Spare his life that I may close my eyes in peace when I set out for the deep springs.”"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-079-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "卻說曹丕之母卞氏，聽得曹熊縊死，心甚悲傷；忽又聞曹植被擒，其黨丁儀等已殺，大驚。急出殿，召曹丕相見。丕見母出殿，慌來拜謁。卞氏哭謂丕曰：「汝弟植平生嗜酒疎狂，蓋因自恃胸中之才，故爾放縱。汝可念同胞之情，存其性命。吾至九泉亦瞑目也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I also admire his ability, mother, and have no intention to hurt him. But I would reform him. Have no anxiety as to his fate.” So the mother was comforted and withdrew. The prince then went to a private room and bade them call his brother. Said Hua Hsin, “Surely the princess-mother has just been interceding for your brother; is it not so?” “It is so,” replied the prince. “Then let me say that he is too clever to be content to remain in a humble station. If you do not remove him he will do you harm.” “I must obey my mother’s command.”"
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-079-line-015",
+        "order": 15,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "」丕曰：「兒亦深愛其才，安肯害他？今正欲戒其性耳。母親勿憂。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“People say your brother simply talks in literature. I do not believe it myself, but he might be put to the test. If he bears a false reputation you can slay him; if what they say is true, then degrade him, lest the scholars of the land should babble.”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-079-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "卞氏灑淚而入。丕出偏殿，召曹植入見。華歆問曰：「適來莫非太后勸殿下勿殺子建乎？」丕曰：「然。」歆曰：「子建懷才抱智，終非池中物；若不早除，必為後患。」丕曰：「母命不可違。」歆曰：「人皆言子建出口成章，臣未深信。主上可召入，以才試之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Soon Ts‘ao Chih came, and in a state of great trepidation bowed low before his elder brother, confessing his fault. The prince addressed him, saying, “Though we are brothers, yet the proper relation between us of prince and minister must not be overlooked. Why then did you behave indecorously? While the late prince lived you made a boast of your literary powers, but I am disposed to think you may have made use of another’s pen. Now I require you to compose a poem within the time taken to walk seven paces, and I will spare your life if you succeed. If you fail, then I shall punish you with rigour.”"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-079-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "若不能，即殺之；若果能，則貶之，以絕天下文人之口。」丕從之。須臾，曹植入見，惶恐伏拜請罪。丕曰：「吾與汝情雖兄弟，義屬君臣；汝安敢恃才蔑禮？昔先君在日，汝常以文章誇示於人，吾深疑汝必用他人代筆。吾今限汝行七步吟詩一首。若果能，則免一死；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Will you suggest a theme?” asked Chih. Now there was hanging in the hall a black and white sketch of two bulls that had been fighting at the foot of a wall, and one of them had just fallen dead into a well. Ts‘ao P‘ei pointed to the sketch and said, “Take that as the subject. But you are forbidden to use the words 'two bulls, one bull, fighting, wall’s foot, falling, well and dead.' “ Ts‘ao Chih took seven paces and then recited this poem:—"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-079-line-018",
+        "order": 18,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "若不能，則從重治罪，決不姑恕。」植曰：「願乞題目。」時殿上懸一水墨畫，畫著兩隻牛，鬥於土牆之下，一牛墜井而亡。丕指畫曰：「即以此畫為題。詩中不許犯著『二牛鬥牆下，一牛墜井死』字樣。」植行七步，其詩已成。詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Two butcher’s victims lowing walked along, Each head bore curving bones, a sturdy pair, They met just by a hillock, both were strong, Each would avoid a pit new digged there. They fought unequal battle, for at length One lay below a gory mass, inert. 'Twas not that they were of unequal strength— Though wrathful both, one did not strength exert. This exhibition of skill amazed the prince and the whole court. Ts‘ao P‘ei thought he would use another test, so he bade his brother improvise on the theme of their fraternal ​ relationship, the words “brotherhood” or “brother” being barred. Without seeming to reflect, Ts‘ao Chih rattled off this rhyme:—"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-079-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "兩肉齊道行，頭上帶凹骨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They were boiling beans on a beanstalk fire; Came a plaintive voice from the pot, “O why, since we sprang from the selfsame root, Should you kill me with anger hot?\""
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-079-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "相遇凷山下，欻起相搪突。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The allusion in these verses to the cruel treatment of one member of a family by another was not lost upon Ts‘ao P‘ei, and he dropped a few silent tears."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-079-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "二敵不俱剛，一肉臥土窟。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The mother of both men came out at this moment from her abiding place and said, “Should the elder brother thus oppress the younger?”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-079-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "非是力不如，盛氣不泄畢。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The prince jumped from his seat, saying, “My mother, the laws of the state cannot be nullified.”"
+          }
+        }
+      },
+      {
+        "character_count": 68,
+        "id": "chapter-079-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "曹丕及群臣皆驚。丕又曰：「七步成章，吾猶以為遲。汝能應聲而作詩一首否？」植曰：「願即命題。」丕曰：「吾與汝乃兄弟也。以此為題。亦不許犯著『兄弟』字樣。」植略不思索，即口占一首曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Chih was degraded to the rank of “Marquis of Anhsiang.” He accepted the decision without a murmur and at once left his brother’s court."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-079-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "煮豆燃豆萁，豆在釜中泣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao P‘ei’s accession was the signal for a set of new laws and new commands. His behaviour toward the Emperor was more intemperate than his father’s had ever been."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-079-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "本是同根生，相煎何太急！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The stories of his harshness reached Ch'êngtu and almost frightened Liu Pei, who summoned his counsellors to discuss what he should do."
+          }
+        }
+      },
+      {
+        "character_count": 53,
+        "id": "chapter-079-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "曹丕聞之，潸然淚下。其母卞氏，從殿後出曰：「兄何逼弟之甚耶？」丕慌忙離坐告曰：「國法不可廢耳。」於是貶曹植為安鄉侯。植拜辭上馬而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Said he, “Since the death of Ts‘ao Ts‘ao and the accession of his son the position of the Emperor has changed for the worse. Sun Ch'üan acknowledges the lordship of Wei, and its influence is becoming too great. I am disposed to destroy Sun Ch'üan in revenge for the death of my brother. That done, I will proceed to the capital and its district and purge the whole land of rebellion. What think you?”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-079-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "曹丕自繼位之後，法令一新，威逼漢帝，甚於其父。早有細作報入成都。漢中王聞之，大驚，即與文武商議曰：「曹操已死，曹丕繼位，威逼天子，更甚於操。東吳孫權，拱手稱臣。孤欲先伐東吳，以報雲長之讎；次討中原，以除亂賊。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Liao Hua stood out from the ranks of officers and threw himself upon the earth, saying with tears, “Liu Fêng and Mêng Ta were the true cause of the death of your brother and his adopted son; both these renegades deserve death.” Yüan-tê was of the same opinion and was going to send and arrest them forthwith, but here K‘ung-ming intervened and gave wiser advice."
+          }
+        }
+      },
+      {
+        "character_count": 70,
+        "id": "chapter-079-line-028",
+        "order": 28,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "」言未畢，廖化出班，哭拜於地曰：「關公父子遇害，實劉封、孟達之罪。乞誅此二賊。」玄德便欲遣人擒之。孔明諫曰：「不可。且宜緩圖之。急則生變矣。可陞此二人為郡守，分調開去。然後可擒。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“That is not the way; go slowly or you may stir up strife. Promote these two and separate them. After that you may arrest.” The prince saw the prudence of this procedure and stayed his hand. He raised Liu Fêng to the Prefectship of Mienchu, and so separated the two delinquents."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-079-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "玄德從之，遂遣使陞劉封去守綿竹。原來彭羕與孟達甚厚，聽知此事，急回家作書，遣心腹人馳報孟達。使者方出南門外，被馬超巡視軍捉獲，解見馬超。超審知此事，即往見彭羕。羕接入，置酒相待。酒至數巡，超以言挑之曰：「昔漢中王待公甚厚，今何漸薄也？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now P'êng Yang and Mêng Ta were old friends. Hearing what was afoot, the former hastened home and wrote warning his friend. The letter was confided to a trusty messenger to bear to Mêng Ta. The messenger was caught as he went out of the city and carried before Ma Ch‘ao, who thus got wind of ​ the business. He then went to P'êng’s house, where, nothing being suspected, he was received kindly and wine was brought in. The two drank for some time. When Ma Ch‘ao thought his host sufficiently off his guard, he said, “The Prince of Hanchung used to look on you with great favour; why does he do so no longer?”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-079-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "」羕因酒醉，恨罵曰：「老革荒悖，吾必有以報之！」超又探曰：「某亦懷怨心久矣。」羕曰：「公起本部軍，結連孟達為外合，某領川兵為內應，大事可圖也。」超曰：「先生之言甚當。來日再議。」超辭了彭羕，即將人與書解見漢中王，細言其事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The host began to rave against his master. “The obstinate old leather-belly! But I will find some way to pay him out.” In order to see to what lengths he would go, Ma Ch‘ao led him on, saying, “Truth to tell, I have long hated the man too.” “Then you join Mêng Ta and attck, while I will win over the Hsich‘uan men. That will make it easy enough,” said Piêng Yang. “What you propose is very feasible, but we will talk it over again tomorrow,” said Ma Ch‘ao, and took leave."
+          }
+        }
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-079-line-031",
+        "order": 31,
+        "source_block_chunk": 3,
+        "source_block_order": 18,
+        "text": "玄德大怒，即令擒彭羕下獄，拷問其情。羕在獄中，悔之無及。玄德問孔明曰：「彭羕有謀反之意，當何以治之？」孔明曰：「羕雖狂士，然留之久必生禍。」於是玄德賜彭羕死於獄。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Taking with him the captured man and the letter he carried, he then proceeded to see the prince, to whom he related the whole story. Yüan-tê was very angry and at once had the intended traitor arrested and put in prison, where he was examined under torture to get at full details. While P'êng Yang lay in prison, bitterly but vainly repentant, Yüan-tê consulted his adviser. “That fellow P‘êng meant to turn traitor: what shall I do with him?”"
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-079-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "羕既死，有人報知孟達。達大驚，舉止失錯。忽使命至，調劉封回守綿竹去訖。孟達慌請上庸、房陵都尉申耽、申儀弟兄二人商議曰：「我與法孝直同有功於漢中王；今孝直已死，而漢中王忘我前功，乃欲見害，為之奈何？」耽曰：「某有一計，使漢中王不能加害於公。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The fellow is something of a scholar, but irresponsible,” replied K‘ung-ming. “He is too dangerous to be left alive.” Thereupon orders were given that he should be put to death in gaol. The news that he had been made away with frightened his sympathiser and friend, Mêng Ta, and put him in a quandary. What had he better do? On the top of this, Liu Fêng’s promotion and transfer to Mienchu arrived, and frightened him still more. So he sought advice from two friends, brothers, who lived in Shangyung. “My friend Fa Chêng and I did much for the prince. But now Fa is dead and I am forgotten. More than that, he wishes to put me to death. What can I do?” said Mêng. Shên Tan, one of the two, replied, “I think I can find a plan that will secure your safety.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-079-line-033",
+        "order": 33,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "」達大喜，急問何計。耽曰：「吾弟兄欲投魏久矣；公可作一表，辭了漢中王，投魏王曹丕，丕必重用。吾二人亦隨後來降也。」達猛然省悟，即寫表一通，付與來使；當晚引五十餘騎投魏去了。使命持表回成都，奏漢中王，言孟達投魏之事。先主大怒，覽其表曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What is it?” asked Mêng Ta, feeling happier. “Desertion. My brother I and I have long desired to go over to Wei. You just write the prince a memorial resigning your service and betake yourself to the Prince of Wei, who will certainly employ you in some honourable way. Then we two will follow.” Mêng Ta saw that this was his best course, so he wrote a memorandum, which he gave to the messenger who had brought the recent despatches to take back with him. That night he left his post and went to Wei. ​ The messenger returned to Ch'êngtu, handed in Mêng Ta’s memorial and told the story of his desertion. The king was angry. He tore open the letter and read:—"
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-079-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "臣達伏惟殿下將建伊、呂之業，追桓、文之功，大事草創，假勢吳、楚，是以有為之士，望風歸順。臣委質以來，愆戾山積；臣猶自知，況於君乎？今王朝英俊鱗集，臣內無輔佐之器，外無將領之才，列次功臣，誠足自愧！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“In the humble opinion of thy servant, O Prince, you have set out to accomplish a task comparable with that of I Yin and Lu Shang, and to walk in the meritorious footsteps of Huan Kung and Wên Kung. When the great design was rough-hewn you had the support of Wu and Ch‘u, wherefore many men of ability incontinently joined you. Since I entered your service I have committed many faults; and if I recognise them, how much more do you see them! Now, O Prince, you are surrounded by famous men, while I, useless as a helper at home and inept as a leader abroad, should be shamed were I to take a place among them."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-079-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "臣聞范蠡識微，浮於五湖；舅犯謝罪，逡巡河上。夫際會之間，請命乞身，何哉：欲潔去就之分也。況臣卑鄙，無元功巨勳，自繫於時，竊慕前賢，早思遠恥。昔申生至孝，見疑於親；子胥至忠，見誅於君；蒙恬拓境而被大刑，樂毅破齊而遭讒佞。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“It is well known that when Fan Li saw certain eventualities he went sailing on the lakes, and Chiu Fan acknowledged his faults and stayed by the river. Inasmuch as one cannot take means of safeguarding one’s self at the critical and dangerous moment, I desire—as is my duty—to go away as I came, untainted. Moreover, I am stupid and without use or merit, merely born in these days as the sport of circumstances. In the days of old, Shên Shêng, though perfectly filial, incurred the suspicions of his father and died; Tzŭ-hsü (Wu Yüan), though perfectly loyal, was put to death. Mêng T‘ien, though he extended the borders, suffered the extreme penalty; and Yüeh I, though he destroyed the might of Ch‘i, was the victim of calumny. Whenever I have read of these men I have been moved to tears, and now I am in like case and the more mortified. Lately Chingchou was overwhelmed and many officers of rank failed in their duty, not one in a hundred behaving as he should. Only I remained in Fangling and Shangyung and sought service abroad. Now I desire you, O Prince, graciously to understand, to sympathise with thy servant and to condone the step he is about to take. Really I am but a mean man, incapable of great deeds. I know what I am doing, and I dare to say it is no fault. They say that dissolution of bonds should not occasion recrimination and the dismissed servant should take leave without heartburnings. I have taken your orders many times, and now, O Prince, you must act yourself. I write this with extreme trepidation.”"
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-079-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "臣每讀其書，未嘗不感慨流涕；而親當其事，益用傷悼！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But the reading gave rise to great anger in the breast of the prince."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-079-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "邇者，荊州覆敗，大臣失節，百無一還；惟臣尋事，自致房陵、上庸，而復乞身自放於外。伏想殿下聖恩感悟，愍臣之心，悼臣之舉。臣誠小人，不能始終。知而為之，敢謂非罪？臣每聞「交絕無惡聲，去臣無怨辭」。臣過奉教於君子，願君王勉之。臣不勝惶恐之至！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The stupid fellow!” said he. “He turns traitor and dares to insult me by sending a letter of farewell.” He was just giving orders to send a force to seize the deserter, when K‘ung-ming interposed, saying, “You had better send Liu Fêng to capture him and let the two tigers worry each other to weakness. Whether Liu Fêng succeeds or fails, he will ​ have to come to the capital, and you can kill him. Thus will you cut off two evils.”"
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-079-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "玄德看畢，大怒曰：「匹夫叛吾，安敢以文辭相戲耶！」即欲起兵擒之。孔明曰：「可就遣劉封進兵，令二虎相併；劉封或有功，或敗績，必歸成都，就而除之，可絕兩害。」玄德從之，遂遣使到綿竹，傳諭劉封。封受命，率兵來擒孟達。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê took his advice. Orders were sent to Mienchu, and Liu Fêng obediently led out his men. Now Mêng Ta arrived when Ts‘ao P‘ei was holding a great council. When the attendants told him that Mêng Ta of Shu had come, Ts‘ao P‘ei summoned him to enter and said to him, “Is not this an insincere surrender?” Mêng Ta replied, “I was in fear of death for not having relieved Kuan Yü. That is my only reason for coming. ”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-079-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "卻說曹丕正聚文武議事，忽近臣奏曰：「蜀將孟達來降。」丕召入問曰：「汝此來，莫非詐降乎？」達曰：「臣為不救關公之危，漢中王欲殺臣，因此懼罪來降，別無他意。」曹丕尚未准信，忽報劉封引五萬兵來取襄陽，單搦孟達廝殺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "However, Ts‘ao P‘ei did not trust him. When they reported that Liu Fêng was coming to arrest him, with a large army, and had attacked Hsiangyang and was challenging Mêng Ta to battle, Ts‘ao P‘ei said, “You seem to be true. Go then to Hsiangyang and take Liu Fêng. If you bring me his head I shall no longer doubt.” Mêng Ta replied, “I will convince him by argument; no soldiers will be needed. I will bring him to surrender too.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-079-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "丕曰：「汝既是真心，便可去襄陽取劉封首級來，孤方准信。」達曰：「臣以利害說之，不必動兵，令劉封亦來降也。」丕大喜，遂加孟達為散騎常侍、建武將軍、平陽亭侯，領新城太守，去守襄陽、樊城。原來夏侯尚、徐晃已先在襄陽，正將收取上庸諸部。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Mêng Ta was given rank and honours and sent to guard Hsiangyang. Now there were two generals there already, Hsiahou Shang and Hsü Huang engaged in reducing the surrounding district. Mêng Ta arrived, met his two colleagues and was told that Liu Fêng was fifty li from the city. Whereupon he wrote him a letter urging him to surrender. But Liu Fêng was in no mood to surrender; instead he tore up the letter and put the messenger to death."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-079-line-041",
+        "order": 41,
+        "source_block_chunk": 3,
+        "source_block_order": 24,
+        "text": "孟達到了襄陽，與二將禮畢，探得劉封離城五十里下寨。達即修書一封，使人齎赴蜀寨招降劉封。劉封覽書大怒曰：「此賊誤吾叔姪之義，又間吾父子之親，使吾為不忠不孝之人也！」遂扯碎來書，斬其使。次日，引軍前來搦戰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The renegade has already made me offend against my duty to my uncle, and now would sever me from my father so that I shall be reproached as disloyal and unfilial,” said Liu Fêng. Mêng Ta went out with his army to give battle. Liu Fêng rode to the front, pointed with his sword at his opponent and railed against him. “Death is very near you,” replied Mêng Ta, “yet you continue blindly in the way of foolishness and will not understand.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-079-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "孟達知劉封扯書斬使，勃然大怒，亦領兵出迎。兩陣對圓，封立馬於門旗下，以刀指罵曰：「背國反賊，安敢亂言！」孟達曰：「汝死已臨頭，還自執迷不省！」封大怒，拍馬輪刀，直奔孟達。戰不三合，達敗走，封乘虛追殺二十餘里，一聲喊起，伏兵盡出。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Fêng rode out flourishing his sword. He engaged Mêng Ta, who ran away before the conflict had well begun. Liu Fêng pursued hotly to a long distance. Then he fell into an ambush and found himself attacked on two sides. Also Mêng Ta returned to the attack. Liu Féng was forced to fly. He made straight for Shangyung, pursued all the way. When he reached the city and hailed the gate he was met by a volley of arrows."
+          }
+        }
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-079-line-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "左邊夏侯尚殺來，右邊徐晃殺來，孟達回身復戰：三軍夾攻。劉封大敗而走，連夜奔回上庸，背後魏兵趕來。劉封到城下叫門，城上亂箭射下。申耽在敵樓上叫曰：「吾已降了魏也！」封大怒，欲要攻城，背後追軍將至。封立腳不牢，只得望房陵而奔，見城上已盡插魏旗。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have surrendered to Wei,” cried Shên Tan from the city tower. It was impossible to attack the city, as the army of Wei was close behind, and having no resting place he set off for Fangling. He arrived there to find the banners of Wei set out along the walls. Then he saw Shên I wave a signal from the ​ tower, and at once there appeared from the shelter of the wall a body of men led by Hsü Huang."
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-079-line-044",
+        "order": 44,
+        "source_block_chunk": 3,
+        "source_block_order": 25,
+        "text": "申儀在敵樓上將旗一颭，城後一彪軍出，旗上大書「右將軍徐晃」。封抵敵不住，急望西川而走。晃乘勢追殺。劉封部下只剩得百餘騎，到了成都，入見漢中王，哭拜於地，細奏前事。玄德怒曰：「辱子有何面目復來見吾！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Liu Fêng made for home. But he was pursued, and only a handful of his men remained to him when he regained Ch'êngtu. Seeking an interview with his adopted father, he found but scant sympathy, for in reponse to his petition, made prostrate and weeping, Yüan-tê said, “Shameful son! How are you come to see me at all?” “My uncle’s mishap was not due to my refusal of help, but because Mêng Ta thwarted me.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-079-line-045",
+        "order": 45,
+        "source_block_chunk": 4,
+        "source_block_order": 25,
+        "text": "」封曰：「叔父之難，非兒不救，因孟達諫阻故耳。」玄德轉怒曰：「汝須食人食、穿人衣，非土木偶人！安可聽讒賊所阻！」命左右推出斬之。漢中王既斬劉封，後聞孟達招之，毀書斬使之事，心中頗悔；又哀痛關公，以致染病，因此按兵不動。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You eat as a man, you dress as a man; but you have no more the instincts of a man than an image of clay or wood. What mean you by saying another wretch thwarted you?” Yüan-tê bade his executioners expel him and put him to death. But he felt some compunction later when he heard of the treatment meted out to the messenger who had brought Mêng Ta’s letter inviting him to become a traitor. And he gave way to grief for the death of his brother until he fell ill. So no military movements were made."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-079-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "且說魏王曹丕，自即王位，將文武官僚，盡皆陞賞；遂統甲兵三十萬，南巡沛國譙縣，大饗先塋。鄉中父老，揚塵遮道，奉觴進酒，效漢高祖還沛之事。人報大將軍夏侯惇病危，丕即還鄴郡。時惇已卒，丕為挂孝，以厚禮殯葬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It may be stated here that after he had succeeded to the princedom, Ts‘ao P‘ei raised all his officers to high rank and had an army prepared of thirty legions, and manœuvred them over the southern districts and made great feasts. And the aged villagers lined the roads offering gifts of wine, just as when the Founder of the Hans returned home to P‘ei."
+          }
+        }
+      },
+      {
+        "character_count": 69,
+        "id": "chapter-079-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "是歲八月間，報稱石邑縣鳳凰來儀，臨淄城麒麟出現，黃龍現於鄴郡。於是中郎將李伏、太史丞許芝商議：種種瑞徵，乃魏當代漢之兆，可安排受禪之禮，令漢帝將天下讓於魏王。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When it was announced that the faithful warrior Hsiahou Tun was near death, Ts‘ao P‘ei hastened back to Yeh, but arrived too late to see him. He put on mourning for the great leader and instituted magnificent funeral ceremonies."
+          }
+        }
+      },
+      {
+        "character_count": 50,
+        "id": "chapter-079-line-048",
+        "order": 48,
+        "source_block_chunk": 2,
+        "source_block_order": 27,
+        "text": "遂同華歆、王朗、辛毗、賈詡、劉廙、劉曄、陳矯、陳群、桓階等，一班文武官僚，四十餘人，直入內殿，來奏漢獻帝，請禪位於魏王曹丕。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the late summer of this same year it was reported that a phoenix had been seen to bow at Shihihsien and a ch‘i-ling had appeared at Lintzŭ, while a yellow dragon was observed in Yeh. Whereupon certain high officers discussed these appearances, and putting them all together concluded that they presaged that Wei was about to supplant Han and the altar of abdication should be set up. Presently a deputation of two score officers went into the palace and proposed to the Emperor Hsien that he should abdicate and yield to the Prince of Wei."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-079-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "魏家社稷今將建，漢代江山忽已移。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is time to set up the throne of Wei, And steal the land from the Hans."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-079-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "未知獻帝如何回答，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The next chapter will record the Emperor’s reply."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說曹丕聞曹彰提兵而來，驚問眾官；一人挺身而出，願往折服之。眾視其人，乃諫議大夫賈逵也。曹丕大喜，即命賈逵前往。逵領命出城，迎見曹彰。彰問曰：「先王璽綬安在？」逵正色而言曰：「家有長子，國有儲君，先王璽綬，非君侯之所宜問也。」彰默然無語，乃與賈逵同入城。至宮門前，逵問曰：「君侯此來，欲奔喪耶？欲爭位耶？」彰曰：「吾來奔喪，別無異心。」逵曰：「既無異心，何故帶兵入城？」彰即時叱退左右將士，隻身入內，拜見曹丕。兄弟二人，相抱大哭。曹彰將本部軍馬盡交與曹丕。丕令彰回鄢陵自守，彰拜辭而去。\n於是曹丕安居王位，改建安二十五年為延康元年。封賈詡為太尉，華歆為相國，王朗為御史大夫。大小官僚，盡皆陞賞。諡曹操曰武王，葬於鄴郡高陵。令于禁董治陵事。禁奉命到彼，只見陵屋中白粉壁上，圖畫關雲長水渰七軍擒獲于禁之事：畫雲長儼然上坐，龐德憤怒不屈，于禁拜伏於地，哀求乞命之狀。原來曹丕以于禁兵敗被擒，不能死節，既降敵而復歸，心鄙其為人，故先令人圖畫陵屋粉壁，故意使之往見以愧之。當下于禁見此畫像，又羞又惱，氣憤成病，不久而死。後人有詩歎曰：\n三十年來說舊交，可憐臨難不忠曹。\n知人未向心中識，畫虎今從骨裏描。\n卻說華歆奏曹丕曰：「鄢陵侯已交割軍馬，赴本國去了；臨淄侯植，蕭懷侯熊，二人竟不來奔喪，理當問罪。」丕從之，即分遣二使往二處問罪。不一日，蕭懷使者回報：「蕭懷侯曹熊懼罪，自縊身死。」丕令厚葬之，追贈蕭懷王。又過了一日，臨淄使者回報，說：「臨淄侯日與丁儀、丁廙兄弟二人酣飲，悖慢無禮；聞使命至，臨淄侯端坐不動。丁儀罵曰：『昔日先王本欲立吾主為世子，被讒臣所阻；今王喪未遠，便問罪於骨肉，何也？』丁廙又曰：『據吾主聰明冠世，自當承嗣大位，今反不得立。汝那廟堂之臣，何不識人才若此！』臨淄侯因怒叱武士，將臣亂棒打出。」\n丕聞之，大怒，即令許褚領虎衛軍三千，火速至臨淄擒曹植等一干人來。褚奉命，引軍至臨淄城。守將攔阻，褚立斬之，直入城中，無一人敢當鋒銳，逕到府堂。只見曹植與丁儀、丁廙等盡皆醉倒。褚皆縛之，載於車上，并將府下大小屬官，盡行拿解鄴郡，聽候曹丕發落。丕下令，先將丁儀、丁廙等盡皆誅戮。丁儀字正禮，丁廙字敬禮，沛郡人，乃一時文士；及其被殺，人多惜之。\n卻說曹丕之母卞氏，聽得曹熊縊死，心甚悲傷；忽又聞曹植被擒，其黨丁儀等已殺，大驚。急出殿，召曹丕相見。丕見母出殿，慌來拜謁。卞氏哭謂丕曰：「汝弟植平生嗜酒疎狂，蓋因自恃胸中之才，故爾放縱。汝可念同胞之情，存其性命。吾至九泉亦瞑目也。」丕曰：「兒亦深愛其才，安肯害他？今正欲戒其性耳。母親勿憂。」\n卞氏灑淚而入。丕出偏殿，召曹植入見。華歆問曰：「適來莫非太后勸殿下勿殺子建乎？」丕曰：「然。」歆曰：「子建懷才抱智，終非池中物；若不早除，必為後患。」丕曰：「母命不可違。」歆曰：「人皆言子建出口成章，臣未深信。主上可召入，以才試之。若不能，即殺之；若果能，則貶之，以絕天下文人之口。」丕從之。須臾，曹植入見，惶恐伏拜請罪。丕曰：「吾與汝情雖兄弟，義屬君臣；汝安敢恃才蔑禮？昔先君在日，汝常以文章誇示於人，吾深疑汝必用他人代筆。吾今限汝行七步吟詩一首。若果能，則免一死；若不能，則從重治罪，決不姑恕。」植曰：「願乞題目。」時殿上懸一水墨畫，畫著兩隻牛，鬥於土牆之下，一牛墜井而亡。丕指畫曰：「即以此畫為題。詩中不許犯著『二牛鬥牆下，一牛墜井死』字樣。」植行七步，其詩已成。詩曰：\n兩肉齊道行，頭上帶凹骨。\n相遇凷山下，欻起相搪突。\n二敵不俱剛，一肉臥土窟。\n非是力不如，盛氣不泄畢。\n曹丕及群臣皆驚。丕又曰：「七步成章，吾猶以為遲。汝能應聲而作詩一首否？」植曰：「願即命題。」丕曰：「吾與汝乃兄弟也。以此為題。亦不許犯著『兄弟』字樣。」植略不思索，即口占一首曰：\n煮豆燃豆萁，豆在釜中泣。\n本是同根生，相煎何太急！\n曹丕聞之，潸然淚下。其母卞氏，從殿後出曰：「兄何逼弟之甚耶？」丕慌忙離坐告曰：「國法不可廢耳。」於是貶曹植為安鄉侯。植拜辭上馬而去。\n曹丕自繼位之後，法令一新，威逼漢帝，甚於其父。早有細作報入成都。漢中王聞之，大驚，即與文武商議曰：「曹操已死，曹丕繼位，威逼天子，更甚於操。東吳孫權，拱手稱臣。孤欲先伐東吳，以報雲長之讎；次討中原，以除亂賊。」言未畢，廖化出班，哭拜於地曰：「關公父子遇害，實劉封、孟達之罪。乞誅此二賊。」玄德便欲遣人擒之。孔明諫曰：「不可。且宜緩圖之。急則生變矣。可陞此二人為郡守，分調開去。然後可擒。」\n玄德從之，遂遣使陞劉封去守綿竹。原來彭羕與孟達甚厚，聽知此事，急回家作書，遣心腹人馳報孟達。使者方出南門外，被馬超巡視軍捉獲，解見馬超。超審知此事，即往見彭羕。羕接入，置酒相待。酒至數巡，超以言挑之曰：「昔漢中王待公甚厚，今何漸薄也？」羕因酒醉，恨罵曰：「老革荒悖，吾必有以報之！」超又探曰：「某亦懷怨心久矣。」羕曰：「公起本部軍，結連孟達為外合，某領川兵為內應，大事可圖也。」超曰：「先生之言甚當。來日再議。」超辭了彭羕，即將人與書解見漢中王，細言其事。玄德大怒，即令擒彭羕下獄，拷問其情。羕在獄中，悔之無及。玄德問孔明曰：「彭羕有謀反之意，當何以治之？」孔明曰：「羕雖狂士，然留之久必生禍。」於是玄德賜彭羕死於獄。\n羕既死，有人報知孟達。達大驚，舉止失錯。忽使命至，調劉封回守綿竹去訖。孟達慌請上庸、房陵都尉申耽、申儀弟兄二人商議曰：「我與法孝直同有功於漢中王；今孝直已死，而漢中王忘我前功，乃欲見害，為之奈何？」耽曰：「某有一計，使漢中王不能加害於公。」達大喜，急問何計。耽曰：「吾弟兄欲投魏久矣；公可作一表，辭了漢中王，投魏王曹丕，丕必重用。吾二人亦隨後來降也。」達猛然省悟，即寫表一通，付與來使；當晚引五十餘騎投魏去了。使命持表回成都，奏漢中王，言孟達投魏之事。先主大怒，覽其表曰：\n臣達伏惟殿下將建伊、呂之業，追桓、文之功，大事草創，假勢吳、楚，是以有為之士，望風歸順。臣委質以來，愆戾山積；臣猶自知，況於君乎？今王朝英俊鱗集，臣內無輔佐之器，外無將領之才，列次功臣，誠足自愧！\n臣聞范蠡識微，浮於五湖；舅犯謝罪，逡巡河上。夫際會之間，請命乞身，何哉：欲潔去就之分也。況臣卑鄙，無元功巨勳，自繫於時，竊慕前賢，早思遠恥。昔申生至孝，見疑於親；子胥至忠，見誅於君；蒙恬拓境而被大刑，樂毅破齊而遭讒佞。臣每讀其書，未嘗不感慨流涕；而親當其事，益用傷悼！\n邇者，荊州覆敗，大臣失節，百無一還；惟臣尋事，自致房陵、上庸，而復乞身自放於外。伏想殿下聖恩感悟，愍臣之心，悼臣之舉。臣誠小人，不能始終。知而為之，敢謂非罪？臣每聞「交絕無惡聲，去臣無怨辭」。臣過奉教於君子，願君王勉之。臣不勝惶恐之至！\n玄德看畢，大怒曰：「匹夫叛吾，安敢以文辭相戲耶！」即欲起兵擒之。孔明曰：「可就遣劉封進兵，令二虎相併；劉封或有功，或敗績，必歸成都，就而除之，可絕兩害。」玄德從之，遂遣使到綿竹，傳諭劉封。封受命，率兵來擒孟達。\n卻說曹丕正聚文武議事，忽近臣奏曰：「蜀將孟達來降。」丕召入問曰：「汝此來，莫非詐降乎？」達曰：「臣為不救關公之危，漢中王欲殺臣，因此懼罪來降，別無他意。」曹丕尚未准信，忽報劉封引五萬兵來取襄陽，單搦孟達廝殺。丕曰：「汝既是真心，便可去襄陽取劉封首級來，孤方准信。」達曰：「臣以利害說之，不必動兵，令劉封亦來降也。」丕大喜，遂加孟達為散騎常侍、建武將軍、平陽亭侯，領新城太守，去守襄陽、樊城。原來夏侯尚、徐晃已先在襄陽，正將收取上庸諸部。孟達到了襄陽，與二將禮畢，探得劉封離城五十里下寨。達即修書一封，使人齎赴蜀寨招降劉封。劉封覽書大怒曰：「此賊誤吾叔姪之義，又間吾父子之親，使吾為不忠不孝之人也！」遂扯碎來書，斬其使。次日，引軍前來搦戰。\n孟達知劉封扯書斬使，勃然大怒，亦領兵出迎。兩陣對圓，封立馬於門旗下，以刀指罵曰：「背國反賊，安敢亂言！」孟達曰：「汝死已臨頭，還自執迷不省！」封大怒，拍馬輪刀，直奔孟達。戰不三合，達敗走，封乘虛追殺二十餘里，一聲喊起，伏兵盡出。左邊夏侯尚殺來，右邊徐晃殺來，孟達回身復戰：三軍夾攻。劉封大敗而走，連夜奔回上庸，背後魏兵趕來。劉封到城下叫門，城上亂箭射下。申耽在敵樓上叫曰：「吾已降了魏也！」封大怒，欲要攻城，背後追軍將至。封立腳不牢，只得望房陵而奔，見城上已盡插魏旗。申儀在敵樓上將旗一颭，城後一彪軍出，旗上大書「右將軍徐晃」。封抵敵不住，急望西川而走。晃乘勢追殺。劉封部下只剩得百餘騎，到了成都，入見漢中王，哭拜於地，細奏前事。玄德怒曰：「辱子有何面目復來見吾！」封曰：「叔父之難，非兒不救，因孟達諫阻故耳。」玄德轉怒曰：「汝須食人食、穿人衣，非土木偶人！安可聽讒賊所阻！」命左右推出斬之。漢中王既斬劉封，後聞孟達招之，毀書斬使之事，心中頗悔；又哀痛關公，以致染病，因此按兵不動。\n且說魏王曹丕，自即王位，將文武官僚，盡皆陞賞；遂統甲兵三十萬，南巡沛國譙縣，大饗先塋。鄉中父老，揚塵遮道，奉觴進酒，效漢高祖還沛之事。人報大將軍夏侯惇病危，丕即還鄴郡。時惇已卒，丕為挂孝，以厚禮殯葬。\n是歲八月間，報稱石邑縣鳳凰來儀，臨淄城麒麟出現，黃龍現於鄴郡。於是中郎將李伏、太史丞許芝商議：種種瑞徵，乃魏當代漢之兆，可安排受禪之禮，令漢帝將天下讓於魏王。遂同華歆、王朗、辛毗、賈詡、劉廙、劉曄、陳矯、陳群、桓階等，一班文武官僚，四十餘人，直入內殿，來奏漢獻帝，請禪位於魏王曹丕。正是：\n魏家社稷今將建，漢代江山忽已移。\n未知獻帝如何回答，且看下文分解。",
+    "title": "第七十九回 兄逼弟曹植賦詩　　　姪陷叔劉封伏法"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-079.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

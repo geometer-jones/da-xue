@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 61,
+    "id": "chapter-022",
+    "order": 22,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 61,
+        "id": "chapter-022-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "唯天下至誠，為能盡其性；能盡其性，則能盡人之性；能盡人之性，則能盡物之性；能盡物之性，則可以贊天地之化育；可以贊天地之化育，則可以與天地參矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But given the sincerity, and there shall be the intelligence; given the intelligence, and there shall be the sincerity. It is only he who is possessed of the most complete sincerity that can exist under heaven, who can give its full development to his nature. Able to give its full development to his own nature, he can do the same to the nature of other men. Able to give its full development to the nature of other men, he can give their full development to the natures of animals and things. Able to give their full development to the natures of creatures and things, he can assist the transforming and nourishing powers of Heaven and Earth. Able to assist the transforming and nourishing powers of Heaven and Earth, he may with Heaven and Earth form a ternion."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "唯天下至誠，為能盡其性；能盡其性，則能盡人之性；能盡人之性，則能盡物之性；能盡物之性，則可以贊天地之化育；可以贊天地之化育，則可以與天地參矣。",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-022.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

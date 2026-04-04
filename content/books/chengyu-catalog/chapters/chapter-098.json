@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-098",
+    "order": 98,
+    "summary": "巴前算后",
+    "text": "巴前算后\n誓死不二\n成家立业\n易如拾芥\n打落水狗\n神工鬼力\n大好河山\n心寒胆落\n告往知来\n火热水深\n国泰民安\n三差五错\n孔武有力\n焦心热中\n画地成牢\n胆小怕事\n能屈能伸\n好丹非素\n造谣生事\n少私寡欲\n百世之利\n半真半假\n文章宗工\n安危与共\n备多力分\n百依百从\n引水入墙\n不分彼此\n探口而出\n火冒三尺",
+    "title": "2911-2940",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "巴前算后",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "thinking and pondering (idiom); to turn sth over in one's mind"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "誓死不二",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Make a vow to the death and remain unchanged until death"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "成家立业",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to get married and start a career (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "易如拾芥",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As easy as picking up mustard seeds"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "打落水狗",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. to beat a drowning dog (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "神工鬼力",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor of magical superhuman power"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "大好河山",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Rivers and mountains land"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "心寒胆落",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "very frightening"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "告往知来",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Once you tell this, you can know another point"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "火热水深",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "① Still in dire straits"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "国泰民安",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the country prospers, the people at peace (idiom); peace and prosperity"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "三差五错",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Generally refers to errors"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "孔武有力",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "courageous and strong (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "焦心热中",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thinking hard and worrying"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "画地成牢",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor is only allowed to move within a limited range"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "胆小怕事",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Very timid, afraid that things will happen to him, afraid of getting into trouble"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "能屈能伸",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "can bow and submit, or can stand tall (idiom, from Book of Changes); ready to give and take"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "好丹非素",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Love red, oppose white"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "造谣生事",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to start rumours and create trouble"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "少私寡欲",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "few and few"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "百世之利",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "long-term benefits for generations to come"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "半真半假",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) half true and half false"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "文章宗工",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A well-known article master"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "安危与共",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Enjoy happiness together and bear danger together"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "备多力分",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If there are too many places to defend yourself, your strength will be dispersed."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "百依百从",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There are many metaphors"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "引水入墙",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. to lead the water through the wall"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "不分彼此",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to make no distinction between what's one's own and what's another's (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "探口而出",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just blurt out the words"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-098-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "火冒三尺",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "describe extreme anger"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-098.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

@@ -1,0 +1,1282 @@
+{
+  "chapter": {
+    "character_count": 4567,
+    "id": "chapter-005",
+    "order": 5,
+    "reading_unit_count": 97,
+    "reading_units": [
+      {
+        "character_count": 94,
+        "id": "chapter-005-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說陳宮正欲下手殺曹操，忽轉念曰：「我為國家跟他到此，殺之不義。不若棄而他往。」插劍上馬，不等天明，自投東郡去了。操覺，不見陳宮，尋思：「此人見我說了這兩句，疑我不仁，棄我而去；吾當急行，不可久留。」遂連夜到陳留，尋見父親，備說前事；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to Chen Gong, who was about to kill Cao Cao; he suddenly had a change of heart, thinking, \"I followed him to this place for the sake of the country; killing him would be immoral."
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-005-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "欲散家資，招募義兵。父言：「資少恐不成事。此間有孝廉衛弘，疏財仗義，其家巨富；若得相助，事可圖矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It would be better if I just left him here, and went somewhere else.\" He returned his straight sword to its scabbard, and mounted his horse. Not waiting until daylight, he headed to Dong Commandery by himself. When Cao awoke, he did not see Chen Gong, and thought, \"This guy heard me say a couple of things, suspected me of being inhumane, and left me here. I should go at once; I cannot stay for long.\" He then went to Chenliu that same evening, looked for his father, and told him the whole story. He wanted to use his family's financial resources to enlist conscript soldiers. His father said, \"We have limited means, and I'm afraid that we will not succeed. There is a local government official who received his post based on his record of filial piety and honesty, whose name is Wei Hong. He has shown a willingness to disperse money in order to uphold justice, and his family is super wealthy. If we can get him to help out, we could make it work.\""
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-005-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "操置酒張筵，拜請衛弘到家，告曰：「今漢室無主，董卓專權，欺君害民，天下切齒。操欲力扶社稷，恨力不足。公乃忠義之士，敢求相助。」衛弘曰：「吾有是心久矣，恨未遇英雄耳。既孟德有大志，願將家資相助。」操大喜；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao arranged for a banquet, and then invited Wei Hong to his house."
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-005-line-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "於是先發矯詔，馳報各道，然後招集義兵，豎起招兵白旗一面，上書「忠義」二字。不數日間，應募之士，如雨駢集。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He told him, \"Today, the House of Han is without a ruler and Dong Zhuo has seized power. He is committing fraud against the emperor and causing harm to the people; everyone in the nation is gnashing their teeth in frustration. I would like to use my strength to help the country, but I regret that my strength alone is insufficient. You are a loyal servant of the empire; I boldly ask for your help.\" Wei Hong said, \"I have been of this mind for quite some time, but regret that I have not yet found any heroes. If you are really determined, Mengde, I am willing to help out by making my family's financial resources available to you.\" Cao was overjoyed; he then issued a forged imperial edict, which was carried at top speed along every byway. Later, when he was gathering conscript soldiers, he planted a white recruitment banner with the words \"loyalty to the empire\" written on it. After not more than a few days, he had raised a massive volunteer army. They were lined up side by side, each man like a tiny drop of rain in a great storm."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-005-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "一日，有一個陽平衛國人，姓樂，名進，字文謙，來投曹操。又有一個山陽鉅鹿人，姓李，名典，字曼成，也來投曹操。操皆留為帳前吏。又有沛國譙人，夏侯惇，字元讓，乃夏侯嬰之後；自小習鎗棒；年十四從師學武，有人辱罵其師，惇殺之，逃於外方；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "200px|thumb|right|w:Xiahou Dun|Xiahou Dun 200px|thumb|right|w:Xiahou Yuan|Xiahou Yuan One day, a man from the Kingdom of Wei in Yangping Commandery offered his service to Cao Cao; his surname was Yue, his given name was Jin, and his style name was Wenqian."
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-005-line-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "聞知曹操起兵，與其族弟夏侯淵兩個，各引壯士千人來會。此二人本操之弟兄：操父曹嵩原是夏侯氏之子，過房與曹家，因此是同族。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Another man, from Juye in Shanyang Commandery, also offered his service to Cao Cao; his surname was Li, his given name was Dian, and his style name was Mancheng. Cao kept them both as field generals. There was also a man from Qiao in the State of Pei; his name was Xiahou Dun, and his style name was Yuanrang; he was a descendant of Xiahou Ying. He had trained with the spear and staff since he was little. When he was fourteen, he found a teacher, and began his formal training in the military arts. A person had insulted his teacher, so Dun killed him and fled the area. When he heard that Cao Cao was raising an army, he and his younger kinsman, Xiahou Yuan, each came with one thousand fierce warriors. These two men were originally kinsmen of Cao's. Cao's father Cao Song was originally a son of the Xiahou clan, adopted into the Cao family; because of this, they were kinsmen."
+          }
+        }
+      },
+      {
+        "character_count": 69,
+        "id": "chapter-005-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "不數日曹氏兄弟曹仁曹洪各引兵千餘來助。曹仁字子孝曹洪字子廉二人兵馬嫺熟武藝精通。操大喜於村中調諫軍馬。衛弘盡出家財置辦衣甲旗旛。四方送糧者不計其數。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "200px|thumb|right|w:Cao Ren|Cao Ren 200px|thumb|right|w:Cao Hong|Cao Hong After not more than a few days, two other members of the Cao family, Cao Ren and Cao Hong, lent their assistance by each leading more than a thousand troops."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-005-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "時袁紹得操矯詔乃聚麾下文武引兵三萬離渤海來與曹操會盟。操作檄文以達諸郡。檄文曰",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao Ren's style name was Zixiao, and Cao Hong's style name was Zilian."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-005-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "操等謹以大義布告天下董卓欺天罔地滅國弒君穢亂宮禁殘害生靈狼戾不仁罪惡充積今奉天子密詔大集義兵誓欲掃清華夏剿戮群凶。望興義師共洩公憤扶持王室拯救黎民。檄文到日可速奉行",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The two of them were highly skilled in warfare, and proficient in all of the military arts."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-005-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "操發檄文去後各鎮諸侯皆起兵相應",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao was overjoyed, and began training the soldiers and cavalry right there within the village. Wei Hong used a considerable amount of his family's financial resources to purchase body armor and banners. Provisions came from all over, in numbers too great to count. When Yuan Shao obtained the forged imperial edict, he gathered everyone under his command, both military and civilian alike. He led a total of 30,000 soldiers from Bohai to meet up with Cao Cao and form an alliance. Cao drafted an official call to arms, which was to be sent to all of the commanderies. The call to arms read: Cao and his associates, solely in the interest of justice, do hereby declare before all under heaven: Dong Zhuo has deceived the gods of heaven and earth, destroyed our nation and murdered our emperor; he has defiled the palace, and caused harm to the citizenry; he is as savage as a wolf, and inhumane as well; his crimes have piled up! Today, we abide by a secret decree from the emperor. We have conscripted a large army, and pledge to rid the land of Huaxia of this evil; we shall exterminate this pack of murderers. We have raised an army which seeks to uphold justice, and give vent to the public's outrage. We shall support the imperial household, and save the common people. This official call to arms is effective immediately upon receipt. Once Cao issued the official call to arms, the nobles from each of the garrisons all raised armies in response:"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-005-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "第一鎮，後將軍南陽太守袁術。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Prefect of Peipʻing, Kungsun Tsan, while on his way with his force of a legion and a half, passed through P‘ingyüan. There he saw among the mulberry trees a yellow flag under which marched a small company. When they drew nearer he saw the leader was Liu Yüan-tê."
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-005-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "第二鎮，冀州刺史韓馥。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Good brother, what do you here?”"
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-005-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "第三鎮，豫州刺史孔伷。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You were kind to me once and on your recommendation I was made magistrate of this district. I heard you were passing through and came to salute you. May I pray my elder brother to enter into the city and rest his steed?”"
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-005-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "第四鎮，兗州刺史劉岱。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who are these two?” said Tsan pointing to the other two brothers."
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-005-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "第五鎮，河內太守王匡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“These are Kuan Yü and Chang Fei, my sworn brothers.”"
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-005-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "第六鎮，陳留太守張邈。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Were they fighting with you against the rebels?”"
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-005-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "第七鎮，東郡太守喬瑁。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“All my success was due to their efforts,” said Yüan-tê."
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-005-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "第八鎮，山陽太守袁遺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“And what offices do they fill?”"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-005-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "第九鎮，濟北相鮑信。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Kuan Yü is a mounted archer: Fei is a foot archer.”"
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-005-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "第十鎮，北海太守孔融。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Thus are able men buried!” said Tsan, sighing. Then he continued. “All the highest in the land are now going to destroy the rebellious Tung Cho. My brother would do better to abandon this petty place and join us in restoring the House of Han. Why not?”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-005-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "第十一鎮，廣陵太守張超。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I should like to go,” said Yüan-tê."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-005-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "第十二鎮，徐州刺史陶謙。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If you had let me kill him that other time you would not have this trouble to-day,” said Chang Fei."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-005-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "第十三鎮，西涼太守馬騰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Since things are so let us pack and go,” said Kuan Yü."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-005-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "第十四鎮，北平太守公孫瓚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So without more ado the three brothers, with a few horsemen, joined Kungsun Tsan and marched with him to join the great army."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-005-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "第十五鎮，上黨太守張楊。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One after another the feudal lords came up and encamped. Their camps extended over three hundred li and more. When all had arrived Tsʻao, as the head, prepared sacrificial bullocks and horses and called all the lords to agreat assembly to decide upon their plan of attack."
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-005-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "第十六鎮，烏程侯長沙太守孫堅。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then spake the Prefect Wang saying “We have been moved by a noble sense of right to assemble here. Now must we first choose a chief and bind ourselves to obedience.”"
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-005-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "第十七鎮，祁鄉侯渤海太守袁紹。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then said Tsʻao Tsʻao, “For four generations the highest offices of state have been filled by members of the Yüan family and his clients and supporters are everywhere. As a descendant of ancient ministers of Han, Yüan Shao is a suitable man to be our chief lord.”"
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-005-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "諸路軍馬，多少不等，有三萬者，有一二萬者，各領文官武將，投洛陽來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan Shao again and again declined this honour. But they all said, “It must be he; there is no other.” And then he agreed."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-005-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "且說北平太守公孫瓚，統領精兵一萬五千，路經德州平原縣。正行之間，遙見桑樹叢中，一面黃旗，數騎來迎。瓚視之，乃劉玄德也。瓚問曰：「賢弟何故在此？」玄德曰：「舊日蒙兄保備為平原縣令，今聞大軍過此，特來奉候，就請兄長入城歇馬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ So a three-storeyed altar was built and they planted about it the five banners of the divisions of space. And they set up white yaks’ tails and golden axes and emblems of military authority and the seals of leadership round about. All being ready the chief lord was invited to ascend the altar. Clad in ceremonial robes and girt with a sword, Yüan Shao reverently ascended. There he burned incense, made obeisance and recited the oath:—"
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-005-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 26,
+        "text": "」瓚指關、張而問曰：「此何人也？」玄德曰：「此關羽，張飛，備結義兄弟也。」瓚曰：「乃同破黃巾者乎？」玄德曰：「皆此二人之力。」瓚曰：「今居何職？」玄德答曰：「關羽為馬弓手，張飛為步弓手。」瓚歎曰：「如此可謂埋沒英雄！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The House of Han has fallen upon evil days, the bands of imperial authority are loosened. The rebel minister, Tung Cho, takes advantage of the discord to work evil, and calamity falls upon honourable families. Cruelty overwhelms simple folk. We, Shao and his confederates, fearing for the safety of the imperial prerogatives, have assembled military forces to rescue the State. We now pledge ourselves to exert our whole strength and act in concord to the utmost limit of our powers. There must be no disconcerted or selfish action. Should any depart from this pledge may he lose his life and leave no posterity. Almighty Heaven and Universal Mother Earth and the enlightened spirits of our forefathers, be ye our witnesses.”"
+          }
+        }
+      },
+      {
+        "character_count": 66,
+        "id": "chapter-005-line-031",
+        "order": 31,
+        "source_block_chunk": 3,
+        "source_block_order": 26,
+        "text": "今董卓作亂，天下諸侯，共往誅之。賢弟可棄此卑官，一同討賊，力扶漢室，若何？」玄德曰：「願往。」張飛曰：「當時若容我殺了此賊，免有今日之事。」雲長曰：「事已至此，即當收拾前去。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The reading finished, he smeared the blood of the sacrifice upon his lips and upon the lips of those who shared the pledge. All were deeply affected by the ceremony and many shed tears."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-005-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "玄德、關、張引數騎跟公孫瓚來。曹操接著。眾諸侯亦陸續皆至，各自安營下寨，連接二百餘里。操乃宰牛殺馬，大會諸侯，商議進兵之策。太守王匡曰：「今奉大義，必立盟主；眾聽約束，然後進兵。」操曰：「袁本初四世三公，門多故吏，漢朝名相之裔，可為盟主。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This done the oath-chief was supported down from the high place and led to his tent, where he took the highest place and the others arranged themselves according to rank and age. Here wine was served. Presently Tsʻao Tsʻao said, “It behoves us all to obey the chief we have this day set up, and support the State. There must be no feeling of rivalry or superiority based upon numbers.”"
+          }
+        }
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-005-line-033",
+        "order": 33,
+        "source_block_chunk": 2,
+        "source_block_order": 27,
+        "text": "」紹再三推辭。眾皆曰：「非本初不可。」紹方應允。次日築臺三層，遍列五方旗幟，上建白旄黃鉞，兵符將印，請紹登壇。紹整衣佩劍，慨然而上，焚香再拜。其盟曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Shao replied, “Unworthy as I am, yet as elected chief I must impartially reward merit and punish offences. Let each see to it that he obeys the national laws and the army precepts. These must not be broken.” “Only thy commands are to be obeyed” cried all."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-005-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "漢室不幸，皇綱失統。賊臣董卓，乘釁縱害，禍加至尊，虐流百姓。紹等懼社稷淪喪，糾合義兵，並赴國難。凡我同盟，齊心戮力，以致臣節，必無二志。有渝此盟，俾墜其命，無克遺育。皇天后土，祖宗明靈，實皆鑒之！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My brother, Yüan Shu, is appointed Chief of the Commissariat. He must see to it that the whole camp is well supplied. But the need of the moment is a van-leader who shall go to Ssŭshui Pass and provoke a battle. The other forces must take up positions in support.” Then the Prefect of Chʻangsha offered himself for this service."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-005-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "讀畢，歃血。眾因其辭氣慷慨，皆涕泗橫流。歃血已罷，下壇。眾扶紹升帳而坐，兩行依爵位年齒分列坐定。操行酒數巡，言曰：「今日既立盟主，各聽調遣，同扶國家，勿以強弱計較。」袁紹曰：「紹雖不才，既承公等推為盟主，有功必賞，有罪必罰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You are valiant and fierce, and equal to this service,” said Yüan Shao. The force under Sun Chien set out and presently came to the Pass. The guard there sent a swift rider to the capital to announce to the tyrant the urgency of the situation. ​ Ever since Tung Cho had secured his position he had given himself up to luxury without stint. When the urgent news reached the adviser Li Ju, he at once went to his master, who much alarmed called a great council."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-005-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 29,
+        "text": "國有常刑，軍有紀律；各宜遵守，勿得違犯。」眾皆曰：「惟命是聽。」紹曰：「吾弟袁術總督糧草，應付諸營，無使有缺。更須一人為先鋒，直抵汜水關挑戰。餘各據險要，以為接應。」長沙太守孫堅出曰：「堅願為前部。」紹曰：「文臺勇烈，可當此任。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lü Pu stood forth and said, “Do not fear, my father, I look upon all the lords without the Pass as so much stubble and with the men of our fierce army I will put every one of them to death and hang their heads at the gates of the capital.”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-005-line-037",
+        "order": 37,
+        "source_block_chunk": 3,
+        "source_block_order": 29,
+        "text": "」堅遂引本部人馬殺奔汜水關來。守關將士，差流星馬往洛陽丞相府告急。董卓自專大權之後，每日飲宴。李儒接得告急文書，逕來稟卓。卓大驚，急聚眾將商議。溫侯呂布挺身出曰：「父親勿慮：關外諸侯，布視之如草芥。願提虎狼之師，盡斬其首，懸於都門。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“With your aid I can sleep secure,” said Tung Cho. But some one behind Lü Pu broke in upon his speech saying “A butcher’s knife to kill a chicken! There is no need for the Marquis to go: I will cut off their heads every one as easily as I would take a thing out of my pocket.”"
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-005-line-038",
+        "order": 38,
+        "source_block_chunk": 4,
+        "source_block_order": 29,
+        "text": "」卓大喜曰：「吾有奉先，高枕無憂矣！」言未絕，呂布背後一人高聲出曰：「『割雞焉用牛刀？』不勞溫侯親往。吾斬眾諸侯首級，如探囊取物耳。」卓視之，其人身長九尺，虎體狼腰，豹頭猿臂：關西人也；姓華，名雄。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cho looked up and his eyes rested on a stalwart man of fierce mien, lithe and supple. He had a small round head like a leopard and shoulders like an ape’s. His name was Hua Hsiung. Cho rejoiced at his bold words and at once gave him high rank and command over five legions of horse and foot. He, with Li Su, Hu Chên and Chao Tsʻên hastily moved toward the Pass."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-005-line-039",
+        "order": 39,
+        "source_block_chunk": 5,
+        "source_block_order": 29,
+        "text": "卓聞言大喜，加為驍騎校尉，撥馬步軍五萬，同李肅，胡軫，趙岑星夜赴關迎敵。眾諸侯內有濟北相鮑信，尋思孫堅既為前部，怕他奪了頭功，暗撥其弟鮑忠，先將馬步軍三千，逕抄小路，直到關下搦戰。華雄引鐵騎五百，飛下關來，大喝：「賊將休走！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Among the feudal lords Pao Hsin was jealous lest the chosen van-leader should win too great honours. Wherefore he endeavoured to meet the foe first and so he secretly despatched his brother Chung with three companies by a bye road. As soon as this small force reached the Pass they offered battle. Hua Hsiung at the head of half a company of mail-clad horse men swept down from the Pass crying “Flee not, rebel.”"
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-005-line-040",
+        "order": 40,
+        "source_block_chunk": 6,
+        "source_block_order": 29,
+        "text": "」鮑忠急待退，被華雄手起刀落，斬於馬下，生擒將校極多。華雄遣人將鮑忠首級來相府報捷，卓加雄為都督。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Pao Chung was afraid and turned back. Hsiung came on, his arm rose, the sword fell, and Chung was cut down from his horse. Most of his company were captured. His head was sent to the minister’s palace. Hua Hsiung was promoted to Tu-tu , or Commander in Chief."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-005-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "卻說孫堅引四將直至關前。那四將：第一個，右北平土垠人：姓程，名普，字德謀，使一條鐵脊蛇矛；第二個，姓黃，名蓋，字公覆，零陵人也，使鐵鞭：第三個，姓韓，名當，字義公，遼西令支人也，使一口大刀；第四個，姓祖，名茂，字大榮，吳郡富春人也，使雙刀。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Chien presently approached the Pass. He had four captains: Chʻêng P‘u, whose weapon was an iron-spined snaky lance; Huang Kai, who wielded an iron whip; Han Tang, a swordsman; and Tsu Mou, who fought with a pair of swords."
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-005-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 30,
+        "text": "孫堅披爛銀鎧，裏赤幘，橫古錠刀，騎花鬃馬，指關上而罵曰：「助惡匹夫，何不早降！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Commander Sun wore a helmet of fine silver wrapped round with a purple turban. He carried across his body his sword of ancient ingot iron and rode a dappled horse with flowing mane."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-005-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "華雄副將胡軫引兵五千出關迎戰。程普飛馬挺矛，直取胡軫。鬥不數合，程普刺中胡軫咽喉，死於馬下。堅揮軍直殺至關前，關上矢石如雨。孫堅引兵回至梁東屯住，使人於袁紹處報捷，就於袁術處催糧。或說術曰：「孫堅乃江東猛虎；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He advanced to the Pass and hailed the defenders, calling them helpers of a fool, and summoned them to surrender. A half legion under Hu Chên went out against him whom Chʻêng Pʻu with the snaky lance rode out and engaged. After a very few bouts Hu Chên was killed on the spot by a thrust through the throat. Then the signal was given for the main army to advance. But from the Pass they rained down showers of stones, which proved too much for the assailants and they ​ retired into camp at Liangtung to await further help from Yüan Shao."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-005-line-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 31,
+        "text": "若打破洛陽，殺了董卓，正是除狼而得虎也。今不與糧，彼軍必散。」術聽之，不發糧草。孫堅軍缺食，軍中自亂，細作報上關來。李肅為華雄謀曰：「今夜我引一軍從小路下關，襲孫堅寨後，將軍揮其前寨，堅可擒矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "An urgent message for supplies was sent to the commissary. But one said to him, the Controller: “This Sun Chien is a very tiger. Should he take the capital and destroy Tung Cho we should have a tiger in place of a wolf. Do not send him grain. Starve his men and that will decide the fate of that army.” And Yüan Shu gave ear to the detractors and sent no grain or forage. Soon the hungry soldiers showed their disaffection by indiscipline and the spies bore the news to the defenders of the Pass, who decided upon a speedy attack in front and rear. They hoped to capture the Sun Chien."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-005-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "雄從之，傳令軍士飽餐，乘夜下關。是夜月白風清。到堅寨時，已是半夜，鼓譟直進。堅慌忙披掛上馬，正遇華雄。兩馬相交，鬥不數合，後面李肅軍到，令軍士放起火來。堅軍亂竄。眾將各自混戰，止有祖茂跟定孫堅，突圍而走。背後華雄追來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So the soldiers of the attacking face were told off and given a full meal. At dark they left the Pass and crept by secret paths to the rear of Sun Chien’s camp. The moon was bright and the wind cool. They arrived about midnight and the drums beat an immediate attack. Sun Chien hastily donned his fighting gear and rode out. He ran straight into Hua Hsiung and the two warriors engaged. But before they had exchanged many passes Li Su’s men came up and set fire to whatever would burn."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-005-line-046",
+        "order": 46,
+        "source_block_chunk": 2,
+        "source_block_order": 32,
+        "text": "堅取箭，連放兩箭，皆被華雄躲過。再放第三箭時，因用力太猛，拽折了鵲畫弓，只得棄弓縱馬而奔。祖茂曰：「主公頭上赤幘射目，為賊所識認。可脫幘與某戴之。」堅就脫幘換茂盔，分兩路而走。雄軍只望赤幘者追趕，堅乃從小路得脫。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun’s army were thrown into confusion and fled like rats. A general mêlée ensued and soon only Tsu Mou was left at his chief’s side. These two broke through the pass and fled. Hua Hsiung coming in hot pursuit, Sun Chien took his bow and let fly two arrows in quick succession, but both missed. He fitted a third arrow to the string, but drew the bow so fiercely that it snapped. He cast the magpie painted bow to the earth and set off at full gallop."
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-005-line-047",
+        "order": 47,
+        "source_block_chunk": 3,
+        "source_block_order": 32,
+        "text": "祖茂被華雄追急，將赤幘挂於人家燒不盡的庭柱上，卻入樹林潛躲。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then spake Tsu Mou saying, “My lord’s purple turban is a mark that the rebels will too easily recognise. Give it to me and I will wear it.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-005-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "華雄軍於下遙月見赤幘，四面圍定，不敢近前。用箭射之，方知是計，遂向前取了赤幘。祖茂於林後殺出，揮雙刀欲劈華雄；雄大喝一聲，將祖茂一刀砍於馬下。殺至天明，雄方引兵上關。程普，黃蓋，韓當都來尋見孫堅，再收拾軍馬屯紮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Sun Chien exchanged his silver helmet with the turban for his faithful friend’s headpiece, and the two men parted, riding different ways. The pursuers looking only for the purple turban went after its wearer and Sun escaped along a bye-road. Tsu Mou, hotly pursued, then tore off the headdress which he hung on the post of a half-burned house as he passed and dashed into the thick woods. Hua Hsiung’s men seeing the purple turban standing motionless dared not approach, but they surrounded it on every side and shot at it with arrows. Presently they discovered the trick, went up and seized it."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-005-line-049",
+        "order": 49,
+        "source_block_chunk": 2,
+        "source_block_order": 33,
+        "text": "堅為折了祖茂，傷感不已，星夜遣人報知袁紹。紹大驚曰：「不想孫文臺敗於華雄之手！」便聚眾諸侯商議。眾人都到，只有公孫瓚後至，紹請入帳列坐。紹曰：「前日鮑將軍之弟不遵調遣，擅自進兵，殺身喪命，折了許多軍士。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This was the moment that the hidden man awaited. At once he rushed forth, his two swords whirling about, and dashed at the leader. But Hua Hsiung was too quick. With a loud yell he slashed at Tsu Mou andcut him down. Day had now broken and the victor led his men back to the Pass."
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-005-line-050",
+        "order": 50,
+        "source_block_chunk": 3,
+        "source_block_order": 33,
+        "text": "今者孫文臺又敗於華雄：挫動銳氣，為之奈何？」諸侯並皆不語。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ The three other leaders in time met their chief and the soldiers halted. Sun Chien was much grieved at the loss of his generous subordinate."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-005-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "紹舉目遍視，見公孫瓚背後立著三人，容貌異常，都在那裏冷笑。紹問曰：「公孫太守背後何人？」瓚呼玄德出曰：「此吾自幼同舍兄弟，平原令劉備是也。」曹操曰：「莫非破黃巾劉玄德乎？」瓚曰：「然。」即令劉玄德拜見。瓚將玄德功勞，並其出身，細說一遍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When news of the disaster reached Yüan Shao he was greatly chagrined and called all the lords to a council. They assembled and Kungsun Tsan was the last to arrive. When all were seated in the tent Yüan Shao said, “The brother of General Pao, disobeying the rules we made for our guidance, rashly went to attack the enemy; he was slain and with him many of our soldiers. Now Sun Wên-tʻai has been defeated. Thus our fighting spirit has suffered and what is to be done?”"
+          }
+        }
+      },
+      {
+        "character_count": 48,
+        "id": "chapter-005-line-052",
+        "order": 52,
+        "source_block_chunk": 2,
+        "source_block_order": 34,
+        "text": "紹曰：「既是漢室宗派，取坐來。」命坐。備遜謝。紹曰：「吾非敬汝名爵，吾敬汝是帝室之冑耳。」玄德乃坐於末位，關、張叉手侍立於後。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Every one was silent. Lifting his eyes the chief looked round from one to another till he came to Kungsun Tsan and then he remarked three men who stood behind his seat. They were of striking appearance as they stood there, all three smiling cynically."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-005-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "忽探子來報：「華雄引鐵騎下關，用長竿挑著孫太守赤幘，來寨前大罵搦戰。」紹曰：「誰敢去戰？」袁術背後轉出驍將俞涉曰：「小將願往。」紹喜，便著俞涉出馬。即時報來：「俞涉與華雄戰不三合，被華雄斬了。」眾大驚。太守韓馥曰：「吾有上將潘鳳，可斬華雄。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who are those men behind you?” said the chief. Kungsun told Yüan-tê to come forward, and said, “This is Liu Pei, magistrate of Pʻingyuan and a brother of mine who shared my humble cottage.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-005-line-054",
+        "order": 54,
+        "source_block_chunk": 2,
+        "source_block_order": 35,
+        "text": "」紹急令出戰。潘鳳手提大斧上馬。去不多時，飛馬來報：「潘鳳又被華雄斬了。」眾皆失色。紹曰：「可惜吾上將顏良、文醜未至！得一人在此，何懼華雄？」言未畢，階下一人大呼出曰：「小將願往斬華雄頭，獻於帳下！」眾視之，見其人身長九尺，髯長二尺；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“It must be the Liu Yüan-tê who broke up the Yellow Turban rebellion,” said Tsʻao. “It is he,” said his patron and he ordered Liu Pei to make his obeisance to the assembly, to whom he then related his services and his origin, all in full detail."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-005-line-055",
+        "order": 55,
+        "source_block_chunk": 3,
+        "source_block_order": 35,
+        "text": "丹鳳眼，臥蠶眉；面如重棗，聲如巨鐘；立於帳前。紹問何人。公孫瓚曰：「此劉玄德之弟關羽也。」紹問見居何職。瓚曰：「跟隨劉玄德充馬弓手。」帳上袁術大喝曰：「汝欺吾眾諸侯無大將耶？量一弓手，安敢亂言！與我打出！」曹操急止之曰：「公路息怒。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Since he is of the Han line he should be seated,” said the chief and he bade Liu Pei sit. Liu Pei modestly thanked him. Said Shao, “This consideration is not for your fame and office; I respect you as a scion of the imperial family.”"
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-005-line-056",
+        "order": 56,
+        "source_block_chunk": 4,
+        "source_block_order": 35,
+        "text": "此人既出大言，必有勇略；試教出馬，如其不勝，責之未遲。」袁紹曰：「使一弓手出戰，必被華雄所笑。」操曰：「此人儀表不俗，華雄安知他是弓手？」關公曰：「如不勝，請斬某頭。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Liu Pei took his seat in the lowest place of the long line of lords. And his two brothers with folded arms took their stations behind him."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-005-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "操教釃熱酒一盃，與關公飲了上馬。關公曰：「酒且斟下，某去便來。」出帳提刀，飛身上馬。眾諸侯聽得關外鼓聲大振，喊聲大舉，如天摧地塌，岳撼山崩，眾皆失驚。正欲探聽，鸞鈴響處，馬到中軍，雲長提華雄之頭，擲於地上，其酒當溫。後人有詩讚之曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Even as they were at this meeting came in a scout to say that Hua Hsiung with a company of mail-clad horsemen was coming down from the Pass. They were flaunting Sun Chien’s captured purple turban on the end of a bamboo pole. The enemy was soon hurling insults at those within the stockade and challenging them to fight."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "威鎮乾坤第一功，轅門畫鼓響鼕鼕。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who dares go out to give battle?” said the chief."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "雲長停盞施英勇，酒當溫時斬華雄。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I will go,” said Yü Shê, a leader who belonged to the train of Yüan Shu."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-005-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "曹操大喜。只見玄德背後轉出張飛，高聲大叫：「俺哥哥斬了華雄，不就這裏殺入關去，活拏董卓，更待何時！」袁術大怒，喝曰：「俺大臣尚自謙讓，量一縣令手下小卒，安敢在此耀武揚威！都與趕出帳去！」曹操曰：「得功者賞，何計貴賤乎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So he went and almost immediately one came back to say that he had fallen in the third bout. Fear began to lay its cold hand on the assembly. Then said another, “I have a brave warrior among my men. Pʻan Fêng is his name and he could slay this Hua Hsiung.”"
+          }
+        }
+      },
+      {
+        "character_count": 56,
+        "id": "chapter-005-line-061",
+        "order": 61,
+        "source_block_chunk": 2,
+        "source_block_order": 39,
+        "text": "」袁術曰：「既然公等只重一縣令，我當告退。」操曰：「豈可因一言而誤大事耶？」命公孫瓚且帶玄德、關、張回寨。眾官皆散。曹操暗使人齎牛酒撫慰三人。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Pʻan was ordered out to meet the foe. With his great battle-axe in his hand he mounted and rode forth. But soon ​ came the direful tidings that he too had fallen. The faces of the gathering paled at this."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-005-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "卻說華雄手下敗軍，報上關來。李肅慌忙寫告急文書，申聞董卓。卓急聚李儒、呂布等商議。儒曰：「今失了上將華雄，賊勢浩大。袁紹為盟主，紹叔袁隗，現為太傅；倘或裏應外合，深為不便，可先除之。請丞相親領大軍，分撥剿捕。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What a pity my two able leaders, Yen Liang and Wên Chʻou, are not here! Then should we have some one who would not fear this man,” said the chief. He had not finished when from the lower end a voice cried, “I will go, take his head and lay it before you here.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-005-line-063",
+        "order": 63,
+        "source_block_chunk": 2,
+        "source_block_order": 40,
+        "text": "」卓然其說，喚李催，郭汜，領兵五百，圍住太傅袁隗家，不分老幼，盡皆誅絕，先將袁隗首級去關前號令。卓遂起兵二十萬，分為兩路而來：一路先令李催，郭汜，引兵五萬，把住汜水關，不要廝殺；卓自將十五萬，同李儒，呂布，樊稠，張濟，等守虎牢關。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All turned to look at the speaker. He was tall and had a long beard. His eyes were those of a phœnix and his eyebrows thick and bushy like caterpillars. His face was a swarthy red and his voice deep as the sound of a great bell. “Who is he?” asked the chief. Kungsun Tsan told them it was Kuan Yü, brother of Liu Yüan-tê."
+          }
+        }
+      },
+      {
+        "character_count": 35,
+        "id": "chapter-005-line-064",
+        "order": 64,
+        "source_block_chunk": 3,
+        "source_block_order": 40,
+        "text": "這關離洛陽五十里。軍馬到關，卓令呂布領三萬大軍，去關前紮住大寨。卓自在關上屯住。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“And what is he?” “He is in the train of Liu Yüan-tê as a mounted archer.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-005-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "流星馬探聽得，報入袁紹大寨裏來。紹聚眾商議。操曰：「董卓屯兵虎牢，截俺諸侯中路，今可勒兵一半迎敵。」紹乃分王匡，喬瑁，鮑信，袁遺，孔融，張楊，陶謙，公孫瓚，八路諸侯，往虎牢關迎敵。操引軍往來救應。八路諸侯，各自起兵。河內太守王匡，引兵先到。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“An insult to us all!” roared the chief’s brother from his place. “Have we no leader? How dare an archer speak thus before us? Let us beat him forth!” But Tsʻao Tsʻao intervened. “Peace, O Kung-lu! Since he speaks great words, he is certainly valiant. Let him try. If he fail, then you may reproach him.” “Hua Hsiung will laugh at us if we send a mere archer to fight him, ” said the chief. ”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-005-line-066",
+        "order": 66,
+        "source_block_chunk": 2,
+        "source_block_order": 41,
+        "text": "呂布帶鐵騎三千，飛奔來迎。王匡將軍馬列成陣勢，勒馬門旗下看時，見呂布出陣：頭戴三叉束髮紫金冠，體挂西川紅錦百花袍，身披獸面吞頭連環鎧，腰繫勒甲玲瓏獅蠻帶；弓箭隨身，手持畫戟；坐下嘶風赤兔馬；果然是人中呂布，馬中赤兔！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“He looks no common person. And how can the enemy know he is but a bowman?” said Tsʻao Tsʻao. “If I fail then can you take my head,” cried Kuan. Tsʻao Tsʻao bade them heat some wine and offered a stirrup cup to Kuan Yü as he went out. “Pour it out,” said Kuan. “I shall return in a little space.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-005-line-067",
+        "order": 67,
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "王匡回頭問曰：「誰敢出戰？」後面一將，縱馬挺鎗而出。匡視之，乃河內名將方悅。兩馬相交，無五合，被呂布一戟刺於馬下，挺戟直衝過來。匡軍大敗，四散奔走。布東西衝殺，如入無人之境。幸得喬瑁、袁遺兩軍皆至，來救王匡，呂布方退。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He went with his sword in his hand and vaulted into the saddle. Those in the tent heard the fierce roll of the drums and then a mighty sound as if skies were falling and earth rising, hills trembling and mountains tearing asunder. And they were sore afraid. And while they were listening with ears intent, lo! the gentle tinkle of horse bells, and Kuan Yü threw at their feet the head of the slain leader, their enemy Hua Hsiung."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-005-line-068",
+        "order": 68,
+        "source_block_chunk": 2,
+        "source_block_order": 42,
+        "text": "三路諸侯，各折了些人馬，退三十里下寨。隨後五路軍馬都至，一處商議，言呂布英雄，無人可敵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The wine was still warm! This doughty deed has been celebrated in verse."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-005-line-069",
+        "order": 69,
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "正慮間，小校報來：「呂布搦戰。」八路諸侯，一齊上馬，軍分八隊，布在高岡。遙望呂布一簇軍馬，繡旗招颭，先來衝陣。上黨太守張楊部將穆順，出馬挺鎗迎戰，被呂布手起一戟，刺於馬下。眾大驚。北海太守孔融部將武安國，使鐵鎚飛馬而出。呂布揮戟拍馬來迎。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The power of the man stands first in all the world; At the gate of the camp was heard the rolling of the battle drums; Then Yün-ch‘ang set aside the wine cup till he should have displayed his valour, And the wine was still warm when the enemy had been slain."
+          }
+        }
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-005-line-070",
+        "order": 70,
+        "source_block_chunk": 2,
+        "source_block_order": 43,
+        "text": "戰到十餘合，一戟砍斷安國手腕，棄鎚於地而走。八路軍兵齊出，救了武安國。呂布退回去了。眾諸侯回寨商議。曹操曰：「呂布英勇無敵，可會十八路諸侯，共議良策。若擒了呂布，董卓易誅耳。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tsʻao Tsʻao was pleased at this success. But Chang Fei’s voice was heard, shouting, “Brother, you slew the leader; why did you not break through the Pass and seize Tung Cho? Could there have been a better time?”"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-005-line-071",
+        "order": 71,
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "正議間，呂布復引兵搦戰。八路諸侯齊出。公孫瓚揮槊親戰呂布。戰不數合，瓚敗走。呂布縱赤兔馬趕來。那馬日行千里，飛走如風。看看趕上，布舉畫戟望瓚後心便刺。旁邊一將，圓睜環眼，倒豎虎鬚，挺丈八蛇矛，飛馬大叫：「三姓家奴休走！燕人張飛在此！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Again arose the voice of the peevish Yüan Shu, “We high officials are too meek and yielding. Here is the petty follower of a small magistrate daring to flaunt his prowess before us! Expel him from the tent, I say.” But again Tsʻao Tsʻao interposed, “Shall we consider the station of him who has done a great service?”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-005-line-072",
+        "order": 72,
+        "source_block_chunk": 1,
+        "source_block_order": 45,
+        "text": "呂布見了，棄了公孫瓚，便戰張飛。飛抖擻精神，酣戰呂布。連鬥五十餘合，不分勝負。雲長見了，把馬一拍，舞八十二斤青龍偃月刀，來夾攻呂布。三匹馬丁字兒廝殺。戰到三十合，戰不倒呂布。劉玄德掣雙股劍，驟黃鬃馬，刺斜裏也來助戰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If you hold a mere magistrate in such honour then I simply withdraw,” said Yüan Shu. “Is a word enough to defeat a grand enterprise?” said Tsʻao Tsʻao. He told Kungsun Tsan to lead his three companions back to their own camp and the other chiefs then dispersed. That night he secretly sent presents of flesh and wine to soothe the three after this adventure."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-005-line-073",
+        "order": 73,
+        "source_block_chunk": 1,
+        "source_block_order": 46,
+        "text": "這三個圍住呂布，轉燈兒般廝殺。八路人馬，都看得呆了。呂布架隔遮攔不定，看著玄德面上，虛刺一戟，玄德急閃。呂布蕩開陣角，倒拖畫戟，飛馬便回。三個那裏肯捨，拍馬趕來。八路軍兵，喊聲大震，一齊掩殺。呂布軍馬，望關上奔走；玄德、關、張隨後趕來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Hua Hsiung’s men straggled back and told the story of defeat and death Li Su was greatly distressed. He wrote urgent letters to his master who called in his trusted advisers to a council. Li Ju summed up the situation. “We have lost our best leader and the rebel power has thereby become very great. Yüan Shao is at the head of this confederacy and Yüan Wei of the same family is holder of high office in the government. If those in the capital combine with those in the country we may suffer. Therefore we must remove them. So I request you, Sir Minister, to place yourself at the head of your army and break this confederation.”"
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-005-line-074",
+        "order": 74,
+        "source_block_chunk": 2,
+        "source_block_order": 46,
+        "text": "古人曾有篇言語，單道著玄德、關、張三戰呂布：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tung Cho agreed and at once ordered Li Tsʻui and Kuo Ssŭ to take half a company and surround the residence of Yüan Wei, the Tʻai-fu , slay every soul, and hang the head of the high officer outside the gate as a trophy. And Cho commanded twenty legions to advance in two armies. The first five legions were under Li Tsʻui and Kuo Ssŭ and they were to hold Ssŭshui Pass. They should not necessarily fight. The other fifteen legions under Tung Cho himself went to Tigertrap Pass."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-075",
+        "order": 75,
+        "source_block_chunk": 1,
+        "source_block_order": 47,
+        "text": "漢朝天數當桓靈，炎炎紅日將西傾。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This Pass is fifty li from Loyang and as soon as they arrived Tung Cho bade Lü Pu take three legions and make a strong stockade on the outside of the Pass. The main body with Cho would occupy the Pass."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-076",
+        "order": 76,
+        "source_block_chunk": 1,
+        "source_block_order": 48,
+        "text": "奸臣董卓廢少帝，劉協懦弱魂夢驚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "News of this movement reaching the confederate lords the chief summoned a council. Said Tsʻao Tsʻao, “The occupation of the Pass would cut our armies in two, therefore must we oppose Tung Cho’s army on the way.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-077",
+        "order": 77,
+        "source_block_chunk": 1,
+        "source_block_order": 49,
+        "text": "曹操傳檄告天下，諸侯奮怒皆興兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So eight of the confederate lords went in the direction of the Pass to oppose their enemy. Tsʻao Tsʻao and his men were a reserve to render help where needed."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-078",
+        "order": 78,
+        "source_block_chunk": 1,
+        "source_block_order": 50,
+        "text": "議立袁紹作盟主，誓扶王室定太平。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Of the eight, the Prefect of Honei was the first to arrive and Lü Pu went to give battle with three companies of mailed horsemen."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-079",
+        "order": 79,
+        "source_block_chunk": 1,
+        "source_block_order": 51,
+        "text": "溫侯呂布世無比，雄才四海誇英偉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ When Wang K‘uang, Prefect of Honei, had ordered his army, horse and foot, in battle array he took his station under the great banner and looked over at his foe. There he saw Lü Pu, a conspicuous figure in front of the line. On his head was a triple curved headdress of ruddy gold. He wore a robe of Ssŭchʻuan silk embroidered with flowers and over that breast and back mail adorned with a gaping animal’s head, joined by rings at the sides and girt to his waist with a belt fastened by a beautiful lion-head clasp. His bow and arrows were slung on his shoulders and he carried a trident-halberd ( hua-chi ). He was seated on his snorting steed “The Hare”. Indeed he was the man among men, as his steed was the horse among horses."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-080",
+        "order": 80,
+        "source_block_chunk": 1,
+        "source_block_order": 52,
+        "text": "護軀銀鎧砌龍鱗，束髮金冠簪雉尾。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who dares go out to fight him?” asked Wang Kʻuang turning to those behind him. In response a tried warrior named Fang spurred to the front, his spear set ready for battle. The two met: before the fifth bout Fang fell under a thrust of the halberd and Lü Pu dashed forward. Wang K‘uang’s men could not stand and scattered in all directions. Lü Pu went to and fro slaying all he met. He was quite irresistible."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-081",
+        "order": 81,
+        "source_block_chunk": 1,
+        "source_block_order": 53,
+        "text": "參差寶帶獸平吞，錯落錦袍飛鳳起。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Happily two other troops came up and rescued the wounded leader and his opponent retreated. The three having lost many men withdrew thirty li and made a stockade. And before long the remaining five lords came up and joined them. They held a council."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-082",
+        "order": 82,
+        "source_block_chunk": 1,
+        "source_block_order": 54,
+        "text": "龍駒跳踏起天風，畫戟熒煌射秋水。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“This Lü Pu is irresistible,” said they."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-083",
+        "order": 83,
+        "source_block_chunk": 1,
+        "source_block_order": 55,
+        "text": "出關搦戰誰敢當？諸侯膽裂心惶惶。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And while they sat there anxious and uncertain, it was announced that Lü Pu had returned to challenge them. Each mounted his horse and placed himself on the head of his force, each body in its station on lofty cliffs. Around them was the opposing army, innumerable horse and foot, their embroidered banners waving in the breeze."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-084",
+        "order": 84,
+        "source_block_chunk": 1,
+        "source_block_order": 56,
+        "text": "踴出燕人張翼德，手持蛇矛丈八鎗。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They attacked. Mu Shun, a leader from Shangtang, rode out, but fell at the first encounter with Lü Pu. This frightened the others. Then galloped forth Wu An-kuo of the iron mace. Lü Pu whirling his halberd and urging on his steed came to meet him. The two fought, well matched for half a score bouts, when a blow from the halberd broke Wu An-kuo’s wrist. Letting his mace fall to the ground he fled. Then all eight of the lords led forth their men to his rescue and Lü Pu retired."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-085",
+        "order": 85,
+        "source_block_chunk": 1,
+        "source_block_order": 57,
+        "text": "虎鬚倒豎翻金線，環眼圓睜起電光。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The fighting then ceased and after their return to camp another council met."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-086",
+        "order": 86,
+        "source_block_chunk": 1,
+        "source_block_order": 58,
+        "text": "酣戰未能分勝敗，陣前惱起關雲長。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tsʻao Tsʻao said, “No one can stand against the prowess of Lü Pu. Let us call up all the lords and evolve some good plan. If only Lü Pu were taken, his master could easily be killed.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-087",
+        "order": 87,
+        "source_block_chunk": 1,
+        "source_block_order": 59,
+        "text": "青龍寶刀燦霜雪，鸚鵡戰袍飛蛺蝶。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "While the council was in progress again came Lü Pu to challenge them and again they moved out against him. This time Kungsun Tsan, flourishing his spear, went to meet the ​ enemy. After a very few bouts Tsan turned and fled, Lü Pu following at the topmost speed of “The Hare.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-088",
+        "order": 88,
+        "source_block_chunk": 1,
+        "source_block_order": 60,
+        "text": "馬蹄到處鬼神嚎，目前一怒應流血。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The Hare” was a thousand-li-a-day horse, swift as the wind. As they watched “The Hare” gained rapidly upon the flying horseman and his rider’s spear was poised ready to strike Tsan just behind the heart. Just then dashed in a third rider with round glaring eyes and a bristling moustache, and armed with a long snake-like spear."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-089",
+        "order": 89,
+        "source_block_chunk": 1,
+        "source_block_order": 61,
+        "text": "梟雄玄德掣雙鋒，抖擻天威施勇烈。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Stay, O thrice named slave!” roared he, “I, Chang Fei, await you.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-090",
+        "order": 90,
+        "source_block_chunk": 1,
+        "source_block_order": 62,
+        "text": "三人圍繞戰多時，遮攔架隔無休歇。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Seeing this opponent Lü Pu left the pursuit of Tsan and engaged the new adversary. Fei fought with all his energies. They two were worthily matched and they exchanged half a hundred bouts with no advantage to either side. Then Kuan Yü rode out with his huge and weighty moon-curved sword and attacked Lü Pu on the other flank. The three steeds stood like the letter T and their riders battered away at each other for nearly two score bouts, yet still Lü Pu stood firm. Then Liu Yüan-tê rode out to his brothers’ aid, his double sword raised ready to strike. The steed with the flowing mane was urged in at an angle and now Lü Pu had to contend with three warriors at whom he struck one after another, and they at him, the flashing of the warriors’ weapons looking like the revolving lamps suspended at the new year. And the spectators gazed rapt with amazement at such a battle."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-091",
+        "order": 91,
+        "source_block_chunk": 1,
+        "source_block_order": 63,
+        "text": "喊聲震動天地翻，殺氣迷漫牛斗寒。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Lü Pu’s guard began to weaken and fatigue seized him. Looking hard in the face of Yüan-tê he feigned a fierce thrust thus making him suddenly draw back. Then, lowering his halberd, Lü dashed through the angle thus opened and got away."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-092",
+        "order": 92,
+        "source_block_chunk": 1,
+        "source_block_order": 64,
+        "text": "呂布力窮尋走路，遙望山塞拍馬還。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But was it likely they would allow him to escape? They whipped their steeds and followed hard. The men of the eight armies cracked their throats with thunderous cheers and all dashed forward, pressing after Lü Pu as he made for the shelter of the Pass. And first among his pursuers were the three heroic brothers."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-093",
+        "order": 93,
+        "source_block_chunk": 1,
+        "source_block_order": 65,
+        "text": "倒拖畫桿方天戟，亂散銷金五彩旛。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "An ancient poet has told of this famous fight in these lines:"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-094",
+        "order": 94,
+        "source_block_chunk": 1,
+        "source_block_order": 66,
+        "text": "頓斷絨縧走赤兔，翻身飛上虎牢關。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The fateful day of Han came in the reigns of Huan and Ling, Their glory declined as the sun sinks at the close of day. Tung Cho, infamous minister of state, pulled down the youthful sovereign from his throne. It is true Liu Hsieh was a weakling, too timid for his times. Then Tsʻao Tsʻao proclaimed abroad these wicked deeds, And the great lords, moved with anger, assembled their forces. In council met they and chose as their oath-chief Yüan Shao, Pledged themselves to maintain the ruling house and tranquillity. Of the warriors of that time peerless Lü Pu was the boldest. His valour and prowess are sung by all within the four seas. He clothed his body in silver armour like the scales of a dragon, On his head was a golden headdress, fastened with a massive pin,"
+          }
+        }
+      },
+      {
+        "character_count": 58,
+        "id": "chapter-005-line-095",
+        "order": 95,
+        "source_block_chunk": 1,
+        "source_block_order": 67,
+        "text": "三人直趕呂布到關下，看見關上西風飄動青羅傘蓋。張飛大叫：「此必董卓！追呂布有甚強處！不如先拿董賊，便是斬草除根！」拍馬上關，來擒董卓。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "About his waist a shaggy belt, the clasp, two wild beasts’ heads with gripping jaws, His flowing, broidered robe fluttered about his form, His swift courser bounded over the plain, a mighty wind following, His terrible halberd flashed in the sunlight, bright as a placid lake. Who dared face him as he rode forth to challenge? The bowels of the confederate lords were torn with fear and their hearts trembled within them. Then leaped forth Chang Fei, the valiant warrior of the north, Gripped in his mighty hand the long snakelike spear, His moustache bristled with anger, standing stiff like wire. His round eyes glared, lightning flashes darted from them. Neither quailed in the fight, but the issue was undecided. Kuan Yün-chʻang stood out in front, his soul vexed within him, Black Dragon his sword shone white as hoar frost in the sunlight, His bright coloured fighting robe fluttered like butterfly wings, Demons and angels shrieked at the thunder of his horse hoofs, In his eyes was fierce anger, a fire to be quenched only in blood. Next Yüan-tê joined the battle, gripping his twin sword blades, The heavens themselves trembled at the majesty of his wrath. These three closely beset Lü Pu and long drawn out was the battle, Always he warded their blows, never faltering a moment. The noise of their shouting rose to the sky, and the earth re-echoed it, The heat of battle ranged to the frozen pole star. Worn out, feeling his strength fast ebbing, Lü Pu thought to flee, He glanced at the hills around and thither would fly for shelter, Then, reversing his halberd and lowering its lofty point, Hastily he fled, loosing himself from the battle; With head low bent, he gave the rein to his courser, Turned his face away and fled to Hulaokuan."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-005-line-096",
+        "order": 96,
+        "source_block_chunk": 1,
+        "source_block_order": 68,
+        "text": "擒賊定須擒賊首，奇功端的待奇人。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The three brothers maintained the pursuit to the Pass. Looking up they saw an immense umbrella of black gauze fluttering in the west wind. “Certainly there is Tung Cho,” cried Chang Fei. “What is the use of pursuing Lü Pu? Better far seize the chief rebel and so pluck up the evil by the roots.”"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-005-line-097",
+        "order": 97,
+        "source_block_chunk": 1,
+        "source_block_order": 69,
+        "text": "未知勝負如何，且聽下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And he whipped up his steed toward the Pass. To quell rebellion seize the leader if you can; If you need a wondrous service then first find a wondrous man. The following chapters will unfold the result of the battle."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說陳宮正欲下手殺曹操，忽轉念曰：「我為國家跟他到此，殺之不義。不若棄而他往。」插劍上馬，不等天明，自投東郡去了。操覺，不見陳宮，尋思：「此人見我說了這兩句，疑我不仁，棄我而去；吾當急行，不可久留。」遂連夜到陳留，尋見父親，備說前事；欲散家資，招募義兵。父言：「資少恐不成事。此間有孝廉衛弘，疏財仗義，其家巨富；若得相助，事可圖矣。」\n操置酒張筵，拜請衛弘到家，告曰：「今漢室無主，董卓專權，欺君害民，天下切齒。操欲力扶社稷，恨力不足。公乃忠義之士，敢求相助。」衛弘曰：「吾有是心久矣，恨未遇英雄耳。既孟德有大志，願將家資相助。」操大喜；於是先發矯詔，馳報各道，然後招集義兵，豎起招兵白旗一面，上書「忠義」二字。不數日間，應募之士，如雨駢集。\n一日，有一個陽平衛國人，姓樂，名進，字文謙，來投曹操。又有一個山陽鉅鹿人，姓李，名典，字曼成，也來投曹操。操皆留為帳前吏。又有沛國譙人，夏侯惇，字元讓，乃夏侯嬰之後；自小習鎗棒；年十四從師學武，有人辱罵其師，惇殺之，逃於外方；聞知曹操起兵，與其族弟夏侯淵兩個，各引壯士千人來會。此二人本操之弟兄：操父曹嵩原是夏侯氏之子，過房與曹家，因此是同族。\n不數日，曹氏兄弟曹仁，曹洪，各引兵千餘來助。曹仁字子孝，曹洪字子廉；二人兵馬嫺熟，武藝精通。操大喜，於村中調諫軍馬。衛弘盡出家財，置辦衣甲旗旛。四方送糧者，不計其數。\n時袁紹得操矯詔，乃聚麾下文武，引兵三萬，離渤海來與曹操會盟。操作檄文以達諸郡。檄文曰：\n操等謹以大義布告天下：董卓欺天罔地，滅國弒君；穢亂宮禁，殘害生靈；狼戾不仁，罪惡充積！今奉天子密詔，大集義兵，誓欲掃清華夏，剿戮群凶。望興義師，共洩公憤；扶持王室，拯救黎民。檄文到日，可速奉行！\n操發檄文去後，各鎮諸侯，皆起兵相應：\n第一鎮，後將軍南陽太守袁術。\n第二鎮，冀州刺史韓馥。\n第三鎮，豫州刺史孔伷。\n第四鎮，兗州刺史劉岱。\n第五鎮，河內太守王匡。\n第六鎮，陳留太守張邈。\n第七鎮，東郡太守喬瑁。\n第八鎮，山陽太守袁遺。\n第九鎮，濟北相鮑信。\n第十鎮，北海太守孔融。\n第十一鎮，廣陵太守張超。\n第十二鎮，徐州刺史陶謙。\n第十三鎮，西涼太守馬騰。\n第十四鎮，北平太守公孫瓚。\n第十五鎮，上黨太守張楊。\n第十六鎮，烏程侯長沙太守孫堅。\n第十七鎮，祁鄉侯渤海太守袁紹。\n諸路軍馬，多少不等，有三萬者，有一二萬者，各領文官武將，投洛陽來。\n且說北平太守公孫瓚，統領精兵一萬五千，路經德州平原縣。正行之間，遙見桑樹叢中，一面黃旗，數騎來迎。瓚視之，乃劉玄德也。瓚問曰：「賢弟何故在此？」玄德曰：「舊日蒙兄保備為平原縣令，今聞大軍過此，特來奉候，就請兄長入城歇馬。」瓚指關、張而問曰：「此何人也？」玄德曰：「此關羽，張飛，備結義兄弟也。」瓚曰：「乃同破黃巾者乎？」玄德曰：「皆此二人之力。」瓚曰：「今居何職？」玄德答曰：「關羽為馬弓手，張飛為步弓手。」瓚歎曰：「如此可謂埋沒英雄！今董卓作亂，天下諸侯，共往誅之。賢弟可棄此卑官，一同討賊，力扶漢室，若何？」玄德曰：「願往。」張飛曰：「當時若容我殺了此賊，免有今日之事。」雲長曰：「事已至此，即當收拾前去。」\n玄德、關、張引數騎跟公孫瓚來。曹操接著。眾諸侯亦陸續皆至，各自安營下寨，連接二百餘里。操乃宰牛殺馬，大會諸侯，商議進兵之策。太守王匡曰：「今奉大義，必立盟主；眾聽約束，然後進兵。」操曰：「袁本初四世三公，門多故吏，漢朝名相之裔，可為盟主。」紹再三推辭。眾皆曰：「非本初不可。」紹方應允。次日築臺三層，遍列五方旗幟，上建白旄黃鉞，兵符將印，請紹登壇。紹整衣佩劍，慨然而上，焚香再拜。其盟曰：\n漢室不幸，皇綱失統。賊臣董卓，乘釁縱害，禍加至尊，虐流百姓。紹等懼社稷淪喪，糾合義兵，並赴國難。凡我同盟，齊心戮力，以致臣節，必無二志。有渝此盟，俾墜其命，無克遺育。皇天后土，祖宗明靈，實皆鑒之！\n讀畢，歃血。眾因其辭氣慷慨，皆涕泗橫流。歃血已罷，下壇。眾扶紹升帳而坐，兩行依爵位年齒分列坐定。操行酒數巡，言曰：「今日既立盟主，各聽調遣，同扶國家，勿以強弱計較。」袁紹曰：「紹雖不才，既承公等推為盟主，有功必賞，有罪必罰。國有常刑，軍有紀律；各宜遵守，勿得違犯。」眾皆曰：「惟命是聽。」紹曰：「吾弟袁術總督糧草，應付諸營，無使有缺。更須一人為先鋒，直抵汜水關挑戰。餘各據險要，以為接應。」長沙太守孫堅出曰：「堅願為前部。」紹曰：「文臺勇烈，可當此任。」堅遂引本部人馬殺奔汜水關來。守關將士，差流星馬往洛陽丞相府告急。董卓自專大權之後，每日飲宴。李儒接得告急文書，逕來稟卓。卓大驚，急聚眾將商議。溫侯呂布挺身出曰：「父親勿慮：關外諸侯，布視之如草芥。願提虎狼之師，盡斬其首，懸於都門。」卓大喜曰：「吾有奉先，高枕無憂矣！」言未絕，呂布背後一人高聲出曰：「『割雞焉用牛刀？』不勞溫侯親往。吾斬眾諸侯首級，如探囊取物耳。」卓視之，其人身長九尺，虎體狼腰，豹頭猿臂：關西人也；姓華，名雄。卓聞言大喜，加為驍騎校尉，撥馬步軍五萬，同李肅，胡軫，趙岑星夜赴關迎敵。眾諸侯內有濟北相鮑信，尋思孫堅既為前部，怕他奪了頭功，暗撥其弟鮑忠，先將馬步軍三千，逕抄小路，直到關下搦戰。華雄引鐵騎五百，飛下關來，大喝：「賊將休走！」鮑忠急待退，被華雄手起刀落，斬於馬下，生擒將校極多。華雄遣人將鮑忠首級來相府報捷，卓加雄為都督。\n卻說孫堅引四將直至關前。那四將：第一個，右北平土垠人：姓程，名普，字德謀，使一條鐵脊蛇矛；第二個，姓黃，名蓋，字公覆，零陵人也，使鐵鞭：第三個，姓韓，名當，字義公，遼西令支人也，使一口大刀；第四個，姓祖，名茂，字大榮，吳郡富春人也，使雙刀。孫堅披爛銀鎧，裏赤幘，橫古錠刀，騎花鬃馬，指關上而罵曰：「助惡匹夫，何不早降！」\n華雄副將胡軫引兵五千出關迎戰。程普飛馬挺矛，直取胡軫。鬥不數合，程普刺中胡軫咽喉，死於馬下。堅揮軍直殺至關前，關上矢石如雨。孫堅引兵回至梁東屯住，使人於袁紹處報捷，就於袁術處催糧。或說術曰：「孫堅乃江東猛虎；若打破洛陽，殺了董卓，正是除狼而得虎也。今不與糧，彼軍必散。」術聽之，不發糧草。孫堅軍缺食，軍中自亂，細作報上關來。李肅為華雄謀曰：「今夜我引一軍從小路下關，襲孫堅寨後，將軍揮其前寨，堅可擒矣。」\n雄從之，傳令軍士飽餐，乘夜下關。是夜月白風清。到堅寨時，已是半夜，鼓譟直進。堅慌忙披掛上馬，正遇華雄。兩馬相交，鬥不數合，後面李肅軍到，令軍士放起火來。堅軍亂竄。眾將各自混戰，止有祖茂跟定孫堅，突圍而走。背後華雄追來。堅取箭，連放兩箭，皆被華雄躲過。再放第三箭時，因用力太猛，拽折了鵲畫弓，只得棄弓縱馬而奔。祖茂曰：「主公頭上赤幘射目，為賊所識認。可脫幘與某戴之。」堅就脫幘換茂盔，分兩路而走。雄軍只望赤幘者追趕，堅乃從小路得脫。祖茂被華雄追急，將赤幘挂於人家燒不盡的庭柱上，卻入樹林潛躲。\n華雄軍於下遙月見赤幘，四面圍定，不敢近前。用箭射之，方知是計，遂向前取了赤幘。祖茂於林後殺出，揮雙刀欲劈華雄；雄大喝一聲，將祖茂一刀砍於馬下。殺至天明，雄方引兵上關。程普，黃蓋，韓當都來尋見孫堅，再收拾軍馬屯紮。堅為折了祖茂，傷感不已，星夜遣人報知袁紹。紹大驚曰：「不想孫文臺敗於華雄之手！」便聚眾諸侯商議。眾人都到，只有公孫瓚後至，紹請入帳列坐。紹曰：「前日鮑將軍之弟不遵調遣，擅自進兵，殺身喪命，折了許多軍士。今者孫文臺又敗於華雄：挫動銳氣，為之奈何？」諸侯並皆不語。\n紹舉目遍視，見公孫瓚背後立著三人，容貌異常，都在那裏冷笑。紹問曰：「公孫太守背後何人？」瓚呼玄德出曰：「此吾自幼同舍兄弟，平原令劉備是也。」曹操曰：「莫非破黃巾劉玄德乎？」瓚曰：「然。」即令劉玄德拜見。瓚將玄德功勞，並其出身，細說一遍。紹曰：「既是漢室宗派，取坐來。」命坐。備遜謝。紹曰：「吾非敬汝名爵，吾敬汝是帝室之冑耳。」玄德乃坐於末位，關、張叉手侍立於後。\n忽探子來報：「華雄引鐵騎下關，用長竿挑著孫太守赤幘，來寨前大罵搦戰。」紹曰：「誰敢去戰？」袁術背後轉出驍將俞涉曰：「小將願往。」紹喜，便著俞涉出馬。即時報來：「俞涉與華雄戰不三合，被華雄斬了。」眾大驚。太守韓馥曰：「吾有上將潘鳳，可斬華雄。」紹急令出戰。潘鳳手提大斧上馬。去不多時，飛馬來報：「潘鳳又被華雄斬了。」眾皆失色。紹曰：「可惜吾上將顏良、文醜未至！得一人在此，何懼華雄？」言未畢，階下一人大呼出曰：「小將願往斬華雄頭，獻於帳下！」眾視之，見其人身長九尺，髯長二尺；丹鳳眼，臥蠶眉；面如重棗，聲如巨鐘；立於帳前。紹問何人。公孫瓚曰：「此劉玄德之弟關羽也。」紹問見居何職。瓚曰：「跟隨劉玄德充馬弓手。」帳上袁術大喝曰：「汝欺吾眾諸侯無大將耶？量一弓手，安敢亂言！與我打出！」曹操急止之曰：「公路息怒。此人既出大言，必有勇略；試教出馬，如其不勝，責之未遲。」袁紹曰：「使一弓手出戰，必被華雄所笑。」操曰：「此人儀表不俗，華雄安知他是弓手？」關公曰：「如不勝，請斬某頭。」\n操教釃熱酒一盃，與關公飲了上馬。關公曰：「酒且斟下，某去便來。」出帳提刀，飛身上馬。眾諸侯聽得關外鼓聲大振，喊聲大舉，如天摧地塌，岳撼山崩，眾皆失驚。正欲探聽，鸞鈴響處，馬到中軍，雲長提華雄之頭，擲於地上，其酒當溫。後人有詩讚之曰：\n威鎮乾坤第一功，轅門畫鼓響鼕鼕。\n雲長停盞施英勇，酒當溫時斬華雄。\n曹操大喜。只見玄德背後轉出張飛，高聲大叫：「俺哥哥斬了華雄，不就這裏殺入關去，活拏董卓，更待何時！」袁術大怒，喝曰：「俺大臣尚自謙讓，量一縣令手下小卒，安敢在此耀武揚威！都與趕出帳去！」曹操曰：「得功者賞，何計貴賤乎？」袁術曰：「既然公等只重一縣令，我當告退。」操曰：「豈可因一言而誤大事耶？」命公孫瓚且帶玄德、關、張回寨。眾官皆散。曹操暗使人齎牛酒撫慰三人。\n卻說華雄手下敗軍，報上關來。李肅慌忙寫告急文書，申聞董卓。卓急聚李儒、呂布等商議。儒曰：「今失了上將華雄，賊勢浩大。袁紹為盟主，紹叔袁隗，現為太傅；倘或裏應外合，深為不便，可先除之。請丞相親領大軍，分撥剿捕。」卓然其說，喚李催，郭汜，領兵五百，圍住太傅袁隗家，不分老幼，盡皆誅絕，先將袁隗首級去關前號令。卓遂起兵二十萬，分為兩路而來：一路先令李催，郭汜，引兵五萬，把住汜水關，不要廝殺；卓自將十五萬，同李儒，呂布，樊稠，張濟，等守虎牢關。這關離洛陽五十里。軍馬到關，卓令呂布領三萬大軍，去關前紮住大寨。卓自在關上屯住。\n流星馬探聽得，報入袁紹大寨裏來。紹聚眾商議。操曰：「董卓屯兵虎牢，截俺諸侯中路，今可勒兵一半迎敵。」紹乃分王匡，喬瑁，鮑信，袁遺，孔融，張楊，陶謙，公孫瓚，八路諸侯，往虎牢關迎敵。操引軍往來救應。八路諸侯，各自起兵。河內太守王匡，引兵先到。呂布帶鐵騎三千，飛奔來迎。王匡將軍馬列成陣勢，勒馬門旗下看時，見呂布出陣：頭戴三叉束髮紫金冠，體挂西川紅錦百花袍，身披獸面吞頭連環鎧，腰繫勒甲玲瓏獅蠻帶；弓箭隨身，手持畫戟；坐下嘶風赤兔馬；果然是人中呂布，馬中赤兔！\n王匡回頭問曰：「誰敢出戰？」後面一將，縱馬挺鎗而出。匡視之，乃河內名將方悅。兩馬相交，無五合，被呂布一戟刺於馬下，挺戟直衝過來。匡軍大敗，四散奔走。布東西衝殺，如入無人之境。幸得喬瑁、袁遺兩軍皆至，來救王匡，呂布方退。三路諸侯，各折了些人馬，退三十里下寨。隨後五路軍馬都至，一處商議，言呂布英雄，無人可敵。\n正慮間，小校報來：「呂布搦戰。」八路諸侯，一齊上馬，軍分八隊，布在高岡。遙望呂布一簇軍馬，繡旗招颭，先來衝陣。上黨太守張楊部將穆順，出馬挺鎗迎戰，被呂布手起一戟，刺於馬下。眾大驚。北海太守孔融部將武安國，使鐵鎚飛馬而出。呂布揮戟拍馬來迎。戰到十餘合，一戟砍斷安國手腕，棄鎚於地而走。八路軍兵齊出，救了武安國。呂布退回去了。眾諸侯回寨商議。曹操曰：「呂布英勇無敵，可會十八路諸侯，共議良策。若擒了呂布，董卓易誅耳。」\n正議間，呂布復引兵搦戰。八路諸侯齊出。公孫瓚揮槊親戰呂布。戰不數合，瓚敗走。呂布縱赤兔馬趕來。那馬日行千里，飛走如風。看看趕上，布舉畫戟望瓚後心便刺。旁邊一將，圓睜環眼，倒豎虎鬚，挺丈八蛇矛，飛馬大叫：「三姓家奴休走！燕人張飛在此！」\n呂布見了，棄了公孫瓚，便戰張飛。飛抖擻精神，酣戰呂布。連鬥五十餘合，不分勝負。雲長見了，把馬一拍，舞八十二斤青龍偃月刀，來夾攻呂布。三匹馬丁字兒廝殺。戰到三十合，戰不倒呂布。劉玄德掣雙股劍，驟黃鬃馬，刺斜裏也來助戰。\n這三個圍住呂布，轉燈兒般廝殺。八路人馬，都看得呆了。呂布架隔遮攔不定，看著玄德面上，虛刺一戟，玄德急閃。呂布蕩開陣角，倒拖畫戟，飛馬便回。三個那裏肯捨，拍馬趕來。八路軍兵，喊聲大震，一齊掩殺。呂布軍馬，望關上奔走；玄德、關、張隨後趕來。古人曾有篇言語，單道著玄德、關、張三戰呂布：\n漢朝天數當桓靈，炎炎紅日將西傾。\n奸臣董卓廢少帝，劉協懦弱魂夢驚。\n曹操傳檄告天下，諸侯奮怒皆興兵。\n議立袁紹作盟主，誓扶王室定太平。\n溫侯呂布世無比，雄才四海誇英偉。\n護軀銀鎧砌龍鱗，束髮金冠簪雉尾。\n參差寶帶獸平吞，錯落錦袍飛鳳起。\n龍駒跳踏起天風，畫戟熒煌射秋水。\n出關搦戰誰敢當？諸侯膽裂心惶惶。\n踴出燕人張翼德，手持蛇矛丈八鎗。\n虎鬚倒豎翻金線，環眼圓睜起電光。\n酣戰未能分勝敗，陣前惱起關雲長。\n青龍寶刀燦霜雪，鸚鵡戰袍飛蛺蝶。\n馬蹄到處鬼神嚎，目前一怒應流血。\n梟雄玄德掣雙鋒，抖擻天威施勇烈。\n三人圍繞戰多時，遮攔架隔無休歇。\n喊聲震動天地翻，殺氣迷漫牛斗寒。\n呂布力窮尋走路，遙望山塞拍馬還。\n倒拖畫桿方天戟，亂散銷金五彩旛。\n頓斷絨縧走赤兔，翻身飛上虎牢關。\n三人直趕呂布到關下，看見關上西風飄動青羅傘蓋。張飛大叫：「此必董卓！追呂布有甚強處！不如先拿董賊，便是斬草除根！」拍馬上關，來擒董卓。正是：\n擒賊定須擒賊首，奇功端的待奇人。\n未知勝負如何，且聽下文分解。",
+    "title": "第五回 發矯詔諸鎮應曹公　　破關兵三英戰呂布"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-005.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

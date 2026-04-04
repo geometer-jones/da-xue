@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-040",
+    "order": 40,
+    "summary": "三老四少",
+    "text": "三老四少\n春山如笑\n造次行事\n交能易作\n百年好合\n高山景行\n四至八道\n目交心通\n等因奉此\n三十六行\n收回成命\n四分五落\n生老病死\n白手起家\n身心交病\n用心竭力\n善文能武\n七相五公\n急公好施\n奉公守法\n三清四白\n奉公正己\n七事八事\n心忙意急\n入骨相思\n守身如玉\n公正廉明\n急中生智\n四面八方\n直入公堂",
+    "title": "1171-1200",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "三老四少",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "①Everyone, young and old"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "春山如笑",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describing the bright scenery of the mountains in spring"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "造次行事",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "do things in a hurry"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "交能易作",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to exchanging the fruits of labor in various industries and benefiting each other"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "百年好合",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "may you live a long and happy life together (wedding greeting)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "高山景行",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mountains are a metaphor for high moral standards"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "四至八道",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "An old term used to mark land boundaries"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "目交心通",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Convey feelings with eyes and communicate with each other in the heart"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "等因奉此",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "officialese"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "三十六行",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The old general name for all walks of life"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "收回成命",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Canceling a published order or decision"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "四分五落",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "describe scattered and scattered"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "生老病死",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. to be born, to grow old, to get sick and to die (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "白手起家",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to build up from nothing; to start from scratch"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "身心交病",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "worn out in body and soul (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "用心竭力",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Use all your heart and strength"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "善文能武",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Both literary and martial arts"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "七相五公",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All of them were public ministers of the Han Dynasty, and later generally referred to many civil and military ministers."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "急公好施",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to being enthusiastic about public welfare and willing to give alms"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "奉公守法",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to carry out official duties and observe the law"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "三清四白",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "means very innocent"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "奉公正己",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Pursue official duties and strictly discipline yourself"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "七事八事",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To describe things that are many and messy"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "心忙意急",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still confused"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "入骨相思",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes the depth of longing that will last forever"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "守身如玉",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to keep oneself pure"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "公正廉明",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Fair and honest, honest and strict"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "急中生智",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "quick witted in an emergency"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "四面八方",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) all directions; all around"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-040-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "直入公堂",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor for being straightforward in words and deeds without making any detours."
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-040.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

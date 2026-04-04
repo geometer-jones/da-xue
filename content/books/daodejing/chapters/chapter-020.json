@@ -1,0 +1,47 @@
+{
+  "chapter": {
+    "character_count": 132,
+    "id": "chapter-020",
+    "order": 20,
+    "reading_unit_count": 2,
+    "reading_units": [
+      {
+        "character_count": 94,
+        "id": "chapter-020-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？人之所畏，不可不畏。荒兮其未央哉！衆人熙熙，如享太牢，如春登臺。我獨怕兮其未兆；如嬰兒之未孩；儽儽兮若無所歸。衆人皆有餘，而我獨若遺。我愚人之心也哉！沌沌兮，俗人昭昭，我獨若昏。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When we renounce learning we have no troubles."
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-020-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "俗人察察，我獨悶悶。澹兮其若海，飂兮若無止，衆人皆有以，而我獨頑似鄙。我獨異於人，而貴食母。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The (ready) 'yes,' and (flattering) 'yea;' Small is the difference they display. But mark their issues, good and ill; What space the gulf between shall fill? What all men fear is indeed to be feared; but how wide and without end is the range of questions (asking to be discussed)! The multitude of men look satisfied and pleased; as if enjoying a full banquet, as if mounted on a tower in spring. I alone seem listless and still, my desires having as yet given no indication of their presence. I am like an infant which has not yet smiled. I look dejected and forlorn, as if I had no home to go to. The multitude of men all have enough and to spare. I alone seem to have lost everything. My mind is that of a stupid man; I am in a state of chaos. Ordinary men look bright and intelligent, while I alone seem to be benighted. They look full of discrimination, while I alone am dull and confused. I seem to be carried about as on the sea, drifting as if I had nowhere to rest. All men have their spheres of action, while I alone seem dull and incapable, like a rude borderer. (Thus) I alone am different from other men, but I value the nursing-mother (the Dao)."
+          }
+        }
+      }
+    ],
+    "summary": "絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？人之所畏，不可不畏",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？人之所畏，不可不畏。荒兮其未央哉！衆人熙熙，如享太牢，如春登臺。我獨怕兮其未兆；如嬰兒之未孩；儽儽兮若無所歸。衆人皆有餘，而我獨若遺。我愚人之心也哉！沌沌兮，俗人昭昭，我獨若昏。俗人察察，我獨悶悶。澹兮其若海，飂兮若無止，衆人皆有以，而我獨頑似鄙。我獨異於人，而貴食母。",
+    "title": "第20章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-020.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 57,
+    "id": "chapter-081",
+    "order": 81,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 57,
+        "id": "chapter-081-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "信言不美，美言不信。善者不辯，辯者不善。知者不博，博者不知。聖人不積，既以為人己愈有，既以與人己愈多。天之道，利而不害；聖人之道，為而不爭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sincere words are not fine; fine words are not sincere. Those who are skilled (in the Tao) do not dispute (about it); the disputatious are not skilled in it. Those who know (the Tao) are not extensively learned; the extensively learned do not know it. The sage does not accumulate (for himself). The more that he expends for others, the more does he possess of his own; the more that he gives to others, the more does he have himself. With all the sharpness of the Way of Heaven, it injures not; with all the doing in the way of the sage he does not strive. This work is a translation and has a separate copyright status to the applicable copyright protections of the original content. This work was published before January 1, 1931, and is in the public domain worldwide because the author died at least 100 years ago. Public domain Public domain false false This work was published before January 1, 1931, and is in the public domain worldwide because the author died at least 100 years ago. Public domain Public domain false false"
+          }
+        }
+      }
+    ],
+    "summary": "信言不美，美言不信",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "信言不美，美言不信。善者不辯，辯者不善。知者不博，博者不知。聖人不積，既以為人己愈有，既以與人己愈多。天之道，利而不害；聖人之道，為而不爭。",
+    "title": "第81章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-081.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

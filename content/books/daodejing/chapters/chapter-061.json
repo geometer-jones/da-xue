@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 82,
+    "id": "chapter-061",
+    "order": 61,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 82,
+        "id": "chapter-061-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "大國者下流，天下之交，天下之牝。牝常以靜勝牡，以靜為下。故大國以下小國，則取小國；小國以下大國，則取大國。故或下以取，或下而取。大國不過欲兼畜人，小國不過欲入事人。夫兩者各得其所欲，大者宜為下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "What makes a great state is its being (like) a low-lying, down- flowing (stream);--it becomes the centre to which tend (all the small states) under heaven. (To illustrate from) the case of all females:--the female always overcomes the male by her stillness. Stillness may be considered (a sort of) abasement. Thus it is that a great state, by condescending to small states, gains them for itself; and that small states, by abasing themselves to a great state, win it over to them. In the one case the abasement leads to gaining adherents, in the other case to procuring favour. The great state only wishes to unite men together and nourish them; a small state only wishes to be received by, and to serve, the other. Each gets what it desires, but the great state must learn to abase itself."
+          }
+        }
+      }
+    ],
+    "summary": "大國者下流，天下之交，天下之牝",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "大國者下流，天下之交，天下之牝。牝常以靜勝牡，以靜為下。故大國以下小國，則取小國；小國以下大國，則取大國。故或下以取，或下而取。大國不過欲兼畜人，小國不過欲入事人。夫兩者各得其所欲，大者宜為下。",
+    "title": "第61章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-061.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

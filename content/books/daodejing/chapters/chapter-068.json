@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 43,
+    "id": "chapter-068",
+    "order": 68,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 43,
+        "id": "chapter-068-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "善為士者，不武；善戰者，不怒；善勝敵者，不與；善用人者，為之下。是謂不爭之德，是謂用人之力，是謂配天古之極。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He who in (Tao's) wars has skill Assumes no martial port; He who fights with most good will To rage makes no resort. He who vanquishes yet still Keeps from his foes apart; He whose hests men most fulfil Yet humbly plies his art. Thus we say, 'He ne'er contends, And therein is his might.' Thus we say, 'Men's wills he bends, That they with him unite.' Thus we say, 'Like Heaven's his ends, No sage of old more bright.'"
+          }
+        }
+      }
+    ],
+    "summary": "善為士者，不武；善戰者，不怒；善勝敵者，不與；善用人者，為之下",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "善為士者，不武；善戰者，不怒；善勝敵者，不與；善用人者，為之下。是謂不爭之德，是謂用人之力，是謂配天古之極。",
+    "title": "第68章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-068.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

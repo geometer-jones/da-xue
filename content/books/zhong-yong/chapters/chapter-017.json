@@ -1,0 +1,86 @@
+{
+  "chapter": {
+    "character_count": 103,
+    "id": "chapter-017",
+    "order": 17,
+    "reading_unit_count": 5,
+    "reading_units": [
+      {
+        "character_count": 30,
+        "id": "chapter-017-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「舜其大孝也與！德為聖人，尊為天子，富有四海之內。宗廟饗之，子孫保之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"How greatly filial was Shun!"
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-017-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "故大德必得其位，必得其祿，必得其名，必得其壽。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His virtue was that of a sage; his dignity was the throne; his riches were all within the four seas."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-017-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "故天之生物，必因其材而篤焉。故栽者培之，傾者覆之，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He offered his sacrifices in his ancestral temple, and his descendants preserved the sacrifices to himself."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-017-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "詩曰：『嘉樂君子，憲憲令德！宜民宜人；受祿于天；保佑命之，自天申之！』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Therefore having such great virtue, it could not but be that he should obtain the throne, that he should obtain those riches, that he should obtain his fame, that he should attain to his long life."
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-017-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "故大德者必受命。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thus it is that Heaven, in the production of things, is sure to be bountiful to them, according to their qualities. Hence the tree that is flourishing, it nourishes, while that which is ready to fall, it overthrows. In the Book of Poetry, it is said, 'The admirable amiable prince displayed conspicuously his excelling virtue, adjusting his people, and adjusting his officers. Therefore, he received from Heaven his emoluments of dignity. It protected him, assisted him, decreed him the throne; sending from Heaven these favors, as it were repeatedly.' We may say therefore that he who is greatly virtuous will be sure to receive the appointment of Heaven.\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「舜其大孝也與！德為聖人，尊為天子，富有四海之內。宗廟饗之，子孫保之。\n故大德必得其位，必得其祿，必得其名，必得其壽。\n故天之生物，必因其材而篤焉。故栽者培之，傾者覆之，\n詩曰：『嘉樂君子，憲憲令德！宜民宜人；受祿于天；保佑命之，自天申之！』\n故大德者必受命。」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-017.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

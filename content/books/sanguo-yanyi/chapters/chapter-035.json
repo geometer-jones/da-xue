@@ -1,0 +1,632 @@
+{
+  "chapter": {
+    "character_count": 3008,
+    "id": "chapter-035",
+    "order": 35,
+    "reading_unit_count": 47,
+    "reading_units": [
+      {
+        "character_count": 92,
+        "id": "chapter-035-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說蔡瑁方欲回城，趙雲引軍趕出城來。原來趙雲正飲酒間，忽見人馬動，急入內觀之，席上不見了玄德。雲大驚，出投館舍，聽得人說：「蔡瑁引軍望西趕去了。」雲火急綽槍上馬，引著原帶來三百軍，奔出西門，正迎著蔡瑁，急問曰：「吾主何在？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“He left the banquet-hall quite suddenly and I know not whither he has gone.” was the reply. Now Chao Yün was cautious and careful and had no desire to act hastily, so he urged his horse forward till he came to the river. There he was checked by a torrent without ford or bridge. At once he turned back and shouted after Ts‘ai Mao, “You invited my lord to a feast; what means this going after him with a squadron of horse?”"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-035-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "」瑁曰：「使君逃席而去，不知何往。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mao replied, “It is my duty to guard the officials who have assembled here as I am the chief captain.”"
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-035-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "趙雲是謹細之人，不肯造次，即策馬前行。遙望大溪，別無去路，乃復回馬，喝問蔡瑁曰：「汝請吾主赴宴，何故引著軍馬追來？」瑁曰：「九郡四十二州縣官僚俱在此，吾為上將，豈可不防護？」雲曰：「汝迫吾主何處去了？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Whither have you driven my lord?” asked Chao."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-035-line-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "」瑁曰：「聞使君匹馬出西門，到此卻又不見。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“They tell me he rode quite alone out through the west gate, but I have not seen him.”"
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-035-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "雲驚疑不定。直來溪邊看時，只見隔岸一帶水跡。雲暗忖曰：「難道連馬跳過了溪去？」令三百軍四散觀望，並不見蹤跡。雲再回馬時，蔡瑁已入城去了。雲乃拏守門軍士追問，皆說劉使君飛馬出西門而去。雲再欲入城，又恐有埋伏，遂急引軍歸新野。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chao Yün was anxious and doubtful. Again he rode to the river and looked around. This time he noticed a wet track on the farther side. He thought to himself that it was almost an impossible crossing for a man and a horse, so he ordered his men to scatter and search. But they also could find no trace of Liu Pei. Chao Yün turned again to the city. By the time he had reached the wall Ts‘ai Mao had gone within. He then questioned the gate wardens, and they all agreed in saying that Liu Pei had ridden out at full gallop. That was all they knew. Fearing to re-enter the city lest he should fall into an ambush, Chao started for Hsienyeh."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-035-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "卻說玄德躍馬過溪，似醉如癡，想此闊澗一躍而過，豈非天意！迤邐望南漳策馬而行，日將沈西。正行之間，見一牧童跨於牛背上，口吹短笛而來。玄德歎曰：「吾不如也！」遂立馬觀之。牧童亦停牛罷笛，熟視玄德曰：「將軍莫非破黃巾劉玄德否？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After that marvellous life-saving leap over the torrent, Yüan-tê felt elated but rather dazed. He could not help feeling that his safety was due to an especial interposition of Providence. Following a tortuous path, he urged his steed ​ toward Nanchang. But the sun sank to the west and his destination seemed yet a long way off. Then he saw a young cowherd seated on the back of a buffalo and playing on a short pipe. “If I were only as happy!” sighed Yüan-tê. He checked his horse and looked at the lad, who stopped his beast, ceased playing on the pipe and stared fixedly at the stranger. “You must be Yüan-tê, the General who fought the Yellow Turbans,” said the boy presently."
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-035-line-007",
+        "order": 7,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "」玄德驚問曰：「汝乃村僻小童，何以知吾姓字？」牧童曰：「我本不知，因常侍師父，有客到日，多曾說有一劉玄德，身長七尺五寸，垂手過膝，目能自顧其耳，乃當世之英雄。今觀將軍如此模樣，想必是也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê was taken aback. “How can you know my name, a young rustic like you living in such a secluded place?” said he. “Of course I do not know you, but my master often has visitors and they all talk about Yüan-tê, the tall man whose hands hang down below his knees and whose eyes are very prominent. They say he is the most famous man of the day. Now you, General, are just such a man as they talk about, and surely you are he.” “Well, who is your master?”"
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-035-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "玄德曰：「汝師何人也？」牧童曰：「吾師複姓司馬，名徽，字德操，潁川人也．道號水鏡先生。」玄德曰：「汝師與誰為友？」小童曰：「與襄陽龐德公、龐統為友。」玄德曰：「龐德公乃龐統何人？」童子曰：「叔姪也。龐德公字山民，長俺師父十歲；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My master’s name is Ssuma, a compound surname, and his ming is Hui; his other name is Tê-ts‘ao. He belongs to Yingchou and his Taoist appellation is Shui-ching, ‘The Watermirror.’” “Who are your master’s friends that you mentioned?” “They are P‘ang Tê-kung and P‘ang T‘ung of Hsiangyang.” “And who are they?” “Relatives. P‘ang Tê-kung is ten years older than my master; the other is five years younger. One day my master was up in a tree picking mulberries when P‘ang T‘ung arrived. They began to talk and kept it up all day, my master did not come down till the evening. My master is very fond of P‘ang T‘ung and calls him brother.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-035-line-009",
+        "order": 9,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "龐統字士元，小俺師父五歲。一日，吾師父在樹上採桑，適龐統來相訪，坐於樹下，共相議論，終日不倦。吾師甚愛龐統，呼之為弟。」玄德曰：「汝師今居何處？」牧童遙指曰：「前面林中，便是莊院。」玄德曰：「吾正是劉玄德，汝可引我去拜見你師父。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“And where does your master live?” “In that wood there, in front,” said the cowherd pointing to it. “There he has a farmstead.” “I really am Liu Yüan-tê and you might lead me to your master that I may salute him.” The cowherd led the way for about two li , when Liu Pei found himself in front of a farm house. He dismounted and went to the centre door. Suddenly came to his ear the sound of a lute most skilfully played and the air was extremely beautiful. He stopped his guide and would not allow him to announce a visitor, but stood there rapt by the melody."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-035-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "童子便引玄德，行二里餘，到莊前下馬，入至中門，忽聞琴聲甚美，玄德教童子且休通報，側耳聽之，琴聲忽住而不彈。一人笑而出曰：「琴韻清幽，音中忽起高抗之調，必有英雄竊聽。」童子指謂玄德曰：「此即吾師水鏡先生也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Suddenly the music ceased. He heard a deep laugh and a man appeared, saying, “Amidst the clear and subtle sounds of the lute there suddenly rang out a high note as though some noble man was near.” “That is my master,” said the lad pointing. ​ Liu Pei saw before him a tall figure, slender and straight as a pine tree, a very “chosen vessel.” Hastening forward he saluted. The skirt of his robe was still wet from the river. “You have escaped from a grave danger to-day, Sir,” said “Water-mirror.” Yüan-tê was startled into silence, and the cowherd said to his master, “This is Liu Yüan-tê.”"
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-035-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "」玄德視其人，松形鶴骨，器宇不凡，慌忙進前施禮，衣襟尚濕。水鏡曰：「公今日幸免大難！」玄德驚訝不已。小童曰：「此劉玄德也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Water-mirror” asked him to enter and when they were seated in their relative positions as host and guest, Yüan-tê glanced round the room. Upon the bookshelves were piled books and manuscripts. The window opened upon an exquisite picture of pines and bamboos and a lute lay upon a stone couch. The room showed refinement in its last degree."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-035-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "水鏡請入草堂，分賓主坐定。玄德見架上滿堆書卷，窗外盛栽松竹，棋琴於石床之上，清氣飄然。水鏡問曰：「明公何來？」玄德曰：「偶爾經由此地，因小童相指，得拜尊顏，不勝欣幸。」水鏡笑曰：「公不必隱諱。公今必逃難至此。」玄德遂以襄陽一事告之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Whence come you, illustrious Sir?” asked the host. “By chance I was passing this way and the lad pointed you out to me. So I came to bow in your honoured presence. I cannot tell what pleasure it gives me.' ” “Water-mirror” laughed. “Why this mystery? Why must you conceal the truth? You have certainly just escaped from a grave danger.” Then the story of the banquet and the flight was told. “I knew it all from your appearance,” said his host. “Your name has long been familiar,” continued he, “but whence comes it that, up to the present, you are only a homeless devil?” “I have suffered many a check during my life,” said Liu Pei, \"and through one of them am I here now.”"
+          }
+        }
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-035-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "水鏡曰：「吾觀公氣色，已知之矣。」因問玄德曰：「吾久聞明公大名，何故至今猶落魄不偶耶？」玄德曰：「命途多蹇，所以至此。」水鏡曰：「不然。蓋因將軍左右不得其人耳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“It should not be so; but the reason is that you still lack the one man to aid you.” “I am simple enough in myself, I know; but I have Sun Ch‘ien, Mi Chu and Chien Yung on the civil side, and for warriors I have Kuan Yü, Chang Fei and Chao Yün. These are all most loyal helpers and I depend upon them not a little.”"
+          }
+        }
+      },
+      {
+        "character_count": 70,
+        "id": "chapter-035-line-014",
+        "order": 14,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "」玄德曰：「備雖不才，文有孫乾、糜竺、簡雍之輩，武有關、張、趙雲之流，竭忠輔相，頗賴其力。」水鏡曰：「關、張、趙雲，皆萬人敵，惜無善用之人。若孫乾、糜竺輩，乃白面書生耳，非經綸濟世之才也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Your fighting men are good: fit to oppose a legion. The pity is you have no really able adviser. Your civilians are but pallid students of books, not men fitted to weave and control destiny.” “I have always yearned to find one of those marvellous recluses who live among the hills till their day arrive. So far I have sought in vain.” “You know what the Master said, ‘In a hamlet of ten households there must be one true man.' Can you say there is no man?”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-035-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "玄德曰：「備亦嘗側身以求山谷之遺賢，奈未遇其人何！」水鏡曰：「豈不聞孔子云：『十室之邑，必有忠信。』何謂無人？」玄德曰：「備愚昧不識，願求指教。」水鏡曰：「公聞荊襄諸郡小兒之謠乎？其謠曰：『八九年間始欲衰，至十三年無孑遺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am simple and uninstructed; I pray you enlighten me.” “You have heard what the street boys sing:— In eight and nine begins decay, Four years, then comes the fateful day, When destiny will show the way, And the dragon flies out of the mire O! ​ This song was first heard when the new reign-style was adopted. The first line was fulfilled when Liu Piao lost his first wife, and when his family troubles began. The next line relates to the approaching death of Liu Piao and there is not a single man among all his crowd of officers who has the least ability. The last two lines will be fulfilled in you, General.”"
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-035-line-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "到頭天命有所歸，泥中蟠龍向天飛。』此謠始於建安初。建安八年，劉景升喪卻前妻，便生家亂，此所謂『始欲衰』也；『無孑遺』者，謂景升將逝，文武零落無孑遺矣；『天命有歸』，『龍向天飛』，蓋應在將軍也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê started up in surprise, crying, “How could such a thing be?” “Water-mirror” continued, “At this moment the marvellously clever ones of all the earth are all here and you, Sir, ought to seek them.” “Where are they? Who are they?” said Yüan-tê quickly. “If you could find either Fu-lung (Hidden Dragon) or Fêng-ch‘u (Phoenix Fledgeling), you could restore order in the Empire.” “But who are these men?” His host clapped his hands, smiled and said, “Good; very good.”"
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-035-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "玄德聞言驚謝曰：「備安敢當此！」水鏡曰：「今天下之奇才，盡在於此，公當往求之。」玄德急問曰：「奇才安在？果係何人？」水鏡曰：「伏龍、鳳雛，兩人得一，可安天下。」玄德曰：「伏龍、鳳雛何人也？」水鏡撫掌大笑曰：「好！好！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Yüan-tê persisted and pressed home his questions “Water-mirror” said, “It is getting late. You might stay the night here, General, and we will talk over these things tomorrow.” He called to a lad to bring wine and food for his guest and his horse was taken to the stable and fed. After Yüan-tê had eaten he was shown to a chamber opening off the main room and went to bed. But the words of his host would not be banished and he lay there only dozing till far into the night."
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-035-line-018",
+        "order": 18,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "」玄德再問時，水鏡曰：「天色已晚，將軍可於此暫宿一宵，明日當言之。」即命小童具飲饌相待，馬牽入後院喂養。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Suddenly he became fully awake at the sound of a knock at the door and a person entering. And he heard his host say “Where are you from, Yüan-chih?”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-035-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "玄德飲膳畢，即宿於草堂之側。玄德因思水鏡之言，寢不成寐。約至更深，忽聽一人叩門而入，水鏡曰：「元直何來？」玄德起床密聽之，聞其人答曰：「久聞劉景升善善惡惡，特往謁之。及至相見，徒有虛名，蓋善善而不能用，惡惡而不能去者也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Pei rose from his couch and listened secretly. He heard the man reply, “It has long been said that Liu Piao treated good men as good men should be treated and bad men as they should be treated. So I went to see for myself. But that reputation is undeserved. He does treat good men correctly but he cannot use them, and he treats wicked men in the right way, all but dismissing them. So I left a letter for him and came away; and here I am.”"
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-035-line-020",
+        "order": 20,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "故遺書別之，而來至此。」水鏡曰：「公懷王佐之才，宜擇人而事，奈何輕身往見景升乎？且英雄豪傑，只在眼前，公自不識耳。」其人曰：「先生之言是也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Water-mirror” replied, “You, capable enough to be the adviser of a king, ought to be able to find some one fit to serve. Why did you cheapen yourself so far as to go to Liu Piao? Beside there is a real hero right under your eyes and you do not know him.” “It is just as you say,” replied the stranger."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-035-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "玄德聞之大喜，暗忖此人必是伏龍、鳳雛，即欲出見，又恐造次。候至天曉，玄德求見水鏡，問曰：「昨夜來者是誰？」水鏡曰：「此吾友也。」玄德求與相見。水鏡曰：「此人欲往投明主，已到他處去了。」玄德請問其姓名。水鏡笑曰：「好！好！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Pei listened with great joy for he thought this visitor was certainly one of the two he was advised to look for. He would have shown himself then and there, but he thought that would look strange. So he waited till daylight, when he sought out his host and said. “Who was it came last night?” ​ “A friend of mine,” was the reply. Yüan-tê begged for an introduction. “Water-mirror” said, “He wants to find an enlightened master and so he has gone elsewhere.” When the guest asked his name his host only replied, “Good, good.” And when he asked who they were who went by the names of Fu-lung and Fêng-ch‘u he only elicited the same reply."
+          }
+        }
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-035-line-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "」玄德再問：「伏龍、鳳雛，果係何人？」水鏡亦只笑曰：「好！好！」玄德拜請水鏡出山相助，同扶漢室。水鏡曰：「山野閒散之人，不堪世用。自有勝吾十倍者來助公，公宜訪之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê then, bowing low before his host, begged him to leave the hills and help him to bring about the restoration of the ruling house to its prerogatives. But he replied, “Men of the hills and deserts are unequal to such a task. However, there must be many far abler than I who will help you if you seek them.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-035-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "正談論間，忽聞莊外人喊馬嘶，小童來報：「有一將軍，引數百人到莊來也。」玄德大驚，急出視之，乃趙雲也。玄德大喜。雲下馬入見曰：「某夜來回縣，尋不見主公，連夜跟問到此，主公作速回縣。只恐有人來縣中廝殺。」玄德辭了水鏡，與趙雲上馬，投新野來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "While they were talking they heard outside the farm the shouts of men and neighing of horses, and a servant came in to say that a captain with a large company of men had arrived. Yüan-tê went out hastily to see who these were and found Chao Yün. He was much relieved and Chao dismounted and entered the house. “Last night, on my return to our city,” said Chao, “I could not find my lord, so I followed at once and traced you here. I pray you return quickly as I fear an attack on the city.”"
+          }
+        }
+      },
+      {
+        "character_count": 58,
+        "id": "chapter-035-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "行不數里，一彪人馬來到，視之，乃雲長、翼德也，相見大喜。玄德訴說躍馬檀溪之事，共相嗟訝。到縣中，與孫乾等商議。乾曰：「可先致書於景升，訴告此事。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Yuan-tê took leave of his host and the whole company returned to Hsinyeh. Before they had gone far another troop appeared, and, when they had come nearer, they saw the two brothers. They met with great joy and Yüan-tê told them of the wonderful leap his horse had made over the torrent. All expressed surprise and pleasure."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-035-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "玄德從其言，即令孫乾齎書至荊州。劉表喚入問曰：「吾請玄德襄陽赴會，緣何逃席而去？」孫乾呈上書札，具言蔡瑁設謀相害，賴躍馬檀溪得脫。表大怒，急喚蔡瑁責罵曰：「汝焉敢害吾弟！」命推出斬之。蔡夫人出，哭求免死，表怒猶未息。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As soon as they reached the city a council was called and Chao Yün said, “You ought first of all to indite a letter to Liu Piao telling him all these things.” The letter was prepared and Sun Ch‘ien bore it to the seat of government. He was received, and Liu Piao at once asked the reason of Yüan-tê's hasty flight from the festival. Whereupon the letter was presented and the bearer related the machinations of Ts‘ai Mao and told of the escape and the amazing leap over the torrent. Liu Piao was very angry, sent for Ts‘ai Mao and berated him soundly, saying, “How dare you try to hurt my brother?” and he ordered him out to execution."
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-035-line-026",
+        "order": 26,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "孫乾告曰：「若殺蔡瑁，恐皇叔不能安居於此矣。」表乃責而釋之，使長子劉琦同孫乾至玄德處請罪。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Piao’s wife, Ts‘ao Mao’s sister, prayed for a remission of the death penalty, but Liu Piao refused to be appeased. Then spoke Sun Ch‘ien, saying, “If you put Ts‘ai to death, I fear Uncle Liu will be unable to remain here.”"
+          }
+        }
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-035-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "琦奉命赴新野，玄德接著，設宴相待。酒酣，琦忽然墮淚。玄德問其故。琦曰：「繼母蔡氏，常懷謀害之心；姪無計免禍，幸叔父指教。」玄德勸以「小心盡孝，自然無禍。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then he was reprieved, but dismissed with a severe reprimand. Liu Piao sent his elder son back with Sun Ch‘ien to apologise. When Ch‘i reached Hsinyeh, Yüan-tê welcomed him and gave ​ a banquet in his honour. After some little drinking, the chief guest suddenly began to weep and presently said, “My stepmother always cherishes a wish to put me out of the way, and I do not know how to avoid her anger. Could you advise me, Uncle?”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-035-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "次日，琦泣別。玄德乘馬送琦出郭，因指馬謂琦曰：「若非此馬，吾已為泉下之人矣。」琦曰：「此非馬之力，乃叔父之洪福也。」說罷，相別。劉琦涕泣而去。玄德回馬入城，忽見市上一人，葛巾布袍，皂縧烏履，長歌而來。歌曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê exhorted him to be careful and perfectly filial and nothing could happen. Soon after the young man took his leave, and wept at parting. Yüan-tê escorted him well on his way and, pointing to his steed, said, “I owe my life to this horse had it not been for him I had been already below the Springs.”"
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-035-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "天地反覆兮，火欲殂；大廈將崩兮，一木難扶。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“It was not the strength of the horse, but your noble fortune, Uncle.”"
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-035-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "山谷有賢兮，欲投明主；明主求賢兮，卻不知吾。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They parted, the young man weeping bitterly. On re-entering the city Yüan-tê met a person in the street wearing a hempen turban, a cotton robe confined by a black girdle, and black shoes. He came along singing a song."
+          }
+        }
+      },
+      {
+        "character_count": 70,
+        "id": "chapter-035-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "玄德聞歌，暗思：「此人莫非水鏡所言伏龍、鳳雛乎？」遂下馬相見，邀入縣衙，問其姓名。答曰：「某乃潁上人也，姓單，名福。久聞使君納士招賢，欲來投託，未敢輒造；故行歌於市，以動尊聽耳。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The universe is riven, alack! now nears the end of all, The noble mansion quakes, alack! what beam can stay the fall? A wise one waits his lord, alack! but hidden in the glen, The seeker knows not him, alack! nor me, of common men. Yüan-tê listened. “Surely this is one of the men 'Watermirror' spoke of,” thought he."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-035-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "玄德大喜，待為上賓。單福曰：「適使君所乘之馬，再乞一觀。」玄德命去鞍牽於堂下。單福曰：「此非的盧馬乎？雖是千里馬，卻要妨主，不可乘也。」玄德曰：「已應之矣。」遂具言躍檀溪之事。福曰：「此乃救主，非妨主也；終必妨一主，某有一法可禳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He dismounted, spoke to the singer and invited him into his residence. Then when they were seated he asked the stranger’s name. “I am from Yingshang and my name is Tan Fu. I have known you by repute for a long time and they said you appreciated men of ability. I wanted to come to you but every way of getting an introduction seemed closed. So I bethought me of attracting your notice by singing that song in the market place.' ”"
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-035-line-033",
+        "order": 33,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "」玄德曰：「願聞禳法。」福曰：「公意中有仇怨之人，可將此馬賜之；待妨過了此人，然後乘之，自然無事。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê thought he had found a treasure and treated the newcomer with the greatest kindness. Then Tan Fu spoke of the horse that he had seen Yüan-tê riding and asked to look at him. So the animal was brought round."
+          }
+        }
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-035-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "玄德聞言變色曰：「公初至此，不教吾以正道，便教作利己妨人之事，備不敢聞教。」福笑謝曰：「向聞使君仁德，未敢便信，故以此言相試耳。」玄德亦改容起謝曰：「備安能有仁德及人，惟先生教之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Is not this a tilu ?” said Tan Fu. “But though he is a good steed he risks his master. You must not ride him.” “He has already fulfilled the omens,” said Yüan-tê, and he related the story of the leap over the torrent. “But this was saving his master, not risking him; he will surely harm some one in the end. But I can tell you how to avert the omen.”"
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-035-line-035",
+        "order": 35,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "」福曰：「吾自潁上來此，聞新野之人歌曰：『新野牧，劉皇叔，自到此，民豐足。』可見使君之仁德及人也。」玄德乃拜單福為軍師，調練本部人馬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I should be glad to hear it,” said Yüan-tê. “If you have an enemy against whom you bear a grudge, give him this horse and wait till he has fulfilled the evil omens on this man: then you can ride him in safety.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-035-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "卻說曹操自冀州回許都，常有取荊州之意，特差曹仁、李典並降將呂曠、呂翔等領兵三萬，屯樊城，虎視荊襄，就探看虛實。時呂曠、呂翔稟曹仁曰：「今劉備屯兵新野，招軍買馬，積草儲糧，其志不小，不可不早圖之。吾二人自降丞相之後，未有寸功；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê changed colour. “What, Sir! You are but a new acquaintance and you would advise me to take an evil course ​ and to harm another for my own advantage? No, Sir! I cannot listen.” His guest smiled. “People said you were virtuous. I could not ask you directly, so I put it that way to test you.” Yüan-tê's expression changed. He rose and returned the compliment, saying, “But how can I be virtuous while I lack your teaching?” “When I came here, I heard the people saying: Since Liu came here, O blessed day! We‘ve had good luck: long may he stay!"
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-035-line-037",
+        "order": 37,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "願請精兵五千，取劉備之頭，以獻丞相。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So you see the effects of your virtue extend to the ordinary people.” Thereupon Tan Fu was made Organiser in Chief of the army."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-035-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "曹仁大喜，與二呂兵五千，前往新野廝殺。探馬飛報玄德。玄德請單福商議。福曰：「既有敵兵，不可令其入境。可使關公引一軍從左而出，以敵來軍中路；張飛引一軍從右而出，以敵來軍後路；公自引趙雲出兵前路相迎，敵可破矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The one idea that held Ts‘ao Ts‘ao after his return from Ch‘ichou was the capture of Chingchou. He sent Ts‘ao Jên and Li Tien, with the two brothers Lü who had surrendered, to camp at Fanch'êng with three legions and so threaten Chingchou and Hsiangyang. Thence he sent spies to find out the weak points. Then the two Lüs petitioned Ts‘ao Jên saying, “Liu Pei is strengthening his position at Hsinyeh and laying in large supplies. Some great scheme is afoot and he should be checked. Since our surrender we have performed no noteworthy service and, if you will give us half a legion, we promise to bring you the head of Liu Pei.” Ts‘ao Jên was only too glad, and the expedition set out. The scouts reported this to Yüan-tê who turned to Tan Fu for advice."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-035-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "玄德從其言，即差關、張二人去訖；然後與單福、趙雲等，共引二千人馬出關相迎。行不數里，只見山後塵頭大起，呂曠、呂翔引軍來到。兩邊各射住陣角。玄德出馬於旗門下，大呼曰：「來者何人？敢犯吾境！」呂曠出馬曰：「吾乃大將呂曠也。奉丞相命，特來擒汝！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tan Fu said, “They must not be permitted to cross the boundary. Send your two brothers right and left, one to attack the enemy on the march, the other to cut off the retreat. You and Chao Yün will make a front attack.” The two brothers started and then Yüan-tê went out at the gate with three companies to oppose the enemy. Before they had gone far they saw a great cloud of dust behind the hills. This marked the approach of the brothers Lü. Presently, both sides being arrayed, Yüan-tê rode out and stood by his standard. He called out, “Who are you who thus would encroach on my territory?” “I am the great general Lu K‘uang, and I have the orders of the minister to make you prisoner,” said the leader."
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-035-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "」玄德大怒，使趙雲出馬。二將交戰，不數合，趙雲一槍刺呂曠於馬下。玄德麾軍掩殺，呂翔抵敵不住，引軍便走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê ordered Chao Yün to go out, and the two captains engaged. Very soon Chao had disposed of his opponent and Yüan-tê gave the signal to attack. Lü Hsiang could not maintain his position and led his men off. Soon his men found themselves attacked by an army rushing in from the side led by Kuan Yü. The loss was more than a half and the remainder fled for safety."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-035-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "正行間，路傍一軍突出，為首大將，乃關雲長也。衝殺一陣。呂翔折兵大半，奪路走脫。行不到十里，又一軍攔住去路。為首大將，挺矛大叫：「張翼德在此！」直取呂翔，翔措手不及，被張飛一矛刺中，翻身落馬而死。餘眾四散奔走。玄德合軍追趕，大半多被擒獲。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ About ten li farther on they found their retreat barred by an army under Chang Fei, who stood in the way with a long spear ready to thrust. Crying out who he was, he bore down upon Lü Hsiang, who was slain without a chance of striking a blow. The men again fled in disorder. They were pursued by Yüan-tê and the greater part killed or captured. Then Yüan-tê returned into his own city where he rewarded Tan Fu and feasted his victorious soldiers. Some of the defeated men took the news of the deaths of the leaders and the capture of their comrades to Ts‘ao Jên."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-035-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "玄德班師回縣，重待單福，犒賞三軍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Jên, much distressed, consulted his colleague who advised staying where they were and holding on till reinforcements could arrive."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-035-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "卻說敗軍回見曹仁，報說二呂被殺，軍士多被活捉。曹仁大驚，與李典商議。典曰：「二將欺敵而亡，今只宜按兵不動，申報丞相，起大兵來征剿，乃為上策。」仁曰：「不然。今二將陣亡，又折許多兵馬，此讎不可不急報。量新野彈丸之地，何勞丞相大軍？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Not so,” said Ts‘ao Jên. “We cannot support calmly the death of two leaders and the loss of so many men. We must avenge them quickly. Hsinyeh is but a crossbow slug of a place and not worth disturbing the Minister for.” “Liu Pei is a man of metal,” said Li Tien. “Do not esteem him lightly.” “What are you afraid of?” said Jên."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-035-line-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "」典曰：「劉備人傑也，不可輕視。」仁曰：「公何怯也？」典曰：「兵法云：『知彼知己，百戰百勝．』某非怯戰，但恐不能必勝耳。」仁怒曰：「公懷二心耶？吾必欲生擒劉備！」典曰：「將軍若去，某守樊城。」仁曰：「汝若不同去，真懷二心矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The Rule of War says 'To know your enemy and yourself is the secret of victory,' replied Tien. “I am not afraid of the battle, but I do not think we can conquer.” “You are a traitor!” cried Jên angrily. “Then I will capture Liu Pei myself.” “Do so; and I will guard this city,” said Tien. “If you do not go with me, it is a proof that you are a traitor,” retorted Ts‘ao Jên."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-035-line-045",
+        "order": 45,
+        "source_block_chunk": 3,
+        "source_block_order": 25,
+        "text": "」典不得已，只得與曹仁點起二萬五千軍馬，渡河投新野而來。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At this reproach, Li Tien felt constrained to join the expedition. So they told off two and a half legions with which they crossed the river for Hsinyeh."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-035-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "偏裨既有輿尸辱，主將重興雪恥兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The officers all keenly felt the shame of many slain, The Chief determines on revenge and marches out again."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-035-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "未知勝負何如，且聽下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "What measure of success the expedition met with will be related in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說蔡瑁方欲回城，趙雲引軍趕出城來。原來趙雲正飲酒間，忽見人馬動，急入內觀之，席上不見了玄德。雲大驚，出投館舍，聽得人說：「蔡瑁引軍望西趕去了。」雲火急綽槍上馬，引著原帶來三百軍，奔出西門，正迎著蔡瑁，急問曰：「吾主何在？」瑁曰：「使君逃席而去，不知何往。」\n趙雲是謹細之人，不肯造次，即策馬前行。遙望大溪，別無去路，乃復回馬，喝問蔡瑁曰：「汝請吾主赴宴，何故引著軍馬追來？」瑁曰：「九郡四十二州縣官僚俱在此，吾為上將，豈可不防護？」雲曰：「汝迫吾主何處去了？」瑁曰：「聞使君匹馬出西門，到此卻又不見。」\n雲驚疑不定。直來溪邊看時，只見隔岸一帶水跡。雲暗忖曰：「難道連馬跳過了溪去？」令三百軍四散觀望，並不見蹤跡。雲再回馬時，蔡瑁已入城去了。雲乃拏守門軍士追問，皆說劉使君飛馬出西門而去。雲再欲入城，又恐有埋伏，遂急引軍歸新野。\n卻說玄德躍馬過溪，似醉如癡，想此闊澗一躍而過，豈非天意！迤邐望南漳策馬而行，日將沈西。正行之間，見一牧童跨於牛背上，口吹短笛而來。玄德歎曰：「吾不如也！」遂立馬觀之。牧童亦停牛罷笛，熟視玄德曰：「將軍莫非破黃巾劉玄德否？」玄德驚問曰：「汝乃村僻小童，何以知吾姓字？」牧童曰：「我本不知，因常侍師父，有客到日，多曾說有一劉玄德，身長七尺五寸，垂手過膝，目能自顧其耳，乃當世之英雄。今觀將軍如此模樣，想必是也。」\n玄德曰：「汝師何人也？」牧童曰：「吾師複姓司馬，名徽，字德操，潁川人也．道號水鏡先生。」玄德曰：「汝師與誰為友？」小童曰：「與襄陽龐德公、龐統為友。」玄德曰：「龐德公乃龐統何人？」童子曰：「叔姪也。龐德公字山民，長俺師父十歲；龐統字士元，小俺師父五歲。一日，吾師父在樹上採桑，適龐統來相訪，坐於樹下，共相議論，終日不倦。吾師甚愛龐統，呼之為弟。」玄德曰：「汝師今居何處？」牧童遙指曰：「前面林中，便是莊院。」玄德曰：「吾正是劉玄德，汝可引我去拜見你師父。」\n童子便引玄德，行二里餘，到莊前下馬，入至中門，忽聞琴聲甚美，玄德教童子且休通報，側耳聽之，琴聲忽住而不彈。一人笑而出曰：「琴韻清幽，音中忽起高抗之調，必有英雄竊聽。」童子指謂玄德曰：「此即吾師水鏡先生也。」玄德視其人，松形鶴骨，器宇不凡，慌忙進前施禮，衣襟尚濕。水鏡曰：「公今日幸免大難！」玄德驚訝不已。小童曰：「此劉玄德也。」\n水鏡請入草堂，分賓主坐定。玄德見架上滿堆書卷，窗外盛栽松竹，棋琴於石床之上，清氣飄然。水鏡問曰：「明公何來？」玄德曰：「偶爾經由此地，因小童相指，得拜尊顏，不勝欣幸。」水鏡笑曰：「公不必隱諱。公今必逃難至此。」玄德遂以襄陽一事告之。水鏡曰：「吾觀公氣色，已知之矣。」因問玄德曰：「吾久聞明公大名，何故至今猶落魄不偶耶？」玄德曰：「命途多蹇，所以至此。」水鏡曰：「不然。蓋因將軍左右不得其人耳。」玄德曰：「備雖不才，文有孫乾、糜竺、簡雍之輩，武有關、張、趙雲之流，竭忠輔相，頗賴其力。」水鏡曰：「關、張、趙雲，皆萬人敵，惜無善用之人。若孫乾、糜竺輩，乃白面書生耳，非經綸濟世之才也。」\n玄德曰：「備亦嘗側身以求山谷之遺賢，奈未遇其人何！」水鏡曰：「豈不聞孔子云：『十室之邑，必有忠信。』何謂無人？」玄德曰：「備愚昧不識，願求指教。」水鏡曰：「公聞荊襄諸郡小兒之謠乎？其謠曰：『八九年間始欲衰，至十三年無孑遺。到頭天命有所歸，泥中蟠龍向天飛。』此謠始於建安初。建安八年，劉景升喪卻前妻，便生家亂，此所謂『始欲衰』也；『無孑遺』者，謂景升將逝，文武零落無孑遺矣；『天命有歸』，『龍向天飛』，蓋應在將軍也。」\n玄德聞言驚謝曰：「備安敢當此！」水鏡曰：「今天下之奇才，盡在於此，公當往求之。」玄德急問曰：「奇才安在？果係何人？」水鏡曰：「伏龍、鳳雛，兩人得一，可安天下。」玄德曰：「伏龍、鳳雛何人也？」水鏡撫掌大笑曰：「好！好！」玄德再問時，水鏡曰：「天色已晚，將軍可於此暫宿一宵，明日當言之。」即命小童具飲饌相待，馬牽入後院喂養。\n玄德飲膳畢，即宿於草堂之側。玄德因思水鏡之言，寢不成寐。約至更深，忽聽一人叩門而入，水鏡曰：「元直何來？」玄德起床密聽之，聞其人答曰：「久聞劉景升善善惡惡，特往謁之。及至相見，徒有虛名，蓋善善而不能用，惡惡而不能去者也。故遺書別之，而來至此。」水鏡曰：「公懷王佐之才，宜擇人而事，奈何輕身往見景升乎？且英雄豪傑，只在眼前，公自不識耳。」其人曰：「先生之言是也。」\n玄德聞之大喜，暗忖此人必是伏龍、鳳雛，即欲出見，又恐造次。候至天曉，玄德求見水鏡，問曰：「昨夜來者是誰？」水鏡曰：「此吾友也。」玄德求與相見。水鏡曰：「此人欲往投明主，已到他處去了。」玄德請問其姓名。水鏡笑曰：「好！好！」玄德再問：「伏龍、鳳雛，果係何人？」水鏡亦只笑曰：「好！好！」玄德拜請水鏡出山相助，同扶漢室。水鏡曰：「山野閒散之人，不堪世用。自有勝吾十倍者來助公，公宜訪之。」\n正談論間，忽聞莊外人喊馬嘶，小童來報：「有一將軍，引數百人到莊來也。」玄德大驚，急出視之，乃趙雲也。玄德大喜。雲下馬入見曰：「某夜來回縣，尋不見主公，連夜跟問到此，主公作速回縣。只恐有人來縣中廝殺。」玄德辭了水鏡，與趙雲上馬，投新野來。行不數里，一彪人馬來到，視之，乃雲長、翼德也，相見大喜。玄德訴說躍馬檀溪之事，共相嗟訝。到縣中，與孫乾等商議。乾曰：「可先致書於景升，訴告此事。」\n玄德從其言，即令孫乾齎書至荊州。劉表喚入問曰：「吾請玄德襄陽赴會，緣何逃席而去？」孫乾呈上書札，具言蔡瑁設謀相害，賴躍馬檀溪得脫。表大怒，急喚蔡瑁責罵曰：「汝焉敢害吾弟！」命推出斬之。蔡夫人出，哭求免死，表怒猶未息。孫乾告曰：「若殺蔡瑁，恐皇叔不能安居於此矣。」表乃責而釋之，使長子劉琦同孫乾至玄德處請罪。\n琦奉命赴新野，玄德接著，設宴相待。酒酣，琦忽然墮淚。玄德問其故。琦曰：「繼母蔡氏，常懷謀害之心；姪無計免禍，幸叔父指教。」玄德勸以「小心盡孝，自然無禍。」\n次日，琦泣別。玄德乘馬送琦出郭，因指馬謂琦曰：「若非此馬，吾已為泉下之人矣。」琦曰：「此非馬之力，乃叔父之洪福也。」說罷，相別。劉琦涕泣而去。玄德回馬入城，忽見市上一人，葛巾布袍，皂縧烏履，長歌而來。歌曰：\n天地反覆兮，火欲殂；大廈將崩兮，一木難扶。\n山谷有賢兮，欲投明主；明主求賢兮，卻不知吾。\n玄德聞歌，暗思：「此人莫非水鏡所言伏龍、鳳雛乎？」遂下馬相見，邀入縣衙，問其姓名。答曰：「某乃潁上人也，姓單，名福。久聞使君納士招賢，欲來投託，未敢輒造；故行歌於市，以動尊聽耳。」\n玄德大喜，待為上賓。單福曰：「適使君所乘之馬，再乞一觀。」玄德命去鞍牽於堂下。單福曰：「此非的盧馬乎？雖是千里馬，卻要妨主，不可乘也。」玄德曰：「已應之矣。」遂具言躍檀溪之事。福曰：「此乃救主，非妨主也；終必妨一主，某有一法可禳。」玄德曰：「願聞禳法。」福曰：「公意中有仇怨之人，可將此馬賜之；待妨過了此人，然後乘之，自然無事。」\n玄德聞言變色曰：「公初至此，不教吾以正道，便教作利己妨人之事，備不敢聞教。」福笑謝曰：「向聞使君仁德，未敢便信，故以此言相試耳。」玄德亦改容起謝曰：「備安能有仁德及人，惟先生教之。」福曰：「吾自潁上來此，聞新野之人歌曰：『新野牧，劉皇叔，自到此，民豐足。』可見使君之仁德及人也。」玄德乃拜單福為軍師，調練本部人馬。\n卻說曹操自冀州回許都，常有取荊州之意，特差曹仁、李典並降將呂曠、呂翔等領兵三萬，屯樊城，虎視荊襄，就探看虛實。時呂曠、呂翔稟曹仁曰：「今劉備屯兵新野，招軍買馬，積草儲糧，其志不小，不可不早圖之。吾二人自降丞相之後，未有寸功；願請精兵五千，取劉備之頭，以獻丞相。」\n曹仁大喜，與二呂兵五千，前往新野廝殺。探馬飛報玄德。玄德請單福商議。福曰：「既有敵兵，不可令其入境。可使關公引一軍從左而出，以敵來軍中路；張飛引一軍從右而出，以敵來軍後路；公自引趙雲出兵前路相迎，敵可破矣。」\n玄德從其言，即差關、張二人去訖；然後與單福、趙雲等，共引二千人馬出關相迎。行不數里，只見山後塵頭大起，呂曠、呂翔引軍來到。兩邊各射住陣角。玄德出馬於旗門下，大呼曰：「來者何人？敢犯吾境！」呂曠出馬曰：「吾乃大將呂曠也。奉丞相命，特來擒汝！」玄德大怒，使趙雲出馬。二將交戰，不數合，趙雲一槍刺呂曠於馬下。玄德麾軍掩殺，呂翔抵敵不住，引軍便走。\n正行間，路傍一軍突出，為首大將，乃關雲長也。衝殺一陣。呂翔折兵大半，奪路走脫。行不到十里，又一軍攔住去路。為首大將，挺矛大叫：「張翼德在此！」直取呂翔，翔措手不及，被張飛一矛刺中，翻身落馬而死。餘眾四散奔走。玄德合軍追趕，大半多被擒獲。玄德班師回縣，重待單福，犒賞三軍。\n卻說敗軍回見曹仁，報說二呂被殺，軍士多被活捉。曹仁大驚，與李典商議。典曰：「二將欺敵而亡，今只宜按兵不動，申報丞相，起大兵來征剿，乃為上策。」仁曰：「不然。今二將陣亡，又折許多兵馬，此讎不可不急報。量新野彈丸之地，何勞丞相大軍？」典曰：「劉備人傑也，不可輕視。」仁曰：「公何怯也？」典曰：「兵法云：『知彼知己，百戰百勝．』某非怯戰，但恐不能必勝耳。」仁怒曰：「公懷二心耶？吾必欲生擒劉備！」典曰：「將軍若去，某守樊城。」仁曰：「汝若不同去，真懷二心矣。」典不得已，只得與曹仁點起二萬五千軍馬，渡河投新野而來。正是：\n偏裨既有輿尸辱，主將重興雪恥兵。\n未知勝負何如，且聽下文分解。",
+    "title": "第三十五回 玄德南漳逢隱淪　　　單福新野遇英主"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-035.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

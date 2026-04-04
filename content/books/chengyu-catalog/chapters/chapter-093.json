@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-093",
+    "order": 93,
+    "summary": "赤诚相待",
+    "text": "赤诚相待\n七死八活\n积德累功\n身名俱灭\n心高气傲\n惹是招非\n今不如昔\n两虎相斗\n多情多义\n敢勇当先\n老成见到\n驰名中外\n慕古薄今\n焕然如新\n千金市骨\n尺二冤家\n持论公允\n太平无事\n割席分坐\n流芳千古\n百顺百依\n玉貌花容\n三对六面\n论功行封\n似水如鱼\n旋得旋失\n别出手眼\n半疑半信\n傲然挺立\n快步流星",
+    "title": "2761-2790",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "赤诚相待",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to treat utterly sincerely"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "七死八活",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like dying and coming back to life many times"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "积德累功",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to accumulate merit and virtue"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "身名俱灭",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the destruction of body and reputation together"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "心高气傲",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "proud and arrogant"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "惹是招非",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "cause trouble"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "今不如昔",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "things are not as good as they used to be"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "两虎相斗",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 兩虎相爭|两虎相争[liang3 hu3 xiang1 zheng1]"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "多情多义",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to friendship"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "敢勇当先",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Take the lead bravely"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "老成见到",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "See you thoughtfully and thoughtfully"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "驰名中外",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chi Communication"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "慕古薄今",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "envy, admire"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "焕然如新",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Change the old appearance and create a new atmosphere"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "千金市骨",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Spend thousands of gold to buy the bones of a thousand-mile horse"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "尺二冤家",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the large number of people seeking calligraphy and painting"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "持论公允",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to speech that is fair and reasonable"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "太平无事",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It refers to peace and tranquility in the world, and also refers to a quiet and worry-free life."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "割席分坐",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "seat"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "流芳千古",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The good name will be passed down to future generations forever"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "百顺百依",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes being obedient to everything"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "玉貌花容",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes being beautiful, like a flower and a jade"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "三对六面",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Person means together with the parties and an intermediary or witness"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "论功行封",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Evaluate the merits and give rewards"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "似水如鱼",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like fish and water, we cannot leave"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "旋得旋失",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gained quickly, lost again soon"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "别出手眼",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to having unique vision and techniques"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "半疑半信",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A little skeptical, but also a little convinced"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "傲然挺立",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Proudly strong and unyielding"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-093-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "快步流星",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to walk quickly"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-093.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

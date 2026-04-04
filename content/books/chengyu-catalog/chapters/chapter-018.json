@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-018",
+    "order": 18,
+    "summary": "正人君子",
+    "text": "正人君子\n难于上天\n无情无彩\n无动于中\n家无二主\n如日中天\n食而不化\n不上不下\n大人先生\n何所不至\n赤子之心\n回天无力\n一定不易\n无名之朴\n出其不意\n无一不知\n相门有相\n人一己百\n文风不动\n当着不着\n不如归去\n不能自已\n度外之人\n人心不古\n人浮于事\n生生不已\n在家出家\n有声无气\n划一不二\n一清如水",
+    "title": "511-540",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "正人君子",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "upright gentleman"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "难于上天",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Difficult to go to heaven"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "无情无彩",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heartless and colorless"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "无动于中",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "aloof"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "家无二主",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No two owners"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "如日中天",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "at the peak of one's prestige"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "食而不化",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Eat without digesting"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "不上不下",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "between a rock and a hard place"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "大人先生",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sir"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "何所不至",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Why not"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "赤子之心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "pure and innocent like the heart of a newborn"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "回天无力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unable to turn around a hopeless situation; to fail to save the situation"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "一定不易",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unalterable"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "无名之朴",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Nameless simplicity"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "出其不意",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to do when least expected; to catch off guard"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "无一不知",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No one knows"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "相门有相",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xiangmen has Xiangmen"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "人一己百",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A hundred people"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "文风不动",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "absolutely still"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "当着不着",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not in front of"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "不如归去",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Better to go back"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "不能自已",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unable to control oneself"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "度外之人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "outsider"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "人心不古",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the men of today are sadly degenerated"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "人浮于事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "more hands than needed; too many cooks spoil the broth"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "生生不已",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "endless life"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "在家出家",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Be a monk at home"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "有声无气",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Soundless"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "划一不二",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "fixed; unalterable"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-018-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "一清如水",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "as clear as water; (of officials etc) honest and incorruptible"
+          }
+        },
+        "category": "高透明度 V"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-018.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

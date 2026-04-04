@@ -1,0 +1,112 @@
+{
+  "chapter": {
+    "character_count": 476,
+    "id": "chapter-007",
+    "order": 7,
+    "reading_unit_count": 7,
+    "reading_units": [
+      {
+        "character_count": 71,
+        "id": "chapter-007-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "孫子曰：凡用兵之法，將受命於君，合軍聚眾，交和而舍，莫難於軍爭。軍爭之難者，以迂為直，以患為利。故迂其途，而誘之以利，後人發，先人至，此知迂直之計者也。故軍爭為利，軍爭為危。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So in war, the way is to avoid what is strong and to strike at what is weak. Water shapes its course according to the nature of the ground over which it flows; Therefore, just as water retains no constant shape, so in warfare there are no constant conditions. He who can modify his tactics in relation to his opponent and thereby succeed in winning, may be called a heaven-born captain. The five elements are not always equally predominant; the four seasons make way for each other in turn. There are short days and long; the moon has its periods of waning and waxing. Sun Tzu said: In war, the general receives his commands from the sovereign. Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp. After that, comes tactical manœuvring, than which there is nothing more difficult. The difficulty of tactical manœuvring consists in turning the devious into the direct, and misfortune into gain. Thus, to take a long and circuitous route, after enticing the enemy out of the way, and though starting after him, to contrive to reach the goal before him, shows knowledge of the artifice of deviation. Manœuvring with an army is advantageous; with an undisciplined multitude, most dangerous."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-007-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "舉軍而爭利，則不及；委軍而爭利，則輜重捐。是故卷甲而趨，日夜不處，倍道兼行，百里而爭利，則擒三將軍，勁者先，疲者後，其法十一而至；五十里而爭利，則蹶上將軍，其法半至；卅里而爭利，則三分之二至。是故軍無輜重則亡，無糧食則亡，無委積則亡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If you set a fully equipped army in march in order to snatch an advantage, the chances are that you will be too late."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-007-line-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "故不知諸侯之謀者，不能豫交；不知山林、險阻、沮澤之形者，不能行軍，不能鄉導者，不能得地利。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On the other hand, to detach a flying column for the purpose involves the sacrifice of its baggage and stores. Thus, if you order your men to roll up their buff-coats, and make forced marches without halting day or night, covering double the usual distance at a stretch, doing a hundred li in order to wrest an advantage, the leaders of all your three divisions will fall into the hands of the enemy. The stronger men will be in front, the jaded ones will fall behind, and on this plan only one-tenth of your army will reach its destination. If you march fifty li in order to outmanœuvre the enemy, you will lose the leader of your first division, and only half your force will reach the goal. If you march thirty li with the same object, two-thirds of your army will arrive. We may take it then that an army without its baggage-train is lost; without provisions it is lost; without bases of supply it is lost. We cannot enter into alliances until we are acquainted with the designs of our neighbours. We are not fit to lead an army on the march unless we are familiar with the face of the country — its mountains and forests, its pitfalls and precipices, its marshes and swamps. We shall be unable to turn natural advantage to account unless we make use of local guides."
+          }
+        }
+      },
+      {
+        "character_count": 66,
+        "id": "chapter-007-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "故 兵以詐立 ， 以利動 ，以 分合 為 變 者 也 。故 其 疾 如 風 ， 其 徐 如 林 ，侵掠如火 ， 不動如山 ，難 知 如 陰 ， 動如雷震 。掠 鄉 分 衆 ， 廓 地 分利 ，懸 權 而 動 。先知 迂直之計 者 勝 ， 此 軍 爭 之 法 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In war, practice dissimulation, and you will succeed. Move only if there is a real advantage to be gained. Whether to concentrate or to divide your troops, must be decided by circumstances. Let your rapidity be that of the wind, your compactness that of the forest. In raiding and plundering be like fire, in immovability like a mountain. Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt. When you plunder a countryside, let the spoil be divided amongst your men; when you capture new territory, cut it up into allotments for the benefit of the soldiery. Ponder and deliberate He will conquer who has learnt the artifice of deviation. Such is the art of manœuvring."
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-007-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "軍政曰：「言不相聞，故為金鼓；視不相見，故為旌旗。」夫金鼓旌旗者，所以一人之耳目也；人既專一，則勇者不得獨進，怯者不得獨退，此用眾之法也。故夜戰多火鼓，晝戰多旌旗，所以變人之耳目也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Book of Army Management says: the spoken word does not carry far enough: hence the institution of gongs and drums."
+          }
+        }
+      },
+      {
+        "character_count": 70,
+        "id": "chapter-007-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "故三軍可奪氣，將軍可奪心。是故朝氣銳，晝氣惰，暮氣歸；故善用兵者，避其銳氣，擊其惰歸，此治氣者也。以治待亂，以靜待譁，此治心者也。以近待遠，以佚待勞，以飽待飢，此治力者也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Nor can ordinary objects be seen clearly enough: hence the institution of banners and flags. Gongs and drums, banners and flags, are means whereby the ears and eyes of the host may be focused on one particular point. The host thus forming a single united body, is it impossible either for the brave to advance alone, or for the cowardly to retreat alone. This is the art of handling large masses of men. In night-fighting, then, make much use of signal-fires and drums, and in fighting by day, of flags and banners, as a means of influencing the ears and eyes of your army. A whole army may be robbed of its spirit; a commander-in-chief may be robbed of his presence of mind. Now a soldier's spirit is keenest in the morning; by noonday it has begun to flag; and in the evening, his mind is bent only on returning to camp. A clever general, therefore, avoids an army when its spirit is keen, but attacks it when it is sluggish and inclined to return. This is the art of studying moods. Disciplined and calm, to await the appearance of disorder and hubbub amongst the enemy: — this is the art of retaining self-possession. To be near the goal while the enemy is still far from it, to wait at ease while the enemy is toiling and struggling, to be well-fed while the enemy is famished: — this is the art of husbanding one's strength."
+          }
+        }
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-007-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "無邀正正之旗，勿擊堂堂之陣，此治變者也；故用兵之法，高陵勿向，背邱勿逆，佯北勿從，銳卒勿攻，餌兵勿食，歸師勿遏，圍師必闕，窮寇勿迫，此用兵之法也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To refrain from intercepting an enemy whose banners are in perfect order, to refrain from attacking an army drawn up in calm and confident array: — this is the art of studying circumstances."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "孫子曰：凡用兵之法，將受命於君，合軍聚眾，交和而舍，莫難於軍爭。軍爭之難者，以迂為直，以患為利。故迂其途，而誘之以利，後人發，先人至，此知迂直之計者也。故軍爭為利，軍爭為危。\n舉軍而爭利，則不及；委軍而爭利，則輜重捐。是故卷甲而趨，日夜不處，倍道兼行，百里而爭利，則擒三將軍，勁者先，疲者後，其法十一而至；五十里而爭利，則蹶上將軍，其法半至；卅里而爭利，則三分之二至。是故軍無輜重則亡，無糧食則亡，無委積則亡。故不知諸侯之謀者，不能豫交；不知山林、險阻、沮澤之形者，不能行軍，不能鄉導者，不能得地利。\n故兵以詐立，以利動，以分合為變者也，故其疾如風，其徐如林，侵掠如火，不動如山，難知如陰，動如雷霆。掠鄉分眾，廓地分利，懸權而動，先知迂直之計者勝，此軍爭之法也。\n軍政曰：「言不相聞，故為金鼓；視不相見，故為旌旗。」夫金鼓旌旗者，所以一人之耳目也；人既專一，則勇者不得獨進，怯者不得獨退，此用眾之法也。故夜戰多火鼓，晝戰多旌旗，所以變人之耳目也。\n故三軍可奪氣，將軍可奪心。是故朝氣銳，晝氣惰，暮氣歸；故善用兵者，避其銳氣，擊其惰歸，此治氣者也。以治待亂，以靜待譁，此治心者也。以近待遠，以佚待勞，以飽待飢，此治力者也。\n無邀正正之旗，勿擊堂堂之陣，此治變者也；故用兵之法，高陵勿向，背邱勿逆，佯北勿從，銳卒勿攻，餌兵勿食，歸師勿遏，圍師必闕，窮寇勿迫，此用兵之法也。",
+    "title": "軍爭"
+  },
+  "chapter_path": "books/sunzi-bingfa/chapters/chapter-007.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "The Art of War",
+  "source_url": "https://ctext.org/art-of-war?if=en"
+}

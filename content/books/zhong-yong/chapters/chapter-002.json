@@ -1,0 +1,47 @@
+{
+  "chapter": {
+    "character_count": 36,
+    "id": "chapter-002",
+    "order": 2,
+    "reading_unit_count": 2,
+    "reading_units": [
+      {
+        "character_count": 12,
+        "id": "chapter-002-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "仲尼曰：「君子中庸，小人反中庸。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhong-ni said, \"The superior man embodies the course of the Mean; the mean man acts contrary to the course of the Mean."
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-002-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "君子之中庸也，君子而時中；小人之中庸也，小人而無忌憚也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The superior man's embodying the course of the Mean is because he is a superior man, and so always maintains the Mean. The mean man's acting contrary to the course of the Mean is because he is a mean man, and has no caution.\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "仲尼曰：「君子中庸，小人反中庸。\n君子之中庸也，君子而時中；小人之中庸也，小人而無忌憚也。」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-002.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

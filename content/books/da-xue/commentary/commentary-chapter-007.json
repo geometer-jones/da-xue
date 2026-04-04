@@ -1,0 +1,70 @@
+{
+  "commentary": {
+    "character_count": 72,
+    "id": "commentary-chapter-007",
+    "order": 7,
+    "reading_unit_count": 3,
+    "reading_units": [
+      {
+        "character_count": 46,
+        "id": "commentary-chapter-007-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "所謂脩身在正其心者，身有所忿懥，則不得其正；有所恐懼，則不得其正；有所好樂，則不得其正；有所憂患，則不得其正。"
+      },
+      {
+        "character_count": 18,
+        "id": "commentary-chapter-007-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "心不在焉，視而不見，聽而不聞，食而不知其味。"
+      },
+      {
+        "character_count": 8,
+        "id": "commentary-chapter-007-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "此謂脩身在正其心。"
+      }
+    ],
+    "summary": "釋正心脩身",
+    "supplemental_text": "程子曰：「身有之身當作心。」忿，弗粉反。懥，敕值反。好、樂，並去聲。忿懥，怒也。蓋是四者，皆心之用，而人所不能無者。然一有之而不能察，則欲動情勝，而其用之所行，或不能不失其正矣。心有不存，則無以檢其身，是以君子必察乎此而敬以直之，然後此心常存而身無不脩也。\n右傳之七章。釋正心脩身。此亦承上章以起下章。蓋意誠則真無惡而實有善矣，所以能存是心以檢其身。然或但知誠意，而不能密察此心之存否，則又無以直內而脩身也。自此以下，並以舊文為正。",
+    "supplemental_unit_count": 3,
+    "supplemental_units": [
+      {
+        "character_count": 69,
+        "id": "commentary-chapter-007-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "程子曰：「身有之身當作心。」忿，弗粉反。懥，敕值反。好、樂，並去聲。忿懥，怒也。蓋是四者，皆心之用，而人所不能無者。然一有之而不能察，則欲動情勝，而其用之所行，或不能不失其正矣。"
+      },
+      {
+        "character_count": 35,
+        "id": "commentary-chapter-007-supp-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "心有不存，則無以檢其身，是以君子必察乎此而敬以直之，然後此心常存而身無不脩也。"
+      },
+      {
+        "character_count": 77,
+        "id": "commentary-chapter-007-supp-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "右傳之七章。釋正心脩身。此亦承上章以起下章。蓋意誠則真無惡而實有善矣，所以能存是心以檢其身。然或但知誠意，而不能密察此心之存否，則又無以直內而脩身也。自此以下，並以舊文為正。"
+      }
+    ],
+    "text": "所謂脩身在正其心者，身有所忿懥，則不得其正；有所恐懼，則不得其正；有所好樂，則不得其正；有所憂患，則不得其正。\n心不在焉，視而不見，聽而不聞，食而不知其味。\n此謂脩身在正其心。",
+    "title": "右傳之七章"
+  },
+  "commentary_path": "books/da-xue/commentary/commentary-chapter-007.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

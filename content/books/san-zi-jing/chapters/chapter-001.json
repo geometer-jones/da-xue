@@ -1,0 +1,1139 @@
+{
+  "chapter": {
+    "character_count": 1069,
+    "id": "chapter-001",
+    "order": 1,
+    "reading_unit_count": 86,
+    "reading_units": [
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "人之初，性本善。性相近，習相遠。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Men at their birth are naturally good. Their natures are much the same; their habits become widely different."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "苟不教，性乃遷。教之道，貴以專。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If foolishly there is no teaching, the nature will deteriorate. The right way in teaching is to attach the utmost importance to thoroughness."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "昔孟母，擇鄰處。子不學，斷機杼。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Of old, the mother of Mencius chose a neighbourhood; and when her child would not learn, she broke the shuttle from the loom."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "竇燕山，有義方。教五子，名俱揚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tou of the Swallow Hills had the right method. He taught five sons, each of whom raised the family reputation."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "養不教，父之過。教不嚴，師之惰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To feed without teaching is the father's fault. To teach without severity is the teacher's laziness."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "子不學，非所宜。幼不學，老何為。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If the child does not learn, this is not as it should be. If he does not learn while young, what will he be when old?"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "玉不琢，不成器。人不學，不知義。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If jade is not polished, it cannot become a thing of use. If a man does not learn, he cannot know his duty towards his neighbour."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "為人子，方少時。親師友，習禮儀。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He who is the son of a man, when he is young should attach himself to his teachers and friends. and practise ceremonial usages."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "香九齡，能温席。孝於親，所當執。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsiang, at nine years of age,"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "融四歲，能讓梨。弟於長，宜先知。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Jung, at four years of age, could yield the (bigger) pears. To behave as a younger brother towards elders, is one of the first things to know."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "首孝弟，次見聞。知某數，識某文。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Begin with filial piety and fraternal love, and then see and hear. Learn to count, and learn to read."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "一而十，十而百。百而千，千而萬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Units and tens, tens and hundreds, hundreds and thousands, thousands and tens of thousands."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "三才者，天地人。三光者，日月星。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Three Forces are Heaven, Earth, and Man. The Three Luminaries are the sun, the moon, and the stars."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "三綱者，君臣義。父子親，夫婦順。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Three Bonds are (1) the obligation between sovereign and subject, (2) the love between father and child, (3) the harmony between husband and wife."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "曰春夏，曰秋冬。此四時，運不窮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We speak of spring and summer, we speak of autumn and winter. These four seasons revolve without ceasing."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "曰南北，曰西東。此四方，應乎中。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We speak of north and south, we speak of east and west. These four points respond to the requirements of the centre."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "曰水火，木金土。此五行，本乎數。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We speak of water, fire, wood, metal, and earth. These five elements have their origin in number."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "曰仁義，禮智信。此五常，不容紊。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We speak of charity of heart and of duty towards one's neighbour, of propriety, of wisdom, and of truth. These five virtues admit of no compromise."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "稻粱菽，麥黍稷。此六穀，人所食。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Rice, spiked millet, pulse, wheat, glutinous millet, and common millet. These six grains are those which men eat."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "馬牛羊，鷄犬豕。此六畜，人所飼。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The horse, the ox, the sheep, the fowl, the dog, the pig. These six animals are those which men keep."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "曰喜怒，曰哀懼。愛惡欲，七情具。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We speak of joy, of anger, we speak of pity, of fear, of love, of hate, and of desire. These are the seven passions."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "匏土革，木石金。絲與竹，乃八音。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The gourd, earthenware, skin, wood, stone, metal, silk, and bamboo, yield the eight musical sounds."
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-001-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "高曾祖，父而身。身而子，子而孫。自子孫，至元曾。乃九族，人之倫。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Great great grandfather, great grandfather, grandfather, father and self, self and son, son and grandson, from son and grandson on to great grandson and great great grandson. These are the nine agnates, constituting the kinships of man."
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-001-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "父子恩，夫婦從。兄則友，弟則恭。長幼序，友與朋。君則敬，臣則忠。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Affection between father and child, harmony between husband and wife, friendliness on the part of elder brothers, respectfulness on the part of younger brothers, precedence between elders and youngers, as between friend and friend, respect on the part of the sovereign, loyalty on the part of the subject."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "凡訓蒙，須講究。詳訓詁，名句讀。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "These ten obligations are common to all men."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "為學者，必有初。小學終，至四書。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the education of the young, there should be explanation and elucidation, careful teaching of the interpretations of commentators, due attention to paragraphs and sentences."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "論語者，二十篇。群弟子，記善言。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Those who are learners must have a beginning."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "孟子者，七篇止。講道德，說仁義。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Little Learning finished, they proceed to the Four Books . There is the Lun Yü , in twenty sections. In this, the various disciples have recorded the wise sayings of Confucius. The works of Mencius are comprised in seven sections. These explain the WAY and the exemplification thereof, and expound charity and duty towards one's neighbour."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "作中庸，子思筆。中不偏，庸不易。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Chung Yung was written by the pen of Tzŭ-ssŭ; Chung (the middle) being that which does not lean towards any side, Yung (the course) being that which cannot be changed."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "作大學，乃曾子。自修齊，至平治。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He who wrote The Great Learning was the philosopher Tsêng. Beginning with cultivation of the individual and ordering of the family, it goes on to government of one's own State and tranquillisation of the Empire."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "孝經通，四書熟。如六經，始可讀。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the Classic of Filial Piety is mastered, and the Four Books are known by heart, the next step is to the Six Classics , which may now be studied."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "詩書易，禮春秋。號六經，當講求。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Books of Poetry , of History , and of Changes , the Rites of the Chou Dynasty , the Book of Rites , and the Spring and Autumn Annals , are called the Six Classics, which should be carefully explained and analysed."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "有連山，有歸藏。有周易，三易詳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is the Lien shan system, there is the Kuei tsang , and there is the system of Changes of the Chou dynasty; such are the three systems which elucidate the Changes."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "有典謨，有訓誥。有誓命，書之奧。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There are the Regulations, the Counsels, the Instructions, the Announcements, the Oaths, the Charges; these are the profundities of the Book of History."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "我周公，作周禮。著六官，存治體。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Our Duke of Chou drew up the Ritual of the Chou dynasty, in which he set forth the duties of the six classes of officials, and thus gave a settled form to the government."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "大小戴，註禮記。述聖言，禮樂備。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Elder and the Younger Tai wrote commentaries on the Book of Rites. They published the holy words, and Ceremonies and Music were set in order."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "曰國風，曰雅頌。號四詩，當諷詠。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We speak of the Kuo fêng , we speak of the Ya and of the Sung . These are the four sections of the Book of Poetry, which should be hummed over and over."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "詩既亡，春秋作。寓褒貶，別善惡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When odes ceased to be made, the Spring and Autumn Annals were produced. These Annals contain praise and blame, and distinguish the good from the bad."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "三傳者，有公羊。有左氏，有彀梁。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The three commentaries upon the above include that of Kung-yang, that of Tso, and that of Ku-liang."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "經既明，方讀子。撮其要，記其事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the Classics are understood, then the writings of the various philosophers should be read."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "五子者，有荀楊。文中子，及老莊。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Pick out the important points in each, and take a note of all facts."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "經子通，讀諸史。考世系，知終始。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The five chief philosophers are Hsün, Yang, Wên Chung Tzŭ, Lao Tzŭ, and Chuang Tzŭ When the Classics and the Philosophers are mastered, the various histories should be read, and the genealogical connections should be examined, so that the end of one dynasty and the beginning of the next may be known."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "自羲農，至黃帝。號三皇，居上世。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "From Fu Hsi and Shên Nung on to the Yellow Emperor,— these are called the Three Rulers, who lived in the early ages."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "唐有虞，號二帝。相揖遜，稱盛世。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "T'ang and Yu-yü are called the Two Emperors. They abdicated, one after the other, and theirs was called the Golden Age."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 45,
+        "text": "夏有禹，商有湯。周文王，稱三王。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Hsia dynasty had Yü; the Shang dynasty had T'ang; the Chou dynasty had Wen and Wu;— these are called the Three Kings."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 46,
+        "text": "夏傳子，家天下。四百載，遷夏社。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Under the Hsia dynasty the throne was transmitted from father to son, making a family possession of the empire."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 47,
+        "text": "湯伐夏，國號商。六百載，至紂亡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After four hundred years, the Imperial sacrifice passed from the House of Hsia."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 48,
+        "text": "周武王，始誅紂。八百載，最長久。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "T'ang the Completer destroyed the Hsia dynasty and the dynastic title became Shang. The line lasted for six hundred years, ending with Chou Hsin. King Wu of the Chou dynasty finally slew Chou Hsin. His own line lasted for eight hundred years,— the longest dynasty of all."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 49,
+        "text": "周轍東，王綱墮。逞干戈，尚游說。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the Chous made tracks eastwards, the feudal bond was slackened; the arbitrament of spears and shields prevailed; and peripatetic politicians were held in high esteem."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 50,
+        "text": "始春秋，終戰國。五霸強，七雄出。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This period began with the Spring, and Autumn epoch, and ended with that of the Warring States."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 51,
+        "text": "嬴秦氏，始兼並。傳二世，楚漢爭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Next, the Five Chieftains domineered, and the Seven Martial States came to the front."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 52,
+        "text": "高祖興，漢業建。至孝平，王莽篡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then the House of Ch'in, descended from the Ying clan, finally united all the States under one sway. The throne was transmitted to Erh Shih, upon which followed the struggle between the Ch'u and the Han States. Then Kao Tsu arose, and the House of Han was established. When we come to the reign of Hsiao P'ing, Wang Mang usurped the throne."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 53,
+        "text": "光武興，為東漢。四百年，終於獻。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Kuang Wu arose, and founded the Eastern Han dynasty. It lasted four hundred years, and ended with the Emperor Hsien."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 54,
+        "text": "魏蜀吳，爭漢鼎。號三國，迄兩晉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wei, Shu, and Wu, fought for the sovereignty of the Hans. They were called the Three Kingdoms, and existed until the Two Chin dynasties."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 55,
+        "text": "宋齊繼，梁陳承。為南朝，都金陵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then followed the Sung and the Ch'i dynasties, and after them the Liang and Ch'ên dynasties. These are the southern dynasties, with their capital at Nanking."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 56,
+        "text": "北元魏，分東西。宇文周，興高齊。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The northern dynasties are the Wei dynasty of the Yüan family which split into Eastern and Western Wei, the Chou dynasty of the Yü-wên family, with the Ch'i dynasty of the Kao family."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 57,
+        "text": "迨至隋，一土宇。不再傳，失統緒。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At length, under the Sui dynasty, the empire was united under one ruler."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 58,
+        "text": "唐高祖，起義師。除隋亂，創國基。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The throne was not transmitted twice, succession to power being lost."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 59,
+        "text": "二十傳，三百載。梁滅之，國乃改。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The first Emperor of the T'ang dynasty raised volunteer troops. He put an end to the disorder of the House of Sui, and established the foundations of his line. Twenty times the throne was transmitted in a period of three hundred years. The Liang State destroyed it, and the dynastic title was changed."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 60,
+        "text": "梁唐晉，及漢周。稱五代，皆有由。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Liang, the T'ang, the Chin, the Han, and the Chou, are called the Five Dynasties, and there was a reason for the establishment of each."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 61,
+        "text": "炎宋興，受周禪。十八傳，南北混。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then the fire-led House of Sung arose, and received the resignation of the House of Chou. Eighteen times the throne was transmitted, and then the north and the south were reunited."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 62,
+        "text": "十七史，全在茲。載治亂，知興衰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Seventeen Dynastic Histories are all embraced in the above."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 63,
+        "text": "讀史書，考實錄。通古今，若親目。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They contain examples of good and bad government, whence may be learnt the principles of prosperity and decay."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 64,
+        "text": "口而誦，心而惟。朝於斯，夕於斯。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ye who read history must study the State Annals, whereby you will understand ancient and modern events, as though having seen them with your own eyes. Recite them with the mouth, and ponder over them in your hearts. Do this in the morning; do this in the evening."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 65,
+        "text": "昔仲尼，師項橐。古聖賢，尚勤學。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Of old, Confucius took Hsiang T'o for his teacher."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-066",
+        "order": 66,
+        "source_block_chunk": 1,
+        "source_block_order": 66,
+        "text": "趙中令，讀魯論。彼既仕，學且勤。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The inspired men and sages of old studied diligently nevertheless."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-067",
+        "order": 67,
+        "source_block_chunk": 1,
+        "source_block_order": 67,
+        "text": "披蒲編，削竹簡。彼無書，且知勉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chao, President of the Council, studied the Lu text of the Lun Yü He, when already an official, studied, and moreover with diligence."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-068",
+        "order": 68,
+        "source_block_chunk": 1,
+        "source_block_order": 68,
+        "text": "頭懸梁，錐刺股。彼不教，自勤苦。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One opened out rushes and plaited them together; another scraped tablets of bamboo. These men had no books, they knew how to make an effort. One tied his head to the beam above him; another pricked his thigh with an awl. They were not taught, but toiled hard of their own accord."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-069",
+        "order": 69,
+        "source_block_chunk": 1,
+        "source_block_order": 69,
+        "text": "如囊螢，如映雪。家雖貧，學不綴。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then we have one who put fireflies in a bag, and again another who used the white glare from snow."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-070",
+        "order": 70,
+        "source_block_chunk": 1,
+        "source_block_order": 70,
+        "text": "如負薪，如掛角。身雖勞，猶苦卓。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Although their families were poor, these men studied unceasingly."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-071",
+        "order": 71,
+        "source_block_chunk": 1,
+        "source_block_order": 71,
+        "text": "蘇老泉，二十七。始發憤，讀書籍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Again, there was one who carried fuel, and anotner who used horns as pegs."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-072",
+        "order": 72,
+        "source_block_chunk": 1,
+        "source_block_order": 72,
+        "text": "彼既老，猶悔遲。爾小生，宜早思。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Although they toiled with their bodies, they were nevertheless remarkable for their application. Su Lao-ch'üan, at the age of twenty-seven, at length began to show his energy and devote himself to the study of books. Then, when already past the age, he deeply regretted his delay. You little boys should take thought betimes."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-073",
+        "order": 73,
+        "source_block_chunk": 1,
+        "source_block_order": 73,
+        "text": "若梁灝，八十二。對大廷，魁多士。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then there was Liang Hao, who at the age of eighty-two, made his replies in the great hall, and came out first among many scholars."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-074",
+        "order": 74,
+        "source_block_chunk": 1,
+        "source_block_order": 74,
+        "text": "彼既成，衆稱異。爾小生，宜立誌。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "thus late he had succeeded, all men pronounced him a prodigy."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-075",
+        "order": 75,
+        "source_block_chunk": 1,
+        "source_block_order": 75,
+        "text": "瑩八歲，能詠詩。泌七歲，能賦碁。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "You little boys should make up your minds to work."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-076",
+        "order": 76,
+        "source_block_chunk": 1,
+        "source_block_order": 76,
+        "text": "彼穎悟，人稱奇。爾幼學，當效之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Jung, at eight years of age, could compose poetry."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-077",
+        "order": 77,
+        "source_block_chunk": 1,
+        "source_block_order": 77,
+        "text": "蔡文姬，能辨琴。謝道韞，能詠吟。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Pi, at seven years of age, could make an epigram on wei-ch'i . These youths were quick of apprehension, and people declared them to be prodigies. You young learners ought to imitate them. Ts'ai Wên-chi was able to judge from the sound of a lute. Hsieh Tao-yün was able to compose verses."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-078",
+        "order": 78,
+        "source_block_chunk": 1,
+        "source_block_order": 78,
+        "text": "彼女子，且聰敏。爾男子，當自警。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They were only girls, yet they were quick and clever. You boys ought to rouse yourselves."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-079",
+        "order": 79,
+        "source_block_chunk": 1,
+        "source_block_order": 79,
+        "text": "唐劉晏，方七歲。舉神童，作正字。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Yen of the T'ang dynasty, when only seven years of age, was ranked as an \"inspired child\" and was appointed a Corrector of Texts."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-001-line-080",
+        "order": 80,
+        "source_block_chunk": 1,
+        "source_block_order": 80,
+        "text": "彼雖幼，身己仕。爾幼學，勉而緻。有為者，亦若是。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He, although a child, was already in an official post."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-081",
+        "order": 81,
+        "source_block_chunk": 1,
+        "source_block_order": 81,
+        "text": "犬守夜，雞司晨。苟不學，曷為人。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "You young learners strive to bring about a like result."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-082",
+        "order": 82,
+        "source_block_chunk": 1,
+        "source_block_order": 82,
+        "text": "蠶吐絲，蜂釀蜜。人不學，不如物。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Those who work will also succeed as he did. The dog keeps guard by night; the cock proclaims the dawn. If foolishly you do not study, how can you become men? The silkworm produces silk, the bee makes honey. If a man does not learn, he is not equal to the brutes."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-083",
+        "order": 83,
+        "source_block_chunk": 1,
+        "source_block_order": 83,
+        "text": "幼而學，壯而行。上緻君，下澤民。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Learn while young, and when grown up apply what you have learnt; influencing the sovereign above; benefiting the people below."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-084",
+        "order": 84,
+        "source_block_chunk": 1,
+        "source_block_order": 84,
+        "text": "揚名聲，顯父母。光於前，裕於後。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Make a name for yourselves, and glorify your father and mother, shed lustre on your ancestors, enrich your posterity."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-085",
+        "order": 85,
+        "source_block_chunk": 1,
+        "source_block_order": 85,
+        "text": "人遺子，金滿嬴。我教子，惟一經。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Men bequeath to their children coffers of gold; I teach you children only this one book."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-001-line-086",
+        "order": 86,
+        "source_block_chunk": 1,
+        "source_block_order": 86,
+        "text": "勤有功，戲無益。戒之哉，宜勉力。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Diligence has its reward; play has no advantages. Oh, be on your guard, and put forth your strength."
+          }
+        }
+      }
+    ],
+    "summary": "人之初，性本善",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "人之初，性本善。性相近，習相遠。\n苟不教，性乃遷。教之道，貴以專。\n昔孟母，擇鄰處。子不學，斷機杼。\n竇燕山，有義方。教五子，名俱揚。\n養不教，父之過。教不嚴，師之惰。\n子不學，非所宜。幼不學，老何為。\n玉不琢，不成器。人不學，不知義。\n為人子，方少時。親師友，習禮儀。\n香九齡，能溫席。孝於親，所當執。\n融四歲，能讓梨。弟於長，宜先知。\n首孝弟，次見聞。知某數，識某文。\n一而十，十而百。百而千，千而萬。\n三才者，天地人。三光者，日月星。\n三綱者，君臣義。父子親，夫婦順。\n曰春夏，曰秋冬。此四時，運不窮。\n曰南北，曰西東。此四方，應乎中。\n曰水火，木金土。此五行，本乎數。\n曰仁義，禮智信。此五常，不容紊。\n稻粱菽，麥黍稷。此六穀，人所食。\n馬牛羊，雞犬豕。此六畜，人所飼。\n曰喜怒，曰哀懼。愛惡欲，七情具。\n匏土革，木石金。與絲竹，乃八音。\n高曾祖，父而身。身而子，子而孫。自子孫，至玄1曾。乃九族，人之倫。\n父子恩，夫婦從。兄則友，弟則恭。長幼序，友與朋。君則敬，臣則忠。此十義，人所同。\n凡訓蒙，須講究。詳訓詁，名句讀。\n為學者，必有初。小學終，至四書。\n論語者，二十篇。群弟子，記善言。\n孟子者，七篇止。講道德，說仁義。\n作中庸，子思筆。中不偏，庸不易。\n作大學，乃曾子。自修齊，至平治。\n孝經通，四書熟。如六經，始可讀。\n詩書易，禮春秋。號六經，當講求。\n有連山，有歸藏。有周易，三易詳。\n有典謨，有訓誥。有誓命，書之奧。\n我周公，作周禮。著六官，存治體。\n大小戴，註禮記。述聖言，禮樂備。\n曰國風，曰雅頌。號四詩，當諷詠。\n詩既亡，春秋作。寓褒貶，別善惡。\n三傳者，有公羊。有左氏，有彀梁。\n經既明，方讀子。撮其要，記其事。\n五子者，有荀楊。文中子，及老莊。\n經子通，讀諸史。考世系，知終始。\n自羲農，至黃帝。號三皇，居上世。\n唐有虞，號二帝。相揖遜，稱盛世。\n夏有禹，商有湯。周文王，稱三王。\n夏傳子，家天下。四百載，遷夏社。\n湯伐夏，國號商。六百載，至紂亡。\n周武王，始誅紂。八百載，最長久。\n周轍東，王綱墮。逞干戈，尚游說。\n始春秋，終戰國。五霸強，七雄出。\n嬴秦氏，始兼並。傳二世，楚漢爭。\n高祖興，漢業建。至孝平，王莽篡。\n光武興，為東漢。四百年，終於獻。\n魏蜀吳，爭漢鼎。號三國，迄兩晉。\n宋齊繼，梁陳承。為南朝，都金陵。\n北元魏，分東西。宇文周，興高齊。\n迨至隋，一土宇。不再傳，失統緒。\n唐高祖，起義師。除隋亂，創國基。\n二十傳，三百載。梁滅之，國乃改。\n梁唐晉，及漢周。稱五代，皆有由。\n炎宋興，受周禪。十八傳，南北混。\n十七史，全在茲。載治亂，知興衰。\n讀史書，考實錄。通古今，若親目。\n口而誦，心而惟。朝於斯，夕於斯。\n昔仲尼，師項橐。古聖賢，尚勤學。\n趙中令，讀魯論。彼既仕，學且勤。\n披蒲編，削竹簡。彼無書，且知勉。\n頭懸梁，錐刺股。彼不教，自勤苦。\n如囊螢，如映雪。家雖貧，學不綴。\n如負薪，如掛角。身雖勞，猶苦卓。\n蘇老泉，二十七。始發憤，讀書籍。\n彼既老，猶悔遲。爾小生，宜早思。\n若梁灝，八十二。對大廷，魁多士。\n彼既成，衆稱異。爾小生，宜立誌。\n瑩八歲，能詠詩。泌七歲，能賦碁。\n彼穎悟，人稱奇。爾幼學，當效之。\n蔡文姬，能辨琴。謝道韞，能詠吟。\n彼女子，且聰敏。爾男子，當自警。\n唐劉晏，方七歲。舉神童，作正字。\n彼雖幼，身己仕。爾幼學，勉而緻。有為者，亦若是。\n犬守夜，雞司晨。苟不學，曷為人。\n蠶吐絲，蜂釀蜜。人不學，不如物。\n幼而學，壯而行。上緻君，下澤民。\n揚名聲，顯父母。光於前，裕於後。\n人遺子，金滿嬴。我教子，惟一經。\n勤有功，戲無益。戒之哉，宜勉力。",
+    "title": "全篇"
+  },
+  "chapter_path": "books/san-zi-jing/chapters/chapter-001.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Three Character Classic",
+  "source_url": "https://ctext.org/three-character-classic?if=en"
+}

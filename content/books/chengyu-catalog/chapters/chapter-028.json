@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-028",
+    "order": 28,
+    "summary": "后手不接",
+    "text": "后手不接\n破家为国\n学无常师\n同日而道\n弹指之间\n万里无云\n齐心同力\n政令不一\n不管不顾\n说一不二\n生生不息\n岁不我与\n相去无几\n无家可奔\n东风人面\n牛之一毛\n分文不直\n一臂之力\n安之若命\n不分玉石\n先天不足\n学非所用\n日月无光\n刑余之人\n不可思议\n不次之位\n泛泛之人\n一身两头\n一箭之地\n一枝一节",
+    "title": "811-840",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "后手不接",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No follow-up"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "破家为国",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Breaking the family into a country"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "学无常师",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Master of Learning Impermanence"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "同日而道",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "same day"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "弹指之间",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a snap of the fingers; in an instant; in a short moment; in a flash; in the twinkling of an eye"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "万里无云",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "cloudless"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "齐心同力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "work together"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "政令不一",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Different government orders"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "不管不顾",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to pay scant regard to (sth)"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "说一不二",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to say one and mean just that; to keep one's word"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "生生不息",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to grow and multiply without end"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "岁不我与",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Time and tide wait for no man"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "相去无几",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Almost the same"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "无家可奔",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "no home to go back to; homeless"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "东风人面",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dongfeng Noodles"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "牛之一毛",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A drop of the ox"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "分文不直",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Nothing is straight"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "一臂之力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a helping hand"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "安之若命",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Peace of mind"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "不分玉石",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Regardless of jade"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "先天不足",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to suffer from a congenital deficiency; to have an inherent weakness"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "学非所用",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Learning is useless"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "日月无光",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The sun and the moon have no light"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "刑余之人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The person who is still alive"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "不可思议",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "inconceivable; unimaginable; unfathomable"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "不次之位",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "inferior position"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "泛泛之人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "ordinary person"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "一身两头",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One body and two ends"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "一箭之地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a short distance"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-028-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "一枝一节",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One branch and one branch"
+          }
+        },
+        "category": "中透明度 I"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-028.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

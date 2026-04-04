@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 88,
+    "id": "chapter-023",
+    "order": 23,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 88,
+        "id": "chapter-023-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "希言自然，故飄風不終朝，驟雨不終日。孰為此者？天地。天地尚不能久，而況於人乎？故從事於道者，道者，同於道；德者，同於德；失者，同於失。同於道者，道亦樂得之；同於德者，德亦樂得之；同於失者，失亦樂得之。信不足，焉有不信焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Abstaining from speech marks him who is obeying the spontaneity of his nature. A violent wind does not last for a whole morning; a sudden rain does not last for the whole day. To whom is it that these (two) things are owing? To Heaven and Earth. If Heaven and Earth cannot make such (spasmodic) actings last long, how much less can man! Therefore when one is making the Tao his business, those who are also pursuing it, agree with him in it, and those who are making the manifestation of its course their object agree with him in that; while even those who are failing in both these things agree with him where they fail. Hence, those with whom he agrees as to the Tao have the happiness of attaining to it; those with whom he agrees as to its manifestation have the happiness of attaining to it; and those with whom he agrees in their failure have also the happiness of attaining (to the Tao). (But) when there is not faith sufficient (on his part), a want of faith (in him) ensues (on the part of the others)."
+          }
+        }
+      }
+    ],
+    "summary": "希言自然，故飄風不終朝，驟雨不終日",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "希言自然，故飄風不終朝，驟雨不終日。孰為此者？天地。天地尚不能久，而況於人乎？故從事於道者，道者，同於道；德者，同於德；失者，同於失。同於道者，道亦樂得之；同於德者，德亦樂得之；同於失者，失亦樂得之。信不足，焉有不信焉。",
+    "title": "第23章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-023.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

@@ -1,0 +1,918 @@
+{
+  "chapter": {
+    "character_count": 4512,
+    "id": "chapter-071",
+    "order": 71,
+    "reading_unit_count": 69,
+    "reading_units": [
+      {
+        "character_count": 79,
+        "id": "chapter-071-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說孔明分付黃忠：「你既要去，吾教法正助你。凡事計議而行。吾隨後撥人馬來接應。」黃忠應允，和法正領本部兵去了。孔明告玄德曰：「此老將不著言語激他，雖去不能成功。他今既去，須撥人馬前去接應。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The expedition set out. Then K‘ung-ming explained to Yüan-tê that he had purposely tried to spur on the old captain that he should really exert himself, else he feared he would not do much. After this, he ordered Chao Yün to march after the first army and help, if help was needed. So long as the old man was victorious, Chao Yün was to do nothing; if he was in difficulties then he was to be rescued. Three companies also were sent out among the hills to take position at strategical points and set up many banners and make a brave show in order to spread the impression of huge forces, and so frighten and perplex the enemy. In addition, he sent to Hsiapan to tell Ma Ch‘ao what part to play in the campaign; Yen Yen was to hold Langchung in place of Chang Fei."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-071-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "」乃喚趙雲將一枝人馬，從小路出奇兵接應：「黃忠若勝，不必出戰；倘忠有失，即去救應。」又遣劉封、孟達：「領三千兵於山中險要去處，多立旌旗，以壯我兵之聲勢，令敵人驚疑。」三人各自領兵去了。又差人往下辨，授計與馬超，令他如此而行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The refugees, Chang Ho and Hsiahou Shang, reached Hsiahou Yüan’s camp and told their doleful tale of the loss of T‘ientang Mountain and the death of their colleague and the threatened attack. The news was sent to Ts‘ao Hung, who bore it quickly to the capital. Ts‘ao Ts‘ao lost no time in calling a council. Then the Historian Liu Hua said, “The loss of Hanchung would shake the whole country. You, O Prince, must not shrink from toil and hardship, but must yourself go to lead the army.”"
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-071-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "又差嚴顏往巴西閬中守隘，替張飛、魏延來同取漢中。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“This state of things comes of my not heeding your words before, gentle Sir,” said Ts‘ao Ts‘ao, then repentant."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-071-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "卻說張郃與夏侯尚來見夏侯淵，說：「天蕩山已失，折了夏侯德、韓浩。今聞劉備親自領兵來取漢中，可速奏魏王，早發精兵猛將，前來策應。」夏侯淵便差人報知曹洪。洪星夜前到許昌，稟知曹操。操大驚，急聚文武商議發兵救漢中。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "However, he hastily prepared and issued an edict to raise an army of forty legions which he would lead. The army was ready in the seventh month, the early autumn, and marched in three divisions. The leading division was under Hsiahou Tun, Ts‘ao Ts‘ao commanded the centre and Ts‘ao Hsiu was the rear guard."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-071-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "長史劉曄進曰：「漢中若失，中原震動。大王休辭勞苦，必須親自征討。」操自悔曰：「恨當時不用卿言，以致如此！」忙傳令旨，起兵四十萬親征。時建安二十三年秋七月也。曹操兵分三路而進：前部先鋒夏侯惇，操自領中軍，使曹休押後。三軍陸續起行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao rode a white horse, beautifully caparisoned. His guards were clad in embroidered silk. They carried the huge red parasol woven of silk and gold threads. Beside him in two lines were the symbols of princely dignity, the golden ​ melons, silver axes, stirrups, clubs, spears and lances; bannerols embroidered with the sun and moon, dragon and phoenix, were borne aloft. His escort of twenty-five thousand stout warriors led by bold officers, marched in five columns of five thousand each, under banners of the five colours, blue, yellow, red, white and black. The five companies made a brave show as they marched, each column under its own flag with men in armour and horses in caparisons all of one colour and all glittering in the sun."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-071-line-006",
+        "order": 6,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "操騎白馬金鞍，玉帶錦衣。武士手執大紅羅銷金傘蓋。左右金瓜銀鉞，鐙棒戈矛。打日月龍鳳旌旗。護駕龍虎官軍二萬五千，分為五隊，每隊五千，按青黃赤白黑五色。旗旛甲馬，並依本色。光輝燦爛，極其雄壯。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As they debouched through Chang Pass, Ts‘ao Ts‘ao noticed in the distance a thick wood, very luxuriant, and asked those near him what it was called."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-071-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "兵出潼關，操在馬上，望見一簇林木，極其茂盛，問近侍曰：「此何處也﹖」答曰：「此名藍田。林木之間，乃蔡邕莊也。今邕女蔡琰，與其夫董祀居此。」原來操與蔡邕相善。先時其女蔡琰，乃衛道玠之妻；後被北方擄去，於北地生二子，作胡笳十八拍，流入中原。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“This place is Lant‘ien, the Indigo Fields,” they replied. “And in that wood is the estate of the late Ts‘ai Yung. His daughter, Ts‘ai Yen, and her present husband, Tung Chi, live there.”"
+          }
+        }
+      },
+      {
+        "character_count": 35,
+        "id": "chapter-071-line-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "操深憐之，使人持千金入北方贖之。左賢王懼操之勢，送蔡琰還漢。操乃以琰配董祀為妻。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now Ts‘ao Ts‘ao and Ts‘ai Yung had been excellent friends at one time. His daughter had been first married to Wei Taochieh. Then she was abducted and taken away to the north, where she had borne two sons. She had composed & ballad called, “Eighteen Stanzas for the Mongol Flageolet,” which is well known. Ts‘ao Ts‘ao had been moved by pity for her sorrows and sent a messenger with a thousand tales to ransom her. The Prince of Tsohsien, overawed by Ts‘ao Ts‘ao’s strength, had restored her to Ts‘ai Yung."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-071-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "當日到莊前，因想起蔡邕之事，令軍馬先行，操引近侍百餘騎，到莊門下馬。時董祀出仕於外，止有蔡琰在家。琰聞操至，忙出迎接。操至堂，琰起居畢，侍立於側。操偶見壁間懸一碑文圖軸，起身觀之，問於蔡琰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ordering his escort to march on, Ts‘ao went up to the gate with only a few attendants, dismounted and enquired after the lady of the house. At this time Tung Chi was absent at his post and the lady was alone. As soon as she heard who her visitor was she hastened to welcome him and led him into the reception room. When he was seated and she had performed the proper salutations, she stood respectfully at his side. Glancing round the room, he saw a rubbing of a tablet hanging on the wall. So he got up to read it, and asked his hostess about it."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-071-line-010",
+        "order": 10,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "琰答曰：「此乃曹娥之碑也，昔和帝時，上虞有一巫者，名曹旴，能娑婆樂神；五月五日，醉舞舟中，墮江而死。其女年十四歲，遶江啼哭七晝夜，跳入波中；後五日，負父屍浮於江面；里人葬之江邊。上虞令度尚奏聞朝廷，表為孝女。度尚令邯鄲淳作文鐫碑以記其事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“It is a tablet of Ts‘ao Ê, or the fair lady Ts‘ao. In the time of the Emperor Ho (circ. I00 a d. ), in Shangyü there was a certain magician named Ts‘ao Hsü, who could dance and sing like the very Spirit of Music. On the fifth of the fifth month he was out in a boat, and being intoxicated, fell overboard and was drowned. He had a daughter then fourteen years of age. She was greatly distressed and sought the body of her father for seven days and nights, weeping all the while. Then she threw herself into the waves, and five days later she floated to the surface with her father’s body in her arms. The villagers buried them on the bank, and the magistrate reported the occurrence to the Emperor as a worthy instance of daughterly affection and remarkable piety. A later magistrate had the story inscribed by Hantan Shun ​ in memory of the event. At that time Hantan Shun was only thirteen, but the composition of the inscription was so perfect that neither jot nor tittle could be added, and yet he had written it currente calamo . The stone was set up beside the grave, and both inscription and story were the admiration of all the men of that day. My father went to see it. It was evening, but in the obscurity he felt out the inscription with his fingers. He got hold of a pencil and wrote eight large characters on the reverse of the stone and, later, some person recutting the stone engraved these eight words as well."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-071-line-011",
+        "order": 11,
+        "source_block_chunk": 3,
+        "source_block_order": 4,
+        "text": "時邯鄲淳年方十三歲，文不加點，一揮而就，立石墓側，時人奇之。妾父蔡邕聞而往觀，時日已暮，乃於暗中以手摸碑文而讀之，索筆大書八字於其背。後人鐫石，並未鐫此八字。」操讀八字云：「黃絹幼婦，外孫齏臼。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao then read the eight words; they formed an enigma. Literally they read, “yellow silk, young wife, a daughter’s child, pestle and mortar.” “Can you explain?” asked Ts‘ao Ts‘ao of his hostess. “No; although it is a writing of my father’s, thy handmaid cannot interpret it,” she replied. Turning to the strategists of his staff, Ts‘ao Ts‘ao said, “Can any one of you explain it?”"
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-071-line-012",
+        "order": 12,
+        "source_block_chunk": 4,
+        "source_block_order": 4,
+        "text": "」操問琰曰：「汝解此意否﹖」琰曰：「雖先人遺筆，妾實不解其意。」操回顧眾謀士曰：「汝等解否？」眾皆不能答。於內一人出曰：「某已解其意。」操視之，乃主簿楊修也。操曰：「卿且勿言，容吾思之。」遂辭了蔡琰，引眾出莊。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All but one made no reply. The man who said he had fathomed the meaning was a Recorder named Yang Hsiu. “Do not tell me yet; let me think it out,” said Ts‘ao Ts‘ao. Soon after they took leave of the lady, went out of the tarm and rode on. About three li from the farm the meaning suddenly dawned upon Ts‘ao Ts‘ao, and he laughingly turned to Yang Hsiu saying, “Now, you may try.”"
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-071-line-013",
+        "order": 13,
+        "source_block_chunk": 5,
+        "source_block_order": 4,
+        "text": "上馬行三里，忽省悟，笑謂修曰：「卿試言之。」修曰：「此隱語耳。黃縜乃顏色之絲也。色傍加絲，是『絕』字。幼婦者，少女也。女傍少字，是『妙』字。外孫乃女之子也。女傍子字，是『好』字。齏臼乃五辛之器也。受傍辛字，是『辭』字。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“This is the solution of the enigma,” said Yang. “Yellow silk” is silk threads of natural colour, and the character for \"silk” placed beside that for “colour” forms a word meaning \"finally, decidedly\"; the “young wife” is a “little female,” and the character for “female” with “little,” or “few,” placed beside it forms a word meaning “admirable, fine,”; the “daughter’s child” is “daughter” and “child,” which side by side make the word “good;” and a “pestle and mortar” suggest pounding together the five bitter herbs in a receptacle: the character for “receptacle” and “bitter” form a word meaning “to tell.” So the four words are “Decidedly fine and well told.”"
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-071-line-014",
+        "order": 14,
+        "source_block_chunk": 6,
+        "source_block_order": 4,
+        "text": "總而言之，是『絕妙好辭』四字。」操大驚曰：「正合孤意！」眾皆歎羡楊修才識之敏。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao was astonished at his cleverness, and said, “Just what I made it.” Those around greatly wondered at Yang’s ingenuity and knowledge."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-071-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "不一日，軍至南鄭。曹洪接著，備言張郃之事。操曰：「非郃之罪，勝負乃兵家常事耳。」洪曰：「目今劉備使黃忠攻打定軍山，夏侯淵知大王兵至，固守未曾出戰。」操曰：「若不出戰，是示懦也。」便差人持節到定軍山，教夏侯淵進兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In less than a day they reached Nanchün, where Ts‘ao Hung welcomed them. He told the tale of Chang Ho’s misfortunes. “To suffer defeat is no crime;” said Ts‘ao Ts‘ao, “that and victory are things that happen constantly in war.” “Liu Pei has sent Huang Chung to take Tingchün Mount,” said Ts‘ao Hung. “Hsiahou Yüan, hearing you were coming, O Prince, has been defending the position and not going out to give battle.”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-071-line-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "劉瞱諫曰：「淵性太剛，恐中奸計。」操乃手書與之。使命持節到淵營，淵接入。使者出書，淵拆視之。略曰：「凡為將者，當以剛柔相濟，不可徒恃其勇。若但任勇，則是一夫之敵耳。吾今屯大軍於南鄭，欲觀卿之『妙才』，勿辱二字可也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “But standing always on the defensive is showing weakness,” said Ts‘ao Ts‘ao. Thereupon he bade a man carry a chieh , simple authority to act, to the mountain commander and so order him to attack the enemy. “Hsiahou Yüan is very stern and inflexible, and he may be carried too far and fall victim to some vile ruse,” said Liu Hua."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-071-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "夏侯淵覽畢大喜，打發使命回訖，乃與張郃商議曰：「今魏王率大兵屯於南鄭，以討劉備。吾與汝久守此地，豈能建立功業？來日吾出戰，務要生擒黃忠。」張郃曰：「黃忠謀勇兼備，況有法正相助，不可輕敵。此間山路險峻，只宜堅守。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wherefore the prince wrote a letter to him to accompany the chieh . And when the messenger arrived and the letter was opened it read: “Every leader must exercise a combination of inflexibility and yielding. Boldness is not the only thing that counts; if he make it so, then is he a mere creature to fight. Now I am camped at Nanchün ready to watch the deeds of your admirable prowess and capacity, and all I have to say is, 'Do not disgrace your previous reputation.'” The letter pleased the commander mightily. Having sent away the bearer, he called in Chang Ho to consult."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-071-line-018",
+        "order": 18,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "」淵曰：「若他人建了功勞，吾與汝有何面目見魏王耶？汝只守山，吾去出戰。」遂下令曰：「誰敢出哨誘敵？」夏侯尚曰：「吾願往。」淵曰：「汝去出哨，與黃忠交戰，只宜輸，不宜贏。吾有妙計，如此如此。」尚受令，引三千軍離定軍山大寨前行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The prince has a great army at Nanchün ready to destroy Liu Pei. We have been on the defence here long enough, and it is time we rendered some solid service. To-morrow I am going out to battle, and hope to capture Huang Chung.” “Your opponent combines ready resource with boldness and prevision,” said Chang Ho. “Beside, he has Fa Chêng to aid him; and you must be cautious, for the country is very difficult and dangerous. You had better keep on the defensive.”"
+          }
+        }
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-071-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "卻說黃忠與法正屯兵於定軍山口，累次挑戰，夏侯淵堅守不出；欲要進攻，又恐山路危險，難以料敵，只得據守。是日，忽報山上曹兵下來搦戰。黃忠恰待引兵出迎，牙將陳式曰：「將軍休動，某願當之。」忠大喜，遂令陳式引軍一千出山口列陣。夏侯尚兵至，遂與交鋒。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“How shall we be able to look our prince in the face when other men render good service? However, you just keep the hill, and I will go out to battle.” Then an order was issued asking who would go out to reconnoitre and provoke a battle. His brother Hsiahou Shang volunteered. He was told that he was not to make a real stand, but merely to begin the fight. He was to lose and not win, for a grand ruse was ready for the enemy. He explained his plans, and Hsiahou Shang went away with a small column."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-071-line-020",
+        "order": 20,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "不數合，尚詐敗而走。式趕去，行到半路，被兩山上擂石砲石，打將下來，不能前進。正欲回時，背後夏侯淵引兵突出，陳式不能抵當，被夏侯淵生擒回寨。部卒多降。有敗軍逃得性命，回報黃忠，說陳式被擒。忠慌與法正商議。正曰：「淵為人輕躁，恃勇少謀；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now Huang Chung and his helper, Fa Chêng, were camped quite close to the Tingchün Mountain. They had endeavoured to entice Hsiahou Yüan out into the field to fight, but failed; to attack him as he stood in that country was very difficult. So thus far no advance had been made. But as soon as Ts‘ao’s men appeared and seemed to offer battle, Huang Chung was ready to march out to meet them at once. But a certain minor captain named Ch'ên Shih offered his services."
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-071-line-021",
+        "order": 21,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "可激勵士卒，拔寨前進，步步為營，誘淵來戰而擒之。此乃『反客為主』之法。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Do not trouble yourself to move, O General,” said Ch'ên Shih, “for I will go out to fight them.”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-071-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "忠用其謀，將應有之物，盡賞三軍，歡聲滿谷，願效死戰。黃忠即日拔寨而進，步步為營；每營住數日，又進。淵聞知。欲出戰。張郃曰：「此乃『反客為主』之計，不可出戰；戰則有失。」淵不從，令夏侯尚領數千兵出戰，直到黃忠寨前。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Huang Chung consented, and placed three companies under Ch'ên Shih, who went out of the valley and set his army in array. And when Hsiahou Shang came up and, as arranged, ​ merely fought a few bouts and ran away, Ch'ên Shih followed to take advantage of his success. But he was soon brought to a standstill by the rolling of logs and hurling of stones on the part of his opponents. As he turned to retire, Hsiahou Yüan brought out his men and attacked. Ch'ên Shih had no chance against them and was quickly made prisoner. Many of his men joined the enemy, but a few escaped to their own side and told Huang Chung of the misfortune."
+          }
+        }
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-071-line-023",
+        "order": 23,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "忠上馬提刀出迎，與夏侯尚交馬，只一合，生擒夏侯尚歸寨。餘皆敗走，回報夏侯淵。淵急使人到黃忠寨，言願將陳式來換夏侯尚。忠約定來日陣前相換。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Huang Chung at once asked advice from Fa Chêng, who said, “This Hsiahou Yüan is easily provoked to anger, and being angry he is bold without discretion. Your way now is to work up the enthusiasm of your men, then break camp and advance. Do this in a series of marches, and you will excite your enemy up to the point of giving battle, when you can capture him. They call this the 'Ruse of the Interchange of Host and Guest.'”"
+          }
+        }
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-071-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "次日，兩軍皆到山谷闊處，布成陣勢。黃忠、夏侯淵各立馬於本陣門旗之下。黃忠帶著夏侯尚，夏侯淵帶著陳式，各不與袍鎧，只穿蔽體薄衣。一聲鼓響，陳式、夏侯尚各望本陣奔回。夏侯尚比及到陣門時，被黃忠一箭，射中後心。尚帶箭而回。淵大怒，驟馬逕取黃忠。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Huang Chung collected all the things his men liked, and made them presents, till the sound of rejoicing filled the whole valley and the men were hot to fight. Then camp was broken, and the army marched forward a certain distance. Then they encamped. After some days' rest the manœuvre was repeated; and then again. When tidings of the advance reached Hsiahou Yüan, he proposed to go out and fight. “No, no,” said the prudent Chang Ho. “This is a wellknown ruse, and you should remain on the defensive. You will lose if you fight.”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-071-line-025",
+        "order": 25,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "忠正要激淵廝殺。兩將交馬，戰到二十餘合，曹營內忽然鳴金收兵。淵慌撥馬而回，被忠乘勢殺了一陣。淵回陣問押陣官：「為何鳴金？」答曰：「某見山凹中有蜀兵旗旛數處，恐是伏兵，故急招將軍回。」淵信其說，遂堅守不出。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsiahou was not the man to stomach this moderate advice, so he sent out Hsiahou Shang to give battle. As soon as this force reached the camp of Huang Chung, he mounted and rode out to fight. In the very first bout he captured Hsiahou Shang. Those who escaped told how their leader had been captured, and Hsiahou Yüan at once sent to offer an exchange of prisoners. This was agreed to, to be effected the following day in front of both armies."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-071-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "黃忠追到定軍山下，與法正商議。正以手指曰：「定軍山西，巍然有一座高山，四下皆是險道。此山足可下視定軍山之虛實。將軍若取得此山，定軍山只在掌中也。」忠仰見山頭稍平，山上有些少人馬。是夜二更，忠引軍士鳴金擊鼓，直殺上山頂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So next day both sides were arrayed in a spot where the valley widened, the two leaders on horseback beneath their respective standards. Beside each stood his prisoner. Neither was encumbered with robe or helmet, but each wore thin, simple dress. At the first beat of the drum each started to race over to his own side. Just as Hsiahou Shang reached the ranks of his own side, Huang Chung shot an arrow and wounded him in the back. The wounded man did not fall, but went on."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-071-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "此山有夏侯淵部將杜襲把守，止有數百餘人。當時見黃忠大隊擁上，只得棄山而走。忠得了山頂，正與定軍山相對。法正曰：「將軍可守在半山，某居山頂。待夏侯淵兵至，吾舉白旗為號，將軍卻按兵勿動；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Hsiahou Yüan, mad with rage, could contain himself no longer. He galloped straight at Huang Chung, which was exactly what the latter wanted to irritate him into doing. The fight that then ensued went on for a score of bouts, when suddenly the gongs clanged out from Hsiahou Yüan’s side and ​ he drew off, losing some men while doing so. When he reached his own side he asked why the gong had sounded."
+          }
+        }
+      },
+      {
+        "character_count": 33,
+        "id": "chapter-071-line-028",
+        "order": 28,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "待他倦怠無備，吾卻舉起紅旗，將軍便下山擊之：以逸待勞，必當取勝。」忠大喜，從其計。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Because we saw the banners of Shu through openings in the hills in several places and we feared an ambush.”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-071-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "卻說杜襲引軍逃回，見夏侯淵，說黃忠奪了對山。淵大怒曰；「黃忠占了對山，不容我不出戰。」張郃諫曰：「此乃法正之謀也。將軍不可出戰，只宜堅守。」淵曰：「占了吾對山，觀吾虛實，如何不出戰﹖」郃苦諫不聽。淵分軍圍住對山，大罵挑戰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The leader believed them, and did not return to the battlefield; he simply remained defensive. Before long, Huang Chung had got quite near to the Ts‘ao camp, and then he asked further advice from his colleague. Fa Chêng pointed over to the hills, and said, “There rises a steep hill on the west of Tingchün Mountain, difficult of access, but from its summit one has a complete view of the defences of the enemy. If you can take this hill, the mountain lies in the hollow of your hand.”"
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-071-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "法正在山上舉起白旗；任從夏侯淵百般辱罵，黃忠只不出戰。午時以後，法正見曹兵倦怠，銳氣已墮，多下馬坐息，乃將紅旗招展。鼓角齊鳴，喊聲大震。黃忠一馬當先，馳下山來，猶如天崩地塌之勢。夏侯淵措手不及，被黃忠趕到麾蓋之下，大喝一聲，猶如雷吼。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Huang looked up and saw the top of the hill was a small tableland and there were very few men there. So that evening he left his camp, dashed up the hill, drove out the small host there and took it. It was just opposite Tingchün Mount. Then said Fa Chêng, “Now take up position half way up the hill, while I go to the top. When the enemy appears I will show a white flag. But you will remain quiet till the enemy become tired and remiss, when I will hoist a red flag. That will be the signal for attack."
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-071-line-031",
+        "order": 31,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "淵未及相迎，黃忠寶刀已落，連頭帶肩，砍為兩段。後人有詩讚黃忠曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Huang cheerfully prepared to act on this plan. In the meantime Tu Hsi, who had been driven from the hill-top, had run back and reported the loss of the hill to Hsiahou Yüan."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-071-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "蒼頭臨大敵，皓首逞神威。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“With Huang Chung in occupation of that hill I simply must give battle,” said he."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-071-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "力趁雕弓發，風迎雪刃揮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang Ho strongly dissuaded him, saying the whole thing was but a ruse of Fa Chêng’s, but Hsiahou Yüan was obstinate."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-071-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "雄聲如虎吼，駿馬似龍飛。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“From the top of that hill the whole of our position is visible, our strength and our weakness; I must fight.”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-071-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "獻馘功勳重，開疆展帝畿。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In vain were the remonstrances repeated. Hsiahou Yüan set out his men to surround the hill and then began to vent his rage at his enemy so as to incite him to give battle."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-071-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "黃忠斬了夏侯淵，曹兵大潰，各自逃生。黃忠乘勢去奪定軍山，張郃領兵來迎。忠與陳式兩人夾攻，混殺一陣，張郃敗走。忽然山傍閃出一彪人馬，當住去路；為首一員大將，大叫：「常山趙子龍在此！」張郃大驚，引敗軍奪路，望定軍山而走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then the white flag was hoisted. However, Hsiahou Yüan was allowed to fume and rage in vain. He tried every form of insult, but no one appeared. In the afternoon the men became weary and dispirited. Plainly their eagerness had gone; and Fa Chêng unfurled the red flag. Then the drums rolled out, and the men shouted till the earth seemed to shake as the hoary old leader rode out and led his men down the slope with a roar as of an earthquake. Hsiahou Yüan was too surprised to defend himself. His chief enemy rushed straight to his standard and with a thundering shout raised his sword and cleft Hsiahou Yüan through between the head and shoulders so that he fell in two pieces. Hoary headed is he, but he goes up to battle; Gray haired, yet recklessly mighty; With his strong arms he bends the bow,"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-071-line-037",
+        "order": 37,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "只見前面一枝兵來迎，乃杜襲也。襲曰：「今定軍山已被劉封、孟達奪了。」郃大驚，遂與杜襲引敗兵到漢水紮營；一面令人飛報曹操。操聞淵死，放聲大哭，方悟管輅所言：「三八縱橫」，乃建安二十四年也；「黃豬遇虎」，乃歲在己亥正月也；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The arrows fly. With the swiftness of the wind he rides, The white sword gleams. The sound of his voice is as the roar of a tiger, His steed is fleet as a dragon in flight. Victory is his and its rich rewards, For he extends the domain of his lord. At the death of their captain, the soldiers fled for their lives, and Huang captured the mount. Chang Ho came out to oppose him, but, attacked at two points by Huang Chung and Ch'ên Shih, he could not stand. He lost the day and fled. However, before he had gone far, another cohort flashed out from the hills and barred his way. And the leader was Chao Yün. Confused and uncertain what to do, he led his men toward Tingchun Mount. But a body of soldiers came out to stop him and said that the mount was in the hands of the enemy. So he and Tu Hsi joined their forces and went to the Han Waters, where they camped."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-071-line-038",
+        "order": 38,
+        "source_block_chunk": 3,
+        "source_block_order": 16,
+        "text": "「定軍之南」，乃定軍山之南也；「傷折一股」，乃淵與操有兄弟之親情也。操令人尋管輅時，不知何處去了。操深恨黃忠，遂親統率大軍，來定軍山與夏侯淵報讎，令徐晃作先鋒。行到漢水，張郃、杜襲接著曹操。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thence they sent to tell Ts‘ao Ts‘ao of their defeat. At the news of the death of his favourite, he uttered a great cry and then he understood the prediction of the soothsayer, Kuan Lu, that the sortes showed opposition. It was the twenty-fourth year of the period, the yellow boar had met the tiger and the year of the cycle was the thirty-sixth. The expedition had suffered a loss indeed by the death of a general, and the death had taken place at the mount known as “Army Halt.” The affection between Ts‘ao Ts‘ao and his captain had been very close. Ts‘ao Ts‘ao sent to enquire the whereabouts of Kuan Lu, but no one knew."
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-071-line-039",
+        "order": 39,
+        "source_block_chunk": 4,
+        "source_block_order": 16,
+        "text": "二將曰：「今定軍山已失，可將米倉山糧草移於北山寨中屯積，然後進兵。」曹操依允。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao nourished feelings of resentment against the slayer of his friend, and he led his army out against Tingchün Mount to avenge his death. Hsü Huang led the van. When the army reached the Han Waters, Chang Ho and Tu Hsi joined them."
+          }
+        }
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-071-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "卻說黃忠斬了夏侯淵首級，來葭萌關上見玄德獻功。玄德大喜，加忠為征西大將軍，設宴慶賀。忽牙將張著來報說：「曹操自引大軍二十萬，來與夏侯淵報讎。目今張郃在米倉山搬運糧草，移於漢水北山腳下。」孔明曰：「今操引大兵至此，恐糧草不敷，故勒兵不進；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They said to Ts‘ao Ts‘ao, “This mount is lost. Before marching farther, the stores in Granary Hill should be moved north.” And Ts‘ao Ts‘ao agreed. Huang Chung cut off the head of Hsiahou Yüan and took it to Yüan-tê when he reported his victory. For his services he was rewarded with the title “Conqueror of the West,” and great banquets were given in his honour. While these were going on, his colleague, Ch'ên Shih, brought the news of Ts‘ao Ts‘ao’s army of twenty legions on the way to avenge his friend’s loss; and the supplies on Granary Hill were being moved north."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-071-line-041",
+        "order": 41,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "若得一人深入其境，燒其糧草，奪其輜重，則操之銳氣挫矣。」黃忠曰：「老夫願當此任。」孔明曰：「操非夏侯淵之比，不可輕敵。」玄德曰：「夏侯淵雖是總帥，乃一勇夫耳，安及張郃？若斬得張郃，勝斬夏侯淵十倍也。」忠奮然曰：「吾願往斬之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then said K‘ung-ming, “Ts‘ao Ts‘ao is certainly short of supplies. If we can burn what he has and destroy his baggage train he will have but little spirit left to fight.” “I am willing to undertake the task,” said Huang Chung. ​ “Remember Ts‘ao Ts‘ao is a different sort of man from your latest victim.” Yüan-tê said, “After all, Hsiahou Yüan was but a bold warrior. It would have been ten times better to have killed Chang Ho.” “I will go and kill him,” said the aged one, firing up. “Then go with Chao Yün,” said K‘ung-ming; “act in concert and see who can do best.”"
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-071-line-042",
+        "order": 42,
+        "source_block_chunk": 3,
+        "source_block_order": 17,
+        "text": "」孔明曰：「你可與趙子龍同領一枝兵去；凡事計議而行，看誰立功。」忠應允便行。孔明就令張著為副將同去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Huang Chung agreed to this condition, and Chang Cho was sent as second. Soon after the army had marched out, Chao Yün asked of his colleague what plan he had prepared against Ts‘ao Ts‘ao’s army of twenty legions in their ten camps, and how the stores of grain and forage were to be destroyed."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-071-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "雲謂忠曰：「今操引二十萬眾，分屯十營，將軍在主公前要去奪糧，非小可之事。將軍當用何策？」忠曰：「看我先去，如何？」雲曰：「等我先去。」忠曰：「我是主將，你是副將，如何爭先？」雲曰：「我與你都一般為主公出力，何必計較？我二人拈鬮，拈著的先去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am going to lead,” said Huang Chung. “No wait; I am going first,” said Chao Yün. “But I am the senior leader; you are only my second,” said Huang Chung. “No; you and I are equal in responsibility and both anxious to render good service. We are no rivals. We are no rivals. Let us cast lots for who is to lead the way.” They did so, and the aged one gained precedence. “Since you have won the right to make the first attempt, you must let me help you,” said Chao Yün. “Now let us decide upon a fixed time, and if you have returned by that time I shall not need to stir. But if at that time you have not come back then I shall come to reinforce you.”"
+          }
+        }
+      },
+      {
+        "character_count": 70,
+        "id": "chapter-071-line-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "」忠依允。當時黃忠拈著先去。雲曰：「既將軍先去，某當相助。可約定時刻。如將軍依時而還，某按兵不動；若將軍過時而不還，某即引軍來接應。」忠曰：「公言是也。」於是二人約定午時為期。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“That suits me admirably,” said Huang Chung. So they decided upon noon as the time; and Chao Yün went back to his own camp, where he called in his next in command and said, “My friend Huang is going to try to burn the stores to-morrow. If he has not returned at noon I am to go to aid him. You are to guard our camp, which is in a dangerous place by the river, but you are not to move out unless compelled.”"
+          }
+        }
+      },
+      {
+        "character_count": 58,
+        "id": "chapter-071-line-045",
+        "order": 45,
+        "source_block_chunk": 3,
+        "source_block_order": 18,
+        "text": "雲回本寨，謂部將張翼曰：「黃漢升約定明日去奪糧草，若午時不回，我當往助。吾營前臨漢水，地勢危險；我若去時，汝可謹守寨柵，不可輕動。」張翼應諾。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Huang Chung went back to his camp and said to his senior captain, Chang, “I have slain one leader and cowed another. I am going to destroy the enemy’s store of grain to-morrow, taking with me most of the men. You are to come and assist me. A meal for the men is to be ready about midnight to-night, and we shall move at the fourth watch. We shall march to the foot of their hill, capture Chang Ho and then start the fire.”"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-071-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "卻說黃忠回到寨中，謂副將張著曰：「我斬了夏侯淵，張郃喪膽；吾明日領命去劫糧草，只留五百軍守營。你可助吾。今夜三更，盡皆飽食；四更離營，殺到北山腳下，先捉張郃，後劫糧草。」張著依令。當夜黃忠領人馬在前，張著在後，偷過漢水，直到北山之下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All being ready, they set out—Huang Chung leading—and stole across the Han Waters to the foot of the hills. As the sun got up out of the east, they saw before them mountains of grain and only a few men on watch. These fled at first sight of the men of Shu. The horsemen dismounted and began to collect brushwood and pile it round the grain heaps. Just as they ​ were starting the fire, there appeared a cohort led by Chang Ho, who at once began a fight with Huang Chung. Then Ts‘ao Ts‘ao heard of the fight and sent Hsü Huang to help. He came up in the rear, and Huang Chung was surrounded. Chang Cho with a small company tried to get away to their camp, but they were intercepted by Wên P‘ing, and more men coming up by the rear he also was surrounded. Both were in difficulties."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-071-line-047",
+        "order": 47,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "東方日出，見糧積如山。有些少軍士看守，見蜀兵到，盡棄而走。黃忠教馬軍一齊下馬，取柴堆於米糧之上。正欲放火。張郃兵到，與忠混戰一處。曹操聞知，急令徐晃接應。晃領兵前進，將黃忠困在垓心。張著引三百軍走脫，正要回寨，忽一枝兵撞出，攔住去路；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Meanwhile, time passed and noon came with no news of Huang Chung. Wherefore Chao Yün girded on his armour, took three companies with him and went to his aid. Just as he was leaving he again warned Chang I to keep good watch. “Guard the camp most carefully; see that you have archers and crossbow men on both sides.” “Yes, yes,” said Chang. Chao Yün rode off, spear in hand, and went out to give battle where he could find the enemy. Soon he fell in with one of Wên P‘ing’s companies: these were easily disposed of. Then he came to the real press. A cohort barred his way, led by Chiao Ping of Wei."
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-071-line-048",
+        "order": 48,
+        "source_block_chunk": 3,
+        "source_block_order": 19,
+        "text": "為首大將，乃是文聘；後面曹兵又至，把張著圍住。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Where are the soldiers of Shu?” cried Chao Yün. “All killed,” cried Chiao Ping."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-071-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "卻說趙雲在營中，看看等到午時，不見忠回，急忙披挂上馬，引三千軍向前接應；臨行，謂張翼曰：「汝可堅守營寨。兩壁廂多設弓弩，以為準備。」翼連聲應諾。雲挺槍驟馬直殺往前去。迎頭一將攔住，乃文聘部將慕容烈也，拍馬舞刀來迎趙雲；被雲手起一槍刺死。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chao Yün angrily dashed forward and thrust Chiao Ping through so that he died. The cohort scattered, and Chao Yün went on to the foot of the north hills, where he found Huang Chung surrounded. With a yell he dashed at the encircling ring, thrusting this way and shoving that, so that every one shrank and recoiled before him. The mighty spear laid low his opponents as the whirlwind scatters the petals of the wild pear tree till they lie on the bosom of the earth like snowflakes. Panic seized Chang Ho and Hsü Huang, so that they dared not stand in his way, and thus Chao Yün fought his way through and rescued his fellow warrior. Then they fought their way out and none could withstand them."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-071-line-050",
+        "order": 50,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "曹兵敗走。雲直殺入重圍，又一枝兵截住；為首乃魏將焦柄。雲喝問曰：「蜀兵何在？」炳曰：「已殺盡矣！」雲大怒，驟馬一槍又刺死焦柄。殺散餘兵，直至北山之下，見張郃、徐晃兩人圍住黃忠，軍士被困多時。雲大喊一聲，挺槍驟馬，殺入重圍；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao had been watching the course of the fighting from a high place, and when he saw a doughty warrior forcing his way into the press and all going down before him he asked of his officers if they knew who the hero was. “That is Chao Yün of Ch‘angshan,” replied one who knew him. “So the hero of Tangyang is still alive,” said Ts‘ao Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-071-line-051",
+        "order": 51,
+        "source_block_chunk": 3,
+        "source_block_order": 20,
+        "text": "左衝右突，如入無人之境；那槍渾身上下，若舞梨花；遍體紛紛，如飄瑞雪。張郃、徐晃心驚膽戰，不敢迎戰。雲救出黃忠，且戰且走；所到之處，無人敢阻。操於高處望見，驚問眾將曰：「此何人也﹖」有識者告曰：「此乃常山趙子龍也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He gave general orders to his men not to attack Chao Yün without being sure of success, no matter where they met him. Having rescued his colleague and got clear of the battle, someone pointed out Chang Cho hemmed in on a hill not far off. Wherefore Chao Yün went to his relief before going back to his own camp. He had little need to fight, for Ts‘ao Ts‘ao’s soldiers no sooner saw the name emblazoned on the banners than they fled without more ado."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-071-line-052",
+        "order": 52,
+        "source_block_chunk": 4,
+        "source_block_order": 20,
+        "text": "」操曰：「昔日當陽長阪英雄尚在！」急傳命曰：「所到之處，不許輕敵。」趙雲救了黃忠，殺透重圍，有軍士指曰：「東南上圍的，必是副將張著。」雲不回本寨，遂望東南殺來。所到之處，但見「常山趙雲」四字旗號，曾在當陽長阪知其勇者，互相傳說，盡皆逃竄。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ But it filled Ts‘ao Ts‘ao with rage to see his men falling away before Chao Yün, who marched on as though no one would think of standing in his way, and he went in pursuit himself with his officers. Chao Yün reached his own camp, where he was welcomed by Chang I. But a cloud of dust was seen in the distance, and they knew Ts‘ao Ts‘ao was in that cloud and coming upon them."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-071-line-053",
+        "order": 53,
+        "source_block_chunk": 5,
+        "source_block_order": 20,
+        "text": "雲又救了張著。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Let us bar the gates while we make preparation,” said Chang I."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-071-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "曹操見雲東衝西突，所向無前，莫敢迎敵，救了黃忠，又救了張著，奮然大怒，自領左右將士來趕趙雲。雲已殺回本寨。部將張翼接著，望見後面塵起，知是曹兵追來。即謂雲曰：「追兵漸近，可令軍士閉上寨門，上敵樓防護。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Do not bar the gates,” said Chao Yün. “Have you never heard of my exploit at Tangyang, when I laughed at Ts‘ao’s many legions? Now that I have an army at my back and captains to help, what is there to fear?”"
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-071-line-055",
+        "order": 55,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "」雲喝曰：「休閉寨門，汝豈不知吾昔在當陽長阪時，單槍匹馬，覷曹兵八十三萬如草芥！今有軍有將，又何懼哉！」遂撥弓拏手於寨外壕中埋伏；將營內旗槍，盡皆倒偃；金鼓不鳴。雲匹馬單槍，立於營門之外。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then he placed the archers and the bowmen in a covered position outside, while he threw down all the weapons and flags within. And no drums beat. But he himself, alone, stood outside the gate of the camp."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-071-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "卻說張郃、徐晃領兵追至蜀寨，天色已暮；見寨中偃旗息鼓，又見趙雲匹馬單槍，立於營外，寨門大開，二將不敢前進。正疑之間，曹操親到，急催督眾軍向前。眾軍聽令，大喊一聲，殺奔營前；見趙雲全然不動，曹兵翻身就回。趙雲把槍一招，壕中弓拏齊發。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It was dusk when Chang Ho and Hsü Huang neared the camp of the men of Shu. They saw that the ensigns and weapons had been overthrown, and no drums beat at their approach. They also saw the one figure of the doughty warrior at the gate, and then they halted and dared advance no farther. While they hesitated, Ts‘ao Ts‘ao arrived and urged his army to march quicker. They answered with a shout and made a dash forward—but they saw the one figure at the gate, and every man stood still. And before long, man by man they turned about and went away. Then Chao Yün beckoned to his men to come out of the moat, and the archers and bowmen began to shoot. The men of Ts‘ao knew not in the dusk how many their enemies were, but terror seized upon them and they ran, each trying to be first. And as they ran the drums rolled and the men shouted and pursued, till the flight became a perfect rout and a confused mass of men reached the banks of the Han Waters. The press continuing, many were forced into the river and were drowned."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-071-line-057",
+        "order": 57,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "時天色昏黑，正不知蜀兵多少。操先撥馬回走。只聽得後面喊聲大震，鼓角齊鳴，蜀兵趕來。曹兵自相踐踏；擁到漢水河邊，落水死者，不知其數。趙雲、黃忠、張著各引兵一枝，追殺甚急。操正奔走間，忽劉封、孟達率二枝兵，從米倉山路殺來，放火燒糧草。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The three captains of Shu followed close on the heels of the routed army, and while Ts‘ao Ts‘ao was making off with all speed, two other captains of Shu came along and set fire to all the army stores of food and forage. Then Ts‘ao Ts‘ao abandoned the northern hill stores and set out hastily for Nanchün. Chang Ho and Hsü Huang could make no stand, and they also abandoned their camps, which Chao Yün at once occupied. Beside the stores of food, the victors collected countless weapons along the banks of the river."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-071-line-058",
+        "order": 58,
+        "source_block_chunk": 3,
+        "source_block_order": 22,
+        "text": "操棄了北山糧草，忙回南鄭。徐晃、張郃紮腳不住，亦棄本寨而走。趙雲占了曹寨，黃忠了糧草，漢水所得軍器無數，大獲勝捷，差人去報玄德。玄德遂同孔明前至漢水，問趙雲的部卒曰：「子龍如何廝殺？」軍士將子龍救黃忠拒漢水之事，細述一遍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They sent news of the victory to Liu Pei, who came with K‘ung-ming to the scene of the victory, and there they heard the full story of Chao Yün’s prowess. And Yüan-tê was glad, and when he had seen the steepness and difficulties of the surrounding hills and understood the fine deeds of valour that ​ had been done, he turned to K‘ung-ming and said, “Truly, the man is brave all through.” Behold Chao Yün, the warrior of Ch‘angshan, Whose whole body is valour; Formerly he fought at Ch‘angpan, And his courage to-day is no less. He rushes into the array to manifest his heroism; Surrounded by his enemies, He is dauntless and daring. Devils howl and spirits cry, The sky is afaid and earth trembles. Such is Chao Yün, the brave, Whose whole body is valour."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-071-line-059",
+        "order": 59,
+        "source_block_chunk": 4,
+        "source_block_order": 22,
+        "text": "玄德大喜，看了山前山後險峻之路，欣然謂孔明曰：「子龍一身都是膽也！」後人有詩讚曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "For his services Yüan-tê gave Chao Yün the title of “Tiger Terror.” And the men of his army were rewarded and there was banqueting to a late hour."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-071-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "昔日戰長阪，威風猶未減。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Soon it was reported that Ts‘ao Ts‘ao was coming again down through Hsieh Valley to try to capture the Han Waters. But Yüan-tê laughed, saying, “He will not succeed, for I think that we shall gain command of the river.”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-071-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "突陣顯英雄，被圍施勇敢。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then he led his army west of the river to oppose him. When Ts‘ao Ts‘ao drew near he sent out Hsü Huang to lead the van and open the battle. A certain Wang P‘ing, who said he knew the country, offered to go as well, and he was sent as second in command."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-071-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "鬼哭與神號，天驚並地慘。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao camped on the north of Tingchün Mount, and his advanced guard marched away making for the River Han. And when they reached the bank, Hsü Huang gave orders to cross to the other side."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-071-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "常山趙子龍，一身都是膽！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“To cross the river is well,” said his second, “but what if you have to retreat?”"
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-071-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "於是玄德號子龍為虎威將軍，大勞將士，歡宴至晚。忽報曹操復遣大軍從斜谷小路而進，來取漢水。玄德笑曰：「操此來無能為也。我料必得漢水矣。」乃率兵於漢水之西以迎之。曹操命徐晃為先鋒，前來決戰。帳前一人出曰：「某深知地理，願助徐將軍同去破蜀。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“When Han Hsin made his array with a river in his rear, he said that out of the place of death one could return to life.”"
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-071-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "操視之，乃巴西宕渠人也；姓王，名平，字子均；見充牙門將軍。操大喜，遂命王平為副先鋒，相助徐晃。操屯兵於定軍山北。徐晃、王平引軍至漢水，晃令前軍渡水列陣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You are mistaken now. The cases are not the same, for then Han Hsin knew his opponents were unskilful. Have you reckoned upon the skill of our opponents, Chao Yün and Huang Chung?”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-071-line-066",
+        "order": 66,
+        "source_block_chunk": 2,
+        "source_block_order": 28,
+        "text": "平曰：「軍若渡水，倘要急退，如之奈何﹖」晃曰：「昔韓信背水為陣，所謂『置之死地而後生』也。」平曰：「不然。昔者韓信料敵人無謀而用此計。今將軍能料趙雲、黃忠之意否？」晃曰：「汝可引步軍拒敵，看我引馬軍破之。」遂令搭起浮橋，隨即過河來戰蜀兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You may lead the footmen to hold the enemy while I destroy them with the horsemen,” said Hsü Huang."
+          }
+        }
+      },
+      {
+        "character_count": 2,
+        "id": "chapter-071-line-067",
+        "order": 67,
+        "source_block_chunk": 3,
+        "source_block_order": 28,
+        "text": "正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then bridges were built and the army crossed."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-071-line-068",
+        "order": 68,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "魏人妄意宗韓信，蜀相那知是子房？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Aman of Wei blindly quotes Han Hsin, In a minister of Shu who whould recognise another Chang Liang?"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-071-line-069",
+        "order": 69,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "未知勝負如何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Who won the victory will next be revealed."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說孔明分付黃忠：「你既要去，吾教法正助你。凡事計議而行。吾隨後撥人馬來接應。」黃忠應允，和法正領本部兵去了。孔明告玄德曰：「此老將不著言語激他，雖去不能成功。他今既去，須撥人馬前去接應。」乃喚趙雲將一枝人馬，從小路出奇兵接應：「黃忠若勝，不必出戰；倘忠有失，即去救應。」又遣劉封、孟達：「領三千兵於山中險要去處，多立旌旗，以壯我兵之聲勢，令敵人驚疑。」三人各自領兵去了。又差人往下辨，授計與馬超，令他如此而行。又差嚴顏往巴西閬中守隘，替張飛、魏延來同取漢中。\n卻說張郃與夏侯尚來見夏侯淵，說：「天蕩山已失，折了夏侯德、韓浩。今聞劉備親自領兵來取漢中，可速奏魏王，早發精兵猛將，前來策應。」夏侯淵便差人報知曹洪。洪星夜前到許昌，稟知曹操。操大驚，急聚文武商議發兵救漢中。長史劉曄進曰：「漢中若失，中原震動。大王休辭勞苦，必須親自征討。」操自悔曰：「恨當時不用卿言，以致如此！」忙傳令旨，起兵四十萬親征。時建安二十三年秋七月也。曹操兵分三路而進：前部先鋒夏侯惇，操自領中軍，使曹休押後。三軍陸續起行。操騎白馬金鞍，玉帶錦衣。武士手執大紅羅銷金傘蓋。左右金瓜銀鉞，鐙棒戈矛。打日月龍鳳旌旗。護駕龍虎官軍二萬五千，分為五隊，每隊五千，按青黃赤白黑五色。旗旛甲馬，並依本色。光輝燦爛，極其雄壯。\n兵出潼關，操在馬上，望見一簇林木，極其茂盛，問近侍曰：「此何處也﹖」答曰：「此名藍田。林木之間，乃蔡邕莊也。今邕女蔡琰，與其夫董祀居此。」原來操與蔡邕相善。先時其女蔡琰，乃衛道玠之妻；後被北方擄去，於北地生二子，作胡笳十八拍，流入中原。操深憐之，使人持千金入北方贖之。左賢王懼操之勢，送蔡琰還漢。操乃以琰配董祀為妻。\n當日到莊前，因想起蔡邕之事，令軍馬先行，操引近侍百餘騎，到莊門下馬。時董祀出仕於外，止有蔡琰在家。琰聞操至，忙出迎接。操至堂，琰起居畢，侍立於側。操偶見壁間懸一碑文圖軸，起身觀之，問於蔡琰。琰答曰：「此乃曹娥之碑也，昔和帝時，上虞有一巫者，名曹旴，能娑婆樂神；五月五日，醉舞舟中，墮江而死。其女年十四歲，遶江啼哭七晝夜，跳入波中；後五日，負父屍浮於江面；里人葬之江邊。上虞令度尚奏聞朝廷，表為孝女。度尚令邯鄲淳作文鐫碑以記其事。時邯鄲淳年方十三歲，文不加點，一揮而就，立石墓側，時人奇之。妾父蔡邕聞而往觀，時日已暮，乃於暗中以手摸碑文而讀之，索筆大書八字於其背。後人鐫石，並未鐫此八字。」操讀八字云：「黃絹幼婦，外孫齏臼。」操問琰曰：「汝解此意否﹖」琰曰：「雖先人遺筆，妾實不解其意。」操回顧眾謀士曰：「汝等解否？」眾皆不能答。於內一人出曰：「某已解其意。」操視之，乃主簿楊修也。操曰：「卿且勿言，容吾思之。」遂辭了蔡琰，引眾出莊。上馬行三里，忽省悟，笑謂修曰：「卿試言之。」修曰：「此隱語耳。黃縜乃顏色之絲也。色傍加絲，是『絕』字。幼婦者，少女也。女傍少字，是『妙』字。外孫乃女之子也。女傍子字，是『好』字。齏臼乃五辛之器也。受傍辛字，是『辭』字。總而言之，是『絕妙好辭』四字。」操大驚曰：「正合孤意！」眾皆歎羡楊修才識之敏。\n不一日，軍至南鄭。曹洪接著，備言張郃之事。操曰：「非郃之罪，勝負乃兵家常事耳。」洪曰：「目今劉備使黃忠攻打定軍山，夏侯淵知大王兵至，固守未曾出戰。」操曰：「若不出戰，是示懦也。」便差人持節到定軍山，教夏侯淵進兵。劉瞱諫曰：「淵性太剛，恐中奸計。」操乃手書與之。使命持節到淵營，淵接入。使者出書，淵拆視之。略曰：「凡為將者，當以剛柔相濟，不可徒恃其勇。若但任勇，則是一夫之敵耳。吾今屯大軍於南鄭，欲觀卿之『妙才』，勿辱二字可也。」\n夏侯淵覽畢大喜，打發使命回訖，乃與張郃商議曰：「今魏王率大兵屯於南鄭，以討劉備。吾與汝久守此地，豈能建立功業？來日吾出戰，務要生擒黃忠。」張郃曰：「黃忠謀勇兼備，況有法正相助，不可輕敵。此間山路險峻，只宜堅守。」淵曰：「若他人建了功勞，吾與汝有何面目見魏王耶？汝只守山，吾去出戰。」遂下令曰：「誰敢出哨誘敵？」夏侯尚曰：「吾願往。」淵曰：「汝去出哨，與黃忠交戰，只宜輸，不宜贏。吾有妙計，如此如此。」尚受令，引三千軍離定軍山大寨前行。\n卻說黃忠與法正屯兵於定軍山口，累次挑戰，夏侯淵堅守不出；欲要進攻，又恐山路危險，難以料敵，只得據守。是日，忽報山上曹兵下來搦戰。黃忠恰待引兵出迎，牙將陳式曰：「將軍休動，某願當之。」忠大喜，遂令陳式引軍一千出山口列陣。夏侯尚兵至，遂與交鋒。不數合，尚詐敗而走。式趕去，行到半路，被兩山上擂石砲石，打將下來，不能前進。正欲回時，背後夏侯淵引兵突出，陳式不能抵當，被夏侯淵生擒回寨。部卒多降。有敗軍逃得性命，回報黃忠，說陳式被擒。忠慌與法正商議。正曰：「淵為人輕躁，恃勇少謀；可激勵士卒，拔寨前進，步步為營，誘淵來戰而擒之。此乃『反客為主』之法。」\n忠用其謀，將應有之物，盡賞三軍，歡聲滿谷，願效死戰。黃忠即日拔寨而進，步步為營；每營住數日，又進。淵聞知。欲出戰。張郃曰：「此乃『反客為主』之計，不可出戰；戰則有失。」淵不從，令夏侯尚領數千兵出戰，直到黃忠寨前。忠上馬提刀出迎，與夏侯尚交馬，只一合，生擒夏侯尚歸寨。餘皆敗走，回報夏侯淵。淵急使人到黃忠寨，言願將陳式來換夏侯尚。忠約定來日陣前相換。\n次日，兩軍皆到山谷闊處，布成陣勢。黃忠、夏侯淵各立馬於本陣門旗之下。黃忠帶著夏侯尚，夏侯淵帶著陳式，各不與袍鎧，只穿蔽體薄衣。一聲鼓響，陳式、夏侯尚各望本陣奔回。夏侯尚比及到陣門時，被黃忠一箭，射中後心。尚帶箭而回。淵大怒，驟馬逕取黃忠。忠正要激淵廝殺。兩將交馬，戰到二十餘合，曹營內忽然鳴金收兵。淵慌撥馬而回，被忠乘勢殺了一陣。淵回陣問押陣官：「為何鳴金？」答曰：「某見山凹中有蜀兵旗旛數處，恐是伏兵，故急招將軍回。」淵信其說，遂堅守不出。\n黃忠追到定軍山下，與法正商議。正以手指曰：「定軍山西，巍然有一座高山，四下皆是險道。此山足可下視定軍山之虛實。將軍若取得此山，定軍山只在掌中也。」忠仰見山頭稍平，山上有些少人馬。是夜二更，忠引軍士鳴金擊鼓，直殺上山頂。此山有夏侯淵部將杜襲把守，止有數百餘人。當時見黃忠大隊擁上，只得棄山而走。忠得了山頂，正與定軍山相對。法正曰：「將軍可守在半山，某居山頂。待夏侯淵兵至，吾舉白旗為號，將軍卻按兵勿動；待他倦怠無備，吾卻舉起紅旗，將軍便下山擊之：以逸待勞，必當取勝。」忠大喜，從其計。\n卻說杜襲引軍逃回，見夏侯淵，說黃忠奪了對山。淵大怒曰；「黃忠占了對山，不容我不出戰。」張郃諫曰：「此乃法正之謀也。將軍不可出戰，只宜堅守。」淵曰：「占了吾對山，觀吾虛實，如何不出戰﹖」郃苦諫不聽。淵分軍圍住對山，大罵挑戰。法正在山上舉起白旗；任從夏侯淵百般辱罵，黃忠只不出戰。午時以後，法正見曹兵倦怠，銳氣已墮，多下馬坐息，乃將紅旗招展。鼓角齊鳴，喊聲大震。黃忠一馬當先，馳下山來，猶如天崩地塌之勢。夏侯淵措手不及，被黃忠趕到麾蓋之下，大喝一聲，猶如雷吼。淵未及相迎，黃忠寶刀已落，連頭帶肩，砍為兩段。後人有詩讚黃忠曰：\n蒼頭臨大敵，皓首逞神威。\n力趁雕弓發，風迎雪刃揮。\n雄聲如虎吼，駿馬似龍飛。\n獻馘功勳重，開疆展帝畿。\n黃忠斬了夏侯淵，曹兵大潰，各自逃生。黃忠乘勢去奪定軍山，張郃領兵來迎。忠與陳式兩人夾攻，混殺一陣，張郃敗走。忽然山傍閃出一彪人馬，當住去路；為首一員大將，大叫：「常山趙子龍在此！」張郃大驚，引敗軍奪路，望定軍山而走。只見前面一枝兵來迎，乃杜襲也。襲曰：「今定軍山已被劉封、孟達奪了。」郃大驚，遂與杜襲引敗兵到漢水紮營；一面令人飛報曹操。操聞淵死，放聲大哭，方悟管輅所言：「三八縱橫」，乃建安二十四年也；「黃豬遇虎」，乃歲在己亥正月也；「定軍之南」，乃定軍山之南也；「傷折一股」，乃淵與操有兄弟之親情也。操令人尋管輅時，不知何處去了。操深恨黃忠，遂親統率大軍，來定軍山與夏侯淵報讎，令徐晃作先鋒。行到漢水，張郃、杜襲接著曹操。二將曰：「今定軍山已失，可將米倉山糧草移於北山寨中屯積，然後進兵。」曹操依允。\n卻說黃忠斬了夏侯淵首級，來葭萌關上見玄德獻功。玄德大喜，加忠為征西大將軍，設宴慶賀。忽牙將張著來報說：「曹操自引大軍二十萬，來與夏侯淵報讎。目今張郃在米倉山搬運糧草，移於漢水北山腳下。」孔明曰：「今操引大兵至此，恐糧草不敷，故勒兵不進；若得一人深入其境，燒其糧草，奪其輜重，則操之銳氣挫矣。」黃忠曰：「老夫願當此任。」孔明曰：「操非夏侯淵之比，不可輕敵。」玄德曰：「夏侯淵雖是總帥，乃一勇夫耳，安及張郃？若斬得張郃，勝斬夏侯淵十倍也。」忠奮然曰：「吾願往斬之。」孔明曰：「你可與趙子龍同領一枝兵去；凡事計議而行，看誰立功。」忠應允便行。孔明就令張著為副將同去。\n雲謂忠曰：「今操引二十萬眾，分屯十營，將軍在主公前要去奪糧，非小可之事。將軍當用何策？」忠曰：「看我先去，如何？」雲曰：「等我先去。」忠曰：「我是主將，你是副將，如何爭先？」雲曰：「我與你都一般為主公出力，何必計較？我二人拈鬮，拈著的先去。」忠依允。當時黃忠拈著先去。雲曰：「既將軍先去，某當相助。可約定時刻。如將軍依時而還，某按兵不動；若將軍過時而不還，某即引軍來接應。」忠曰：「公言是也。」於是二人約定午時為期。雲回本寨，謂部將張翼曰：「黃漢升約定明日去奪糧草，若午時不回，我當往助。吾營前臨漢水，地勢危險；我若去時，汝可謹守寨柵，不可輕動。」張翼應諾。\n卻說黃忠回到寨中，謂副將張著曰：「我斬了夏侯淵，張郃喪膽；吾明日領命去劫糧草，只留五百軍守營。你可助吾。今夜三更，盡皆飽食；四更離營，殺到北山腳下，先捉張郃，後劫糧草。」張著依令。當夜黃忠領人馬在前，張著在後，偷過漢水，直到北山之下。東方日出，見糧積如山。有些少軍士看守，見蜀兵到，盡棄而走。黃忠教馬軍一齊下馬，取柴堆於米糧之上。正欲放火。張郃兵到，與忠混戰一處。曹操聞知，急令徐晃接應。晃領兵前進，將黃忠困在垓心。張著引三百軍走脫，正要回寨，忽一枝兵撞出，攔住去路；為首大將，乃是文聘；後面曹兵又至，把張著圍住。\n卻說趙雲在營中，看看等到午時，不見忠回，急忙披挂上馬，引三千軍向前接應；臨行，謂張翼曰：「汝可堅守營寨。兩壁廂多設弓弩，以為準備。」翼連聲應諾。雲挺槍驟馬直殺往前去。迎頭一將攔住，乃文聘部將慕容烈也，拍馬舞刀來迎趙雲；被雲手起一槍刺死。曹兵敗走。雲直殺入重圍，又一枝兵截住；為首乃魏將焦柄。雲喝問曰：「蜀兵何在？」炳曰：「已殺盡矣！」雲大怒，驟馬一槍又刺死焦柄。殺散餘兵，直至北山之下，見張郃、徐晃兩人圍住黃忠，軍士被困多時。雲大喊一聲，挺槍驟馬，殺入重圍；左衝右突，如入無人之境；那槍渾身上下，若舞梨花；遍體紛紛，如飄瑞雪。張郃、徐晃心驚膽戰，不敢迎戰。雲救出黃忠，且戰且走；所到之處，無人敢阻。操於高處望見，驚問眾將曰：「此何人也﹖」有識者告曰：「此乃常山趙子龍也。」操曰：「昔日當陽長阪英雄尚在！」急傳命曰：「所到之處，不許輕敵。」趙雲救了黃忠，殺透重圍，有軍士指曰：「東南上圍的，必是副將張著。」雲不回本寨，遂望東南殺來。所到之處，但見「常山趙雲」四字旗號，曾在當陽長阪知其勇者，互相傳說，盡皆逃竄。雲又救了張著。\n曹操見雲東衝西突，所向無前，莫敢迎敵，救了黃忠，又救了張著，奮然大怒，自領左右將士來趕趙雲。雲已殺回本寨。部將張翼接著，望見後面塵起，知是曹兵追來。即謂雲曰：「追兵漸近，可令軍士閉上寨門，上敵樓防護。」雲喝曰：「休閉寨門，汝豈不知吾昔在當陽長阪時，單槍匹馬，覷曹兵八十三萬如草芥！今有軍有將，又何懼哉！」遂撥弓拏手於寨外壕中埋伏；將營內旗槍，盡皆倒偃；金鼓不鳴。雲匹馬單槍，立於營門之外。\n卻說張郃、徐晃領兵追至蜀寨，天色已暮；見寨中偃旗息鼓，又見趙雲匹馬單槍，立於營外，寨門大開，二將不敢前進。正疑之間，曹操親到，急催督眾軍向前。眾軍聽令，大喊一聲，殺奔營前；見趙雲全然不動，曹兵翻身就回。趙雲把槍一招，壕中弓拏齊發。時天色昏黑，正不知蜀兵多少。操先撥馬回走。只聽得後面喊聲大震，鼓角齊鳴，蜀兵趕來。曹兵自相踐踏；擁到漢水河邊，落水死者，不知其數。趙雲、黃忠、張著各引兵一枝，追殺甚急。操正奔走間，忽劉封、孟達率二枝兵，從米倉山路殺來，放火燒糧草。操棄了北山糧草，忙回南鄭。徐晃、張郃紮腳不住，亦棄本寨而走。趙雲占了曹寨，黃忠了糧草，漢水所得軍器無數，大獲勝捷，差人去報玄德。玄德遂同孔明前至漢水，問趙雲的部卒曰：「子龍如何廝殺？」軍士將子龍救黃忠拒漢水之事，細述一遍。玄德大喜，看了山前山後險峻之路，欣然謂孔明曰：「子龍一身都是膽也！」後人有詩讚曰：\n昔日戰長阪，威風猶未減。\n突陣顯英雄，被圍施勇敢。\n鬼哭與神號，天驚並地慘。\n常山趙子龍，一身都是膽！\n於是玄德號子龍為虎威將軍，大勞將士，歡宴至晚。忽報曹操復遣大軍從斜谷小路而進，來取漢水。玄德笑曰：「操此來無能為也。我料必得漢水矣。」乃率兵於漢水之西以迎之。曹操命徐晃為先鋒，前來決戰。帳前一人出曰：「某深知地理，願助徐將軍同去破蜀。」\n操視之，乃巴西宕渠人也；姓王，名平，字子均；見充牙門將軍。操大喜，遂命王平為副先鋒，相助徐晃。操屯兵於定軍山北。徐晃、王平引軍至漢水，晃令前軍渡水列陣。平曰：「軍若渡水，倘要急退，如之奈何﹖」晃曰：「昔韓信背水為陣，所謂『置之死地而後生』也。」平曰：「不然。昔者韓信料敵人無謀而用此計。今將軍能料趙雲、黃忠之意否？」晃曰：「汝可引步軍拒敵，看我引馬軍破之。」遂令搭起浮橋，隨即過河來戰蜀兵。正是：\n魏人妄意宗韓信，蜀相那知是子房？\n未知勝負如何，且看下文分解。",
+    "title": "第七十一回 占對山黃忠逸待勞　　據漢水趙雲寡勝眾"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-071.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

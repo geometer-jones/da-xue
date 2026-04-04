@@ -1,0 +1,822 @@
+{
+  "cache_dir": "books/daodejing",
+  "catalog_path": "books/daodejing/catalog.json",
+  "chapter_count": 81,
+  "chapters": [
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-001.json",
+      "character_count": 59,
+      "id": "chapter-001",
+      "order": 1,
+      "reading_unit_count": 1,
+      "summary": "道可道，非常道",
+      "supplemental_unit_count": 0,
+      "title": "第1章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-002.json",
+      "character_count": 88,
+      "id": "chapter-002",
+      "order": 2,
+      "reading_unit_count": 1,
+      "summary": "天下皆知美之為美，斯惡已",
+      "supplemental_unit_count": 0,
+      "title": "第2章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-003.json",
+      "character_count": 67,
+      "id": "chapter-003",
+      "order": 3,
+      "reading_unit_count": 1,
+      "summary": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使心不亂",
+      "supplemental_unit_count": 0,
+      "title": "第3章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-004.json",
+      "character_count": 42,
+      "id": "chapter-004",
+      "order": 4,
+      "reading_unit_count": 1,
+      "summary": "道沖而用之或不盈",
+      "supplemental_unit_count": 0,
+      "title": "第4章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-005.json",
+      "character_count": 45,
+      "id": "chapter-005",
+      "order": 5,
+      "reading_unit_count": 1,
+      "summary": "天地不仁，以萬物為芻狗；聖人不仁，以百姓為芻狗",
+      "supplemental_unit_count": 0,
+      "title": "第5章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-006.json",
+      "character_count": 25,
+      "id": "chapter-006",
+      "order": 6,
+      "reading_unit_count": 1,
+      "summary": "谷神不死，是謂玄牝",
+      "supplemental_unit_count": 0,
+      "title": "第6章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-007.json",
+      "character_count": 49,
+      "id": "chapter-007",
+      "order": 7,
+      "reading_unit_count": 1,
+      "summary": "天長地久",
+      "supplemental_unit_count": 0,
+      "title": "第7章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-008.json",
+      "character_count": 50,
+      "id": "chapter-008",
+      "order": 8,
+      "reading_unit_count": 1,
+      "summary": "上善若水",
+      "supplemental_unit_count": 0,
+      "title": "第8章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-009.json",
+      "character_count": 39,
+      "id": "chapter-009",
+      "order": 9,
+      "reading_unit_count": 1,
+      "summary": "持而盈之，不如其已；揣而銳之，不可長保",
+      "supplemental_unit_count": 0,
+      "title": "第9章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-010.json",
+      "character_count": 69,
+      "id": "chapter-010",
+      "order": 10,
+      "reading_unit_count": 1,
+      "summary": "載營魄抱一，能無離乎？專氣致柔，能嬰兒乎？滌除玄覽，能無疵乎？愛民治國，能無知乎？天門開闔，能為雌乎？明白四達，能無知乎？生之、畜之，生而不有，為而不恃，長而不宰，是謂玄德",
+      "supplemental_unit_count": 0,
+      "title": "第10章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-011.json",
+      "character_count": 49,
+      "id": "chapter-011",
+      "order": 11,
+      "reading_unit_count": 1,
+      "summary": "三十輻，共一轂，當其無，有車之用",
+      "supplemental_unit_count": 0,
+      "title": "第11章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-012.json",
+      "character_count": 49,
+      "id": "chapter-012",
+      "order": 12,
+      "reading_unit_count": 1,
+      "summary": "五色令人目盲；五音令人耳聾；五味令人口爽；馳騁田獵，令人心發狂；難得之貨，令人行妨",
+      "supplemental_unit_count": 0,
+      "title": "第12章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-013.json",
+      "character_count": 81,
+      "id": "chapter-013",
+      "order": 13,
+      "reading_unit_count": 1,
+      "summary": "寵辱若驚，貴大患若身",
+      "supplemental_unit_count": 0,
+      "title": "第13章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-014.json",
+      "character_count": 94,
+      "id": "chapter-014",
+      "order": 14,
+      "reading_unit_count": 1,
+      "summary": "視之不見，名曰夷；聽之不聞，名曰希；搏之不得，名曰微",
+      "supplemental_unit_count": 0,
+      "title": "第14章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-015.json",
+      "character_count": 97,
+      "id": "chapter-015",
+      "order": 15,
+      "reading_unit_count": 1,
+      "summary": "古之善為士者，微妙玄通，深不可識",
+      "supplemental_unit_count": 0,
+      "title": "第15章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-016.json",
+      "character_count": 67,
+      "id": "chapter-016",
+      "order": 16,
+      "reading_unit_count": 1,
+      "summary": "致虛極，守靜篤",
+      "supplemental_unit_count": 0,
+      "title": "第16章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-017.json",
+      "character_count": 44,
+      "id": "chapter-017",
+      "order": 17,
+      "reading_unit_count": 1,
+      "summary": "太上，下知有之；其次，親而譽之；其次，畏之；其次，侮之",
+      "supplemental_unit_count": 0,
+      "title": "第17章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-018.json",
+      "character_count": 26,
+      "id": "chapter-018",
+      "order": 18,
+      "reading_unit_count": 1,
+      "summary": "大道廢，有仁義；智慧出，有大偽；六親不和，有孝慈；國家昏亂，有忠臣",
+      "supplemental_unit_count": 0,
+      "title": "第18章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-019.json",
+      "character_count": 45,
+      "id": "chapter-019",
+      "order": 19,
+      "reading_unit_count": 1,
+      "summary": "絕聖棄智，民利百倍；絕仁棄義，民復孝慈；絕巧棄利，盜賊無有",
+      "supplemental_unit_count": 0,
+      "title": "第19章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-020.json",
+      "character_count": 132,
+      "id": "chapter-020",
+      "order": 20,
+      "reading_unit_count": 2,
+      "summary": "絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？人之所畏，不可不畏",
+      "supplemental_unit_count": 0,
+      "title": "第20章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-021.json",
+      "character_count": 71,
+      "id": "chapter-021",
+      "order": 21,
+      "reading_unit_count": 1,
+      "summary": "孔德之容，唯道是從",
+      "supplemental_unit_count": 0,
+      "title": "第21章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-022.json",
+      "character_count": 78,
+      "id": "chapter-022",
+      "order": 22,
+      "reading_unit_count": 1,
+      "summary": "曲則全，枉則直，窪則盈，弊則新，少則得，多則惑",
+      "supplemental_unit_count": 0,
+      "title": "第22章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-023.json",
+      "character_count": 88,
+      "id": "chapter-023",
+      "order": 23,
+      "reading_unit_count": 1,
+      "summary": "希言自然，故飄風不終朝，驟雨不終日",
+      "supplemental_unit_count": 0,
+      "title": "第23章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-024.json",
+      "character_count": 47,
+      "id": "chapter-024",
+      "order": 24,
+      "reading_unit_count": 1,
+      "summary": "企者不立；跨者不行；自見者不明；自是者不彰；自伐者無功；自矜者不長",
+      "supplemental_unit_count": 0,
+      "title": "第24章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-025.json",
+      "character_count": 85,
+      "id": "chapter-025",
+      "order": 25,
+      "reading_unit_count": 1,
+      "summary": "有物混成，先天地生",
+      "supplemental_unit_count": 0,
+      "title": "第25章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-026.json",
+      "character_count": 47,
+      "id": "chapter-026",
+      "order": 26,
+      "reading_unit_count": 1,
+      "summary": "重為輕根，靜為躁君",
+      "supplemental_unit_count": 0,
+      "title": "第26章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-027.json",
+      "character_count": 91,
+      "id": "chapter-027",
+      "order": 27,
+      "reading_unit_count": 1,
+      "summary": "善行無轍迹，善言無瑕讁；善數不用籌策；善閉無關楗而不可開，善結無繩約而不可解",
+      "supplemental_unit_count": 0,
+      "title": "第27章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-028.json",
+      "character_count": 86,
+      "id": "chapter-028",
+      "order": 28,
+      "reading_unit_count": 1,
+      "summary": "知其雄，守其雌，為天下谿",
+      "supplemental_unit_count": 0,
+      "title": "第28章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-029.json",
+      "character_count": 58,
+      "id": "chapter-029",
+      "order": 29,
+      "reading_unit_count": 1,
+      "summary": "將欲取天下而為之，吾見其不得已",
+      "supplemental_unit_count": 0,
+      "title": "第29章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-030.json",
+      "character_count": 75,
+      "id": "chapter-030",
+      "order": 30,
+      "reading_unit_count": 1,
+      "summary": "以道佐人主者，不以兵強天下",
+      "supplemental_unit_count": 0,
+      "title": "第30章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-031.json",
+      "character_count": 117,
+      "id": "chapter-031",
+      "order": 31,
+      "reading_unit_count": 2,
+      "summary": "夫佳兵者，不祥之器，物或惡之，故有道者不處",
+      "supplemental_unit_count": 0,
+      "title": "第31章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-032.json",
+      "character_count": 72,
+      "id": "chapter-032",
+      "order": 32,
+      "reading_unit_count": 1,
+      "summary": "道常無名",
+      "supplemental_unit_count": 0,
+      "title": "第32章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-033.json",
+      "character_count": 38,
+      "id": "chapter-033",
+      "order": 33,
+      "reading_unit_count": 1,
+      "summary": "知人者智，自知者明",
+      "supplemental_unit_count": 0,
+      "title": "第33章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-034.json",
+      "character_count": 61,
+      "id": "chapter-034",
+      "order": 34,
+      "reading_unit_count": 1,
+      "summary": "大道汎兮，其可左右",
+      "supplemental_unit_count": 0,
+      "title": "第34章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-035.json",
+      "character_count": 43,
+      "id": "chapter-035",
+      "order": 35,
+      "reading_unit_count": 1,
+      "summary": "執大象，天下往",
+      "supplemental_unit_count": 0,
+      "title": "第35章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-036.json",
+      "character_count": 56,
+      "id": "chapter-036",
+      "order": 36,
+      "reading_unit_count": 1,
+      "summary": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之",
+      "supplemental_unit_count": 0,
+      "title": "第36章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-037.json",
+      "character_count": 50,
+      "id": "chapter-037",
+      "order": 37,
+      "reading_unit_count": 1,
+      "summary": "道常無為而無不為",
+      "supplemental_unit_count": 0,
+      "title": "第37章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-038.json",
+      "character_count": 129,
+      "id": "chapter-038",
+      "order": 38,
+      "reading_unit_count": 2,
+      "summary": "上德不德，是以有德；下德不失德，是以無德",
+      "supplemental_unit_count": 0,
+      "title": "第38章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-039.json",
+      "character_count": 134,
+      "id": "chapter-039",
+      "order": 39,
+      "reading_unit_count": 2,
+      "summary": "昔之得一者：天得一以清；地得一以寧；神得一以靈；谷得一以盈；萬物得一以生；侯王得一以為天下貞",
+      "supplemental_unit_count": 0,
+      "title": "第39章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-040.json",
+      "character_count": 21,
+      "id": "chapter-040",
+      "order": 40,
+      "reading_unit_count": 1,
+      "summary": "反者道之動；弱者道之用",
+      "supplemental_unit_count": 0,
+      "title": "第40章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-041.json",
+      "character_count": 95,
+      "id": "chapter-041",
+      "order": 41,
+      "reading_unit_count": 1,
+      "summary": "上士聞道，勤而行之；中士聞道，若存若亡；下士聞道，大笑之",
+      "supplemental_unit_count": 0,
+      "title": "第41章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-042.json",
+      "character_count": 73,
+      "id": "chapter-042",
+      "order": 42,
+      "reading_unit_count": 1,
+      "summary": "道生一，一生二，二生三，三生萬物",
+      "supplemental_unit_count": 0,
+      "title": "第42章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-043.json",
+      "character_count": 39,
+      "id": "chapter-043",
+      "order": 43,
+      "reading_unit_count": 1,
+      "summary": "天下之至柔，馳騁天下之至堅",
+      "supplemental_unit_count": 0,
+      "title": "第43章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-044.json",
+      "character_count": 39,
+      "id": "chapter-044",
+      "order": 44,
+      "reading_unit_count": 1,
+      "summary": "名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡",
+      "supplemental_unit_count": 0,
+      "title": "第44章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-045.json",
+      "character_count": 40,
+      "id": "chapter-045",
+      "order": 45,
+      "reading_unit_count": 1,
+      "summary": "大成若缺，其用不弊",
+      "supplemental_unit_count": 0,
+      "title": "第45章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-046.json",
+      "character_count": 39,
+      "id": "chapter-046",
+      "order": 46,
+      "reading_unit_count": 1,
+      "summary": "天下有道，卻走馬以糞",
+      "supplemental_unit_count": 0,
+      "title": "第46章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-047.json",
+      "character_count": 36,
+      "id": "chapter-047",
+      "order": 47,
+      "reading_unit_count": 1,
+      "summary": "不出戶知天下；不闚牖見天道",
+      "supplemental_unit_count": 0,
+      "title": "第47章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-048.json",
+      "character_count": 40,
+      "id": "chapter-048",
+      "order": 48,
+      "reading_unit_count": 1,
+      "summary": "為學日益，為道日損",
+      "supplemental_unit_count": 0,
+      "title": "第48章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-049.json",
+      "character_count": 64,
+      "id": "chapter-049",
+      "order": 49,
+      "reading_unit_count": 1,
+      "summary": "聖人無常心，以百姓心為心",
+      "supplemental_unit_count": 0,
+      "title": "第49章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-050.json",
+      "character_count": 79,
+      "id": "chapter-050",
+      "order": 50,
+      "reading_unit_count": 1,
+      "summary": "出生入死",
+      "supplemental_unit_count": 0,
+      "title": "第50章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-051.json",
+      "character_count": 71,
+      "id": "chapter-051",
+      "order": 51,
+      "reading_unit_count": 1,
+      "summary": "道生之，德畜之，物形之，勢成之",
+      "supplemental_unit_count": 0,
+      "title": "第51章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-052.json",
+      "character_count": 75,
+      "id": "chapter-052",
+      "order": 52,
+      "reading_unit_count": 1,
+      "summary": "天下有始，以為天下母",
+      "supplemental_unit_count": 0,
+      "title": "第52章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-053.json",
+      "character_count": 52,
+      "id": "chapter-053",
+      "order": 53,
+      "reading_unit_count": 1,
+      "summary": "使我介然有知，行於大道，唯施是畏",
+      "supplemental_unit_count": 0,
+      "title": "第53章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-054.json",
+      "character_count": 90,
+      "id": "chapter-054",
+      "order": 54,
+      "reading_unit_count": 1,
+      "summary": "善建不拔，善抱者不脫，子孫以祭祀不輟",
+      "supplemental_unit_count": 0,
+      "title": "第54章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-055.json",
+      "character_count": 81,
+      "id": "chapter-055",
+      "order": 55,
+      "reading_unit_count": 1,
+      "summary": "含德之厚，比於赤子",
+      "supplemental_unit_count": 0,
+      "title": "第55章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-056.json",
+      "character_count": 66,
+      "id": "chapter-056",
+      "order": 56,
+      "reading_unit_count": 1,
+      "summary": "知者不言，言者不知",
+      "supplemental_unit_count": 0,
+      "title": "第56章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-057.json",
+      "character_count": 88,
+      "id": "chapter-057",
+      "order": 57,
+      "reading_unit_count": 1,
+      "summary": "以正治國，以奇用兵，以無事取天下",
+      "supplemental_unit_count": 0,
+      "title": "第57章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-058.json",
+      "character_count": 70,
+      "id": "chapter-058",
+      "order": 58,
+      "reading_unit_count": 1,
+      "summary": "其政悶悶，其民淳淳；其政察察，其民缺缺",
+      "supplemental_unit_count": 0,
+      "title": "第58章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-059.json",
+      "character_count": 64,
+      "id": "chapter-059",
+      "order": 59,
+      "reading_unit_count": 1,
+      "summary": "治人事天莫若嗇",
+      "supplemental_unit_count": 0,
+      "title": "第59章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-060.json",
+      "character_count": 48,
+      "id": "chapter-060",
+      "order": 60,
+      "reading_unit_count": 1,
+      "summary": "治大國若烹小鮮",
+      "supplemental_unit_count": 0,
+      "title": "第60章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-061.json",
+      "character_count": 82,
+      "id": "chapter-061",
+      "order": 61,
+      "reading_unit_count": 1,
+      "summary": "大國者下流，天下之交，天下之牝",
+      "supplemental_unit_count": 0,
+      "title": "第61章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-062.json",
+      "character_count": 80,
+      "id": "chapter-062",
+      "order": 62,
+      "reading_unit_count": 1,
+      "summary": "道者萬物之奧",
+      "supplemental_unit_count": 0,
+      "title": "第62章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-063.json",
+      "character_count": 79,
+      "id": "chapter-063",
+      "order": 63,
+      "reading_unit_count": 1,
+      "summary": "為無為，事無事，味無味",
+      "supplemental_unit_count": 0,
+      "title": "第63章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-064.json",
+      "character_count": 125,
+      "id": "chapter-064",
+      "order": 64,
+      "reading_unit_count": 2,
+      "summary": "其安易持，其未兆易謀",
+      "supplemental_unit_count": 0,
+      "title": "第64章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-065.json",
+      "character_count": 69,
+      "id": "chapter-065",
+      "order": 65,
+      "reading_unit_count": 1,
+      "summary": "古之善為道者，非以明民，將以愚之",
+      "supplemental_unit_count": 0,
+      "title": "第65章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-066.json",
+      "character_count": 78,
+      "id": "chapter-066",
+      "order": 66,
+      "reading_unit_count": 1,
+      "summary": "江海所以能為百谷王者，以其善下之，故能為百谷王",
+      "supplemental_unit_count": 0,
+      "title": "第66章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-067.json",
+      "character_count": 99,
+      "id": "chapter-067",
+      "order": 67,
+      "reading_unit_count": 2,
+      "summary": "天下皆謂我道大，似不肖",
+      "supplemental_unit_count": 0,
+      "title": "第67章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-068.json",
+      "character_count": 43,
+      "id": "chapter-068",
+      "order": 68,
+      "reading_unit_count": 1,
+      "summary": "善為士者，不武；善戰者，不怒；善勝敵者，不與；善用人者，為之下",
+      "supplemental_unit_count": 0,
+      "title": "第68章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-069.json",
+      "character_count": 54,
+      "id": "chapter-069",
+      "order": 69,
+      "reading_unit_count": 1,
+      "summary": "用兵有言：吾不敢為主，而為客；不敢進寸，而退尺",
+      "supplemental_unit_count": 0,
+      "title": "第69章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-070.json",
+      "character_count": 47,
+      "id": "chapter-070",
+      "order": 70,
+      "reading_unit_count": 1,
+      "summary": "吾言甚易知，甚易行",
+      "supplemental_unit_count": 0,
+      "title": "第70章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-071.json",
+      "character_count": 28,
+      "id": "chapter-071",
+      "order": 71,
+      "reading_unit_count": 1,
+      "summary": "知不知上；不知知病",
+      "supplemental_unit_count": 0,
+      "title": "第71章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-072.json",
+      "character_count": 45,
+      "id": "chapter-072",
+      "order": 72,
+      "reading_unit_count": 1,
+      "summary": "民不畏威，則大威至",
+      "supplemental_unit_count": 0,
+      "title": "第72章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-073.json",
+      "character_count": 64,
+      "id": "chapter-073",
+      "order": 73,
+      "reading_unit_count": 1,
+      "summary": "勇於敢則殺，勇於不敢則活",
+      "supplemental_unit_count": 0,
+      "title": "第73章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-074.json",
+      "character_count": 55,
+      "id": "chapter-074",
+      "order": 74,
+      "reading_unit_count": 1,
+      "summary": "民不畏死，奈何以死懼之？若使民常畏死，而為奇者，吾得執而殺之，孰敢？常有司殺者殺",
+      "supplemental_unit_count": 0,
+      "title": "第74章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-075.json",
+      "character_count": 53,
+      "id": "chapter-075",
+      "order": 75,
+      "reading_unit_count": 1,
+      "summary": "民之飢，以其上食稅之多，是以飢",
+      "supplemental_unit_count": 0,
+      "title": "第75章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-076.json",
+      "character_count": 57,
+      "id": "chapter-076",
+      "order": 76,
+      "reading_unit_count": 1,
+      "summary": "人之生也柔弱，其死也堅強",
+      "supplemental_unit_count": 0,
+      "title": "第76章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-077.json",
+      "character_count": 79,
+      "id": "chapter-077",
+      "order": 77,
+      "reading_unit_count": 1,
+      "summary": "天之道，其猶張弓與？高者抑之，下者舉之；有餘者損之，不足者補之",
+      "supplemental_unit_count": 0,
+      "title": "第77章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-078.json",
+      "character_count": 64,
+      "id": "chapter-078",
+      "order": 78,
+      "reading_unit_count": 1,
+      "summary": "天下莫柔弱於水，而攻堅強者莫之能勝，其無以易之",
+      "supplemental_unit_count": 0,
+      "title": "第78章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-079.json",
+      "character_count": 40,
+      "id": "chapter-079",
+      "order": 79,
+      "reading_unit_count": 1,
+      "summary": "和大怨，必有餘怨；安可以為善？是以聖人執左契，而不責於人",
+      "supplemental_unit_count": 0,
+      "title": "第79章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-080.json",
+      "character_count": 75,
+      "id": "chapter-080",
+      "order": 80,
+      "reading_unit_count": 1,
+      "summary": "小國寡民",
+      "supplemental_unit_count": 0,
+      "title": "第80章"
+    },
+    {
+      "chapter_path": "books/daodejing/chapters/chapter-081.json",
+      "character_count": 57,
+      "id": "chapter-081",
+      "order": 81,
+      "reading_unit_count": 1,
+      "summary": "信言不美，美言不信",
+      "supplemental_unit_count": 0,
+      "title": "第81章"
+    }
+  ],
+  "commentary_chapter_count": 0,
+  "commentary_chapters": [],
+  "provider": "ctext-html",
+  "source_url": "https://ctext.org/dao-de-jing?if=en",
+  "title": "Dao De Jing"
+}

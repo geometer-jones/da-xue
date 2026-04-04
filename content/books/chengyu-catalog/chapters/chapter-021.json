@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-021",
+    "order": 21,
+    "summary": "妙不可言",
+    "text": "妙不可言\n间不容息\n一人之交\n闻一知二\n不相闻问\n目不识书\n天知地知\n一字不易\n不易一字\n一夫之勇\n别无长物\n无微不至\n道大莫容\n不改其乐\n形形色色\n天理难容\n十十五五\n生不逢时\n人心大快\n大快人心\n一心同体\n一体同心\n无相无作\n来者居上\n万无一失\n比物此志\n天之骄子\n局外之人\n要害之地\n如日方中",
+    "title": "601-630",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "妙不可言",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "too wonderful for words"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "间不容息",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No time to rest"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "一人之交",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "acquaintance"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "闻一知二",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hear one and know two"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "不相闻问",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Don't know about each other"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "目不识书",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "illiterate"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "天知地知",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heaven knows and earth knows"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "一字不易",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to not change a single word"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "不易一字",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not easy is a word"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "一夫之勇",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One man's courage"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "别无长物",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "no unnecessary things"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "无微不至",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to take care of everything for somebody"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "道大莫容",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Tao is too great to be tolerated"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "不改其乐",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Don't change your joy"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "形形色色",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "many appearances and colors; all kinds of; all sorts of"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "天理难容",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heaven cannot tolerate this; intolerable behavior"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "十十五五",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "fifteen fifteen"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "生不逢时",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "born at the wrong time; unlucky (especially to complain about one's fate); born under an unlucky star"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "人心大快",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "People are happy"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "大快人心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to everyone's satisfaction"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "一心同体",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One mind and one body"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "一体同心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One body and one heart"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "无相无作",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No form, no action"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "来者居上",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Come first"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "万无一失",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "absolutely safe"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "比物此志",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Comparing things to this ambition"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "天之骄子",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "designation of Xiongnu"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "局外之人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "outsider"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "要害之地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "vital place"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-021-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "如日方中",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like the Japanese side"
+          }
+        },
+        "category": "中高透明度 II"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-021.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

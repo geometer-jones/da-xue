@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-020",
+    "order": 20,
+    "summary": "金玉之言",
+    "text": "金玉之言\n记问之学\n一言难尽\n死得其所\n去就之分\n大难不死\n清静无为\n不足为奇\n见可而进\n一得之功\n不同戴天\n不绝如发\n三人成虎\n易子而食\n齐心一力\n敬而远之\n变色之言\n不同流俗\n言外之意\n述而不作\n儿女之情\n无为而成\n流水无情\n何乐不为\n不可终日\n加人一等\n无往不利\n出头之日\n言行若一\n一定之规",
+    "title": "571-600",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "金玉之言",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Words of gold and jade"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "记问之学",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The study of remembering questions"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "一言难尽",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "hard to explain in a few words; complicated and not easy to express succinctly"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "死得其所",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to die a worthy death"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "去就之分",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Go or go"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "大难不死",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to just escape from calamity"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "清静无为",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Quiet and inactive"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "不足为奇",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "not unusual; not out of the ordinary"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "见可而进",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "See what is possible and advance"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "一得之功",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "occasional, minor success"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "不同戴天",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Different days"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "不绝如发",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "as long as hair"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "三人成虎",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "three men talking makes a tiger; repeated rumor becomes a fact"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "易子而食",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to exchange own children with one another and then eat them ()"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "齐心一力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Work together"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "敬而远之",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to remain at a respectful distance"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "变色之言",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Colorful words"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "不同流俗",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Different customs"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "言外之意",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unspoken implication; the actual meaning of what was said"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "述而不作",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to refrain from unwarranted innovations; to resist the temptation to speculate"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "儿女之情",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "love between children"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "无为而成",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Made by doing nothing"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "流水无情",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Running water is ruthless"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "何乐不为",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "why be willing to do something?"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "不可终日",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be unable to carry on even for a single day"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "加人一等",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a cut above"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "无往不利",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to be successful in every endeavor"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "出头之日",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Early days"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "言行若一",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "one's actions are in keeping with what one says"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-020-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "一定之规",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "fixed pattern"
+          }
+        },
+        "category": "中高透明度 I"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-020.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

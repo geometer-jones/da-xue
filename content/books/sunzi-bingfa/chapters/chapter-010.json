@@ -1,0 +1,125 @@
+{
+  "chapter": {
+    "character_count": 546,
+    "id": "chapter-010",
+    "order": 10,
+    "reading_unit_count": 8,
+    "reading_units": [
+      {
+        "character_count": 90,
+        "id": "chapter-010-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "孫子曰：地形有通者，有挂者，有支者，有隘者，有險者，有遠者。我可以往，彼可以來，曰通；通形者，先居高陽，利糧道以戰，則利。可以往，難以返，曰挂；挂形者，敵無備，出而勝之，敵若有備，出而不勝，難以返，不利。我出而不利，彼出而不利，曰支；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If, when the soldiers have become attached to you, punishments are not enforced, they will still be useless. Therefore soldiers must be treated in the first instance with humanity, but kept under control by means of iron discipline. This is a certain road to victory. If in training soldiers commands are habitually enforced, the army will be well-disciplined; if not, its discipline will be bad. If a general shows confidence in his men but always insists on his orders being obeyed, the gain will be mutual. Sun Tzu said: We may distinguish six kinds of terrain, to wit: (1) Accessible ground; (2) entangling ground; (3) temporizing ground; (4) narrow passes; (5) precipitous heights; (6) positions at a great distance from the enemy. 2. Ground which can be freely traversed by both sides is called accessible. With regard to ground of this nature, be before the enemy in occupying the raised and sunny spots, and carefully guard your line of supplies. Then you will be able to fight with advantage. Ground which can be abandoned but is hard to re-occupy is called entangling. From a position of this sort, if the enemy is unprepared, you may sally forth and defeat him. But if the enemy is prepared for your coming, and you fail to defeat him, then, return being impossible, disaster will ensue. When the position is such that neither side will gain by making the first move, it is called temporizing ground."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-010-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "支形者，敵雖利我，我無出也；引而去之，令敵半出而擊之，利。隘形者，我先居之，必盈以待敵；若敵先居之，盈而勿從，不盈而從之。險形者，我先居之，必居高陽以待敵；若敵先居之，引而去之，勿從也。遠形者，勢均，難以挑戰，戰而不利。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In a position of this sort, even though the enemy should offer us an attractive bait, it will be advisable not to stir forth, but rather to retreat, thus enticing the enemy in his turn; then, when part of his army has come out, we may deliver our attack with advantage."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-010-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "凡此六者，地之道也，將之至任，不可不察也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "With regard to narrow passes, if you can occupy them first, let them be strongly garrisoned and await the advent of the enemy. Should the army forestall you in occupying a pass, do not go after him if the pass is fully garrisoned, but only if it is weakly garrisoned. With regard to precipitous heights, if you are beforehand with your adversary, you should occupy the raised and sunny spots, and there wait for him to come up. If the enemy has occupied them before you, do not follow him, but retreat and try to entice him away. If you are situated at a great distance from the enemy, and the strength of the two armies is equal, it is not easy to provoke a battle, and fighting will be to your disadvantage. These six are the principles connected with Earth. The general who has attained a responsible post must be careful to study them."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-010-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "故 兵 有 走 者 、 有 弛 者 、 有 陷 者 、 有 崩 者 、 有 亂 者 、 有 北 者 。 凡 此 六 者 ， 非 天 之 災 ， 將 之 過 也 。夫 勢均 ， 以一擊十 ， 曰 走 ；卒强吏弱 ， 曰 弛 ； 吏 强 卒 弱 ， 曰 陷 ；大 吏 怒 而 不服 ， 遇 敵 懟 而 自 戰 ， 將 不知 其 能 ， 曰 崩 ；將 弱 不 嚴 ， 教 道 不明 ， 吏 卒 無常 ， 陳兵 縱橫 ， 曰 亂 ；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now an army is exposed to six several calamities, not arising from natural causes, but from faults for which the general is responsible. These are: (1) Flight; (2) insubordination; (3) collapse; (4) ruin; (5) disorganization; (6) rout. Other conditions being equal, if one force is hurled against another ten times its size, the result will be the flight of the former. When the common soldiers are too strong and their officers too weak, the result is insubordination. When the officers are too strong and the common soldiers too weak, the result is collapse. When the higher officers are angry and insubordinate, and on meeting the enemy give battle on their own account from a feeling of resentment, before the commander-in-chief can tell whether or not he is in a position to fight, the result is ruin. When the general is weak and without authority; when his orders are not clear and distinct; when there are no fixed duties assigned to officers and men, and the ranks are formed in a slovenly haphazard manner, the result is utter disorganization."
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-010-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "將 不能 料敵 ， 以少合衆 ， 以 弱 擊 強 ， 兵 無 選 鋒 ， 曰 北 。凡 此 六 者 ， 敗 之 道 也 ， 將 之至 任 ， 不可不察 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When a general, unable to estimate the enemy's strength, allows an inferior force to engage a larger one, or hurls a weak detachment against a powerful one, and neglects to place picked soldiers in the front rank, the result must be rout. These are six ways of courting defeat, which must be carefully noted by the general who has attained a responsible post."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-010-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "夫地形者，兵之助也。料敵制勝，計險阨遠近，上將之道也。知此而用戰者，必勝；不知此而用戰者必敗。故戰道必勝；主曰：無戰；必戰可也。戰道不勝，主曰必戰，無戰可也。故進不求名，退不避罪，唯民是保，而利于主，國之寶也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The natural formation of the country is the soldier's best ally; but a power of estimating the adversary, of controlling the forces of victory, and of shrewdly calculating difficulties, dangers and distances, constitutes the test of a great general."
+          }
+        }
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-010-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "視卒如嬰兒，故可與之赴深谿；視卒如愛子，故可與之俱死。厚而不能使，愛而不能令，亂而不能治，譬若驕子，不可用也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He who knows these things, and in fighting puts his knowledge into practice, will win his battles. He who knows them not, nor practices them, will surely be defeated. If fighting is sure to result in victory, then you must fight, even though the ruler forbid it; if fighting will not result in victory, then you must not fight even at the ruler's bidding. The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom. Regard your soldiers as your children, and they will follow you into the deepest valleys; look upon them as your own beloved sons, and they will stand by you even unto death. If, however, you are indulgent, but unable to make your authority felt; kind-hearted, but unable to enforce your commands; and incapable, moreover, of quelling disorder: then your soldiers must be likened to spoilt children; they are useless for any practical purpose."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-010-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "知 吾 卒 之 可以 擊 ， 而 不知 敵 之 不可 擊 ， 勝 之 半 也 ；知 敵 之 可 擊 ， 而 不知 吾 卒 之 不可以 擊 ， 勝 之 半 也 ；知 敵 之 可 擊 ， 知 吾 卒 之 可以 擊 ， 而 不知 地形 之 不可以 戰 ， 勝 之 半 也 。故知 兵 者 ， 動 而 不 迷 ， 舉 而 不窮 。故 曰 ： 知彼知己 ， 勝乃不殆 ； 知天知地 ， 勝 乃 可 全 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If we know that our own men are in a condition to attack, but are unaware that the enemy is not open to attack, we have gone only halfway towards victory. If we know that the enemy is open to attack, but are unaware that our own men are not in a condition to attack, we have gone only halfway towards victory. If we know that the enemy is open to attack, and also know that our men are in a condition to attack, but are unaware that the nature of the ground makes fighting impracticable, we have still gone only halfway towards victory. Hence the experienced soldier, once in motion, is never bewildered; once he has broken camp, he is never at a loss. Hence the saying: If you know the enemy and know yourself, your victory will not stand in doubt; if you know Heaven and know Earth, you may make your victory complete."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "孫子曰：地形有通者，有挂者，有支者，有隘者，有險者，有遠者。我可以往，彼可以來，曰通；通形者，先居高陽，利糧道以戰，則利。可以往，難以返，曰挂；挂形者，敵無備，出而勝之，敵若有備，出而不勝，難以返，不利。我出而不利，彼出而不利，曰支；支形者，敵雖利我，我無出也；引而去之，令敵半出而擊之，利。隘形者，我先居之，必盈以待敵；若敵先居之，盈而勿從，不盈而從之。險形者，我先居之，必居高陽以待敵；若敵先居之，引而去之，勿從也。遠形者，勢均，難以挑戰，戰而不利。凡此六者，地之道也，將之至任，不可不察也。\n故兵有走者，有弛者，有陷者，有崩者，有亂者，有北者；凡此六者，非天地之災，將之過也。夫勢均，以一擊十，曰走。卒強吏弱，曰弛。吏強卒弱，曰陷。大吏怒而不服，遇敵懟而自戰，將不知其能，曰崩。將弱不嚴，教道不明，吏卒無常，陳兵縱橫，曰亂。將不能料敵，以少合眾，以弱擊強，兵無選鋒，曰北。凡此六者，敗之道也。將之至任，不可不察也。\n夫地形者，兵之助也。料敵制勝，計險阨遠近，上將之道也。知此而用戰者，必勝；不知此而用戰者必敗。故戰道必勝；主曰：無戰；必戰可也。戰道不勝，主曰必戰，無戰可也。故進不求名，退不避罪，唯民是保，而利于主，國之寶也。\n視卒如嬰兒，故可與之赴深谿；視卒如愛子，故可與之俱死。厚而不能使，愛而不能令，亂而不能治，譬若驕子，不可用也。\n知吾卒之可以擊，而不知敵之不可擊，勝之半也；知敵之可擊，而不知吾卒之不可擊，勝之半也。知敵之可擊，知吾卒之可以擊，而不知地形之不可以戰，勝之半也。故知兵者，動而不迷，舉而不窮。故曰：知彼知己，勝乃不殆；知天知地，勝乃可全。",
+    "title": "地形"
+  },
+  "chapter_path": "books/sunzi-bingfa/chapters/chapter-010.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "The Art of War",
+  "source_url": "https://ctext.org/art-of-war?if=en"
+}

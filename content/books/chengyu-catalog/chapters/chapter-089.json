@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-089",
+    "order": 89,
+    "summary": "神安气集",
+    "text": "神安气集\n高下在口\n曲意逢迎\n身名两泰\n雪北香南\n东山再起\n积少成多\n深山幽谷\n陌路相逢\n神情自若\n超群出众\n散兵游勇\n山寒水冷\n各安生业\n元方季方\n便宜从事\n久归道山\n任重道远\n衣食父母\n甘心情愿\n三智五猜\n一目五行\n居安虑危\n讳莫如深\n字字珠玉\n废私立公\n山公倒载\n进退中度\n惘然若失\n心乱如麻",
+    "title": "2641-2670",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "神安气集",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The spirit is stable and the breath is condensed"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "高下在口",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still talking nonsense"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "曲意逢迎",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to bow down to everything sb says or does"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "身名两泰",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Reputation and status are stable"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "雪北香南",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The snowy north and the fragrant flowers and trees in the south"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "东山再起",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. to return to office after living as a hermit on Mount Dongshan (idiom); fig. to make a comeback"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "积少成多",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) many little things add up to sth great; many little drops make an ocean"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "深山幽谷",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mountains and valleys that are far away from the mountains and where people rush to"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "陌路相逢",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "meet strangers"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "神情自若",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Natural and unchanging"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "超群出众",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to transcending others"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "散兵游勇",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. straggling and disbanded soldiers (idiom); fig. disorganized uncoordinated action"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "山寒水冷",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "deserted"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "各安生业",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Each is content with the occupation on which his life depends."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "元方季方",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Calling all brothers virtuous is called \"brothers in distress\" or \"Yuan Fang Jifang\""
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "便宜从事",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the ability to consider the situation, regardless of regulatory provisions, and do not need to ask for instructions, and handle matters by oneself"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "久归道山",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "long dead"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "任重道远",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a heavy load and a long road"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "衣食父母",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the people one depends upon for one's livelihood"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "甘心情愿",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "willingly and gladly (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "三智五猜",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor of exhausting your mind and making many guesses"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "一目五行",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just one eye and ten lines"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "居安虑危",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to being mentally prepared to deal with unexpected events at any time"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "讳莫如深",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to steadfastly refuse to discuss the matter; to treat it as an untouchable subject"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "字字珠玉",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "every word a gem (idiom); magnificent writing"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "废私立公",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to turning private into public"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "山公倒载",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to lying down in the car after being drunk"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "进退中度",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the legality of forward and backward movements."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "惘然若失",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. to be frustrated as though having lost sth (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-089-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "心乱如麻",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "one's thoughts in a whirl (idiom); confused"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-089.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

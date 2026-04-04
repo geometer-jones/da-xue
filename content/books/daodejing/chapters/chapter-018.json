@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 26,
+    "id": "chapter-018",
+    "order": 18,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 26,
+        "id": "chapter-018-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "大道 廢 ， 有 仁義 ；智慧 出 ， 有 大 偽 ；六親 不和 ， 有 孝慈 ； 國家 昏亂 ， 有 忠臣 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the Great Dao (Way or Method) ceased to be observed, benevolence and righteousness came into vogue. (Then) appeared wisdom and shrewdness, and there ensued great hypocrisy. When harmony no longer prevailed throughout the six kinships, filial sons found their manifestation; when the states and clans fell into disorder, loyal ministers appeared."
+          }
+        }
+      }
+    ],
+    "summary": "大道廢，有仁義；智慧出，有大偽；六親不和，有孝慈；國家昏亂，有忠臣",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "大道廢，有仁義；智慧出，有大偽；六親不和，有孝慈；國家昏亂，有忠臣。",
+    "title": "第18章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-018.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

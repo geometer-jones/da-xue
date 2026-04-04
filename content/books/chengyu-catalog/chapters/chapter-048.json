@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-048",
+    "order": 48,
+    "summary": "何足道哉",
+    "text": "何足道哉\n相知恨晚\n通古博今\n至善至美\n入孝出弟\n阿意取容\n金石至交\n心回意转\n猛虎出山\n斗方名士\n重厚少文\n借公行私\n木已成舟\n井中求火\n如狼如虎\n如鱼得水\n心照神交\n三病四痛\n政由己出\n五色相宣\n身远心近\n我行我素\n三好二怯\n众心成城\n眼高手生\n安心乐意\n急如星火\n即景生情\n息息相通\n披古通今",
+    "title": "1411-1440",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "何足道哉",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Worth it"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "相知恨晚",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "know each other"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "通古博今",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "describe knowledgeable"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "至善至美",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to the end"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "入孝出弟",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means you should be filial to your parents when you go home, and you should respect and love your brothers when you go out."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "阿意取容",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Finger tune according to its meaning to please people"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "金石至交",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A metaphor for a friendship that is as unbreakable as gold and stone"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "心回意转",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "heart, mind"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "猛虎出山",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like a ferocious tiger coming out of the mountain"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "斗方名士",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A poem or calligraphy and painting page measuring one to two feet square"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "重厚少文",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Serious and sincere, less than ornamental"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "借公行私",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Seeking personal gain in the name of public affairs"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "木已成舟",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. the timber has been turned into a boat already (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "井中求火",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Seek fire in the well"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "如狼如虎",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describing bravery and fierceness"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "如鱼得水",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "like a fish back in water (idiom); glad to be back in one's proper surroundings"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "心照神交",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Understand with heart"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "三病四痛",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to a lot of pain"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "政由己出",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Government orders are issued by one person"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "五色相宣",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Various contrasts"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "身远心近",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means that although the bodies are far apart, the hearts of both parties are very close."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "我行我素",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to continue in one's own way (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "三好二怯",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Good times and bad times"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "众心成城",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the unity of all people, like a strong castle"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "眼高手生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "High vision but low ability"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "安心乐意",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mostly refers to inner willingness, very happy"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "急如星火",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. as hurried as a shooting star (idiom); requiring immediate action"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "即景生情",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Feeling the scene in front of you and having some thoughts and emotions"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "息息相通",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Breathing is also interconnected"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-048-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "披古通今",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "flip through"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-048.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

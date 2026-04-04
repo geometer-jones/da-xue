@@ -1,0 +1,86 @@
+{
+  "chapter": {
+    "character_count": 284,
+    "id": "chapter-012",
+    "order": 12,
+    "reading_unit_count": 5,
+    "reading_units": [
+      {
+        "character_count": 71,
+        "id": "chapter-012-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "孫子 曰 ： 凡 火攻 有 五 ： 一 曰 火 人 ， 二 曰 火積 ， 三 曰 火 輜 ， 四 曰 火 庫 ， 五 曰 火 隊 。行 火 必 有 因 ， 烟火 必 素具 。發火 有時 ， 起火 有 日 。時 者 ， 天之燥 也 。 日 者 ， 月 在 箕 、 壁 、 翼 、 軫 也 。 凡 此 四 宿 者 ， 風起 之 日 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Tzŭ said: There are five ways of attacking with fire. The first is to burn soldiers in their camp; the second is to burn stores; the third is to burn baggage trains; the fourth is to burn arsenals and magazines; the fifth is to hurl dropping fire amongst the enemy. In order to carry out an attack with fire, we must have means available. the material for raising fire should always be kept in readiness. There is a proper season for making attacks with fire, and special days for starting a conflagration. The proper season is when the weather is very dry; the special days are those when the moon is in the constellations of the Sieve, the Wall, the Wing or the Cross-bar; for these four are all days of rising wind."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-012-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "凡火攻，必因五火之變而應之，火發于內，則早應之于外。火發而其兵靜者，待而勿攻。極其火力，可從而從之，不可從而止。火可發于外，無待于內，以時發之。火發上風，無攻下風，晝風久，夜風止。凡軍必知五火之變，以數守之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In attacking with fire, one should be prepared to meet five possible developments: (1) When fire breaks out inside to enemy's camp, respond at once with an attack from without."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-012-line-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "故以火佐攻者明，以水佐攻者強，水可以絕，不可以奪。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(2) If there is an outbreak of fire, but the enemy's soldiers remain quiet, bide your time and do not attack. (3) When the force of the flames has reached its height, follow it up with an attack, if that is practicable; if not, stay where you are. (4) If it is possible to make an assault with fire from without, do not wait for it to break out within, but deliver your attack at a favourable moment. (5) When you start a fire, be to windward of it. Do not attack from the leeward. A wind that rises in the daytime lasts long, but a night breeze soon falls. In every army, the five developments connected with fire must be known, the movements of the stars calculated, and a watch kept for the proper days. Hence those who use fire as an aid to the attack show intelligence; those who use water as an aid to the attack gain an accession of strength. By means of water, an enemy may be intercepted, but not robbed of all his belongings."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-012-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "夫 戰勝 攻取 ， 而 不 修 其 功 者 凶 ， 命 曰 「 費 留 」。故 曰 ： 明主慮之 ， 良 將 修 之 ，非利不動 ， 非得 不用 ， 非危不戰 。主 不可以 怒 而 興師 ， 將 不可以 慍 而 致 戰 。合於利而動 ， 不合 於 利 而 止 。怒 可以 復 喜 ， 慍 可以 復 悅 ，亡國 不可以 復 存 ， 死者 不可以 復生 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Unhappy is the fate of one who tries to win his battles and succeed in his attacks without cultivating the spirit of enterprise; for the result is waste of time and general stagnation. Hence the saying: The enlightened ruler lays his plans well ahead; the good general cultivates his resources. Move not unless you see an advantage; use not your troops unless there is something to be gained; fight not unless the position is critical. No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique. If it is to your advantage, make a forward move; if not, stay where you are. Anger may in time change to gladness; vexation may be succeeded by content. But a kingdom that has once been destroyed can never come again into being; nor can the dead ever be brought back to life."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-012-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "故明君慎之，良將警之，此安國全軍之道也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hence the enlightened ruler is heedful, and the good general full of caution."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "孫子曰：凡火攻有五：一曰火人，二曰火積，三曰火輜，四曰火庫，五曰火隊。行火必有因，煙火必素具。發火有時，起火有日。時者，天之燥也。日者，月在箕壁翼軫也。凡此四宿者，風起之日也。\n凡火攻，必因五火之變而應之，火發于內，則早應之于外。火發而其兵靜者，待而勿攻。極其火力，可從而從之，不可從而止。火可發于外，無待于內，以時發之。火發上風，無攻下風，晝風久，夜風止。凡軍必知五火之變，以數守之。故以火佐攻者明，以水佐攻者強，水可以絕，不可以奪。\n夫戰勝攻取，而不修其攻者凶，命曰費留。故曰：明主慮之，良將修之，非利不動，非得不用，非危不戰。主不可以怒而興師，將不可以慍而致戰；合于利而動，不合于利而止。怒可以復喜，慍可以復悅，亡國不可以復存，死者不可以復生。故明君慎之，良將警之，此安國全軍之道也。",
+    "title": "火攻"
+  },
+  "chapter_path": "books/sunzi-bingfa/chapters/chapter-012.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "The Art of War",
+  "source_url": "https://ctext.org/art-of-war?if=en"
+}

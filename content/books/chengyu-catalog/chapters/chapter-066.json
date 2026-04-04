@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-066",
+    "order": 66,
+    "summary": "触目如故",
+    "text": "触目如故\n云交雨合\n多快好省\n利市三倍\n科班出身\n清平世界\n托公行私\n积善成德\n直木必伐\n革命反正\n百堵皆作\n当家作主\n移情遣意\n深更半夜\n回嗔作喜\n明若观火\n德浅行薄\n快心满意\n分守要津\n守正不回\n命在旦夕\n好行小慧\n出奇取胜\n学如登山\n再生父母\n论列是非\n食少事繁\n九死未悔\n三十而立\n知过能改",
+    "title": "1951-1980",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "触目如故",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As far as the eye can see"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "云交雨合",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to meeting, reunion"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "多快好省",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Large quantity, fast speed, good quality and cost saving"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "利市三倍",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Good market profit"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "科班出身",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor of formal education or training qualifications"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "清平世界",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Peace, tranquility, peace"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "托公行私",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still saying that it is false to serve the public good for personal gain"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "积善成德",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "good deeds, good deeds"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "直木必伐",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "straight trees straight trees"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "革命反正",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Change destiny and bring it back to normal"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "百堵皆作",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "block wall"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "当家作主",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be in charge in one's own house (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "移情遣意",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Change mood, relieve boredom"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "深更半夜",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "in the dead of night (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "回嗔作喜",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to go from anger to happiness (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "明若观火",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "as clear as seeing fire"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "德浅行薄",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Behavior, conduct"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "快心满意",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes contentment, the development of things is completely in line with one's wishes"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "分守要津",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Be important"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "守正不回",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Stick to the right path and never give in"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "命在旦夕",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be at death's door (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "好行小慧",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Love to be clever"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "出奇取胜",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Defeat the enemy with surprise"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "学如登山",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Learning is like climbing a mountain"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "再生父母",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "like a second parent (idiom); one's great benefactor"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "论列是非",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On comments"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "食少事繁",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes hard work and poor health"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "九死未悔",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Nine means a lot"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "三十而立",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "thirty years old and therefore independent (idiom, from Confucius)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-066-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "知过能改",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When you realize you are wrong, you can correct it"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-066.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

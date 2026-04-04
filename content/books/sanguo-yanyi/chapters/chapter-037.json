@@ -1,0 +1,1321 @@
+{
+  "chapter": {
+    "character_count": 3791,
+    "id": "chapter-037",
+    "order": 37,
+    "reading_unit_count": 100,
+    "reading_units": [
+      {
+        "character_count": 87,
+        "id": "chapter-037-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說徐庶趲程赴許昌，曹操知徐庶已到，遂命荀彧、程昱等一班謀士往迎之。庶入相府拜見曹操。操曰：「公乃高明之士，何故屈身而事劉備乎？」庶曰：「某幼逃難，流落江湖，偶至新野，遂與玄德交厚。老母在堂，幸蒙顧念，不勝愧感。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Why did such an illustrious scholar as you bow the knee to Liu Pei?” said Ts‘ao. “I am young and I fled to avoid the results of certain escapades. I spent some time as a wanderer and so came to Hsinyeh where I became good friends with him. But my mother is here and when I thought of all her affection I could no longer remain absent.” “Now you will be able to take care of your mother at all times. And I may have the privilege of receiving your instruction.” Hsü Shu then took his leave and hastened to his mother’s dwelling. Weeping with emotion he made his obeisance to her at the door of her room."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-037-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "」操曰：「公今至此，正可晨昏侍奉令堂，吾亦得聽清誨矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But she was greatly surprised to see him and said, “What have you come here for?” “I was at Hsinyeh, in the service of Liu of Yuchou when I received your letter. I came immediately.”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-037-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "庶拜謝而出。急往見其母，泣拜於堂下。母大驚曰：「汝何故至此？」庶曰：「近於新野事劉豫州，因得母書，故星夜至此。」徐母勃然大怒，拍案罵曰：「辱子飄蕩江湖數年，吾以為汝學業有進，何其反不如初也！汝既讀書，須知忠孝不能兩全。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His mother suddenly grew very angry. Striking the table she cried, “You shameful and degenerate son! For years you have been a vagabond in spite of all my teaching. You are a student and know the books. You must then know that loyalty and filial piety are often opposed. Did you not recognise in Ts‘ao a traitor, a man who flouts his king and insults the mighty ones? Did you not see that Liu Pei was virtuous and upright as all the world knows? Moreover, he is of the House of Han and when you were with him you were serving a fitting master. Now on the strength of a scrap of forged writing, with no attempt at any enquiry, you have left the light and plunged into darkness and earned a disgraceful reputation. Truly you are stupid! How can I bear to look upon you? You have besmirched the fair fame of your forefathers and are of no use in the world.” The son remained bowed to the earth, not daring to lift his eyes while his mother delivered this vilifying tirade. As she said the last word she rose suddenly and left the room. Soon ​ after one of the servants came out to say she had hanged herself. Her son rushed in to try to save her, but was too late. Aeulogy of her conduct has been written thus:—"
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-037-line-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "豈不識曹操欺君罔上之賊？劉玄德仁義布於四海，況又漢室之冑，汝既事之，得其主矣。今憑一紙偽書，更不詳察，遂棄明投暗，自取惡名，真愚夫也！吾有何面目與汝相見！汝玷辱祖宗，空生於天地間耳！」罵得徐庶拜伏於地，不敢仰視。母自轉入屏風後去了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wise Mother Hsü, fair is your fame, The storied page glows with your name, From duty’s path you never strayed, The family’s renown you made. To train your son no pains you spared, For your own body nothing cared. You stand sublime, from us apart, Through simple purity of heart. Brave Liu Pei’s virtues you extolled, You blamed Ts‘ao Ts‘ao, the basely bold. Of blazing fire you felt no fear, You blenched not when the sword came near, But dreaded lest a wilful son Should dim the fame his fathers won. Yes, Mother Hsü was of one mould With famous heroines of old, Who never shrank from injury, And even were content to die. Fair meed of praise, while still alive, Was yours, and ever will survive. Hail! Mother Hsü, your memory, While time rolls on, shall never die. At sight of his mother dead Hsü Shu fell in a swoon and only recovered consciousness after a long time. By and bye Ts‘ao heard of it and sent mourning gifts, and in due course went in person to condole and sacrifice. The body was interred on the south of the capital and the dead woman’s unhappy son kept vigil at her tomb. He steadily rejected all gifts from Ts‘ao Ts‘ao. At that time Ts‘ao was contemplating an attack on the south. His advisers dissuaded him, saying he should await milder weather; and he yielded. But he began to prepare, and led the river waters aside to form a lake, which he called the Training Lake, where he could accustom his men to fight on the water. As has been said Yüan-tê prepared gifts to offer to Chuko Liang on his visit. One day his servants announced a stranger of extraordinary appearance, wearing a lofty head-dress and a wide belt."
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-037-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "少頃，家人出報曰：「老夫人縊於梁間。」徐庶慌入救時，母氣已絕。後人有徐母讚曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Surely this is he” said Yüan-tê, and, hastily arranging his dress, he went to welcome the visitor. But the first glance showed him that it was the recluse of the mountains, Ssŭma Hui. However, Yüan-tê was glad to see him and led him into the inner apartment as he would an old friend. There Pei conducted him to the seat of honour and made his obeisance, saying, “Since leaving you that day in the mountains I have been overwhelmed with military preparations and so have failed to visit you as courtesy demanded. Now that the ​ brightness has descended upon me I hope this dereliction of duty may be pardoned.”"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-037-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "賢哉徐母！流芳千古！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I hear Hsü Yüan-chih is here. I have come expressly to see him,” replied the visitor bluntly."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-037-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "守節無虧，於家有補。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“He has lately left for Hsüch‘ang. A messenger came with a letter telling of the imprisonment of his mother.”"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-037-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "教子多方，處身自苦。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Then he has just fallen into Ts‘ao Ts‘ao’s trap, for that letter was a forgery. I have always known his mother to be a very noble woman, and even if she were imprisoned by Ts‘ao she would not summon her son like that. Certainly the letter was a forgery. If the son did not go, the mother would be safe; if he went, she would be a dead woman.”"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-037-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "氣若丘山，義出肺腑。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“But how?” asked Yüan-tê, dismayed."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-037-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "讚美豫州，毀觸魏武。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“She is a woman of the highest principles, who would be greatly mortified at the sight of her son under such conditions.”"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-037-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "不畏鼎鑊，不懼刀斧。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Pei said, “Just as your friend was leaving he mentioned the name of a certain Chuko Liang. What think you of him?”"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-037-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "惟恐後嗣，玷辱先祖。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hui laughed, saying, “If Yüan-chih wanted to go, he was free to go. But why did he want to provoke him into coming out and showing compassion for some one else?”"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-037-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "伏劍同流，斷機堪伍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Why do you speak like that?” asked Yüan-tê."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-037-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "生得其名，死得其所。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He replied, “Five men, K‘ung-ming, Ts‘ui Chou-p‘ing, Shih Kuang-yuan, Mêng Kung-wei and Hsü Yüan-chih were the closest of friends. They formed a little coterie devoted to meditation on essential refinement. Only K‘ung-ming arrived at a perception of its meaning. He used to sit among them with his arms about his knees muttering and then, pointing to his companions, he would say, 'You, gentlemen, would become governors and prefects if you were in official life.'"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-037-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "賢哉徐母！流芳千古！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“When they asked him what was his ambition he would only smile and always compared himself with the great scholars Kuan Chung and Yo I. No one could gauge his talents.”"
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-037-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "徐庶見母已死，哭絕於地，良久方甦。曹操使人齎禮弔問，又親往祭奠。徐庶葬母柩於許昌之南原，居喪守墓。凡曹操所賜，庶俱不受。時操欲商議南征，荀彧諫曰：「天寒未可用兵。姑待春暖，方可長驅大進。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“How comes it that Yingchou produces so many able men?” said Yüan-tê."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-037-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "」操從之，乃引漳河之水作一池，名玄武池，於內教練水軍，準備南征。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“That old astrologer, Yin K‘uei, used to say that the stars clustered thick over the district and so there were many wise men.”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-037-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "卻說玄德正安排禮物，欲往隆中謁諸葛亮，忽人報：「門外有一先生，峨冠博帶，道貌非常，特來相探。」玄德曰：「此莫非即孔明否？」遂整衣出迎。視之，乃司馬徽也。玄德大喜，請入後堂高坐，拜問曰：「備自別仙顏，日因軍務倥傯，有失拜訪。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now Kuan Yü was there and when he heard K‘ung-ming so highly praised he said, “Kuan Chung and Yo I are the two most famous men mentioned in the 'Spring and Autumn.' They well overtopped the rest of mankind. Is it not a little too much to say that K‘ung-ming compares with these two?”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-037-line-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "今得光降，大慰仰慕之私。」徽曰：「聞徐元直在此，特來一會。」玄德曰：「近因曹操囚其母，徐母遣人馳書喚回許昌去矣。」徽曰：「此中曹操之計矣！吾素聞徐母最賢，雖為操所囚，必不肯馳書召其子。此書必詐也。元直不去，其母尚存；今若去，母必死矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“In my opinion he should not be compared with these two, but rather with two others,” said Hui. “Who are these two?” asked Kuan Yü."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-037-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "玄德驚問其故。徽曰：「徐母高義，必羞見其子也。」玄德曰：「元直臨行，薦南陽諸葛亮，其人若何？」徽笑曰：「元直欲去自去便了，何又惹他出來嘔心血也？」玄德曰：「先生何出此言？」徽曰：「孔明與博陵崔州平、潁川石廣元、汝南孟公威與徐元直四人為密友。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“One of them is Chiang Tzŭ-ya, who laid the foundations of the Chou dynasty so firmly that it lasted eight hundred years, ​ and the other Chang Tzu-fang, who made Han glorious for four centuries.”"
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-037-line-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "此四人務於精純，惟孔明獨觀其大略。嘗抱膝長吟，而指四人曰：『公等仕進，可至刺史、郡守。』眾問孔明之志若何，孔明但笑而不答。每常自比管仲、樂毅，其才不可量也。」玄德曰：「何潁川之多賢乎！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Before the surprise called forth by this startling statement had subsided, the visitor walked down the steps and took his leave. Liu Pei would have kept him if he could, but he was obdurate. As he stalked proudly away he threw up his head and said, “Though the 'Sleeping Dragon' has found his lord, he has not been born at the right time. It is a pity.”"
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-037-line-022",
+        "order": 22,
+        "source_block_chunk": 3,
+        "source_block_order": 16,
+        "text": "」徽曰：「昔有殷馗善觀天文，嘗謂群星聚於潁分，其地必多賢士。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What a wise hermit!” was Liu Pei’s comment."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-037-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "時雲長在側曰：「某聞管仲、樂毅，乃春秋戰國名人，功蓋寰宇。孔明自比此二人，毋乃太過？」徽笑曰：「以吾觀之，不當比此二人。我欲另以二人比之。」雲長問那二人。徽曰：「可比興周八百年之姜子牙，旺漢四百年之張子房也。」眾皆愕然。徽下階相辭欲行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Soon after the three brothers set out to find the abode of the wise man. When they drew near the spot they saw a number of peasants in a field hoeing up the weeds, and as they worked they sang:-- “The earth is a chequered board, And the sky hangs over all, Under it men are contending, Some rise, but a many fall. For those who succeed 'tis well, But for those who go under rough. There’s a dozing dragon hard by, But his sleep is n‘t deep enough.\""
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-037-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "玄德留之不住。徽出門仰天大笑曰：「臥龍雖得其主，不得其時，惜哉！」言罷，飄然而去。玄德嘆曰：「真隱居賢士也！」次日，玄德同關、張並從人等來隆中，遙望山畔數人，荷鋤耕於田間，而作歌曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They stopped to listen to the song and, calling up one of the peasants, asked who made it. “It was made by Master 'Sleeping Dragon,'” said the labourer."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-037-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "蒼天如圓蓋，陸地似棋局。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Then he lives hereabout. Where?”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-037-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "世人黑白分，往來爭榮辱。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“South of this hill there is a ridge called The Sleeping Dragon and close by is a sparse wood. In it stands a modest cottage. That is where Master Chuko takes his repose.”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-037-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "榮者自安安，辱者定碌碌。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê thanked him and the party rode on. Soon they came to the ridge, most aptly named, for indeed it lay wrapped in an atmosphere of calm beauty."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-037-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "南陽有隱居，高眠臥不足。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Apoet wrote of it thus:—"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-037-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "玄德聞歌，勒馬喚農夫問曰：「此歌何人所作？」答曰：「乃臥龍先生所作也。」玄德曰：「臥龍先生住何處？」農夫曰：「自此山之南，一帶高岡，乃臥龍岡也。岡前疏林內茅廬中，即諸葛先生高臥之地。」玄德謝之，策馬前行。不數里，遙望臥龍岡，果然清景異常。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not far from Hsiangyang’s massive walls There stands, clear cut against the sky, A lofty ridge, and at its foot A gentle stream goes gliding by. The contour, curving up and down, Although by resting cloud it’s marred, Arrests the eye; and here and there The flank by waterfalls is scarred. There, like a sleeping dragon coiled, Or phoenix hid among thick pines, You see, secure from prying eyes, A cot, reed-built on rustic lines. The rough-joined doors, pushed by the wind, Swing idly open and disclose The greatest genius of the world Enjoying still his calm repose. The air is full of woodland scents, Around are hedgerows trim and green, Close-growing intercrossed bamboos Replace the painted doorway screen. But look within and books you see By every couch, near every chair; And you may guess that common men Are very seldom welcomed there. The hut seems far from human ken, So far, one might expect to find Wild forest denizens there, trained To serve in place of human kind. Without a hoary crane might stand As warden of the outer gate; Within a long-armed gibbon come To offer fruit upon a plate. But enter; there refinement reigns; Brocaded silk the lutes protect, And burnished weapons on the walls The green of pines outside reflect. For he who dwells within that hut Is talented beyond compare, Although he lives the simple life And harvest seems his only care. He waits until the thund'rous call Shall bid him wake, nor sleep again; Then will he forth and at his word Peace over all the land shall reign."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-037-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "後人有古風一篇，單道臥龍居處。詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê soon arrived at the door of the retreat, dismounted and knocked at the rough door of the cottage. A youth appeared and asked what he wanted."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "襄陽城西二十里，一帶高岡枕流水。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê replied, “I am Liu Pei, General of the Han Dynasty, Marquis of Ichêngt‘ing, Magistrate of Yuchou and Uncle of the Emperor. I am come to salute the Master.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "高岡屈曲壓雲根，流水潺湲飛石髓。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I cannot remember so many titles,” said the lad."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "勢若困龍石上蟠，形如單鳳松陰裏。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Then simply say that Liu Pei has come to enquire after him.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "柴門半掩閉茅廬，中有高人臥不起。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The master left this morning early.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "修竹交加列翠屏，四時籬落野花馨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Whither has he gone?”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "床頭堆積皆黃卷，座上往來無白丁。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“His movements are very uncertain. I do not know whither he has gone.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "叩戶蒼猿時獻果，守門老鶴夜聽經。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“When will he return?”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "囊裹名琴藏古錦，壁間寶劍映松文。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“That also is uncertain. Perhaps in three days, perhaps in ten.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "廬中先生獨幽雅，閒來親自勤耕稼。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The disappointment was keen."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "專待春雷驚夢回，一聲長嘯安天下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Let us go back since we cannot see him,” said Chang Fei."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-037-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "玄德來到莊前下馬，親叩柴門，一童出問。玄德曰：「漢左將軍宜城亭侯領豫州牧皇叔劉備特來拜見先生。」童子曰：「我記不得許多名字。」玄德曰：「你只說劉備來訪。」童子曰：「先生今早已出。」玄德曰：「何處去了？」童子曰：「蹤跡不定，不知何處去了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Wait a little time,” said Yüan-tê. “It would be better to return,” said Kuan Yü, “then we might send to find out when this man had come back.”"
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-037-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 33,
+        "text": "」玄德曰：「幾時歸？」童子曰：「歸期亦不定，或三五日，或十數日。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Yüan-tê agreed, first saying to the boy, “When the master returns, tell him that Liu Pei has been.”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-037-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "玄德惆悵不已。張飛曰：「既不見，自歸去罷了。」玄德曰：「且待片時。」雲長曰：「不如且歸，再使人來探聽。」玄德從其言，囑付童子：「如先生回，可言劉備拜訪。」遂上馬，行數里，勒馬回觀隆中景物，果然山不高而秀雅，水不深而澄清；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They rode away. Presently Liu Pei stopped and looked back at the surroundings of the little cottage in the wood. ​ The mountains were picturesque rather than grand, the water clear rather than profound, the plain was level rather than extensive, the woods luxuriant rather than extensive. Gibbons ranged through the trees and cranes waded in the shallow water. The pines and the bamboos vied with each other in verdure. It was a scene to linger upon."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-037-line-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 34,
+        "text": "地不廣而平坦，林不大而茂盛；猿鶴相親，松篁交翠，觀之不已。忽見一人，容貌軒昂，丰姿俊爽，頭戴逍遙巾，身穿皂布袍，杖藜從山僻小路而來。玄德曰：「此必臥龍先生也。」急下馬向前施禮，問曰：「先生非臥龍否？」其人曰：「將軍是誰？」玄德曰：「劉備也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "While Liu Pei stood regarding it, he saw a figure coming down a mountain path. The man’s bearing was lofty; he was handsome and dignified. He wore a comfortable-looking bonnet on his head and a black robe hung about his figure in easy folds. He used a staff to help him down the steep path."
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-037-line-045",
+        "order": 45,
+        "source_block_chunk": 3,
+        "source_block_order": 34,
+        "text": "」其人曰：「吾非孔明，乃孔明之友，博陵崔州平也。」玄德曰：「久聞大名，幸得相遇。乞即席地權坐，請教一言。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Surely that is he!” said Yüan-tê."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-037-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "二人對坐於林間石上，關、張侍立於側。州平曰：「將軍何故欲見孔明？」玄德曰：「方今天下大亂，四方雲擾，欲見孔明，求安邦定國之策耳。」州平笑曰：「公以定亂為主，雖是仁心，但自古以來，治亂無常。自高祖斬蛇起義，誅無道秦，是由亂而入治也；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He dismounted and walked over to greet the stranger, whom he saluted deferentially, saying, “Are you not Master Sleeping Dragon, Sir?”"
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-037-line-047",
+        "order": 47,
+        "source_block_chunk": 2,
+        "source_block_order": 35,
+        "text": "至哀、平之世二百年，太平日久，王莽纂逆，又由治而入亂；光武中興，重整基業，復由亂而入治；至今二百年，民安已久，故干戈又復四起。此正由治入亂之時，未可猝定也。將軍欲使孔明斡旋天地，補綴乾坤，恐不易為，徒費心力耳。豈不聞『順天者逸，逆天者勞』；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who are you, General?” said the stranger."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-037-line-048",
+        "order": 48,
+        "source_block_chunk": 3,
+        "source_block_order": 35,
+        "text": "『數之所在，理不得而奪之；命之所在，人不得而強之』乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am Liu Pei.”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-037-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "玄德曰：「先生所言，誠為高見。但備身為漢冑，合當匡扶漢室，何敢委之數與命？」州平曰：「山野之夫，不足與論天下事，適承明問，故妄言之。」玄德曰：「蒙先生見教，但不知孔明往何處去了？」州平曰：「吾亦欲訪之，正不知其何往。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am not K‘ung-ming, but I am a friend of his. My name is Ts‘ui Chou-pʻing.”"
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-037-line-050",
+        "order": 50,
+        "source_block_chunk": 2,
+        "source_block_order": 36,
+        "text": "」玄德曰：「請先生同至敝縣，若何？」州平曰：「愚性頗樂閒散，無意功名久矣。容他日再見。」言訖，長揖而去。玄德與關、張上馬而行。張飛曰：「孔明又訪不著，卻遇此腐儒，閒談許久！」玄德曰：「此亦隱者之言也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Long have I known of you! I am very glad to see you,” replied Yüan-tê. “And now I pray you to be seated just where we are and let me receive your instruction.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-037-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "三人回至新野，過了數日，玄德使人探聽孔明。回報曰：「臥龍先生已回矣。」玄德便教備馬。張飛曰：「量一村夫，何必哥哥自去？可使人喚來便了。」玄德叱曰：「汝豈不聞孟子云：『欲見賢而不以其道，猶欲其入而閉之門也。』孔明當世大賢，豈可召乎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The two men sat down in the wood on a stone and the two brothers ranged themselves by Liu Pei’s side. Chou-p‘ing began, saying, “General, for what reason do you wish to see K‘ung-ming?”"
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-037-line-052",
+        "order": 52,
+        "source_block_chunk": 2,
+        "source_block_order": 37,
+        "text": "」遂上馬再往訪孔明。關、張亦乘馬相隨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Pei replied, “The Empire is in confusion and troubles gather everywhere. I want your friend to tell me how to restore order.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-037-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "時值隆冬，天氣嚴寒，彤雲密布。行無數里，忽然朔風凜凜，瑞雪霏霏；山如玉簇，林似銀床。張飛曰：「天寒地凍，尚不用兵，豈宜遠見無益之人乎？不如回新野以避風雪。」玄德曰：「吾正欲使孔明知我慇懃之意。如弟輩怕冷，可先回去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You, Sir, wish to arrest the present disorder although you are a kindly man and, from the oldest antiquity, the correction of disorder has demanded stern measures. On the day that the founder of the Han dynasty first put his hand to the work and slew the wicked ruler of Ts‘in, order began to replace disorder. Good government began with The Founder, (206 B.C. ), and endured two hundred years; two centuries of tranquillity. Then came Wang Mang’s rebellion and disorder took the place of order. Anon, arose Kuang-Wu, who restored the Dynasty, and order once more prevailed. We have had two centuries of order and tranquillity, and the time of trouble and battles is due. The restoration of peace will take time; it cannot be quickly accomplished. You, Sir, wish to get K‘ung-ming to regulate times and seasons, to repair the cosmos; but I fear the task is indeed difficult and to attempt it would be a vain expenditure of mental energy. You know well that he who goes with the favour of Heaven travels an easy road, he who goes contrary meets difficulties. One cannot escape one’s lot; one cannot evade fate.”"
+          }
+        }
+      },
+      {
+        "character_count": 53,
+        "id": "chapter-037-line-054",
+        "order": 54,
+        "source_block_chunk": 2,
+        "source_block_order": 38,
+        "text": "」飛曰：「死且不怕，豈怕冷乎？但恐哥哥空勞神思。」玄德曰：「勿多言，只相隨同去。」將近茅廬，忽聞路旁酒店中有人作歌。玄德立馬聽之。其歌曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “Master,” replied Pei, “your insight is indeed deep and your words of wide meaning, but I am a scion of the House of Han and must help it. Dare I talk of the inevitable and trust to fate?”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "壯士功名尚未成，嗚呼久不遇陽春。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chou-p‘ing replied, “A simple denizen of the mountain wilds is unfitted to discuss the affairs of Empire. But you bade me speak and I have spoken; perhaps somewhat madly.”"
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-037-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "君不見東海老叟辭荊榛，後車遂與文王親？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Master, I am grateful for your instruction. But know you whither K‘ung-ming has gone?”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "八百諸侯不期會，白魚入舟涉孟津？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I also came to see him and I know not where he is,” said Chou-p‘ing."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "牧野一戰血流杵，鷹揚偉烈冠武臣？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If I asked you, Master, to accompany me to my poor bit of territory, would you come?”"
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-037-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "又不見高陽酒徒起草中，長揖芒碭隆準公？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am too dilatory, too fond of leisure and ease, and no longer have any ambitions. But I will see you another time.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "高談王霸驚人耳，輟洗延坐欽英風？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And with these words he saluted and left."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 45,
+        "text": "東下齊城七十二，天下無人能繼蹤？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The three brothers also mounted and started homeward. Presently Chang Fei said, “We have not found K‘ung-ming and we have had to listen to the wild ravings of this so-called scholar. There is the whole result of this journey.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 46,
+        "text": "二人非際聖天子，至今誰復識英雄？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“His words were those of a deep thinker,” replied Yüan-tê."
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-037-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 47,
+        "text": "歌罷，又有一人擊卓而歌。其歌曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Some days after the return to Hsinyeh, Yüan-tê sent to find out whether K‘ung-ming had returned and the messenger came back saying that he had. Wherefore Liu Pei prepared for another visit. Again Chang Fei showed his irritation by remarking, “Why must you go hunting after this villager? Send and tell him to come.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 48,
+        "text": "吾皇提劍清寰海，創業垂基四百載。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Silence!” said Yüan-tê, “The Teacher Mêng, (Mencius) said, 'To try to see the sage without going his way is like barring a door you wish to enter.' K‘ung-ming is the greatest sage of the day; how can I summon him?”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 49,
+        "text": "桓靈季業火德衰，奸臣賊子調鼎鼐。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Yüan-tê rode away to make his visit, his two brothers with him as before. It was winter and exceedingly cold; angry clouds covered the whole sky. Before they had gone far a bitter wind began to blow in their faces and the snow began to fall. Soon the mountains were of jade and the trees of silver."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-066",
+        "order": 66,
+        "source_block_chunk": 1,
+        "source_block_order": 50,
+        "text": "青蛇飛下御座傍，又見妖虹降玉堂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“It is very cold and the earth is frozen hard, no fighting is possible now.” Said Chang Fei. “Yet we are going all this way to get advice which will be useless to us. Where is the sense of it? Let us rather get back to Hsinyeh out of the cold.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-067",
+        "order": 67,
+        "source_block_chunk": 1,
+        "source_block_order": 51,
+        "text": "群盜四方如蟻聚，奸雄百輩皆鷹揚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê replied, “I am set upon proving my zeal to K‘ungming, but if you, my brother, do not like the cold, you can return.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-068",
+        "order": 68,
+        "source_block_chunk": 1,
+        "source_block_order": 52,
+        "text": "吾儕長嘯空拍手，悶來村店飲村酒。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I do not fear death; do you think I care for the cold? But I do care about wasting my brother’s energies,” said Chang Fei."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-069",
+        "order": 69,
+        "source_block_chunk": 1,
+        "source_block_order": 53,
+        "text": "獨善其身盡日安，何須千古名不朽？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Say no more,” said Yüan-tê, and they travelled on. ​ When they drew near the little wood they heard singing in a roadside inn and stopped to listen. This was the song:—"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-037-line-070",
+        "order": 70,
+        "source_block_chunk": 1,
+        "source_block_order": 54,
+        "text": "二人歌罷，撫掌大笑。玄德曰：「臥龍其在此間乎？」遂下馬入店。見二人憑桌對飲，上首者白面長鬚，下首者清奇古貌。玄德揖而問曰：「二公誰是臥龍先生？」長鬚者曰：「公何人？欲尋臥龍何幹？」玄德曰：「某乃劉備也。欲訪先生，求濟世安民之術。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Although possessed of talent rare, This man has made no name; Alas! the day is breaking late That is to show his fame. O friends you know the tale: Th’aged man constrained to leave His cottage by the sea, To follow in a prince’s train His counsellor to be. Eight hundred feudal chieftains met Who came with one accord; The happy omen, that white fish, That leapt the boat aboard; The gory field in distant wilds, Whence flowed a crimson tide, And him acknowledged chief in war Whose virtues none denied; That Kaoyang rustic, fond of wine, Who left his native place And went to serve so faithfully The man of handsome face; And one who spoke of ruling chiefs In tones so bold and free, But sitting at the festive board Was full of courtesy; And one, 'twas he who laid in dust Walled cities near four score— But men of doughty deeds like these On earth are seen no more. Now had these men not found their lord Would they be known to fame? Yet having found, they served him well And so achieved a name."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-037-line-071",
+        "order": 71,
+        "source_block_chunk": 2,
+        "source_block_order": 54,
+        "text": "」長鬚者曰：「吾等非臥龍，皆臥龍之友也。吾乃潁川石廣元，此位是汝南孟公威。」玄德喜曰：「備久聞二公大名，幸得邂逅。今有隨行馬匹在此，敢請二公同往臥龍莊上一談。」廣元曰：「吾等皆山野慵懶之徒，不省治國安民之事，不勞下問。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The song ended, the singer’s companion tapping the table sang:— We had a famous emperor, Who drew his shining sword, Cleansed all the land within the seas And made himself its lord. In time his son succeeded him, And so from son to son The lordship passed, held firm until Four hundred years had run. Then dawned a day of weaklier sons, The fiery virtue failed, Then ministers betrayed their trust, Court intrigues vile prevailed. The omens came; a serpent black Coiled on the dragon throne, While in the hall of audience Unholy haloes shone. Now bandits swarm in all the land And noble strives with chief, The common people, sore perplexed, Can nowhere find relief."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-037-line-072",
+        "order": 72,
+        "source_block_chunk": 3,
+        "source_block_order": 54,
+        "text": "明公請自上馬，尋訪臥龍。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let’s drown our sorrows in the cup, Be happy while we may, Let those who wish run after fame That is to last for aye."
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-037-line-073",
+        "order": 73,
+        "source_block_chunk": 1,
+        "source_block_order": 55,
+        "text": "玄德乃辭二人，上馬投臥龍岡來；到莊前下馬，扣門問童子曰：「先生今日在莊否？」童子曰：「現在堂上讀書。」玄德大喜，遂跟童子而入。至中門，只見門上大書一聯云：「淡泊以明志，寧靜而致遠。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The two men laughed loud and clapped their hands as the second singer ceased. Yüan-tê thought full surely the longedfor sage was there, so he dismounted and entered the inn. He saw the two merry-makers sitting opposite each other at a table. One was pale with a long beard; the other had a strikingly refined face. Yan-tê saluted them and said, “Which of you is Master Sleeping Dragon?”"
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-037-line-074",
+        "order": 74,
+        "source_block_chunk": 2,
+        "source_block_order": 55,
+        "text": "」玄德正看間，忽聞吟詠之聲，乃立於門側窺之，見草堂之上，一少年擁爐抱膝，歌曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who are you, Sir?” asked the long-bearded one. “What business have you with Sleeping Dragon?”"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-037-line-075",
+        "order": 75,
+        "source_block_chunk": 1,
+        "source_block_order": 56,
+        "text": "鳳翱翔於千仞兮，非梧不棲；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am Liu Pei. I want to enquire of him how to restore tranquillity to the world.”"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-037-line-076",
+        "order": 76,
+        "source_block_chunk": 1,
+        "source_block_order": 57,
+        "text": "士伏處於一方兮，非主不依。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Well, neither of us is your man, but we are friends of his. My name is Shih Kuang-yüan and my friend here is Mêng Kung-wei.”"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-037-line-077",
+        "order": 77,
+        "source_block_chunk": 1,
+        "source_block_order": 58,
+        "text": "樂躬耕於隴畝兮，吾愛吾廬；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I know you both by reputation,” said Yüan-tê smiling. “I am indeed fortunate to meet you in this haphazard way. Will you not come to the Sleeping Dragon’s retreat and talk for a time? I have horses here for you.”"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-037-line-078",
+        "order": 78,
+        "source_block_chunk": 1,
+        "source_block_order": 59,
+        "text": "聊寄傲於琴書兮，以待天時。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“We idle folk of the wilds know nothing of tranquillising States. Do not trouble to ask, please. Pray mount again and go your way in search of Sleeping Dragon.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-037-line-079",
+        "order": 79,
+        "source_block_chunk": 1,
+        "source_block_order": 60,
+        "text": "玄德待其歌罷，上草堂施禮曰：「備久慕先生，無緣拜會。昨因徐元直稱薦，敬至仙莊，不遇空回。今特冒風雪而來，得瞻道貌，實為萬幸！」那少年慌忙答禮曰：「將軍莫非劉豫州，欲見家兄否？」玄德驚訝曰：「先生又非臥龍耶？」少年曰：「某乃臥龍之弟諸葛均也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So he remounted and went his way. He reached the little cottage, dismounted and tapped at the door. The same lad answered his knock and he asked whether the Master had returned. “He is in his room reading,” said the boy. Joyful indeed was Liu Pei as he followed the lad in. In front of the middle door he saw written this pair of scrolls:— By purity manifest the inclination: By repose affect the distant."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-037-line-080",
+        "order": 80,
+        "source_block_chunk": 2,
+        "source_block_order": 60,
+        "text": "愚兄弟三人，長兄諸葛瑾，現在江東孫仲謀處為幕賓。孔明乃二家兄。」玄德曰：「臥龍今在家否？」均曰：「昨為崔州平相約，出外閒遊去矣。」玄德曰：「何處閒遊？」均曰：「或駕小舟，遊於江湖之中；或訪僧道於山嶺之上；或尋朋友於村落之間；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As he was looking at this couplet he heard some one singing in a subdued voice and stopped by the door to peep in. He saw a young man close to a charcoal brazier, hugging his knees while he sang:— The phoenix flies high, ah me! And only will perch on a wutung tree. The scholar is hid, ah me! Till his lord appear he can patient be. He tills his fields, ah me! He is well-content and I love my home, He awaits his day, ah me! His books and his lute to leave and roam."
+          }
+        }
+      },
+      {
+        "character_count": 70,
+        "id": "chapter-037-line-081",
+        "order": 81,
+        "source_block_chunk": 3,
+        "source_block_order": 60,
+        "text": "或樂琴棋於洞府之內；往來莫測，不知去所。」玄德曰：「劉備直如此緣分淺薄，兩番不遇大賢！」均曰：「少坐獻茶。」張飛曰：「那先生既不在，請哥哥上馬。」玄德曰：「我既到此間，如何無一語而回？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As the song ended Yüan-tê advanced and saluted saying, “Master, long have I yearned for you, but have found it impossible to salute you. Lately one Hsu spoke of you and ​ I hastened to your dwelling, only to come away disappointed. This time I have braved the elements and come again and my reward is here; I see your face, and I am indeed fortunate.”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-037-line-082",
+        "order": 82,
+        "source_block_chunk": 4,
+        "source_block_order": 60,
+        "text": "」因問諸葛均曰：「聞令兄臥龍先生熟諳韜略，日看兵書，可得聞乎？」均曰：「不知。」張飛曰：「問他則甚！風雪甚緊，不如早歸。」玄德叱止之。均曰：「家兄不在，不敢久留車騎，容日卻來回禮。」玄德曰：「豈敢望先生枉駕。數日之後，備當再至。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The young man hastily returned the salute and said, “General, you must be that Liu Pei of Yuchou who wishes to see my brother.” “Then, Master, you are not the Sleeping Dragon!” said Yüan-tê, starting back. “I am his younger brother, Chün. He has an elder brother, Chin, now with Sun in Chiangtung as a secretary. K‘ung-ming is the second of our family.”"
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-037-line-083",
+        "order": 83,
+        "source_block_chunk": 5,
+        "source_block_order": 60,
+        "text": "願借紙筆作一書，留達令兄，以表劉備慇懃之意。」均遂進文房四寶。玄德呵開凍筆，拂展雲箋，寫書曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Is your brother at home?” “Only yesterday he arranged to go a jaunt with Ts‘ui Chou-p‘ing.” “Whither have they gone?”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-037-line-084",
+        "order": 84,
+        "source_block_chunk": 1,
+        "source_block_order": 61,
+        "text": "備久慕高名，兩次晉謁，不遇空回，惆悵何似！竊念備漢朝苗裔，濫叨名爵，伏觀朝廷陵替，綱紀崩摧，群雄亂國，惡黨欺君，備心膽俱裂。雖有匡濟之誠，實乏經綸之策。仰望先生仁慈忠義，慨然展呂望之大才，施子房之鴻略，天下幸甚！社稷甚幸！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who can say? They may take a boat and sail away among the lakes, or go to gossip with the priests in some remote mountain temple, or wander off to visit a friend in some far away village, or be sitting in some cave with a lute or a chessboard. Their goings and comings are uncertain and nobody can guess at them.”"
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-037-line-085",
+        "order": 85,
+        "source_block_chunk": 2,
+        "source_block_order": 61,
+        "text": "先此布達，再容齊戒勳沐，特拜尊顏，面傾鄙悃，統希鑒原。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What very poor luck have I! Twice have I failed to meet the great sage.”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-037-line-086",
+        "order": 86,
+        "source_block_chunk": 1,
+        "source_block_order": 62,
+        "text": "玄德寫罷，遞與諸葛均收了，拜辭出門。均送出，玄德再三慇懃致意而別。方上馬欲行，忽見童子招手籬外叫曰：「老先生來也。」玄德視之，見小橋之西，一人煖帽遮頭，狐裘蔽體，騎著一驢後隨一青衣小童，攜一葫蘆酒，踏雪而來；轉過小橋，口吟詩一首。詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Pray sit a few moments and let me offer you some tea.” “Brother, since the master is not here I pray you remount and go,” said Chang Fei. “Since I am here, why not a little talk before we go home again?” said Yüan-tê. Then turning to his host he continued, “Can you tell me if your worthy brother is skilled in strategy and studies works on war?” “I do not know.”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-037-line-087",
+        "order": 87,
+        "source_block_chunk": 1,
+        "source_block_order": 63,
+        "text": "一夜北風寒，萬里彤雲厚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“This is worse than the other,” grumbled Chang Fei. “And the wind and snow are getting worse; we ought to go back.”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-037-line-088",
+        "order": 88,
+        "source_block_chunk": 1,
+        "source_block_order": 64,
+        "text": "長空雪亂飄，改盡江山舊。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê turned on him angrily and told him to stop."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-037-line-089",
+        "order": 89,
+        "source_block_chunk": 1,
+        "source_block_order": 65,
+        "text": "仰面觀太虛，疑是玉龍鬥。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chün said, “Since my brother is absent I will not presume to detain you longer. I will return your call soon.”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-037-line-090",
+        "order": 90,
+        "source_block_chunk": 1,
+        "source_block_order": 66,
+        "text": "紛紛鱗甲飛，頃刻遍宇宙。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Please do not take that trouble. In a few days I will come again. But if I could borrow paper and pencil I would leave a note to show your worthy brother that I am zealous and earnest.”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-037-line-091",
+        "order": 91,
+        "source_block_chunk": 1,
+        "source_block_order": 67,
+        "text": "騎驢過小橋，獨嘆梅花瘦。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chun produced the “four treasures” of the scholar and Yüan-tê, thawing out the frozen brush between his lips, spread the sheet of delicate note-paper and wrote:—"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-037-line-092",
+        "order": 92,
+        "source_block_chunk": 1,
+        "source_block_order": 68,
+        "text": "玄德聞歌曰：「此真臥龍矣！」滾鞍下馬，向前施禮曰：「先生冒寒不易！劉備等候久矣！」那人慌忙下驢答禮。諸葛均在後曰：「此非臥龍家兄，乃家兄岳父黃承彥也。」玄德曰：「適間所吟之句，極其高妙。」承彥曰：「老夫在小婿家觀《梁父吟》，記得這一篇；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Pei has long admired your fame. He has visited your dwelling twice, but to his great disappointment he has gone empty away. He humbly remembers that he is a distant relative of the Emperor, that he has undeservedly enjoyed fame and rank. When he sees the proper government wrested ​ aside and replaced by pretence, the foundation of the State crumbling away, hordes of bravos creating confusion in the country and an evil cabal behaving unseemly toward the rightful Prince, then his heart and gall are torn to shreds. Though he has a real desire to assist, yet is he deficient in the needful skill. Wherefore he turns to the Master, trusting in his kindness, graciousness, loyalty and righteousness. Would the Master but use his talent, equal to that of Lü Wang, and perform great deeds like Chang Tzŭ-fang, then would the Empire be happy and the throne would be secure.” “This is written to tell you that, after purification of mind with fasting and of body with fragrant baths, Pei will come again to prostrate himself in your honoured presence and receive enlightenment.” The letter written and given to Chün, Yüan-tê took his leave, exceedingly disappointed at this second failure. As he was mounting he saw the serving lad waving his hand outside the hedge and heard him call out, “The old Master is coming”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-037-line-093",
+        "order": 93,
+        "source_block_chunk": 2,
+        "source_block_order": 68,
+        "text": "適過小橋，偶見籬落間梅花，故感而誦之。不期為尊客所聞。」玄德曰：「曾見賢婿否？」承彥曰：「便是老夫也來看他。」玄德聞言，辭別承彥，上馬而歸。正值風雪又大，回望臥龍岡，悒怏不已。後人有詩單道玄德風雪訪孔明。詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê looked and then saw a figure seated on a donkey leisurely jogging along over a bridge. The rider of the donkey wore a cap with long flaps down to his shoulders and his body was wrapped in a fox fur robe. A youth followed him bearing a jar of wine. As he came through the snow he hummed a song:— 'Tis eve, the sky is overcast, The north wind comes with icy blast, Light snowflakes whirl adown until A white pall covers dale and hill. Perhaps above the topmost sky White dragons strive for mastery, The armour scales from their forms riven Are scattered o‘er the world wind-driven. Amid the storm there jogs along A simple wight who croons a song. “O poor plum trees, the gale doth tear Your blossoms off and leave you bare.\" “Here at last is the Sleeping Dragon,” thought Yüan-tê, hastily slipping out of the saddle. He saluted the donkey rider as he neared and said, “Master, it is hard to make way against this cold wind. I and my companions have been waiting long.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-094",
+        "order": 94,
+        "source_block_chunk": 1,
+        "source_block_order": 69,
+        "text": "一天風雪訪賢良，不遇空回意感傷。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The rider got off his donkey and returned the bow, while Chuko Chün from behind said, “This is not my brother; it is his father-in-law, Huang Ch‘êng-yen.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-095",
+        "order": 95,
+        "source_block_chunk": 1,
+        "source_block_order": 70,
+        "text": "凍合溪橋山石滑，寒侵鞍馬路途長。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê said, “I chanced to hear the song you were singing; it is very beautiful.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-096",
+        "order": 96,
+        "source_block_chunk": 1,
+        "source_block_order": 71,
+        "text": "當頭片片梨花落，撲面紛紛柳絮狂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ch‘êng-yen replied, “It is a little poem I read in my son-in-law’s house and I recalled it as I crossed the bridge and saw the plum trees in the hedge. And so it happened to catch your ear, noble Sir.” ​ “Have you seen your son-in-law lately?” asked Yüan-tê."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-097",
+        "order": 97,
+        "source_block_chunk": 1,
+        "source_block_order": 72,
+        "text": "回首停鞭遙望處，爛銀堆滿臥龍岡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“That is just what I have come to do now.” At this Yüan-tê bade him farewell and went on his way. The storm was very grievous to bear, but worse than the storm was the grief in his heart as he looked back at Sleeping Dragon Ridge."
+          }
+        }
+      },
+      {
+        "character_count": 56,
+        "id": "chapter-037-line-098",
+        "order": 98,
+        "source_block_chunk": 1,
+        "source_block_order": 73,
+        "text": "玄德回新野之後，光陰荏苒，又早新春。乃令卜者揲蓍，選擇吉期，齋戒三日，薰沐更衣，再往臥龍岡謁孔明。關、張聞之不悅，遂一齊入諫玄德。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One winter’s day through snow and wind A prince rode forth the sage to find; Alas! his journey was in vain, And sadly turned he home again. The stream stood still beneath the bridge A sheet of ice draped rock and ridge, His steed benumbed with biting cold But crawled as he were stiff and old. The snow-flakes on the rider’s head Were like pear-blossoms newly shed, Or like the willow-catkins light They brushed his cheek in headlong flight. He stayed his steed, he looked around, The snow lay thick on tree and mound, The Sleeping Dragon Ridge lay white A hill of silver, glistening bright."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-037-line-099",
+        "order": 99,
+        "source_block_chunk": 1,
+        "source_block_order": 74,
+        "text": "高賢未服英雄志，屈節偏生傑士疑。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After the return to Hsinyeh the time slipped away till spring was near. Then Yüan-tê cast lots to find the propitious day for another journey in search of the sage. The day being selected he fasted for three days and then changed his dress ready for the visit. His two brothers viewed the preparations with disapproval and presently made up their minds to remonstrate."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-037-line-100",
+        "order": 100,
+        "source_block_chunk": 1,
+        "source_block_order": 75,
+        "text": "未知其言若何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The sage and the fighting man never agree, A warrior despises humility. The next chapter will tell what they said."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說徐庶趲程赴許昌，曹操知徐庶已到，遂命荀彧、程昱等一班謀士往迎之。庶入相府拜見曹操。操曰：「公乃高明之士，何故屈身而事劉備乎？」庶曰：「某幼逃難，流落江湖，偶至新野，遂與玄德交厚。老母在堂，幸蒙顧念，不勝愧感。」操曰：「公今至此，正可晨昏侍奉令堂，吾亦得聽清誨矣。」\n庶拜謝而出。急往見其母，泣拜於堂下。母大驚曰：「汝何故至此？」庶曰：「近於新野事劉豫州，因得母書，故星夜至此。」徐母勃然大怒，拍案罵曰：「辱子飄蕩江湖數年，吾以為汝學業有進，何其反不如初也！汝既讀書，須知忠孝不能兩全。豈不識曹操欺君罔上之賊？劉玄德仁義布於四海，況又漢室之冑，汝既事之，得其主矣。今憑一紙偽書，更不詳察，遂棄明投暗，自取惡名，真愚夫也！吾有何面目與汝相見！汝玷辱祖宗，空生於天地間耳！」罵得徐庶拜伏於地，不敢仰視。母自轉入屏風後去了。\n少頃，家人出報曰：「老夫人縊於梁間。」徐庶慌入救時，母氣已絕。後人有徐母讚曰：\n賢哉徐母！流芳千古！\n守節無虧，於家有補。\n教子多方，處身自苦。\n氣若丘山，義出肺腑。\n讚美豫州，毀觸魏武。\n不畏鼎鑊，不懼刀斧。\n惟恐後嗣，玷辱先祖。\n伏劍同流，斷機堪伍。\n生得其名，死得其所。\n賢哉徐母！流芳千古！\n徐庶見母已死，哭絕於地，良久方甦。曹操使人齎禮弔問，又親往祭奠。徐庶葬母柩於許昌之南原，居喪守墓。凡曹操所賜，庶俱不受。時操欲商議南征，荀彧諫曰：「天寒未可用兵。姑待春暖，方可長驅大進。」操從之，乃引漳河之水作一池，名玄武池，於內教練水軍，準備南征。\n卻說玄德正安排禮物，欲往隆中謁諸葛亮，忽人報：「門外有一先生，峨冠博帶，道貌非常，特來相探。」玄德曰：「此莫非即孔明否？」遂整衣出迎。視之，乃司馬徽也。玄德大喜，請入後堂高坐，拜問曰：「備自別仙顏，日因軍務倥傯，有失拜訪。今得光降，大慰仰慕之私。」徽曰：「聞徐元直在此，特來一會。」玄德曰：「近因曹操囚其母，徐母遣人馳書喚回許昌去矣。」徽曰：「此中曹操之計矣！吾素聞徐母最賢，雖為操所囚，必不肯馳書召其子。此書必詐也。元直不去，其母尚存；今若去，母必死矣。」\n玄德驚問其故。徽曰：「徐母高義，必羞見其子也。」玄德曰：「元直臨行，薦南陽諸葛亮，其人若何？」徽笑曰：「元直欲去自去便了，何又惹他出來嘔心血也？」玄德曰：「先生何出此言？」徽曰：「孔明與博陵崔州平、潁川石廣元、汝南孟公威與徐元直四人為密友。此四人務於精純，惟孔明獨觀其大略。嘗抱膝長吟，而指四人曰：『公等仕進，可至刺史、郡守。』眾問孔明之志若何，孔明但笑而不答。每常自比管仲、樂毅，其才不可量也。」玄德曰：「何潁川之多賢乎！」徽曰：「昔有殷馗善觀天文，嘗謂群星聚於潁分，其地必多賢士。」\n時雲長在側曰：「某聞管仲、樂毅，乃春秋戰國名人，功蓋寰宇。孔明自比此二人，毋乃太過？」徽笑曰：「以吾觀之，不當比此二人。我欲另以二人比之。」雲長問那二人。徽曰：「可比興周八百年之姜子牙，旺漢四百年之張子房也。」眾皆愕然。徽下階相辭欲行。玄德留之不住。徽出門仰天大笑曰：「臥龍雖得其主，不得其時，惜哉！」言罷，飄然而去。玄德嘆曰：「真隱居賢士也！」次日，玄德同關、張並從人等來隆中，遙望山畔數人，荷鋤耕於田間，而作歌曰：\n蒼天如圓蓋，陸地似棋局。\n世人黑白分，往來爭榮辱。\n榮者自安安，辱者定碌碌。\n南陽有隱居，高眠臥不足。\n玄德聞歌，勒馬喚農夫問曰：「此歌何人所作？」答曰：「乃臥龍先生所作也。」玄德曰：「臥龍先生住何處？」農夫曰：「自此山之南，一帶高岡，乃臥龍岡也。岡前疏林內茅廬中，即諸葛先生高臥之地。」玄德謝之，策馬前行。不數里，遙望臥龍岡，果然清景異常。後人有古風一篇，單道臥龍居處。詩曰：\n襄陽城西二十里，一帶高岡枕流水。\n高岡屈曲壓雲根，流水潺湲飛石髓。\n勢若困龍石上蟠，形如單鳳松陰裏。\n柴門半掩閉茅廬，中有高人臥不起。\n修竹交加列翠屏，四時籬落野花馨。\n床頭堆積皆黃卷，座上往來無白丁。\n叩戶蒼猿時獻果，守門老鶴夜聽經。\n囊裹名琴藏古錦，壁間寶劍映松文。\n廬中先生獨幽雅，閒來親自勤耕稼。\n專待春雷驚夢回，一聲長嘯安天下。\n玄德來到莊前下馬，親叩柴門，一童出問。玄德曰：「漢左將軍宜城亭侯領豫州牧皇叔劉備特來拜見先生。」童子曰：「我記不得許多名字。」玄德曰：「你只說劉備來訪。」童子曰：「先生今早已出。」玄德曰：「何處去了？」童子曰：「蹤跡不定，不知何處去了。」玄德曰：「幾時歸？」童子曰：「歸期亦不定，或三五日，或十數日。」\n玄德惆悵不已。張飛曰：「既不見，自歸去罷了。」玄德曰：「且待片時。」雲長曰：「不如且歸，再使人來探聽。」玄德從其言，囑付童子：「如先生回，可言劉備拜訪。」遂上馬，行數里，勒馬回觀隆中景物，果然山不高而秀雅，水不深而澄清；地不廣而平坦，林不大而茂盛；猿鶴相親，松篁交翠，觀之不已。忽見一人，容貌軒昂，丰姿俊爽，頭戴逍遙巾，身穿皂布袍，杖藜從山僻小路而來。玄德曰：「此必臥龍先生也。」急下馬向前施禮，問曰：「先生非臥龍否？」其人曰：「將軍是誰？」玄德曰：「劉備也。」其人曰：「吾非孔明，乃孔明之友，博陵崔州平也。」玄德曰：「久聞大名，幸得相遇。乞即席地權坐，請教一言。」\n二人對坐於林間石上，關、張侍立於側。州平曰：「將軍何故欲見孔明？」玄德曰：「方今天下大亂，四方雲擾，欲見孔明，求安邦定國之策耳。」州平笑曰：「公以定亂為主，雖是仁心，但自古以來，治亂無常。自高祖斬蛇起義，誅無道秦，是由亂而入治也；至哀、平之世二百年，太平日久，王莽纂逆，又由治而入亂；光武中興，重整基業，復由亂而入治；至今二百年，民安已久，故干戈又復四起。此正由治入亂之時，未可猝定也。將軍欲使孔明斡旋天地，補綴乾坤，恐不易為，徒費心力耳。豈不聞『順天者逸，逆天者勞』；『數之所在，理不得而奪之；命之所在，人不得而強之』乎？」\n玄德曰：「先生所言，誠為高見。但備身為漢冑，合當匡扶漢室，何敢委之數與命？」州平曰：「山野之夫，不足與論天下事，適承明問，故妄言之。」玄德曰：「蒙先生見教，但不知孔明往何處去了？」州平曰：「吾亦欲訪之，正不知其何往。」玄德曰：「請先生同至敝縣，若何？」州平曰：「愚性頗樂閒散，無意功名久矣。容他日再見。」言訖，長揖而去。玄德與關、張上馬而行。張飛曰：「孔明又訪不著，卻遇此腐儒，閒談許久！」玄德曰：「此亦隱者之言也。」\n三人回至新野，過了數日，玄德使人探聽孔明。回報曰：「臥龍先生已回矣。」玄德便教備馬。張飛曰：「量一村夫，何必哥哥自去？可使人喚來便了。」玄德叱曰：「汝豈不聞孟子云：『欲見賢而不以其道，猶欲其入而閉之門也。』孔明當世大賢，豈可召乎？」遂上馬再往訪孔明。關、張亦乘馬相隨。\n時值隆冬，天氣嚴寒，彤雲密布。行無數里，忽然朔風凜凜，瑞雪霏霏；山如玉簇，林似銀床。張飛曰：「天寒地凍，尚不用兵，豈宜遠見無益之人乎？不如回新野以避風雪。」玄德曰：「吾正欲使孔明知我慇懃之意。如弟輩怕冷，可先回去。」飛曰：「死且不怕，豈怕冷乎？但恐哥哥空勞神思。」玄德曰：「勿多言，只相隨同去。」將近茅廬，忽聞路旁酒店中有人作歌。玄德立馬聽之。其歌曰：\n壯士功名尚未成，嗚呼久不遇陽春。\n君不見東海老叟辭荊榛，後車遂與文王親？\n八百諸侯不期會，白魚入舟涉孟津？\n牧野一戰血流杵，鷹揚偉烈冠武臣？\n又不見高陽酒徒起草中，長揖芒碭隆準公？\n高談王霸驚人耳，輟洗延坐欽英風？\n東下齊城七十二，天下無人能繼蹤？\n二人非際聖天子，至今誰復識英雄？\n歌罷，又有一人擊卓而歌。其歌曰：\n吾皇提劍清寰海，創業垂基四百載。\n桓靈季業火德衰，奸臣賊子調鼎鼐。\n青蛇飛下御座傍，又見妖虹降玉堂。\n群盜四方如蟻聚，奸雄百輩皆鷹揚。\n吾儕長嘯空拍手，悶來村店飲村酒。\n獨善其身盡日安，何須千古名不朽？\n二人歌罷，撫掌大笑。玄德曰：「臥龍其在此間乎？」遂下馬入店。見二人憑桌對飲，上首者白面長鬚，下首者清奇古貌。玄德揖而問曰：「二公誰是臥龍先生？」長鬚者曰：「公何人？欲尋臥龍何幹？」玄德曰：「某乃劉備也。欲訪先生，求濟世安民之術。」長鬚者曰：「吾等非臥龍，皆臥龍之友也。吾乃潁川石廣元，此位是汝南孟公威。」玄德喜曰：「備久聞二公大名，幸得邂逅。今有隨行馬匹在此，敢請二公同往臥龍莊上一談。」廣元曰：「吾等皆山野慵懶之徒，不省治國安民之事，不勞下問。明公請自上馬，尋訪臥龍。」\n玄德乃辭二人，上馬投臥龍岡來；到莊前下馬，扣門問童子曰：「先生今日在莊否？」童子曰：「現在堂上讀書。」玄德大喜，遂跟童子而入。至中門，只見門上大書一聯云：「淡泊以明志，寧靜而致遠。」玄德正看間，忽聞吟詠之聲，乃立於門側窺之，見草堂之上，一少年擁爐抱膝，歌曰：\n鳳翱翔於千仞兮，非梧不棲；\n士伏處於一方兮，非主不依。\n樂躬耕於隴畝兮，吾愛吾廬；\n聊寄傲於琴書兮，以待天時。\n玄德待其歌罷，上草堂施禮曰：「備久慕先生，無緣拜會。昨因徐元直稱薦，敬至仙莊，不遇空回。今特冒風雪而來，得瞻道貌，實為萬幸！」那少年慌忙答禮曰：「將軍莫非劉豫州，欲見家兄否？」玄德驚訝曰：「先生又非臥龍耶？」少年曰：「某乃臥龍之弟諸葛均也。愚兄弟三人，長兄諸葛瑾，現在江東孫仲謀處為幕賓。孔明乃二家兄。」玄德曰：「臥龍今在家否？」均曰：「昨為崔州平相約，出外閒遊去矣。」玄德曰：「何處閒遊？」均曰：「或駕小舟，遊於江湖之中；或訪僧道於山嶺之上；或尋朋友於村落之間；或樂琴棋於洞府之內；往來莫測，不知去所。」玄德曰：「劉備直如此緣分淺薄，兩番不遇大賢！」均曰：「少坐獻茶。」張飛曰：「那先生既不在，請哥哥上馬。」玄德曰：「我既到此間，如何無一語而回？」因問諸葛均曰：「聞令兄臥龍先生熟諳韜略，日看兵書，可得聞乎？」均曰：「不知。」張飛曰：「問他則甚！風雪甚緊，不如早歸。」玄德叱止之。均曰：「家兄不在，不敢久留車騎，容日卻來回禮。」玄德曰：「豈敢望先生枉駕。數日之後，備當再至。願借紙筆作一書，留達令兄，以表劉備慇懃之意。」均遂進文房四寶。玄德呵開凍筆，拂展雲箋，寫書曰：\n備久慕高名，兩次晉謁，不遇空回，惆悵何似！竊念備漢朝苗裔，濫叨名爵，伏觀朝廷陵替，綱紀崩摧，群雄亂國，惡黨欺君，備心膽俱裂。雖有匡濟之誠，實乏經綸之策。仰望先生仁慈忠義，慨然展呂望之大才，施子房之鴻略，天下幸甚！社稷甚幸！先此布達，再容齊戒勳沐，特拜尊顏，面傾鄙悃，統希鑒原。\n玄德寫罷，遞與諸葛均收了，拜辭出門。均送出，玄德再三慇懃致意而別。方上馬欲行，忽見童子招手籬外叫曰：「老先生來也。」玄德視之，見小橋之西，一人煖帽遮頭，狐裘蔽體，騎著一驢後隨一青衣小童，攜一葫蘆酒，踏雪而來；轉過小橋，口吟詩一首。詩曰：\n一夜北風寒，萬里彤雲厚。\n長空雪亂飄，改盡江山舊。\n仰面觀太虛，疑是玉龍鬥。\n紛紛鱗甲飛，頃刻遍宇宙。\n騎驢過小橋，獨嘆梅花瘦。\n玄德聞歌曰：「此真臥龍矣！」滾鞍下馬，向前施禮曰：「先生冒寒不易！劉備等候久矣！」那人慌忙下驢答禮。諸葛均在後曰：「此非臥龍家兄，乃家兄岳父黃承彥也。」玄德曰：「適間所吟之句，極其高妙。」承彥曰：「老夫在小婿家觀《梁父吟》，記得這一篇；適過小橋，偶見籬落間梅花，故感而誦之。不期為尊客所聞。」玄德曰：「曾見賢婿否？」承彥曰：「便是老夫也來看他。」玄德聞言，辭別承彥，上馬而歸。正值風雪又大，回望臥龍岡，悒怏不已。後人有詩單道玄德風雪訪孔明。詩曰：\n一天風雪訪賢良，不遇空回意感傷。\n凍合溪橋山石滑，寒侵鞍馬路途長。\n當頭片片梨花落，撲面紛紛柳絮狂。\n回首停鞭遙望處，爛銀堆滿臥龍岡。\n玄德回新野之後，光陰荏苒，又早新春。乃令卜者揲蓍，選擇吉期，齋戒三日，薰沐更衣，再往臥龍岡謁孔明。關、張聞之不悅，遂一齊入諫玄德。正是：\n高賢未服英雄志，屈節偏生傑士疑。\n未知其言若何，且看下文分解。",
+    "title": "第三十七回 司馬徽再薦名士　　　劉玄德三顧草廬"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-037.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

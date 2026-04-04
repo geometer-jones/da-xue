@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-099",
+    "order": 99,
+    "summary": "反攻倒算",
+    "text": "反攻倒算\n俯拾皆是\n特立独行\n废文任武\n砥行立名\n辱身败名\n思潮起伏\n笑面夜叉\n哀兵必胜\n教亦多术\n秀外慧中\n齐心并力\n见事风生\n喜行于色\n挟主行令\n解衣包火\n实心实意\n厚此薄彼\n何必当初\n敢作敢当\n深仇重怨\n陷落计中\n立时三刻\n十羊九牧\n薄技在身\n如雷贯耳\n恍如隔世\n垂名青史\n自命清高\n巫山云雨",
+    "title": "2941-2970",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "反攻倒算",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the overthrow of class enemies or reactionary forces gathering together to retaliate against the revolutionary people"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "俯拾皆是",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. so numerous that one could just bend down and pick them up (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "特立独行",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be unconventional"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "废文任武",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wenzhi"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "砥行立名",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sharpen your virtues and build your reputation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "辱身败名",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to one's own humiliation and reputation being ruined"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "思潮起伏",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "thoughts surging in one's mind (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "笑面夜叉",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A metaphor for a person who smiles but has a vicious intention"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "哀兵必胜",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "an army burning with righteous indignation is bound to win (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "教亦多术",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "teach"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "秀外慧中",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "good-looking and intelligent (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "齐心并力",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Everyone works together as one"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "见事风生",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to acting vigorously and resolutely in case of trouble"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "喜行于色",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Happiness shows on the face"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "挟主行令",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hold the monarch hostage and issue orders"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "解衣包火",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor does not solve the problem, it only causes danger"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "实心实意",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to sincere and real intentions"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "厚此薄彼",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to favour one and discriminate against the other"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "何必当初",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Expressing regret for past actions"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "敢作敢当",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "daring to act and courageous enough to take responsibility for it"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "深仇重怨",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "resentment"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "陷落计中",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the enemy or the opponent's trick"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "立时三刻",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "immediately, immediately"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "十羊九牧",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ten sheep need nine people to herd them"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "薄技在身",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thin and tiny"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "如雷贯耳",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. like thunder piercing the ear"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "恍如隔世",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "like a thing of the previous generation; as if it were a lifetime ago"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "垂名青史",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Classics and historical records written on bamboo slips or white silk"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "自命清高",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to think of oneself as high and pure (idiom); smug and self-righteous"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-099-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "巫山云雨",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said that men and women are in harmony"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-099.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

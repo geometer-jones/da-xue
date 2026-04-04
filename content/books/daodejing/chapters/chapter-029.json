@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 58,
+    "id": "chapter-029",
+    "order": 29,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 58,
+        "id": "chapter-029-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "將欲取天下而為之，吾見其不得已。天下神器，不可為也，為者敗之，執者失之。故物或行或隨；或歔或吹；或強或羸；或挫或隳。是以聖人去甚，去奢，去泰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If any one should wish to get the kingdom for himself, and to effect this by what he does, I see that he will not succeed. The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it. The course and nature of things is such that What was in front is now behind; What warmed anon we freezing find. Strength is of weakness oft the spoil; The store in ruins mocks our toil. Hence the sage puts away excessive effort, extravagance, and easy indulgence."
+          }
+        }
+      }
+    ],
+    "summary": "將欲取天下而為之，吾見其不得已",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "將欲取天下而為之，吾見其不得已。天下神器，不可為也，為者敗之，執者失之。故物或行或隨；或歔或吹；或強或羸；或挫或隳。是以聖人去甚，去奢，去泰。",
+    "title": "第29章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-029.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

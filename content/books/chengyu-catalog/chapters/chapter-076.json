@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-076",
+    "order": 76,
+    "summary": "妨功害能",
+    "text": "妨功害能\n祖武宗文\n左宜右宜\n目迷五色\n引新吐故\n三朋四友\n心雄万夫\n清源正本\n心急火燎\n来情去意\n生死之交\n使臂使指\n性烈如火\n如水赴壑\n背暗投明\n利时及物\n心如寒灰\n得马折足\n反经合道\n亏心短行\n七情六欲\n老僧入定\n作好作歹\n田夫野老\n湖光山色\n如渴如饥\n安神定魄\n把臂徐去\n心不在焉\n百年难遇",
+    "title": "2251-2280",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "妨功害能",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to constrain and limit successful, capable people"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "祖武宗文",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The ancestors attacked King Wu and respected King Wen"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "左宜右宜",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To describe both talents and virtues, it means everything is suitable and everything is possible."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "目迷五色",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the eye is bewildered by five colors (idiom); a dazzling riot of colors"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "引新吐故",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still talking about the old and embracing the new"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "三朋四友",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "friends; cronies"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "心雄万夫",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xiong Xiong Yu, surpassing in ambition"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "清源正本",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to fundamentally rectifying and cleaning up and completely solving the problem"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "心急火燎",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to burn with anxiety"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "来情去意",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The content and reason of the matter"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "生死之交",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Friendship of life and death"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "使臂使指",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like using your own arms and fingers"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "性烈如火",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "temperament, temperament"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "如水赴壑",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like water flowing to a big puddle"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "背暗投明",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Leave the darkness and turn to the light"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "利时及物",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "means salvation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "心如寒灰",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes a mental state that is not affected by external objects"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "得马折足",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to misfortune due to good fortune"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "反经合道",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Although it goes against the norm, it still complies with the principles"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "亏心短行",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Loser-minded and bad behavior"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "七情六欲",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) various emotions and desires"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "老僧入定",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The monk sits quietly, letting his mind settle in one place, free from distracting thoughts, and enters concentration."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "作好作歹",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A metaphor for repeatedly persuading with various reasons or methods"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "田夫野老",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Country farmer, mountain father"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "湖光山色",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "scenic lakes and mountain (idiom); beautiful lake and mountain landscape"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "如渴如饥",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describe an urgent mood or request"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "安神定魄",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "soul soul"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "把臂徐去",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Holding each other's arms and leaving slowly"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "心不在焉",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "absent-minded"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-076-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "百年难遇",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "You won't be able to touch it in a hundred years"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-076.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

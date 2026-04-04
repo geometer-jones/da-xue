@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 69,
+    "id": "chapter-065",
+    "order": 65,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 69,
+        "id": "chapter-065-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "古之善為道者，非以明民，將以愚之。民之難治，以其智多。故以智治國，國之賊；不以智治國，國之福。知此兩者亦𥡴式。常知𥡴式，是謂玄德。玄德深矣，遠矣，與物反矣，然後乃至大順。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The ancients who showed their skill in practising the Tao did so, not to enlighten the people, but rather to make them simple and ignorant. The difficulty in governing the people arises from their having much knowledge. He who (tries to) govern a state by his wisdom is a scourge to it; while he who does not (try to) do so is a blessing. He who knows these two things finds in them also his model and rule. Ability to know this model and rule constitutes what we call the mysterious excellence (of a governor). Deep and far-reaching is such mysterious excellence, showing indeed its possessor as opposite to others, but leading them to a great conformity to him."
+          }
+        }
+      }
+    ],
+    "summary": "古之善為道者，非以明民，將以愚之",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "古之善為道者，非以明民，將以愚之。民之難治，以其智多。故以智治國，國之賊；不以智治國，國之福。知此兩者亦𥡴式。常知𥡴式，是謂玄德。玄德深矣，遠矣，與物反矣，然後乃至大順。",
+    "title": "第65章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-065.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

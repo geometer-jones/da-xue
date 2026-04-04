@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-083",
+    "order": 83,
+    "summary": "五零四散",
+    "text": "五零四散\n百万雄兵\n物归原主\n五陵英少\n半壁山河\n金口玉牙\n光明正大\n拔山超海\n号令如山\n未足轻重\n白头如新\n目下十行\n恣意妄行\n烈火真金\n跛行千里\n苟且偷生\n三长四短\n斐然成章\n达地知根\n触手生春\n偃武休兵\n事败垂成\n明婚正配\n如坐春风\n登堂入室\n年高德勋\n搬弄是非\n化若偃草\n百身何赎\n文章憎命",
+    "title": "2461-2490",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "五零四散",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "adjective sporadic and scattered"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "百万雄兵",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A large and mighty army"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "物归原主",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to return sth to its rightful owner"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "五陵英少",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the wealthy children of Kyoto"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "半壁山河",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to part or most of the country"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "金口玉牙",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gold and jade are metaphors for preciousness"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "光明正大",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(of a person) honorable; not devious"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "拔山超海",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Raise the mountains and transcend the sea"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "号令如山",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. order like a mountain"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "未足轻重",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "means insignificant, not worthy of attention"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "白头如新",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "White hair, white hair"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "目下十行",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 一目十行[yi1 mu4 shi2 hang2]"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "恣意妄行",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Arbitrarily, at will"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "烈火真金",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "raging fire, fierce fire"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "跛行千里",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor that as long as you work hard, you can still achieve success even if the conditions are very poor."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "苟且偷生",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to drift and live without purpose (idiom); to drag out an ignoble existence"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "三长四短",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "①Refers specifically to the death of a person"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "斐然成章",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Fei and Zhang Wencai"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "达地知根",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the fundamentals of being clear and understanding"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "触手生春",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As soon as you touch it, it turns into spring, full of vitality"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "偃武休兵",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cease armaments and do not engage in war"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "事败垂成",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Things failed just when they were about to succeed"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "明婚正配",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to a marriage that has gone through formal procedures, now refers to a legal marriage that complies with the provisions of the Marriage Law"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "如坐春风",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like sitting in the middle of the spring breeze"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "登堂入室",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. from the main room, enter the inner chamber (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "年高德勋",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Old and virtuous"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "搬弄是非",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to incite a quarrel (idiom); to sow discord between people"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "化若偃草",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The implementation of instruction is like the wind blowing the grass."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "百身何赎",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Baishen himself dies a hundred times"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-083-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "文章憎命",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "hate"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-083.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

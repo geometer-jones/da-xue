@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-001",
+    "order": 1,
+    "summary": "持之以恒",
+    "text": "持之以恒\n厚积薄发\n脚踏实地\n实事求是\n精益求精\n温故知新\n举一反三\n触类旁通\n融会贯通\n孜孜不倦\n锲而不舍\n熟能生巧\n勤能补拙\n学以致用\n循序渐进\n博采众长\n取长补短\n去粗取精\n去伪存真\n推陈出新\n字斟句酌\n专心致志\n全神贯注\n聚精会神\n一丝不苟\n好学不倦\n开卷有益\n博闻强识\n旁征博引\n滚瓜烂熟",
+    "title": "1-30",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "持之以恒",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to pursue unremittingly; to persevere"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "厚积薄发",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have accumulated knowledge and deliver it slowly; good preparation is the key to success"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "脚踏实地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have one's feet firmly planted on the ground; realistic without flights of fancy; steady and serious character"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "实事求是",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to handle matters according to the actual situation; to be practical and realistic"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "精益求精",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to make something that is outstanding even better; to be constantly improving"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "温故知新",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to cherish the old and know the new"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "举一反三",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to raise one and infer three; to deduce many things from one case"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "触类旁通",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to comprehend by analogy"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "融会贯通",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to master the subject via a comprehensive study of surrounding areas"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "孜孜不倦",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "diligent and never slacking; continuous concentrated effort; assiduous (in study); to concentrate"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "锲而不舍",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to chip away at a task and not abandon it (idiom); to chisel away at sth"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "熟能生巧",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "practice makes perfect"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "勤能补拙",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) hard work can make up for lack of natural talent"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "学以致用",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to study sth in order to apply it"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "循序渐进",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to follow in order and advance step by step"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "博采众长",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to adopt the strengths of others"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "取长补短",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to use others' strengths to make up for one's weak points"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "去粗取精",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to discard the dross and select the essential"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "去伪存真",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to discard the false and retain the true; to sift the true from the false"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "推陈出新",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to push out the old and bring in the new; to innovate"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "字斟句酌",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "weighing every word"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "专心致志",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "with single-minded devotion"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "全神贯注",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to concentrate all one's attention; total concentration"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "聚精会神",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to concentrate all one's attention; total concentration"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "一丝不苟",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "not the least bit careless; meticulous"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "好学不倦",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "fond of learning not of labor"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "开卷有益",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "opening a book is profitable"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "博闻强识",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "erudite"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "旁征博引",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "demonstrated true via many lines of evidence"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-001-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "滚瓜烂熟",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "ripe as a melon that rolls from its vine; to know fluently; to know something inside out"
+          }
+        },
+        "category": "学习与积累"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-001.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

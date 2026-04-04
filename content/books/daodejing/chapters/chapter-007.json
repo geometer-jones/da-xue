@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 49,
+    "id": "chapter-007",
+    "order": 7,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 49,
+        "id": "chapter-007-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "天長地久 。 天地 所以 能 長 且 久 者 ， 以 其 不 自 生 ，故 能 長生 。 是以 聖人 後 其 身 而 身 先 ； 外 其 身 而 身 存 。 非 以 其 無私 邪 ， 故 能 成 其 私 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heaven is long-enduring and earth continues long. The reason why heaven and earth are able to endure and continue thus long is because they do not live of, or for, themselves. This is how they are able to continue and endure. Therefore the sage puts his own person last, and yet it is found in the foremost place; he treats his person as if it were foreign to him, and yet that person is preserved. Is it not because he has no personal and private ends, that therefore such ends are realised?"
+          }
+        }
+      }
+    ],
+    "summary": "天長地久",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "天長地久。天地所以能長且久者，以其不自生，故能長生。是以聖人後其身而身先；外其身而身存。非以其無私耶？故能成其私。",
+    "title": "第7章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-007.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

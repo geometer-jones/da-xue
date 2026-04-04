@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 49,
+    "id": "chapter-011",
+    "order": 11,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 49,
+        "id": "chapter-011-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "三十 輻 共 一 轂 ， 當 其 無 ， 有 車 之 用 。埏 埴 以為 器 ， 當 其 無 ， 有 器 之 用 。 鑿 戶牖 以為 室 ， 當 其 無 ， 有 室 之 用 。 故 有 之 以為 利 ， 無 之 以為 用 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the use of the wheel depends. Clay is fashioned into vessels; but it is on their empty hollowness, that their use depends. The door and windows are cut out (from the walls) to form an apartment; but it is on the empty space (within), that its use depends. Therefore, what has a (positive) existence serves for profitable adaptation, and what has not that for (actual) usefulness."
+          }
+        }
+      }
+    ],
+    "summary": "三十輻，共一轂，當其無，有車之用",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "三十輻，共一轂，當其無，有車之用。埏埴以為器，當其無，有器之用。鑿戶牖以為室，當其無，有室之用。故有之以為利，無之以為用。",
+    "title": "第11章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-011.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

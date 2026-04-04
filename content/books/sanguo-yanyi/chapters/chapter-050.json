@@ -1,0 +1,697 @@
+{
+  "chapter": {
+    "character_count": 3178,
+    "id": "chapter-050",
+    "order": 50,
+    "reading_unit_count": 52,
+    "reading_units": [
+      {
+        "character_count": 81,
+        "id": "chapter-050-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說當夜張遼一箭射黃蓋下水，救得曹操登岸，尋著馬匹走時，軍已大亂。韓當冒煙突火來攻水寨，忽聽得士卒報道：「後梢舵上一人，高叫將軍表字。」韓當細聽，但聞高叫：「義公救我！」當曰：「此黃公覆也！」急教救起。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“That is my friend Huang Kai,” cried he and they quickly pulled the wounded leader out of the water. Then they saw Huang Kai was wounded for the arrow still stuck. Han bit out the shaft of the arrow but the point was deeply buried in the flesh. They hastily pulled off his wet garments and cut out the metal arrowhead with a dagger, tore up one of the flags and bound up the wound. Then Han Tang gave his friend his own fighting robe to put on and sent him off in a small boat back to camp."
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-050-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "見黃蓋負箭著傷，咬出箭桿，箭頭陷在肉內。韓當急為脫去濕衣，用刀剜出箭頭，扯旗束之，脫自己戰袍與黃蓋穿了，先令別船送回大寨醫治。原來黃蓋深知水性，故大寒之時，和甲墮江，也逃得性命。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Huang Kai’s escape from drowning must be taken as proof of his natural affinity for, or sympathy with, water. Although it was the period of great cold and he was heavy with armour when he fell into the river yet he escaped with life."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-050-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "卻說當日滿江火滾，喊聲震地。左邊是韓當、蔣欽兩軍從赤壁西邊殺來；右邊是周泰、陳武兩軍從赤壁東邊殺來；正中是周瑜、程普、徐盛、丁奉大隊船隻都到。火須兵應，兵仗火威。此正是：三江水戰，赤壁鏖兵。曹軍著槍中箭、火焚水溺者，不計其數。後人有詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In this great battle at the junction of the rivers, when fire seemed to spread wide over all the wide surface of the water, when the earth quaked with the roar of battle, when land forces closed in on both wings and four battle squadrons advanced on the front, when the ferocity of fire answered the clash of weapons and weapons were aided by fire, under the thrusts of spears and the flights of arrows, burnt by fire and drowned by water, Ts‘ao Ts‘ao lost an incalculable number of men. And a poet wrote:—"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-050-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "魏吳爭鬥決雌雄，赤壁樓船一掃空。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Wei and Wu together strove For the mastery, In Red Cliff fight the towering ships Vanished from the sea, For there the fierce flames, leaping high, Burned them utterly. So Chou Yü for his liege lord Got the victory."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-050-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "烈火初張照雲海，周郎曾此破曹公。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And another Poem runs:—"
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-050-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "又有一絕云：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The hills are high, the moon shines faint, The waters stretch afar; I sigh to think how oft this land Has suffered stress of war; And I recall how southerners Shrank from the northmen’s might, And how a favouring eastern gale Helped them to win the fight."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-050-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "山高月小水茫茫，追歎前朝割據忙。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Leaving for a while the story of the slaughter on the river it is time to follow Kan Ning. He made Ts‘ao Chung guide him into the innermost recesses of Ts‘ao Ts‘ao’s camp. Then he slew him with one slash of his sword. After this he set fire to the jungle, and at this signal Lu Mêng put fire to the grass in half a score places near to each other. Then other fires were started, and the noise of battle was on all sides."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-050-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "南士無心迎魏武，東風有意便周郎。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao and the faithful Chang Liao, with a small party of horsemen, fled through the burning forest. They could see no road in front; all seemed on fire. Presently Mao Chieh and Wên P‘ing, with a few more horsemen, joined them. Ts‘ao Ts‘ao bade the soldiers seek a way through. Chang Liao pointed out that the only suitable road was through the “Black” Forest and they took it."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-050-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "不說江中鏖兵。且說甘寧令蔡中引入曹寨深處，寧將蔡中一刀砍於馬下，就草上放起火來。呂蒙遙望中軍火起，也放十數處火，接應甘寧。潘璋、董襲分頭放火吶喊。四下裏鼓聲大震。曹操與張遼引百餘騎，在火林內走，看前面無一處不著。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They had gone but a short distance when they were overtaken by a small party of the enemy and a voice cried, “Ts‘ao Ts‘ao, stop!” It was Lü Mêng, whose ensign soon appeared against the fiery background. Ts‘ao Ts‘ao urged his small party of fugitives forward bidding Chang Liao defend him from Lü Mêng. Soon after he saw the light of torches in front and from a gorge there rushed out another force. And the leader cried “Ling T‘ung is here!”"
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-050-line-010",
+        "order": 10,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "正走之間，毛玠救得文聘，引十數騎到。操令軍尋路。張遼指道：「只有烏林，地面空闊可走。」操逕奔烏林。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao was scared; his liver and gall both seemed torn from within. But just then on his half right he saw another company approach and heard a friendly cry “Fear not, O Minister, I am here to rescue you.”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-050-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "正走間，背後一軍趕到，大叫：「曹賊休走！」火光中現出呂蒙旗號。操催軍馬向前，留張遼斷後，抵敵呂蒙。卻見前面火把又起，從山谷中擁出一軍，大叫：「凌統在此！」曹操肝膽皆裂。忽刺斜裏一彪軍到，大叫：「丞相休慌！徐晃在此！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The speaker was Hsü Huang and he attacked the pursuers. A move to the north seemed to promise escape, but soon they saw a camp on a hill top. Hsü Huang went ahead to reconnoitre and found the officers in command were Ma Yen and Chang I, who had once been in the service of Yüan Shao. They had three companies of northern men in camp. They had seen the sky redden with the flames, but knew not what was afoot so dared make no move."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-050-line-012",
+        "order": 12,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "」彼此混戰一場，奪路望北而走。忽見一隊軍馬屯在山坡前。徐晃出問，乃是袁紹手下降將馬延、張顗，有三千北地軍馬，列寨在彼；當夜見滿天火起，未敢轉動，恰好接著曹操。操教二將引一千軍馬開路，其餘留著護身。操得這枝生力軍馬，心中稍安。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This turned out lucky for Ts‘ao Ts‘ao who now found himself with a fresh force. He sent these two, with a company, to clear the road ahead while the others remained as guard. And he felt much more secure. The two went forward, but before they had gone very far they heard a shouting and a party of soldiers came out, the leader of them shouting, “I am Kan Hsing-pa of the land of ​ Wu.” Nothing daunted the two leaders would engage, but the redoubtable Kan Ning cut down Ma Yen, and when his brother warrior Chang I set his spear and dashed forward, he too fell beneath a stroke from the fearsome sword. Both leaders dead, the soldiers fled to give Ts‘ao Ts‘ao the bad news."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-050-line-013",
+        "order": 13,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "馬延、張顗二將飛騎前行。不到十里，喊聲起處，一彪軍出。為首一將，大呼曰：「吾乃東吳甘興霸也！」馬延正欲交鋒，早被甘寧一刀斬於馬下。張顗挺槍來迎，寧大喝一聲，顗措手不及，被寧手起一刀，翻身落馬。後軍飛報曹操。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At this time Ts‘ao Ts‘ao expected aid from Hofei for he knew not that Sun Ch'üan was barring the road. But when Sun saw the fires and so knew that his men had won the day he ordered Lu Hsün to give the answering signal. T‘aishih Tzů seeing this came down and his force joined up with that of Lu Hsun and they went against Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-050-line-014",
+        "order": 14,
+        "source_block_chunk": 4,
+        "source_block_order": 9,
+        "text": "操此時指望合淝有兵救應，不想孫權在合淝路口，望見江中火光，知是我軍得勝，便教陸遜舉火為號；太史慈見了，與陸遜合兵一處，衝殺將來。操只得望彝陵而走。路上撞見張郃，操令斷後。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As for Ts‘ao Ts‘ao he could only get away toward Iling. On the road he fell in with Chang Ho and ordered him to protect the retreat. He pressed on as quickly as possible. At the fifth watch he was a long way from the glare and he felt safer. He asked the name of the place where they were. They told him it was west of the “Black” Forest and north of Itu. Seeing the thickly crowded trees all about him, and the steep hills and narrow passes, he threw up his head and laughed. Those about him asked why he was merry and he said he was only laughing at the stupidity of Chou Yü and the ignorance of Chuko Liang. If they had only set an ambush there, as he would have done, why, there was no escape."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-050-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "縱馬加鞭，走至五更，回望火光漸遠，操心方定，問曰：「此是何處？」左右曰：「此是烏林之西，宜都之北。」操見樹林叢雜，山川險峻，乃於馬上仰面大笑不止。諸將問曰：「丞相何故大笑？」操曰：「吾不笑別人，單笑周瑜無謀，諸葛亮少智。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He had scarcely finished his explanation when from both sides came a deafening roll of drums and flames sprang up to heaven. Ts‘ao Ts‘ao nearly fell off his horse, he was so startled. And from the side dashed in a troop, with Chao Yün leading, who cried, “I am Chao Tzŭ-lung and long have I been waiting here.”"
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-050-line-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "若是吾用兵之時，預先在這裏伏下一軍，如之奈何？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao ordered Hsü Huang and Chang Ho to engage this new opponent and he himself rode off into the smoke and fire. Chao Yün did not pursue; he only captured his banners and Ts‘ao Ts‘ao escaped."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-050-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "說猶未了，兩邊鼓聲震響，火光沖天而起，驚得曹操幾乎墜馬。刺斜裏一彪軍殺出，大叫：「我趙子龍奉軍師將令，在此等候多時了！」操教徐晃、張郃雙敵趙雲，自己冒煙突火而去。子龍不來追趕，只顧搶奪旗幟，曹操得脫。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The faint light of dawn showed a great black cloud all around, for the south-east wind had not ceased. Suddenly began a heavy down-pour of rain, wetting every one to the skin, but still Ts‘ao Ts‘ao maintained his headlong flight till the starved faces of the men made a halt imperative. He told the men to forage in the villages about for grain and the means of making a fire. But when these had been found and they began to cook a meal another pursuing party came along and Ts‘ao Ts‘ao again was terrified. However, these proved to be friends escorting some of his advisers whom he saw with joy."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-050-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "天色微明，黑雲罩地，東南風尚不息。忽然大雨傾盆，濕透衣甲。操與軍士冒雨而行，諸軍皆有飢色。操令軍士往村落中劫掠糧食，尋覓火種。方欲造飯，後面一軍趕到。操心甚慌。原來卻是李典、許褚保謢著眾謀士來到。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When giving the order to advance again he asked what places lay ahead, and they told him there were two roads; one was the highway to South Iling and the other a mountain road to the north of Iling. “Which is the shorter way to Chiangling?” asked Ts‘ao Ts‘ao. ​ The best way is to take the south road through Huluk‘ou,” was the reply."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-050-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "操大喜，令軍馬且行，問：「前面是那裏地面？」人報：「一邊是南彝陵大路，一邊是北彝陵山路。」操問：「那裏投南郡江陵去近？」軍士稟曰：「取南彝陵過葫蘆口去最便。」操教走南彝陵。行至葫蘆口，軍皆飢餒，行走不上，馬亦困乏，多有倒於路者。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So he gave orders to march that way. By the time Huluk‘ou was reached the men were almost starving and could march no more; horses too were worn out. Many had fallen by the roadside. A halt was then made, food was taken by force from the villagers, and as there were still some boilers left they found a dry spot beside the hills where they could rest and cook. And there they began to prepare a meal, boiling grain and roasting strips of horse-flesh. Then they took off their wet clothes and spread them to dry. The beasts, too, were unsaddled and turned out to graze."
+          }
+        }
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-050-line-020",
+        "order": 20,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "操教前面暫歇。馬上有帶得鑼鍋的，也有村中掠得糧米的，便就山邊揀乾處埋鍋造飯，割馬肉燒吃，盡皆脫去濕衣，於風頭吹晒。馬皆摘鞍野放，咽咬草根。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Seated confortably in a somewhat open spot Ts‘ao Ts‘ao suddenly looked up and began to laugh loud and long. His companions, remembering the sequel of his last laugh, said, “Not long since, Sir, you laughed at Chou Yü and Chuko Liang; that resulted in the arrival of Chao Yün and great loss of men to us. Why do you now laugh?”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-050-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "操坐於疏林之下，仰面大笑。眾官問曰：「適來丞相笑周瑜、諸葛亮，引惹出趙子龍來，又折了許多人馬，如今為何又笑？」操曰：「吾笑諸葛亮、周瑜，畢竟智謀不足。若是我用兵時，就這個去處，也埋伏一彪軍馬，以逸待勞；我等縱然脫得性命，也不免重傷矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am laughing again at the ignorance of the same two men. If I was in their place, and conducting their campaign, I should have had an ambush here, just to meet us when we were tired out. Then, even if we escaped with our lives, we should suffer very severely. They did not see this and therefore I am laughing at them.” Even at that moment behind them rose a great yell. Thoroughly startled, Ts‘ao Ts‘ao threw aside his breastplate and leaped upon his horse. Most of the soldiers failed to catch theirs and then fires sprang up on every side and filled the mouth of the valley. A force was arrayed before them and at the head was the man of Yen, Chang Fei, seated on his steed with his great spear levelled."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-050-line-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "彼見不到此，我是以笑之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Whither wouldst thou flee, O rebel?” shouted he."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-050-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "正說間，前軍後軍一齊發喊。操大驚，棄甲上馬。眾軍多有不及收馬者。早見四下火煙布合山口，一軍擺開。為首乃燕人張翼德，橫矛立馬，大叫：「操賊走那裏去！」諸軍眾將見了張飛，盡皆膽寒。許褚騎無鞍馬來戰張飛。張遼、徐晃二將，縱馬也來夾攻。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The soldiers grew cold within at the sight of the terrible warrior. Hsü Ch‘u, mounted on a barebacked horse, rode up to engage him and two comrades galloped up to his aid. The three gathered about Chang Fei and a mêlée began, while Ts‘ao Ts‘ao made off at top speed. The other leaders set off after him and Chang Fei pursued. However, Ts‘ao Ts‘ao by dint of hard riding got away and gradually the pursuers were out-distanced. But many had received wounds. As they were going the soldiers said, “There are two roads before us; which shall we take?” “Which is the shorter?' asked Ts‘ao Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-050-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "兩邊軍馬混戰做一團。操先撥馬走脫，諸將各自脫身。張飛從後趕來。操迤邐奔逃，追兵漸遠，回顧眾將多已帶傷。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The high road is the more level, but it is fifty li longer than the bye road which goes to Huayungtao. Only the latter road is narrow and dangerous, full of pits and difficult.” Ts‘ao Ts‘ao sent men up to the hill tops to look around. They returned saying there were several columns of smoke ​ rising from the hills along the road. The high road seemed quiet."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-050-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "正行間，軍士稟曰：「前面有兩條路，請問丞相從那條路去？」操問：「那條路近？」軍士曰：「大路稍平，卻遠五十餘里；小路投華容道，卻近五十餘里。只是地窄路險，坑坎難行。」操令人上山觀望，回報：「小路山邊有數處煙起。大路並無動靜。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Ts‘ao Ts‘ao bade them lead the way along the bye-road. “Where smoke arises there are surely soldiers,” remarked the officers. “Why go this way?” “Because the Book of War says that the hollow is to be regarded as solid and the solid as hollow. That fellow Chuko Liang is very subtle and has sent men to make those fires so that we should not go that way. He has laid an ambush on the high road. I have made up my mind and I will not fall a victim to his wiles.” “O Minister, your conclusions are most admirable. None other can equal you,” said the officers."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-050-line-026",
+        "order": 26,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "」操教前軍便走華容道小路。諸將曰：「烽煙起處，必有軍馬，何故反走這條路？」操曰：「豈不聞兵書有云：『虛則實之，實則虛之。』諸葛亮多謀，故使人於山僻燒煙，使我軍不敢從這條山路走，他卻伏兵於大路等著。吾料已定，偏不教中他計！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And the soldiers were sent along the highway. They were very hungry and many almost too weak to travel. The horses too were spent. Some had been scorched by the flames and they rode forward resting their heads on their whips; the wounded struggled on to the last of their strength. All were soaking wet and all were feeble. Their arms and accoutrements were in a deplorable state, and more than half had been left upon the road they had traversed. Few of the horses had saddles or bridles, for in the confusion of pursuit they had been left behind. It was the time of greatest winter cold and the suffering was indescribable."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-050-line-027",
+        "order": 27,
+        "source_block_chunk": 3,
+        "source_block_order": 16,
+        "text": "」諸將皆曰：「丞相妙算，人所不及。」遂勒兵走華容道。此時人皆飢倒，馬盡困乏。焦頭爛額者扶策而行，中箭著槍者勉強而走。衣甲濕透，個個不全；軍器旗旛，紛紛不整。大半皆是彝陵道上被趕得慌，只騎得禿馬，鞍轡衣服，盡皆拋棄。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Noticing that the leading party had stopped Ts‘ao Ts‘ao sent to ask the reason. The messenger returned to report that by reason of the rain water collected in the pits and the mire the horses could not move. Ts‘ao Ts‘ao raged. He said, “When soldiers come to hills they cut a road, when they happen upon streams they bridge them; such a thing as mud cannot stay an army.” So he ordered the weak and wounded to go to the rear and come on as they could, while the robust and able were to cut down trees, and gather herbage and reeds to fill up the holes. And it was to be done without delay, or death would be the punishment of the disobedient or remiss."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-050-line-028",
+        "order": 28,
+        "source_block_chunk": 4,
+        "source_block_order": 16,
+        "text": "正值隆冬嚴寒之時，其苦何可勝言。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So the men dismounted and felled trees and cut bamboos, and they levelled the road. And because of the imminence and fear of pursuit a party was told off to hasten the workers and slay any that idled."
+          }
+        }
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-050-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "操見前軍停馬不進，問是何故。回報曰：「前面山僻路小，因早晨下雨，坑塹內積水不流，泥陷馬蹄，不能前進。」操大怒，叱曰：「軍旅逢山開路，遇水疊橋，豈有泥濘不堪行之理！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The soldiers made their way along the shallower parts, but many fell, and cries of misery were heard the whole length of the way. “What are you howling for?” cried Ts‘ao Ts‘ao. “The number of your days is fixed. Any one who howls shall be put to death.”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-050-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "」傳下號令，教老弱中傷軍士在後慢行，強壯者擔土束柴，搬草運蘆，填塞道路，務要即時行動；如違令者斬。眾軍只得都下馬，就路旁砍伐竹木，填塞山路。操恐後軍來趕，令張遼、許褚、徐晃引百騎執刀在手，但遲慢者便斬之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The remnant of the army, now divided into three, one to march slowly, a second to fill up the waterways and hollows and a third to escort Ts‘ao Ts‘ao, gradually made its way over ​ the precipitous road. When the going improved a little and the path was moderately level, Ts‘ao Ts‘ao turned to look at his following and saw he had barely three hundred men. And these lacked clothing and armour and were tattered and disordered."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-050-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "操喝令人馬沿棧而行，死者不可勝數。號哭之聲，於路不絕。操怒曰：「生死有命，何哭之有！如再哭者立斬！」三停人馬：一停落後，一停填了溝壑，一停跟隨曹操。過了險峻，路稍平坦。操回顧止有三百餘騎隨後，並無衣甲袍鎧整齊者。操催速行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But he pressed on, and when the officers told him the horses were quite spent and must rest, he replied, “Press on to Chingchou and there we shall find repose.” So they pressed on. But they had gone only a few li when Ts‘ao Ts‘ao flourished his whip and broke once again into loud laughter. “What is there to laugh at?” asked the officers. “People say those two are able and crafty; I do not see it. They are a couple of incapables. If an ambush had been placed here we should all be prisoners.”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-050-line-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "眾將曰：「馬盡乏矣，只好少歇。」操曰：「趕到荊州將息未遲。」又行不到數里，操在馬上揚鞭大笑。眾將問：「丞相何又大笑？」操曰：「人皆言周瑜、諸葛亮足智多謀，以吾觀之，到底是無能之輩。若使此處伏一旅之師，吾等皆束手受縛矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He had not finished this speech when the explosion of a bomb broke the silence and a half company of men with swords in their hands appeared and barred the way. The leader was Kuan Yü holding the famous Black Dragon sword, bestriding the “Red Hare” steed. At this sight the spirits of the soldiers left them and they gazed into each others' faces in panic. “Now we have but one course;” said Ts‘ao Ts‘ao, “we must fight to the death.”"
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-050-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "言未畢，一聲砲響，兩邊五百校刀手擺開，為首大將關雲長，提青龍刀，跨赤兔馬，截住去路。操軍見了，亡魂喪膽，面面相覷。操曰：「既到此處，只得決一死戰！」眾將曰：「人縱然不怯，馬力已乏，安能復戰？」程昱曰：「某素知雲長傲上而不忍下，欺強而不凌弱；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“How can we?” said the officers. “The men are scared, the horses are spent.” Ch'êng Yü said, “I have always heard that Kuan Yü is haughty to the proud but kindly to the humble; he despises the strong, but is gentle with the weak. He discriminates between love and hate and is always righteous and true. You, O Minister, have shown him kindness, and if you will remind him of that we shall escape this evil.” Ts‘ao Ts‘ao agreed to try. He rode out to the front, bowed low and said, “General, I trust you have enjoyed good health.”"
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-050-line-034",
+        "order": 34,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "恩怨分明，信義素著。丞相昔日有恩於彼，今只親自告之，可脫此難。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I had orders to await you, O Minister,” replied he, bowing in return,” and I have been expecting you these many days.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-050-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "操從其說，即縱馬向前，欠身謂雲長曰：「將軍別來無恙？」雲長亦欠身答曰：「關某奉軍師將令，等候丞相多時。」操曰：「曹操兵敗勢危，到此無路，望將軍以昔日之情為重。」雲長曰：「昔日關某雖蒙丞相厚恩，然已斬顏良，誅文醜，解白馬之圍，以奉報矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You see before you Ts‘ao Ts‘ao, defeated and weak. I have reached a sad pass and I trust you, O General, will not forget the kindness of former days.” “Though indeed you were kind to me in those days, yet I slew your enemies for you and relieved the siege of Paima. As to the business of to-day, I cannot allow private feelings to outweigh public duty.” “Do you remember my generals, slain at the five passes? The noble man values righteousness. You are well versed in the histories and must recall the action of Yu-kung, the archer, when he found his master Tzu-cho in his power. ”"
+          }
+        }
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-050-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "今日之事，豈敢以私廢公？」操曰：「五關斬將之時，還能記否？大丈夫以信義為重。將軍深明《春秋》，豈不知庾公之斯追子濯孺子之事乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü was indeed a very mountain of goodness and could not forget the great kindness he had received at Ts‘ao Ts‘ao’s hands, and the magnanimity he had shown over the deeds at ​ the five passes. He saw the desperate straits to which his benefactor was reduced and tears were very near to the eyes of both. He could not press him hard. He pulled at the bridle of his steed and turned away saying to his followers, “Break up the formation.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-050-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "雲長是個義重如山之人，想起當日曹操許多恩義，與後來五關斬將之事，如何不動心？又見曹軍惶惶皆欲垂淚，越發心中不忍。於是把馬頭勒回，謂眾軍曰：「四散擺開。」這個分明是放曹操的意思。操見雲長回馬，便和眾將一齊衝將過去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "From this it was evident that his design was to release Ts‘ao Ts‘ao, who then went on with his officers, and when Kuan Yü turned to look back they had all passed. He uttered a great shout and the soldiers jumped off their horses and knelt on the ground crying for mercy. But he also had pity for them. Then Chang Liao, whom he knew well, came along and was allowed to go free also. Ts‘ao Ts‘ao, his army lost, fled to the Huayung Valley; There in the throat of the gorge met he Kuan Yü. Grateful was Kuan, and mindful of former kindness, Wherefore slipped he the bolt and freed the imprisoned dragon."
+          }
+        }
+      },
+      {
+        "character_count": 68,
+        "id": "chapter-050-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "雲長回身時，曹操已與眾將過去了。雲長大喝一聲，眾軍皆下馬，哭拜於地。雲長愈加不忍。正猶豫間，張遼驟馬而至，雲長見了，又動故舊之情；長歎一聲，並皆放去，後人有詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Having escaped this danger Ts‘ao Ts‘ao hastened to get out of the valley. As the throat opened out he glanced behind him and saw only two score and seven horsemen. As evening fell they reached Nanchün and they came upon what they took to be more enemies. Ts‘ao Ts‘ao thought the end had surely come, but to his delight they were his own men and he regained all his confidence. Ts‘ao Jên, who was the leader, said that he had heard of the misfortunes of his master, but he was afraid to venture far from his charge else he would have met him before."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-050-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "曹瞞兵敗走華容，正與關公狹路逢。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I nearly missed you as it was,” said Ts‘ao Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-050-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "只為當初恩義重，放開金鎖走蛟龍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The fugitives found repose in the city, where Chang Liao soon joined them. He also praised the magnanimity of Kuan Yü."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-050-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "曹操既脫華容之難，行至谷口，回顧所隨軍兵，止有二十七騎。比及天晚，已近南郡，火把齊明，一簇人馬攔路。操大驚曰：「吾命休矣！」只見一群哨馬衝到，方認得是曹仁軍馬。操纔心安。曹仁接著，言：「雖知兵敗，不敢遠離，只得在附近迎接。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Ts‘ao Ts‘ao mustered the miserable remnant of his host he found nearly all were wounded and he bade them rest. Ts‘ao Jên poured the wine of consolation whereby his master might forget his sorrows. And as Ts‘ao drank among his familiars he became exceedingly sad. Wherefore they said, “O Minister, when you were in the cave of the tiger and trying to escape you showed no sign of sorrow; now that you are safe in a city, where you have food and the horses have forage, where all you have to do is to prepare for revenge, suddenly you lose heart and grieve; why thus?”"
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-050-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "」操曰：「幾與汝不相見也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Replied Ts‘ao Ts‘ao, “I am thinking of my friend Kuo Chia; had he been alive he would not have let me suffer this loss.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-050-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "於是引眾入南郡安歇。隨後張遼也到，說雲長之德。操點將校，中傷者極多，操皆令將息。曹仁置酒與操解悶，眾謀士俱在座。操忽仰天大慟。眾謀士曰：「丞相於虎窟中逃難之時，全無懼怯；今到城中，人已得食，馬已得料，正須整頓軍馬復仇，何反痛哭？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He beat his breast and wept, saying “Alas for Fêng-hsiao! I grieve for Fêng-hsiao! I sorrow for Fêng-hsiao!” The reproach shamed the advisers. Next day Ts‘ao Ts‘ao called Ts‘ao Jên and said, “I am going to the capital to prepare another army for revenge. You are to guard this district and, in case of necessity, I leave with you a sealed plan. You are ​ only to open the cover when hard-pressed, and then you are to act as directed. Wu will not dare to look this way.”"
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-050-line-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "」操曰：「吾哭郭奉孝耳！若奉孝在，決不使吾有此大失也！」遂搥胸大哭曰：「哀哉，奉孝！痛哉，奉孝！惜哉，奉孝！」眾謀士皆默然自慚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who is to guard Hofei and Hsiangyang?” “Chingchou is particularly your care and Hsiahou Tun is to hold Hsiangyang. As Hofei is most important I am sending Chang Liao thither with good aids. If you get into difficulties send at once to tell me.”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-050-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "次日，操喚曹仁曰：「吾今暫回許都，收拾軍馬，必來報讎。汝可保全南郡。吾有一計，密留在此，非急休開，急則開之。依計而行，使東吳不敢正視南郡。」仁曰：「合淝、襄陽，誰可保守？」操曰：「荊州託汝管領；襄陽吾已撥夏侯惇守把。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Having made these dispositions Ts‘ao Ts‘ao set off at once with a few followers. He took with him the officers who had come over to his side when Chingchou fell into his hands."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-050-line-046",
+        "order": 46,
+        "source_block_chunk": 2,
+        "source_block_order": 26,
+        "text": "合淝最為緊要之地，吾命張遼為主將，樂進、李典為副將，保守此地。但有緩急，飛報將來。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Jên placed Ts‘ao Hung in charge of the south of Iling."
+          }
+        }
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-050-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "操分撥已定，遂上馬引眾奔回許昌。荊州原降文武各官，依舊帶回許昌調用。曹仁自遺曹洪據守彝陵、南郡，以防周瑜。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After having allowed the escape of Ts‘ao Ts‘ao, Kuan Yü found his way back to headquarters. By this time the other detachments had returned bringing spoil of horses and weapons and supplies of all kinds. Only Kuan Yü came back empty-handed. When he arrived Chuko Liang was with his brother congratulating him on his success. When Kuan Yü was announced K‘ung-ming got up and went to welcome him, bearing a cup of wine."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-050-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "卻說關雲長放了曹操，引軍自回。此時諸路軍馬，皆得馬匹、器械、錢糧，已回夏口；獨雲長不獲一人一騎，空身回見玄德。孔明正與玄德作賀，忽報雲長至。孔明忙離坐席，執盃相迎曰：「且喜將軍立此蓋世之功，與普天下除大害。合宜遠慶賀。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Joy! O General,” said he. “You have done a deed that overtops the world. You have removed the country’s worst foe and ought to have been met at a distance and felicitated.” Kuan Yü muttered inaudibly and K‘ung-ming continued, “I hope it is not because we have omitted to welcome you on the road that you seem sad.”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-050-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "雲長默然。孔明曰：「將軍莫非因吾等不曾遠接，故而不樂？」回顧左右曰：「汝等緣何不先報？」雲長曰：「關某特來請死。」孔明曰：「莫非曹操不曾投華容道上來？」雲長曰：「是從那裏來。關某無能，因此被他走脫。」孔明曰：「拏得甚將士來？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Turning to those about him he said, “Why did you not tell us he was coming?” “I am here to ask for death,” said Kuan Yü. “Surely Ts‘ao Ts‘ao came through the valley?” “Yes; he came that way, and I could not help it; I let him go.” “Then whom have you captured?” “No one.”"
+          }
+        }
+      },
+      {
+        "character_count": 49,
+        "id": "chapter-050-line-050",
+        "order": 50,
+        "source_block_chunk": 2,
+        "source_block_order": 29,
+        "text": "」雲長曰：「皆不曾拏。」孔明曰：「此是雲長想曹操昔日之恩，故意放了。但既有軍令狀在此，不得不按軍法。」遂叱武士推出斬之。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Then you remembered the old kindness of Ts‘ao Ts‘ao and so allowed him to escape. But your acceptance of the task with its conditions is here. You will have to suffer the penalty.” He called in the lictors and told them to take away Kuan Yü and put him to death."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-050-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "拚將一死酬知己，致令千秋仰義名。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü risked life when he spared Ts‘ao In direst need, And age-long admiration gained For kindly deed."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-050-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "未知雲長性命如何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "What actually befell will be seen in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說當夜張遼一箭射黃蓋下水，救得曹操登岸，尋著馬匹走時，軍已大亂。韓當冒煙突火來攻水寨，忽聽得士卒報道：「後梢舵上一人，高叫將軍表字。」韓當細聽，但聞高叫：「義公救我！」當曰：「此黃公覆也！」急教救起。見黃蓋負箭著傷，咬出箭桿，箭頭陷在肉內。韓當急為脫去濕衣，用刀剜出箭頭，扯旗束之，脫自己戰袍與黃蓋穿了，先令別船送回大寨醫治。原來黃蓋深知水性，故大寒之時，和甲墮江，也逃得性命。\n卻說當日滿江火滾，喊聲震地。左邊是韓當、蔣欽兩軍從赤壁西邊殺來；右邊是周泰、陳武兩軍從赤壁東邊殺來；正中是周瑜、程普、徐盛、丁奉大隊船隻都到。火須兵應，兵仗火威。此正是：三江水戰，赤壁鏖兵。曹軍著槍中箭、火焚水溺者，不計其數。後人有詩曰：\n魏吳爭鬥決雌雄，赤壁樓船一掃空。\n烈火初張照雲海，周郎曾此破曹公。\n又有一絕云：\n山高月小水茫茫，追歎前朝割據忙。\n南士無心迎魏武，東風有意便周郎。\n不說江中鏖兵。且說甘寧令蔡中引入曹寨深處，寧將蔡中一刀砍於馬下，就草上放起火來。呂蒙遙望中軍火起，也放十數處火，接應甘寧。潘璋、董襲分頭放火吶喊。四下裏鼓聲大震。曹操與張遼引百餘騎，在火林內走，看前面無一處不著。正走之間，毛玠救得文聘，引十數騎到。操令軍尋路。張遼指道：「只有烏林，地面空闊可走。」操逕奔烏林。\n正走間，背後一軍趕到，大叫：「曹賊休走！」火光中現出呂蒙旗號。操催軍馬向前，留張遼斷後，抵敵呂蒙。卻見前面火把又起，從山谷中擁出一軍，大叫：「凌統在此！」曹操肝膽皆裂。忽刺斜裏一彪軍到，大叫：「丞相休慌！徐晃在此！」彼此混戰一場，奪路望北而走。忽見一隊軍馬屯在山坡前。徐晃出問，乃是袁紹手下降將馬延、張顗，有三千北地軍馬，列寨在彼；當夜見滿天火起，未敢轉動，恰好接著曹操。操教二將引一千軍馬開路，其餘留著護身。操得這枝生力軍馬，心中稍安。馬延、張顗二將飛騎前行。不到十里，喊聲起處，一彪軍出。為首一將，大呼曰：「吾乃東吳甘興霸也！」馬延正欲交鋒，早被甘寧一刀斬於馬下。張顗挺槍來迎，寧大喝一聲，顗措手不及，被寧手起一刀，翻身落馬。後軍飛報曹操。操此時指望合淝有兵救應，不想孫權在合淝路口，望見江中火光，知是我軍得勝，便教陸遜舉火為號；太史慈見了，與陸遜合兵一處，衝殺將來。操只得望彝陵而走。路上撞見張郃，操令斷後。\n縱馬加鞭，走至五更，回望火光漸遠，操心方定，問曰：「此是何處？」左右曰：「此是烏林之西，宜都之北。」操見樹林叢雜，山川險峻，乃於馬上仰面大笑不止。諸將問曰：「丞相何故大笑？」操曰：「吾不笑別人，單笑周瑜無謀，諸葛亮少智。若是吾用兵之時，預先在這裏伏下一軍，如之奈何？」\n說猶未了，兩邊鼓聲震響，火光沖天而起，驚得曹操幾乎墜馬。刺斜裏一彪軍殺出，大叫：「我趙子龍奉軍師將令，在此等候多時了！」操教徐晃、張郃雙敵趙雲，自己冒煙突火而去。子龍不來追趕，只顧搶奪旗幟，曹操得脫。\n天色微明，黑雲罩地，東南風尚不息。忽然大雨傾盆，濕透衣甲。操與軍士冒雨而行，諸軍皆有飢色。操令軍士往村落中劫掠糧食，尋覓火種。方欲造飯，後面一軍趕到。操心甚慌。原來卻是李典、許褚保謢著眾謀士來到。\n操大喜，令軍馬且行，問：「前面是那裏地面？」人報：「一邊是南彝陵大路，一邊是北彝陵山路。」操問：「那裏投南郡江陵去近？」軍士稟曰：「取南彝陵過葫蘆口去最便。」操教走南彝陵。行至葫蘆口，軍皆飢餒，行走不上，馬亦困乏，多有倒於路者。操教前面暫歇。馬上有帶得鑼鍋的，也有村中掠得糧米的，便就山邊揀乾處埋鍋造飯，割馬肉燒吃，盡皆脫去濕衣，於風頭吹晒。馬皆摘鞍野放，咽咬草根。\n操坐於疏林之下，仰面大笑。眾官問曰：「適來丞相笑周瑜、諸葛亮，引惹出趙子龍來，又折了許多人馬，如今為何又笑？」操曰：「吾笑諸葛亮、周瑜，畢竟智謀不足。若是我用兵時，就這個去處，也埋伏一彪軍馬，以逸待勞；我等縱然脫得性命，也不免重傷矣。彼見不到此，我是以笑之。」\n正說間，前軍後軍一齊發喊。操大驚，棄甲上馬。眾軍多有不及收馬者。早見四下火煙布合山口，一軍擺開。為首乃燕人張翼德，橫矛立馬，大叫：「操賊走那裏去！」諸軍眾將見了張飛，盡皆膽寒。許褚騎無鞍馬來戰張飛。張遼、徐晃二將，縱馬也來夾攻。兩邊軍馬混戰做一團。操先撥馬走脫，諸將各自脫身。張飛從後趕來。操迤邐奔逃，追兵漸遠，回顧眾將多已帶傷。\n正行間，軍士稟曰：「前面有兩條路，請問丞相從那條路去？」操問：「那條路近？」軍士曰：「大路稍平，卻遠五十餘里；小路投華容道，卻近五十餘里。只是地窄路險，坑坎難行。」操令人上山觀望，回報：「小路山邊有數處煙起。大路並無動靜。」操教前軍便走華容道小路。諸將曰：「烽煙起處，必有軍馬，何故反走這條路？」操曰：「豈不聞兵書有云：『虛則實之，實則虛之。』諸葛亮多謀，故使人於山僻燒煙，使我軍不敢從這條山路走，他卻伏兵於大路等著。吾料已定，偏不教中他計！」諸將皆曰：「丞相妙算，人所不及。」遂勒兵走華容道。此時人皆飢倒，馬盡困乏。焦頭爛額者扶策而行，中箭著槍者勉強而走。衣甲濕透，個個不全；軍器旗旛，紛紛不整。大半皆是彝陵道上被趕得慌，只騎得禿馬，鞍轡衣服，盡皆拋棄。正值隆冬嚴寒之時，其苦何可勝言。\n操見前軍停馬不進，問是何故。回報曰：「前面山僻路小，因早晨下雨，坑塹內積水不流，泥陷馬蹄，不能前進。」操大怒，叱曰：「軍旅逢山開路，遇水疊橋，豈有泥濘不堪行之理！」傳下號令，教老弱中傷軍士在後慢行，強壯者擔土束柴，搬草運蘆，填塞道路，務要即時行動；如違令者斬。眾軍只得都下馬，就路旁砍伐竹木，填塞山路。操恐後軍來趕，令張遼、許褚、徐晃引百騎執刀在手，但遲慢者便斬之。\n操喝令人馬沿棧而行，死者不可勝數。號哭之聲，於路不絕。操怒曰：「生死有命，何哭之有！如再哭者立斬！」三停人馬：一停落後，一停填了溝壑，一停跟隨曹操。過了險峻，路稍平坦。操回顧止有三百餘騎隨後，並無衣甲袍鎧整齊者。操催速行。眾將曰：「馬盡乏矣，只好少歇。」操曰：「趕到荊州將息未遲。」又行不到數里，操在馬上揚鞭大笑。眾將問：「丞相何又大笑？」操曰：「人皆言周瑜、諸葛亮足智多謀，以吾觀之，到底是無能之輩。若使此處伏一旅之師，吾等皆束手受縛矣。」\n言未畢，一聲砲響，兩邊五百校刀手擺開，為首大將關雲長，提青龍刀，跨赤兔馬，截住去路。操軍見了，亡魂喪膽，面面相覷。操曰：「既到此處，只得決一死戰！」眾將曰：「人縱然不怯，馬力已乏，安能復戰？」程昱曰：「某素知雲長傲上而不忍下，欺強而不凌弱；恩怨分明，信義素著。丞相昔日有恩於彼，今只親自告之，可脫此難。」\n操從其說，即縱馬向前，欠身謂雲長曰：「將軍別來無恙？」雲長亦欠身答曰：「關某奉軍師將令，等候丞相多時。」操曰：「曹操兵敗勢危，到此無路，望將軍以昔日之情為重。」雲長曰：「昔日關某雖蒙丞相厚恩，然已斬顏良，誅文醜，解白馬之圍，以奉報矣。今日之事，豈敢以私廢公？」操曰：「五關斬將之時，還能記否？大丈夫以信義為重。將軍深明《春秋》，豈不知庾公之斯追子濯孺子之事乎？」\n雲長是個義重如山之人，想起當日曹操許多恩義，與後來五關斬將之事，如何不動心？又見曹軍惶惶皆欲垂淚，越發心中不忍。於是把馬頭勒回，謂眾軍曰：「四散擺開。」這個分明是放曹操的意思。操見雲長回馬，便和眾將一齊衝將過去。雲長回身時，曹操已與眾將過去了。雲長大喝一聲，眾軍皆下馬，哭拜於地。雲長愈加不忍。正猶豫間，張遼驟馬而至，雲長見了，又動故舊之情；長歎一聲，並皆放去，後人有詩曰：\n曹瞞兵敗走華容，正與關公狹路逢。\n只為當初恩義重，放開金鎖走蛟龍。\n曹操既脫華容之難，行至谷口，回顧所隨軍兵，止有二十七騎。比及天晚，已近南郡，火把齊明，一簇人馬攔路。操大驚曰：「吾命休矣！」只見一群哨馬衝到，方認得是曹仁軍馬。操纔心安。曹仁接著，言：「雖知兵敗，不敢遠離，只得在附近迎接。」操曰：「幾與汝不相見也！」\n於是引眾入南郡安歇。隨後張遼也到，說雲長之德。操點將校，中傷者極多，操皆令將息。曹仁置酒與操解悶，眾謀士俱在座。操忽仰天大慟。眾謀士曰：「丞相於虎窟中逃難之時，全無懼怯；今到城中，人已得食，馬已得料，正須整頓軍馬復仇，何反痛哭？」操曰：「吾哭郭奉孝耳！若奉孝在，決不使吾有此大失也！」遂搥胸大哭曰：「哀哉，奉孝！痛哉，奉孝！惜哉，奉孝！」眾謀士皆默然自慚。\n次日，操喚曹仁曰：「吾今暫回許都，收拾軍馬，必來報讎。汝可保全南郡。吾有一計，密留在此，非急休開，急則開之。依計而行，使東吳不敢正視南郡。」仁曰：「合淝、襄陽，誰可保守？」操曰：「荊州託汝管領；襄陽吾已撥夏侯惇守把。合淝最為緊要之地，吾命張遼為主將，樂進、李典為副將，保守此地。但有緩急，飛報將來。」\n操分撥已定，遂上馬引眾奔回許昌。荊州原降文武各官，依舊帶回許昌調用。曹仁自遺曹洪據守彝陵、南郡，以防周瑜。\n卻說關雲長放了曹操，引軍自回。此時諸路軍馬，皆得馬匹、器械、錢糧，已回夏口；獨雲長不獲一人一騎，空身回見玄德。孔明正與玄德作賀，忽報雲長至。孔明忙離坐席，執盃相迎曰：「且喜將軍立此蓋世之功，與普天下除大害。合宜遠慶賀。」\n雲長默然。孔明曰：「將軍莫非因吾等不曾遠接，故而不樂？」回顧左右曰：「汝等緣何不先報？」雲長曰：「關某特來請死。」孔明曰：「莫非曹操不曾投華容道上來？」雲長曰：「是從那裏來。關某無能，因此被他走脫。」孔明曰：「拏得甚將士來？」雲長曰：「皆不曾拏。」孔明曰：「此是雲長想曹操昔日之恩，故意放了。但既有軍令狀在此，不得不按軍法。」遂叱武士推出斬之。正是：\n拚將一死酬知己，致令千秋仰義名。\n未知雲長性命如何，且看下文分解。",
+    "title": "第五十回 諸葛亮智算華容　　　關雲長義釋曹操"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-050.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

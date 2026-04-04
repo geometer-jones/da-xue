@@ -1,0 +1,47 @@
+{
+  "chapter": {
+    "character_count": 117,
+    "id": "chapter-031",
+    "order": 31,
+    "reading_unit_count": 2,
+    "reading_units": [
+      {
+        "character_count": 85,
+        "id": "chapter-031-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "夫佳兵者，不祥之器，物或惡之，故有道者不處。君子居則貴左，用兵則貴右。兵者不祥之器，非君子之器，不得已而用之，恬淡為上。勝而不美，而美之者，是樂殺人。夫樂殺人者，則不可以得志於天下矣。吉事尚左，凶事尚右。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now arms, however beautiful, are instruments of evil omen, hateful, it may be said, to all creatures."
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-031-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "偏將軍居左，上將軍居右，言以喪禮處之。殺人之衆，以哀悲泣之，戰勝以喪禮處之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Therefore they who have the Tao do not like to employ them. The superior man ordinarily considers the left hand the most honourable place, but in time of war the right hand. Those sharp weapons are instruments of evil omen, and not the instruments of the superior man;--he uses them only on the compulsion of necessity. Calm and repose are what he prizes; victory (by force of arms) is to him undesirable. To consider this desirable would be to delight in the slaughter of men; and he who delights in the slaughter of men cannot get his will in the kingdom. On occasions of festivity to be on the left hand is the prized position; on occasions of mourning, the right hand. The second in command of the army has his place on the left; the general commanding in chief has his on the right;--his place, that is, is assigned to him as in the rites of mourning. He who has killed multitudes of men should weep for them with the bitterest grief; and the victor in battle has his place (rightly) according to those rites."
+          }
+        }
+      }
+    ],
+    "summary": "夫佳兵者，不祥之器，物或惡之，故有道者不處",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "夫佳兵者，不祥之器，物或惡之，故有道者不處。君子居則貴左，用兵則貴右。兵者不祥之器，非君子之器，不得已而用之，恬淡為上。勝而不美，而美之者，是樂殺人。夫樂殺人者，則不可以得志於天下矣。吉事尚左，凶事尚右。偏將軍居左，上將軍居右，言以喪禮處之。殺人之衆，以哀悲泣之，戰勝以喪禮處之。",
+    "title": "第31章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-031.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

@@ -1,0 +1,788 @@
+{
+  "chapter": {
+    "character_count": 3276,
+    "id": "chapter-004",
+    "order": 4,
+    "reading_unit_count": 59,
+    "reading_units": [
+      {
+        "character_count": 87,
+        "id": "chapter-004-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "且說董卓欲殺袁紹，李儒止之曰：「事未可定，不可妄殺。」袁紹手提寶劍，辭別百官而出，懸節東門，奔冀州去了。卓謂太傅袁隗曰：「汝姪無禮，吾看汝面，姑恕之。廢立之事若何？」隗曰：「太尉所見是也。」卓曰：「敢有阻大議者，以軍法從事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to Dongzhuo, who was about to kill Yuan Shao; Li Ru stopped him, saying, \"The matter cannot yet be decided, you should not kill indiscriminately.\" Yuan Shao bid farewell to the ministers and departed, sword in hand."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-004-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "」群臣震恐，皆云：「一聽尊命。」宴罷，卓問侍中周毖、校尉伍瓊曰：「袁紹此去若何？」周毖曰：「袁紹忿忿而去，若購之急，勢必為變，且袁氏樹恩四世，門生故吏，遍於天下；倘收豪傑以聚徒眾，英雄因之而起，山東非公有也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He hung a bamboo placard on the eastern gate which announced his intention to depart for Jizhou."
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-004-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "不如赦之，拜為一郡守，則紹喜於免罪，必無患矣。」伍瓊曰：「袁紹好謀無斷，不足為慮；誠不若加之一郡守，以收民心。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhuo said to Grand Tutor Yuan Wei, \"Your nephew lacks courtesy, but I would not wish for you to lose face, so I will let it slide for now. What about the issue of deposing the emperor?\" Wei said, \"Grand Commandant, if that is your view, then so be it.\" Zhuo said, \"Anyone who dares to interfere with my plans shall be dealt with severely according to military law.\" All of the ministers were paralyzed with fear; they all said, \"We will all obey your orders.\" After the banquet had ended, Zhuo asked his aide Zhou Bi and captain Wu Qiong, \"What do you make of Yuan Shao's leaving?\" Zhou Bi said, \"Yuan Shao left in anger; in the heat of the moment, if we were to place a bounty on his head, it would mean rebellion for sure. Moreover, the Yuan family have shown benevolence to the people for four generations; their students and former employees are scattered throughout the land. If the talented ones of their group were to gather their followers, other brave warriors would rise up as well. If that were to happen, the entire area to the east of the mountains would no longer be yours. If you were to pardon him and make him a governor of a commandery, then Shao would be delighted by the prospect of a reprieve. Then, you would not have anything to worry about.\" Wu Qiong said, \"Yuan Shao is fond of scheming, but lacks judgment. He is not worth worrying about. I truly think it is best to make him governor of a commandery. This would appease the people's minds.\""
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-004-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "卓從之，即日差人拜紹為渤海太守。九月朔，請帝陞嘉德殿，大會文武。卓拔劍在手，對眾曰：「天子闇弱，不足以君天下。今有策文一道，宜為宣讀。」乃令李儒讀策曰：「孝靈皇帝，早棄臣民；皇帝承嗣，海內仰望。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dong Zhuo followed their advice."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-004-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "而帝天資輕佻，威儀不恪，居喪慢惰：否德既彰，有忝大位。皇太后教無母儀，統政荒亂。永樂太后暴崩，眾論惑焉。三綱之道，天地之紀，毋乃有闕？陳留王協，聖德偉懋，規矩肅然；居喪哀戚，言不以邪；休聲美譽，天下所聞：宜承洪業，為萬世統。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "That day, he sent someone to give the post of governor of Bohai Commandery to Shao."
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-004-line-006",
+        "order": 6,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "茲廢皇帝為弘農王，皇太后還政。請奉陳留王為皇帝，應天順人，以慰生靈之望。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On the first day of the ninth lunar month, the emperor was invited to Jiade Hall, where all of the military and civilian officials had gathered. Zhuo drew his sword and addressed the crowd, \"the Son of Heaven is ignorant and weak, and is not qualified to rule the country. I have a proclamation that I would like read out loud.\" With that, he ordered Li Ru to read the proclamation; it said: The late Emperor Ling of Han abandoned his subjects for the next world at far too young an age. An emperor is someone that everyone looks up to and relies on. However, the current emperor does not have it within him to take matters seriously, and does not command respect. Moreover, he has not been diligent in observing the period of mourning for the late emperor. His poor sense of decorum is evident for all to see; he is an embarrassment to the throne. His mother, the empress dowager, did not teach him properly, the way a mother should; as a result, the administration of the government is in a state of chaos. After the Empress Dowager of Yongle died suddenly, the people expressed suspicions of foul play. Is it not evident that there has been a breakdown in the observance of the three essential relationships and that there has been a violation of the laws of heaven and earth? Prince Xie of Chenliu is virtuous and majestic, and earnestly observes proper etiquette. He has also shown remorse during the period of mourning for the late emperor, and has never said anything wrong. His good and decent reputation is well-known throughout the land. He is a suitable heir to the late emperor, and can unify the country for the next 10,000 generations. The current emperor is hereby demoted to Prince of Hongnong, and the empress dowager will henceforth relinquish all control of the government. The Prince of Chenliu is invited to become emperor. In so doing, he shall be conforming to the wishes of both heaven and man, and thereby give hope to the citizenry."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-004-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "李儒讀策畢，卓叱左右扶帝下殿，解其璽綬，北面長跪，稱臣聽命。又呼太后去服候敕。帝后皆號哭。群臣無不悲慘。階下一大臣，憤怒高叫曰：「賊臣董卓，敢為欺天之謀，吾當以頸血濺之！」揮手中象簡，直擊董卓。卓大怒，喝武士拏下，乃尚書丁管也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After Li Ru finished reading the proclamation, Zhuo ordered his aides to assist the emperor off of the throne."
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-004-line-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "卓命牽出斬之。管罵不絕口，至死神色不變。後人有詩嘆曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They confiscated his imperial jade seal, which had a silk cord attached to it; they made him kneel down facing north, declare himself a vassal, and agree to obey any orders given to him."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-004-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "董賊潛懷廢立圖，漢家宗社委丘墟。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They also instructed the empress dowager to remove her royal vestments, and await the imperial decree."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-004-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "滿朝臣宰皆囊括，惟有丁公是丈夫。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Both the emperor and the empress dowager began to wail and cry, and all of the ministers were saddened. A senior minister, who was standing at the base of the throne, became angry and screamed out, \"Dong Zhuo, you villainous scoundrel! You dare carry out a scheme which deceives heaven. I shall stain you with the blood of my severed neck!\" With that, he raised his ivory tablet and lunged at Dong Zhuo, intending to strike him. Zhuo was outraged, and ordered the soldiers to seize him. It was chief of staff Ding Guan. Zhuo ordered him to be dragged outside and beheaded. Guan shouted expletives non-stop, and did not change his demeanor until he was dead. People of later generations wrote a poem lamenting him, it went: The villainous Dong harbored plans of deposing the emperor; the ancestral hall and imperial alter of the house of Han lay in ruins. Out of all of the ministers in the imperial court, Lord Ding was the only real man!"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-004-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "卓請陳留王登殿。群臣朝賀畢，卓命扶何太后並弘農王及帝妃唐氏於永安宮閒住，封鎖宮門，禁群臣無得擅入。可憐少帝四月登基，至九月即被廢。卓所立陳留王協，表字伯和，靈帝中子，即獻帝也，時年九歲。改元初平。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhuo asked the Prince of Chenliu to ascend the throne."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-004-line-012",
+        "order": 12,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "董卓為相國，贊拜不名，入朝不趨，劍履上殿，威福莫比。李儒勸卓擢用名流，以收人望，因薦蔡邕之才。卓命徵之，邕不赴。卓怒，使人謂邕曰：「如不來，當滅汝族。」邕懼，只得應命而至。卓見邕大喜，一月三遷其官，拜為侍中，甚見親厚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After all of the ministers had finished performing the ritual obeisance celebrating the crowning of a new emperor, Zhuo ordered Empress Dowager He, along with the Prince of Hongnong and his consort -- the lady Tang --, to be exiled to Yong'an Palace. The doors to the palace were to be sealed, and none of the ministers were to be allowed unauthorized entry. The poor young emperor had only assumed the throne in the fourth lunar month, and was now being deposed in the ninth lunar month. The emperor chosen by Zhuo, Prince Xie of Chenliu -- whose style name was Bohe -- was the middle son of Emperor Ling, and is now known as Emperor Xian. At the time, he was nine years old. Chuping was chosen as the new era name. Dong Zhuo made himself Chancellor of State. However, he did not need to announce his name during the ritual audience with the emperor. Furthermore, he was able to casually saunter in or out of the throne room, as he pleased. Finally, he wore his sword and shoes when in audience with the emperor. His tyrannical ways were unparalleled. Li Ru advised Zhuo to select a prominent personage for appointment to a post; this would satisfy the hopes of the people. Therefore, the talents of Cai Yong were recommended. Zhuo ordered him to be appointed, but Yong would not come. Zhuo became angry, and sent someone to tell Yong, \"If you don't come, your entire clan shall be put to death.\" Yong was terrified, so he had no choice but to do as ordered, and came. Zhuo was overjoyed at the sight of Yong. He visited him many times in one month. He made him his trusted attendant; he was very much treated with warmth and kindness."
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-004-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "卻說少帝與何太后、唐妃，困於永安宮中，衣服飲食，漸漸少缺，少帝淚不曾乾。一日，偶見雙燕飛於庭中，遂吟詩一首。詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to the young emperor who, along with Empress Dowager He and Consort Tang, was imprisoned within Yong'an Palace. They were gradually running out of clothing, food and drink; the young emperor's tears could not be dried. One day, he suddenly saw a pair of flying swallows in the courtyard. It inspired him to compose a poem, which went:"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-004-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "嫩草綠凝煙，裊裊雙飛燕。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Amidst green tender grass and congealing mist, a pair of flying swallows."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-004-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "洛水一條青，陌上人稱羨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The pristine waters of the Luo River are the envy of all who stand on footpaths between rice paddies."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-004-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "遠望碧雲深，是吾舊宮殿。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I look off into the distance, and see my old palace among the blue-green clouds."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-004-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "何人仗忠義，洩我心中怨！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Who’s loyalty can be trusted, that I may reveal to them the resentment in my heart!"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-004-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "董卓時常使人探聽。是日獲得此詩來呈董卓。卓曰「怨望作詩殺之有名矣。」遂命李儒帶武士十人入宮弒帝。帝與后、妃正在樓上宮女報李儒至帝大驚。儒以鴆酒奉帝帝問何故。儒曰「春日融和董相國特上壽酒。」太后曰「既云壽酒汝可先飲。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dong Zhuo frequently sent people to keep tabs on the situation; they acquired this poem on that day, and came and presented it to Dong Zhuo."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-004-line-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "儒怒曰「汝不飲耶」呼左右持短刀白練於前曰「壽酒不飲可領此二物」唐妃跪告曰「妾身代帝飲酒願公存母子性命。」儒叱曰「汝何人可代王死」乃舉酒與何太后曰「汝可先飲」后大罵何進無謀引賊入京致有今日之禍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhuo said, \"He shows his resentment by composing poems; now I have a good excuse to kill him.\" He then ordered Li Ru to take ten soldiers, and enter the palace to kill the emperor."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-004-line-020",
+        "order": 20,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "儒催逼帝，帝曰：「容我與太后作別。」乃大慟而作歌。其歌曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At the time, the emperor was upstairs with the empress dowager and his consort. When a lady-in-waiting reported the arrival of Li Ru, the emperor was greatly surprised. When Li Ru offered poisoned wine to the emperor, the emperor asked the reason. Ru said, \"Springtime is when everything becomes more warm and cordial, and so Chancellor of State Dong has especially sent this wine in honor of your birthday.\" The empress dowager said, \"Since it is wine for his birthday, you can drink first.\" Ru angrily replied, \"You won't drink?\" He ordered his attendants to hold a dagger and a white silk shroud in front of them, and said, \"If you don't drink the birthday wine, you can take these two items instead!\" Consort Tang kneeled and declared, \"I will drink the wine on behalf of the emperor; my only wish is that you spare the lives of mother and son.\" Ru scolded her, \"Who are you, that you can die on behalf a monarch?\" He then held up the wine and said to Empress Dowager He, \"You can drink first!\" The empress dowager cursed He Jin for his lack of foresight in bringing bandits into the capital, which was the cause of today's tragedy. Ru pressed the emperor, so the emperor said, \"Allow me to bid farewell to the empress dowager.\" Filled with great emotion, he composed a verse. The verse went:"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-004-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "天地易兮日月翻，棄萬乘兮退守藩。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heaven and earth are changed and the sun and moon are overturned; the emperor has been cast aside and banished to the frontier."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-004-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "為巨逼兮命不久，大勢去兮空淚潸！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Because of the insistence of a certain minister, my life on this earth is not much longer; the situation is lost, and my tears flow in vain!"
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-004-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "唐妃亦作歌曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Consort Tang also composed a verse, which went:"
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-004-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "皇天將崩兮，后土頹﹔身為帝姬兮，恨不隨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The great and almighty heavens have collapsed, and the vast earth is in ruins; as a concubine of the emperor, I regret that I cannot follow him into the hereafter."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-004-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "生死異路兮，從此別﹔奈何煢速兮，心中悲！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Life and death are two separate roads, and now we part company; how did this loneliness come upon me? My heart is full of sadness!"
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-004-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "歌罷，相抱而哭。李儒叱曰：「相國立等回報，汝等俄延，望誰救耶？」太后大罵：「董賊逼我母子，皇天不佑！汝等助惡，必當滅族！」儒大怒，雙手扯住太后，直攛下樓，叱武士絞死唐妃，以鴆酒灌殺少帝，還報董卓。卓命葬於城外。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Having finished their verses, they embraced each other and began to cry."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-004-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "自此每夜入宮，姦淫宮女，夜宿龍床。嘗引軍出城，行到陽城地方，時當二月，村民社賽。男女皆集，卓命軍士圍住，盡皆殺之，掠婦女財物，裝載車上，懸頭千餘顆於車下，連軫還都，揚言殺賊大勝而回；於城門下焚燒人頭，以婦女財物分散眾軍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Li Ru barked, \"Chancellor of State is impatiently waiting for us to report back to him, but both of you are stalling; who do you think will save you?\" The empress dowager cursed, \"That scoundrel Dong is forcing a mother and her son, and heaven will not protect him!"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-004-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "越騎校尉伍孚，字德瑜，見卓殘暴，憤恨不平。嘗於朝服內披小鎧，藏短刀，欲伺便殺卓。一日，卓入朝，孚迎至閣下，拔刀直刺卓。卓氣力大，兩手摳住；呂布便入，揪倒伍孚。卓問曰：「誰教汝反？」孚瞪目大喝曰：「汝非吾君，吾非汝臣，何反之有？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "You are helping an evil tyrant, and your whole family shall certainly be wiped out!\" Ru was furious, and grabbed the empress dowager with both hands, throwing her straight down the stairs."
+          }
+        }
+      },
+      {
+        "character_count": 45,
+        "id": "chapter-004-line-029",
+        "order": 29,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "汝罪惡盈天，人人願得而誅之！吾恨不車裂汝以謝天下！」卓大怒，命牽出剖剮之。孚至死罵不絕口。後人有詩讚之曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He ordered his soldiers to hang Consort Tang, and to kill the young emperor by pouring the poisoned wine down the his throat. He then reported back to Dong Zhuo. Zhuo ordered their bodies be buried outside of the city. From then on, he entered the palace each evening and had his way with the ladies-in-waiting of the palace; he then spent the night sleeping on the dragon bed. He led his troops out of the city to the area around Yangcheng. Around the second lunar month, the villagers were holding their springtime earth god festival. All of the men and women were gathered together; Zhuo ordered his soldiers to surround and kill them. They seized the women and spoils, and loaded them onto their carts. They also hung more than 1,000 severed heads on the carts. They made their way back to the capital in a long caravan, and spread the word that they had returned from a major victory against bandits. They burned the human heads at the gates of the city, and the women and spoils were divided amongst all the soldiers. Captain of Light Cavalry Wu Fu, whose style name was Deyu, saw Zhuo's cruelty and was incensed. He wore light armor underneath his ceremonial court clothes, and carried a concealed dagger; he was waiting for an opportune moment to kill Zhuo. One day, Zhuo was on his way to court, when Fu intercepted him at the foot of a pavilion; he drew his dagger and thrust it at Zhuo. Zhuo's strength was great, and he used both hands to catch the attacker's arms. Lü Bu then entered and tackled Wu Fu. Zhuo asked him, \"Who told you to commit treason?\" Fu glared at him, and shouted, \"You are not my lord, and I am not your subject; why shouldn't I rebel against you? Your crimes are too many to mention; anyone would kill you if they had the chance! I regret that you cannot be tied up, limb-by-limb, to horse-drawn carriages and pulled apart; that would appease the country!\" Zhuo was outraged, and ordered him to be dragged outside, drawn and quartered. Right up to his death, Fu screamed obscenities non-stop. People of later generations composed a poem in praise of him; it went:"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-004-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "漢末忠臣說伍孚，沖天豪氣世間無。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the final years of Han, the ministers all talked of Wu Fu, and how his awesome heroism went unmatched in this world."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-004-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "朝堂殺賊名猶在，萬古堪稱大丈夫！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His reputation for slaying bandit rebels still precedes him at court; one can call him a real man for all time!"
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-004-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "董卓自此出入，常帶甲士護衛。時袁紹在渤海，聞知董卓弄權，乃差人齎密書來見王允。書略曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "From that point on, Dong Zhuo brought armed escorts with him whenever going to or from court. At the time, Yuan Shao was in Bohai. When he heard that Dong Zhuo was abusing his power, he sent someone to deliver a secret communiqué to Wang Yun. The communiqué went something like:"
+          }
+        }
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-004-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "卓賊欺天廢主，人不忍言；而公恣其跋扈，如不聽聞，豈報國效忠之臣哉？紹今集兵練卒，欲掃清王室，未敢輕動。公若有心，當乘間圖之。若有驅使，即當奉命。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The villain Zhuo has cheated heaven and deposed the ruler, and there is nothing that anyone can say about it; however, you have indulged his overbearing actions as if you knew nothing about them. How can you then call yourself a loyal and devoted servant of the empire? I shall gather and train an army; I would like to clean out the royal household, but do not want to be hasty in my actions. If you have the inclination, you should seize the opportunity to plot against him. If you have an assignment for me, I shall follow your orders."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-004-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "王允得書尋思無計。一日於侍班閣子內見舊臣俱在允曰「今日老夫賤降晚間敢屈眾位到舍小酌。」眾官皆曰「必來祝壽。」當晚王允設宴後堂公卿皆至。酒行數巡王允忽然掩面大哭。眾官驚問曰「司徒貴誕何故發悲」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After Wang Yun received the letter, he thought long and hard, but could not think of a plan."
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-004-line-035",
+        "order": 35,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "允曰「今日並非賤降因欲與眾位一敘恐董卓見疑故託言耳。董卓欺主弄權社稷旦夕難保。想高皇誅秦滅楚奄有天下誰想傳至今日乃喪於董卓之手此吾所以哭也。」於是眾官皆哭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One day, Yun saw that all of the old ministers were inside the guardhouse, so he told them, \"Today is my birthday; you must all come to my residence this evening for a few drinks.\" They all answered, \"By all means, we will all come to celebrate your birthday.\" That evening, Wang Yun arranged for a banquet in the rear chamber of his residence, and all of the high-level ministers came. After a few rounds of drinks, Wang Yun suddenly covered his face with his hands and began to weep uncontrollably. All of the officials were taken aback, and asked, \"Minister over the Masses, it is your birthday, why are you so upset?\" Yun responded, \"Actually, today is not my birthday. I used that as a pretext, because I wanted to get everyone together so that I could tell you all something, but I was afraid that Dong Zhuo would become suspicious. Dong Zhuo has double-crossed the emperor, and abused his power; the nation is in imminent danger of being lost. It makes me think of how Emperor Gao vanquished the Qin, destroyed the Chu, and had the whole world in the palm of his hands. Who would have thought that what he began so long ago, which has lasted to this day, would be wiped out by the hand of Dong Zhuo. That is why I am crying.\""
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-004-line-036",
+        "order": 36,
+        "source_block_chunk": 3,
+        "source_block_order": 24,
+        "text": "坐中一人撫掌大笑曰：「滿朝公卿，夜哭到明，明哭到夜，焉能哭死董卓耶？」允視之，乃驍騎校尉曹操也。允怒曰：「汝祖宗亦食祿漢朝，今不思報國而反笑耶？」操曰：「吾非笑別事，笑眾位無一計殺董卓耳。操雖不才，願即斷董卓頭，懸之都門，以謝天下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All of the ministers then started to cry."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-004-line-037",
+        "order": 37,
+        "source_block_chunk": 4,
+        "source_block_order": 24,
+        "text": "」允避席問曰：「孟德有何高見？」操曰：「近日操屈身以事卓者，實欲乘間圖之耳。今卓頗信操，操因得時近卓。聞司徒有七星寶刀一口，願借與操入相府刺殺之，雖死不恨！」允曰：「孟德果有是心，天下幸甚！」遂親自酌酒奉操。操瀝酒設誓，允隨取寶刀與之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One of the men sitting in the group began to clap his hands and laugh uproariously, saying, \"Can a bunch of ministers all crying from dusk till dawn and from dawn until dusk cry Dong Zhuo to death?\" Yun looked at him, it was Captain of armed cavalry Cao Cao."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-004-line-038",
+        "order": 38,
+        "source_block_chunk": 5,
+        "source_block_order": 24,
+        "text": "操藏刀，飲酒畢，即起身辭別眾官而去。眾官又坐了一回，亦俱散訖。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yun angrily responded, \"Your ancestors also enjoyed the bounty of the Han Dynasty, and now instead of wanting to serve your country, you laugh instead?\" Cao replied, \"I am laughing at something else; I am laughing at the fact that none of you has a single idea of how to kill Dong Zhuo. Although I am not that talented, I am willing to cut off Dong Zhuo's head and hang it on the gates of the capital in order to appease the nation.\" Out of respect, Yun stood up from his seating mat and asked, \"May I ask what you have in mind?\" Cao replied, \"Actually, the reason for my having bowed down in service to Zhuo is that I wanted to seize the opportunity to plot against him. Now that Zhuo somewhat trusts me, there are certain times when I can get close to Zhuo. I heard that you are in possession of a dagger called the seven star blade; I would like to borrow it so that I can enter his residence and stab him to death. Even if it means my life, I won't regret it.\" Yun said, \"If you really are of such a mind, the country is indeed fortunate!\" He then personally poured a cup of wine and toasted Cao. Cao made a solemn pledge while allowing his wine to slowly drip onto the floor, then Yun gave him the dagger. Cao concealed the dagger, and finished his drink. He then got up, bid everyone farewell, and left. The others sat for a while, and then also dispersed."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-004-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "次日曹操佩著寶刀來至相府問丞相何在。從人云「在小閣中。」操竟入。見董卓坐於床上呂布侍立於側。卓曰「孟德來何遲」操曰「馬贏行遲耳。」卓顧謂布曰「吾有西涼進來好馬奉先可親去揀一騎賜與孟德。」布領令而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The following day, Cao Cao came to the chancellor's residence, wearing the dagger, and asked about the whereabouts of the chancellor."
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-004-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "」即欲拔刀刺之。懼卓力大，未敢輕動。卓胖大不耐久坐，遂倒身而臥，轉面向內。操又思曰：「此賊當休矣！」急掣寶刀在手。恰待要刺，不想董卓仰面看衣鏡中，照見曹操在背後拔刀，急回身問曰：「孟德何為？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His attendants said, \"He is in the small room.\" Cao then went in to see him."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-004-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "時呂布已牽馬至閣外，操惶遽，乃持刀跪下曰：「操有寶刀一口，獻上恩相。」卓接視之，見其刀長尺餘，七寶嵌飾，極其鋒利，果寶刀也；遂遞與呂布收了。操解鞘付布。卓引操出閣看馬。操謝曰：「借願試一騎。」卓就教與鞍轡。操牽馬出相府，加鞭望東南而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dong Zhuo was sitting on the bed."
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-004-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 26,
+        "text": "布對卓曰：「適來曹操似有行刺之狀，及被喝破，故推獻刀。」卓曰：「吾亦疑之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lü Bu was standing guard at his side. Zhuo said, \"Mengde, why are you so late?\" Cao replied, \"My horse is frail, so I'm late.\" Zhuo then said to Bu, \"I have some fine horses that have recently come in from Xiliang. Fengxian, why don't you go pick a mount to give to Mengde.\" Bu obeyed the instructions and left. Cao thought to himself, \"Now is the time for this villain to die!\" He wanted to pull out his dagger and stab him, but was worried that Zhuo was strong, so he did not dare act rashly. Zhuo was large and rotund, and could not bear to sit for long periods of time; so he lay down to rest, facing inwards, away from the door. Cao again thought, \"This villain should be laid to rest!\" He quickly drew his dagger. Just as he was about to stab, Dong Zhuo unexpectedly looked up and saw the clothes mirror. In it, he saw the reflection of Cao Cao behind him, drawing a dagger. He quickly turned around and asked, \"Mengde, what are you doing?\" thumb|300px|right|w:Cao Cao|Cao Cao presents a dagger to Dong Zhuo By now, Lü Bu had already led a horse to the outside of the room; Cao was scared, so he held the dagger and knelt down, saying, \"Sir, I have a dagger which I would like to present to you.\" Zhuo took it and looked at it, it was a little more than one chi in length, and decorated with the seven treasures. It was very sharp, and was truly a prized dagger. He then handed it to Lü Bu, who took hold of it. Cao unfastened the sheath, and gave it to Bu. Zhuo led Cao outside to look at the horse. Cao thanked him, saying, \"I'd like to try out this mount.\" Zhuo then called for a saddle and bridle. Cao led the horse outside of the chancellor's residence, then rode southeast, urging the horse with his riding crop. Bu said to Zhuo, \"Just now, it seemed as though Cao Cao was about to stab you; I must have interrupted, so he presented you with the dagger instead.\" Zhuo said, \"I am also suspicious of him.\""
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-004-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "正說話間，適李儒至，卓以其事告之。儒曰：「操無妻小在京，只獨居寓所。今差人往召，如彼無疑而便來，則是獻刀；如推託不來，則必是行刺，便可擒而問也。」卓然其說，即差獄卒四人往喚操。去了良久，回報曰：「操不曾回寓，乘馬飛出東門。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "While they were speaking, Li Ru arrived; Zhuo told him what had happened."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-004-line-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 27,
+        "text": "門吏問之，操曰：『丞相差我有緊急公事』，縱馬而去矣。」儒曰：「操賊心逃竄，行刺無疑矣。」卓大怒曰：「我如此重用，反欲害我！」儒曰：「此必有同謀者，待拏住曹操便可知矣。」卓遂令遍行文書，畫影圖形，捉拏曹操。擒獻者，賞千金，封萬戶侯；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ru said, \"Cao does not keep his wife and children in the capital, he has a place of his own where he lives by himself."
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-004-line-045",
+        "order": 45,
+        "source_block_chunk": 3,
+        "source_block_order": 27,
+        "text": "窩藏者同罪。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Send someone to call for him; if he comes without suspecting anything, then he was presenting a dagger."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-004-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "且說曹操逃出城外飛奔譙郡。路經中牟縣為守關軍士所獲擒見縣令。操言「我是客商覆姓皇甫。」縣令熟視曹操沈吟半晌乃曰「吾前在洛陽求官時曾認得汝是曹操如何隱諱且把來監下明日解去京師請賞。」把關軍士賜以酒食而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If he makes up an excuse to not come, then he was trying to assassinate you, and we can take him into custody for questioning.\" Zhuo agreed with the suggestion, and sent four jailers to summon Cao. They had been gone for quite some time before returning with their report, saying, \"Cao did not return to his place. He got on his horse and exited the city via the eastern gate. When the gate keeper questioned him, Cao said, 'The chancellor is sending me on urgent official business,' then rode off on his horse.\" Ru said, \"Cao had treacherous intentions and has now fled. He was attempting to assassinate you for sure.\" Zhuo was outraged, saying, \"Even after I gave him such an important position, he still wanted to harm me!\" Ru said, \"Something like this must have co-conspirators. We can find out once we nab Cao Cao.\" Zhuo then called for wanted posters with Cao Cao's likeness to be sent throughout the land. Whoever caught him and handed him in would be given a thousand pieces of gold, and be made marquis over ten thousand households; anyone who harbored him would be punished as his accomplice. Let us now turn to Cao Cao, who was fleeing the city and galloping toward Qiao Commandery. He was detained by garrison soldiers as he traveled past Zhongmu County, and was taken to the county governor. Cao said, \"I am a traveling merchant. My surname is Huangfu.\" The county governor took a close look at Cao Cao; after muttering to himself for a while, he said, \"When I was seeking a post in Luoyang, I had known you as Cao Cao. Why are you being evasive? Take him and throw him into a cell; tomorrow, we will hand him over to the authorities in the capital, and ask for the reward.\" All of the garrison soldiers received extra rations of food and wine, then left."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-004-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "至夜分縣令喚親隨人暗地取出曹操直至後院中審究問曰「我聞丞相待汝不薄何故自取其禍」操曰「『燕雀安知鴻鵠志哉』汝既拏住我便當解去請賞。」縣令屏退左右謂操曰「汝休小覷我。我非俗吏奈未遇其主耳。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At midnight, the county governor ordered his personal aides to discreetly escort Cao Cao to the rear courtyard for questioning; he asked, \"I have heard that the chancellor treats you very well, so why have you brought such trouble upon yourself?\" Cao said, \"'How can a little songbird understand the ambitions of a grand swan?' You have captured me, and now you can leisurely turn me over to the authorities and collect your reward."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-004-line-048",
+        "order": 48,
+        "source_block_chunk": 2,
+        "source_block_order": 29,
+        "text": "操曰「吾祖宗世食漢祿若不思報國與禽獸何異吾屈身事卓者欲乘間圖之為國除害耳。今事不成乃天意也」縣令曰「孟德此行將欲何往」操曰「吾將歸鄉里發矯詔召天下諸侯興兵共誅董卓吾之願也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Why ask more questions!\" The county governor ordered his attendants to withdraw, and then said to Cao, \"Don't think so little of me."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-004-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "縣令聞言，乃親釋其縛，扶之上坐，再拜曰：「公真天下忠義之士也！」曹操亦拜，問縣令姓名。縣令曰：「吾姓陳，名宮，字公臺。老母妻子，皆在東郡。今感公忠義，願棄一官，從公而逃。」操甚喜。是夜陳宮收拾盤費，與曹操更衣易服，各背劍一口，乘馬投故鄉來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I'm not some yokel official; I just haven't yet met someone to call lord, that's all.\" Cao said, \"My ancestors have eaten the bounty of the Han for generations. If I didn't think of a way to serve my country, how would I be any different from an animal? I subjugated myself to Zhuo because I wanted to seize upon the opportunity to plot against him, so that this evil could be removed from the world. The fact that I was not successful is the will of heaven!\" The county governor said, \"Where were you heading on this trip?\" Cao said, \"I was returning to my home village. I was hoping to issue a forged imperial edict which would call on all of the nobles to raise armies and defeat Dong Zhuo.\" 200px|thumb|right|w:Chen Gong|Chen Gong Upon hearing this explanation, the county governor personally untied his ropes, and helped him onto a chair. He then paid ritual obeisance, saying, \"You truly are a loyal servant of the country!\" Cao Cao also gave obeisance, and asked for the county governor's name. The county governor said, \"My surname is Chen, and my given name is Gong; my style name is Gongtai. My dear old mother and my wife are both in Dong Commandery. I am moved by your loyalty to the country; I would like to abandon my post and follow you on your escape.\" Cao was extremely happy. That night, Chen Gong collected some travel money, and gave Cao Cao a change of clothes; he also brought along two straight swords, one for each of them. They climbed onto their horses and rode toward his home village."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-004-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "行了三日，至成皋地方，天色向晚。操以鞭指林深處，謂宮曰：「此間有一人姓呂，名伯奢，是吾父結義弟兄；就往問家中消息，覓一宿，如何？」宮曰：「最好。」二人至莊前下馬，入見伯奢。奢曰：「我聞朝廷遍行文書，捉汝甚急，汝父已避陳留去了。汝如何得至此？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "200px|thumb|right|w:Lü Boshe|Lü Boshe After riding for three days, they arrived at the area around Chenggao, just as it was turning dark."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-004-line-051",
+        "order": 51,
+        "source_block_chunk": 2,
+        "source_block_order": 31,
+        "text": "」操告以前事，曰：「若非陳縣令，已粉骨碎身矣。」伯奢拜陳宮曰：「小姪若非使君，曹氏滅門矣。使君寬懷安坐，今晚便可下榻草舍。」說罷，即起身入內。良久乃出，謂陳宮曰：「老夫家無好酒，容往西村沽一樽來相待。」言訖，匆匆上驢而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao used his riding crop to point to a thick forested area, saying to Gong, \"There is a man who lives here who is my father's sworn brother; his surname is Lü, and his given name is Boshe. Let's go and ask him for news of my family, and see if he can put us up for the night; what do you say?\" Gong said, \"Perfect.\" The two rode to the front of the villa, got off of their horses, and entered in to see Boshe. She said, \"I heard that the court has issued a warrant for your arrest, and that they are scouring the countryside for you. Your father has already fled to Chenliu. How were you able to make it here?\" Cao told him the whole story up to that point, saying, \"If it weren't for county governor Chen, I would be mincemeat by now.\" Boshe paid obeisance to Chen Gong, saying, \"If the son of my sworn brother had not had you, the entire Cao family would have been decimated. Why don't you sit back and relax. Tonight, you can lodge in my humble abode.\" After he finished speaking, he got up to go inside. After a while, he came back out and said to Chen Gong, \"I don't have any decent wine in the house. Allow me to travel to the village in the west to buy a jug for you.\" With that, he hurried off on his donkey."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-004-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "操與宮坐久，忽聞莊後有磨刀之聲。操曰：「呂伯奢非吾至親，此去可疑，當竊聽之。」二人潛步入草堂後，但聞人語曰：「縛而殺之，何如？」操曰：「是矣！今若不先下手，必遭擒獲。」遂與宮拔劍直入，不問男女，皆殺之，一連殺死八口。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao and Gong had been sitting for a while, when they suddenly heard the sound of knives being sharpened from behind the villa."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-004-line-053",
+        "order": 53,
+        "source_block_chunk": 2,
+        "source_block_order": 32,
+        "text": "搜至廚下，卻見縛一豬欲殺。宮曰：「孟德心多，誤殺好人矣！」急出莊上馬而行。行不到二里，只見伯奢驢鞍前鞽懸酒二瓶，手攜果菜而來，叫曰：「賢姪與使君何故便去？」操曰：「被罪之人，不可久住。」伯奢曰：「吾已分付家人宰一豬相款，賢姪、使君何憎一宿？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao said, \"Lü Boshe is not a very close relative; his leaving seemed suspicious."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-054",
+        "order": 54,
+        "source_block_chunk": 3,
+        "source_block_order": 32,
+        "text": "速請轉騎。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We should eavesdrop on them.\" The two of them snuck out to the back of the house, where they heard the voices of people saying, \"We'll tie 'em up and then kill 'em, alright?\" Cao said, \"Aha! If we don't strike first, we will be captured for sure.\" He then drew his sword, and went straight in, along with Gong. Everyone was killed, regardless of gender; in all, eight people in a row were killed. However, when they found the kitchen, they spotted a pig that had been tied up, ready to be killed. Gong said, \"You jumped to conclusions, and killed innocent people by mistake!\" They hurriedly ran out of the villa, got on their horses, and fled. They had not gone more than two li, when they saw Lü Boshe come along with two bottles of wine on his donkey's saddle pommel along with fruit and vegetables in his hands; he said, \"Why are the two of you leaving?\" Cao said, \"An accused man cannot afford to stay in one place for too long.\" Boshe said, \"I have already instructed my family to slaughter a pig in your honor; what's wrong with staying for just one night? Please come back with me.\""
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-004-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "操不顧策馬便行。行不數步忽拔劍復回叫伯奢曰「此來者何人」伯奢回頭看時操揮劍砍伯奢於驢下。宮大驚曰「適纔誤耳今何為也」操曰「伯奢到家見殺死多人安肯干休若率眾來追必遭其禍矣。」宮曰「知而故殺大不義也」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao paid him no mind; he whipped his horse with his riding crop, and kept going."
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-004-line-056",
+        "order": 56,
+        "source_block_chunk": 2,
+        "source_block_order": 33,
+        "text": "」操曰：「寧教我負天下人，休教天下人負我。」陳宮默然。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After going a few steps, he suddenly drew his sword, turned around, and called out to Boshe, saying, \"Who is that coming?\" When Boshe turned his head to see, Cao raised his straight sword, and cut Boshe down off of his donkey. Gong was shocked, saying, \"That was a mistake a little while ago, what are you doing now?\" Cao said, \"When Boshe arrives at his house and sees all of the people that were killed, how would he ever be willing to let it go? If he leads a search party, it will spell trouble for sure.\" Gong said, \"You knowingly committed premeditated murder; it is highly immoral!\" Cao said, \"I would rather that everyone were betrayed by me, instead of me being betrayed by everyone.\" Chen Gong was speechless."
+          }
+        }
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-004-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "當夜行數里，月明中敲開客店門投宿。喂飽了馬，曹操先睡。陳宮尋思：「我將謂曹操是好人，棄官跟他；原來是個狠心之徒！今日留之，必為後患。」便欲拔劍來殺曹操。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "That evening, after having traveled a few li, they knocked on the door of an inn until they were allowed to enter, and lodged there for the night."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-004-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "設心狠毒非良士，操卓原來一路人。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After they fed their horses, Cao Cao was the first to go to sleep."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-004-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "畢竟曹操性命如何且聽下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chen Gong thought to himself, \"I mistakenly believed that Cao Cao was a good person, so I abandoned my post to follow him; it turns out that he is a cruel hearted man! If I stay with him from now on, there will be consequences for sure.\" He then drew his sword to kill Cao Cao. It was a case of: He is filled with venom for an unjust man; it turns out that Cao and Zhuo are of the same ilk. How did things turn out for Cao Cao? Did he live or die? Keep reading, and all will be explained."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "且說董卓欲殺袁紹，李儒止之曰：「事未可定，不可妄殺。」袁紹手提寶劍，辭別百官而出，懸節東門，奔冀州去了。卓謂太傅袁隗曰：「汝姪無禮，吾看汝面，姑恕之。廢立之事若何？」隗曰：「太尉所見是也。」卓曰：「敢有阻大議者，以軍法從事。」群臣震恐，皆云：「一聽尊命。」宴罷，卓問侍中周毖、校尉伍瓊曰：「袁紹此去若何？」周毖曰：「袁紹忿忿而去，若購之急，勢必為變，且袁氏樹恩四世，門生故吏，遍於天下；倘收豪傑以聚徒眾，英雄因之而起，山東非公有也。不如赦之，拜為一郡守，則紹喜於免罪，必無患矣。」伍瓊曰：「袁紹好謀無斷，不足為慮；誠不若加之一郡守，以收民心。」\n卓從之，即日差人拜紹為渤海太守。九月朔，請帝陞嘉德殿，大會文武。卓拔劍在手，對眾曰：「天子闇弱，不足以君天下。今有策文一道，宜為宣讀。」乃令李儒讀策曰：「孝靈皇帝，早棄臣民；皇帝承嗣，海內仰望。而帝天資輕佻，威儀不恪，居喪慢惰：否德既彰，有忝大位。皇太后教無母儀，統政荒亂。永樂太后暴崩，眾論惑焉。三綱之道，天地之紀，毋乃有闕？陳留王協，聖德偉懋，規矩肅然；居喪哀戚，言不以邪；休聲美譽，天下所聞：宜承洪業，為萬世統。茲廢皇帝為弘農王，皇太后還政。請奉陳留王為皇帝，應天順人，以慰生靈之望。」\n李儒讀策畢，卓叱左右扶帝下殿，解其璽綬，北面長跪，稱臣聽命。又呼太后去服候敕。帝后皆號哭。群臣無不悲慘。階下一大臣，憤怒高叫曰：「賊臣董卓，敢為欺天之謀，吾當以頸血濺之！」揮手中象簡，直擊董卓。卓大怒，喝武士拏下，乃尚書丁管也。卓命牽出斬之。管罵不絕口，至死神色不變。後人有詩嘆曰：\n董賊潛懷廢立圖，漢家宗社委丘墟。\n滿朝臣宰皆囊括，惟有丁公是丈夫。\n卓請陳留王登殿。群臣朝賀畢，卓命扶何太后並弘農王及帝妃唐氏於永安宮閒住，封鎖宮門，禁群臣無得擅入。可憐少帝四月登基，至九月即被廢。卓所立陳留王協，表字伯和，靈帝中子，即獻帝也，時年九歲。改元初平。董卓為相國，贊拜不名，入朝不趨，劍履上殿，威福莫比。李儒勸卓擢用名流，以收人望，因薦蔡邕之才。卓命徵之，邕不赴。卓怒，使人謂邕曰：「如不來，當滅汝族。」邕懼，只得應命而至。卓見邕大喜，一月三遷其官，拜為侍中，甚見親厚。\n卻說少帝與何太后、唐妃困於永安宮中，衣服飲食，漸漸欠缺；少帝淚不曾乾。一日，偶見雙燕飛於庭中，遂吟詩一首。詩曰：\n嫩草綠凝煙，裊裊雙飛燕。\n洛水一條青，陌上人稱羨。\n遠望碧雲深，是吾舊宮殿。\n何人仗忠義，洩我心中怨！\n董卓時常使人探聽。是日獲得此詩，來呈董卓。卓曰：「怨望作詩，殺之有名矣。」遂命李儒帶武士十人，入宮弒帝。帝與后、妃正在樓上，宮女報李儒至，帝大驚。儒以鴆酒奉帝，帝問何故。儒曰：「春日融和，董相國特上壽酒。」太后曰：「既云壽酒，汝可先飲。」儒怒曰：「汝不飲耶？」呼左右持短刀白練於前曰：「壽酒不飲，可領此二物！」唐妃跪告曰：「妾身代帝飲酒，願公存母子性命。」儒叱曰：「汝何人，可代王死？」乃舉酒與何太后曰：「汝可先飲！」后大罵何進無謀，引賊入京，致有今日之禍。儒催逼帝，帝曰：「容我與太后作別。」乃大慟而作歌。其歌曰：\n天地易兮日月翻，棄萬乘兮退守藩。\n為臣逼兮命不久，大勢去兮空淚潸！\n唐妃亦作歌曰：\n皇天將崩兮后土頹，身為帝姬兮恨不隨。\n生死異路兮從此別，奈何煢速兮心中悲！\n歌罷，相抱而哭。李儒叱曰：「相國立等回報，汝等俄延，望誰救耶？」太后大罵：「董賊逼我母子，皇天不佑！汝等助惡，必當滅族！」儒大怒，雙手扯住太后，直攛下樓，叱武士絞死唐妃，以鴆酒灌殺少帝，還報董卓。卓命葬於城外。自此每夜入宮，姦淫宮女，夜宿龍床。嘗引軍出城，行到陽城地方，時當二月，村民社賽。男女皆集，卓命軍士圍住，盡皆殺之，掠婦女財物，裝載車上，懸頭千餘顆於車下，連軫還都，揚言殺賊大勝而回；於城門下焚燒人頭，以婦女財物分散眾軍。\n越騎校尉伍孚，字德瑜，見卓殘暴，憤恨不平。嘗於朝服內披小鎧，藏短刀，欲伺便殺卓。一日，卓入朝，孚迎至閣下，拔刀直刺卓。卓氣力大，兩手摳住；呂布便入，揪倒伍孚。卓問曰：「誰教汝反？」孚瞪目大喝曰：「汝非吾君，吾非汝臣，何反之有？汝罪惡盈天，人人願得而誅之！吾恨不車裂汝以謝天下！」卓大怒，命牽出剖剮之。孚至死罵不絕口。後人有詩讚之曰：\n漢末忠臣說伍孚，沖天豪氣世間無。\n朝堂殺賊名猶在，萬古堪稱大丈夫！\n董卓自此出入常帶甲士護衛。時袁紹在渤海，聞知董卓弄權，乃差人齎密書來見王允。書略曰：\n卓賊欺天廢主，人不忍言；而公恣其跋扈，如不聽聞，豈報國效忠之臣哉？紹今集兵練卒，欲掃清王室，未敢輕動。公若有心，當乘間圖之。若有驅使，即當奉命。\n王允得書，尋思無計。一日，於侍班閣子內見舊臣俱在，允曰：「今日老夫賤降，晚間敢屈眾位到舍小酌。」眾官皆曰：「必來祝壽。」當晚王允設宴後堂，公卿皆至。酒行數巡，王允忽然掩面大哭。眾官驚問曰：「司徒貴誕，何故發悲？」允曰：「今日並非賤降，因欲與眾位一敘，恐董卓見疑，故託言耳。董卓欺主弄權，社稷旦夕難保。想高皇誅秦滅楚，奄有天下；誰想傳至今日，乃喪於董卓之手：此吾所以哭也。」於是眾官皆哭。坐中一人撫掌大笑曰：「滿朝公卿，夜哭到明，明哭到夜，焉能哭死董卓耶？」允視之，乃驍騎校尉曹操也。允怒曰：「汝祖宗亦食祿漢朝，今不思報國而反笑耶？」操曰：「吾非笑別事，笑眾位無一計殺董卓耳。操雖不才，願即斷董卓頭，懸之都門，以謝天下。」允避席問曰：「孟德有何高見？」操曰：「近日操屈身以事卓者，實欲乘間圖之耳。今卓頗信操，操因得時近卓。聞司徒有七星寶刀一口，願借與操入相府刺殺之，雖死不恨！」允曰：「孟德果有是心，天下幸甚！」遂親自酌酒奉操。操瀝酒設誓，允隨取寶刀與之。操藏刀，飲酒畢，即起身辭別眾官而去。眾官又坐了一回，亦俱散訖。\n次日，曹操佩著寶刀，來至相府，問丞相何在。從人云：「在小閣中。」操竟入見。董卓坐於床上，呂布侍立於側。卓曰：「孟德來何遲？」操曰：「馬羸行遲耳。」卓顧謂布曰：「吾有西涼進來好馬，奉先可親去揀一騎賜與孟德。」布領令而去。操暗忖曰：「此賊合死！」即欲拔刀刺之。懼卓力大，未敢輕動。卓胖大不耐久坐，遂倒身而臥，轉面向內。操又思曰：「此賊當休矣！」急掣寶刀在手。恰待要刺，不想董卓仰面看衣鏡中，照見曹操在背後拔刀，急回身問曰：「孟德何為？」\n時呂布已牽馬至閣外，操惶遽，乃持刀跪下曰：「操有寶刀一口，獻上恩相。」卓接視之，見其刀長尺餘，七寶嵌飾，極其鋒利，果寶刀也；遂遞與呂布收了。操解鞘付布。卓引操出閣看馬。操謝曰：「借願試一騎。」卓就教與鞍轡。操牽馬出相府，加鞭望東南而去。布對卓曰：「適來曹操似有行刺之狀，及被喝破，故推獻刀。」卓曰：「吾亦疑之。」\n正說話間，適李儒至，卓以其事告之。儒曰：「操無妻小在京，只獨居寓所。今差人往召，如彼無疑而便來，則是獻刀；如推託不來，則必是行刺，便可擒而問也。」卓然其說，即差獄卒四人往喚操。去了良久，回報曰：「操不曾回寓，乘馬飛出東門。門吏問之，操曰：『丞相差我有緊急公事』，縱馬而去矣。」儒曰：「操賊心逃竄，行刺無疑矣。」卓大怒曰：「我如此重用，反欲害我！」儒曰：「此必有同謀者，待拏住曹操便可知矣。」卓遂令遍行文書，畫影圖形，捉拏曹操。擒獻者，賞千金，封萬戶侯；窩藏者同罪。\n且說曹操逃出城外，飛奔譙郡。路經中牟縣，為守關軍士所獲，擒見縣令。操言：「我是客商，覆姓皇甫。」縣令熟視曹操，沈吟半晌，乃曰：「吾前在洛陽求官時，曾認得汝是曹操，如何隱諱？且把來監下，明日解去京師請賞。」把關軍士賜以酒食而去。\n至夜分，縣令喚親隨人暗地取出曹操，直至後院中審究；問曰：「我聞丞相待汝不薄，何故自取其禍？」操曰：「『燕雀安知鴻鵠志哉！』汝既拏住我，便當解去請賞。」縣令屏退左右，謂操曰：「汝休小覷我。我非俗吏，奈未遇其主耳。」操曰：「吾祖宗世食漢祿，若不思報國，與禽獸何異？吾屈身事卓者，欲乘間圖之，為國除害耳。今事不成，乃天意也！」縣令曰：「孟德此行，將欲何往？」操曰：「吾將歸鄉里，發矯詔，召天下諸侯興兵共誅董卓，吾之願也。」\n縣令聞言，乃親釋其縛，扶之上坐，再拜曰：「公真天下忠義之士也！」曹操亦拜，問縣令姓名。縣令曰：「吾姓陳，名宮，字公臺。老母妻子，皆在東郡。今感公忠義，願棄一官，從公而逃。」操甚喜。是夜陳宮收拾盤費，與曹操更衣易服，各背劍一口，乘馬投故鄉來。\n行了三日，至成皋地方，天色向晚。操以鞭指林深處，謂宮曰：「此間有一人姓呂，名伯奢，是吾父結義弟兄；就往問家中消息，覓一宿，如何？」宮曰：「最好。」二人至莊前下馬，入見伯奢。奢曰：「我聞朝廷遍行文書，捉汝甚急，汝父已避陳留去了。汝如何得至此？」操告以前事，曰：「若非陳縣令，已粉骨碎身矣。」伯奢拜陳宮曰：「小姪若非使君，曹氏滅門矣。使君寬懷安坐，今晚便可下榻草舍。」說罷，即起身入內。良久乃出，謂陳宮曰：「老夫家無好酒，容往西村沽一樽來相待。」言訖，匆匆上驢而去。\n操與宮坐久，忽聞莊後有磨刀之聲。操曰：「呂伯奢非吾至親，此去可疑，當竊聽之。」二人潛步入草堂後，但聞人語曰：「縛而殺之，何如？」操曰：「是矣！今若不先下手，必遭擒獲。」遂與宮拔劍直入，不問男女，皆殺之，一連殺死八口。搜至廚下，卻見縛一豬欲殺。宮曰：「孟德心多，誤殺好人矣！」急出莊上馬而行。行不到二里，只見伯奢驢鞍前鞽懸酒二瓶，手攜果菜而來，叫曰：「賢姪與使君何故便去？」操曰：「被罪之人，不可久住。」伯奢曰：「吾已分付家人宰一豬相款，賢姪、使君何憎一宿？速請轉騎。」\n操不顧，策馬便行。行不數步，忽拔劍復回，叫伯奢曰：「此來者何人？」伯奢回頭看時，操揮劍砍伯奢於驢下。宮大驚曰：「適纔誤耳，今何為也？」操曰：「伯奢到家，見殺死多人，安肯干休？若率眾來追，必遭其禍矣。」宮曰：「知而故殺，大不義也！」操曰：「寧教我負天下人，休教天下人負我。」陳宮默然。\n當夜行數里，月明中敲開客店門投宿。喂飽了馬，曹操先睡。陳宮尋思：「我將謂曹操是好人，棄官跟他；原來是個狠心之徒！今日留之，必為後患。」便欲拔劍來殺曹操。正是：\n設心狠毒非良士，操卓原來一路人。\n畢竟曹操性命如何，且聽下文分解。",
+    "title": "第四回 廢漢帝陳留踐位　　　謀董賊孟德獻刀"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-004.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

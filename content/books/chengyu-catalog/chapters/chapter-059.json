@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-059",
+    "order": 59,
+    "summary": "所在皆是",
+    "text": "所在皆是\n三妻四妾\n意得志满\n立此存照\n百事无成\n文章巨公\n洗手奉公\n相煎何急\n水流云散\n切中要害\n安适如常\n因利乘便\n功成行满\n家累千金\n乃我困汝\n疾病相扶\n三年五载\n心焦如焚\n得寸得尺\n累足成步\n家常里短\n三十三天\n解衣推食\n反目成仇\n情孚意合\n望穿秋水\n十面埋伏\n流血千里\n神领意得\n奔走如市",
+    "title": "1741-1770",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "所在皆是",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "everywhere"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "三妻四妾",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to have many wives and concubines; to have a harem"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "意得志满",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Satisfied by wish fulfillment"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "立此存照",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "examine, observe"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "百事无成",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have accomplished nothing (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "文章巨公",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "huge"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "洗手奉公",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A metaphor for being loyal to one’s duties and being honest and honest."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "相煎何急",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Why are you cooking so fast?"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "水流云散",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor that time has changed and people are on different sides."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "切中要害",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to hit the target and do real damage (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "安适如常",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Quiet and comfortable, as usual"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "因利乘便",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to rely on the most favorable method"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "功成行满",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "work around the world"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "家累千金",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to a family with extremely rich property"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "乃我困汝",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It was me who caused you harm"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "疾病相扶",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Helping each other when sick"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "三年五载",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Three and five represent approximate quantities"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "心焦如焚",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I feel anxious, like I'm on fire"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "得寸得尺",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It also means that you can get as much as you can."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "累足成步",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor that if you keep accumulating, you will be successful."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "家常里短",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Jewish family has a short life"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "三十三天",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "describe the highest place"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "解衣推食",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "give way"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "反目成仇",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to fall out with sb; to become enemies"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "情孚意合",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes that the two parties are harmonious in their thoughts and feelings and get along well"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "望穿秋水",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Autumn water is a metaphor for human eyes"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "十面埋伏",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ambush from Ten Sides (pipa solo piece)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "流血千里",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes a lot of casualties"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "神领意得",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "describe a thorough understanding"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-059-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "奔走如市",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "walk and run"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-059.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

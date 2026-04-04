@@ -1,0 +1,866 @@
+{
+  "chapter": {
+    "character_count": 4267,
+    "id": "chapter-049",
+    "order": 49,
+    "reading_unit_count": 65,
+    "reading_units": [
+      {
+        "character_count": 84,
+        "id": "chapter-049-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說周瑜立於山頂，觀望良久，忽然望後而倒，口吐鮮血，不省人事。左右救回帳中。諸將皆來動問，盡皆愕然，相顧曰：「江北百萬之眾，虎踞鯨吞。不料都督如此，倘曹兵一至，如之奈何？」慌忙差人申報吳侯，一面求醫調治。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Messengers with the evil tidings were sent to Wu while the physicians did their best for the invalid. Lu Su was particularly sad at the illness of his patron and went to see K‘ung-ming to talk it over. “What do you make of it?” said K‘ung-ming. “Good luck for Ts‘ao Ts‘ao; bad for us,” said Lu. “I could cure him,” said K‘ung-ming laughing."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-049-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "卻說魯肅見周瑜臥病，心中憂悶，來見孔明，言周瑜猝病之事。孔明曰：「公以為何如！」肅曰：「此乃曹操之福，江東之禍也。」孔明笑曰：「公瑾之病，亮亦能醫。」肅曰：「誠如此，則國家幸甚！」即請孔明同去看病。肅先入見周瑜。瑜以被蒙頭而臥。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If you could the State would be very fortunate,” said Lu. He prayed K‘ung-ming to go to see the sick man. They went, and Lu Su entered first. Chou Yü lay in bed, his head covered by a quilt. “How are you, General?” said Lu. “My heart pains me; every now and again I feel faint and dizzy.” “Have you taken any remedies?” “My gorge rises at the thought; I could not.”"
+          }
+        }
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-049-line-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "肅曰：「都督病勢若何？」周瑜曰：「心腹攪痛，時復昏迷。」肅曰：「曾服何藥餌？」瑜曰：「心中嘔逆，藥不能下。」肅曰：「適來去望孔明，言能醫都督之病。現在帳外，煩來醫治，何如？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I saw K‘ung-ming just now and he says he could heal you. He is just outside and I will call him if you like.” “Ask him to come in.” Chou bade his servants help him to a sitting position and K‘ung-ming entered. “I have not seen you for days,” said he. “How could I guess that you were unwell?”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-049-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "瑜命請入，教左右扶起，坐於床上。孔明曰：「連日不晤君顏，何期貴體不安！」瑜曰：「『人有旦夕禍福』，豈能自保？」孔明笑曰：「『天有不測風雲』，人又豈能料乎？」瑜聞失色，乃作呻吟之聲。孔明曰：「都督心中似覺煩積否？」瑜曰：「然。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“How can any one feel secure? We are constantly the playthings of luck, good or bad. “Yes; Heaven’s winds and clouds are not to be measured. No one can reckon their comings and goings, can they?” Chou Yü turned pale and a low groan escaped him, while his visitor went on, “You feel depressed, do you not? As though troubles were piling up in your heart?” “That is exactly how I feel.”"
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-049-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "」孔明曰：「必須用涼藥以解之。」瑜曰：「已服涼藥，全然無效。」孔明曰：「須先理其氣；氣若順，則呼吸之間，自然痊可。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You need cooling medicine to dissipate this sense of oppression.” ​ “I have taken a cooling draught, but it has done no good.” “You must get the humours into good order before the drugs will have any effect.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-049-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "瑜料孔明必知其意，乃以言挑之曰：「欲得順氣，當服何藥？」孔明笑曰：「亮有一方，便教都督氣順。」瑜曰：「願先生賜教。」孔明索紙筆，屏退左右，密書十六字曰：「欲破曹公，宜用火攻；萬事俱備，只欠東風。」寫畢，遞與周瑜曰：「此都督病源也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chou Yü began to think K‘ung-ming knew what was really the matter and resolved to test him. “What should be taken to produce a favourable temper?” “I know one means of producing a favourable temper,” replied K‘ung-ming. “I wish you would tell me.” Kʻung-ming got out writing materials, sent away the servants and then wrote a few words:—“One should burn out Ts‘ao; all is ready, but there is no east wind,” this he gave to the sick general, saying “That is the origin of your illness.”"
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-049-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "瑜見了大驚，暗思：「孔明真神人也！早已知我心事！只索以實情告之。」乃笑曰：「先生已知我病源，將用何藥治之？事在危急，望即賜教。」孔明曰：「亮雖不才，曾遇異人，傳授奇門遁甲天書，可以呼風喚雨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chou Yü read the words with great surprise and it confirmed his secret opinion that K‘ung-ming really was rather more than human. He decided that the only course was to be open and tell him all. So he said, “Since you know the cause of the disease, what do you recommend as treatment? The need of a remedy is very urgent.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-049-line-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "都督若要東南風時，可於南屏山建一臺，名曰『七星壇』。高九尺，作三層，用一百二十人，手執旗旛圍遶。亮於臺上作法，借三日三夜東南大風，助都督用兵，何如？」瑜曰：「休道三日三夜，只一夜大風，大事可成矣。只是事在目前，不可遲緩。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have no great talent,” said K‘ung-ming, “but I have had to do with men of no ordinary gifts from whom I have received certain magical books. I can call the winds and summon the rains. Since you need a south-east breeze, General, you must build an altar on the Nanping Mountains, the Altar of the Seven Stars. It must be nine feet high, with three steps, surrounded by a guard of one hundred and twenty men bearing flags. On this altar I will work a spell to procure a strong south-east gale for three days and three nights. Do you approve?” “Never mind three whole days;” said Chou Yü, “one day of strong wind will serve my purpose. But it must be done at once and without delay. ”"
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-049-line-009",
+        "order": 9,
+        "source_block_chunk": 3,
+        "source_block_order": 5,
+        "text": "」孔明曰：「十一月二十日甲子祭風，至二十二日丙寅風息，如何？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I will sacrifice for a wind for three days from the twentieth day of the moon; will that suit you?”"
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-049-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "瑜聞言大喜，矍然而起。便傳令差五百精壯軍士，往南屏山築壇；撥一百二十人，執旗守壇，聽候使令。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chou Yü was delighted and hastily rose from his couch to give the necessary orders. He commanded that five hundred men should be sent to the mountains to build the altar and he told off the guard of one hundred and twenty to bear the flags and be at the orders of K‘ung-ming."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-049-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "孔明辭別出帳，與魯肅上馬，來南屏山相度地勢，令軍士取東南方赤土築壇。方圓二十四丈，每一層高三尺，共是九尺。下一層插二十八宿旗：東方七面青旗，按角、亢、氐、房、心、尾、箕，布蒼龍之形；北方七面皂旗，按斗、牛、女、虛、危、室、壁，作玄武之勢；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming took his leave, went forth and rode off with Lu Su to the mountains where they measured out the ground. He bade the soldiers build the altar of red earth from the south-east quarter. It was two hundred and forty feet in circuit, square in shape, and of three tiers, each of three feet, in all nine feet high. On the lowest tier he placed the flags of the twenty-eight “houses” of the heavens; on the east seven, with blue flags, on the north seven, with black flags, on the west seven, with white flags, and on the south seven, with red flags. Around the second tier he placed sixty-four yellow ​ flags, corresponding to the number of the diagrams of the Book of Divination, in eight groups of eight. Four men were stationed on the highest platform, each wearing a Taoist headdress and a black silk robe embroidered with the phoenix and confined with wide sashes. They wore scarlet boots and square-cut skirts. On the left front stood a man supporting a tall pole bearing at its top a plume of light feathers to show by their least movement the wind’s first breathing. On the right front was a man holding a tall pole whereon was a flag with the symbol of the seven stars to show the direction and force of the wind. On the left rear stood a man with a sword, and on the right rear a man with a censer. Below the altar were two score and four men holding flags, umbrellas, spears, lances, yellow banners, white axes, red bannerols and black ensigns. And these were spaced about the altar."
+          }
+        }
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-049-line-012",
+        "order": 12,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "西方七面白旗，按奎、婁、冑、昴、畢、觜、參，踞白虎之威；南方七面紅旗，按井、鬼、柳、星、張、翼、軫，成朱雀之狀。第二層周圍黃旗六十四面，按六十四卦，分八位而立。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On the appointed day K‘ung-ming, having chosen a propitious moment, bathed his body and purified himself. Then he robed himself as a Taoist, loosened his locks and approached the altar."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-049-line-013",
+        "order": 13,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "上一層用四人，各人戴束髮冠，穿皂羅袍，鳳衣博帶，朱履方裾，前左立一人，手執長竿，竿尖上用雞羽為葆，以招風信；前右立一人，手執長竿，竿上繫七星號帶，以表風色；後左立一人，捧寶劍；後右立一人，捧香爐。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He bade Lu Su retire saying, “Return to the camp and assist the General in setting out his forces. Should my prayers avail not, do not wonder.”"
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-049-line-014",
+        "order": 14,
+        "source_block_chunk": 4,
+        "source_block_order": 7,
+        "text": "壇下二十四人，各持旌旗、寶蓋、大戟、長戈、黃旄、白銊、朱旛、皂縣，環遶四面。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Lu Su left him. Then he commanded the guards on no account to absent themselves, to maintain strict silence and to be reverent; death would be the penalty of disobedience."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-049-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "孔明於十一月二十日甲子吉辰，沐浴齋戒，身披道衣，跣足散髮，來到壇前，分付魯肅曰：「子敬自往軍中相助公瑾調兵。倘亮所祈無應，不可有怪。」魯肅別去。孔明囑付守壇將士：「不許擅離方位。不許交頭接耳。不許失口亂言。不許失驚打怪。如違令者斬！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Next with solemn steps he ascended the altar, faced the proper quarter, lighted the incense and sprinkled the water in the basins. This done he gazed into the heavens and prayed silently. The prayer ended he descended and returned to his tent. After a brief rest he allowed the soldiers by turns to go away to eat. Thrice that day he ascended the altar and thrice descended; but there was no sign of the wind."
+          }
+        }
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-049-line-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "」眾皆領命。孔明緩步登壇，觀瞻方位已定，焚香於爐，注水於盂，仰天暗祝。下壇入帳中少歇，令軍士更替吃飯。孔明一日上壇三次，下壇三次，卻不見有東南風。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Here it may be related that Chou Yü with Ch'êng P‘u and Lu Su and a certain number of military officials on duty, sat waiting in the tent till the wished-for wind should blow and the attack could be launched. Messengers were also sent to Sun Ch'üan to prepare to support the forward movement."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-049-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "且說周瑜請程普、魯肅一班軍官，在帳中伺侯，只等東南風起，便調兵出；一面關報孫權接應。黃蓋已自準備火船二十隻，船頭密布大釘，船內裝載蘆葦乾柴，灌以魚油，上鋪硫黃、燄硝引火之物，各用青布油單遮蓋。船頭上插青龍牙旗，船尾各繫走舸。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Huang Kai had his fire ships ready, a score of them. The fore parts of the ships were thickly studded with large nails, and they were loaded with dry reeds, wood soaked in fish oil and covered with sulphur, saltpetre and other inflammables. The ships were covered in with black oiled cloth. In the prow of each was a black dragon flag with indentations. A fighting ship was attached to the stern of each to propel it forward. All were ready and awaited orders to move."
+          }
+        }
+      },
+      {
+        "character_count": 57,
+        "id": "chapter-049-line-018",
+        "order": 18,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "在帳下聽侯，只等周瑜號令。甘寧、闞澤窩盤蔡和、蔡中在水寨中，每日飲酒，不放一卒登岸。周圍盡是東吳軍馬，把得水洩不通。只等帳上號令下來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Meanwhile Ts‘ao Ts‘ao’s two spies, the brothers Ts‘ai, were being guarded carefully in an outer camp far from the river bank and daily entertained with feasting. They were not ​ allowed to know of the preparations. The watch was so close that not a trickle of information reached the prisoners."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-049-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "周瑜正在帳中坐議，探子來報：「吳侯船隻離寨八十五里停泊，只等都督好音。」瑜即差魯肅遍告各部下官兵將士：「俱各收拾船隻、軍器、帆櫓等物。號令一出，時刻休違。倘有違誤，即按軍法。」眾兵將得令，一個個磨拳擦掌，準備廝殺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Presently, while Chou Yü was anxiously awaiting in his tent for the desired wind, a messenger came to say that Sun Ch'üan had anchored at a place eighty-five li from the camp, where he awaited news. Lu Su was sent to warn all the various commanders to be ready, the ships and their weapons, sails and oars, all for instant use, and to impress upon them the penalties of being caught unprepared. The soldiers were indeed ready for the fight and yearning for the fray. But the sky remained obstinately clear and as night drew nigh no breath of air stirred."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-049-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "是日看看近夜，天色清明，微風不動。瑜謂魯肅曰：「孔明之言謬矣。隆冬之時，怎得東南風乎？」肅曰：「吾料孔明必不謬談。」將近三更時分，忽聽風聲響，旗旛轉動。瑜出帳看時時，旗腳竟飄西北，霎時間東南風大起。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“We have been cajoled,” said Chou Yü. “Indeed what possibility is there of a south-east wind in mid-winter?” “K‘ung-ming would not use vain and deceitful words,” replied Lu Su. Towards the third watch the sound of a movement arose in the air. Soon the flags fluttered out. And when the general went out to make sure he saw they were flowing toward the north-west. In a very short time the south-east wind was in full force."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-049-line-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "瑜駭然曰：「此人有奪天地造化之法，鬼神不測之術！若留此人，乃東吳禍根也。及早殺卻，免生他日之憂。」急喚帳前護軍校尉丁奉、徐盛二將：「各帶一百人。徐盛從江內去，丁奉從旱路去，都到南屏山七星壇前。休問長短，拏住諸葛亮便行斬首，將首級來請功。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chou Yü was, however, frightened at the power of the man whose help he had invoked. “Really the man has power over the heavens and authority over the earth; his methods are incalculable, beyond the ken of god or devil. He cannot be allowed to live to be a danger to our land of Wu. We must slay him soon to fend off later evils.”"
+          }
+        }
+      },
+      {
+        "character_count": 49,
+        "id": "chapter-049-line-022",
+        "order": 22,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "」二將領命。徐盛下船，一百刀斧手，蕩開棹槳；丁奉上馬，一百弓弩手，各跨征駒，往南屏山來。於路正迎著東南風起。後人有詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So he resolved to commit a crime to remove his dangerous rival. He called two of the captains of his guard, Ting Fêng and Hsü Shêng, and bade each take a party, one along the river, the other along the road, to the altar on the mountains. As soon as they got there, without asking questions or giving reasons, they were to seize and behead K‘ung-ming. They might expect a solid reward if they brought his head."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-049-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "七星壇上臥龍登，一夜東風江水騰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The two went off on their nefarious errand, one leading dagger and axe-men going as fast as oars could propel them along the river, the other at the head of archers and bowmen on horseback. The south-east wind buffeted them as they went on their way."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-049-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "不是孔明施妙計，周郎安得逞才能？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "High was raised the Seven Stars' Altar, On it prayed the Sleeping Dragon For an eastern wind, and straightway Blew the wind. Had not the wizard Exercised his mighty magic Nought had Chou Yu’s skill availed."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-049-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "丁奉馬軍先到，見壇上執旗將士，當風而立。丁奉下馬提劍上壇，不見孔明，慌問守壇將士。答曰：「恰纔下壇去了。」丁奉忙下壇尋時，徐盛船已到。二人聚於江邊。小卒報曰：「昨晚一隻快船停在前灘口，適間卻見孔明披髮下船。那船望上水去了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ting Fêng first arrived. He saw the guards with their flags, dropped off his steed and marched to the altar, sword in hand. But he found no K‘ung-ming. He asked the guards; ​ they told him he had just gone down. Ting Fêng ran down the hill to search. There he met his fellow and they joined forces. Presently a simple soldier told them that the evening before a small, fast boat had anchored there near a sand spit and K‘ung-ming had been seen to go on board. Then the boat had gone up river. So they divided their party into two, one to go by water, the other by land."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-049-line-026",
+        "order": 26,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "」丁奉、徐盛便分水陸兩路追襲。徐盛教拽起滿帆，搶風而使。遙望前船不遠，徐盛在船頭高聲大叫：「軍師休去！都督有請！」只見孔明立於船尾大笑曰：「上覆都督：好好用兵。諸葛亮暫回夏口，異日再容相見。」徐盛曰：「請暫少住，有緊話說。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsü Shêng bade his boatmen put on all sail and take every advantage of the wind. Before very long he saw the fugitive’s boat ahead and when near enough, stood in the prow of his own and shouted, “Do not flee, O Instructor of the Army! The General requests your presence.” K‘ung-ming, who was seated in the stern of his boat, just laughed aloud, “Return and tell the General to make good use of his men. Tell him I am going up river for a spell and will see him again another day.” “Pray wait a little while,” cried Hsü. “I have something most important to tell you.”"
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-049-line-027",
+        "order": 27,
+        "source_block_chunk": 3,
+        "source_block_order": 14,
+        "text": "」孔明曰：「吾已料定都督不能容我，必來加害，預先教趙子龍來相接。將軍不必追趕。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I knew all about it, that he would not let me go and that he wanted to kill me. That is why Chao Yün was waiting for me. You had better not approach nearer.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-049-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "徐盛見前船無篷，只顧趕去。看看至近，趙雲拈弓搭箭，立於船尾大叫曰：「吾乃常山趙子龍也！奉令特來接軍師。你如何來追趕？本待一箭射死你來，顯得失了兩家和氣。教你知我手段！」言迄，箭到處，射斷徐盛船上篷索。那篷墮落下水，其船便橫。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Seeing the other ship had no sail, Hsü Shêng thought he would assuredly come up with it and so maintained the pursuit. Then when he got too close Chao Yün fitted an arrow to the bowstring and, standing up in the stern of his boat, cried, “You know who I am and I came expressly to escort the Instructor. Why are you pursuing him? One arrow would kill you, only that would cause a breach of the peace between two houses. I will shoot and just give you a specimen of my skill.”"
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-049-line-029",
+        "order": 29,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "趙雲卻教自己船上拽起滿帆，乘順風而去。其船如飛，追之不及。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "With that he shot, and the arrow whizzed overhead cutting the rope that held up the sail. Down came the sail trailing in the water and the boat swung round. Then Chao Yün’s boat hoisted its sail and the fair wind speedily carried it out of sight."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-049-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "岸上丁奉喚徐盛船近岸，言曰：「諸葛亮神機妙算，人不可及。更兼趙雲有萬夫不當之勇。汝知他當陽長阪時否？吾等只索回報便了。」於是二人回見周瑜，言孔明預先約趙雲迎接去了。周瑜大驚曰：「此人如此多謀，使我曉夜不安矣！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On the bank stood Ting Fêng. He bade his comrade come to the shore and said, “He is too clever for any man; and Chao Yün is bravest of the brave. You remember what he did at Tangyang Slope. All we can do is to return and report.” So they returned to camp and told their master about the preparations that K‘ung-ming had made to ensure safety. Chou Yü was indeed puzzled at the depth of his rival’s insight. “I shall have no peace day or night while he lives,” said he."
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-049-line-031",
+        "order": 31,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "」魯肅曰：「且待破曹之後，卻再圖之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“At least wait till Ts‘ao is done with,” said Lu Su."
+          }
+        }
+      },
+      {
+        "character_count": 68,
+        "id": "chapter-049-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "瑜從其言，喚集諸將聽令。先教甘寧：「帶了蔡中並降卒沿南岸而走，只打北軍旗號，直取烏林地面，正當曹操屯糧之所。深入軍中，舉火為號。只留下蔡和一人在帳下，我有用處。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And Chou Yü knew he spake wisely. Having summoned the leaders to receive orders, first he bade Kan Ning take with him the false deserter Ts‘ai Chung and his soldiers and go along the south bank, showing the flags of Ts‘ao Ts‘ao, till they ​ reached the “Black” Forest (Wu Lin) just opposite the enemy’s main store of grain and forage. Then they were to penetrate as deeply as possible into the enemy’s lines and light a torch as a signal. Ts‘ai Chung’s brother was to be kept in camp for another purpose."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-049-line-033",
+        "order": 33,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "」第二喚太史慈分付：「你可領三千兵，直奔黃州地界，斷曹操合淝接應之兵，就逼曹兵，放火為號。只看紅旗，便是吳侯接應兵到。」這兩隊兵最遠先發。第三喚呂蒙領三千兵去烏林接應，甘寧焚燒曹操寨柵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The next order was for T‘aishih Tzŭ; he was to lead two companies as quickly as possible to Huangchou and cut the enemy’s communications with Hofei. When near the enemy he was to give a signal and if he saw a red flag he would know that Sun Ch'üan was at hand with reinforcements."
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-049-line-034",
+        "order": 34,
+        "source_block_chunk": 3,
+        "source_block_order": 17,
+        "text": "第四喚凌統領三千兵，直接彝陵界首，只看烏林火起，以兵應之。第五喚董襲領三千兵，直取漢陽，從漢川殺奔曹操寨中，看白旗接應。第六喚潘璋領三千兵，盡打白旗，往漢陽接應董襲。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "These two had the farthest to go and started first. Then Lü Mêng was sent into Wu Lin (the “Black” Forest) with three companies as a support. Kan Ning was ordered to set fire to the camp. A fourth party was to go to the borders of Iling and attack as soon as the signal from the forest was seen. A fifth party of three companies went to Hanyang to fall upon the enemy along the river. Their signal was a white flag and a sixth division supported them."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-049-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "六隊軍馬各自分路去了。卻令黃蓋安排火船，使小卒馳書約曹操今夜來降。一面撥戰船四隻，隨於黃蓋船後接應。第一隊領兵軍官韓當，第二隊領兵軍官周泰，第三隊領兵軍官蔣欽，第四隊領兵軍官陳武：四隊各引戰船三百隻，前面各擺列火船二十隻。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When these six parties had gone off, Huang Kai got ready his fire ships and sent a soldier with a note to tell Ts‘ao Ts‘ao that he was coming over that evening. Four fighting ships were told off to support Huang Kai. The four squadrons, each of three hundred ships, were placed under four commanders, Han Tang, Chou T‘ai, Chiang Ch‘in and Ch'ên Wu. The score of fire ships preceded them. Chou Yü and Ch'êng P‘u went on board one of the large ships to direct the battle. Their guards were Ting Fêng and Hsü Shêng. Lu Su, K‘an Tsê and the advisers were left to guard the camp. Ch'êng P‘u was greatly impressed with Chou Yü’s ordering of the attack."
+          }
+        }
+      },
+      {
+        "character_count": 48,
+        "id": "chapter-049-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "周瑜自與程普在大艨艟上督戰，徐盛、丁奉為左右護衛，只留魯肅共闞澤及眾謀士守寨。程普見周瑜調軍有法，甚相敬服。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then came a messenger bearing a mandate from Sun Ch'üan making Lu Hsün leader of the van. He was ordered to go to Ch‘ihuang. The Marquis himself would support him. Chou Yü also sent a man to the western hills to make signals and to hoist flags on the Nanping Mountains."
+          }
+        }
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-049-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "卻說孫權差使命持兵符至，說已差陸遜為先鋒，直抵蔪、黃地面進兵，吳侯自為後應。瑜又差人西山放火砲，南屏山舉號旗。各各準備停當，只等黃昏舉動。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So all being prepared they waited for dusk."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-049-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "話分兩頭：且說劉玄德在夏口專候孔明回來，忽見一隊船到，乃是公子劉琦自來探聽消息。玄德請上敵樓坐定，說：「東南風起多時，子龍去接孔明，至今不見到，吾心甚憂。」小校遙指樊口港上：「一帆風送扁舟來到，必軍師也。」玄德與劉琦下樓迎接。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Here it is necessary to diverge from the direct narrative to say that Yüan-tê was at Hsiak‘ou anxiously awaiting the return of his adviser. Then appeared a fleet, led by Liu Ch‘i, who had come to find out how matters were progressing. Yüan-tê sent to call him to the battle tower and told him of the south-east wind that had begun to blow and that Chao Yün had gone to meet K‘ung-ming. Not long after a single sail was seen coming up before the wind and he knew it was K‘ung-ming, the Instructor of the Army. So he and Liu Ch‘i went down to meet the boat. Soon the vessel reached the shore and K‘ung-ming and Chao Yün disembarked."
+          }
+        }
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-049-line-039",
+        "order": 39,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "須臾到，孔明、子龍登岸。玄德大喜。問候畢，孔明曰：「且無暇告訴別事。前者所約軍馬戰船，皆已辦否？」玄德曰：「收拾久矣，只候軍師調用。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê was very glad and after they had enquired after each other’s well-being K‘ung-ming said, “There is no time to ​ tell of any other things now. Are the soldiers and ships ready?” “They have long been ready,” replied Yüan-tê. “They only await you to direct how they are to be used.”"
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-049-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "孔明便與玄德、劉琦升帳坐定，謂趙雲曰：「子龍可帶三千軍馬，渡江逕取烏林小路，揀樹木蘆葦密處埋伏。今夜四更已後，曹操必然從那條路奔走。等他軍馬過，就半中間放起火來。雖然不殺他盡絕，也殺一半。」雲曰：「烏林有兩條路：一條通南郡，一條取荊州。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The three then went to the tent and took their seats. K‘ung-ming at once began to issue orders. “Chao Yün, with three companies is to cross the river and go to the Wu Lin by the minor road. He will choose a dense jungle and prepare an ambush. To-night, after the fourth watch, Ts‘ao Ts‘ao will hurry along that way. When half his men have passed the jungle is to be fired. Ts‘ao Ts‘ao will not be wholly destroyed but many will perish.” “There are two roads,” said Chao Yün. “One leads to the southern districts and the other to Chingchou. I do not know by which he will come.”"
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-049-line-041",
+        "order": 41,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "不知向那條路來？」孔明曰：「南郡勢迫，曹操不敢往，必來荊州，然後大軍投許昌而去。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The south road is too dangerous; Ts‘ao Ts‘ao will certainly pass along the Chingchou road, so that he may get away to Hsüch‘ang.”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-049-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "雲領計去了。又喚張飛曰：「翼德可領三千兵渡江，截斷彝陵這條路，去葫蘆谷口埋伏。曹操不敢走南彝陵，必望北彝陵去。來日雨過，必然來埋鍋造飯。只看煙起，便就山邊放起火來。雖然不捉得曹操，翼德這場功料也不小。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Chao Yün went away. Next K‘ung-ming said to Chang Fei, “You will take three companies over the river to cut the road to Iling. You will ambush in the Hulu Valley. Ts‘ao Ts‘ao, not daring to go to South Iling, will go to North Iling. To-morrow, after the rain, he will halt to refresh his men. As soon as the smoke is seen to rise from their cooking fires you will fire the hill side. You will not capture Ts‘ao Ts‘ao but you will render excellent service.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-049-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "飛領計去了。又喚糜竺、糜芳、劉封三人，各駕船隻。遶江剿擒敗軍，奪取器械。三人領計去了。孔明起身，謂公子劉琦曰：「武昌一望之地，最為緊要。公子便請回。率領所部之兵，陳於岸口。操一敗必有逃來者，就而擒之，卻不可輕離城郭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Chang Fei left. Next was called Mi Chu, Mi Fang and Liu Fêng. They were to take command of three squadrons and go along the river to collect the weapons that the beaten soldiers would throw away. The three left. Then K‘ung-ming said to Liu Ch‘i, “The country around Wuch‘ang is very important and I wish you to take command of your own troops and station them at strategic points. Ts‘ao Ts‘ao, being defeated, will flee thither, and you will capture him. But you are not to leave the city without the best of reasons.”"
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-049-line-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "」劉琦便辭玄德，孔明去了。孔明謂玄德曰：「主公可於樊口屯兵，憑高而望，坐看今夜周郎成大功也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And Liu Ch‘i took leave. Then K‘ung-ming said to Yüan-tê, “I wish you to remain quietly and calmly in Fank‘ou while Chou Yü works out his great scheme this night.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-049-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "時雲長在側，孔明全然不睬。雲長忍耐不住，乃高聲曰：「關某自隨兄長征戰多年來，未嘗落後。今日逢大敵，軍師卻不委用，此是何意？」孔明笑曰：「雲長勿怪！某本欲煩足下把一個最緊要的隘口，怎奈有些違礙處，不敢教去。」雲長曰：「有何違礙？願即見諭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All this time Kuan Yü has been silently waiting his turn but K‘ung-ming said no word to him. When he could bear this no longer he cried, “Since I first followed my brother to battle many years ago I have never been left behind. Now that great things are afoot is there no work for me? What is meant by it?” “You should not be surprised. I wanted you for service at a most important point only that there was a something ​ standing in the way that prevented me from sending you,” said K‘ung-ming. “What could stand in the way? I wish you would tell me.”"
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-049-line-046",
+        "order": 46,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "」孔明曰：「昔日曹操待足下甚厚，足下當有以報之。今日操兵敗，必走華容道。若令足下去時，必然放他過去。因此不敢教去。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You see Ts‘ao Ts‘ao was once very kind to you and you cannot help feeling grateful. Now when his soldiers have been beaten he will have to flee along the Huayung road and if I sent you to guard it you would have to let him pass. So I will not send you.”"
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-049-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "雲長曰：「軍師好多心！當日曹操果是重待某，某已斬顏良，誅文醜，解白馬之圍，報過他了。今日撞見，豈肯輕放！」孔明曰：「倘若放了時，卻如何？」雲長曰：「願依軍法。」孔明曰：「如此，立下文書。」雲長便與了軍令狀。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You are most considerate, Instructor. But though it is true that he treated me well, yet I slew two of his most redoubtable opponents by way of repayment, beside raising a siege. If I happened upon him on this occasion I should hardly let him go.” “But what if you did?” “You could deal with me by military rules.” “Then put that in writing.” So Kuan Yü wrote a formal undertaking and gave the document to K‘ung-ming."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-049-line-048",
+        "order": 48,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "雲長曰：「若曹操不從那條路上來，如何？」孔明曰：「我亦與你軍令狀。」雲長大喜。孔明曰：「雲長可於華容小路高山之處，堆積柴草，放起一把火煙，引曹操來。」雲長曰：「曹操望見煙，知有埋伏，如何肯來？」孔明笑曰：「豈不聞兵法虛虛實實之論？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What happens if Ts‘ao Ts‘ao does not pass that way?” said Kuan Yü. ” “I will give you a written engagement that he will pass.' Then he continued, “On the hills by the Huayung Valley you are to raise a heap of wood and grass to make a great column of smoke and mislead Ts‘ao Ts‘ao into coming.” “If Ts‘ao Ts‘ao sees a smoke he will suspect an ambush and will not come.” said Kuan Yü."
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-049-line-049",
+        "order": 49,
+        "source_block_chunk": 3,
+        "source_block_order": 25,
+        "text": "操雖能用兵，只此可以瞞過他也。他見煙起，將謂虛張聲勢，必然投這條路來。將軍休得容情。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You are very simple,” said K‘ung-ming. “Do you not know more of war’s ruses than that? Ts‘ao Ts‘ao is an able leader but you can deceive him this time. When he sees the smoke he will take it as a subterfuge and risk going that way. But do not let your kindness of heart rule your conduct.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-049-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "雲長領了將令，引關平、周倉並五百校刀手，投華容道埋伏去了。玄德曰：「吾弟義氣深重，若曹操果然投華容道去時，只恐端的放了。」孔明曰：「亮夜觀乾象，操賊未合身亡。留這人情，教雲長做了，亦是美事。」玄德曰：「先生神算，世所罕及！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thus was his duty assigned Kuan Yü and he left, taking his adopted son, P‘ing, Chou Ts‘ang and a half company of swordsmen. Said Liu Pei, “His sense of rectitude is very profound; I fear if Ts‘ao Ts‘ao should come that way that my brother will let him pass.' ” “I have consulted the stars and Ts‘ao the rebel is not fated to come to his end yet. I have purposely designed this manifestation of kindly feeling for Kuan Yü to accomplish and so act handsomely.”"
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-049-line-051",
+        "order": 51,
+        "source_block_chunk": 2,
+        "source_block_order": 26,
+        "text": "」孔明遂與玄德往樊口看周瑜用兵，留孫乾、簡雍守城。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Indeed there are few such far-seeing men as you are,” said Yüan-tê."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-049-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "卻說曹操在大寨中，與眾將商議，只等黃蓋消息。當日東南風起甚緊，程昱入告曹操曰：「今日東南風起，宜預隄防。」操笑曰：「冬至一陽生，來復之時，安得無東南風？何足為怪？」軍士忽報江東一隻小船來到，說有黃蓋密書，操急喚入，其人呈上書。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The two then went to Fank‘ou whence they might watch Chou Yü's evolutions. Sun Chüan and Chien Yung were left on guard. Ts‘ao Ts‘ao was in his great camp in conference with his advisers and awaiting the arrival of Huang Kai. The southeast wind was very strong that day and Ch'êng Yü was ​ insisting on the necessity for precaution. But Ts‘ao laughed saying, “The Winter Solstice depends upon the sun and nothing else; there is sure to be a south wind at some one or other of its recurrences. I see nothing to wonder at.”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-049-line-053",
+        "order": 53,
+        "source_block_chunk": 2,
+        "source_block_order": 27,
+        "text": "書中訴說：「周瑜關防嚴緊，因此無計脫身。今有鄱陽湖新運到糧，周瑜差蓋巡哨，已有方便。好歹殺江東名將，獻首來降。只在今晚三更，船上插青龍牙旗者，即糧船也。」操大喜，遂與眾將來到水寨中大船上，觀望黃蓋船到。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just then they announced the arrival of a small boat from the other shore with a letter from Huang Kai. The bearer of the letter was brought in and presented it. It stated that Chou Yü had kept such strict watch that there had been no chance of escape. But now some grain was coming down river and Huang Kai had been named as escort commander, which would give him the opportunity he desired. He would slay one of the known captains and bring his head as an offering when he came. That evening at the third watch, if boats were seen with dragon toothed flags, they would be the grain boats."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-049-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "且說江東，天色向晚，周瑜喚出蔡和，令軍士縛倒，和叫：「無罪！」瑜曰：「汝是何等人，敢來詐降！吾今缺少福物祭旗，願借你首級。」和抵賴不過，大叫曰：「汝家闞澤、甘寧，亦曾與謀！」瑜曰：「此乃吾之所使也。」蔡和悔之無及。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This letter delighted Ts‘ao Ts‘ao who, with his officers, went to the naval camp and boarded a great ship to watch for the arrival of Huang Kai. In Chiangtung, when evening fell, Chou Yü sent for Ts‘ao Ho and bade the soldiers bind him. The unhappy man protested that he had committed no crime but Chou Yü said, “What sort of a fellow are you, think you, to come and pretend to desert to my side? I need a small sacrifice for my flag and your head will serve my purpose. So I am going to us it.”"
+          }
+        }
+      },
+      {
+        "character_count": 66,
+        "id": "chapter-049-line-055",
+        "order": 55,
+        "source_block_chunk": 2,
+        "source_block_order": 28,
+        "text": "瑜令捉至江邊皂纛旗下，奠酒燒紙，一刀斬了蔡和，用血祭旗畢，便令開船。黃蓋在第三隻火船上，獨披掩心甲，手提利刃，旗上大書「先鋒黃蓋」。蓋乘一天順風，望赤壁進發。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ai Ho being at the end of his tether unable to deny the charge suddenly cried, “Two of your own side, K‘an Tsê and Kan Ning, are also in the plot!” “Under my directions,” said Chou Yü. Ts‘ai Ho was exceedingly repentant and sad, but Chou Yi bade them take him to the river bank where the black standard had been set up and there, after the pouring of a libation and the burning of paper, he was beheaded, his blood being a sacrifice to the flag."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-049-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "是時東風大作，波浪洶湧。操在中軍遙望隔江，看看月上照耀江水，如萬道金蛇，翻波戲浪。操迎風大笑，自以為得志。忽一軍指說：「江南隱隱一簇帆幔，使風而來。」操憑高望之，報稱：「皆插青龍牙旗。內中有大旗，上書先鋒黃蓋名字。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This ceremony over the ships started and Huang Kai took his place on the third ship. He merely wore breast armour and carried a keen blade. On his flag were written four large characters “Van Leader Huang Kai\". With a fair wind his fleet sailed toward Ch‘ihp‘i, or Red Wall. The wind was strong and the waves ran high. Ts‘ao Ts‘ao in the midst of the central squadron eagerly scanned the river which rolled down under the bright moon like a silver serpent writhing in innumerable folds. Letting the wind blow full in his face Ts‘ao Ts‘ao laughed aloud for was he not now to obtain his desire?"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-049-line-057",
+        "order": 57,
+        "source_block_chunk": 2,
+        "source_block_order": 29,
+        "text": "」操笑曰：「公覆來降，此天助我也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then a soldier pointing to the river said, “The whole south is one mass of sails and they are coming up on the wind.”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-049-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "來船漸近。程昱觀望良久，謂操曰：「來船必詐。且休教近寨。」操曰：「何以知之？」程昱曰：「糧在船中，船必穩重。今觀來船，輕而且浮；更兼今夜東南風甚緊；倘有詐謀，何以當之？」操省悟，便問：「誰去止之？」文聘曰：「某在水上頗熟，願請一往。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao went to a higher point and gazed at the sails intently and his men told him that the flags were black and ​ dragon shaped, and indented, and among them there flew one very large banner on which was a name Huang Kai. “That is my friend the deserter,” said he joyfully. “Heaven is on my side to-day.” As the ships drew closer Ch‘êng Yü said, “Those ships are treacherous. Do not let them approach the camp.” “How know you that?” asked Ts‘ao Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 50,
+        "id": "chapter-049-line-059",
+        "order": 59,
+        "source_block_chunk": 2,
+        "source_block_order": 30,
+        "text": "」言畢，跳下小船，用手一指，十數隻巡船，隨文聘船出。聘立在船頭，大叫：「丞相鈞旨，南船且休近寨，就江心拋住。」眾軍齊喝：「快下了篷！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And Ch'êng Yü replied, “If they were laden with grain they would lie deep in the water. But these are light and float easily. The south-east wind is very strong and if they intend treachery, how can we defend ourselves?” Ts‘ao Ts‘ao began to understand. Then he asked who would go out to stop them, and Wên P‘ing volunteered. “I am well used to the waters,” said he."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-049-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "言未絕，弓弦響處，文聘被箭射中左臂，倒在船中。船上大亂，各自奔回。南船距操寨止隔二里水面。黃蓋用刀一招，前船一齊發火。火趁風威，風助火勢，船如箭發，煙燄障天。二十隻火船，撞入水寨。曹寨中船隻一時盡著；又被鐵環銷住，無處逃避。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thereupon he sprang into a small light craft and sailed out, followed by a half score cruisers which came at his signal. Standing in the prow of his ship he called out to those advancing toward them, “You southern ships are not to approach; such are the orders of the Minister. Stop there in mid stream.” The soldiers all yelled to them to lower their sails. The shout had not died away when a bowstring twanged and Wen Ping rolled down into the ship with an arrow in the left arm. Confusion reigned on his ship and all the others hurried back to their camp."
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-049-line-061",
+        "order": 61,
+        "source_block_chunk": 2,
+        "source_block_order": 31,
+        "text": "隔江砲響，四下火船齊到，但見三江面上，火逐風飛，一派通紅，漫天徹地。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the ships were about a couple of li distant, Huang Kai waved his sword and the leading ships broke forth into fire, which, under the force of the strong wind, soon gained strength and the ships became as fiery arrows. Soon the whole twenty dashed into the naval camp."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-049-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "曹操回觀岸上營寨，幾處煙火。黃蓋跳在小船上，背後數人駕舟，冒煙突火，來尋曹操，操見勢急，方欲跳上岸，忽張遼駕一小腳船，扶操下得船時，那隻大船，已自著了。張遼與十數人保護曹操，飛奔岸口。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All Ts‘ao Ts‘ao’s ships were gathered there and as they were firmly chained together not one could escape from the others and flee. There was a roar of bombs and fireships came on from all sides at once. The face of the three rivers was speedily covered with fire which flew before the wind from one ship to another. It seemed as if the universe was filled with flame. Ts‘ao Ts‘ao hastened toward the shore. Huang Kai, with a few men at his back, leaped into a small boat, dashed through the fire and sought Ts‘ao Ts‘ao. He, seeing the imminence of the danger, was making for the land, Chang Liao got hold of a small boat into which he helped his master; none too soon, for the ship was burning. They got Ts‘ao Ts‘ao out of the thick of the fire and dashed for the bank."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-049-line-063",
+        "order": 63,
+        "source_block_chunk": 2,
+        "source_block_order": 32,
+        "text": "黃蓋望見穿絳紅袍者下船，料是曹操，乃催船速進，手提利刃，高聲大叫：「曹賊休走！黃蓋在此！」操叫苦連聲。張遼拈弓搭箭，覷著黃蓋較近，一箭射去。此時風聲正大，黃蓋在火光中，那裏聽得弓弦響？正中肩窩，翻身落水。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Huang Kai seeing a handsomely robed person get into a small boat guessed it must be Ts‘ao Ts‘ao and pursued. He drew very near and he held his keen blade ready to strike, crying out, “You rebel! do not flee. I am Huang Kai.” Ts‘ao Ts‘ao howled in the bitterness of his distress. Chang Liao fitted an arrow to his bow and aimed at the pursuer, ​ shooting at short range. The roaring of the gale and the flames kept Huang Kai from hearing the twang of the string and he was wounded in the shoulder. He fell and rolled over into the water."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-049-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "火厄盛時遭水厄，棒瘡愈後患金瘡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He fell in peril of water When flames were high; Ere cudgel bruises had faded, An arrow struck."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-049-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "未知黃蓋性命如何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Huang Kai’s fate will be told in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說周瑜立於山頂，觀望良久，忽然望後而倒，口吐鮮血，不省人事。左右救回帳中。諸將皆來動問，盡皆愕然，相顧曰：「江北百萬之眾，虎踞鯨吞。不料都督如此，倘曹兵一至，如之奈何？」慌忙差人申報吳侯，一面求醫調治。\n卻說魯肅見周瑜臥病，心中憂悶，來見孔明，言周瑜猝病之事。孔明曰：「公以為何如！」肅曰：「此乃曹操之福，江東之禍也。」孔明笑曰：「公瑾之病，亮亦能醫。」肅曰：「誠如此，則國家幸甚！」即請孔明同去看病。肅先入見周瑜。瑜以被蒙頭而臥。肅曰：「都督病勢若何？」周瑜曰：「心腹攪痛，時復昏迷。」肅曰：「曾服何藥餌？」瑜曰：「心中嘔逆，藥不能下。」肅曰：「適來去望孔明，言能醫都督之病。現在帳外，煩來醫治，何如？」\n瑜命請入，教左右扶起，坐於床上。孔明曰：「連日不晤君顏，何期貴體不安！」瑜曰：「『人有旦夕禍福』，豈能自保？」孔明笑曰：「『天有不測風雲』，人又豈能料乎？」瑜聞失色，乃作呻吟之聲。孔明曰：「都督心中似覺煩積否？」瑜曰：「然。」孔明曰：「必須用涼藥以解之。」瑜曰：「已服涼藥，全然無效。」孔明曰：「須先理其氣；氣若順，則呼吸之間，自然痊可。」\n瑜料孔明必知其意，乃以言挑之曰：「欲得順氣，當服何藥？」孔明笑曰：「亮有一方，便教都督氣順。」瑜曰：「願先生賜教。」孔明索紙筆，屏退左右，密書十六字曰：「欲破曹公，宜用火攻；萬事俱備，只欠東風。」寫畢，遞與周瑜曰：「此都督病源也。」\n瑜見了大驚，暗思：「孔明真神人也！早已知我心事！只索以實情告之。」乃笑曰：「先生已知我病源，將用何藥治之？事在危急，望即賜教。」孔明曰：「亮雖不才，曾遇異人，傳授奇門遁甲天書，可以呼風喚雨。都督若要東南風時，可於南屏山建一臺，名曰『七星壇』。高九尺，作三層，用一百二十人，手執旗旛圍遶。亮於臺上作法，借三日三夜東南大風，助都督用兵，何如？」瑜曰：「休道三日三夜，只一夜大風，大事可成矣。只是事在目前，不可遲緩。」孔明曰：「十一月二十日甲子祭風，至二十二日丙寅風息，如何？」\n瑜聞言大喜，矍然而起。便傳令差五百精壯軍士，往南屏山築壇；撥一百二十人，執旗守壇，聽候使令。\n孔明辭別出帳，與魯肅上馬，來南屏山相度地勢，令軍士取東南方赤土築壇。方圓二十四丈，每一層高三尺，共是九尺。下一層插二十八宿旗：東方七面青旗，按角、亢、氐、房、心、尾、箕，布蒼龍之形；北方七面皂旗，按斗、牛、女、虛、危、室、壁，作玄武之勢；西方七面白旗，按奎、婁、冑、昴、畢、觜、參，踞白虎之威；南方七面紅旗，按井、鬼、柳、星、張、翼、軫，成朱雀之狀。第二層周圍黃旗六十四面，按六十四卦，分八位而立。上一層用四人，各人戴束髮冠，穿皂羅袍，鳳衣博帶，朱履方裾，前左立一人，手執長竿，竿尖上用雞羽為葆，以招風信；前右立一人，手執長竿，竿上繫七星號帶，以表風色；後左立一人，捧寶劍；後右立一人，捧香爐。壇下二十四人，各持旌旗、寶蓋、大戟、長戈、黃旄、白銊、朱旛、皂縣，環遶四面。\n孔明於十一月二十日甲子吉辰，沐浴齋戒，身披道衣，跣足散髮，來到壇前，分付魯肅曰：「子敬自往軍中相助公瑾調兵。倘亮所祈無應，不可有怪。」魯肅別去。孔明囑付守壇將士：「不許擅離方位。不許交頭接耳。不許失口亂言。不許失驚打怪。如違令者斬！」眾皆領命。孔明緩步登壇，觀瞻方位已定，焚香於爐，注水於盂，仰天暗祝。下壇入帳中少歇，令軍士更替吃飯。孔明一日上壇三次，下壇三次，卻不見有東南風。\n且說周瑜請程普、魯肅一班軍官，在帳中伺侯，只等東南風起，便調兵出；一面關報孫權接應。黃蓋已自準備火船二十隻，船頭密布大釘，船內裝載蘆葦乾柴，灌以魚油，上鋪硫黃、燄硝引火之物，各用青布油單遮蓋。船頭上插青龍牙旗，船尾各繫走舸。在帳下聽侯，只等周瑜號令。甘寧、闞澤窩盤蔡和、蔡中在水寨中，每日飲酒，不放一卒登岸。周圍盡是東吳軍馬，把得水洩不通。只等帳上號令下來。\n周瑜正在帳中坐議，探子來報：「吳侯船隻離寨八十五里停泊，只等都督好音。」瑜即差魯肅遍告各部下官兵將士：「俱各收拾船隻、軍器、帆櫓等物。號令一出，時刻休違。倘有違誤，即按軍法。」眾兵將得令，一個個磨拳擦掌，準備廝殺。\n是日看看近夜，天色清明，微風不動。瑜謂魯肅曰：「孔明之言謬矣。隆冬之時，怎得東南風乎？」肅曰：「吾料孔明必不謬談。」將近三更時分，忽聽風聲響，旗旛轉動。瑜出帳看時時，旗腳竟飄西北，霎時間東南風大起。瑜駭然曰：「此人有奪天地造化之法，鬼神不測之術！若留此人，乃東吳禍根也。及早殺卻，免生他日之憂。」急喚帳前護軍校尉丁奉、徐盛二將：「各帶一百人。徐盛從江內去，丁奉從旱路去，都到南屏山七星壇前。休問長短，拏住諸葛亮便行斬首，將首級來請功。」二將領命。徐盛下船，一百刀斧手，蕩開棹槳；丁奉上馬，一百弓弩手，各跨征駒，往南屏山來。於路正迎著東南風起。後人有詩曰：\n七星壇上臥龍登，一夜東風江水騰。\n不是孔明施妙計，周郎安得逞才能？\n丁奉馬軍先到，見壇上執旗將士，當風而立。丁奉下馬提劍上壇，不見孔明，慌問守壇將士。答曰：「恰纔下壇去了。」丁奉忙下壇尋時，徐盛船已到。二人聚於江邊。小卒報曰：「昨晚一隻快船停在前灘口，適間卻見孔明披髮下船。那船望上水去了。」丁奉、徐盛便分水陸兩路追襲。徐盛教拽起滿帆，搶風而使。遙望前船不遠，徐盛在船頭高聲大叫：「軍師休去！都督有請！」只見孔明立於船尾大笑曰：「上覆都督：好好用兵。諸葛亮暫回夏口，異日再容相見。」徐盛曰：「請暫少住，有緊話說。」孔明曰：「吾已料定都督不能容我，必來加害，預先教趙子龍來相接。將軍不必追趕。」\n徐盛見前船無篷，只顧趕去。看看至近，趙雲拈弓搭箭，立於船尾大叫曰：「吾乃常山趙子龍也！奉令特來接軍師。你如何來追趕？本待一箭射死你來，顯得失了兩家和氣。教你知我手段！」言迄，箭到處，射斷徐盛船上篷索。那篷墮落下水，其船便橫。趙雲卻教自己船上拽起滿帆，乘順風而去。其船如飛，追之不及。\n岸上丁奉喚徐盛船近岸，言曰：「諸葛亮神機妙算，人不可及。更兼趙雲有萬夫不當之勇。汝知他當陽長阪時否？吾等只索回報便了。」於是二人回見周瑜，言孔明預先約趙雲迎接去了。周瑜大驚曰：「此人如此多謀，使我曉夜不安矣！」魯肅曰：「且待破曹之後，卻再圖之。」\n瑜從其言，喚集諸將聽令。先教甘寧：「帶了蔡中並降卒沿南岸而走，只打北軍旗號，直取烏林地面，正當曹操屯糧之所。深入軍中，舉火為號。只留下蔡和一人在帳下，我有用處。」第二喚太史慈分付：「你可領三千兵，直奔黃州地界，斷曹操合淝接應之兵，就逼曹兵，放火為號。只看紅旗，便是吳侯接應兵到。」這兩隊兵最遠先發。第三喚呂蒙領三千兵去烏林接應，甘寧焚燒曹操寨柵。第四喚凌統領三千兵，直接彝陵界首，只看烏林火起，以兵應之。第五喚董襲領三千兵，直取漢陽，從漢川殺奔曹操寨中，看白旗接應。第六喚潘璋領三千兵，盡打白旗，往漢陽接應董襲。\n六隊軍馬各自分路去了。卻令黃蓋安排火船，使小卒馳書約曹操今夜來降。一面撥戰船四隻，隨於黃蓋船後接應。第一隊領兵軍官韓當，第二隊領兵軍官周泰，第三隊領兵軍官蔣欽，第四隊領兵軍官陳武：四隊各引戰船三百隻，前面各擺列火船二十隻。周瑜自與程普在大艨艟上督戰，徐盛、丁奉為左右護衛，只留魯肅共闞澤及眾謀士守寨。程普見周瑜調軍有法，甚相敬服。\n卻說孫權差使命持兵符至，說已差陸遜為先鋒，直抵蔪、黃地面進兵，吳侯自為後應。瑜又差人西山放火砲，南屏山舉號旗。各各準備停當，只等黃昏舉動。\n話分兩頭：且說劉玄德在夏口專候孔明回來，忽見一隊船到，乃是公子劉琦自來探聽消息。玄德請上敵樓坐定，說：「東南風起多時，子龍去接孔明，至今不見到，吾心甚憂。」小校遙指樊口港上：「一帆風送扁舟來到，必軍師也。」玄德與劉琦下樓迎接。須臾到，孔明、子龍登岸。玄德大喜。問候畢，孔明曰：「且無暇告訴別事。前者所約軍馬戰船，皆已辦否？」玄德曰：「收拾久矣，只候軍師調用。」\n孔明便與玄德、劉琦升帳坐定，謂趙雲曰：「子龍可帶三千軍馬，渡江逕取烏林小路，揀樹木蘆葦密處埋伏。今夜四更已後，曹操必然從那條路奔走。等他軍馬過，就半中間放起火來。雖然不殺他盡絕，也殺一半。」雲曰：「烏林有兩條路：一條通南郡，一條取荊州。不知向那條路來？」孔明曰：「南郡勢迫，曹操不敢往，必來荊州，然後大軍投許昌而去。」\n雲領計去了。又喚張飛曰：「翼德可領三千兵渡江，截斷彝陵這條路，去葫蘆谷口埋伏。曹操不敢走南彝陵，必望北彝陵去。來日雨過，必然來埋鍋造飯。只看煙起，便就山邊放起火來。雖然不捉得曹操，翼德這場功料也不小。」\n飛領計去了。又喚糜竺、糜芳、劉封三人，各駕船隻。遶江剿擒敗軍，奪取器械。三人領計去了。孔明起身，謂公子劉琦曰：「武昌一望之地，最為緊要。公子便請回。率領所部之兵，陳於岸口。操一敗必有逃來者，就而擒之，卻不可輕離城郭。」劉琦便辭玄德，孔明去了。孔明謂玄德曰：「主公可於樊口屯兵，憑高而望，坐看今夜周郎成大功也。」\n時雲長在側，孔明全然不睬。雲長忍耐不住，乃高聲曰：「關某自隨兄長征戰多年來，未嘗落後。今日逢大敵，軍師卻不委用，此是何意？」孔明笑曰：「雲長勿怪！某本欲煩足下把一個最緊要的隘口，怎奈有些違礙處，不敢教去。」雲長曰：「有何違礙？願即見諭。」孔明曰：「昔日曹操待足下甚厚，足下當有以報之。今日操兵敗，必走華容道。若令足下去時，必然放他過去。因此不敢教去。」\n雲長曰：「軍師好多心！當日曹操果是重待某，某已斬顏良，誅文醜，解白馬之圍，報過他了。今日撞見，豈肯輕放！」孔明曰：「倘若放了時，卻如何？」雲長曰：「願依軍法。」孔明曰：「如此，立下文書。」雲長便與了軍令狀。雲長曰：「若曹操不從那條路上來，如何？」孔明曰：「我亦與你軍令狀。」雲長大喜。孔明曰：「雲長可於華容小路高山之處，堆積柴草，放起一把火煙，引曹操來。」雲長曰：「曹操望見煙，知有埋伏，如何肯來？」孔明笑曰：「豈不聞兵法虛虛實實之論？操雖能用兵，只此可以瞞過他也。他見煙起，將謂虛張聲勢，必然投這條路來。將軍休得容情。」\n雲長領了將令，引關平、周倉並五百校刀手，投華容道埋伏去了。玄德曰：「吾弟義氣深重，若曹操果然投華容道去時，只恐端的放了。」孔明曰：「亮夜觀乾象，操賊未合身亡。留這人情，教雲長做了，亦是美事。」玄德曰：「先生神算，世所罕及！」孔明遂與玄德往樊口看周瑜用兵，留孫乾、簡雍守城。\n卻說曹操在大寨中，與眾將商議，只等黃蓋消息。當日東南風起甚緊，程昱入告曹操曰：「今日東南風起，宜預隄防。」操笑曰：「冬至一陽生，來復之時，安得無東南風？何足為怪？」軍士忽報江東一隻小船來到，說有黃蓋密書，操急喚入，其人呈上書。書中訴說：「周瑜關防嚴緊，因此無計脫身。今有鄱陽湖新運到糧，周瑜差蓋巡哨，已有方便。好歹殺江東名將，獻首來降。只在今晚三更，船上插青龍牙旗者，即糧船也。」操大喜，遂與眾將來到水寨中大船上，觀望黃蓋船到。\n且說江東，天色向晚，周瑜喚出蔡和，令軍士縛倒，和叫：「無罪！」瑜曰：「汝是何等人，敢來詐降！吾今缺少福物祭旗，願借你首級。」和抵賴不過，大叫曰：「汝家闞澤、甘寧，亦曾與謀！」瑜曰：「此乃吾之所使也。」蔡和悔之無及。瑜令捉至江邊皂纛旗下，奠酒燒紙，一刀斬了蔡和，用血祭旗畢，便令開船。黃蓋在第三隻火船上，獨披掩心甲，手提利刃，旗上大書「先鋒黃蓋」。蓋乘一天順風，望赤壁進發。\n是時東風大作，波浪洶湧。操在中軍遙望隔江，看看月上照耀江水，如萬道金蛇，翻波戲浪。操迎風大笑，自以為得志。忽一軍指說：「江南隱隱一簇帆幔，使風而來。」操憑高望之，報稱：「皆插青龍牙旗。內中有大旗，上書先鋒黃蓋名字。」操笑曰：「公覆來降，此天助我也！」\n來船漸近。程昱觀望良久，謂操曰：「來船必詐。且休教近寨。」操曰：「何以知之？」程昱曰：「糧在船中，船必穩重。今觀來船，輕而且浮；更兼今夜東南風甚緊；倘有詐謀，何以當之？」操省悟，便問：「誰去止之？」文聘曰：「某在水上頗熟，願請一往。」言畢，跳下小船，用手一指，十數隻巡船，隨文聘船出。聘立在船頭，大叫：「丞相鈞旨，南船且休近寨，就江心拋住。」眾軍齊喝：「快下了篷！」\n言未絕，弓弦響處，文聘被箭射中左臂，倒在船中。船上大亂，各自奔回。南船距操寨止隔二里水面。黃蓋用刀一招，前船一齊發火。火趁風威，風助火勢，船如箭發，煙燄障天。二十隻火船，撞入水寨。曹寨中船隻一時盡著；又被鐵環銷住，無處逃避。隔江砲響，四下火船齊到，但見三江面上，火逐風飛，一派通紅，漫天徹地。\n曹操回觀岸上營寨，幾處煙火。黃蓋跳在小船上，背後數人駕舟，冒煙突火，來尋曹操，操見勢急，方欲跳上岸，忽張遼駕一小腳船，扶操下得船時，那隻大船，已自著了。張遼與十數人保護曹操，飛奔岸口。黃蓋望見穿絳紅袍者下船，料是曹操，乃催船速進，手提利刃，高聲大叫：「曹賊休走！黃蓋在此！」操叫苦連聲。張遼拈弓搭箭，覷著黃蓋較近，一箭射去。此時風聲正大，黃蓋在火光中，那裏聽得弓弦響？正中肩窩，翻身落水。正是：\n火厄盛時遭水厄，棒瘡愈後患金瘡。\n未知黃蓋性命如何，且看下文分解。",
+    "title": "第四十九回 七星壇諸葛祭風　　　三江口周瑜縱火"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-049.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

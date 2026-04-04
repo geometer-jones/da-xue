@@ -1,0 +1,762 @@
+{
+  "chapter": {
+    "character_count": 4358,
+    "id": "chapter-059",
+    "order": 59,
+    "reading_unit_count": 57,
+    "reading_units": [
+      {
+        "character_count": 69,
+        "id": "chapter-059-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說當夜兩兵混戰，直到天明，各自收兵。馬超屯兵渭口，日夜分兵，前後攻擊。曹操在渭河內，將船筏鎖鍊作浮橋三條，接連南岸。曹仁引軍夾河立寨，將糧草車輛穿連，以為屏障。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ma Ch‘ao determined to destroy this camp, so his men collected straw and each man marched with a bundle and took fire with him. Han Sui’s men were to fight. While one party attacked, the other party piled up the straw, which they lit, and soon there was a fierce fire all around fierce fire all around. The defenders could do nothing against it so they abandoned the camp and ran away. All the transport and bridges were destroyed. It was a great victory for the Hsiliang army and gave them the command of the River Wei."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-059-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "馬超聞之，教軍士各挾草一束，帶著火種，與韓遂引軍併力殺到寨前，堆積草把，放起烈火。操兵抵敵不住，棄寨而走。車乘、浮橋，盡被燒毀。西涼兵大勝，截住渭河。曹操立不起營寨，心中憂懼。荀攸曰：「可取渭河沙土築起土城，可以堅守。」操撥三萬軍擔土築城。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao was sad at the failure to make good his strong camp and fearful of his defencelessness. Then Hsün Yu proposed a mud wall. So three legions were set to build a mud rampart. The enemy seeing this harassed the workmen with perpetual attacks at different points so that the work went slowly. Beside the soil was very sandy and the wall would not stand but collapsed as fast as it was built. Ts‘ao Ts‘ao felt helpless. It was the ninth month and the fierce cold of winter was just coming on. Ominous clouds covered the sky day after day with never a break. One day as Ts‘ao Ts‘ao sat in his tent, very disheartened, a stranger was announced and was led in. He was an old man who said he had a suggestion to offer. He was tall, sparely built and spiritual looking. He gave his name as Lou Tzu-po and said he came from Chingchao. He was a recluse and a Taoist, his religious name being Mêng-mei or “Plum-blossom Dreamer.” Ts‘ao Ts‘ao received him with great courtesy and presently the venerable one began, “O Minister, you have long been striving to make a camp on the river. Now is your opportunity; why not begin?”"
+          }
+        }
+      },
+      {
+        "character_count": 33,
+        "id": "chapter-059-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "馬超又差龐德、馬岱各引五百馬軍，往來衝突；更兼沙土不實，築起便倒，操無計可施。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The soil is too sandy to stand,” said Ts‘ao. “But if you have some other plan to propose, pray tell me what it is, O hermit.”"
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-059-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "時當九月盡，天氣暴冷，彤雲密布，連日不開。曹操在寨中納悶。忽人報曰：「有一老人來見丞相，欲陳說方略。」操請入見。其人鶴骨松姿，形貌蒼古。間之乃京兆人也，隱居終南山，姓婁，字子伯，道號夢梅居士。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “You are more than human, O Minister, in the art of war, and you surely know the times and seasons. It has been overcast for many days and these clouds foretell a north wind and intense cold. When the wind begins to blow you should hurry your men to carry up the earth and sprinkle it with water. By dawn your wall will be complete.” Ts‘ao Ts‘ao seized upon the suggestion. He offered his aged visitor a reward but he would receive nothing."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-059-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "操以客禮待之，子伯曰：「丞相欲跨渭安營久矣，今何不乘時築之？」操曰：「沙土之地，築壘不成。隱士有何良策賜教？」子伯曰：「丞相用兵如神，豈不知天時乎？連日陰雲布合，朔風一起，必大凍矣。風起之後，驅軍士運土潑水，比乃天明，土城已就。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "That night the wind came down in full force. Every man possible was set to earth-carrying and wetting. As they had no other means of carrying water they made stuff bags which they filled with water and let out the water over the earth. And so as they piled the earth they froze it solid with water, and by dawn the wall was finished and stood firm. When his scouts told Ma Ch‘ao that the enemy had built a wall, and he had ridden out and seen it, he was greatly perplexed and began to suspect help from the gods."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-059-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "操大悟，厚賞子伯。子伯不受而去。是夜北風大作。操盡驅兵士擔士潑水，為無盛水之具，作縑囊盛水澆之，隨築隨凍。比及天明，沙土凍緊，土城已築完。細作報知馬超。超領兵觀之，大驚，疑有神助。次日，集大軍鳴鼓而進。操自乘馬出營，止有許褚一人隨後。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "However, very soon after he got his whole army together and sounded an attack. Ts‘ao Ts‘ao himself rode out of the camp, with only the redoubtable Hsü Ch‘u in attendance, and advanced toward the enemy. Flourishing his whip he called out, “I, Mêng-tê, am here alone and I beg Ma Ch‘ao to come out to parley with me.” Thereupon Ma Ch‘ao rode out, his spear set ready to thrust. “You despised me because I had no wall to my camp but lo! in one single night, God has made me a wall. Do you not think it time to give in?”"
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-059-line-007",
+        "order": 7,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "操揚鞭大呼曰：「孟德單騎至此，請馬超出來答話。」超乘馬挺槍而出。操曰：「汝欺我營寨不成，今一夜天使築就，汝何不早降！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ma Ch‘ao was so enraged that he almost rushed at Ts‘ao Ts‘ao, but he was not too angry to notice the henchman behind him, glaring in angry fashion, who held a gleaming sword in his grip. He thought this man could be no other than Hsü Ch‘u, so he determined to find out. With a flourish of his whip he said, “Where is the noble 'Tiger Marquis' that I hear you have in your camp?”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-059-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "馬超大怒，意欲突前擒之，見操背後一人圓睜怪眼，手提鋼刀，勒馬而立。超疑是許褚，乃揚鞭問曰：「聞汝軍中有虎侯安在哉？」許褚提刀大叫曰：「吾即譙郡許褚也！」目射神光，威風抖擻。超不敢動，乃勒馬回。操亦引許褚回寨。兩軍觀之，無不駭然。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At this Hsü lifted his sword and roared, “I am Hsü Ch‘u of Ch‘iaochün!” From his eyes shot gleams of supernatural light and his attitude was so terror-striking that Ma dared not move. He turned his steed and retired. Ts‘ao Ts‘ao and his doughty follower returned to their camp and as they two passed between the armies not a man there but felt a quiver of fear. “They know our friend Hsü Ch‘u over there as Marquis Tiger,” said Ts‘ao Ts‘ao when he returned. And thereafter the soldiers all called him by that name. “I will capture that fellow Ma to-morrow,” said Hsü. “Ma Ch‘ao is very bold,” said his master. “Be careful.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-059-line-009",
+        "order": 9,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "操謂諸將曰：「賊亦知仲康乃虎侯也？」自此軍中皆稱褚為虎侯。許褚曰：「某來日必擒馬超。」操曰：「馬超英勇，不可輕敵。」褚曰：「某誓與死戰！」即使人下戰書，說虎侯單搦馬超來日決戰。超接書大怒曰：「何敢如此相欺耶！」即批次日誓殺虎痴。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I swear to fight him to the death,” said Hsü. ​ Then he sent a written challenge to his enemy saying that the “Tiger Marquis” challenged Ma Ch‘ao to a decisive duel on the morrow. Ma Ch‘ao was very angry when he received the letter. “Dare he insult me so?” cried he. Then he wrote his pledge to slay Tiger-lust on the morrow. Next day both armies moved out and arrayed in order of battle. Ma Ch‘ao gave P‘ang Tê and Ma Tai command of the two wings, while Han Sui took the centre. Ma Ch‘ao took up his station in front of the centre and called to Tiger-lust to come out. Ts‘ao Ts‘ao, who was on horseback by the standard, turned and said, “He is no less bold than Lü Pu.”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-059-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "次日兩軍出營，布成陣勢。超分龐德為左翼，馬岱為右翼，韓遂押中軍。超挺鎗縱馬，立於陣前，高叫：「虎痴快出！」曹操在門旗下回顧眾將曰：「馬超不減呂布之勇。」言未絕，許褚拍馬舞刀而出。馬超挺鎗接戰。鬥了一百餘合，勝負不分。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As he spoke, Hsü Ch‘u rode forth whirling his sword and the duel began. They fought over a hundred bouts and neither had the advantage. But then, their steeds being spent with galloping to and fro, each retired within his own lines and obtained a fresh mount. The contest was renewed and a hundred more encounters took place, still without victory to either. Suddenly Hsü Ch‘u galloped back to his own side, stripped off his armour, showing his magnificent muscles and, naked as he was, leaped again into the saddle and rode out to continue the battle."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-059-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "馬匹困乏，各回軍中，換了馬匹，又出陣前。又鬥一百餘合，不分勝負。許褚性起，飛回陣中，卸了盔甲，渾身筋突，赤體提刀，翻身上馬，來與馬超決戰。兩軍大駭。兩個又鬥到三十餘合，褚奮威舉刀，便砍馬超。超閃過，一槍望褚心窩刺來。褚棄刀將槍挾住。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Again the champions engaged, while both armies stood aghast. Thirty bouts more, and Hsü, summoning up all his force, plunged toward Ma with his sword held high to strike. But Ma avoided the stroke and rode in with his spear pointing directly at his opponent’s heart. Throwing down his sword, Hsü dashed aside the spear, which passed underneath his arm. Then ensued a struggle for the spear and Hsü by a mighty effort snapped the shaft so that each held one half. Then the duel was continued, each belabouring the other with the pieces of the broken spear."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-059-line-012",
+        "order": 12,
+        "source_block_chunk": 3,
+        "source_block_order": 5,
+        "text": "兩個在馬上奪槍。許褚力大，一聲響，拗斷槍桿，各拿半節在馬上亂打。操恐褚有失，遂令夏侯淵、曹洪兩將齊出夾攻。龐德、馬岱見操將齊出，麾兩翼鐵騎，橫衝直撞，溷殺將來。操兵大亂。許褚臂中兩箭。諸將慌退入寨，馬超直殺到河邊，操兵折傷大半。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At this point Ts‘ao Ts‘ao began to fear for his champion and so ordered two of his captains to go out and take a hand. At this P‘ang Tê and Ma Tai gave the signal to their armoured horsemen to attack. They rode in and a mêlée began in which Ts‘ao’s men were worsted and the great champion Hsü Ch‘u received two arrow wounds in the shoulder. So the men of Ts‘ao retreated to their stockade, Ma Ch‘ao following them to the river. Ts‘ao’s men lost more than half their number."
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-059-line-013",
+        "order": 13,
+        "source_block_chunk": 4,
+        "source_block_order": 5,
+        "text": "操令堅閉休出。馬超回至渭口，謂韓遂曰：「吾見惡戰者莫如許褚，真虎痴也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao barred his gates and allowed none to go out. Ma Ch‘ao went down to the river. When he saw Han Sui he said, “I have seen some wicked fighters, but none to match that man. He is aptly nicknamed Tiger-lust.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-059-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "卻說曹操料馬超可以計破，乃密令徐晃、朱靈盡渡河西結營，前後夾攻。一日，操於城上見馬超引數百騎，直臨寨前，往來如飛。操觀良久，擲兜鍪於地曰：「馬兒不死，吾無葬地矣！」夏侯淵聽了，心中氣忿，厲聲曰：「吾寧死於此地，誓滅馬賊！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thinking that by strategy he might get the better of Ma Ch‘ao, Ts‘ao Ts‘ao secretly sent two bodies of men across the river to take up position so that he might attack in front and rear. ​ One day from his ramparts, Ts‘ao Ts‘ao saw Ma Ch‘ao and a few horsemen ride close up to the walls and then gallop to and fro like the wind. After gazing at them for a long time he tore off his helmet and dashed it on the ground saying, “If that Ma is not killed may I never be buried!”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-059-line-015",
+        "order": 15,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "」遂引本部千餘人，大開寨門，直趕去。操急止不住，恐其有失，慌自上馬前來接應。馬超見曹兵至，乃將前軍作後隊，後隊作先鋒，一字兒排開。夏侯淵到，馬超接住廝殺。超於亂軍中遙見曹操，就撇了夏侯淵，直取曹操。操大驚，撥馬而走。曹兵大亂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsiahou Yüan heard him and his heart burned within him. He cried, “May I die here at once if I do not destroy that rebel!” Without more ado he flung open the gates and rode out with his company. Ts‘ao Ts‘ao tried to stop this mad rush, but it was no good, so, fearing he might come to grief, he rode out after him. At sight of the men of Ts‘ao, Ma Ch‘ao faced his men about extended them in line and, as the enemy approached, dashed forward to the attack. Then noticing Ts‘ao himself among them he left Hsiahou and rode straight for Ts‘ao. Panic seized Ts‘ao and he rode for his life, while his men were thrown into confusion."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-059-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "正追之際，忽報操有一軍，已在河西下了營寨。超大驚，無心追趕，急收軍回寨，與韓遂商議，言：「操兵乘虛已渡河西，吾軍前後受敵，如之奈何？」部將李堪曰：「不如割地請和，兩家且各罷兵。捱過冬天，到春暖別作計議。」韓遂曰：「李堪之言最善，可從之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It was during the pursuit of this portion of the Ts‘ao army that Ma Ch‘ao was told of the force on the other bank of the river. Realising the danger he abandoned the pursuit, called in his men and went to his own camp, there to consult with Han Sui. “What now? Ts‘ao has crossed the river and we can be attacked in the rear,” said Ma. Acertain Li K‘an said, “Then you had better come to an agreement; sacrifice some territory and make peace. Then both can repose through the winter and await the changes and chances that may come with the spring warmth.”"
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-059-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "」超猶豫未決。楊秋、侯選皆勸求和。於是韓遂遣楊秋為使，直往操寨下書，言割地請和之事。操曰：「汝且回寨。吾來日使人回報。」楊秋辭去。賈詡入見操曰：「丞相主意如何？」操曰：「公所見若何？」詡曰：「兵不厭詐。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“He is wise,” said Han Sui, “and I advise the same.” But Ma Ch‘ao hesitated. Others exhorted him to make peace and at length he agreed. So Yang Ch‘iu and Hou Hsüan were sent as messengers of peace to the camp of Ts‘ao Ts‘ao. “You may return; I will send my reply,” said Ts‘ao when they had declared the purport of their mission. And they left."
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-059-line-018",
+        "order": 18,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "可偽許之，然後用反間計，令韓、馬相疑，則一鼓可破也。」操撫掌大喜曰：「天下高見，多有相合。文和之謀，正吾心中之事也。」於是遣人回書，言：「待我徐徐退兵，還汝河西之地。」一面教搭起浮橋，作退軍之意。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Chia Yu said to Ts‘ao Ts‘ao, “What is your opinion, O Minister?” “What is yours?” asked Ts‘ao. “War allows deceit, therefore pretend to agree. Then we can try some means of sowing suspicions between Han and Ma so that we may thereby destroy both.” Ts‘ao clapped his hands for very joy. “That is the best idea of all! Most suitable! You and I agree in our ideas; I was just thinking of that.”"
+          }
+        }
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-059-line-019",
+        "order": 19,
+        "source_block_chunk": 4,
+        "source_block_order": 7,
+        "text": "馬超得書，謂韓遂曰：「曹操雖然許和，奸雄難測。倘不準備，反受其制。超與叔父輪流調兵，今日叔向操，超向徐晃；明日超向操，叔向徐晃；分頭隄備，以防其詐。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So an answer was returned saying, “Let me gradually withdraw my soldiers and I will give back the land belonging to you on the west of the river.” And at the same time Ts‘ao ordered the construction of a floating bridge to help in the withdrawal."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-059-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "韓遂依計而行，早有人報知曹操。操顧賈詡曰：「吾事濟矣！」問：「來日是誰合向我這邊？」人報曰：「韓遂。」次日操引眾將出營，左右圍繞。操獨顯一騎於中央，韓遂部卒多有不識操者，出陣觀看。操高叫曰：「汝諸軍欲觀曹公耶？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ When the reply arrived, Ma Ch‘ao said to Han Sui, “Although he agrees to peace, yet he is evil and crafty. We must remain prepared against his machinations. Uncle, you and I will take turns in watching Ts‘ao and Hsü Huang on alternate days. So shall we be safe against his treachery.” They agreed and began the regular alternate watch. Soon Ts‘ao got to know what they were doing and he turned to Chia Hsü saying, “I am succeeding.”"
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-059-line-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "吾亦猶人也，非有四目兩口，但多智謀耳。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who keeps the look-out on this side to-morrow?” asked Ts‘ao. “Han Sui.”"
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-059-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "諸軍皆有懼色。操使人過陣謂韓遂曰：「丞相謹請韓將軍會話。」韓遂即出陣；見操並無甲仗，亦棄衣甲，輕服匹馬而出。二人馬頭相交，各按轡對語。操曰：「吾與將軍之父，同舉孝廉，吾嘗以叔事之。吾亦與公同登仕路，不覺有年矣。將軍今年妙齡幾何？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Next day Ts‘ao at the head of a large party of his captains rode out of the camp and the officers presently spread out right and left, he himself remaining a solitary rider visible in the centre. Han Sui did not know that Ts‘ao had come out. Presently Ts‘ao called out, “Do any of you soldiers want to see Ts‘ao Ts‘ao? Here I am quite alone. I have not four eyes nor a couple of mouths, but I am very knowing.”"
+          }
+        }
+      },
+      {
+        "character_count": 67,
+        "id": "chapter-059-line-023",
+        "order": 23,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "」韓遂答曰：「四十歲矣。」操曰：「往日在京師皆青春年少，何期又中旬矣！安得天下清平共樂耶！」只把舊事細說，並不提起軍情，說罷大笑。相談有一個時辰方回馬而別，各自歸寨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The soldiers turned pale with fright. Then Ts‘ao called up a man and told him to go and see Han Sui and say “Sir, the Minister humbly asks you to come and confer with him.' Thereupon Han went out, and seeing Ts‘ao wore no armour, Han also threw off his and rode out clad in a light robe. Each rode up to the other till their horse’s heads nearly touched and there they stood talking."
+          }
+        }
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-059-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "早有人將此事報知馬超，超慌來問韓遂曰：「今日曹操陣前所言何事？」遂曰：「只訴京師舊事耳。」超曰：「安得不言軍務乎？」遂曰：「曹操不言，吾何獨言之？」超心甚疑，不言而退。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Said Ts‘ao, “Your father and I took our degrees at the same time and I used to treat him as an uncle. You and I set out on our careers at the same time, too, and yet we have not met for years. How old may you be now?” “I am forty six,” replied Han."
+          }
+        }
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-059-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "卻說曹操回寨，謂賈詡曰：「公知吾陣前對話之意否？」詡曰：「此意雖妙，尚未足間二人。某有一策，令韓、馬自相讎殺。」操問其計。賈詡曰：「馬超乃一勇夫，不識機密。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“In those old days in the capital we were both very young and never thought about middle age. If we could only restore tranquillity to the State, that would be a matter of rejoicing.” After that they chatted long about old times, but neither said a word on military matters. They gossiped for a couple of hours before they took leave of each other."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-059-line-026",
+        "order": 26,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "丞相親筆作一書，單與韓遂，中間朦朧字樣，於要害處，自行塗抹改易，然後封送與韓遂，故意使馬超知之。超必索書來看。若看見上面要緊之處，盡皆改抹。只猜是韓遂恐超知甚機密事，自行改抹，正合著單騎會話之疑；疑則必生亂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It was not long before some one told Ma Ch‘ao of this meeting and he went over to his ally to ask about it. “What was it Ts‘ao Ts‘ao came out to discuss to-day?” said he. “He just recalled the old days when we were together in the capital.” “Did he say nothing about military matters?” “Not a word; and I could not talk about them alone.” Ma Ch‘ao went out without a word but he felt suspicious."
+          }
+        }
+      },
+      {
+        "character_count": 57,
+        "id": "chapter-059-line-027",
+        "order": 27,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "我更暗結韓遂部下諸將，使互相離間，超可圖矣。」操曰：「此計甚妙。」隨寫書一封，將緊要處盡皆改抹，然後實封，故意多遣從人送過寨去，下了書自回。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Ts‘ao returned to his camp he said to Chia Hsü, “Do you know why I talked with him thus publicly?” “It may be an excellent idea,\" said Hsü, “but it is not sufficient simply to estrange two people. I can improve on it and we will make them quarrel and even kill each other.” ​ “What is your scheme?”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-059-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "果然有人報知馬超。超心愈疑，逕來韓遂處索書看。韓遂將書與超。超見上面有改抹字樣，問遂曰：「書上如何都改抹糊塗？」遂曰：「原書如此，不知何故。」超曰：「豈有以草稿送與人耶？必是叔父怕我知了詳細，先改抹了。」遂曰：「莫非曹操錯將草稿誤封來了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Ma Ch‘ao is brave but not very astute. You write a letter with your own hand to Han himself and put in it some rambling statements about some harm that is going to happen. Then blot it out and write something else. Afterwards you will send it to Han, taking care that Ma shall know all about it. He will demand to read the letter, and when he sees that the important part of the letter has been changed, he will think that Han Sui has made the changes lest his secrets should leak out. This will fit into the private talk you had with Han the other day and the suspicion will grow until it has brought about trouble. I can also secretly corrupt some of his subordinates and get them to widen the breach and we can settle Ma Ch‘ao.”"
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-059-line-029",
+        "order": 29,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "」超曰：「吾又不信。曹操是精細之人，豈有差錯？吾與叔父併力殺賊，奈何忽生異心？」遂曰：「汝若不信吾心，來日吾在陣前賺操說話，汝從陣內突出，一槍刺殺便了。」超曰：「若如此，方見叔父真心。」兩人約定。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The scheme looks excellent,” said Ts‘ao, and he wrote the letter as suggested, and then erased and changed it, after which he sealed it securely and sent it across to Han Sui. Surely enough some one told Ma Ch‘ao about the letter, which increased his doubts, and he came to Han Sui’s quarters to ask to see it. Han gave it to him and the erasures and alterations struck Ma at once. “Why are all these alterations here?” asked he."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-059-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "次日，韓遂引侯選、李堪、梁興、馬玩、楊秋五將出陣。馬超藏在門影裡。韓遂使人到操寨前，高叫：「韓將軍請丞相攀話。」操乃令曹洪引數十騎逕出陣前與韓遂相見。馬離數步，洪馬上欠身言曰：「夜來丞相致意將軍之言，切莫有誤。」言訖便回馬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“It came like that; I do not know.” “Does any one send a rough draft like this? It seems to me, Uncle, that you are afraid I shall know something or other too well and so you have changed the wording.” “It must be that Ts‘ao has sealed up the rough draft by mistake.” “I do not think so make such a mistake. He is a careful man and would not You and I, Uncle, have been allies in trying to slay the rebel; why are you turning against me now?”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-059-line-031",
+        "order": 31,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "超聽得大怒，挺鎗驟馬，便刺韓遂。五將攔住，勸解回寨。遂曰：「賢姪休疑，我無歹心。」馬超那裏肯信，恨怨而去。韓遂與五將商議曰：「這事如何解釋？」楊秋曰：「馬超倚仗勇武，常有欺凌主公之心，便勝得曹操，怎肯相讓？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If you doubt my word I will tell you what you can do. To-morrow, in full view of the army, I will get Ts‘ao Ts‘ao to come out and talk. You can hide in behind the ranks ready to kill me if I am false.” “That being so I shall know that you are true, Uncle.” This arrangement made, next day Han Sui with five captains in his train, rode to the front while Ma Ch‘ao concealed himself behind the great standard. Han Sui sent over to say that he wished to speak to the Minister."
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-059-line-032",
+        "order": 32,
+        "source_block_chunk": 3,
+        "source_block_order": 13,
+        "text": "以某愚見，不如暗投曹公，他日不失封侯之位。」遂曰：「吾與馬騰向曾結為兄弟，安忍背之？」楊秋曰：「事已至此，不得不然。」遂曰：「誰可以通消息？」楊秋曰：「某願往。」遂乃寫一密書，遣楊秋來操寨，說投降之事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thereupon at his command, Ts‘ao Hung, with a train of ten horsemen rode out, advanced straight to Han Sui, leaned over to him and said, loudly enough to be heard plainly, “Last night the Minister quite understood there is no mistake.” Then without another word on either side he rode away. Ma Ch‘ao had heard. He gripped his spear and started galloping out to slay his companion in arms. But the five captains checked him and begged him to go back to camp. ​ When Han Sui saw him, he said, “Nephew, trust me, really I have no evil intentions.”"
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-059-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "操大喜，許封韓遂為西涼侯楊秋為西涼太守，其餘皆有官爵。約定放火為號，共謀馬超。楊秋拜辭，回見韓遂，備言其事：「約定今夜放火，裡應外合。」遂大喜，就令軍士於中軍帳後堆積乾柴，五將各懸刀劍聽候。韓遂商議，欲設宴賺請馬超，就席圖之，猶豫末決。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But think you that Ma Ch‘ao did? Burning with rage he went away. While Han Sui talked over the matter with his five captains. “How can this be cleared up?” “Ma Ch‘ao trusts too much to his strength,” said Yang Ch‘iu, one of them. “He is always inclined to despise you, Sir. If we overcome Ts‘ao Ts‘ao do you think he will give way to you? I think you should rather take care of your own interests, go over to the Minister’s side and you will surely get rank one day.” “I was his father’s pledged brother and could not bear to desert him,” said Han Sui. “It seems to me that as things have come to this pass you simply have to now.”"
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-059-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "不想馬超早已探知備細，便帶親隨數人，仗劍先行，令龐德、馬岱為後應。超潛入韓遂帳中，只見五將與韓遂密語，只聽得楊秋口中說道：「事不宜遲，可速行之！」超大怒，揮劍直入，大喝曰：「群賊焉敢謀害我！」眾皆大驚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who would act as go-between?” asked Han. “I will,” said Yang Ch‘iu. Then Han Sui wrote a private letter which he confided to Yang Ch‘iu, who soon found his way over to the other camp. Ts‘ao Ts‘ao was only too pleased, and he promised that Han Sui should be made Marquis of Hsiliang and Yang Ch‘iu its Prefect. The other confederates should be rewarded in other ways. When the preparations for the act of treachery were complete a bonfire was to be lighted in Han’s camp and all would try to do away with Ma Ch‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-059-line-035",
+        "order": 35,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "超一劍望韓遂面門剁去，遂慌以手迎之，左手早被砍落。五將揮刀齊出。超縱步出帳外，五將圍繞溷殺。超獨揮寶劍，力敵五將。劍光明處，鮮血濺飛：砍翻馬玩，剁倒梁興，三將各自逃生。超復入帳中來殺韓遂時，已被左右救去。帳後一把火起，各寨兵皆動。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yang Ch‘u went back and related all this to his chief and Han Sui felt elated at the success of his overtures. A lot of wood was collected in camp at the back of his tent ready for the signal blaze and the five captains got ready for the foul deed. It was decided that Ma Ch‘ao should be persuaded into coming to a banquet and there they would slay him then."
+          }
+        }
+      },
+      {
+        "character_count": 69,
+        "id": "chapter-059-line-036",
+        "order": 36,
+        "source_block_chunk": 3,
+        "source_block_order": 15,
+        "text": "超連忙上馬。龐德、馬岱亦至，互相混戰。超領軍殺出時，操兵四至：前有許褚，後有徐晃，左有夏侯淵，右有曹洪，西涼之兵，自相併殺。超不見了龐德、馬岱，乃引百餘騎截於渭橋之上。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All this was done, but not without some hesitation and delay, and some news of the plot reached Ma Ch‘ao. He found out the careful preparations that had been made and resolved to act first. Leaving Ma Tai and P‘ang Tê in reserve, he chose a few trusted men and with stealthy steps made his way into Han Sui’s tent. There he found Han Sui and his five confederates deep in conversation. He just caught a word or two that Yang Ch‘iu said, “We must not delay, now is the time.”"
+          }
+        }
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-059-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "天色微明，只見李堪引一軍從橋下過，超挺槍縱馬逐之。李堪拖槍而走。恰好于禁從馬超背後趕來，禁開弓射馬超，超聽得背後弦響，急閃過，卻射中前面李堪，落馬而死。超回馬來殺于禁。禁拍馬走了。超回橋上住紮，操兵前後大至，虎衛軍當先，亂箭夾射馬超。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In burst Ma Ch‘ao raging and yelling, “You herd of rebels! Would you dare to plot against me?” They were taken aback. Ma Ch‘ao sprang at Han Sui and slashed at his face. Sui put up his hand to ward off the blow and it was cut off. The five drew their swords and set on Ma Ch‘ao and his men who rushed outside, followed by the five who slashed away, but were kept at bay by Ma Ch‘ao’s wonderful swordsmanship. And as the swords flashed, the red ​ blood flowed. Soon one of the five was down and a second disabled; then the other three fled."
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-059-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "超以槍撥之，矢皆紛紛落地。超令從騎往來衝殺，爭奈曹兵圍裹堅厚，不能衝出。超於橋上大喝一聲，殺入河北，從騎皆被截斷。超獨在陣中衝突，卻被暗弩射倒坐下馬。馬超墮於地上，操軍逼合。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ma Ch‘ao ran back into the tent to finish Han Sui but the servants had removed him. Then a torch was lit, and soon there was commotion all through the camp. Ma Ch‘ao mounted his horse, for P‘ang Tê and Ma Tai had now arrived, and the real fight began. Ts‘ao’s men poured in from all sides and the Hsiliang men fought with each other."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-059-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "正在危急，忽西北角上一彪軍殺來，乃龐德、馬岱也。二人救了馬超。將軍中戰馬，與馬超騎了，翻身殺條血路，望西北而走。曹操聞馬超走脫，傳令諸將：「無分曉夜，務要趕到馬兒。如得首級者賞千金，封萬戶侯。生獲者封大將軍。」眾將得令。各要爭功，迆邐追襲。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Losing sight of his companions, Ma Ch‘ao and a few of his men got to the head of the floating bridge over the Wei just about dawn. There he fell across Li K‘an coming over the bridge. Ma Ch‘ao set his spear and rode at him full tilt. Li K‘an let go his spear and fled. Lucky for him it seemed at first that Yü Chin came up in pursuit. But unable to get near enough to seize Ma Ch‘ao, Yü Chin sent an arrow flying after him. Ma Ch‘ao’s ear caught the twang of the bowstring and he dodged the arrow, which flew on and killed Li K‘an. Ma Ch‘ao turned to attack his pursuer, who galloped away, and then he returned and took possession of the bridge."
+          }
+        }
+      },
+      {
+        "character_count": 48,
+        "id": "chapter-059-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "馬超顧不得人馬困乏，只顧奔走。從騎漸漸皆散。步兵走不上者，多被擒去。止剩得三十餘騎，與龐德、馬岱望隴西、臨洮而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Quickly Ts‘ao’s men gathered about him and the fiercest among them, the Tiger Guards, shot arrows at Ma Ch‘ao, which he warded off with his spear shaft so that they fell harmless to the earth. Ma Ch‘ao and his men rode to and fro striking a blow wherever there was a chance, but the enemy were very thick about him and he could not force his way out. In desperation he made a dash northwards and got through, but quite alone. Of his followers every one fell."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-059-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "曹操親自追至安定，知馬超去遠，方收兵回長安。眾將畢集。韓遂已無左手，做了殘疾之人，操教就於長安歇馬，授韓遂西涼侯之職。楊秋、侯選皆封列侯，令守渭口。下令班師回許都。涼州參軍楊阜，字義山，逕來長安見操。操問之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still he kept on dashing this way and that till he was brought down by a crossbow bolt. He lay upon the ground and his enemies were pressing in. But at the critical moment a troop came in from the north-west and rescued him. P‘ang Tê and Ma Tai had come up in the very nick of time. Thus Ma Ch‘ao was rescued and they set him on one of the soldiers' horses and he again took up the battle. Leaving a trail of blood in his rear he got away north-west."
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-059-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "楊阜曰：「馬超有呂布之勇，深得羌人之心。今丞相若不乘勢剿絕，他日養成氣力，隴上諸郡，非復國家之有也。望丞相且休回兵。」操曰：「吾本欲留兵征之，奈中原多事，南方末定，不可久留。君當為孤保之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hearing that his enemy had got away, Ts‘ao Ts‘ao ordered his captains to pursue him day and night and offered rewards for him dead or alive. For his head the reward was a thousand taels and the marquisate of a fief of a myriad families. If any one captured Ma the reward was the rank of general. Consequently the pursuit was warm as every one was anxious to win renown and reward. Meanwhile careless of all but flight Ma galloped on and one by one his followers dropped by the way. The footmen who were unable to keep up were captured till very few remained and only some score of riders were left. They travelled toward Shênsi."
+          }
+        }
+      },
+      {
+        "character_count": 54,
+        "id": "chapter-059-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "阜領諾，又保薦韋康為涼州刺史，同領兵屯冀城，以防馬超。阜臨行，請於操曰：「長安必留重兵以為後援。」操曰：「吾已定下，汝但放心。」阜辭而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao in person joined the pursuit and got to Anting, but there Ma Ch‘ao was still far in advance so he gave up and returned. Gradually the captains did the same, all coming ​ back to Ch‘angan. Poor Han Sui, with the loss of his left hand, was an invalid, but he was rewarded with the marquisate and his confederates, the five captains, were given rank and office."
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-059-line-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "眾將皆問曰：「初賊據潼關，渭北道缺，丞相不從河東擊馮翊，而反守潼關，遷延日久，而後北渡，立營固守，何也？」操曰：「初賊守潼關，若吾初到，便取河東，賊必以各寨分守諸渡口，則河西不可渡矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then orders were given to lead the whole army back to the capital. Yang Fou, a military officer of rank, came to Ch‘angan to point out the danger of withdrawal. “Ma Ch‘ao has the boldness of Lü Pu and the heart of a barbarian. Unless you destroy him this time he will come again and he will be both bolder and stronger, and the whole of this district will be lost to the Throne. Wherefore you should not withdraw your army.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-059-line-045",
+        "order": 45,
+        "source_block_chunk": 3,
+        "source_block_order": 19,
+        "text": "吾故盛兵皆聚於潼關前，使賊盡南守，而河西不準備，故徐晃、朱靈得渡也。吾然後引兵北渡，連車樹柵為甬道，築冰城，欲賊知吾弱，以驕其心，使不準備。吾乃巧用反間，畜士卒之力，一旦擊破之。正所謂『疾雷不及掩耳』。兵之變化，固非一道也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao said, “I would be quite willing to finish the subjugation but there is much to do in the capital and the south is still to conquer. So I cannot remain. But you, Sir, might secure this country for me. Do you consent?” Yang Fou did consent. And he brought to Ts‘ao Ts‘ao’s notice Wei K‘ang, who was made Governor, with joint military powers. Just before Yang Fou left he said to Ts‘ao Ts‘ao, “A strong force ought to be left in Ch‘angan, as a reserve in case they be required.” “That has been already dealt with,” replied Ts‘ao. Contentedly enough Yang Fou took leave and went away."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-059-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "眾將又請問曰：「丞相每聞賊加兵添眾，則有喜色，何也？」操曰：「關中邊遠，若群賊各依險阻，征之非一二年不可平復；今皆來聚一處，其眾雖多，人心不一，易於離間，一舉可滅，吾故喜也。」眾將拜曰：「丞相神謀，眾不及也！」操曰：「亦賴汝眾文武之力。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His captains asked Ts‘ao to explain his recent policy, since the first out-break at T‘ung Pass and he replied, “The rebel first held the Pass. Had I forthwith taken the east the rebels would have defended the camps one by one and mustered at all the ferries, and I should never have got across the river. So I massed men against T‘ung Pass and made the rebels guard the south so that the west was left open. Thus Hsü Huang and Chu Ling could cross over and I was able later to cross over to the north. Then I made the raised road and the mud rampart to deceive the enemy and cause them to think I was weak and thus embolden them up to the point of attacking without proper preparation. Then I used the clever device of causing dissension in their ranks and was able in one day to destroy the stored up energy of all their forces. It was a thunder clap before you could cover your ears. Yes indeed; the mutations of the art of war can be called infinite.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-059-line-047",
+        "order": 47,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "」遂重賞諸軍，留夏侯淵屯兵長安。所得降兵，分撥各部。夏侯淵保舉馮翊高陵人，姓張，名既，字德容，為京兆尹，與淵同守長安。操班師回都。獻帝排鑾駕出郭迎接；詔操贊拜不名，入朝不趨，劍履上殿，如漢相蕭何故事。自此威震中外。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“But one thing more puzzled us,” said the officers, “and we ask you to explain it. When you heard the enemy was reinforced you seemed to grow happier. Why was that?” “Because the Pass was distant and if the rebels had taken advantage of all defensible points and held them, they could not have been quelled in less than a couple of years. When they came on altogether they made a multitude but they were not unanimous. They easily quarrelled and, disunited, were easily overcome. So I had reason to rejoice that they came on altogether.” ​ “Indeed no one can equal you in strategy,” said his officers, bowing low before him. “Still, remember that I rely on you,” said Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-059-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "這消息報入漢中，早驚動了漢寧太守張魯。原來張魯乃沛國豐人。其祖張陵在西川鵠鳴山中造作道書以惑人，人皆敬之。陵死之後，其子張衡行之。百姓但有學道者，助米五斗，世號「米賊」。張衡死，張魯行之。魯在漢中自號為「師君」；其來學道者，皆號為「鬼卒」；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then he issued substantial rewards to the army and appointed Hsiahou Yüan to the command at Ch‘angan. The soldiers who had surrendered were distributed among the various troops. Hsiahou Yüan recommended Fêng I, and one, Chang Chi, of Kaoling, as his aids. So the army returned to the capital where it was welcomed by the Emperor in his State chariot. As a reward for his service Ts‘ao Ts‘ao was given the court privileges of omitting his distinctive name when he was received in audience and of proceeding toward the daïs without assuming the appearance of frantic haste. Further he might go to court armed and booted, as did the Han Minister, Hsiao Ho, of old. Whence his prestige and importance waxed mightily."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-059-line-049",
+        "order": 49,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "為首者號為「祭酒」；領眾多者號為「治頭大祭酒」。務以誠信為主，不許欺詐。如有病者，即設壇使病人居於靜室之中，自思己過，當面陳首，然後為之祈禱。主祈禱之事者，號為「監令祭酒」。祈禱之法，書病人姓名，說服罪之意，作文三通，名為「三官手書」。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The fame of these doings penetrated west into Hanchung, and one of the first to be moved to indignation was Chang Lu, Prefect of Hanning. This Chang Lu was a grandson of Chang Ling who retired to Mount Humin, in Ssuch‘uan, where he had composed a work on Taoism for the purpose of deluding the multitude. Yet all the people respected him, and when he died his son, Chang Hêng, carried on his work, and taught the same doctrines. Disciples had to pay a fee in rice, five measures. The people of his day called him the Rice Thief."
+          }
+        }
+      },
+      {
+        "character_count": 102,
+        "id": "chapter-059-line-050",
+        "order": 50,
+        "source_block_chunk": 3,
+        "source_block_order": 21,
+        "text": "一通焚於山頂以奏天，一通埋於地以奏地，一通沈於水底以申水官。如此之後，但病痊可，將米五斗為謝。又蓋義舍，舍內飯米柴火肉食齊備，許過往人量食多少，自取而食。多取者受天誅。境內有犯法者，必恕三次；不改者，然後施刑。所在並無官長，盡屬祭酒所管。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang Lu, his son, styled himself Master Superior and his disciples were called commonly devil soldiers. A headman was called Libationer and those who made many converts were called Chief Libationers. Perfect sincerity was the ruling tenet of the cult and no deceit was permitted. When any one fell ill an altar was set up and the invalid was taken into the Room of Silence where he could reflect upon his sins and confess openly. Then he was prayed for. The director of prayers was called Superintending Libationer. When praying for a person they wrote his name on a slip and his confession and made three copies thereof, called “The writing of the Three Officers.” One copy was burned on the mountain top as a means of informing Heaven; another was burned to inform Earth; and the third was sunk in water to tell the Controller of the Waters. If the sick person recovered he paid as fee five measures of rice."
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-059-line-051",
+        "order": 51,
+        "source_block_chunk": 4,
+        "source_block_order": 21,
+        "text": "如此雄據漢中之地已三十年。國家以為地遠不能征伐，就命魯為鎮南中郎將領漢寧太守，通進貢而已。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They had Public Houses of Charity wherein the poor found rice and flesh and means of cooking. Any wayfarer was allowed to take of these according to the measure of his appetite. Those who took in excess would invite punishment from on high. Offences were pardoned thrice; afterwards offenders were punished. They had no officials but all were subject to the control of the Libationers."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-059-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "當年聞操破西涼之眾，威震天下，乃聚眾商議曰：「西涼馬騰遭戮，馬超新敗，曹操必將侵我漢中。我欲自稱漢寧王，督兵拒曹操，諸軍以為何如？」閻圃曰：「漢川之民，戶口十萬餘眾，財富糧足，四面險固；今馬超新敗，西涼之民，從子午谷奔入漢中者，不下數萬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ This sort of cult had been spreading in Hanchung for some thirty years and had escaped repression so far because of the remoteness of the district. All the Government did was to give Chang a title and take means to secure from him a full quota of tribute. When the reports of Ts‘ao Ts‘ao’s success against the west, and his prestige and influence, reached the Hanchung people they met to consult, for they feared lest, T'êng and Ma being overcome, they would be next invaded. This Chang proposed to the assembly that he should assume the title of Prince of Hanning and superintend the defence."
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-059-line-053",
+        "order": 53,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "愚意益州劉璋昏弱，不如先取西川四十一州為本，然後稱王末遲。」張魯大喜，遂與弟張衛商議起兵。早有細作報入川中。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In reply one Yen Pu said, “The families of this province are reckoned by myriads and there are ample supplies of everything. This place is a natural stronghold. Now Ma Ch‘ao’s soldiers are newly defeated. The fugitives from the Tzuwu Valley are very numerous. My advice is that as Liu Chang of Ichou is weak we should take possession of Hsich‘uan and then you may style yourself Prince as soon as you like.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-059-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "卻說益州劉璋，字季玉，即劉焉之子，漢魯恭王之後，章帝元和中，徙封竟陵，支庶因居於此。後焉官至益州牧，興平元年患病疽而死。益州大守趙韙等，共保璋為益州牧。璋曾殺張魯母及弟，因此有讎。璋使龐羲為巴西太守，以拒張魯。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This speech greatly pleased Chang Lu, who then began to concert measures with his brother to raise an army. Stories of the movement reached Hsich‘uan. It is necessary here to say a few words about the west. The governor was Liu Chang, a son of Liu Yen, a descendant from a Prince of the Imperial House. The Prince had been moved out to Chingling some generations ago and the family had settled there. Later, Liu Yen became an official and when he died in due course, his son was recommended for the vacant Prefectship of Ichou. There was enmity between the Prefect and the Changs because some of the latter’s relatives had been put to death."
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-059-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "時龐羲探知張魯欲興兵取川，急報知劉璋。璋平生懦弱，聞得此信，心中大憂，急聚眾官商議。忽一人昂然而出曰：「主公放心，某雖不才，憑三寸不爛之舌，使張魯不敢正眼來覷西川。」正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he knew of the danger, Liu Chang despatched one P‘ang Hsi as Prefect of Pahsi to ward off Chang Lu. But Liu Chang had always been feeble, and when he received news from his lieutenant of Chang Lu’s movements his heart sank within him for fear and he hastily called in his advisers. At the council one haughtily said, “My Master, be not alarmed, I am no genius but I have a bit of a healthy tongue and with that I will make Chang Lu afraid even to look this way.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-059-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "只因蜀地謀臣進，致引荊州豪傑來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When plots did grow about the west, It suited Chingchou’s plans the best."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-059-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "未知此人是誰，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The speaker’s name and lineage will be told in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說當夜兩兵混戰，直到天明，各自收兵。馬超屯兵渭口，日夜分兵，前後攻擊。曹操在渭河內，將船筏鎖鍊作浮橋三條，接連南岸。曹仁引軍夾河立寨，將糧草車輛穿連，以為屏障。馬超聞之，教軍士各挾草一束，帶著火種，與韓遂引軍併力殺到寨前，堆積草把，放起烈火。操兵抵敵不住，棄寨而走。車乘、浮橋，盡被燒毀。西涼兵大勝，截住渭河。曹操立不起營寨，心中憂懼。荀攸曰：「可取渭河沙土築起土城，可以堅守。」操撥三萬軍擔土築城。馬超又差龐德、馬岱各引五百馬軍，往來衝突；更兼沙土不實，築起便倒，操無計可施。\n時當九月盡，天氣暴冷，彤雲密布，連日不開。曹操在寨中納悶。忽人報曰：「有一老人來見丞相，欲陳說方略。」操請入見。其人鶴骨松姿，形貌蒼古。間之乃京兆人也，隱居終南山，姓婁，字子伯，道號夢梅居士。操以客禮待之，子伯曰：「丞相欲跨渭安營久矣，今何不乘時築之？」操曰：「沙土之地，築壘不成。隱士有何良策賜教？」子伯曰：「丞相用兵如神，豈不知天時乎？連日陰雲布合，朔風一起，必大凍矣。風起之後，驅軍士運土潑水，比乃天明，土城已就。」\n操大悟，厚賞子伯。子伯不受而去。是夜北風大作。操盡驅兵士擔士潑水，為無盛水之具，作縑囊盛水澆之，隨築隨凍。比及天明，沙土凍緊，土城已築完。細作報知馬超。超領兵觀之，大驚，疑有神助。次日，集大軍鳴鼓而進。操自乘馬出營，止有許褚一人隨後。操揚鞭大呼曰：「孟德單騎至此，請馬超出來答話。」超乘馬挺槍而出。操曰：「汝欺我營寨不成，今一夜天使築就，汝何不早降！」\n馬超大怒，意欲突前擒之，見操背後一人圓睜怪眼，手提鋼刀，勒馬而立。超疑是許褚，乃揚鞭問曰：「聞汝軍中有虎侯安在哉？」許褚提刀大叫曰：「吾即譙郡許褚也！」目射神光，威風抖擻。超不敢動，乃勒馬回。操亦引許褚回寨。兩軍觀之，無不駭然。操謂諸將曰：「賊亦知仲康乃虎侯也？」自此軍中皆稱褚為虎侯。許褚曰：「某來日必擒馬超。」操曰：「馬超英勇，不可輕敵。」褚曰：「某誓與死戰！」即使人下戰書，說虎侯單搦馬超來日決戰。超接書大怒曰：「何敢如此相欺耶！」即批次日誓殺虎痴。\n次日兩軍出營，布成陣勢。超分龐德為左翼，馬岱為右翼，韓遂押中軍。超挺鎗縱馬，立於陣前，高叫：「虎痴快出！」曹操在門旗下回顧眾將曰：「馬超不減呂布之勇。」言未絕，許褚拍馬舞刀而出。馬超挺鎗接戰。鬥了一百餘合，勝負不分。馬匹困乏，各回軍中，換了馬匹，又出陣前。又鬥一百餘合，不分勝負。許褚性起，飛回陣中，卸了盔甲，渾身筋突，赤體提刀，翻身上馬，來與馬超決戰。兩軍大駭。兩個又鬥到三十餘合，褚奮威舉刀，便砍馬超。超閃過，一槍望褚心窩刺來。褚棄刀將槍挾住。兩個在馬上奪槍。許褚力大，一聲響，拗斷槍桿，各拿半節在馬上亂打。操恐褚有失，遂令夏侯淵、曹洪兩將齊出夾攻。龐德、馬岱見操將齊出，麾兩翼鐵騎，橫衝直撞，溷殺將來。操兵大亂。許褚臂中兩箭。諸將慌退入寨，馬超直殺到河邊，操兵折傷大半。操令堅閉休出。馬超回至渭口，謂韓遂曰：「吾見惡戰者莫如許褚，真虎痴也！」\n卻說曹操料馬超可以計破，乃密令徐晃、朱靈盡渡河西結營，前後夾攻。一日，操於城上見馬超引數百騎，直臨寨前，往來如飛。操觀良久，擲兜鍪於地曰：「馬兒不死，吾無葬地矣！」夏侯淵聽了，心中氣忿，厲聲曰：「吾寧死於此地，誓滅馬賊！」遂引本部千餘人，大開寨門，直趕去。操急止不住，恐其有失，慌自上馬前來接應。馬超見曹兵至，乃將前軍作後隊，後隊作先鋒，一字兒排開。夏侯淵到，馬超接住廝殺。超於亂軍中遙見曹操，就撇了夏侯淵，直取曹操。操大驚，撥馬而走。曹兵大亂。\n正追之際，忽報操有一軍，已在河西下了營寨。超大驚，無心追趕，急收軍回寨，與韓遂商議，言：「操兵乘虛已渡河西，吾軍前後受敵，如之奈何？」部將李堪曰：「不如割地請和，兩家且各罷兵。捱過冬天，到春暖別作計議。」韓遂曰：「李堪之言最善，可從之。」超猶豫未決。楊秋、侯選皆勸求和。於是韓遂遣楊秋為使，直往操寨下書，言割地請和之事。操曰：「汝且回寨。吾來日使人回報。」楊秋辭去。賈詡入見操曰：「丞相主意如何？」操曰：「公所見若何？」詡曰：「兵不厭詐。可偽許之，然後用反間計，令韓、馬相疑，則一鼓可破也。」操撫掌大喜曰：「天下高見，多有相合。文和之謀，正吾心中之事也。」於是遣人回書，言：「待我徐徐退兵，還汝河西之地。」一面教搭起浮橋，作退軍之意。馬超得書，謂韓遂曰：「曹操雖然許和，奸雄難測。倘不準備，反受其制。超與叔父輪流調兵，今日叔向操，超向徐晃；明日超向操，叔向徐晃；分頭隄備，以防其詐。」\n韓遂依計而行，早有人報知曹操。操顧賈詡曰：「吾事濟矣！」問：「來日是誰合向我這邊？」人報曰：「韓遂。」次日操引眾將出營，左右圍繞。操獨顯一騎於中央，韓遂部卒多有不識操者，出陣觀看。操高叫曰：「汝諸軍欲觀曹公耶？吾亦猶人也，非有四目兩口，但多智謀耳。」\n諸軍皆有懼色。操使人過陣謂韓遂曰：「丞相謹請韓將軍會話。」韓遂即出陣；見操並無甲仗，亦棄衣甲，輕服匹馬而出。二人馬頭相交，各按轡對語。操曰：「吾與將軍之父，同舉孝廉，吾嘗以叔事之。吾亦與公同登仕路，不覺有年矣。將軍今年妙齡幾何？」韓遂答曰：「四十歲矣。」操曰：「往日在京師皆青春年少，何期又中旬矣！安得天下清平共樂耶！」只把舊事細說，並不提起軍情，說罷大笑。相談有一個時辰方回馬而別，各自歸寨。\n早有人將此事報知馬超，超慌來問韓遂曰：「今日曹操陣前所言何事？」遂曰：「只訴京師舊事耳。」超曰：「安得不言軍務乎？」遂曰：「曹操不言，吾何獨言之？」超心甚疑，不言而退。\n卻說曹操回寨，謂賈詡曰：「公知吾陣前對話之意否？」詡曰：「此意雖妙，尚未足間二人。某有一策，令韓、馬自相讎殺。」操問其計。賈詡曰：「馬超乃一勇夫，不識機密。丞相親筆作一書，單與韓遂，中間朦朧字樣，於要害處，自行塗抹改易，然後封送與韓遂，故意使馬超知之。超必索書來看。若看見上面要緊之處，盡皆改抹。只猜是韓遂恐超知甚機密事，自行改抹，正合著單騎會話之疑；疑則必生亂。我更暗結韓遂部下諸將，使互相離間，超可圖矣。」操曰：「此計甚妙。」隨寫書一封，將緊要處盡皆改抹，然後實封，故意多遣從人送過寨去，下了書自回。\n果然有人報知馬超。超心愈疑，逕來韓遂處索書看。韓遂將書與超。超見上面有改抹字樣，問遂曰：「書上如何都改抹糊塗？」遂曰：「原書如此，不知何故。」超曰：「豈有以草稿送與人耶？必是叔父怕我知了詳細，先改抹了。」遂曰：「莫非曹操錯將草稿誤封來了。」超曰：「吾又不信。曹操是精細之人，豈有差錯？吾與叔父併力殺賊，奈何忽生異心？」遂曰：「汝若不信吾心，來日吾在陣前賺操說話，汝從陣內突出，一槍刺殺便了。」超曰：「若如此，方見叔父真心。」兩人約定。\n次日，韓遂引侯選、李堪、梁興、馬玩、楊秋五將出陣。馬超藏在門影裡。韓遂使人到操寨前，高叫：「韓將軍請丞相攀話。」操乃令曹洪引數十騎逕出陣前與韓遂相見。馬離數步，洪馬上欠身言曰：「夜來丞相致意將軍之言，切莫有誤。」言訖便回馬。超聽得大怒，挺鎗驟馬，便刺韓遂。五將攔住，勸解回寨。遂曰：「賢姪休疑，我無歹心。」馬超那裏肯信，恨怨而去。韓遂與五將商議曰：「這事如何解釋？」楊秋曰：「馬超倚仗勇武，常有欺凌主公之心，便勝得曹操，怎肯相讓？以某愚見，不如暗投曹公，他日不失封侯之位。」遂曰：「吾與馬騰向曾結為兄弟，安忍背之？」楊秋曰：「事已至此，不得不然。」遂曰：「誰可以通消息？」楊秋曰：「某願往。」遂乃寫一密書，遣楊秋來操寨，說投降之事。\n操大喜，許封韓遂為西涼侯楊秋為西涼太守，其餘皆有官爵。約定放火為號，共謀馬超。楊秋拜辭，回見韓遂，備言其事：「約定今夜放火，裡應外合。」遂大喜，就令軍士於中軍帳後堆積乾柴，五將各懸刀劍聽候。韓遂商議，欲設宴賺請馬超，就席圖之，猶豫末決。\n不想馬超早已探知備細，便帶親隨數人，仗劍先行，令龐德、馬岱為後應。超潛入韓遂帳中，只見五將與韓遂密語，只聽得楊秋口中說道：「事不宜遲，可速行之！」超大怒，揮劍直入，大喝曰：「群賊焉敢謀害我！」眾皆大驚。超一劍望韓遂面門剁去，遂慌以手迎之，左手早被砍落。五將揮刀齊出。超縱步出帳外，五將圍繞溷殺。超獨揮寶劍，力敵五將。劍光明處，鮮血濺飛：砍翻馬玩，剁倒梁興，三將各自逃生。超復入帳中來殺韓遂時，已被左右救去。帳後一把火起，各寨兵皆動。超連忙上馬。龐德、馬岱亦至，互相混戰。超領軍殺出時，操兵四至：前有許褚，後有徐晃，左有夏侯淵，右有曹洪，西涼之兵，自相併殺。超不見了龐德、馬岱，乃引百餘騎截於渭橋之上。\n天色微明，只見李堪引一軍從橋下過，超挺槍縱馬逐之。李堪拖槍而走。恰好于禁從馬超背後趕來，禁開弓射馬超，超聽得背後弦響，急閃過，卻射中前面李堪，落馬而死。超回馬來殺于禁。禁拍馬走了。超回橋上住紮，操兵前後大至，虎衛軍當先，亂箭夾射馬超。超以槍撥之，矢皆紛紛落地。超令從騎往來衝殺，爭奈曹兵圍裹堅厚，不能衝出。超於橋上大喝一聲，殺入河北，從騎皆被截斷。超獨在陣中衝突，卻被暗弩射倒坐下馬。馬超墮於地上，操軍逼合。\n正在危急，忽西北角上一彪軍殺來，乃龐德、馬岱也。二人救了馬超。將軍中戰馬，與馬超騎了，翻身殺條血路，望西北而走。曹操聞馬超走脫，傳令諸將：「無分曉夜，務要趕到馬兒。如得首級者賞千金，封萬戶侯。生獲者封大將軍。」眾將得令。各要爭功，迆邐追襲。馬超顧不得人馬困乏，只顧奔走。從騎漸漸皆散。步兵走不上者，多被擒去。止剩得三十餘騎，與龐德、馬岱望隴西、臨洮而去。\n曹操親自追至安定，知馬超去遠，方收兵回長安。眾將畢集。韓遂已無左手，做了殘疾之人，操教就於長安歇馬，授韓遂西涼侯之職。楊秋、侯選皆封列侯，令守渭口。下令班師回許都。涼州參軍楊阜，字義山，逕來長安見操。操問之。楊阜曰：「馬超有呂布之勇，深得羌人之心。今丞相若不乘勢剿絕，他日養成氣力，隴上諸郡，非復國家之有也。望丞相且休回兵。」操曰：「吾本欲留兵征之，奈中原多事，南方末定，不可久留。君當為孤保之。」\n阜領諾，又保薦韋康為涼州刺史，同領兵屯冀城，以防馬超。阜臨行，請於操曰：「長安必留重兵以為後援。」操曰：「吾已定下，汝但放心。」阜辭而去。眾將皆問曰：「初賊據潼關，渭北道缺，丞相不從河東擊馮翊，而反守潼關，遷延日久，而後北渡，立營固守，何也？」操曰：「初賊守潼關，若吾初到，便取河東，賊必以各寨分守諸渡口，則河西不可渡矣。吾故盛兵皆聚於潼關前，使賊盡南守，而河西不準備，故徐晃、朱靈得渡也。吾然後引兵北渡，連車樹柵為甬道，築冰城，欲賊知吾弱，以驕其心，使不準備。吾乃巧用反間，畜士卒之力，一旦擊破之。正所謂『疾雷不及掩耳』。兵之變化，固非一道也。」\n眾將又請問曰：「丞相每聞賊加兵添眾，則有喜色，何也？」操曰：「關中邊遠，若群賊各依險阻，征之非一二年不可平復；今皆來聚一處，其眾雖多，人心不一，易於離間，一舉可滅，吾故喜也。」眾將拜曰：「丞相神謀，眾不及也！」操曰：「亦賴汝眾文武之力。」遂重賞諸軍，留夏侯淵屯兵長安。所得降兵，分撥各部。夏侯淵保舉馮翊高陵人，姓張，名既，字德容，為京兆尹，與淵同守長安。操班師回都。獻帝排鑾駕出郭迎接；詔操贊拜不名，入朝不趨，劍履上殿，如漢相蕭何故事。自此威震中外。\n這消息報入漢中，早驚動了漢寧太守張魯。原來張魯乃沛國豐人。其祖張陵在西川鵠鳴山中造作道書以惑人，人皆敬之。陵死之後，其子張衡行之。百姓但有學道者，助米五斗，世號「米賊」。張衡死，張魯行之。魯在漢中自號為「師君」；其來學道者，皆號為「鬼卒」；為首者號為「祭酒」；領眾多者號為「治頭大祭酒」。務以誠信為主，不許欺詐。如有病者，即設壇使病人居於靜室之中，自思己過，當面陳首，然後為之祈禱。主祈禱之事者，號為「監令祭酒」。祈禱之法，書病人姓名，說服罪之意，作文三通，名為「三官手書」。一通焚於山頂以奏天，一通埋於地以奏地，一通沈於水底以申水官。如此之後，但病痊可，將米五斗為謝。又蓋義舍，舍內飯米柴火肉食齊備，許過往人量食多少，自取而食。多取者受天誅。境內有犯法者，必恕三次；不改者，然後施刑。所在並無官長，盡屬祭酒所管。如此雄據漢中之地已三十年。國家以為地遠不能征伐，就命魯為鎮南中郎將領漢寧太守，通進貢而已。\n當年聞操破西涼之眾，威震天下，乃聚眾商議曰：「西涼馬騰遭戮，馬超新敗，曹操必將侵我漢中。我欲自稱漢寧王，督兵拒曹操，諸軍以為何如？」閻圃曰：「漢川之民，戶口十萬餘眾，財富糧足，四面險固；今馬超新敗，西涼之民，從子午谷奔入漢中者，不下數萬。愚意益州劉璋昏弱，不如先取西川四十一州為本，然後稱王末遲。」張魯大喜，遂與弟張衛商議起兵。早有細作報入川中。\n卻說益州劉璋，字季玉，即劉焉之子，漢魯恭王之後，章帝元和中，徙封竟陵，支庶因居於此。後焉官至益州牧，興平元年患病疽而死。益州大守趙韙等，共保璋為益州牧。璋曾殺張魯母及弟，因此有讎。璋使龐羲為巴西太守，以拒張魯。\n時龐羲探知張魯欲興兵取川，急報知劉璋。璋平生懦弱，聞得此信，心中大憂，急聚眾官商議。忽一人昂然而出曰：「主公放心，某雖不才，憑三寸不爛之舌，使張魯不敢正眼來覷西川。」正是：\n只因蜀地謀臣進，致引荊州豪傑來。\n未知此人是誰，且看下文分解。",
+    "title": "第五十九回 許褚裸衣鬥馬超　　　曹操抹書間韓遂"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-059.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

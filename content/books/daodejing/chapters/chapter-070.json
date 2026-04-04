@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 47,
+    "id": "chapter-070",
+    "order": 70,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 47,
+        "id": "chapter-070-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "吾言甚易知，甚易行。天下莫能知，莫能行。言有宗，事有君。夫唯無知，是以不我知。知我者希，則我者貴。是以聖人被褐懷玉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "My words are very easy to know, and very easy to practise; but there is no one in the world who is able to know and able to practise them. There is an originating and all-comprehending (principle) in my words, and an authoritative law for the things (which I enforce). It is because they do not know these, that men do not know me. They who know me are few, and I am on that account (the more) to be prized. It is thus that the sage wears (a poor garb of) hair cloth, while he carries his (signet of) jade in his bosom."
+          }
+        }
+      }
+    ],
+    "summary": "吾言甚易知，甚易行",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "吾言甚易知，甚易行。天下莫能知，莫能行。言有宗，事有君。夫唯無知，是以不我知。知我者希，則我者貴。是以聖人被褐懷玉。",
+    "title": "第70章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-070.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

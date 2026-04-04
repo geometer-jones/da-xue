@@ -1,0 +1,814 @@
+{
+  "chapter": {
+    "character_count": 3838,
+    "id": "chapter-039",
+    "order": 39,
+    "reading_unit_count": 61,
+    "reading_units": [
+      {
+        "character_count": 91,
+        "id": "chapter-039-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說孫權督眾攻打夏口，黃祖兵敗將亡，情知守把不住，遂棄江夏，望荊州而走。甘寧料得黃祖必走荊州，乃於東門外伏兵等候。祖帶數十騎突出東門，正走之間，一聲喊起，甘寧攔住。祖於馬上謂寧曰：「我向日不曾輕待汝，今何相逼耶？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "From horseback, Huang Tsu said, “I treated you well in the past, why do you now press me so hard?”"
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-039-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "」寧叱曰：「吾昔在江夏，多立功績，汝乃以劫江賊待我，今日尚有何說？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kan Ning angrily shouted, “I did good service for you and yet you treated me as a pirate. Now what have you to say?”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-039-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "黃祖自知難免，撥馬而走。甘寧衝開士卒，直趕將來，只聽得後面喊聲起處，又有數騎趕來。寧視之，乃程普也。寧恐普來爭功，慌忙拈弓搭箭，背射黃祖，祖中箭翻身落馬，寧梟其首級，回馬與程普合兵一處，回見孫權，獻黃祖首級。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There was nothing to be said, and Huang turned his horse to escape. But Kan Ning thrust aside his men and himself rode in pursuit. Then he heard a shouting in his rear and saw Ch'êng P‘u coming up. Fearing lest this other pursuer should overpass him and score the success he desired for himself, Kan fitted an arrow to his bow and shot at the fugitive. Huang was hit and fell from his steed. Then Kan Ning cut off his head. After this, joining himself to Ch'êng P‘u, the two returned bearing the ghastly trophy to their lord. Sun Ch‘üan ordered them to place it in a box to be taken back home and offered as a sacrifice to the manes of his father."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-039-line-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "權命以木匣盛貯，待回江東祭獻於亡父靈前。重賞三軍，陞甘寧為都尉。商議欲分兵守江夏。張昭曰：「孤城不可守，不如且回江東。劉表知我破黄祖，必來報讎。我以逸待勞，必敗劉表。表敗而後乘勢攻之，荊襄可得也。」權從其言，遂棄江夏，班師回江東。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Having rewarded the soldiers for the victory and promoted Kan Ning, Sun Ch'üan next discussed the advisability of sending a force to hold Chianghsia. But his adviser, Chang Chao, said it was useless to try to hold one city alone. It would be better to return home and prepare for the expedition that Liu Piao would surely send in revenge. They would defeat him, push home the attack and capture his district. Sun Ch'üan saw the advice was wise so he left Chianghsia and led his army home to the east."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-039-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "蘇飛在檻車內，密使人告甘寧求救。寧曰：「飛即不言，吾豈忘之？」大軍既至吳會，權命將蘇飛梟首，與黃祖首級一同祭獻。甘寧乃入見權，頓首哭告曰：「某向日若不得蘇飛，則骨填溝壑矣，安能效命將軍麾下哉？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now Su Fei was still confined, but he got some one to go to Kan Ning to beg him to plead for mercy. Kan Ning had expected this although the prisoner had said no word and he was averse from leaving his friend and one-time protector to perish. “I should not have forgotten him even if he had said nothing,” said Kan."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-039-line-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "今飛罪當誅，某念其昔日之恩情，願納還官爵，以贖飛罪。」權曰：「彼既有恩於君，吾為君赦之；但彼若逃去，奈何？」寧曰：「飛得免誅戮，感恩無地，豈肯走乎？若飛去，寧願將首級獻於階下。」權乃赦蘇飛，止將黃祖首級祭獻。祭畢設宴，大會文武慶功。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the army had reached Wuhui the victor gave orders for Su Fei’s execution that his head might be offered with ​ that of Huang Tsu. Then Kan Ning went in to his lord and said, weeping, “Long ago, if it had not been for Su Fei, my bones would have been rotting in some ditch and how then could I have rendered service under your banner? Now he deserves death, but I cannot forget his kindness to me and I pray you take away the honours you have bestowed on me as a set-off to his crime.” Sun Ch'üan replied, “Since he once showed kindness to you, I will pardon him for your sake. But what can be done if he run away?”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-039-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "正飲酒間，忽見座上一人大哭而起，拔劍在手，直取甘寧。寧忙舉坐椅以迎之。權驚視其人，乃凌統也。因甘寧在江夏時，射死他父親凌操，今日相見，故欲報讎。權連忙勸住，謂統曰：「興霸射死卿父，彼時各為其主，不容不盡力。今既為一家人，豈可復理舊讎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If he be pardoned and escape death he will be immeasureably grateful and will not go away. If he should, then will I offer my life in exchange.” So the condemned man escaped death and only one head was offered in sacrifice. After the sacrificial ceremonies a great banquet was spread in honour of the victories. As it was proceeding suddenly one of the guests burst into loud lamentations, drew his sword and rushed upon Kan Ning. Kan hastily rose and defended himself with the chair on which he had been sitting. The host looked at the assailant and saw it was Ts‘ao T‘ung, whose father had fallen under an arrow shot by Kan Ning. The son was now burning to avenge his father’s death."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-039-line-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "萬事皆看吾面。」凌統叩頭大哭曰：「不共戴天之讎，豈容不報？」權與眾官再三勸之，凌統只是怒目而視甘寧。權即日命甘寧領兵五千，戰船一百隻，往夏口鎮守，以避凌統。寧拜謝，領兵自往夏口去了。權又加封凌統為承烈都尉，統只得含恨而止。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hastily leaving his place, Sun Ch'üan checked the angry officer, saying, “If he slew your noble father, then remember each was fighting for his lord for whom he was bound to exert himself to the utmost. But now that you are under one flag and are of one house you may not recall an ancient injury. You must regard my interests continually.” Ts‘ao Ling beat his head upon the floor and cried, saying, “But how can I not avenge this? It is a blood feud and we may not both live under the same sky.” The guests interfered, beseeching the man to forgo his revenge, and at last he ceased from his murderous intention. But he sat glaring wrathfully at his enemy."
+          }
+        }
+      },
+      {
+        "character_count": 49,
+        "id": "chapter-039-line-009",
+        "order": 9,
+        "source_block_chunk": 3,
+        "source_block_order": 4,
+        "text": "東吳自此廣造戰船，分兵守把江岸；又命孫靜引一枝軍守吳會；孫權自領大軍，屯柴桑；周瑜日於鄱陽湖教練水軍，以備攻戰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So soon after Kan Ning was despatched with half a legion and a squadron of ships to guard Hsiak‘ou, where he was beyond the reach of his enemy’s wrath. Then Sun Ch‘üan promoted Ts‘ao Ling and so he was somewhat appeased."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-039-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "話分兩頭。卻說玄德差人打探江東消息，回報：「東吳已攻殺黃祖，現今屯兵柴桑。」玄德便請孔明計議。正話間，忽劉表差人來請玄德赴荊州議事。孔明曰：「此必因江東破了黃祖，故請主公商議報讎之策也。某當與主公同往，相機而行，自有良策。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "From about this time Wu enlarged her fleets, and men were sent to various points to guard the river banks. The brother of the chieftain was placed in command at Wuhui and Sun Ch'üan himself, with a large army, camped at Ch‘aisang. Chou Yü, the Commander-in-Chief of the forces, was on the Pʻoyang Lake training the naval forces, and general preparations were made for defence and attack."
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-039-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "」玄德從之，留雲長守新野，令張飛引五百人馬跟隨往荊州來。玄德在馬上謂孔明曰：「今見景升，當若何對答？」孔明曰：「當先謝襄陽之事。他若令主公去征討江東，切不可應允。但說容歸新野，整頓軍馬。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Here our story digresses to follow the adventures of Liu Pei. By his spies he had tidings of the doings in the lower portion of the great river, and knew of the death of Huang Tsu. So ​ he consulted K‘ung-ming as to his action. While they were discussing matters, there arrived a messenger from Liu Piao, begging Liu Pei to go to see him. K‘ung-ming advised him to go and said, “This call is to consult you about avenging Huang Tsu. You must take me with you and let me act as the circumstances direct. There are advantages to be got.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-039-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "玄德依言，來到荊州，館驛安下，留張飛屯兵城外。玄德與孔明入城見劉表。禮畢，玄德請罪於階下。表曰：「吾已悉知賢弟被害之事。當時即欲斬蔡瑁之首，以獻賢弟。因眾人告免，故姑恕之。弟幸勿見罪。」玄德曰：「非干蔡將軍之事，想皆下人所為耳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Leaving his second brother in command at Hsinyeh, Liu Pei set forth, taking Chang Fei with half a company as his escort. On the way he discussed the course of action with his adviser, who said, “First you must thank him for having saved you from the evil that was planned against you at Hsiangyang. But you must not undertake any expedition against Wu; say you must return to Hsinyeh to put your army in good order.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-039-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "」表曰：「今江夏失守，黃祖遇害，故請賢弟共議報復之策。」玄德曰：「黃祖性暴，不能用人，故致此禍。今若興兵南征，倘曹操北來，又將奈何？」表曰：「吾今年老多病，不能理事，賢弟可來助我。我死之後，弟便為荊州之主也。」玄德曰：「兄何出此言？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "With this admonition Liu Pei came to Chingchou and was lodged in the guest-house. Chang Fei and the escort camped without the walls. In due course Liu Pei and K‘ung-ming were received, and after the customary salutations, the guest apologised for his conduct. The host said, “Worthy brother, I know you were the victim of a vile plot and I should have put the prime mover to death for it had there not been so universal a prayer for mercy. However, I remitted that penalty. I hope you do not consider that I was wrong.' ”"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-039-line-014",
+        "order": 14,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "量備安敢當此重任？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Mao had little to do with it; I think it was due to his subordinates,” replied Pei."
+          }
+        }
+      },
+      {
+        "character_count": 67,
+        "id": "chapter-039-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "孔明以目視玄德。玄德曰：「容徐思良策。」遂辭出，回至館驛。孔明曰：「景升欲以荊州付主公，奈何卻之？」玄德曰：「景升待我，恩禮交至，安忍乘其危而奪之？」孔明嘆曰：「真仁慈之主也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Piao said, “Chianghsia is lost, as you know; Huang is dead. So I have asked you to come that we might take measures of vengeance.” “Huang was harsh and cruel and never used his men in the proper way; that was the real cause of his fall. But have you reflected what Ts‘ao Ts‘ao may do on the north if we attack the south?”"
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-039-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "正商論間，忽報公子劉琦來見。玄德接入。琦泣拜曰：「繼母不能相容，性命只在旦夕，望叔父憐而救之。」玄德曰：「此賢姪家事耳，奈何問我？」孔明微笑，玄德求計於孔明。孔明曰：「此家事，亮不敢與聞。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am getting old and weak and I am unable to manage affairs properly; will you aid me, brother? After I am gone you will have this district. “Why do you say this, my brother? Think you that I am equal to such a task?” Here K‘ung-ming glanced at Liu Pei who continued, “But give me a little time to think it over.' ”"
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-039-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "」少時，玄德送琦出，附耳低言曰：「來日我使孔明回拜賢姪，可如此如此，彼定有妙計相告。」琦謝而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And at this point he took his leave. When they had reached their lodging, K‘ung-ming said, “Why did you decline his offer of the district.” “He has always been most kind and courteous. I could not take advantage of his weakness. ”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-039-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "次日，玄德只推腹痛，乃浼孔明代往回拜劉琦。孔明允諾，來至公子宅前下馬，入見公子。公子邀入後堂。茶罷，琦曰：「琦不見容於繼母，幸先生一言相救。」孔明曰：「亮客寄於此，豈敢與人骨肉之事？倘有漏泄，為害不淺。」說罷，起身告辭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“A perfectly kindly and gracious lord,” sighed K‘ung-ming. Soon after the son of Liu Piao was announced and Liu Pei received him and led him in. The young man began to weep saying, “My mother cannot bear the sight of me. My very life is in danger. Can you not save me, Uncle?” ​ “My worthy nephew, this is a family affair. You should not come to me.” K‘ung-ming, who was present, smiled. Liu Pei turned to him to know what he should do. “This is a family affair; I cannot touch it!” replied K‘ungming."
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-039-line-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "琦曰：「既承光顧，安敢慢待？」乃挽留孔明入密至共飲。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The young man soon left and when Yüan-tê was saying good-bye he whispered, “I will get K‘ung-ming to return your call and you can talk with him. He will advise you.”"
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-039-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "飲酒之間，琦又曰：「繼母不見容，乞先生一言救我。」孔明曰：「此非亮所敢謀也。」言訖，又欲辭去。琦曰：「先生不言則已，何便欲去？」孔明乃復坐。琦曰：「琦有一古書，請先生一觀。」乃引孔明登一小樓。孔明曰：「書在何處？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Chi thanked him and left. Next day when the call was to be returned Yüan-tê pretended to be suffering from colic and made that an excuse to send K‘ung-ming to return the call. The adviser went, and when he had reached the Palace, dismounted and was led in, Liu Chi conducted him into one of the inner rooms and when the tea had been brought, said, “I am an object of my stepmother’s dislike; can you advise me what to do?”"
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-039-line-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "」琦泣拜曰：「繼母不見容，琦命在旦夕，先生忍無一言相救乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“As a mere stranger guest I can hardly have anything to do with your own 'bone and flesh' matters. If I did, and the story got abroad, much harm might ensue.”"
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-039-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "孔明作色而起，便欲下樓，只見樓梯已撤去。琦告曰：「琦欲求教良策，先生恐有泄漏，不肯出言；今日上不至天，下不至地，出君之口，入琦之耳，可以賜教矣。」孔明曰：「疏不間親，亮何能為公子謀？」琦曰：「先生終不肯教琦乎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "With this he rose to take leave. But Chi was unwilling to say farewell. He said, “Your glory has turned in my direction, you cannot mean to go away so pointlessly.” He led his visitor into a private chamber and had refreshments brought. While they ate and drank Chi repeated his first request: what was he to do since his stepmother disliked him? “It is not the sort of thing I can advise in,” replied K‘ungming, as he rose for the second time to take leave."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-039-line-023",
+        "order": 23,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "琦命固不保矣，請即死於先生之前。」乃掣劍欲自刎。孔明止之曰：「已有良計。」琦拜曰：「願即賜教。」孔明曰：「公子豈不聞申生、重耳之事乎？申生在內而亡，重耳在外而安。今黃祖新亡，江夏乏人守禦，公子何不上言，乞屯兵守江夏？則可以避禍矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Master, if you will not reply, that is well. But why incontinently leave me?” ”So the adviser once more seated himself and Liu Chi said, “There is an ancient writing I should like to show you.' And he led his visitor to a small upper room. “Where is the writing?” said K‘ung-ming. Instead of answering Liu Chi wept, saying, “My stepmother cannot bear me; my life is in danger. O Master, will you not say a word to save me?”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-039-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "琦再拜謝教，乃命人取梯送孔明下樓。孔明辭別，回見玄德，具言其事，玄德大喜。次日，劉琦上言，欲守江夏。劉表猶豫未決，請玄德共議。玄德曰：「江夏重地，固非他人可守，正須公子自往。東南之事，兄父子當之；西北之事，備願當之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming flushed and rose to go away. But he found the ladder by which they had mounted had been removed. Again Chi besought some advice, “Master, you fear lest it may get abroad! Is that why you are silent? Here we are between earth and sky and what you say will come out of your mouth directly into my ear. No other soul can hear. Now can you tell me what to do?”"
+          }
+        }
+      },
+      {
+        "character_count": 58,
+        "id": "chapter-039-line-025",
+        "order": 25,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "」表曰：「近聞曹操於鄴郡作玄武池以練水軍，必有南征之意，不可不防。」玄德曰：「備已知之，兄勿憂慮。」遂拜辭回新野。劉表令劉琦引兵三千往江夏鎮守。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Sow not dissension among relatives,” said K‘ung-ming. “Is it possible for me to make any plan for you?” “Then is my life indeed in danger,” said the young man. “I will die at your feet.” ​ So saying, he pulled out a dagger and threatened to make an end of himself."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-039-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "卻說曹操罷三公之職，自以丞相兼之，以毛玠為東曹掾，崔琰為西曹掾，司馬懿為文學掾。懿字仲達，河內溫人也。潁川太守司馬雋之孫，京兆尹司馬防之子，主簿司馬朗之弟也。自是文官大備，乃聚武將商議南征。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming checked him. “There is a way,” said he. “I pray you tell me.” “You have heard of Shên Shêng and Ch‘ung Erh, have you not? Shên Shêng stayed at home and died; his brother went away and lived in peace. Now that Huang Tsu is gone and Chianghsia is weakly defended, why do you not ask to be sent there to guard it? Then you would be out of the way of harm.”"
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-039-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "夏侯惇進曰：「近聞劉備在新野，每日教演士卒，必為後患，可早圖之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chi thanked him. Then he called to his people to restore the ladder and he escorted K‘ung-ming down to the level ground."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-039-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "操即命夏侯惇為都督，于禁、李典、夏侯蘭、韓浩為副將，領兵十萬，直抵博望城，以窺新野。荀彧諫曰：「劉備英雄，今更兼諸葛亮為軍師，不可輕敵。」惇曰：「劉備鼠輩耳，吾必擒之。」徐庶曰：「將軍勿輕視劉玄德。今玄德得諸葛亮為輔，如虎生翼矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming returned to Yüan-tê and related the whole interview. The young man soon acted on the advice given him, but his father would not at first consent to let him go. To settle his doubts he sent for Yüan-tê, who said, “Chianghsia is important and your son is the most suitable man to defend it. You must let him go. The south-east will be defended by your son; the north-west I will look after.” “I hear that Ts‘ao Ts‘ao has been training a naval force and I am afraid he has intentions against us. We must be on our guard.”"
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-039-line-029",
+        "order": 29,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "」操曰：「諸葛亮何人也？」庶曰：「亮字孔明，道號臥龍先生。有經天緯地之才，出鬼入神之計，真當世奇士，非可小覷。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I know all about it; you need feel no anxiety,” said Yüan-tê. He took leave of his relative and went home while Liu Chi received command of three companies and went to guard Chianghsia."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-039-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "操曰：「比公若何？」庶曰：「庶安敢比亮？庶如螢火之光，亮乃皓月之明也。」夏侯惇曰：「元直之言謬矣。吾看諸葛亮如草芥耳，何足懼哉！吾若不一陣生擒劉備，活捉諸葛，願將首級獻與丞相。」操曰：「汝早報捷書，以慰吾心。」惇奮然辭曹操，引軍登程。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At this time Ts‘ao Ts‘ao suppressed the three high officers of State and exercised their functions himself. He appointed as his general secretaries or Ts‘ao-ch‘uan, Mao Chieh and Ts‘ui Yen, and as literary secretary, Ssŭma I, grandson of Ssŭma Sui and son of Ssŭma Fang. Thus he was strong in literary talent. He then called his military officers to a council to discuss an expedition against the south. Hsiahou Tun opened the debate saying, “Liu Fei is drilling his army at Hsinyeh, and is a source of danger. He should be destroyed.”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-039-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "卻說玄德自得孔明，以師禮待之。關、張二人不悅曰：「孔明年幼，有甚才學？兄長待之太過！又未見他真實效驗！」玄德曰：「吾得孔明，猶魚之得水也。兩弟勿復多言。」關、張見說，不言而退。一日，有人送犛牛尾至。玄德取尾親自結帽。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Accordingly he was appointed Commander-in-Chief and four assistants were given him. With these he led ten legions to Powangch'êng, whence he could observe Hsinyeh. “Hsün Yü was opposed to this and said, “Liu Pei is a famous warrior and he has lately taken to himself as his director of training Chuko Liang. Caution is needed.” Tun replied, “Liu Pei is a mean rat. I will certainly take him prisoner.' ” “Do not despise him,” said Hsü Shu. “Remember he has Chuko Liang to help him and so he is like a tiger who has grown wings.” Ts‘ao Ts‘ao said, “Who is this Chuko Liang?”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-039-line-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "孔明入見，正色曰：「明公無復有遠志，但事此而已耶？」玄德投帽於地而謝曰：「吾聊假此以忘憂耳。」孔明曰：「明公自度比曹操若何？」玄德曰：「不如也。」孔明曰：「明公之眾，不過數千人，萬一曹兵至，何以迎之？」玄德曰：「吾正愁此事，未得良策。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“He is also called K‘ung-ming, and has taken a Taoist cognomen of 'Sleeping Dragon.' He is a perfect genius, god ​ and devil combined, the greatest marvel of the age. Do not despise him.” “How does he stand as compared with you?” asked Ts‘ao. “There is no comparison. I am a mere glow-worm spark; he is the glory of the full moon,” replied Hsü Shu. “You are mistaken,” replied Tun. “This Chuko Liang of yours is of no account. Who would fear him? If I do not take him and his master prisoners in the first battle, then here is my head, a free gift to our lord, the minister.”"
+          }
+        }
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-039-line-033",
+        "order": 33,
+        "source_block_chunk": 3,
+        "source_block_order": 16,
+        "text": "」孔明曰：「可速招募民兵，亮自教之，可以待敵。」玄德遂招新野之民，得三千人。孔明朝夕教演陣法。忽報曹操差夏侯惇引兵十萬，殺奔新野來了。張飛聞知，謂雲長曰：「可著孔明前去迎敵便了。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Hasten to comfort me with news of victory,” said Ts‘ao Ts‘ao. Hsiahou Tun hastened to depart. The advent of K‘ung-ming and the extravagant deference shown him did not please Liu Pei’s sworn brothers who grumbled, saying, “He is very young although he is clever and learned. Our brother really treats him too well. We have not seen any evidence of his wonderful skill.” Liu Pei replied, “You do not know his worth. To me it seems as if the fish had got into the water again. Pray do not discuss this matter further, my brothers.”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-039-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "正說之間，玄德召二人入，謂曰：「夏侯惇引兵到來，如何迎敵？」張飛曰：「哥哥何不使『水』去？」玄德曰：「智賴孔明，勇須二弟，何可推諉？」關、張出，玄德請孔明商議。孔明曰：「但恐關、張二人，不肯聽吾號令。主公若欲亮行兵，乞假劍印。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They withdrew, silent but dissatisfied. One day a man presented Liu Pei with a yak’s tail and he at once put it in his cap as an ornament. K‘ung-ming came in and noticed it at once. “Then you have renounced all ambition, my lord; you are just going to attend to this sort of thing,” he quietly remarked. Yüan-tê snatched off his cap and flung it away. “I was only amusing myself with the thing,” replied he."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-039-line-035",
+        "order": 35,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "」玄德便以劍印付孔明，孔明遂聚集眾將聽令。張飛謂雲長曰：「且聽令去．看他如何調度。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“How do you think you stand compared with Ts‘ao Ts‘ao?” asked K‘ung-ming. “Inferior.” “Yes; your army is less than one legion and the chances are ten thousand to one that he will attack. How can we meet him?”"
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-039-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "孔明令曰：「博望之左有山，名曰豫山；右有林，名曰安林：可以埋伏軍馬。雲長可引一千軍往豫山之前，先且埋伏，等彼軍至，放過休敵。其輜重糧草，必在後面。但看南面火起，可縱兵出擊，就焚其糧草。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am greatly distressed about it; but I see no way.” “You might recruit and I will train them. Then we might be able to oppose him.” So recruiting began and three companies were enlisted. K‘ung-ming set about drilling them diligently. Soon they heard that Hsiahou Tun was leading an army of ten legions against them. When he heard it Chang Fei said to his brother, Kuan Yu, “We will get this K‘ung-ming to go and fight them.”"
+          }
+        }
+      },
+      {
+        "character_count": 102,
+        "id": "chapter-039-line-037",
+        "order": 37,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "翼德可引一千軍去安林背後山谷中埋伏，只看南面火起，便可出，向博望城舊屯糧草處縱火燒之。關平、劉封可引兵五百軍，預備引火之物，於博望坡後兩邊等候，至初更兵到，便可放火矣。」又命於樊城取回趙雲，令為前部，不要贏，只要輸。「主公自引一軍為後援。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just at that moment they were summoned to their brother, who asked their advice. “Why not send the 'Water' brother?” said Chang Fei. “For method I rely on K‘ung-ming; but for action I put my faith in you, my brothers. Are you going to fail me?” ​ They went out and K‘ung-ming was called. “I fear your brothers will not obey me,” said K‘ung-ming. “Wherefore, if I am to direct the campaign, you must give me a seal of office and a sword of authority.” So Yüan-tê gave him both. Armed with these ensigns of power he assembled the officers to receive their orders."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-039-line-038",
+        "order": 38,
+        "source_block_chunk": 3,
+        "source_block_order": 18,
+        "text": "各須依計而行，勿使有失。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“We will go just to see what he will do,” said one brother to the other."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-039-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "雲長曰：「我等皆出迎敵，未審軍師卻作何事？」孔明曰：「我只坐守此城。」張飛大笑曰：「我們都去廝殺，你卻在家裏坐地，好自在！」孔明曰：「劍印在此，違令者斬！」玄德曰：「豈不聞『運籌帷幄之中，決勝千里之外』？二弟不可違令。」張飛冷笑而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the assembly K‘ung-ming spoke saying, “On the left of Powang are hills called Yüshan. On the right is a forest, Anlin. There we will prepare an ambush. Kuan Yü will go to the former place with one company. He will remain there quiescent till the enemy has passed, but when he sees a flame in the south, that will be the signal to attack. He will first burn their baggage train. Chang Fei will go to a valley behind the forest. When he sees the signal he is to go to the old stores depôt at Powang and burn that. Kuan P‘ing and Liu Fêng will take half a company each, prepare combustibles and be ready with them beyond Powang Slope. The enemy will arrive about dusk and then they can start the blaze.”"
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-039-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "雲長曰：「我們且看他的計應也不應，那時卻來問他未遲。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Chao Yün, now recalled from Fanch'êng, is to lead the attack, but he is to lose and not win. And Liu Pei is to command the reserve. See that each one obeys these orders and let there be no mistakes.' ”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-039-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "二人去了。眾將皆未知孔明韜略，今雖聽令，卻都疑惑不定。孔明謂玄德曰：「主公今日可便引兵就博望山下屯住。來日黃昏，敵軍必到，主公便棄營而走。但見火起，即回軍掩殺。亮與糜竺、糜芳引五百軍守縣，命孫乾、簡雍準備慶喜筵席，安排功勞簿伺候。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then said Kuan Yü, “All of us are to go out to meet the enemy, but I have not yet heard what you are going to do.” “I am going to guard the city.” Chang Fei burst into a laugh, “We are to go out to bloody battle and you are to stay quietly at home quite comfortable.” “Here is the sword and here the seal, replied the strategist, displaying the emblems of authority. “Disobedience of orders will be death.” Liu Pei said, “Do you not understand that the plans elaborated in a little chamber decide success over thousands of li? Do not disobey the command, my brothers.” Chang Fei went out smiling cynically."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-039-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "」派撥已畢，玄德亦疑惑不定。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü remarked, “Let us await the result. If he fail then we can look to it.”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-039-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "卻說夏侯惇與于禁等引兵至博望，分一半精兵作前隊，其餘盡護糧車而行。時當秋月，商飆徐起。人馬趲行之間，望見前面塵頭忽起。惇便將人馬擺開，問鄉導官曰：「此間是何處？」答曰：「前面便是博望坡，後面是羅川口。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The brothers left. None of the officers understood anything of the general line of strategy and, though they obeyed orders, they were not without doubts and misgivings. K‘ung-ming said to Liu Pei, “You may now lead your men to the hills and camp till the enemy shall arrive to-morrow evening. Then you are to abandon the camp and move away retreating till the signal is seen. Then you will advance and attack with all force. The two Mi and I will guard the city.”"
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-039-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "惇令于禁、李典押住陣腳，親自出馬陣前。遙望軍馬來到，惇忽然大笑。眾問：「將軍為何而笑？」惇曰：「吾笑徐元直在丞相面前，誇諸葛亮為天人。今觀其用兵，乃以此等軍馬為前部，與吾對敵，正如驅犬羊與虎豹鬥耳！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the city he prepared banquets to celebrate the victory and also prepared the books to record exceptional services. ​ Liu Pei noted all these things with not a little trouble in his heart. Ts‘ao Ts‘ao’s army in due course reached Powang. Then half of them, the veterans, were told off for the first attack and the remainder were to guard the baggage train and supplies. Thus they marched in two divisions. The season was autumn and a chilly wind began to blow."
+          }
+        }
+      },
+      {
+        "character_count": 45,
+        "id": "chapter-039-line-045",
+        "order": 45,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "吾於丞相前誇口，要活捉劉備、諸葛亮，今必應吾言矣。」遂自縱馬向前。趙雲出馬。惇罵曰：「汝等隨劉備，如孤魂隨鬼耳！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They pressed forward. Presently they saw a cloud of dust ahead of them and the general ordered the ranks to be reformed. He questioned the guides as to the name of the place. They told him the place in front was Powang Slope and behind them was the Lok‘ou Stream. Then Hsiahou Tun rode to the front to reconnoitre, leaving Yü Chin and Li Tien to finish setting out the battle array."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-039-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "雲大怒，縱馬來戰。兩馬相交，不數合，雲詐敗而走。夏侯惇從後追趕。雲約走十餘里，回馬又戰，不數合又走。韓浩拍馬向前諫曰：「趙雲誘敵，恐有埋伏。」惇曰：「敵軍如此，雖十面埋伏，吾何懼哉！」遂不聽浩言，直趕至博望坡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Presently he began to laugh and, when they asked the cause of this merriment, he replied, “Hsü Shu praised Chuko Liang to the very skies as something more than human. But now that I see how he has placed his men and the stuff he has put into his vanguard, it seems to me that he is sending dogs or sheep against tigers and leopards. I bragged a little when I said I would take him prisoner, but I am going to make good my boast.” Then he rode forward at full speed. Chao Yün rode to meet him and Tun opened a volley of abuse. “You lot, followers of Liu Pei, are only like wraiths following devils.”"
+          }
+        }
+      },
+      {
+        "character_count": 56,
+        "id": "chapter-039-line-047",
+        "order": 47,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "一聲砲響，玄德自引軍衝將過來，接應交戰。夏侯惇笑謂韓浩曰：「此即埋伏之兵也！吾今晚不到新野，誓不罷兵！」乃催軍前進。玄德、趙雲退後便走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This angered Chao Yün and a combat began. In a little time Chao Yün turned and retreated as if he was worsted. Tun pressed after him and kept up the chase for some ten li. Then Chao suddenly turned again and offered fight; but only to retreat after a few passes. Seeing these tactics Han Hao, one of Tun’s captains, rode up to his chief and urged him to use caution saying he feared he was being inveigled into an ambush."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-039-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "時天色己晚，濃雲密布，又無月色；晝風既起，夜風愈大。夏侯惇只顧催軍趕殺。于禁、李典趕到窄狹處，兩邊都是蘆葦。典謂禁曰：「欺敵者必敗。南道路狹，山川相逼，樹木叢雜，倘彼用火攻，奈何？」禁曰：「君言是也。吾當往前為都督言之。君可止住後軍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“With such antagonists as these I should not fear a score of ambushes,” replied Tun, pressing forward eagerly. ” Just as he reached the slope he heard the roar of a bomb and out came Liu Pei to attack. “Here is your ambush,’ said Hsiahou Tun, laughing. “I will get to Hsinyeh this evening before I have done.” He urged his men forward and his opponents retired in measure as he advanced. As evening came on, thick clouds overcast the whole sky. The wind increased but the leader still urged his men after the retreating foe. The two captains came to a narrow part of the road with reeds and rushes thick all round them."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-039-line-049",
+        "order": 49,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "」李典便勒回馬，大叫：「後軍慢行！」人馬走發，那裏攔當得住。于禁驟馬大叫：「前軍都督且住！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Those who despise the enemy are beaten,” said Li Tien to Yü Chin. “Away south there the roads are narrow, and streams and mountains make the country difficult. The forests are dense and if the enemy used fire we should be lost.”"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-039-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "夏侯惇正走之間，見于禁從後軍奔來，便問何故。禁曰：「南道路狹，山川相逼，樹木叢雜，可防火攻。」夏侯惇猛省，即回馬令軍馬勿進。言未已，只聽背後喊聲震起，早望見一派火光燒著；隨後兩邊蘆葦亦著。一霎時，四方八面，盡皆是火。又值風大，火勢愈猛。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “You are right,” replied Chin. “I will get on and warn the Commander. Perhaps he will stop. You can halt those who come up.” Yü Chin rode forward shouting at the top of his voice. Hsiahou Tun saw him coming up and asked what was the matter. Chin told him of the state of the country and reminded him of the danger of fire. His ferocity had then somewhat abated and he turned his steed toward his main body. Then there arose a shout behind him. A rushing noise came from in the reeds and great tongues of flame shot up here and there. These spread and soon the fire was in “the four quarters and the eight sides,” and fanned by a strong wind."
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-039-line-051",
+        "order": 51,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "曹家人馬，自相踐踏，死者不計其數。趙雲回軍趕殺，夏侯惇冒煙突火而走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Ts‘ao troops were thrown into confusion and trampled each other down. Many perished. Chao Yün turned on them again. The Commander-in-Chief dashed through the fire and smoke to escape."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-039-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "且說李典見勢頭不好，急奔回博望城，時火光中一軍攔住。當先大將，乃關雲長也。李典縱馬混戰，奪路而走。于禁見糧草車輛，都被火燒，便投小路奔逃去了。夏侯蘭、韓浩來救糧草，正遇張飛。戰不數合，張飛一槍刺夏侯蘭於馬下。韓浩奪路走脫。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now Li Tien saw that things were going very badly so he turned to get back to Powangch'êng but fell upon a body of men in the way, led by Kuan Yü. He dashed into their midst and managed to get clear. Yü Chin saw the supplies were being destroyed and there was nothing left to guard, so he escaped along a bye-path. Two other captains, who came to try to save the baggage train, met Chang Fei and one of them was slain forthwith, but the other escaped. Next morning the countryside was strewn with corpses and drenched with blood."
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-039-line-053",
+        "order": 53,
+        "source_block_chunk": 2,
+        "source_block_order": 26,
+        "text": "直殺到天明，卻纔收軍。殺得屍橫遍野，血流成河。後人有詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The armies met on Powang Slope And K‘ung-ming fought with fire; A perfect strategist, he bent All men to his desire. But poor Ts‘ao Ts‘ao, his enemy, He trembled in his shoes Before the man, who‘d never fought But yet could armies use."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-039-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "博望相持用火攻，指揮如意笑談中。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsiahou Tung drew up the battered remains of his army and led them back to the capital."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-039-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "直須驚破曹公膽，初出茅廬第一功！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming ordered his armies to collect, and as Kuan and Chang rode homeward they confessed to each other that the new strategist was a fine fellow. Before long they met him seated in a light carriage and they dismounted and bowed before him. The remaining bodies came in. The spoil was distributed among the soldiers and all returned to Hsinyeh, where the populace lined the roads to bid them welcome."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-039-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "夏侯惇收拾殘軍，自回許昌。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“We owe our lives to the Prince,” they cried to Liu Pei."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-039-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "卻說孔明收軍，關、張二人相謂曰：「孔明真英傑也！」行不數里，見糜竺、糜芳引軍簇擁著一輛小軍，車中端坐一人，乃孔明也。關、張下馬拜伏於車前。須臾，玄德、趙雲、劉封、關平等皆至，收聚眾軍，把所獲糧草輜重，分賞將士，班師回新野。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Said K‘ung-ming, “Hsiahou Tun has been driven off, but Ts‘ao Ts‘ao will come with a stronger force.”"
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-039-line-058",
+        "order": 58,
+        "source_block_chunk": 2,
+        "source_block_order": 30,
+        "text": "新野百姓望塵遮道而拜，曰：「吾屬生全，皆使君得賢人之力也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“And what shall we do?” replied Liu Pei."
+          }
+        }
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-039-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "孔明回至縣中，謂玄德曰：「夏侯惇雖敗去，曹操必自引大軍來。」玄德曰：「似此如之奈何？」孔明曰：「亮有一計，可敵曹軍。」正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My plan is quite ready,” said K‘ung-ming."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-039-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "破敵未堪息戰馬，避兵又必賴良謀。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Always battles, nowhere rest for horse or man; Must rely on ruses, dodging where one can."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-039-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "未知其計若何，且看下回分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The plan prepared against Ts‘ao Ts‘ao will be unfolded in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說孫權督眾攻打夏口，黃祖兵敗將亡，情知守把不住，遂棄江夏，望荊州而走。甘寧料得黃祖必走荊州，乃於東門外伏兵等候。祖帶數十騎突出東門，正走之間，一聲喊起，甘寧攔住。祖於馬上謂寧曰：「我向日不曾輕待汝，今何相逼耶？」寧叱曰：「吾昔在江夏，多立功績，汝乃以劫江賊待我，今日尚有何說？」\n黃祖自知難免，撥馬而走。甘寧衝開士卒，直趕將來，只聽得後面喊聲起處，又有數騎趕來。寧視之，乃程普也。寧恐普來爭功，慌忙拈弓搭箭，背射黃祖，祖中箭翻身落馬，寧梟其首級，回馬與程普合兵一處，回見孫權，獻黃祖首級。權命以木匣盛貯，待回江東祭獻於亡父靈前。重賞三軍，陞甘寧為都尉。商議欲分兵守江夏。張昭曰：「孤城不可守，不如且回江東。劉表知我破黄祖，必來報讎。我以逸待勞，必敗劉表。表敗而後乘勢攻之，荊襄可得也。」權從其言，遂棄江夏，班師回江東。\n蘇飛在檻車內，密使人告甘寧求救。寧曰：「飛即不言，吾豈忘之？」大軍既至吳會，權命將蘇飛梟首，與黃祖首級一同祭獻。甘寧乃入見權，頓首哭告曰：「某向日若不得蘇飛，則骨填溝壑矣，安能效命將軍麾下哉？今飛罪當誅，某念其昔日之恩情，願納還官爵，以贖飛罪。」權曰：「彼既有恩於君，吾為君赦之；但彼若逃去，奈何？」寧曰：「飛得免誅戮，感恩無地，豈肯走乎？若飛去，寧願將首級獻於階下。」權乃赦蘇飛，止將黃祖首級祭獻。祭畢設宴，大會文武慶功。\n正飲酒間，忽見座上一人大哭而起，拔劍在手，直取甘寧。寧忙舉坐椅以迎之。權驚視其人，乃凌統也。因甘寧在江夏時，射死他父親凌操，今日相見，故欲報讎。權連忙勸住，謂統曰：「興霸射死卿父，彼時各為其主，不容不盡力。今既為一家人，豈可復理舊讎？萬事皆看吾面。」凌統叩頭大哭曰：「不共戴天之讎，豈容不報？」權與眾官再三勸之，凌統只是怒目而視甘寧。權即日命甘寧領兵五千，戰船一百隻，往夏口鎮守，以避凌統。寧拜謝，領兵自往夏口去了。權又加封凌統為承烈都尉，統只得含恨而止。東吳自此廣造戰船，分兵守把江岸；又命孫靜引一枝軍守吳會；孫權自領大軍，屯柴桑；周瑜日於鄱陽湖教練水軍，以備攻戰。\n話分兩頭。卻說玄德差人打探江東消息，回報：「東吳已攻殺黃祖，現今屯兵柴桑。」玄德便請孔明計議。正話間，忽劉表差人來請玄德赴荊州議事。孔明曰：「此必因江東破了黃祖，故請主公商議報讎之策也。某當與主公同往，相機而行，自有良策。」玄德從之，留雲長守新野，令張飛引五百人馬跟隨往荊州來。玄德在馬上謂孔明曰：「今見景升，當若何對答？」孔明曰：「當先謝襄陽之事。他若令主公去征討江東，切不可應允。但說容歸新野，整頓軍馬。」\n玄德依言，來到荊州，館驛安下，留張飛屯兵城外。玄德與孔明入城見劉表。禮畢，玄德請罪於階下。表曰：「吾已悉知賢弟被害之事。當時即欲斬蔡瑁之首，以獻賢弟。因眾人告免，故姑恕之。弟幸勿見罪。」玄德曰：「非干蔡將軍之事，想皆下人所為耳。」表曰：「今江夏失守，黃祖遇害，故請賢弟共議報復之策。」玄德曰：「黃祖性暴，不能用人，故致此禍。今若興兵南征，倘曹操北來，又將奈何？」表曰：「吾今年老多病，不能理事，賢弟可來助我。我死之後，弟便為荊州之主也。」玄德曰：「兄何出此言？量備安敢當此重任？」\n孔明以目視玄德。玄德曰：「容徐思良策。」遂辭出，回至館驛。孔明曰：「景升欲以荊州付主公，奈何卻之？」玄德曰：「景升待我，恩禮交至，安忍乘其危而奪之？」孔明嘆曰：「真仁慈之主也！」\n正商論間，忽報公子劉琦來見。玄德接入。琦泣拜曰：「繼母不能相容，性命只在旦夕，望叔父憐而救之。」玄德曰：「此賢姪家事耳，奈何問我？」孔明微笑，玄德求計於孔明。孔明曰：「此家事，亮不敢與聞。」少時，玄德送琦出，附耳低言曰：「來日我使孔明回拜賢姪，可如此如此，彼定有妙計相告。」琦謝而去。\n次日，玄德只推腹痛，乃浼孔明代往回拜劉琦。孔明允諾，來至公子宅前下馬，入見公子。公子邀入後堂。茶罷，琦曰：「琦不見容於繼母，幸先生一言相救。」孔明曰：「亮客寄於此，豈敢與人骨肉之事？倘有漏泄，為害不淺。」說罷，起身告辭。琦曰：「既承光顧，安敢慢待？」乃挽留孔明入密至共飲。\n飲酒之間，琦又曰：「繼母不見容，乞先生一言救我。」孔明曰：「此非亮所敢謀也。」言訖，又欲辭去。琦曰：「先生不言則已，何便欲去？」孔明乃復坐。琦曰：「琦有一古書，請先生一觀。」乃引孔明登一小樓。孔明曰：「書在何處？」琦泣拜曰：「繼母不見容，琦命在旦夕，先生忍無一言相救乎？」\n孔明作色而起，便欲下樓，只見樓梯已撤去。琦告曰：「琦欲求教良策，先生恐有泄漏，不肯出言；今日上不至天，下不至地，出君之口，入琦之耳，可以賜教矣。」孔明曰：「疏不間親，亮何能為公子謀？」琦曰：「先生終不肯教琦乎？琦命固不保矣，請即死於先生之前。」乃掣劍欲自刎。孔明止之曰：「已有良計。」琦拜曰：「願即賜教。」孔明曰：「公子豈不聞申生、重耳之事乎？申生在內而亡，重耳在外而安。今黃祖新亡，江夏乏人守禦，公子何不上言，乞屯兵守江夏？則可以避禍矣。」\n琦再拜謝教，乃命人取梯送孔明下樓。孔明辭別，回見玄德，具言其事，玄德大喜。次日，劉琦上言，欲守江夏。劉表猶豫未決，請玄德共議。玄德曰：「江夏重地，固非他人可守，正須公子自往。東南之事，兄父子當之；西北之事，備願當之。」表曰：「近聞曹操於鄴郡作玄武池以練水軍，必有南征之意，不可不防。」玄德曰：「備已知之，兄勿憂慮。」遂拜辭回新野。劉表令劉琦引兵三千往江夏鎮守。\n卻說曹操罷三公之職，自以丞相兼之，以毛玠為東曹掾，崔琰為西曹掾，司馬懿為文學掾。懿字仲達，河內溫人也。潁川太守司馬雋之孫，京兆尹司馬防之子，主簿司馬朗之弟也。自是文官大備，乃聚武將商議南征。夏侯惇進曰：「近聞劉備在新野，每日教演士卒，必為後患，可早圖之。」\n操即命夏侯惇為都督，于禁、李典、夏侯蘭、韓浩為副將，領兵十萬，直抵博望城，以窺新野。荀彧諫曰：「劉備英雄，今更兼諸葛亮為軍師，不可輕敵。」惇曰：「劉備鼠輩耳，吾必擒之。」徐庶曰：「將軍勿輕視劉玄德。今玄德得諸葛亮為輔，如虎生翼矣。」操曰：「諸葛亮何人也？」庶曰：「亮字孔明，道號臥龍先生。有經天緯地之才，出鬼入神之計，真當世奇士，非可小覷。」\n操曰：「比公若何？」庶曰：「庶安敢比亮？庶如螢火之光，亮乃皓月之明也。」夏侯惇曰：「元直之言謬矣。吾看諸葛亮如草芥耳，何足懼哉！吾若不一陣生擒劉備，活捉諸葛，願將首級獻與丞相。」操曰：「汝早報捷書，以慰吾心。」惇奮然辭曹操，引軍登程。\n卻說玄德自得孔明，以師禮待之。關、張二人不悅曰：「孔明年幼，有甚才學？兄長待之太過！又未見他真實效驗！」玄德曰：「吾得孔明，猶魚之得水也。兩弟勿復多言。」關、張見說，不言而退。一日，有人送犛牛尾至。玄德取尾親自結帽。孔明入見，正色曰：「明公無復有遠志，但事此而已耶？」玄德投帽於地而謝曰：「吾聊假此以忘憂耳。」孔明曰：「明公自度比曹操若何？」玄德曰：「不如也。」孔明曰：「明公之眾，不過數千人，萬一曹兵至，何以迎之？」玄德曰：「吾正愁此事，未得良策。」孔明曰：「可速招募民兵，亮自教之，可以待敵。」玄德遂招新野之民，得三千人。孔明朝夕教演陣法。忽報曹操差夏侯惇引兵十萬，殺奔新野來了。張飛聞知，謂雲長曰：「可著孔明前去迎敵便了。」\n正說之間，玄德召二人入，謂曰：「夏侯惇引兵到來，如何迎敵？」張飛曰：「哥哥何不使『水』去？」玄德曰：「智賴孔明，勇須二弟，何可推諉？」關、張出，玄德請孔明商議。孔明曰：「但恐關、張二人，不肯聽吾號令。主公若欲亮行兵，乞假劍印。」玄德便以劍印付孔明，孔明遂聚集眾將聽令。張飛謂雲長曰：「且聽令去．看他如何調度。」\n孔明令曰：「博望之左有山，名曰豫山；右有林，名曰安林：可以埋伏軍馬。雲長可引一千軍往豫山之前，先且埋伏，等彼軍至，放過休敵。其輜重糧草，必在後面。但看南面火起，可縱兵出擊，就焚其糧草。翼德可引一千軍去安林背後山谷中埋伏，只看南面火起，便可出，向博望城舊屯糧草處縱火燒之。關平、劉封可引兵五百軍，預備引火之物，於博望坡後兩邊等候，至初更兵到，便可放火矣。」又命於樊城取回趙雲，令為前部，不要贏，只要輸。「主公自引一軍為後援。各須依計而行，勿使有失。」\n雲長曰：「我等皆出迎敵，未審軍師卻作何事？」孔明曰：「我只坐守此城。」張飛大笑曰：「我們都去廝殺，你卻在家裏坐地，好自在！」孔明曰：「劍印在此，違令者斬！」玄德曰：「豈不聞『運籌帷幄之中，決勝千里之外』？二弟不可違令。」張飛冷笑而去。雲長曰：「我們且看他的計應也不應，那時卻來問他未遲。」\n二人去了。眾將皆未知孔明韜略，今雖聽令，卻都疑惑不定。孔明謂玄德曰：「主公今日可便引兵就博望山下屯住。來日黃昏，敵軍必到，主公便棄營而走。但見火起，即回軍掩殺。亮與糜竺、糜芳引五百軍守縣，命孫乾、簡雍準備慶喜筵席，安排功勞簿伺候。」派撥已畢，玄德亦疑惑不定。\n卻說夏侯惇與于禁等引兵至博望，分一半精兵作前隊，其餘盡護糧車而行。時當秋月，商飆徐起。人馬趲行之間，望見前面塵頭忽起。惇便將人馬擺開，問鄉導官曰：「此間是何處？」答曰：「前面便是博望坡，後面是羅川口。」\n惇令于禁、李典押住陣腳，親自出馬陣前。遙望軍馬來到，惇忽然大笑。眾問：「將軍為何而笑？」惇曰：「吾笑徐元直在丞相面前，誇諸葛亮為天人。今觀其用兵，乃以此等軍馬為前部，與吾對敵，正如驅犬羊與虎豹鬥耳！吾於丞相前誇口，要活捉劉備、諸葛亮，今必應吾言矣。」遂自縱馬向前。趙雲出馬。惇罵曰：「汝等隨劉備，如孤魂隨鬼耳！」\n雲大怒，縱馬來戰。兩馬相交，不數合，雲詐敗而走。夏侯惇從後追趕。雲約走十餘里，回馬又戰，不數合又走。韓浩拍馬向前諫曰：「趙雲誘敵，恐有埋伏。」惇曰：「敵軍如此，雖十面埋伏，吾何懼哉！」遂不聽浩言，直趕至博望坡。一聲砲響，玄德自引軍衝將過來，接應交戰。夏侯惇笑謂韓浩曰：「此即埋伏之兵也！吾今晚不到新野，誓不罷兵！」乃催軍前進。玄德、趙雲退後便走。\n時天色己晚，濃雲密布，又無月色；晝風既起，夜風愈大。夏侯惇只顧催軍趕殺。于禁、李典趕到窄狹處，兩邊都是蘆葦。典謂禁曰：「欺敵者必敗。南道路狹，山川相逼，樹木叢雜，倘彼用火攻，奈何？」禁曰：「君言是也。吾當往前為都督言之。君可止住後軍。」李典便勒回馬，大叫：「後軍慢行！」人馬走發，那裏攔當得住。于禁驟馬大叫：「前軍都督且住！」\n夏侯惇正走之間，見于禁從後軍奔來，便問何故。禁曰：「南道路狹，山川相逼，樹木叢雜，可防火攻。」夏侯惇猛省，即回馬令軍馬勿進。言未已，只聽背後喊聲震起，早望見一派火光燒著；隨後兩邊蘆葦亦著。一霎時，四方八面，盡皆是火。又值風大，火勢愈猛。曹家人馬，自相踐踏，死者不計其數。趙雲回軍趕殺，夏侯惇冒煙突火而走。\n且說李典見勢頭不好，急奔回博望城，時火光中一軍攔住。當先大將，乃關雲長也。李典縱馬混戰，奪路而走。于禁見糧草車輛，都被火燒，便投小路奔逃去了。夏侯蘭、韓浩來救糧草，正遇張飛。戰不數合，張飛一槍刺夏侯蘭於馬下。韓浩奪路走脫。直殺到天明，卻纔收軍。殺得屍橫遍野，血流成河。後人有詩曰：\n博望相持用火攻，指揮如意笑談中。\n直須驚破曹公膽，初出茅廬第一功！\n夏侯惇收拾殘軍，自回許昌。\n卻說孔明收軍，關、張二人相謂曰：「孔明真英傑也！」行不數里，見糜竺、糜芳引軍簇擁著一輛小軍，車中端坐一人，乃孔明也。關、張下馬拜伏於車前。須臾，玄德、趙雲、劉封、關平等皆至，收聚眾軍，把所獲糧草輜重，分賞將士，班師回新野。新野百姓望塵遮道而拜，曰：「吾屬生全，皆使君得賢人之力也！」\n孔明回至縣中，謂玄德曰：「夏侯惇雖敗去，曹操必自引大軍來。」玄德曰：「似此如之奈何？」孔明曰：「亮有一計，可敵曹軍。」正是：\n破敵未堪息戰馬，避兵又必賴良謀。\n未知其計若何，且看下回分解。",
+    "title": "第三十九回 荊州城公子三求計　　博望坡軍師初用兵"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-039.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

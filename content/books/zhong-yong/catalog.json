@@ -1,0 +1,342 @@
+{
+  "cache_dir": "books/zhong-yong",
+  "catalog_path": "books/zhong-yong/catalog.json",
+  "chapter_count": 33,
+  "chapters": [
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-001.json",
+      "character_count": 109,
+      "id": "chapter-001",
+      "order": 1,
+      "reading_unit_count": 5,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-002.json",
+      "character_count": 36,
+      "id": "chapter-002",
+      "order": 2,
+      "reading_unit_count": 2,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-003.json",
+      "character_count": 13,
+      "id": "chapter-003",
+      "order": 3,
+      "reading_unit_count": 1,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-004.json",
+      "character_count": 50,
+      "id": "chapter-004",
+      "order": 4,
+      "reading_unit_count": 2,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-005.json",
+      "character_count": 8,
+      "id": "chapter-005",
+      "order": 5,
+      "reading_unit_count": 1,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-006.json",
+      "character_count": 36,
+      "id": "chapter-006",
+      "order": 6,
+      "reading_unit_count": 1,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-007.json",
+      "character_count": 39,
+      "id": "chapter-007",
+      "order": 7,
+      "reading_unit_count": 1,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-008.json",
+      "character_count": 24,
+      "id": "chapter-008",
+      "order": 8,
+      "reading_unit_count": 1,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-009.json",
+      "character_count": 25,
+      "id": "chapter-009",
+      "order": 9,
+      "reading_unit_count": 1,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-010.json",
+      "character_count": 92,
+      "id": "chapter-010",
+      "order": 10,
+      "reading_unit_count": 5,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-011.json",
+      "character_count": 50,
+      "id": "chapter-011",
+      "order": 11,
+      "reading_unit_count": 3,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-012.json",
+      "character_count": 114,
+      "id": "chapter-012",
+      "order": 12,
+      "reading_unit_count": 4,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-013.json",
+      "character_count": 153,
+      "id": "chapter-013",
+      "order": 13,
+      "reading_unit_count": 4,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-014.json",
+      "character_count": 111,
+      "id": "chapter-014",
+      "order": 14,
+      "reading_unit_count": 5,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-015.json",
+      "character_count": 52,
+      "id": "chapter-015",
+      "order": 15,
+      "reading_unit_count": 3,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-016.json",
+      "character_count": 78,
+      "id": "chapter-016",
+      "order": 16,
+      "reading_unit_count": 5,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-017.json",
+      "character_count": 103,
+      "id": "chapter-017",
+      "order": 17,
+      "reading_unit_count": 5,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-018.json",
+      "character_count": 162,
+      "id": "chapter-018",
+      "order": 18,
+      "reading_unit_count": 3,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-019.json",
+      "character_count": 156,
+      "id": "chapter-019",
+      "order": 19,
+      "reading_unit_count": 6,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-020.json",
+      "character_count": 779,
+      "id": "chapter-020",
+      "order": 20,
+      "reading_unit_count": 22,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-021.json",
+      "character_count": 20,
+      "id": "chapter-021",
+      "order": 21,
+      "reading_unit_count": 1,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-022.json",
+      "character_count": 61,
+      "id": "chapter-022",
+      "order": 22,
+      "reading_unit_count": 1,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-023.json",
+      "character_count": 34,
+      "id": "chapter-023",
+      "order": 23,
+      "reading_unit_count": 1,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-024.json",
+      "character_count": 52,
+      "id": "chapter-024",
+      "order": 24,
+      "reading_unit_count": 1,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-025.json",
+      "character_count": 66,
+      "id": "chapter-025",
+      "order": 25,
+      "reading_unit_count": 3,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-026.json",
+      "character_count": 252,
+      "id": "chapter-026",
+      "order": 26,
+      "reading_unit_count": 11,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-027.json",
+      "character_count": 121,
+      "id": "chapter-027",
+      "order": 27,
+      "reading_unit_count": 7,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-028.json",
+      "character_count": 112,
+      "id": "chapter-028",
+      "order": 28,
+      "reading_unit_count": 5,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-029.json",
+      "character_count": 177,
+      "id": "chapter-029",
+      "order": 29,
+      "reading_unit_count": 6,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-030.json",
+      "character_count": 76,
+      "id": "chapter-030",
+      "order": 30,
+      "reading_unit_count": 3,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-031.json",
+      "character_count": 136,
+      "id": "chapter-031",
+      "order": 31,
+      "reading_unit_count": 4,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-032.json",
+      "character_count": 59,
+      "id": "chapter-032",
+      "order": 32,
+      "reading_unit_count": 3,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    },
+    {
+      "chapter_path": "books/zhong-yong/chapters/chapter-033.json",
+      "character_count": 212,
+      "id": "chapter-033",
+      "order": 33,
+      "reading_unit_count": 6,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": ""
+    }
+  ],
+  "commentary_chapter_count": 0,
+  "commentary_chapters": [],
+  "provider": "ctext-html",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en",
+  "title": "四書章句集注 : 中庸章句"
+}

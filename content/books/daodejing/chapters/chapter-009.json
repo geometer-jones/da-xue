@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 39,
+    "id": "chapter-009",
+    "order": 9,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 39,
+        "id": "chapter-009-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "持 而 盈 之 ， 不如 其 已 ；揣 而 梲 之 ， 不可 長 保 。金玉滿堂 ， 莫 之 能 守 ；富貴 而 驕 ， 自 遺 其 咎 。功 遂 身 退 ， 天 之 道 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is better to leave a vessel unfilled, than to attempt to carry it when it is full. If you keep feeling a point that has been sharpened, the point cannot long preserve its sharpness. When gold and jade fill the hall, their possessor cannot keep them safe. When wealth and honours lead to arrogancy, this brings its evil on itself. When the work is done, and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven."
+          }
+        }
+      }
+    ],
+    "summary": "持而盈之，不如其已；揣而銳之，不可長保",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "持而盈之，不如其已；揣而銳之，不可長保。金玉滿堂，莫之能守；富貴而驕，自遺其咎。功遂身退天之道。",
+    "title": "第9章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-009.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

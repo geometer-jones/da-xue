@@ -1,0 +1,1279 @@
+{
+  "chapter": {
+    "character_count": 905,
+    "id": "chapter-015",
+    "order": 15,
+    "reading_unit_count": 61,
+    "reading_units": [
+      {
+        "character_count": 33,
+        "id": "chapter-015-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "衛靈公問陳於孔子。孔子對曰：「俎豆之事，則嘗聞之矣；軍旅之事，未之學也。」明日遂行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The duke Ling of Wei asked Confucius about tactics. Confucius replied, \"I have heard all about sacrificial vessels, but I have not learned military matters.\" On this, he took his departure the next day."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-015-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "在陳絕糧，從者病，莫能興。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he was in Chen, their provisions were exhausted, and his followers became so ill that they were unable to rise."
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-015-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "子路慍見曰：「君子亦有窮乎？」子曰：「君子固窮，小人窮斯濫矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi Lu, with evident dissatisfaction, said, \"Has the superior man likewise to endure in this way?\" The Master said, \"The superior man may indeed have to endure want, but the mean man, when he is in want, gives way to unbridled license.\""
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-015-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "子曰：「賜也，女以予為多學而識之者與？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said,"
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-015-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "對曰：「然，非與？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "\"Ci,"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-015-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "曰：「非也，予一以貫之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "you think, I suppose, that I am one who learns many things and keeps them in memory?\" Zi Gong replied, \"Yes - but perhaps it is not so?\" \"No,\" was the answer; \"I seek a unity all pervading.\""
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-015-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "子曰：「由！知德者鮮矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"You, those who know virtue are few.\""
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-015-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "子曰：「無為而治者，其舜也與？夫何為哉，恭己正南面而已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"May not Shun be instanced as having governed efficiently without exertion? What did he do? He did nothing but gravely and reverently occupy his royal seat.\""
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "子張問行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi Zhang asked how a man should conduct himself, so as to be everywhere appreciated."
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-015-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "子曰：「言忠信，行篤敬，雖蠻貊之邦行矣；言不忠信，行不篤敬，雖州里行乎哉？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Let his words be sincere and truthful and his actions honorable and careful - such conduct may be practiced among the rude tribes of the South or the North."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-015-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "立，則見其參於前也；在輿，則見其倚於衡也。夫然後行。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If his words be not sincere and truthful, and his actions not honorable and careful, will he, with such conduct, be appreciated, even in his neighborhood?"
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-015-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "子張書諸紳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he is standing, let him see those two things, as it were, fronting him. When he is in a carriage, let him see them attached to the yoke. Then may he subsequently carry them into practice.\"Zi Zhang wrote these counsels on the end of his sash."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-015-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "子曰：「直哉史魚！邦有道，如矢；邦無道，如矢。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Truly straightforward was the historiographer Yu."
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-015-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "君子哉蘧伯玉！邦有道，則仕；邦無道，則可卷而懷之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When good government prevailed in his state, he was like an arrow. When bad government prevailed, he was like an arrow. A superior man indeed is Qu Bo Yu! When good government prevails in his state, he is to be found in office. When bad government prevails, he can roll his principles up, and keep them in his breast.\""
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-015-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "子曰：「可與言而不與之言，失人；不可與言而與之言，失言。知者不失人，亦不失言。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"When a man may be spoken with, not to speak to him is to err in reference to the man. When a man may not be spoken with, to speak to him is to err in reference to our words. The wise err neither in regard to their man nor to their words.\""
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-015-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "子曰：「志士仁人，無求生以害仁，有殺身以成仁。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"The determined scholar and the man of virtue will not seek to live at the expense of injuring their virtue. They will even sacrifice their lives to preserve their virtue complete.\""
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-015-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "子貢問為仁。子曰：「工欲善其事，必先利其器。居是邦也，事其大夫之賢者，友其士之仁者。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi Gong asked about the practice of virtue. The Master said, \"The mechanic, who wishes to do his work well, must first sharpen his tools. When you are living in any state, take service with the most worthy among its great officers, and make friends of the most virtuous among its scholars.\""
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-015-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "顏淵問為邦。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yan Yuan asked how the government of a country should be administered."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-015-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "子曰：「行夏之時，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Follow the seasons of Xia."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "乘殷之輅，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ride in the state carriage of Yin."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "服周之冕，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wear the ceremonial cap of Zhou."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "樂則韶舞。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let the music be the Shao with its pantomimes."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-015-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "放鄭聲，遠佞人。鄭聲淫，佞人殆。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Banish the songs of Zheng, and keep far from specious talkers. The songs of Zheng are licentious; specious talkers are dangerous.\""
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-015-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "子曰：「人無遠慮，必有近憂。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"If a man take no thought about what is distant, he will find sorrow near at hand.\""
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-015-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "子曰：「已矣乎！吾未見好德如好色者也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"It is all over! I have not seen one who loves virtue as he loves beauty.\""
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-015-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "子曰：「臧文仲其竊位者與？知柳下惠之賢，而不與立也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Was not Zang Wen like one who had stolen his situation? He knew the virtue and the talents of Hui of Liu Xia, and yet did not procure that he should stand with him in court.\""
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-015-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "子曰：「躬自厚而薄責於人，則遠怨矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"He who requires much from himself and little from others, will keep himself from being the object of resentment.\""
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-015-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "子曰：「不曰『如之何如之何』者，吾末如之何也已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"When a man is not in the habit of saying, 'What shall I think of this? What shall I think of this?' I can indeed do nothing with him!\""
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-015-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "子曰：「群居終日，言不及義，好行小慧，難矣哉！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"When a number of people are together, for a whole day, without their conversation turning on righteousness, and when they are fond of carrying out the suggestions of a small shrewdness; theirs is indeed a hard case.\""
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-015-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "子曰：「君子義以為質，禮以行之，孫以出之，信以成之。君子哉！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"The superior man in everything considers righteousness to be essential. He performs it according to the rules of propriety. He brings it forth in humility. He completes it with sincerity. This is indeed a superior man.\""
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-015-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "子曰：「君子病無能焉，不病人之不己知也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"The superior man is distressed by his want of ability. He is not distressed by men's not knowing him.\""
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-015-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "子曰：「君子疾沒世而名不稱焉。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"The superior man dislikes the thought of his name not being mentioned after his death.\""
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-015-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "子曰：「君子求諸己，小人求諸人。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"What the superior man seeks, is in himself. What the mean man seeks, is in others.\""
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-015-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "子曰：「君子矜而不爭，群而不黨。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"The superior man is dignified, but does not wrangle. He is sociable, but not a partisan.\""
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-015-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "子曰：「君子不以言舉人，不以人廢言。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"The superior man does not promote a man simply on account of his words, nor does he put aside good words because of the man.\""
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-015-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi Gong asked, saying, \"Is there one word which may serve as a rule of practice for all one's life?\" The Master said, \"Is not RECIPROCITY such a word? What you do not want done to yourself, do not do to others.\""
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-015-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "子曰：「吾之於人也，誰毀誰譽？如有所譽者，其有所試矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"In my dealings with men, whose evil do I blame, whose goodness do I praise, beyond what is proper?"
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-015-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "斯民也，三代之所以直道而行也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If I do sometimes exceed in praise, there must be ground for it in my examination of the individual. This people supplied the ground why the three dynasties pursued the path of straightforwardness.\""
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-015-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "子曰：「吾猶及史之闕文也，有馬者借人乘之。今亡矣夫！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Even in my early days, a historiographer would leave a blank in his text, and he who had a horse would lend him to another to ride. Now, alas! there are no such things.\""
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-015-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "子曰：「巧言亂德，小不忍則亂大謀。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Specious words confound virtue. Want of forbearance in small matters confounds great plans.\""
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-015-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "子曰：「眾惡之，必察焉；眾好之，必察焉。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"When the multitude hate a man, it is necessary to examine into the case. When the multitude like a man, it is necessary to examine into the case.\""
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-015-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "子曰：「人能弘道，非道弘人。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"A man can enlarge the principles which he follows; those principles do not enlarge the man.\""
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-015-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "子曰：「過而不改，是謂過矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"To have faults and not to reform them - this, indeed, should be pronounced having faults.\""
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-015-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "子曰：「吾嘗終日不食，終夜不寢，以思，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"I have been the whole day without eating, and the whole night without sleeping; occupied with thinking."
+          }
+        }
+      },
+      {
+        "character_count": 2,
+        "id": "chapter-015-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 45,
+        "text": "無益，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It was of no use."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 46,
+        "text": "不如學也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The better plan is to learn.\""
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-015-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 47,
+        "text": "子曰：「君子謀道不謀食。耕也，餒在其中矣；學也，祿在其中矣。君子憂道不憂貧。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"The object of the superior man is truth. Food is not his object. There is plowing - even in that there is sometimes want. So with learning - emolument may be found in it. The superior man is anxious lest he should not get truth; he is not anxious lest poverty should come upon him.\""
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-015-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 48,
+        "text": "子曰：「知及之，仁不能守之；雖得之，必失之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"When a man's knowledge is sufficient to attain, and his virtue is not sufficient to enable him to hold, whatever he may have gained, he will lose again."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-015-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 49,
+        "text": "知及之，仁能守之。不莊以贋之，則民不敬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When his knowledge is sufficient to attain, and he has virtue enough to hold fast, if he cannot govern with dignity, the people will not respect him."
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-015-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 50,
+        "text": "知及之，仁能守之，莊以贋之。動之不以禮，未善也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When his knowledge is sufficient to attain, and he has virtue enough to hold fast; when he governs also with dignity, yet if he try to move the people contrary to the rules of propriety - full excellence is not reached.\""
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-015-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 51,
+        "text": "子曰：「君子不可小知，而可大受也；小人不可大受，而可小知也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"The superior man cannot be known in little matters; but he may be intrusted with great concerns. The small man may not be intrusted with great concerns, but he may be known in little matters.\""
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-015-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 52,
+        "text": "子曰：「民之於仁也，甚於水火。水火，吾見蹈而死者矣，未見蹈仁而死者也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Virtue is more to man than either water or fire. I have seen men die from treading on water and fire, but I have never seen a man die from treading the course of virtue.\""
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-015-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 53,
+        "text": "子曰：「當仁不讓於師。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Let every man consider virtue as what devolves on himself. He may not yield the performance of it even to his teacher.\""
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-015-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 54,
+        "text": "子曰：「君子貞而不諒。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"The superior man is correctly firm, and not firm merely.\""
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-015-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 55,
+        "text": "子曰：「事君，敬其事而後其食。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"A minister, in serving his prince, reverently discharges his duties, and makes his emolument a secondary consideration.\""
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-015-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 56,
+        "text": "子曰：「有教無類。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"In teaching there should be no distinction of classes.\""
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-015-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 57,
+        "text": "子曰：「道不同，不相為謀。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Those whose courses are different cannot lay plans for one another.\""
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-015-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 58,
+        "text": "子曰：「辭達而已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"In language it is simply required that it convey the meaning.\""
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-015-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 59,
+        "text": "師冕見，及階，子曰：「階也。」及席，子曰：「席也。」皆坐，子告之曰：「某在斯，某在斯。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The music master, Mian, having called upon him, when they came to the steps, the Master said, \"Here are the steps.\" When they came to the mat for the guest to sit upon, he said, \"Here is the mat.\" When all were seated, the Master informed him, saying, \"So and so is here; so and so is here.\" The music master, Mian, having gone out, Zi Zhang asked, saying."
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-015-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 60,
+        "text": "師冕出。子張問曰：「與師言之道與？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "\"Is it the rule to tell those things to the music master?\" The Master said, \"Yes."
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-015-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 61,
+        "text": "子曰：「然。固相師之道也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This is certainly the rule for those who lead the blind.\" Source: Chinese Text Project http://ctext.org/analects , from \"The Chinese Classics, volume 1\", James Legge, 1861 </div> Dictionary cache status: not loaded Glossary and Other Vocabulary"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "凡四十一章。\n陳，去聲。陳，謂軍師行伍之列。俎豆，禮器。尹氏曰：「衛靈公，無道之君也，復有志於戰伐之事，故答以未學而去之。」從，去聲。孔子去衛適陳。興，起也見，賢遍反。何氏曰：「濫，溢也。言君子固有窮時，不若小人窮則放溢為非。」程子曰：「固窮者，固守其窮。」亦通。愚謂聖人當行而行，無所顧慮。處困而亨，無所怨悔。於此可見，學者宜深味之。\n女，音汝。識，音志。與，平聲，下同。子貢之學，多而能識矣。夫子欲其知所本也，故問以發之。方信而忽疑，蓋其積學功至，而亦將有得也。說見第四篇。然彼以行言，而此以知言也。謝氏曰：「聖人之道大矣，人不能遍觀而盡識，宜其以為多學而識之也。然聖人豈務博者哉？如天之於眾形，匪物物刻而雕之也。故曰：『予一以貫之。』『德輶如毛，毛猶有倫。上天之載，無聲無臭。』至矣！」尹氏曰：「孔子之於曾子，不待其問而直告之以此，曾子復深諭之曰『唯』。若子貢則先發其疑而後告之，而子貢終亦不能如曾子之唯也。二子所學之淺深，於此可見。」愚按：夫子之於子貢，屢有以發之，而他人不與焉。則顏曾以下諸子所學之淺深，又可見矣。\n鮮，上聲。由，呼子路之名而告之也。德，謂義理之得於己者。非己有之，不能知其意味之實也。自第一章至此，疑皆一時之言。此章蓋為慍見發也。\n與，平聲。夫，音扶。無為而治者，聖人德盛而民化，不待其有所作為也。獨稱舜者，紹堯之後，而又得人以任眾職，故尤不見其有為之跡也。恭己者，聖人敬德之容。既無所為，則人之所見如此而已。\n猶問達之意也。行篤、行不之行，去聲。貊，亡百反。子張意在得行於外，故夫子反於身而言之，猶答干祿問達之意也。篤，厚也。蠻，南蠻。貊，北狄。二千五百家為州。參，七南反。夫，音扶。其者，指忠信篤敬而言。參，讀如毋往參焉之參，言與我相參也。衡，軛也。言其於忠信篤敬念念不忘，隨其所在，常若有見，雖欲頃刻離之而不可得。然後一言一行，自然不離於忠信篤敬，而蠻貊可行也。紳，大帶之垂者。書之，欲其不忘也。程子曰：「學要鞭辟近裏，著己而已。博學而篤志，切問而近思；言忠信，行篤敬；立則見其參於前，在輿則見其倚於衡；只此是學。質美者明得盡，查滓便渾化，卻與天地同體。其次惟莊敬以持養之，及其至則一也。」\n史，官名。魚，衛大夫，名怅。如矢，言直也。史魚自以不能進賢退不肖，既死猶以尸諫，故夫子稱其直。事見家語。伯玉出處，合於聖人之道，故曰君子。卷，收也。懷，藏也。如於孫林父甯殖放弒之謀，不對而出，亦其事也。楊氏曰：「史魚之直，未盡君子之道。若蘧伯玉，然後可免於亂世。若史魚之如矢，則雖欲卷而懷之，有不可得也。」\n知，去聲。\n志士，有志之士。仁人，則成德之人也。理當死而求生，則於其心有不安矣，是害其心之德也。當死而死，則心安而德全矣。程子曰：「實理得之於心自別。實理者，實見得是，實見得非也。古人有捐軀隕命者，若不實見得，惡能如此？須是實見得生不重於義，生不安於死也。故有殺身以成仁者，只是成就一箇是而已。」\n賢以事言，仁以德言。夫子嘗謂子貢悅不若己者，故以是告之。欲其有所嚴憚切磋以成其德也。程子曰：「子貢問為仁，非問仁也，故孔子告之以為仁之資而已。」\n顏子王佐之才，故問治天下之道。曰為邦者，謙辭。夏時，謂以斗柄初昏建寅之月為歲首也。天開於子，地闢於丑，人生於寅，故斗柄建此三辰之月，皆可以為歲首。而三代迭用之，夏以寅為人正，商以丑為地正，周以子為天正也。然時以作事，則歲月自當以人為紀。故孔子嘗曰，「吾得夏時焉」而說者以為謂夏小正之屬。蓋取其時之正與其令之善，而於此又以告顏子也。輅，音路，亦作路。商輅，木輅也。輅者，大車之名。古者以木為車而已，至商而有輅之名，蓋始異其制也。周人飾以金玉，則過侈而易敗，不若商輅之樸素渾堅而等威已辨，為質而得其中也。周冕有五，祭服之冠也。冠上有覆，前後有旒。黃帝以來，蓋已有之，而制度儀等，至周始備。然其為物小，而加於眾體之上，故雖華而不為靡，雖費而不及奢。夫子取之，蓋亦以為文而得其中也。取其盡善盡美。遠，去聲。放，謂禁絕之。鄭聲，鄭國之音。佞人，卑諂辯給之人。殆，危也。程子曰：「問政多矣，惟顏淵告之以此。蓋三代之制，皆因時損益，及其久也，不能無弊。周衰，聖人不作，故孔子斟酌先王之禮，立萬世常行之道，發此以為之兆爾。由是求之，則餘皆可考也。」張子曰：「禮樂，治之法也。放鄭聲，遠佞人，法外意也。一日不謹，則法壞矣。虞夏君臣更相飭戒，意蓋如此。」又曰「法立而能守，則德可久，業可大。鄭聲佞人，能使人喪其所守，故放遠之。」尹氏曰：「此所謂百王不易之大法。孔子之作春秋，蓋此意也。孔顏雖不得行之於時，然其為治之法，可得而見矣。」\n蘇氏曰：「人之所履者，容足之外，皆為無用之地，而不可廢也。故慮不在千里之外，則患在几席之下矣。」\n好，去聲。已矣乎，歎其終不得而見也。\n者與之與，平聲。竊位，言不稱其位而有愧於心，如盜得而陰據之也。柳下惠，魯大夫展獲，字禽，食邑柳下，謚曰惠。與立，謂與之並立於朝。范氏曰：「臧文仲為政於魯，若不知賢，是不明也；知而不舉，是蔽賢也。不明之罪小，蔽賢之罪大。故孔子以為不仁，又以為竊位。」\n遠，去聲。責己厚，故身益修；責人薄，故人易從。所以人不得而怨之。\n如之何如之何者，熟思而審處之辭也。不如是而妄行，雖聖人亦無如之何矣。\n好，去聲。小慧，私智也。言不及義，則放辟邪侈之心滋。好行小慧，則行險僥倖之機熟。難矣哉者，言其無以入德，而將有患害也。\n孫，去聲。義者制事之本，故以為質榦。而行之必有節文，出之必以退遜，成之必在誠實，乃君子之道也。程子曰：「義以為質，如質榦然。禮行此，孫出此，信成此。此四句只是一事，以義為本。」又曰：「『敬以直內，則義以方外。』『義以為質，則禮以行之，孫以出之，信以成之。』」\n范氏曰：「君子學以為己，不求人知。然沒世而名不稱焉，則無為善之實可知矣。」\n謝氏曰：「君子無不反求諸己，小人反是。此君子小人所以分也。」楊氏曰：「君子雖不病人之不己知，然亦疾沒世而名不稱也。雖疾沒世而名不稱，然所以求者，亦反諸己而已。小人求諸人，故違道干譽，無所不至。三者文不相蒙，而義實相足，亦記言者之意。」\n莊以持己曰矜。然無乖戾之心，故不爭。和以處眾曰群。然無阿比之意，故不黨。\n推己及物，其施不窮，故可以終身行之。尹氏曰：「學貴於知要。子貢之問，可謂知要矣。孔子告以求仁之方也。推而極之，雖聖人之無我，不出乎此。終身行之，不亦宜乎？」\n譽，平聲。毀者，稱人之惡而損其真。譽者，揚人之善而過其實。夫子無是也。然或有所譽者，則必嘗有以試之，而知其將然矣。聖人善善之速，而無所苟如此。若其惡惡，則已緩矣。是以雖有以前知其惡，而終無所毀也。斯民者，今此之人也。三代，夏、商、周也。直道，無私曲也。言吾之所以無所毀譽者，蓋以此民，即三代之時所以善其善、惡其惡而無所私曲之民。故我今亦不得而枉其是非之實也。尹氏曰：「孔子之於人也，豈有意於毀譽之哉？其所以譽之者，蓋試而知其美故也。斯民也，三代所以直道而行，豈得容私於其閒哉？\n夫，音扶。楊氏曰：「史闕文、馬借人，此二事孔子猶及見之。今亡矣夫，悼時之益偷也。」愚謂此必有為而言。蓋雖細故，而時變之大者可知矣。胡氏曰：「此章義疑，不可強解。」\n巧言，變亂是非，聽之使人喪其所守。小不忍，如婦人之仁、匹夫之勇皆是。\n好、惡，並去聲。楊氏曰：「惟仁者能好惡人。眾好惡之而不察，則或蔽於私矣。」\n弘，廓而大之也。人外無道，道外無人。然人心有覺，而道體無為；故人能大其道，道不能大其人也。張子曰：「心能盡性，人能弘道也；性不知檢其心，非道弘人也。」\n過而能改，則復於無過。惟不改則其過遂成，而將不及改矣。\n句。句。此為思而不學者言之。蓋勞心以必求，不如遜志而自得也。李氏曰：「夫子非思而不學者，特垂語以教人爾。」\n餒，奴罪反。耕所以謀食，而未必得食。學所以謀道，而祿在其中。然其學也，憂不得乎道而已；非為憂貧之故，而欲為是以得祿也。尹氏曰：「君子治其本而不卹其末，豈以在外者為憂樂哉？」\n知，去聲。知足以知此理，而私欲間之，則無以有之於身矣。贋，臨也。謂臨民也。知此理而無私欲以間之，則所知者在我而不失矣。然猶有不莊者，蓋氣習之偏，或有厚於內而不嚴於外者，是以民不見其可畏而慢易之。下句放此。動之，動民也。猶曰鼓舞而作興之云爾。禮，謂義理之節文。愚謂學至於仁，則善有諸己而大本立矣。贋之不莊，動之不以禮，乃其氣稟學問之小疵，然亦非盡善之道也。故夫子歷言之，使知德愈全則責愈備，不可以為小節而忽之也。\n此言觀人之法。知，我知之也。受，彼所受也。蓋君子於細事未必可觀，而材德足以任重；小人雖器量淺狹，而未必無一長可取。\n民之於水火，所賴以生，不可一日無。其於仁也亦然。但水火外物，而仁在己。無水火，不過害人之身，而不仁則失其心。是仁有甚於水火，而尤不可以一日無也。況水火或有時而殺人，仁則未嘗殺人，亦何憚而不為哉？李氏曰：「此夫子勉人為仁之語。」下章放此。\n當仁，以仁為己任也。雖師亦無所遜，言當勇往而必為也。蓋仁者，人所自有而自為之，非有爭也，何遜之有？程子曰：「為仁在己，無所與遜。若善名為1外，則不可不遜。」1. 為 : 清仿宋大字本作「在」。\n貞，正而固也。諒，則不擇是非而必於信。\n後，與後獲之後同。食，祿也。君子之仕也，有官守者修其職，有言責者盡其忠。皆以敬吾之事而已，不可先有求祿之心也。\n人性皆善，而其類有善惡之殊者，氣習之染也。故君子有教，則人皆可以復於善，而不當復論其類之惡矣。\n為，去聲。不同，如善惡邪正之異。\n辭，取達意而止，不以富麗為工。\n見，賢遍反。師，樂師，瞽者。冕，名。再言某在斯，歷舉在坐之人以詔之。\n與，平聲。聖門學者，於夫子之一言一動，無不存心省察如此。相，去聲。相，助也。古者瞽必有相，其道如此。蓋聖人於此，非作意而為之，但盡其道而已。尹氏曰：「聖人處己為人，其心一致，無不盡其誠故也。有志於學者，求聖人之心，於斯亦可見矣。」范氏曰：「聖人不侮鰥寡，不虐無告，可見於此。推之天下，無一物不得其所矣。」",
+    "supplemental_unit_count": 58,
+    "supplemental_units": [
+      {
+        "character_count": 5,
+        "id": "chapter-015-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "凡四十一章。"
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-015-supp-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "陳，去聲。陳，謂軍師行伍之列。俎豆，禮器。尹氏曰：「衛靈公，無道之君也，復有志於戰伐之事，故答以未學而去之。」從，去聲。孔子去衛適陳。興，起也見，賢遍反。何氏曰：「濫，溢也。言君子固有窮時，不若小人窮則放溢為非。"
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-015-supp-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "」程子曰：「固窮者，固守其窮。」亦通。愚謂聖人當行而行，無所顧慮。處困而亨，無所怨悔。於此可見，學者宜深味之。"
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-015-supp-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "女，音汝。識，音志。與，平聲，下同。子貢之學，多而能識矣。夫子欲其知所本也，故問以發之。方信而忽疑，蓋其積學功至，而亦將有得也。說見第四篇。然彼以行言，而此以知言也。謝氏曰：「聖人之道大矣，人不能遍觀而盡識，宜其以為多學而識之也。"
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-015-supp-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "然聖人豈務博者哉？如天之於眾形，匪物物刻而雕之也。故曰：『予一以貫之。』『德輶如毛，毛猶有倫。上天之載，無聲無臭。』至矣！」尹氏曰：「孔子之於曾子，不待其問而直告之以此，曾子復深諭之曰『唯』。"
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-015-supp-006",
+        "order": 6,
+        "source_block_chunk": 3,
+        "source_block_order": 3,
+        "text": "若子貢則先發其疑而後告之，而子貢終亦不能如曾子之唯也。二子所學之淺深，於此可見。」愚按：夫子之於子貢，屢有以發之，而他人不與焉。則顏曾以下諸子所學之淺深，又可見矣。"
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-015-supp-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "鮮，上聲。由，呼子路之名而告之也。德，謂義理之得於己者。非己有之，不能知其意味之實也。自第一章至此，疑皆一時之言。此章蓋為慍見發也。"
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-015-supp-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "與，平聲。夫，音扶。無為而治者，聖人德盛而民化，不待其有所作為也。獨稱舜者，紹堯之後，而又得人以任眾職，故尤不見其有為之跡也。恭己者，聖人敬德之容。既無所為，則人之所見如此而已。"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-015-supp-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "猶問達之意也。行篤、行不之行，去聲。貊，亡百反。子張意在得行於外，故夫子反於身而言之，猶答干祿問達之意也。篤，厚也。蠻，南蠻。貊，北狄。二千五百家為州。參，七南反。夫，音扶。其者，指忠信篤敬而言。參，讀如毋往參焉之參，言與我相參也。"
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-015-supp-010",
+        "order": 10,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "衡，軛也。言其於忠信篤敬念念不忘，隨其所在，常若有見，雖欲頃刻離之而不可得。然後一言一行，自然不離於忠信篤敬，而蠻貊可行也。紳，大帶之垂者。書之，欲其不忘也。程子曰：「學要鞭辟近裏，著己而已。博學而篤志，切問而近思；言忠信，行篤敬；"
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-015-supp-011",
+        "order": 11,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "立則見其參於前，在輿則見其倚於衡；只此是學。質美者明得盡，查滓便渾化，卻與天地同體。其次惟莊敬以持養之，及其至則一也。」"
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-015-supp-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "史，官名。魚，衛大夫，名怅。如矢，言直也。史魚自以不能進賢退不肖，既死猶以尸諫，故夫子稱其直。事見家語。伯玉出處，合於聖人之道，故曰君子。卷，收也。懷，藏也。如於孫林父甯殖放弒之謀，不對而出，亦其事也。楊氏曰：「史魚之直，未盡君子之道。"
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-015-supp-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "若蘧伯玉，然後可免於亂世。若史魚之如矢，則雖欲卷而懷之，有不可得也。」"
+      },
+      {
+        "character_count": 3,
+        "id": "chapter-015-supp-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "知，去聲。"
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-015-supp-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "志士，有志之士。仁人，則成德之人也。理當死而求生，則於其心有不安矣，是害其心之德也。當死而死，則心安而德全矣。程子曰：「實理得之於心自別。實理者，實見得是，實見得非也。古人有捐軀隕命者，若不實見得，惡能如此？"
+      },
+      {
+        "character_count": 33,
+        "id": "chapter-015-supp-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "須是實見得生不重於義，生不安於死也。故有殺身以成仁者，只是成就一箇是而已。」"
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-015-supp-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "賢以事言，仁以德言。夫子嘗謂子貢悅不若己者，故以是告之。欲其有所嚴憚切磋以成其德也。程子曰：「子貢問為仁，非問仁也，故孔子告之以為仁之資而已。」"
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-015-supp-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "顏子王佐之才，故問治天下之道。曰為邦者，謙辭。夏時，謂以斗柄初昏建寅之月為歲首也。天開於子，地闢於丑，人生於寅，故斗柄建此三辰之月，皆可以為歲首。而三代迭用之，夏以寅為人正，商以丑為地正，周以子為天正也。然時以作事，則歲月自當以人為紀。"
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-015-supp-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "故孔子嘗曰，「吾得夏時焉」而說者以為謂夏小正之屬。蓋取其時之正與其令之善，而於此又以告顏子也。輅，音路，亦作路。商輅，木輅也。輅者，大車之名。古者以木為車而已，至商而有輅之名，蓋始異其制也。"
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-015-supp-020",
+        "order": 20,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "周人飾以金玉，則過侈而易敗，不若商輅之樸素渾堅而等威已辨，為質而得其中也。周冕有五，祭服之冠也。冠上有覆，前後有旒。黃帝以來，蓋已有之，而制度儀等，至周始備。然其為物小，而加於眾體之上，故雖華而不為靡，雖費而不及奢。"
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-015-supp-021",
+        "order": 21,
+        "source_block_chunk": 4,
+        "source_block_order": 11,
+        "text": "夫子取之，蓋亦以為文而得其中也。取其盡善盡美。遠，去聲。放，謂禁絕之。鄭聲，鄭國之音。佞人，卑諂辯給之人。殆，危也。程子曰：「問政多矣，惟顏淵告之以此。蓋三代之制，皆因時損益，及其久也，不能無弊。"
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-015-supp-022",
+        "order": 22,
+        "source_block_chunk": 5,
+        "source_block_order": 11,
+        "text": "周衰，聖人不作，故孔子斟酌先王之禮，立萬世常行之道，發此以為之兆爾。由是求之，則餘皆可考也。」張子曰：「禮樂，治之法也。放鄭聲，遠佞人，法外意也。一日不謹，則法壞矣。虞夏君臣更相飭戒，意蓋如此。」又曰「法立而能守，則德可久，業可大。"
+      },
+      {
+        "character_count": 58,
+        "id": "chapter-015-supp-023",
+        "order": 23,
+        "source_block_chunk": 6,
+        "source_block_order": 11,
+        "text": "鄭聲佞人，能使人喪其所守，故放遠之。」尹氏曰：「此所謂百王不易之大法。孔子之作春秋，蓋此意也。孔顏雖不得行之於時，然其為治之法，可得而見矣。」"
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-015-supp-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "蘇氏曰：「人之所履者，容足之外，皆為無用之地，而不可廢也。故慮不在千里之外，則患在几席之下矣。」"
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-015-supp-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "好，去聲。已矣乎，歎其終不得而見也。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-015-supp-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "者與之與，平聲。竊位，言不稱其位而有愧於心，如盜得而陰據之也。柳下惠，魯大夫展獲，字禽，食邑柳下，謚曰惠。與立，謂與之並立於朝。范氏曰：「臧文仲為政於魯，若不知賢，是不明也；知而不舉，是蔽賢也。不明之罪小，蔽賢之罪大。"
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-015-supp-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "故孔子以為不仁，又以為竊位。」"
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-015-supp-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "遠，去聲。責己厚，故身益修；責人薄，故人易從。所以人不得而怨之。"
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-015-supp-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "如之何如之何者，熟思而審處之辭也。不如是而妄行，雖聖人亦無如之何矣。"
+      },
+      {
+        "character_count": 48,
+        "id": "chapter-015-supp-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "好，去聲。小慧，私智也。言不及義，則放辟邪侈之心滋。好行小慧，則行險僥倖之機熟。難矣哉者，言其無以入德，而將有患害也。"
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-015-supp-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "孫，去聲。義者制事之本，故以為質榦。而行之必有節文，出之必以退遜，成之必在誠實，乃君子之道也。程子曰：「義以為質，如質榦然。禮行此，孫出此，信成此。此四句只是一事，以義為本。」又曰：「『敬以直內，則義以方外。"
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-015-supp-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "』『義以為質，則禮以行之，孫以出之，信以成之。』」"
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-015-supp-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "范氏曰：「君子學以為己，不求人知。然沒世而名不稱焉，則無為善之實可知矣。」"
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-015-supp-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "謝氏曰：「君子無不反求諸己，小人反是。此君子小人所以分也。」楊氏曰：「君子雖不病人之不己知，然亦疾沒世而名不稱也。雖疾沒世而名不稱，然所以求者，亦反諸己而已。小人求諸人，故違道干譽，無所不至。三者文不相蒙，而義實相足，亦記言者之意。」"
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-015-supp-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "莊以持己曰矜。然無乖戾之心，故不爭。和以處眾曰群。然無阿比之意，故不黨。"
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-015-supp-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "推己及物，其施不窮，故可以終身行之。尹氏曰：「學貴於知要。子貢之問，可謂知要矣。孔子告以求仁之方也。推而極之，雖聖人之無我，不出乎此。終身行之，不亦宜乎？」"
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-015-supp-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "譽，平聲。毀者，稱人之惡而損其真。譽者，揚人之善而過其實。夫子無是也。然或有所譽者，則必嘗有以試之，而知其將然矣。聖人善善之速，而無所苟如此。若其惡惡，則已緩矣。是以雖有以前知其惡，而終無所毀也。斯民者，今此之人也。三代，夏、商、周也。"
+      },
+      {
+        "character_count": 104,
+        "id": "chapter-015-supp-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "直道，無私曲也。言吾之所以無所毀譽者，蓋以此民，即三代之時所以善其善、惡其惡而無所私曲之民。故我今亦不得而枉其是非之實也。尹氏曰：「孔子之於人也，豈有意於毀譽之哉？其所以譽之者，蓋試而知其美故也。斯民也，三代所以直道而行，豈得容私於其閒哉？"
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-015-supp-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "夫，音扶。楊氏曰：「史闕文、馬借人，此二事孔子猶及見之。今亡矣夫，悼時之益偷也。」愚謂此必有為而言。蓋雖細故，而時變之大者可知矣。胡氏曰：「此章義疑，不可強解。」"
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-015-supp-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "巧言，變亂是非，聽之使人喪其所守。小不忍，如婦人之仁、匹夫之勇皆是。"
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-015-supp-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "好、惡，並去聲。楊氏曰：「惟仁者能好惡人。眾好惡之而不察，則或蔽於私矣。」"
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-015-supp-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "弘，廓而大之也。人外無道，道外無人。然人心有覺，而道體無為；故人能大其道，道不能大其人也。張子曰：「心能盡性，人能弘道也；性不知檢其心，非道弘人也。」"
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-015-supp-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "過而能改，則復於無過。惟不改則其過遂成，而將不及改矣。"
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-015-supp-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "句。句。此為思而不學者言之。蓋勞心以必求，不如遜志而自得也。李氏曰：「夫子非思而不學者，特垂語以教人爾。」"
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-015-supp-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "餒，奴罪反。耕所以謀食，而未必得食。學所以謀道，而祿在其中。然其學也，憂不得乎道而已；非為憂貧之故，而欲為是以得祿也。尹氏曰：「君子治其本而不卹其末，豈以在外者為憂樂哉？」"
+      },
+      {
+        "character_count": 102,
+        "id": "chapter-015-supp-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "知，去聲。知足以知此理，而私欲間之，則無以有之於身矣。贋，臨也。謂臨民也。知此理而無私欲以間之，則所知者在我而不失矣。然猶有不莊者，蓋氣習之偏，或有厚於內而不嚴於外者，是以民不見其可畏而慢易之。下句放此。動之，動民也。猶曰鼓舞而作興之云爾。"
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-015-supp-047",
+        "order": 47,
+        "source_block_chunk": 2,
+        "source_block_order": 31,
+        "text": "禮，謂義理之節文。愚謂學至於仁，則善有諸己而大本立矣。贋之不莊，動之不以禮，乃其氣稟學問之小疵，然亦非盡善之道也。故夫子歷言之，使知德愈全則責愈備，不可以為小節而忽之也。"
+      },
+      {
+        "character_count": 48,
+        "id": "chapter-015-supp-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "此言觀人之法。知，我知之也。受，彼所受也。蓋君子於細事未必可觀，而材德足以任重；小人雖器量淺狹，而未必無一長可取。"
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-015-supp-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "民之於水火，所賴以生，不可一日無。其於仁也亦然。但水火外物，而仁在己。無水火，不過害人之身，而不仁則失其心。是仁有甚於水火，而尤不可以一日無也。況水火或有時而殺人，仁則未嘗殺人，亦何憚而不為哉？李氏曰：「此夫子勉人為仁之語。」下章放此。"
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-015-supp-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "當仁，以仁為己任也。雖師亦無所遜，言當勇往而必為也。蓋仁者，人所自有而自為之，非有爭也，何遜之有？程子曰：「為仁在己，無所與遜。若善名為1外，則不可不遜。」1. 為 : 清仿宋大字本作「在」。"
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-015-supp-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "貞，正而固也。諒，則不擇是非而必於信。"
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-015-supp-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "後，與後獲之後同。食，祿也。君子之仕也，有官守者修其職，有言責者盡其忠。皆以敬吾之事而已，不可先有求祿之心也。"
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-015-supp-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "人性皆善，而其類有善惡之殊者，氣習之染也。故君子有教，則人皆可以復於善，而不當復論其類之惡矣。"
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-015-supp-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "為，去聲。不同，如善惡邪正之異。"
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-015-supp-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "辭，取達意而止，不以富麗為工。"
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-015-supp-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "見，賢遍反。師，樂師，瞽者。冕，名。再言某在斯，歷舉在坐之人以詔之。"
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-015-supp-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "與，平聲。聖門學者，於夫子之一言一動，無不存心省察如此。相，去聲。相，助也。古者瞽必有相，其道如此。蓋聖人於此，非作意而為之，但盡其道而已。尹氏曰：「聖人處己為人，其心一致，無不盡其誠故也。有志於學者，求聖人之心，於斯亦可見矣。"
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-015-supp-058",
+        "order": 58,
+        "source_block_chunk": 2,
+        "source_block_order": 41,
+        "text": "」范氏曰：「聖人不侮鰥寡，不虐無告，可見於此。推之天下，無一物不得其所矣。」"
+      }
+    ],
+    "text": "衛靈公問陳於孔子。孔子對曰：「俎豆之事，則嘗聞之矣；軍旅之事，未之學也。」明日遂行。\n在陳絕糧，從者病，莫能興。\n子路慍見曰：「君子亦有窮乎？」子曰：「君子固窮，小人窮斯濫矣。」\n子曰：「賜也，女以予為多學而識之者與？」\n對曰：「然，非與？」\n曰：「非也，予一以貫之。」\n子曰：「由！知德者鮮矣。」\n子曰：「無為而治者，其舜也與？夫何為哉，恭己正南面而已矣。」\n子張問行。\n子曰：「言忠信，行篤敬，雖蠻貊之邦行矣；言不忠信，行不篤敬，雖州里行乎哉？\n立，則見其參於前也；在輿，則見其倚於衡也。夫然後行。」\n子張書諸紳。\n子曰：「直哉史魚！邦有道，如矢；邦無道，如矢。」\n君子哉蘧伯玉！邦有道，則仕；邦無道，則可卷而懷之。」\n子曰：「可與言而不與之言，失人；不可與言而與之言，失言。知者不失人，亦不失言。」\n子曰：「志士仁人，無求生以害仁，有殺身以成仁。」\n子貢問為仁。子曰：「工欲善其事，必先利其器。居是邦也，事其大夫之賢者，友其士之仁者。」\n顏淵問為邦。\n子曰：「行夏之時，\n乘殷之輅，\n服周之冕，\n樂則韶舞。\n放鄭聲，遠佞人。鄭聲淫，佞人殆。」\n子曰：「人無遠慮，必有近憂。」\n子曰：「已矣乎！吾未見好德如好色者也。」\n子曰：「臧文仲其竊位者與？知柳下惠之賢，而不與立也。」\n子曰：「躬自厚而薄責於人，則遠怨矣。」\n子曰：「不曰『如之何如之何』者，吾末如之何也已矣。」\n子曰：「群居終日，言不及義，好行小慧，難矣哉！」\n子曰：「君子義以為質，禮以行之，孫以出之，信以成之。君子哉！」\n子曰：「君子病無能焉，不病人之不己知也。」\n子曰：「君子疾沒世而名不稱焉。」\n子曰：「君子求諸己，小人求諸人。」\n子曰：「君子矜而不爭，群而不黨。」\n子曰：「君子不以言舉人，不以人廢言。」\n子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」\n子曰：「吾之於人也，誰毀誰譽？如有所譽者，其有所試矣。\n斯民也，三代之所以直道而行也。」\n子曰：「吾猶及史之闕文也，有馬者借人乘之。今亡矣夫！」\n子曰：「巧言亂德，小不忍則亂大謀。」\n子曰：「眾惡之，必察焉；眾好之，必察焉。」\n子曰：「人能弘道，非道弘人。」\n子曰：「過而不改，是謂過矣。」\n子曰：「吾嘗終日不食，終夜不寢，以思，\n無益，\n不如學也。」\n子曰：「君子謀道不謀食。耕也，餒在其中矣；學也，祿在其中矣。君子憂道不憂貧。」\n子曰：「知及之，仁不能守之；雖得之，必失之。\n知及之，仁能守之。不莊以贋之，則民不敬。\n知及之，仁能守之，莊以贋之。動之不以禮，未善也。」\n子曰：「君子不可小知，而可大受也；小人不可大受，而可小知也。」\n子曰：「民之於仁也，甚於水火。水火，吾見蹈而死者矣，未見蹈仁而死者也。」\n子曰：「當仁不讓於師。」\n子曰：「君子貞而不諒。」\n子曰：「事君，敬其事而後其食。」\n子曰：「有教無類。」\n子曰：「道不同，不相為謀。」\n子曰：「辭達而已矣。」\n師冕見，及階，子曰：「階也。」及席，子曰：「席也。」皆坐，子告之曰：「某在斯，某在斯。」\n師冕出。子張問曰：「與師言之道與？」\n子曰：「然。固相師之道也。」",
+    "title": "衛靈公第十五"
+  },
+  "chapter_path": "books/lunyu/chapters/chapter-015.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 論語集注",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/lun-yu-ji-zhu?if=en"
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 71,
+    "id": "chapter-051",
+    "order": 51,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 71,
+        "id": "chapter-051-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "道生之，德畜之，物形之，勢成之。是以萬物莫不尊道而貴德。道之尊，德之貴，夫莫之命常自然。故道生之，德畜之；長之育之；亭之毒之；養之覆之。生而不有，為而不恃，長而不宰，是謂玄德。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All things are produced by the Tao, and nourished by its outflowing operation. They receive their forms according to the nature of each, and are completed according to the circumstances of their condition. Therefore all things without exception honour the Tao, and exalt its outflowing operation. This honouring of the Tao and exalting of its operation is not the result of any ordination, but always a spontaneous tribute. Thus it is that the Tao produces (all things), nourishes them, brings them to their full growth, nurses them, completes them, matures them, maintains them, and overspreads them. It produces them and makes no claim to the possession of them; it carries them through their processes and does not vaunt its ability in doing so; it brings them to maturity and exercises no control over them;--this is called its mysterious operation."
+          }
+        }
+      }
+    ],
+    "summary": "道生之，德畜之，物形之，勢成之",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "道生之，德畜之，物形之，勢成之。是以萬物莫不尊道而貴德。道之尊，德之貴，夫莫之命常自然。故道生之，德畜之；長之育之；亭之毒之；養之覆之。生而不有，為而不恃，長而不宰，是謂玄德。",
+    "title": "第51章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-051.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

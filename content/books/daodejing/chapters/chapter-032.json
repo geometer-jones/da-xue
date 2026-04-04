@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 72,
+    "id": "chapter-032",
+    "order": 32,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 72,
+        "id": "chapter-032-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "道常無名。樸雖小，1天下莫能臣也。侯王若能守之，萬物將自賓。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦將知止，知止所以不殆。譬道之在天下，猶川谷之與江海。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Tao, considered as unchanging, has no name. Though in its primordial simplicity it may be small, the whole world dares not deal with (one embodying) it as a minister. If a feudal prince or the king could guard and hold it, all would spontaneously submit themselves to him. Heaven and Earth (under its guidance) unite together and send down the sweet dew, which, without the directions of men, reaches equally everywhere as of its own accord. As soon as it proceeds to action, it has a name. When it once has that name, (men) can know to rest in it. When they know to rest in it, they can be free from all risk of failure and error. The relation of the Tao to all the world is like that of the great rivers and seas to the streams from the valleys."
+          }
+        }
+      }
+    ],
+    "summary": "道常無名",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "道常無名。樸雖小，1天下莫能臣也。侯王若能守之，萬物將自賓。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦將知止，知止所以不殆。譬道之在天下，猶川谷之與江海。",
+    "title": "第32章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-032.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

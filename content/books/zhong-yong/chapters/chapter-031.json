@@ -1,0 +1,73 @@
+{
+  "chapter": {
+    "character_count": 136,
+    "id": "chapter-031",
+    "order": 31,
+    "reading_unit_count": 4,
+    "reading_units": [
+      {
+        "character_count": 52,
+        "id": "chapter-031-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "唯天下至聖，為能聰明睿知，足以有臨也；寬裕溫柔，足以有容也；發強剛毅，足以有執也；齊莊中正，足以有敬也；文理密察，足以有別也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is only he, possessed of all sagely qualities that can exist under heaven, who shows himself quick in apprehension, clear in discernment, of far-reaching intelligence, and all-embracing knowledge, fitted to exercise rule; magnanimous, generous, benign, and mild, fitted to exercise forbearance; impulsive, energetic, firm, and enduring, fitted to maintain a firm hold; self-adjusted, grave, never swerving from the Mean, and correct, fitted to command reverence; accomplished, distinctive, concentrative, and searching, fitted to exercise discrimination."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-031-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "溥博淵泉，而時出之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All-embracing is he and vast, deep and active as a fountain, sending forth in their due season his virtues."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-031-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "溥博如天，淵泉如淵。見而民莫不敬，言而民莫不信，行而民莫不說。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All-embracing and vast, he is like Heaven."
+          }
+        }
+      },
+      {
+        "character_count": 50,
+        "id": "chapter-031-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "是以聲名洋溢乎中國，施及蠻貊；舟車所至，人力所通；天之所覆，地之所載，日月所照，霜露所隊；凡有血氣者，莫不尊親，故曰配天。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Deep and active as a fountain, he is like the abyss. He is seen, and the people all reverence him; he speaks, and the people all believe him; he acts, and the people all are pleased with him. Therefore his fame overspreads the Middle Kingdom, and extends to all barbarous tribes. Wherever ships and carriages reach; wherever the strength of man penetrates; wherever the heavens overshadow and the earth sustains; wherever the sun and moon shine; wherever frosts and dews fall:-all who have blood and breath unfeignedly honor and love him. Hence it is said, \"He is the equal of Heaven.\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "唯天下至聖，為能聰明睿知，足以有臨也；寬裕溫柔，足以有容也；發強剛毅，足以有執也；齊莊中正，足以有敬也；文理密察，足以有別也。\n溥博淵泉，而時出之。\n溥博如天，淵泉如淵。見而民莫不敬，言而民莫不信，行而民莫不說。\n是以聲名洋溢乎中國，施及蠻貊；舟車所至，人力所通；天之所覆，地之所載，日月所照，霜露所隊；凡有血氣者，莫不尊親，故曰配天。",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-031.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

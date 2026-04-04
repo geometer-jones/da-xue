@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-042",
+    "order": 42,
+    "summary": "水宿山行",
+    "text": "水宿山行\n安分守己\n求知若渴\n道高望重\n反面文章\n洗心回面\n退如山移\n成己成物\n使心用幸\n意气相得\n察今知古\n才高行厚\n三旨相公\n了如指掌\n江河行地\n家破身亡\n疾走先得\n敬事后食\n急公近利\n先意承指\n使心作幸\n心满意得\n明明白白\n白手成家\n去故就新\n惟利是命\n施仁布德\n口是心苗\n草草了事\n功高望重",
+    "title": "1231-1260",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "水宿山行",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Spend the night on the water and walk on the mountains during the day"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "安分守己",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be content with one's lot (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "求知若渴",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "knowledge"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "道高望重",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still saying that one is highly virtuous and highly respected"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "反面文章",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Articles written from the opposite side of things"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "洗心回面",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A metaphor for complete repentance"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "退如山移",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Retreating like a mountain moving"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "成己成物",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To achieve something within yourself, you must also achieve something other than yourself"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "使心用幸",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Careful"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "意气相得",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describing extremely similar interests"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "察今知古",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the development of things as a process"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "才高行厚",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Be thick, don’t be frivolous, be cautious"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "三旨相公",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Used to ridicule mediocre and incompetent officials"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "了如指掌",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to know sth like the back of one's hand (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "江河行地",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Rivers always flow on the land"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "家破身亡",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Family destruction, own death"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "疾走先得",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor for people who act quickly to achieve their goals first."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "敬事后食",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means that you should do your best in everything first, and then you can enjoy your salary only after you have made achievements."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "急公近利",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "close at hand"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "先意承指",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to figuring out people's intentions, flattering and flattering"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "使心作幸",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Careful"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "心满意得",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Satisfied, elated"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "明明白白",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "clear, unmistakable"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "白手成家",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A family property or business that rises independently without any support"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "去故就新",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Return to, stay"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "惟利是命",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to profit-seeking"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "施仁布德",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to practicing benevolence and righteousness, giving kindness, and doing more good deeds"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "口是心苗",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still speaking from the heart"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "草草了事",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to rush through the work"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-042-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "功高望重",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "high merit and worthy prospects (idiom)"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-042.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

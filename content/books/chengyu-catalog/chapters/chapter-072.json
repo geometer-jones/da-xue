@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-072",
+    "order": 72,
+    "summary": "泰山北斗",
+    "text": "泰山北斗\n先花后果\n啼笑皆非\n心小志大\n安身之地\n丈二和尚\n平步青云\n多情善感\n水火之中\n卿卿我我\n要死要活\n非亲非故\n改玉改行\n说今道古\n刮目相看\n再做道理\n良工苦心\n假仁假意\n能近取譬\n溯水行舟\n心同止水\n精金美玉\n登高去梯\n口耳并重\n超然象外\n量才器使\n精力充沛\n行间字里\n全能全智\n交淡若水",
+    "title": "2131-2160",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "泰山北斗",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. Mount Tai and the Big Dipper (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "先花后果",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The old metaphor of giving birth to a boy after a girl"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "啼笑皆非",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. not to know whether to laugh or cry (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "心小志大",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Be careful and ambitious"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "安身之地",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "place to stay"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "丈二和尚",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(Afterword) I can’t figure it out."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "平步青云",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to rapidly go up in the world"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "多情善感",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Emotional and easily sad"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "水火之中",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Water and fire metaphor disaster"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "卿卿我我",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to bill and coo (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "要死要活",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "terribly"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "非亲非故",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. neither a relative nor a friend (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "改玉改行",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to changing the system or changing the dynasty"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "说今道古",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "From now on to ancient times, we talk about everything and comment on everything"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "刮目相看",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have a whole new level of respect for sb or sth"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "再做道理",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to another plan or another way"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "良工苦心",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes the works of outstanding artists who put a lot of thought into the creation process"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "假仁假意",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Pretending to be kind, but actually being evil at heart"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "能近取譬",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Able to draw analogies about oneself"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "溯水行舟",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to sailing against the current"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "心同止水",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describing a calm state of mind with no distracting thoughts"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "精金美玉",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "refined gold refined gold"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "登高去梯",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Remove the ladder after climbing to a high place"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "口耳并重",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Pay equal attention to speaking and listening training"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "超然象外",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Usage equivalent to \""
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "量才器使",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Use according to quantity"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "精力充沛",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "vigorous"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "行间字里",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the middle of the text of the article"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "全能全智",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "omniscient, omnipotent"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-072-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "交淡若水",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "refers to a moral relationship"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-072.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

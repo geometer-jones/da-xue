@@ -1,0 +1,892 @@
+{
+  "chapter": {
+    "character_count": 4248,
+    "id": "chapter-009",
+    "order": 9,
+    "reading_unit_count": 67,
+    "reading_units": [
+      {
+        "character_count": 91,
+        "id": "chapter-009-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說那撞倒董卓的人，正是李儒。當下李儒扶起董卓，至書院中坐定。卓曰：「汝為何來此？」儒曰：「儒適至府門，知太師怒入後園，尋問呂布。因急走來，正遇呂布奔出云：『太師殺我！』儒慌趕入園中勸解，不意誤撞恩相。死罪！死罪！」卓曰：「叵耐逆賊！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to the person who knocked over Dong Zhuo."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-009-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "戲吾愛姬，誓必殺之！」儒曰：「恩相差矣：昔楚莊王『絕纓』之會，不究戲愛姬之蔣雄，後為秦兵所困，得其死力相救。今貂蟬不過一女子，而呂布乃太師心腹猛將也。太師若就此機會，以蟬賜布，布感大恩，必以死報太師。太師請自三思。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It was Li Ru."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-009-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "卓沈吟良久曰「汝言亦是我當思之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Li Ru immediately helped Dong Zhuo to his feet, and brought him into the library so that he could sit down. Zhuo said, \"Why are you here?\" Ru said, \"I had just arrived at the gates to your residence, when I found out that you had angrily gone into the rear courtyard, looking for Lü Bu. I hurried inside, then ran into Lü Bu running the other way, saying, 'The Senior Grand Tutor is trying to kill me!' I was running into the courtyard to try and calm things down, when I accidently collided with you. Please forgive me, I should be put to death!\" Zhuo said, \"I can't abide that traitor getting fresh with my beloved consort; I swear I will kill him!\" Ru said, \"Your Excellency, that would be a mistake. Centuries ago, at the banquet in which 'the cord holding Jiang Xiong's headpiece was yanked off', Jiang Xiong had gotten fresh with King Zhuang of Chu's beloved consort, but the king did not take him to task for it. Later, when he was surrounded by the Qin army, that man risked his life to rescue the king. Diao Chan is just a girl, and Lü Bu is your most trusted and fiercest general. Senior Grand Tutor, if you were to seize the opportunity to give Chan to Bu, Bu would be forever in your debt, and would be willing to die for you. Please think it over carefully.\" Zhuo muttered to himself for a long while, then said, \"You have a point. I will think about it.\""
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-009-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "儒謝而出。卓入後堂喚貂蟬問曰「汝何與呂布私通耶」蟬泣曰「妾在後園看花呂布突至。妾方驚避布曰『我乃太師之子何必相避』提戟趕妾至鳳儀亭。妾見其心不良恐為所逼欲投荷池自盡卻被這廝抱住。正在生死之間得太師來救了性命。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Li Ru thanked him, and left."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-009-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "」董卓曰：「我今將汝賜與呂布，何如？」貂蟬大驚，哭曰：「妾身已事貴人，今忽欲下賜家奴，妾寧死不辱！」遂掣壁間寶劍欲自刎。卓慌奪劍擁抱曰：「吾戲汝！」貂蟬倒於卓懷，掩面大哭曰：「此必李儒之計也！儒與布交厚，故設此計；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhuo entered the rear chamber and summoned Diao Chan, asking, \"Are you having an affair with Lü Bu?\" Chan began to cry, saying, \"I was enjoying the flowers in the rear courtyard, when Lü Bu suddenly arrived."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-009-line-006",
+        "order": 6,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "卻不顧惜太師體面與賤妾性命。妾當生噬其肉！」卓曰：「吾安忍捨汝耶？」蟬曰：「雖蒙太師憐愛，但恐此處不宜久居，必被呂布所害。」卓曰：「吾明日和你歸郿塢去，同受快樂，慎勿憂疑。」蟬方收淚拜謝。次日，李儒入見曰：「今日良辰，可將貂蟬送與呂布。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I was startled and tried to get away from him, but Bu said, 'I am the Senior Grand Tutor's son, why should you avoid me?' He kept ahold of his halberd, and made me go to the Fengyi Pavilion."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-009-line-007",
+        "order": 7,
+        "source_block_chunk": 4,
+        "source_block_order": 2,
+        "text": "卓曰「布與我有父子之分不便賜與。我只不究其罪。汝傳我意以好言慰之可也。」儒曰「太師不可為婦人所惑。」卓變色曰「汝之妻肯與呂布否貂蟬之事再勿多言言則必斬」李儒出仰天歎曰「吾等皆死於婦人之手矣」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I could see that his intentions were not good, and was afraid of being overpowered by him. I was about to jump into the lotus pond to kill myself, but that jerk grabbed me and held me in his arms. Right at the moment that my life hung in the balance, you came to my rescue and saved my life.\" Dong Zhuo said, \"What if I were to give you away to Lü Bu, how would that be?\" Diao Chan was taken aback, and cried out, \"I am already the consort of a rich and powerful man, and now you suddenly wish to give me away to become a house slave. I would rather die than to suffer such humiliation!\" She then pulled out a straight sword, which had been hanging the wall, and prepared to take her own life. Dong Zhuo hastily grabbed the sword from her, and took her in his arms, saying, \"I was only kidding!\" Diao Chan fell into Zhuo's arms, covered her face, and cried out, \"This must be Li Ru's scheme! Ru and Bu are real tight with each other; he must have set this up! He has no regard for your face, or for my life. I could eat his raw flesh!\" Zhuo said, \"How could I ever give you up?\" Chan said, \"Even though it will mean taking advantage of your good nature, I nevertheless am afraid that I shouldn't stay here permanently. Sooner or later, Lü Bu will try to harm me.\" Zhuo said, \"Tomorrow, I will go with you to Fort Mei, so that we can be happy; no matter what, don't worry.\" After that, Chan stopped crying and prostrated herself and thanked him. The next day, Li Ru came calling, saying, \"Today is an auspicious day, we should send Diao Chan over to Lü Bu.\" Zhuo said, \"I have a father and son relationship with Bu, it would not be seemly to give her to him. I will simply not pursue charges against him. Relay my intentions to him. Console him with comforting words; that should suffice.\" Ru said, \"Senior Grand Tutor, you must not allow yourself to be swayed by a consort.\" His face turning red, Zhuo said, \"Would you be willing to offer your wife to Lü Bu? As for Diao Chan, you are not to say another word about it. One more word, and I will have your head chopped off!\" Li Ru made his exit. He looked up at the sky and sighed, saying, \"We shall all die by the hand of someone's wife!\" People of later generations, having read up to this point, composed a poem lamenting the episode. It went:"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-009-line-008",
+        "order": 8,
+        "source_block_chunk": 5,
+        "source_block_order": 2,
+        "text": "」後人讀書至此，有詩嘆之曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The brilliant plan of the Minister over the Masses relied on a beguiling woman; it required neither arms, nor soldiers."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-009-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "司徒妙算託紅裙，不用干戈不用兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The three battles fought at Hulao were all in vain; instead, all of the patriotic songs are about Fengyi Pavilion."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-009-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "三戰虎牢徒費力，凱歌卻奏鳳儀亭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dong Zhuo gave the order to return to Fort Mei that very day."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-009-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "董卓即日下令還郿塢，百官俱拜送。貂蟬在車上，遙見呂布於稠人之內，眼望車中。貂蟬虛掩其面，如痛哭之狀。車已去遠，布緩轡於土岡之上，眼望車塵，嘆惜痛恨。忽聞背後一人問曰：「溫侯何不從太師去，乃在此遙望而發嘆？」布視之，乃司徒王允也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All of the court officials came to see him off. From inside the carriage, Diao Chan saw Lü Bu amongst the crowd off in the distance; he was looking in the direction of the carriage. Diao Chan pretended to cover her face, as if she were crying uncontrollably. After the carriage was further away, Bu eased up on his horse's reins, and casually made his way to the top of a hill. From there, he gazed off into the distance at the dust that had been kicked up by the wheels of the carriage. He let out a bitter sigh. Suddenly, he heard someone from behind him say, \"Marquis of Wen, why not go with the Senior Grand Tutor, instead of looking into the distance and sighing from here?\" Bu looked at him and saw that it was Minister over the Masses Wang Yun."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-009-line-012",
+        "order": 12,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "相見畢，允曰：「老夫日來因染微恙，閉門不出，故久未得與將軍一見。今日太師駕歸郿塢，只得扶病出送，卻喜得晤將軍。請問將軍，為何在此長嘆？」布曰：「正為公女耳。」允佯驚曰：「許多時尚未與將軍耶？」布曰：「老賊自寵幸久矣！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Once they were face-to-face, Yun said, \"I recently came down with a minor illness, so I was staying indoors."
+          }
+        }
+      },
+      {
+        "character_count": 53,
+        "id": "chapter-009-line-013",
+        "order": 13,
+        "source_block_chunk": 3,
+        "source_block_order": 5,
+        "text": "允佯大驚曰「不信有此事」布將前事一一告允。允仰面跌足半晌不語良久乃言曰「不意太師作此禽獸之行」因挽布手曰「且到寒舍商議。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As a result, I had not yet had a chance to meet with you."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-009-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "布隨允歸。允延入密室，置酒款待。布又將鳳儀亭相遇之事，細說一遍。允曰：「太師淫吾之女，奪將軍之妻，誠為天下恥笑——非笑太師，笑允與將軍耳！然允老邁無能之輩，不足為道；可惜將軍蓋世英雄，亦受此汙辱也！」布怒氣沖天，拍案大叫。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Senior Grand Tutor is returning to Fort Mei today, so I had no choice but to see him off, in spite of my illness. Fortunately, it gave me a chance to run into you. General, if you don't mind my asking, why are you sighing so much?\" Bu said, \"To be exact, it's because of your daughter.\" Yun feigned surprise, saying, \"Is she still not with you, after all of this time?\" Bu said, \"That old scoundrel has been lavishing his attentions on her for a while now!\" Yun feigned an even bigger surprise, saying, \"I don't believe this could have happened!\" Bu proceeded to tell the whole story to Yun. Yun raised his head, stamped his feet, and did not say anything for a while; after a few minutes, he said, \"I did not anticipate that the Senior Grand Tutor would act like such a beast!\" He then pulled Bu by the hand, saying, \"Come to my home so that we can discuss this.\" Bu followed Yun back to his residence. Yun escorted him into a secret chamber, then poured him a cup of wine. Bu again gave a detailed account of everything that had taken place at the encounter at the Fengyi Pavilion. Yun said, \"The Senior Grand Tutor has defiled my daughter, and stolen your wife. This is truly a national mockery! But, it is not the Senior Grand Tutor that is being mocked; it is me and you that are being mocked! On the other hand, I'm old and useless. I'm not worth mentioning. Unfortunately for you, General, you are a matchless hero, and you are enduring this humiliation as well!\""
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-009-line-015",
+        "order": 15,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "允急曰：「老夫失語，將軍息怒。」布曰：「誓當殺此老賊，以雪吾恥！」允急掩其口曰：「將軍勿言，恐累及老夫。」布曰：「大丈夫生居天地間，豈能鬱鬱久居人下！」允曰：「以將軍之才，誠非董太師所可限制。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Boiling over with rage, Bu pounded the table and let out a yell."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-009-line-016",
+        "order": 16,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "」布曰：「吾欲殺此老賊，奈是父子之情，恐惹後人議論。」允微笑曰：「將軍自姓呂，太師自姓董。擲戟之時，豈有父子情耶？」布奮然曰：「非司徒言，布幾自誤！」允見其意已決，便說之曰：「將軍若扶漢室，乃忠臣也，青史傳名，流芳百世；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yun hastily added, \"I have spoken out of turn, please calm down.\" Bu said, \"I swear to you that I will kill that old scoundrel; that is how I will wipe away my humiliation!\" Yun quickly covered Bu's mouth, saying, \"Don't say that aloud, I'm afraid you'll implicate me.\" Bu said, \"How can a man of importance sullenly live under the thumb of such a man for so long!\" Yun said, \"With your abilities, you are honestly not someone who can be reined in by Senior Grand Tutor Dong.\" Bu said, \"I want to kill that old scoundrel; the only thing stopping me is our father and son relationship."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-009-line-017",
+        "order": 17,
+        "source_block_chunk": 4,
+        "source_block_order": 6,
+        "text": "將軍若助董卓，乃反臣也，載之史筆，遺臭萬年。」布避席下拜曰：「布意已決，司徒勿疑。」允曰：「但恐事或不成，反招大禍。」布拔帶刀，剌臂出血為誓。允跪謝曰：「漢祀不斬，皆出將軍之賜也。切勿洩漏！臨期有計，自當相報。」布慨諾而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I'm afraid that people of later generations would pass judgment on me.\" Yun smiled and said, \"General, your surname is Lü; the Senior Grand Tutor's surname is Dong. When he threw that halberd at you, was that a father and son relationship?\" Bu excitedly said, \"Minister over the Masses, if it weren't for your advice, all of my mistakes would have long ago been my undoing!\" Yun saw that Bu had already made up his mind, so he gave him some advice, saying, \"General, if you were to side with the house of Han, then you will be seen as a loyal minister, and your name will go down in history as an exalted figure. However if you were to help Dong Zhuo, then you will be seen as a disloyal minister; when the historian's pen records your deeds, your name will go down in history as a byword of infamy.\" Bu rose from his seat and bowed in gratitude, saying, \"My mind is already made up. Have no doubt, Minister over the Masses.\" Yun said, \"I'm just afraid that if you are unsuccessful, it will bring about a huge disaster.\" In order to demonstrate his pledge to this task, Bu took out the knife in his belt and pricked his arm, causing blood to flow out. Yun knelt down and thanked him, saying, \"If the age of Han is not cut short, it will all be as a result of your service! No matter what you do, don't let this get out! When the time comes, I will of course notify you of my plan.\""
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-009-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "允即請僕射士孫瑞、司隸校尉黃琬商議。瑞曰：「方今主上有疾新愈，可遣一能言之人，往郿塢請卓議事；一面以天子密詔付呂布，使伏甲兵於朝門之內，引卓入誅之：此上策也。」琬曰：「何人敢去？」瑞曰：「呂布同郡騎都尉李肅，以董卓不遷其官，甚是懷怨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Bu made a heartfelt promise, then left."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-009-line-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "若令此人去，卓必不疑。」允曰：「善。」請呂布共議。布曰：「昔日勸吾殺丁建陽，亦此人也。今若不去，吾先斬之。」使人密請肅至。布曰：「昔日公說布，使殺丁建陽而投董卓；今卓上欺天子，下虐生靈，罪惡貫盈，人神共憤。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yun now invited over Deputy Minister Steward Shisun Rui and Captain in Charge of Law Enforcement and Public Works Huang Wan to discuss the matter."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-009-line-020",
+        "order": 20,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "公可傳天子詔往郿塢，宣卓入朝，伏兵誅之，力扶漢室，共作忠臣。尊意若何？」肅曰：「我亦欲除此賊久矣，恨無同心者耳。今將軍若此，是天賜也，肅豈敢有二心？」遂折箭為誓，允曰：「公若能幹此事，何患不得顯官？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Rui said, \"His Majesty has recently recovered from an illness. We could send someone who has a way with words to Fort Mei and invite Zhuo back to discuss official business with His Majesty. As part of this plan, we could arrange for Lü Bu to be given a secret imperial edict, authorizing armed troops to hide themselves inside the gate leading into the emperor's audience hall. We could then bring Zhuo through there and kill him. I think it's a very good plan.\" Wan said, \"Who will go?\" Rui said, Captain of the Cavalry Li Su is from the same commandery as Lü Bu. He is harboring a big grudge, because Dong Zhuo has not given him a promotion. If we send him, Zhuo will not be the least bit suspicious.\" Yun said, \"Excellent.\" They invited back Lü Bu to talk things over. Bu said, \"A few years ago, he was the one who advised me to kill Ding Jianyang. Now, if he doesn't go, I will make it a priority to kill him.\" They sent someone to secretly ask Li Su to come over. Bu said, \"A few years ago, you convinced me to kill Ding Jianyang and throw in my lot with Dong Zhuo. Today, Zhuo is deceiving the Son of Heaven and bullying the people. His evil deeds could fill volumes, and he is reviled by men and gods alike. You must deliver an imperial edict to Fort Mei, instructing Zhuo to make an appearance at court. When he does, my hidden troops will kill him. This will be a major help to the house of Han, and we shall be regarded as loyal ministers; what do you think?\" Su said, \"I have wanted to get rid of that old scoundrel for quite some time, and was aggravated that I could not find anyone of like mind. Now that I know your intentions, it is like a gift from heaven. How could I dare have any second thoughts?\" He then broke an arrow to seal his promise. Yun said, \"If you can do this thing, why should you doubt that you would not get a prestigious post out of the deal?\""
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-009-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "允曰「公若能幹此事何患不得顯官」次日李肅引十數騎前到郿塢。人報天子有詔卓叫喚入。李肅入拜。卓曰「天子有何詔」肅曰「天子病體新痊欲會文武於未央殿議將禪位於太師故有此詔。」卓曰「王允之意若何」肅曰「王司徒已命人築『受禪臺』只等主公來。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The next day, Li Su took a dozen or so cavalrymen with him to Fort Mei."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-009-line-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "卓大喜曰「吾夜夢一龍罩身今果得此喜信。時哉不可失」便命心腹將李傕郭汜張濟樊稠四人領飛熊軍三千守郿塢自己即日排駕回京顧謂李肅曰「吾為帝汝當為執金吾。」肅拜謝稱臣。卓入辭其母。母時年九十餘矣問曰「吾兒何往」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When someone reported that there was an edict from the Son of Heaven, Zhuo had the person bring them in."
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-009-line-023",
+        "order": 23,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "卓曰「兒將往受漢禪母親早晚為太后也」母曰「吾近日肉顫心驚恐非吉兆。」卓曰「將為國母豈不預有驚報」遂辭母而行。臨行謂貂蟬曰「吾為天子當立汝為貴妃。」貂蟬已明知就裏假作歡喜拜謝。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Li Su came in and paid his respects."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-009-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "卓出塢上車，前遮後擁，望長安來。行不到三十里，所乘之車，忽折一輪，卓下車乘馬。又行不到十里，那馬咆哮嘶喊，掣斷轡頭。卓問肅曰：「車折輪，馬斷轡，其兆若何？」肅曰：「乃太師應受漢禪，棄舊換新，將乘玉輦金鞍之兆也。」卓喜而信其言。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhuo said, \"What edict does the Son of Heaven have for me?\" Su said, \"The Son of Heaven has recovered from his illness, and would like to convene his military and civilian advisors at Weiyang Palace. He would like to discuss abdicating his throne in favor of you, Supreme Grand Tutor. That is why he sent this edict.\" Zhuo said, \"What does Wang Yun think?\" Su said, \"Minister over the Masses Wang has already ordered the construction of an 'abdication platform.' All he is waiting for is the arrival of Your Excellency.\" Zhuo was overjoyed, saying, \"I had a dream that a dragon had covered my body, and now I have received this happy news. There is not a moment to lose!\" He then ordered his trusted generals -- Li Jue, Guo Si, Zhang Ji, and Fan Chou -- to guard Fort Mei with three thousand of his Flying Bear cavalry troops, while he arranged to return by carriage to the capital that very day. Turning to look at Li Su, he said, \"If I become emperor, I will place you in charge of maintaining law and order within the capital. Su thanked him, and declared himself a loyal minister. Zhuo came in to say goodbye to his mother. At the time, she was more than 90 years old. She asked, \"Where are you going, my son?\" Zhuo said, \"I am going to go and accept the abdication of the Han throne. You are to become Empress Dowager.\" His mother said, \"Lately, I've been trembling with anxiety. I'm afraid that it is a bad omen. Zhuo said, \"You are to become the mother of the nation, how could you not feel apprehension?\" He then bid his mother farewell, and left. As he was leaving, he said to Diao Chan, \"When I become Son of Heaven, you shall become my highest-ranking concubine.\" Diao Chan already knew the inside story, so she pretended to be happy and thanked him. Zhuo left the fort and mounted the carriage. Amid a great throng and clamor, he set out toward Chang'an. They had not gone more than 30 li, when one of the carriage wheels broke. Zhuo got out of the carriage, and continued on horseback. They had not gone more than another ten li, before his horse started to whinny and neigh very loudly, breaking its bridle. Zhuo asked Su, \"The carriage broke a wheel, and the horse broke its bridle; what kind of omens are these?\" Su said, \"The omen means that you should accept the abdication of the Han. The old must be abandoned in favor of the new. From now on, you shall be riding in the jade imperial carriage, or on a golden saddle.\" Zhuo was delighted, and believed his words."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-009-line-025",
+        "order": 25,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "次日，正行間，忽然狂風驟起，昏霧蔽天。卓問肅曰：「此何祥也？」肅曰：「主公登龍位，必有紅光紫霧，以壯天威耳。」卓又喜而不疑。即至城外，百官俱出迎接。只有李儒抱病在家，不能出迎。卓進至相府，呂布入賀。卓曰：「吾登九五，汝當總督天下兵馬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The following day, while en route, a violent gust of wind suddenly kicked up, blackening the sky with a dark fog."
+          }
+        }
+      },
+      {
+        "character_count": 69,
+        "id": "chapter-009-line-026",
+        "order": 26,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "是夜有十數小兒於郊外作歌風吹歌聲入帳。歌曰「千里草何青青十日上不得生」歌聲悲切。卓問李肅曰「童謠主何吉凶」肅曰「亦只是言劉氏滅董氏興之意。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhuo asked Su, \"What kind of omen is this?\" Su said, \"Your Excellency will be ascending the dragon throne; there are bound to be red rays of light and purple mist as these signify your heaven-like majesty.\" Zhuo was again delighted, and was not suspicious. When they arrived at the outskirts of the city, all of the ministers came out to receive him. Only Li Ru remained home, due to an illness, and was unable to come out and greet him. As Zhuo neared his own official residence, Lü Bu attended an audience in order to offer his congratulations. Zhuo said, \"When I become emperor, you shall oversee all military forces within the nation.\" Bu thanked him, and stayed the night in front of Zhuo's tent. That night, a dozen or so little kids on the outskirts of town had made up a song. The sound of their singing was carried along by the wind into Zhuo's tent. The song went: \"The grass spreads out for thousands of li; how green it is! Within 10 days, it will not be alive!\" The singing was melancholy. Zhuo asked Su, \"What shall be the fate of the protagonist of the children's song?\" Su said, \"It is merely suggesting that the Liu family shall be wiped out, while the Dong family shall be ascendant.\""
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-009-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "次日侵晨，董卓擺列儀從入朝，忽見一道人，青袍白巾，手執長竿，上縳布一丈，兩頭各書一「口」字。卓問肅曰：「此道人何意？」肅曰：「乃心恙之人也。」呼將士驅去。卓進朝，群臣各具朝服，迎謁於道。李肅手執寶劍扶車而行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "right|thumb|200px|men wearing traditional w:Changshan|long overshirts The next day, just before daybreak, Dong Zhuo lined up his ceremonial attendants and made his way toward the imperial court."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-009-line-028",
+        "order": 28,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "到北掖門，軍兵盡擋在門外，獨有御車二十餘人同入。董卓遙見王允等各執寶劍立於殿門，驚問肅曰：「持劍是何意？」肅不應，推車直入。王允大呼曰：「反賊至此，武士何在？」兩旁轉出百餘人，持戟挺槊刺之。卓裹甲不入，傷臂墮車，大呼曰：「吾兒奉先何在？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Suddenly, he saw a Daoist priest; the priest was wearing a green long overshirt and a white turban."
+          }
+        }
+      },
+      {
+        "character_count": 66,
+        "id": "chapter-009-line-029",
+        "order": 29,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "」呂布從車後厲聲出曰：「有詔討賊！」一戟直刺咽喉，李肅早割頭在手。呂布左手持戟，右手懷中取詔，大呼曰：「奉詔討賊臣董卓，其餘不問！」將吏皆呼萬歲。後人有詩嘆董卓曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In his hands, the priest carried a long bamboo pole. A one zhang piece of cloth was fastened on top of it. The word \"mouth\" was written on each end of the cloth. Zhuo asked Su, \"What's the story with this Daoist priest?\" Su said, \"That's just some crazy person,\" and had some soldiers make the priest go away. As Zhuo near the imperial court, all of the ministers were dressed in their court clothing. They all greeted him as he made his way past them. Li Su held a straight sword in his hand as he escorted the carriage forward. When they arrived at the side entrance doors to the northern palace gate, Zhuo's soldiers were blocked just outside the gate. Only Zhuo's carriage, plus another 20 or so people, went inside. In the distance, Dong Zhuo saw Wang Yun, along with the others, standing by the gates to the palace; they were holding straight swords in their hands. Surprised at this, Zhuo asked Su, \"Why are they holding straight swords?\" Su did not answer, but kept pushing the carriage inside. Wang Yun yelled out, \"The traitor has arrived, where are the soldiers?\" More than 100 people emerged from both sides; they stabbed him with halberds and long-handled spears. Zhuo was wearing armor, so he was not pierced. However, the blows to his chest caused him to be injured and fall from the carriage. He yelled out, \"Where is my son Fengxian?\" Lü Bu came out from behind the carriage, and shrieked, \"There is an imperial edict which calls for the extermination of traitorous rebels!\" He made a single thrust with his halberd at Zhuo's throat, then Li Su cut off Zhuo's head and held it in his hands. Lü Bu held his halberd with his left hand, while pulling out the imperial edict from his vest with his right hand. He then yelled out, \"In accordance with this imperial edict, we hereby exterminate the traitorous minister Dong Zhuo; the rest is irrelevant!\" The military and civilian officials all shouted, \"Long live Lü Bu!\" People of later generations wrote a poem lamenting the fate of Dong Zhuo, which went:"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-009-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "伯業成時為帝不，不成且作富家郎。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If the exploits of a despot are successful, he will become emperor; if not, he will still become a wealthy man."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-009-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "誰知天意無私麯，郿塢方成已滅亡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Who knew that the will of heaven is so impartial; no sooner had Fort Mei been built, than it was destroyed!"
+          }
+        }
+      },
+      {
+        "character_count": 102,
+        "id": "chapter-009-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "卻說當下呂布大呼曰：「助卓為虐者，皆李儒也！誰可擒之？」李肅應聲願往。忽聽朝門外發喊，人報李儒家奴已將李儒綁縳來獻。王允命縳赴市曹斬之；又將董卓屍首，號令通衢。卓屍肥胖，看屍軍士以火置其臍中為燈，膏油滿地。百姓過者，莫不手擲其頭，足踐其屍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to Lü Bu, who presently yelled out, \"The one who helped Zhuo in his tyranny was none other than Li Ru!"
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-009-line-033",
+        "order": 33,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "王允又命呂布同皇甫嵩、李肅領兵五萬，至郿塢抄籍董卓家產人口。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Who will arrest him?\" Li Su responded to the call, and volunteered his services. Suddenly, one could hear shouting from outside of the gates to the imperial court. Someone reported that Li Ru's house servants had already tied him up, and turned him in. Wang Yun ordered him to be publicly executed in the town square; Dong Zhuo's corpse was paraded through the streets as well. Zhuo's body had a high fat content; the soldiers guarding the body put a flame in his naval, and used that as their light. His body grease was all over the ground. Of the hundreds of citizens who passed by, not one of them failed to hurl things at his head with their hands and kick his corpse with their feet. Wang Yun also ordered Lü Bu, along with Huangfu Song and Li Su, to lead 50,000 troops to Fort Mei and secure Dong Zhuo's family possessions as well as his family members."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-009-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "卻說李傕，郭汜，張濟，樊稠聞董卓已死，呂布將至，便引了飛熊軍連夜奔涼州去了。呂布至郿塢，先取了紹蟬。皇甫嵩命將塢中所藏良家子女，盡行釋放。但係董卓親屬，不分老幼，悉皆誅戮。卓母亦被殺。卓弟董旻、姪董璜皆斬首號令。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to Li Jue, Guo Si, Zhang Ji and Fan Chou, who -- upon hearing of Dong Zhuo's death and of Lü Bu's imminent arrival -- took the Flying Bear cavalry troops to Liangzhou, travelling day and night day until they arrived."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-009-line-035",
+        "order": 35,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "收籍塢中所蓄黃金數十萬，綺羅、珠寶、器皿、糧食不計其數，回報王允。允乃大犒軍士，設宴於都堂，召集眾官，酌酒稱慶。正飲宴間，忽人報曰：「董卓暴屍於市，忽有一人伏其屍而大哭。」允怒曰：「董卓伏誅，士民莫不稱賀；此何人，敢哭耶？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Lü Bu arrived at Fort Mei, the first thing he did was to go get Diao Chan."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-009-line-036",
+        "order": 36,
+        "source_block_chunk": 3,
+        "source_block_order": 14,
+        "text": "」遂喚武士：「與吾擒來！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Huangfu Song ordered the release of all of the sons and daughters of innocent families that had been held at the fort; however, with respect to members of Dong Zhuo's family, all of them were put to death, from the oldest to the youngest. Zhuo's mother was also killed. Zhuo's younger brother Dong Min and cousin Dong Huang were both beheaded and paraded through the streets. Within the fort, the soldiers confiscated hundreds of thousands in gold, several million in silver, and who knows how much silk, jewelry, dishware and grain. All of this was reported back to Wang Yun. Yun then rewarded the soldiers, and threw a banquet in the hall where official business was usually conducted. He gathered together all of the ministers, and made congratulatory toasts. During the banquet, someone suddenly reported, \"Dong Zhuo's body was on display in the streets, when someone suddenly hid behind his body and began crying uncontrollably.\" Yun angrily said, \"After Dong Zhuo was killed, there wasn't a single citizen who did not rejoice. Who is this person that would dare to cry?\" He then called over some attendants, saying, \"Arrest the man, and bring him to me!\""
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-009-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "須臾擒至。眾官見之，無不驚駭：原來那人不是別人，乃侍中蔡邕也。允叱曰：「董卓逆賊，今日伏誅，國之大幸。汝為漢臣，乃不為國慶，反為賊哭，何也？」邕伏罪曰：「邕雖不才，亦知大義，豈肯背國而向卓？只因一時知遇之感，不覺為之一哭，自知罪大。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After a while, the arrested man arrived."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-009-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "願公見原：倘得黥首刖足，使續成漢史，以贖其辜，邕之幸也。」眾官惜邕之才，皆力救之。太傅馬日磾亦密謂允曰：「伯喈曠世逸才，若使續成漢史，誠為盛事。且其孝行素著，若遽殺之，恐失人望。」允曰：「昔孝武不殺司馬遷，後使作史，遂致謗書流於後世。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When everyone took a look at him, there was not one person who was not shocked."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-009-line-039",
+        "order": 39,
+        "source_block_chunk": 3,
+        "source_block_order": 15,
+        "text": "方今國運衰微，朝政錯亂，不可令佞臣執筆於幼主左右，使吾等蒙其訕議也。」日磾無言而退，私謂眾官曰：「王允其無後乎！善人，國之紀也；制作，國之典也。滅紀廢典，豈能久乎？」當下王允不聽馬日磾之言，命將蔡邕下獄中縊死。一時士大夫聞者，盡為流涕。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As it turns out, the man was none other than the trusted attendant Cai Yong."
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-009-line-040",
+        "order": 40,
+        "source_block_chunk": 4,
+        "source_block_order": 15,
+        "text": "後人論蔡邕之哭董卓，固自不是；允之殺邕，亦為已甚。有詩歎曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yun scolded him, saying, \"Dong Zhuo was a traitor. He has now been executed, which is a great fortune for the nation. You are a Han minister, but you do not celebrate for the nation. Instead, you cry for a traitor. Why is that?\" Yong acknowledged his guilt, saying, \"Even though I'm not a man of talent, I still know right from wrong. How could I be willing to turn my back on my country in favor of Zhuo? It was only because of the fact that we were friends at one time, that I unconsciously began to cry for him. I recognize the magnitude of my offense, and ask you to forgive me. If I could be treated as a criminal -- being tattooed on the forehead or having my foot chopped off -- in order to continue my work documenting the history of the Han, and to atone for my offense, it would be my enduring good fortune.\" 200px|thumb|right|w:Sima Qian|Sima Qian All of the ministers had a high regard for Yong's talents, and tried vigorously to save him. Grand Tutor Ma Midi had a confidential conversation with Yun, in which he said, \"Bojie is exceptionally talented; if we were to allow him to finish writing the history of the Han, it would truly be a great thing. What's more, his acts of fialty are well known. If we were to rashly kill him, I'm afraid we would lose the support of the people.\" Yun said, \"In the past, Xiaowu did not kill Sima Qian, and eventually allowed him to write the history books. As a result, a book full of lies was passed down to later generations. Right now, the nation is weak, and the government bureaucracy is in a state of chaos. We cannot allow a treacherous official to pick up his pen in such close proximity to a young emperor. Doing so would provide him inspiration for writing his lies.\" Midi left, without saying a word. Privately, he said to the other ministers, \"Does Wang Yun not think of his descendants? 'Good people provide the foundation for a nation's legal system; proper etiquette provides the foundation for a nation's laws.' If we destroy the legal system and abandon its laws, how can we possibly survive as a nation?\" Presently, Wang Yun did not heed Ma Midi's advice, and ordered that Cai Yong be thrown into prison, then hanged. Before long, the important officials heard about what had happened, and all of them shed tears. People of later generations concluded that, while Cai Yong's crying on behalf of Dong Zhuo was indeed wrong, Yun's execution of Yong was also excessive. There is a poem lamenting this, which goes:"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-009-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "董卓專權肆不仁，侍中何自竟亡身？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dong Zhuo monopolized power and was a tyrant without humanity; but, why should a trusted attendant lose his life?"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-009-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "當時諸葛隆中臥，安肯輕身事亂臣？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At that time, Zhuge was still living in obscurity in Longzhong; why would he be willing to neglect his own dignity, and serve at the pleasure of traitorous ministers?"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-009-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "且說李傕、郭汜、張濟、樊稠逃居陝西，使人至長安上表求赦。王允曰：「卓之跋扈，皆此四人助之；今雖大赦天下，獨不赦此四人。」使者回報李傕。傕曰：「求赦不得，各自逃生可也。」謀士賈詡曰：「諸君若棄軍單行，則一亭長能縛君矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "200px|thumb|right|w:Jia Xu|Jia Xu Let us now turn to Li Jue, Guo Si, Zhang Ji and Fan Chou, who had all escaped to the area beyond the mountains to the west."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-009-line-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "不若誘集陝人，并本部軍馬，殺入長安，與董卓報讎。事濟，奉朝廷以正天下；若其不勝，走亦未遲。」傕等然其說，遂流言於西涼州曰：「王允將欲洗蕩此方之人矣。」眾皆驚惶。乃復揚言曰：「徒死無益，能從我反乎？」眾皆願從。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They sent someone to Chang'an to formally request amnesty for themselves."
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-009-line-045",
+        "order": 45,
+        "source_block_chunk": 3,
+        "source_block_order": 18,
+        "text": "於是聚眾十餘萬，分作四路，殺奔長安來。路逢董卓女婿中郎將牛輔，引軍五千人，欲去與丈人報讎，李傕便與合兵，使為前驅，四人陸續進發。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wang Yun said, \"It was these four who helped Zhuo to throw his weight around; I intend to grant amnesty to everyone in the country, with the exception of these four men.\" The messenger reported back to Li Jue. Jue said, \"Since we are not to be granted amnesty, the only thing we can do is to split up and flee. His advisor Jia Xu said, \"If each of you were to abandon your armies and strike out on your own, even a local district leader would be able to arrest you. It would be better to recruit the local men from around here, combine them with our main army, then attack Chang'an. This would allow us to avenge Dong Zhuo's death. If we accomplish our mission, we could help the imperial court to get the nation back on track. If we don't win, it would still not be too late to run.\" Jue agreed with his suggestion; accordingly, he spread rumors in Xiliang Province that, \"Wang Yun was going to wipe out everyone in the area.\" They were all panic-stricken. Jue also spread the word that, \"There is no benefit to dying in vain; will you follow me in rebellion?\" Everyone volunteered to follow him. Subsequently, a force of more than 100,000 men had been amassed, which they divided into four groups, before marching against Chang'an. Along the way, they encountered Dong Zhuo's son-in-law Niu Fu, who was leading a force of 5,000 men. He was on his way to avenge his father-in-law, so Li Jue joined forces with him, placing him in the front. The four men continued their advance."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-009-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "王允聽知西涼兵來，與呂布商議。布曰：「司徒放心。量此鼠輩，何足數也！」遂引李肅將兵出敵。肅當先迎戰，正與牛輔相遇，大殺一陣。牛輔抵敵不過，敗陣而去。不想是夜二更，牛輔乘肅不備，竟來劫寨。肅軍亂竄，敗走三十餘里，折軍大半，來見呂布。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Wang Yun heard that an army from Xiliang Province was coming, he discussed the matter with Lü Bu."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-009-line-047",
+        "order": 47,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "布大怒曰：「汝何挫吾銳氣！」遂斬李肅，懸頭軍門。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Bu said, \"Minister over the Masses, don't worry. These piss-ants aren't even worthy of consideration!\" He then had Li Su lead an army out to meet the enemy. Su took the initiative, and went on a killing spree when he encountered Niu Fu's forces. Niu Fu's forces were unable to resist, so they fled in defeat. Who knew that they would take advantage of Li Su's complacency, and make a raid on Su's camp that night during the second watch. Su's army made a haphazard escape. They had retreated for more than 30 li, losing half of their numbers, when Su went to see Lü Bu. Bu was furious, and said, \"You have taken the wind out of my sails!\" He then had Li Su beheaded; the head was hung near the camp's entrance."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-009-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "次日，呂布進兵與牛輔對敵。牛輔如何敵得呂布，仍復大敗而走。是夜牛輔喚心腹人胡赤兒商議曰：「呂布驍勇，萬不能敵；不如瞞了李傕等四人，暗藏金珠，與親隨三五人棄軍而去。」胡赤兒應允。是夜收拾金珠，棄營而走，隨行者三四人。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The next day, Lü Bu advanced against Niu Fu."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-009-line-049",
+        "order": 49,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "將渡一河，赤兒欲謀取金珠，竟殺死牛輔，將頭來獻呂布。布問起情由，從人出首：「胡赤兒謀殺牛輔，奪其金寶。」布怒，即將赤兒誅殺。領軍前進，正迎著李傕軍馬。呂布不等他列陣，便挺戟躍馬，麾軍直衝過來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Niu Fu was simply no match for Lü Bu, so he again fled in defeat."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-009-line-050",
+        "order": 50,
+        "source_block_chunk": 3,
+        "source_block_order": 20,
+        "text": "傕軍不能抵當，退走五十餘里，依山下寨，請郭汜，張濟，樊稠共議，曰：「呂布雖勇，然而無謀，不足為慮。我引軍守任谷口，每日誘他廝殺。郭將軍可領軍抄擊其後，效彭越撓楚之法，鳴金進兵，擂鼓收兵。張、樊二公，卻分兵兩路，逕取長安。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "That night, Niu Fu summoned his confidant Hu Chi'er to discuss the matter, saying, \"Lü Bu is brave; there is no way I could ever beat him."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-009-line-051",
+        "order": 51,
+        "source_block_chunk": 4,
+        "source_block_order": 20,
+        "text": "彼首尾不能救應，必然大敗。」眾用其計。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It would be better to dupe Li Jue and the other three, then sneak away with the gold and jewelry, taking three to five people with us.\" Hu Chi'er agreed. That night, they gathered up the gold and jewelry, then left camp, along with three or four people. They were about to cross a river, when Chi'er took the gold and jewelry for himself, then killed Niu Fu, bringing the head to Lü Bu as an offering. When Bu asked why he had come, Chi'er's attendant produced the head, saying, \"Hu Chi'er has murdered Niu Fu and taken his gold and jewelry.\" Bu became angry and had Chi'er]] killed. He marched his army forward, encountering Li Jue's forces. Lü Bu did not wait for them to form ranks before raising his halberd, then leading his army in a direct frontal charge at full gallop. Jue's army was unable to put up resistance and retreated for more than 50 li, before pitching camp at the foot of a mountain. He then held talks with Guo Si, Zhang Ji and Fan Chou, saying, \"Although Lü Bu is brave, he lacks a strategic mind, and is not worth worrying about. I will take my army and block the opening to the valley. Every day, I will draw him into a fight. General Guo will take his army and flank Bu, taking his rear. We will do it the same way that Peng Yue did when he circled to the rear of Chu: sounding the gongs will mean to advance, and beating the drums will mean to retreat. Zhang and Fan will split up, and make a two-pronged direct assault on Chang'an. Bu will be unable to come to the rescue of both the head and the tail of his army, and thus will suffer a major defeat.\" They all adopted his plan."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-009-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "卻說呂布勒兵到山下，李傕引軍搦戰。布忿怒衝殺過去，傕退走上山。山上矢石如雨，布軍不能進。忽報郭汜在陣後殺來，布急回戰。只聞鼓聲大震，汜軍已退。布方欲收軍，鑼聲響處，傕軍又來。未及對敵，背後郭汜又領軍殺到。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to Lü Bu, who had halted his army at the base of the mountain."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-009-line-053",
+        "order": 53,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "及至呂布來時，卻又擂鼓收軍去了，激得呂布怒氣填胸。一連如此幾日，欲戰不得，欲止不得。正在惱怒，忽然飛馬報來，說張濟、樊稠兩路軍馬，竟犯長安，京城危急。布急領軍回，背後李傕、郭汜殺來。布無心戀戰，只顧奔走，折了好些人馬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Li Jue led his army out to challenge Bu."
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-009-line-054",
+        "order": 54,
+        "source_block_chunk": 3,
+        "source_block_order": 21,
+        "text": "比及到長安城下，賊兵雲屯雨集，圍定城池，布軍與戰不利。軍士畏呂布暴厲，多有降賊者，布心甚憂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Bu was angry and charged, causing Jue to retreat up the mountain. Arrows and stones rained down from the mountain, making it impossible for Bu's army to advance. Suddenly, someone reported that Guo Si was attacking Bu's rear. Bu hastily wheeled around and engaged with the enemy. In a flash, one could hear the thunderous beating of drums, causing Si's army to retreat. Bu had barely recalled his own troops, when the sound of gongs rang out, and Jue's army charged once again. Before Bu could engage the enemy, Guo Si once again led his army in a charge on Bu's rear. However, right when Lü Bu arrived, the enemy began beating their drums and retreated. They had tweaked Lü Bu to the point where he was steaming with anger. Things continued in this way for several days; Bu was neither able to fight, nor was he able to stand down. While Bu stewed with anger, a galloping rider suddenly came with a report, saying that the armies of Zhang Ji and Fan Chou had staged a two-pronged attack on Chang'an, and that the capital was in peril. Bu led his army toward the capital, turning his back on Li Jue and Guo Si, who were now attacking his rear. Bu had no desire to fight them, and concentrated solely on getting away, causing him to lose quite a few of his own men and horses in the process. By the time he reached the city walls of Chang'an, the bandit rebel army had amassed in great numbers, surrounding the city walls and moat. Bu's army was at a great disadvantage. Quite a few soldiers were afraid of Lü Bu's violent temper, so they surrendered to the bandit rebels. Bu became extremely depressed."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-009-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "數日之後，董卓餘黨李蒙、王方在城中為賊內應，偷開城門，四路賊軍一齊擁入。呂布左衝右突，攔擋不住，引數百騎往青瑣門外，呼王允曰：「勢急矣！請司徒上馬，同出關去，別圖良策。」允曰：「若蒙社稷之靈，得安國家，吾之願也；若不獲已，則允奉身以死。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After several days, Li Meng and Wang Fang, who were remnants of Dong Zhuo's faction, acted as inside men for the bandit rebels by secretly opening the city's gates from the inside."
+          }
+        }
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-009-line-056",
+        "order": 56,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "臨難苟免，吾不為也。為吾謝關東諸公，努力以國家為念！」呂布再三相勸，王允只是不肯去。不一時，各門火燄竟天，呂布只得棄卻家小，引百餘騎飛奔出關，投袁術去了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The bandit rebel armies simultaneously stormed into the city from all four sides."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-009-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "李傕、郭汜縱兵大掠太常卿种拂太僕魯馗大鴻臚周奐城門校尉崔烈越騎校尉王頎皆死於國難。賊兵圍繞內庭至急侍臣請天子上宣平門止亂。李傕等望見黃蓋約住軍士口呼萬歲。獻帝倚樓問曰「卿不候奏請輒入長安意欲何為」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lü Bu fought like crazy, but was unable to stop the enemy."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-009-line-058",
+        "order": 58,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "」李傕、郭汜仰面奏曰：「董太師乃陛下社稷之臣，無端被王允謀殺，臣等特來報讎，非敢造反。但見王允，臣便退兵。」王允時在帝側，聞知此言，奏曰：「臣本為社稷計。事已至此，陛下不可惜臣，以誤國家。臣請下見二賊。」帝徘徊不忍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He led several hundred cavalrymen to the exterior of the palace gates and called out to Wang Yun, saying, \"The situation is dire! Minister over the Masses, please get on a horse and come with me through the pass. After that, we can come with a good plan.\" Yun said, \"If I can protect the imperial ancestral tablets and secure peace for the nation, then that is my desire. If I have no other choice, then I will allow myself to die at the hands of the enemy. I am not the type of person who, when faced with a crisis, will compromise his principles in order to avoid harm. Please thank everyone from the east of the pass for me. They have been tireless in showing their concern for the nation!\" Despite Lü Bu's numerous entreaties, Wang Yun was unwilling to leave. Before long, flames rose into the sky from all of the city's gates. Lü Bu had no choice but to abandon his family, and lead little more than 100 cavalry on a mad dash, through the pass, toward Yuan Shu. Li Jue and Guo Si set their troops loose on a massive pillaging spree. Minister of Ceremonies Chong Fu, Minister Coachman Lu Kui, Minister Herald Zhou Huan, Captain of City Gates Cui Lie, and Captain of Light Cavalry Wang Qi all died as a result of this national calamity. The bandit rebel soldiers were quickly surrounding the inner courtyard of the imperial palace, so the emperor's attendants asked the Son of Heaven to climb to the top of Xuanping Gate and put an end to the chaos. When Li Jue and the others saw the emperor's yellow canopy, they restrained their men, then shouted, \"Long live the emperor.\" Emperor Xian leaned out over the side and asked, \"You ministers have not submitted a formal request to the imperial court, but instead have entered Chang'an without authorization. What is your intention?\" Li Jue and Guo Si looked up and addressed the emperor, saying, \"Senior Grand Tutor Dong was an important national-level senior minister of Your Majesty's, but was murdered by Wang Yun for no reason. We have come to seek vengeance, not to start a rebellion. All we want is to see Wang Yun, and we will withdraw our forces.\""
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-009-line-059",
+        "order": 59,
+        "source_block_chunk": 3,
+        "source_block_order": 23,
+        "text": "允自宣平門樓上跳下樓去，大呼曰：「王允在此！」李傕、郭汜拔劍叱曰：「董太師何罪而見殺？」允曰：「董賊之罪，彌天亙地，不可勝言。受誅之日，長安士民，皆相慶賀，汝獨不聞乎？」傕、汜曰：「太師有罪；我等何罪，不肯相赦？」王允大罵：「逆賊何必多言！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Li Ts‘ui and his fellow leaders gave full licence to their ruffians, who robbed and murdered their fill. Many high officers perished. In time they penetrated to the inner palace and the eunuchs begged the Emperor to proceed to the Hsüanp‘ing Mên (the Gate of Pervading Peace) to try to quell the rioting. At sight of the yellow umbrella Li Ts‘ui and Kuo Ssŭ checked their men and they all shouted “Long life O Emperor!” ( Wan-sui! ). The Emperor stood by the tower and addressed them, “Nobles, what means it that you enter the capital in this unruly manner and without my summons?” ​ The two leaders looked up and said, “Tung Cho, Your Majesty’s Minister, has been slain by Wang Yün and we are here to avenge him. We are no rebels, Sire. Let us only have Wang Yün and we draw off our men.”"
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-009-line-060",
+        "order": 60,
+        "source_block_chunk": 4,
+        "source_block_order": 23,
+        "text": "我王允今日有死而已！」二賊手起，把王允殺於樓下。史官有詩讚曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wang Yün was actually among the courtiers and at the Emperor’s side. Hearing this demand he said, “The plan was made for the benefit of the Throne, but as this evil has grown therefrom Your Majesty will not grudge losing me. I have brought about evil and I will go down to these rebels.”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-009-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "王允運機謀奸臣董卓休。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Emperor was torn with sorrow and wavered. But the faithful Minister leaped from the wall crying, “Wang Yün is here.”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-009-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "心懷國家恨眉鎖廟堂憂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The two leaders drew their swords, crying, “For what crime was our master slain?”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-009-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "英氣連霄漢忠心貫斗牛。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“His crimes filled the heavens and covered the earth; no tongue can tell them. The day he died was a day of rejoicing in the whole city as you well know,” said Wang."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-009-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "至今魂與魄猶遶鳳凰樓。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“And if he was guilty of some crime what had we done not to be forgiven?”"
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-009-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "眾賊殺了王允一面又差人將王允宗族老幼盡行殺害。士民無不下淚。當下李傕、郭汜尋思曰「既到這裡不殺天子謀大事更待何時」便持劍大呼殺入內來。正是",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Seditious rebels, why bandy words? I am ready to die.” And he was slain at the foot of the tower. Moved by the people’s sufferings, Vexed at his prince’s grief, Wang Yün compassed the traitor’s death, That they might find relief. Every one knows him a hero, Leal to the State alway: Living he guarded the princely towers, His soul keeps guard to-day. Having done the loyal Minister to death at his master’s feet they proceeded to exterminate also his whole family. Every one mourned."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-009-line-066",
+        "order": 66,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "臣魁伏罪災方息從賊縱橫禍又來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then said the ruffians to each other, “Having gone so far what could be better than to make away with the Emperor and complete our scheme?”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-009-line-067",
+        "order": 67,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "未知獻帝性命如何且聽下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The traitor condoned his crime, Rebellion ought to cease; But his licentious followers Disturb the Empire’s peace. The fate of the Emperor will be disclosed in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說那撞倒董卓的人，正是李儒。當下李儒扶起董卓，至書院中坐定。卓曰：「汝為何來此？」儒曰：「儒適至府門，知太師怒入後園，尋問呂布。因急走來，正遇呂布奔出云：『太師殺我！』儒慌趕入園中勸解，不意誤撞恩相。死罪！死罪！」卓曰：「叵耐逆賊！戲吾愛姬，誓必殺之！」儒曰：「恩相差矣：昔楚莊王『絕纓』之會，不究戲愛姬之蔣雄，後為秦兵所困，得其死力相救。今貂蟬不過一女子，而呂布乃太師心腹猛將也。太師若就此機會，以蟬賜布，布感大恩，必以死報太師。太師請自三思。」卓沈吟良久曰：「汝言亦是，我當思之。」\n儒謝而出。卓入後堂，喚貂蟬問曰：「汝何與呂布私通耶？」蟬泣曰：「妾在後園看花，呂布突至。妾方驚避，布曰：『我乃太師之子，何必相避？』提戟趕妾至鳳儀亭。妾見其心不良，恐為所逼，欲投荷池自盡，卻被這廝抱住。正在生死之間，得太師來，救了性命。」董卓曰：「我今將汝賜與呂布，何如？」貂蟬大驚，哭曰：「妾身已事貴人，今忽欲下賜家奴，妾寧死不辱！」遂掣壁間寶劍欲自刎。卓慌奪劍擁抱曰：「吾戲汝！」貂蟬倒於卓懷，掩面大哭曰：「此必李儒之計也！儒與布交厚，故設此計；卻不顧惜太師體面與賤妾性命。妾當生噬其肉！」卓曰：「吾安忍捨汝耶？」蟬曰：「雖蒙太師憐愛，但恐此處不宜久居，必被呂布所害。」卓曰：「吾明日和你歸郿塢去，同受快樂，慎勿憂疑。」蟬方收淚拜謝。次日，李儒入見曰：「今日良辰，可將貂蟬送與呂布。」卓曰：「布與我有父子之分，不便賜與。我只不究其罪。汝傳我意，以好言慰之可也。」儒曰：「太師不可為婦人所惑。」卓變色曰：「汝之妻肯與呂布否？貂蟬之事，再勿多言；言則必斬！」李儒出，仰天嘆曰：「吾等皆死於婦人之手矣！」後人讀書至此，有詩嘆之曰：\n司徒妙算託紅裙，不用干戈不用兵。\n三戰虎牢徒費力，凱歌卻奏鳳儀亭。\n董卓即日下令還郿塢，百官俱拜送。貂蟬在車上，遙見呂布於稠人之內，眼望車中。貂蟬虛掩其面，如痛哭之狀。車已去遠，布緩轡於土岡之上，眼望車塵，嘆惜痛恨。忽聞背後一人問曰：「溫侯何不從太師去，乃在此遙望而發嘆？」布視之，乃司徒王允也。相見畢，允曰：「老夫日來因染微恙，閉門不出，故久未得與將軍一見。今日太師駕歸郿塢，只得扶病出送，卻喜得晤將軍。請問將軍，為何在此長嘆？」布曰：「正為公女耳。」允佯驚曰：「許多時尚未與將軍耶？」布曰：「老賊自寵幸久矣！」允佯大驚曰：「不信有此事！」布將前事一一告允。允仰面跌足，半晌不語；良久，乃言曰：「不意太師作此禽獸之行！」因挽布手曰：「且到寒舍商議。」\n布隨允歸。允延入密室，置酒款待。布又將鳳儀亭相遇之事，細說一遍。允曰：「太師淫吾之女，奪將軍之妻，誠為天下恥笑——非笑太師，笑允與將軍耳！然允老邁無能之輩，不足為道；可惜將軍蓋世英雄，亦受此汙辱也！」布怒氣沖天，拍案大叫。允急曰：「老夫失語，將軍息怒。」布曰：「誓當殺此老賊，以雪吾恥！」允急掩其口曰：「將軍勿言，恐累及老夫。」布曰：「大丈夫生居天地間，豈能鬱鬱久居人下！」允曰：「以將軍之才，誠非董太師所可限制。」布曰：「吾欲殺此老賊，奈是父子之情，恐惹後人議論。」允微笑曰：「將軍自姓呂，太師自姓董。擲戟之時，豈有父子情耶？」布奮然曰：「非司徒言，布幾自誤！」允見其意已決，便說之曰：「將軍若扶漢室，乃忠臣也，青史傳名，流芳百世；將軍若助董卓，乃反臣也，載之史筆，遺臭萬年。」布避席下拜曰：「布意已決，司徒勿疑。」允曰：「但恐事或不成，反招大禍。」布拔帶刀，剌臂出血為誓。允跪謝曰：「漢祀不斬，皆出將軍之賜也。切勿洩漏！臨期有計，自當相報。」布慨諾而去。\n允即請僕射士孫瑞、司隸校尉黃琬商議。瑞曰：「方今主上有疾新愈，可遣一能言之人，往郿塢請卓議事；一面以天子密詔付呂布，使伏甲兵於朝門之內，引卓入誅之：此上策也。」琬曰：「何人敢去？」瑞曰：「呂布同郡騎都尉李肅，以董卓不遷其官，甚是懷怨。若令此人去，卓必不疑。」允曰：「善。」請呂布共議。布曰：「昔日勸吾殺丁建陽，亦此人也。今若不去，吾先斬之。」使人密請肅至。布曰：「昔日公說布，使殺丁建陽而投董卓；今卓上欺天子，下虐生靈，罪惡貫盈，人神共憤。公可傳天子詔往郿塢，宣卓入朝，伏兵誅之，力扶漢室，共作忠臣。尊意若何？」肅曰：「我亦欲除此賊久矣，恨無同心者耳。今將軍若此，是天賜也，肅豈敢有二心？」遂折箭為誓，允曰：「公若能幹此事，何患不得顯官？」\n次日，李肅引十數騎，前到郿塢。人報天子有詔，卓叫喚入。李肅入拜。卓曰：「天子有何詔？」肅曰：「天子病體新痊，欲會文武於未央殿，議將禪位於太師，故有此詔。」卓曰：「王允之意若何？」肅曰：「王司徒已命人築『受禪臺』，只等主公來。」卓大喜曰：「吾夜夢一龍罩身，今果得此喜信。時哉不可失！」便命心腹將李傕，郭汜，張濟，樊稠，四人領飛熊軍三千守郿塢，自己即日排駕回京；顧謂李肅曰：「吾為帝，汝當為執金吾。」肅拜謝稱臣。卓入辭其母。母時年九十餘矣，問曰：「吾兒何往？」卓曰：「兒將往受漢禪，母親早晚為太后也！」母曰：「吾近日肉顫心驚，恐非吉兆。」卓曰：「將為國母，豈不預有驚報！」遂辭母而行。臨行謂貂蟬曰：「吾為天子，當立汝為貴妃。」貂蟬已明知就裏，假作歡喜拜謝。\n卓出塢上車，前遮後擁，望長安來。行不到三十里，所乘之車，忽折一輪，卓下車乘馬。又行不到十里，那馬咆哮嘶喊，掣斷轡頭。卓問肅曰：「車折輪，馬斷轡，其兆若何？」肅曰：「乃太師應受漢禪，棄舊換新，將乘玉輦金鞍之兆也。」卓喜而信其言。次日，正行間，忽然狂風驟起，昏霧蔽天。卓問肅曰：「此何祥也？」肅曰：「主公登龍位，必有紅光紫霧，以壯天威耳。」卓又喜而不疑。即至城外，百官俱出迎接。只有李儒抱病在家，不能出迎。卓進至相府，呂布入賀。卓曰：「吾登九五，汝當總督天下兵馬。」布拜謝，就帳前歇宿。是夜有十數小兒於郊外作歌，風吹歌聲入帳。歌曰：「千里草，何青青！十日上，不得生！」歌聲悲切。卓問李肅曰：「童謠主何吉凶？」肅曰：「亦只是言劉氏滅，董氏興之意。」\n次日侵晨，董卓擺列儀從入朝，忽見一道人，青袍白巾，手執長竿，上縳布一丈，兩頭各書一「口」字。卓問肅曰：「此道人何意？」肅曰：「乃心恙之人也。」呼將士驅去。卓進朝，群臣各具朝服，迎謁於道。李肅手執寶劍扶車而行。到北掖門，軍兵盡擋在門外，獨有御車二十餘人同入。董卓遙見王允等各執寶劍立於殿門，驚問肅曰：「持劍是何意？」肅不應，推車直入。王允大呼曰：「反賊至此，武士何在？」兩旁轉出百餘人，持戟挺槊刺之。卓裹甲不入，傷臂墮車，大呼曰：「吾兒奉先何在？」呂布從車後厲聲出曰：「有詔討賊！」一戟直刺咽喉，李肅早割頭在手。呂布左手持戟，右手懷中取詔，大呼曰：「奉詔討賊臣董卓，其餘不問！」將吏皆呼萬歲。後人有詩嘆董卓曰：\n伯業成時為帝不，不成且作富家郎。\n誰知天意無私麯，郿塢方成已滅亡。\n卻說當下呂布大呼曰：「助卓為虐者，皆李儒也！誰可擒之？」李肅應聲願往。忽聽朝門外發喊，人報李儒家奴已將李儒綁縳來獻。王允命縳赴市曹斬之；又將董卓屍首，號令通衢。卓屍肥胖，看屍軍士以火置其臍中為燈，膏油滿地。百姓過者，莫不手擲其頭，足踐其屍。王允又命呂布同皇甫嵩、李肅領兵五萬，至郿塢抄籍董卓家產人口。\n卻說李傕，郭汜，張濟，樊稠聞董卓已死，呂布將至，便引了飛熊軍連夜奔涼州去了。呂布至郿塢，先取了紹蟬。皇甫嵩命將塢中所藏良家子女，盡行釋放。但係董卓親屬，不分老幼，悉皆誅戮。卓母亦被殺。卓弟董旻、姪董璜皆斬首號令。收籍塢中所蓄黃金數十萬，綺羅、珠寶、器皿、糧食不計其數，回報王允。允乃大犒軍士，設宴於都堂，召集眾官，酌酒稱慶。正飲宴間，忽人報曰：「董卓暴屍於市，忽有一人伏其屍而大哭。」允怒曰：「董卓伏誅，士民莫不稱賀；此何人，敢哭耶？」遂喚武士：「與吾擒來！」\n須臾擒至。眾官見之，無不驚駭：原來那人不是別人，乃侍中蔡邕也。允叱曰：「董卓逆賊，今日伏誅，國之大幸。汝為漢臣，乃不為國慶，反為賊哭，何也？」邕伏罪曰：「邕雖不才，亦知大義，豈肯背國而向卓？只因一時知遇之感，不覺為之一哭，自知罪大。願公見原：倘得黥首刖足，使續成漢史，以贖其辜，邕之幸也。」眾官惜邕之才，皆力救之。太傅馬日磾亦密謂允曰：「伯喈曠世逸才，若使續成漢史，誠為盛事。且其孝行素著，若遽殺之，恐失人望。」允曰：「昔孝武不殺司馬遷，後使作史，遂致謗書流於後世。方今國運衰微，朝政錯亂，不可令佞臣執筆於幼主左右，使吾等蒙其訕議也。」日磾無言而退，私謂眾官曰：「王允其無後乎！善人，國之紀也；制作，國之典也。滅紀廢典，豈能久乎？」當下王允不聽馬日磾之言，命將蔡邕下獄中縊死。一時士大夫聞者，盡為流涕。後人論蔡邕之哭董卓，固自不是；允之殺邕，亦為已甚。有詩歎曰：\n董卓專權肆不仁，侍中何自竟亡身？\n當時諸葛隆中臥，安肯輕身事亂臣？\n且說李傕、郭汜、張濟、樊稠逃居陝西，使人至長安上表求赦。王允曰：「卓之跋扈，皆此四人助之；今雖大赦天下，獨不赦此四人。」使者回報李傕。傕曰：「求赦不得，各自逃生可也。」謀士賈詡曰：「諸君若棄軍單行，則一亭長能縛君矣。不若誘集陝人，并本部軍馬，殺入長安，與董卓報讎。事濟，奉朝廷以正天下；若其不勝，走亦未遲。」傕等然其說，遂流言於西涼州曰：「王允將欲洗蕩此方之人矣。」眾皆驚惶。乃復揚言曰：「徒死無益，能從我反乎？」眾皆願從。於是聚眾十餘萬，分作四路，殺奔長安來。路逢董卓女婿中郎將牛輔，引軍五千人，欲去與丈人報讎，李傕便與合兵，使為前驅，四人陸續進發。\n王允聽知西涼兵來，與呂布商議。布曰：「司徒放心。量此鼠輩，何足數也！」遂引李肅將兵出敵。肅當先迎戰，正與牛輔相遇，大殺一陣。牛輔抵敵不過，敗陣而去。不想是夜二更，牛輔乘肅不備，竟來劫寨。肅軍亂竄，敗走三十餘里，折軍大半，來見呂布。布大怒曰：「汝何挫吾銳氣！」遂斬李肅，懸頭軍門。\n次日，呂布進兵與牛輔對敵。牛輔如何敵得呂布，仍復大敗而走。是夜牛輔喚心腹人胡赤兒商議曰：「呂布驍勇，萬不能敵；不如瞞了李傕等四人，暗藏金珠，與親隨三五人棄軍而去。」胡赤兒應允。是夜收拾金珠，棄營而走，隨行者三四人。將渡一河，赤兒欲謀取金珠，竟殺死牛輔，將頭來獻呂布。布問起情由，從人出首：「胡赤兒謀殺牛輔，奪其金寶。」布怒，即將赤兒誅殺。領軍前進，正迎著李傕軍馬。呂布不等他列陣，便挺戟躍馬，麾軍直衝過來。傕軍不能抵當，退走五十餘里，依山下寨，請郭汜，張濟，樊稠共議，曰：「呂布雖勇，然而無謀，不足為慮。我引軍守任谷口，每日誘他廝殺。郭將軍可領軍抄擊其後，效彭越撓楚之法，鳴金進兵，擂鼓收兵。張、樊二公，卻分兵兩路，逕取長安。彼首尾不能救應，必然大敗。」眾用其計。\n卻說呂布勒兵到山下，李傕引軍搦戰。布忿怒衝殺過去，傕退走上山。山上矢石如雨，布軍不能進。忽報郭汜在陣後殺來，布急回戰。只聞鼓聲大震，汜軍已退。布方欲收軍，鑼聲響處，傕軍又來。未及對敵，背後郭汜又領軍殺到。及至呂布來時，卻又擂鼓收軍去了，激得呂布怒氣填胸。一連如此幾日，欲戰不得，欲止不得。正在惱怒，忽然飛馬報來，說張濟、樊稠兩路軍馬，竟犯長安，京城危急。布急領軍回，背後李傕、郭汜殺來。布無心戀戰，只顧奔走，折了好些人馬。比及到長安城下，賊兵雲屯雨集，圍定城池，布軍與戰不利。軍士畏呂布暴厲，多有降賊者，布心甚憂。\n數日之後，董卓餘黨李蒙、王方在城中為賊內應，偷開城門，四路賊軍一齊擁入。呂布左衝右突，攔擋不住，引數百騎往青瑣門外，呼王允曰：「勢急矣！請司徒上馬，同出關去，別圖良策。」允曰：「若蒙社稷之靈，得安國家，吾之願也；若不獲已，則允奉身以死。臨難苟免，吾不為也。為吾謝關東諸公，努力以國家為念！」呂布再三相勸，王允只是不肯去。不一時，各門火燄竟天，呂布只得棄卻家小，引百餘騎飛奔出關，投袁術去了。\n李傕、郭汜縱兵大掠，太常卿种拂、太僕魯馗、大鴻臚周奐、城門校尉崔烈、越騎校尉王頎皆死於國難。賊兵圍繞內庭至急，侍臣請天子上宣平門止亂。李傕等望見黃蓋，約住軍士，口呼萬歲。獻帝倚樓問曰：「卿不候奏請，輒入長安，意欲何為？」李傕、郭汜仰面奏曰：「董太師乃陛下社稷之臣，無端被王允謀殺，臣等特來報讎，非敢造反。但見王允，臣便退兵。」王允時在帝側，聞知此言，奏曰：「臣本為社稷計。事已至此，陛下不可惜臣，以誤國家。臣請下見二賊。」帝徘徊不忍。允自宣平門樓上跳下樓去，大呼曰：「王允在此！」李傕、郭汜拔劍叱曰：「董太師何罪而見殺？」允曰：「董賊之罪，彌天亙地，不可勝言。受誅之日，長安士民，皆相慶賀，汝獨不聞乎？」傕、汜曰：「太師有罪；我等何罪，不肯相赦？」王允大罵：「逆賊何必多言！我王允今日有死而已！」二賊手起，把王允殺於樓下。史官有詩讚曰：\n王允運機謀，奸臣董卓休。\n心懷國家恨，眉鎖廟堂憂。\n英氣連霄漢，忠心貫斗牛。\n至今魂與魄，猶遶鳳凰樓。\n眾賊殺了王允，一面又差人將王允宗族老幼，盡行殺害。士民無不下淚。當下李傕、郭汜尋思曰：「既到這裡，不殺天子謀大事，更待何時？」便持劍大呼，殺入內來。正是：\n臣魁伏罪災方息，從賊縱橫禍又來。\n未知獻帝性命如何，且聽下文分解。",
+    "title": "第九回 除暴徒呂布助司徒　　犯長安李傕聽賈詡"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-009.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

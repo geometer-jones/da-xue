@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 81,
+    "id": "chapter-013",
+    "order": 13,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 81,
+        "id": "chapter-013-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "寵 辱 若 驚 ， 貴 大 患 若 身 。 何謂 寵 辱 若 驚 ？ 寵 為 下 ， 得 之 若 驚 ， 失 之 若 驚 ， 是 謂 寵 辱 若 驚 。何謂 貴 大 患 若 身 ？吾 所以 有 大 患者 ， 為 吾 有身 ，及 吾 無 身 ，吾 有 何 患 ？ 故 貴 以 身為 天下 ， 若 可 寄 天下 ；愛 以 身為 天下 ， 若 可 託 天下 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Favour and disgrace would seem equally to be feared; honour and great calamity, to be regarded as personal conditions (of the same kind). What is meant by speaking thus of favour and disgrace? Disgrace is being in a low position (after the enjoyment of favour). The getting that (favour) leads to the apprehension (of losing it), and the losing it leads to the fear of (still greater calamity) - this is what is meant by saying that favour and disgrace would seem equally to be feared. And what is meant by saying that honour and great calamity are to be (similarly) regarded as personal conditions? What makes me liable to great calamity is my having the body (which I call myself); if I had not the body, what great calamity could come to me? Therefore he who would administer the kingdom, honouring it as he honours his own person, may be employed to govern it, and he who would administer it with the love which he bears to his own person may be entrusted with it."
+          }
+        }
+      }
+    ],
+    "summary": "寵辱若驚，貴大患若身",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "寵辱若驚，貴大患若身。何謂寵辱若驚？寵為下，得之若驚，失之若驚，是謂寵辱若驚。何謂貴大患若身？吾所以有大患者，為吾有身，及吾無身，吾有何患？故貴以身為天下，若可寄天下；愛以身為天下，若可託天下。",
+    "title": "第13章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-013.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

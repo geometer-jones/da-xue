@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-025",
+    "order": 25,
+    "summary": "过门不入",
+    "text": "过门不入\n先入之见\n书不释手\n手不释书\n不动声色\n无济于事\n听而不闻\n人己一视\n天道人事\n清风明月\n明月清风\n一唱一和\n不古不今\n不今不古\n如出一口\n居大不易\n若有所失\n不期而然\n指不胜屈\n有天无日\n高不可登\n人生如寄\n容头过身\n落花无言\n百世之师\n正身清心\n独到之处\n行成于思\n忘其所以\n白面书生",
+    "title": "721-750",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "过门不入",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not allowed in"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "先入之见",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "preconception"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "书不释手",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Can't put down the book"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "手不释书",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Can't put down the book"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "不动声色",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "not change voice or facial expression; not a word or movement; remaining calm and collected; not batting an eyelid"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "无济于事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to no avail; of no use"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "听而不闻",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to hear but not listen"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "人己一视",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "treat others with equal regard"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "天道人事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heavenly affairs"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "清风明月",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a soft breeze and a bright moon; a solitary and quiet life"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "明月清风",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 清風明月|清风明月[qing1 feng1 ming2 yue4]"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "一唱一和",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to echo one another"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "不古不今",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Neither ancient nor modern"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "不今不古",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Neither modern nor ancient"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "如出一口",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like taking a sip"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "居大不易",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Living in a big city is not easy"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "若有所失",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "as if one had lost something; to look or feel unsettled or distracted; to feel empty"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "不期而然",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to happen unexpectedly; to turn out contrary to one's expectations"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "指不胜屈",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Invincible"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "有天无日",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is no day"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "高不可登",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Too high to reach"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "人生如寄",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Life is like a gift"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "容头过身",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Turn around"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "落花无言",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Falling flowers are speechless"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "百世之师",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Master of all ages"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "正身清心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Keep body and mind pure"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "独到之处",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "distinctive quality"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "行成于思",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Action comes from thinking"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "忘其所以",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 忘乎所以[wang4 hu1 suo3 yi3]"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-025-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "白面书生",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "pale-faced scholar; young and inexperienced person without practical experience"
+          }
+        },
+        "category": "中高透明度 IV"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-025.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

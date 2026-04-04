@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 45,
+    "id": "chapter-072",
+    "order": 72,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 45,
+        "id": "chapter-072-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "民不畏威，則大威至。無狎其所居，無厭其所生。夫唯不厭，是以不厭。是以聖人自知不自見；自愛不自貴。故去彼取此。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the people do not fear what they ought to fear, that which is their great dread will come on them. Let them not thoughtlessly indulge themselves in their ordinary life; let them not act as if weary of what that life depends on. It is by avoiding such indulgence that such weariness does not arise. Therefore the sage knows (these things) of himself, but does not parade (his knowledge); loves, but does not (appear to set a) value on, himself. And thus he puts the latter alternative away and makes choice of the former."
+          }
+        }
+      }
+    ],
+    "summary": "民不畏威，則大威至",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "民不畏威，則大威至。無狎其所居，無厭其所生。夫唯不厭，是以不厭。是以聖人自知不自見；自愛不自貴。故去彼取此。",
+    "title": "第72章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-072.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

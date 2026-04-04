@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 55,
+    "id": "chapter-074",
+    "order": 74,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 55,
+        "id": "chapter-074-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "民不畏死，奈何以死懼之？若使民常畏死，而為奇者，吾得執而殺之，孰敢？常有司殺者殺。夫司殺者，是大匠斲；夫代大匠斲者，希有不傷其手矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The people do not fear death; to what purpose is it to (try to) frighten them with death? If the people were always in awe of death, and I could always seize those who do wrong, and put them to death, who would dare to do wrong? There is always One who presides over the infliction death. He who would inflict death in the room of him who so presides over it may be described as hewing wood instead of a great carpenter. Seldom is it that he who undertakes the hewing, instead of the great carpenter, does not cut his own hands!"
+          }
+        }
+      }
+    ],
+    "summary": "民不畏死，奈何以死懼之？若使民常畏死，而為奇者，吾得執而殺之，孰敢？常有司殺者殺",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "民不畏死，奈何以死懼之？若使民常畏死，而為奇者，吾得執而殺之，孰敢？常有司殺者殺。夫司殺者，是大匠斲；夫代大匠斲者，希有不傷其手矣。",
+    "title": "第74章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-074.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

@@ -1,0 +1,70 @@
+{
+  "commentary": {
+    "character_count": 96,
+    "id": "commentary-chapter-008",
+    "order": 8,
+    "reading_unit_count": 3,
+    "reading_units": [
+      {
+        "character_count": 67,
+        "id": "commentary-chapter-008-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "所謂齊其家在脩其身者：人之其所親愛而辟焉，之其所賤惡而辟焉，之其所畏敬而辟焉，之其所哀矜而辟焉，之其所敖惰而辟焉。故好而知其惡，惡而知其美者，天下鮮矣！"
+      },
+      {
+        "character_count": 18,
+        "id": "commentary-chapter-008-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "故諺有之曰：「人莫知其子之惡，莫知其苗之碩。」"
+      },
+      {
+        "character_count": 11,
+        "id": "commentary-chapter-008-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "此謂身不脩不可以齊其家。"
+      }
+    ],
+    "summary": "釋脩身齊家",
+    "supplemental_text": "辟，讀為僻。惡而之惡、敖、好，並去聲。鮮，上聲。人，謂眾人。之，猶於也。辟，猶偏也。五者，在人本有當然之則；然常人之情惟其所向而不加審焉，則必陷於一偏而身不脩矣。諺，音彥。碩，協韻，時若反。諺，俗語也。溺愛者不明，貪得者無厭，是則偏之為害，而家之所以不齊也。\n右傳之八章。釋脩身齊家。",
+    "supplemental_unit_count": 3,
+    "supplemental_units": [
+      {
+        "character_count": 76,
+        "id": "commentary-chapter-008-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "辟，讀為僻。惡而之惡、敖、好，並去聲。鮮，上聲。人，謂眾人。之，猶於也。辟，猶偏也。五者，在人本有當然之則；然常人之情惟其所向而不加審焉，則必陷於一偏而身不脩矣。諺，音彥。碩，協韻，時若反。諺，俗語也。"
+      },
+      {
+        "character_count": 24,
+        "id": "commentary-chapter-008-supp-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "溺愛者不明，貪得者無厭，是則偏之為害，而家之所以不齊也。"
+      },
+      {
+        "character_count": 10,
+        "id": "commentary-chapter-008-supp-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "右傳之八章。釋脩身齊家。"
+      }
+    ],
+    "text": "所謂齊其家在脩其身者：人之其所親愛而辟焉，之其所賤惡而辟焉，之其所畏敬而辟焉，之其所哀矜而辟焉，之其所敖惰而辟焉。故好而知其惡，惡而知其美者，天下鮮矣！\n故諺有之曰：「人莫知其子之惡，莫知其苗之碩。」\n此謂身不脩不可以齊其家。",
+    "title": "右傳之八章"
+  },
+  "commentary_path": "books/da-xue/commentary/commentary-chapter-008.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

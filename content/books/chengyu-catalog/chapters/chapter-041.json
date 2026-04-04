@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-041",
+    "order": 41,
+    "summary": "九流百家",
+    "text": "九流百家\n例行公事\n年高望重\n百折千回\n生死存亡\n非意相干\n如兄如弟\n去危就安\n置身事外\n情深意重\n安若泰山\n力小任重\n面色如土\n文武差事\n相机行事\n逞心如意\n披心相付\n非此即彼\n三老五更\n五申三令\n文籍先生\n出公忘私\n神醉心往\n未明求衣\n告老在家\n如是我闻\n相形失色\n威重令行\n推三推四\n三五成群",
+    "title": "1201-1230",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "九流百家",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to various academic schools"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "例行公事",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "routine business"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "年高望重",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Older, more prestigious"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "百折千回",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes going through various twists and turns"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "生死存亡",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "matter of life and death"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "非意相干",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Unexpected"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "如兄如弟",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "love like brothers"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "去危就安",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Leave danger and reach peace"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "置身事外",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) not to get involved; to stay out of it"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "情深意重",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Deep affection"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "安若泰山",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describe extremely safe and stable"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "力小任重",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Little ability, heavy burden"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "面色如土",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "ashen-faced (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "文武差事",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor of overt and covert robbery"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "相机行事",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to act as circumstances dictate (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "逞心如意",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just as one wishes"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "披心相付",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Disclose your sincerity"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "非此即彼",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "either this or that"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "三老五更",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said that ancient rulers set up three and five watchmen to respect the elderly."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "五申三令",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Three orders and five orders"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "文籍先生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a person who is familiar with literature and classics"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "出公忘私",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Forget personal feelings out of public concern"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "神醉心往",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Intoxicated and yearning"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "未明求衣",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Get dressed before dawn"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "告老在家",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Resign because of old age"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "如是我闻",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "so I have heard (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "相形失色",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lose color, lose luster ⊥ Compared with similar things, they appear to be inferior."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "威重令行",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "With great power, orders must be carried out"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "推三推四",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Make excuses"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-041-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "三五成群",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "in groups of three or four (idiom)"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-041.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

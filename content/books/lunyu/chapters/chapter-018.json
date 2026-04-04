@@ -1,0 +1,626 @@
+{
+  "chapter": {
+    "character_count": 618,
+    "id": "chapter-018",
+    "order": 18,
+    "reading_unit_count": 28,
+    "reading_units": [
+      {
+        "character_count": 14,
+        "id": "chapter-018-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "微子去之，箕子為之奴，比干諫而死。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Viscount of Wei withdrew from the court."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-018-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "孔子曰：「殷有三仁焉。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Viscount of Ji became a slave to Zhou. Bi Gan remonstrated with him and died. Confucius said, \"The Yin dynasty possessed these three men of virtue.\""
+          }
+        }
+      },
+      {
+        "character_count": 40,
+        "id": "chapter-018-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "柳下惠為士師，三黜。人曰：「子未可以去乎？」曰：「直道而事人，焉往而不三黜？枉道而事人，何必去父母之邦。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hui of Liu Xia, being chief criminal judge, was thrice dismissed from his office. Some one said to him, \"Is it not yet time for you, sir, to leave this?\" He replied, \"Serving men in an upright way, where shall I go to, and not experience such a thrice-repeated dismissal? If I choose to serve men in a crooked way, what necessity is there for me to leave the country of my parents?\""
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-018-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "齊景公待孔子，曰：「若季氏則吾不能，以季、孟之閒待之。」曰：「吾老矣，不能用也。」孔子行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The duke Jing of Qi, with reference to the manner in which he should treat Confucius, said, \"I cannot treat him as I would the chief of the Ji family. I will treat him in a manner between that accorded to the chief of the Ji, and that given to the chief of the Meng family.\" He also said, \"I am old; I cannot use his doctrines.\" Confucius took his departure."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-018-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "齊人歸女樂，季桓子受之。三日不朝，孔子行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The people of Qi sent to Lu a present of female musicians, which Ji Huan received, and for three days no court was held. Confucius took his departure."
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-018-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "楚狂接輿歌而過孔子曰：「鳳兮！鳳兮！何德之衰？往者不可諫，來者猶可追。已而，已而！今之從政者殆而！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The madman of Chu, Jie Yu, passed by Confucius, singing and saying, \"O Feng!"
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-018-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "孔子下，欲與之言。趨而辟之，不得與之言。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "O Feng! How is your virtue degenerated! As to the past, reproof is useless; but the future may still be provided against. Give up your vain pursuit. Give up your vain pursuit. Peril awaits those who now engage in affairs of government.\" Confucius alighted and wished to converse with him, but Jie Yu hastened away, so that he could not talk with him."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-018-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "長沮、桀溺耦而耕，孔子過之，使子路問津焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang Zu and Jie Ni were at work in the field together, when Confucius passed by them, and sent Zi Lu to inquire for the ford."
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-018-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "長沮曰：「夫執輿者為誰？」子路曰：「為孔丘。」曰：「是魯孔丘與？」曰：「是也。」曰：「是知津矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang Zu said, \"Who is he that holds the reins in the carriage there?\" Zi Lu told him, \"It is Kong Qiu.', \"Is it not Kong Qiu of Lu?\" asked he."
+          }
+        }
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-018-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "問於桀溺，桀溺曰：「子為誰？」曰：「為仲由。」曰：「是魯孔丘之徒與？」對曰：「然。」曰：「滔滔者天下皆是也，而誰以易之？且而與其從辟人之士也，豈若從辟世之士哉？」耰而不輟。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "\"Yes,\" was the reply, to which the other rejoined, \"He knows the ford.\" Zi Lu then inquired of Jie Ni, who said to him, \"Who are you, sir?\" He answered, \"I am Zhong You.\" \"Are you not the disciple of Kong Qiu of Lu?\" asked the other."
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-018-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "子路行以告。夫子憮然曰：「鳥獸不可與同群，吾非斯人之徒與而誰與？天下有道，丘不與易也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "\"I am,\" replied he, and then Jie Ni said to him, \"Disorder, like a swelling flood, spreads over the whole empire, and who is he that will change its state for you? Rather than follow one who merely withdraws from this one and that one, had you not better follow those who have withdrawn from the world altogether?\" With this he fell to covering up the seed, and proceeded with his work, without stopping. Zi Lu went and reported their remarks, when the Master observed with a sigh, \"It is impossible to associate with birds and beasts, as if they were the same with us. If I associate not with these people - with mankind - with whom shall I associate? If right principles prevailed through the empire, there would be no use for me to change its state.\""
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-018-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "子路從而後，遇丈人，以杖荷蓧。子路問曰：「子見夫子乎？」丈人曰：「四體不勤，五穀不分。孰為夫子？」植其杖而芸。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi Lu, following the Master, happened to fall behind, when he met an old man, carrying across his shoulder on a staff a basket for weeds."
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-018-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "子路拱而立。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi Lu said to him, \"Have you seen my master, sir?\" The old man replied, \"Your four limbs are unaccustomed to toil; you cannot distinguish the five kinds of grain - who is your master?\" With this, he planted his staff in the ground, and proceeded to weed."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-018-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "止子路宿，殺雞為黍而食之，見其二子焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi Lu joined his hands across his breast, and stood before him."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-018-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "明日，子路行以告。子曰：「隱者也。」使子路反見之。至則行矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The old man kept Zi Lu to pass the night in his house, killed a fowl, prepared millet, and feasted him."
+          }
+        }
+      },
+      {
+        "character_count": 50,
+        "id": "chapter-018-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "子路曰：「不仕無義。長幼之節，不可廢也；君臣之義，如之何其廢之？欲潔其身，而亂大倫。君子之仕也，行其義也。道之不行，已知之矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He also introduced to him his two sons. Next day, Zi Lu went on his way, and reported his adventure. The Master said, \"He is a recluse,\" and sent Zi Lu back to see him again, but when he got to the place, the old man was gone. Zi Lu then said to the family, \"Not to take office is not righteous. If the relations between old and young may not be neglected, how is it that he sets aside the duties that should be observed between sovereign and minister? Wishing to maintain his personal purity, he allows that great relation to come to confusion. A superior man takes office, and performs the righteous duties belonging to it. As to the failure of right principles to make progress, he is aware of that.\""
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-018-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "逸民：伯夷、叔齊、虞仲、夷逸、朱張、柳下惠、少連。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The men who have retired to privacy from the world have been Bo Yi, Shu Qi, Yu Zhong, Yi Yi, Zhu Zhang, Hui of Liu Xia, and Shao Lian."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-018-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "子曰：「不降其志，不辱其身，伯夷、叔齊與！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Refusing to surrender their wills, or to submit to any taint in their persons - such, I think, were Bo Yi and Shu Qi."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-018-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "謂：「柳下惠、少連，降志辱身矣。言中倫，行中慮，其斯而已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "\"It may be said of Hui of Liu Xia, and of Shao Lian, that they surrendered their wills, and submitted to taint in their persons, but their words corresponded with reason, and their actions were such as men are anxious to see."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-018-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "謂：「虞仲、夷逸，隱居放言。身中清，廢中權。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This is all that is to be remarked in them."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-018-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "我則異於是，無可無不可。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "\"It may be said of Yu Zhong and Yi Yi, that, while they hid themselves in their seclusion, they gave a license to their words; but in their persons, they succeeded in preserving their purity, and, in their retirement, they acted according to the exigency of the times. \"I am different from all these. I have no course for which I am predetermined, and no course against which I am predetermined.\""
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-018-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "大師摯適齊，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The grand music master, Zhi, went to Qi."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-018-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "亞飯干適楚，三飯繚適蔡，四飯缺適秦。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gan, the master of the band at the second meal, went to Chu."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-018-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "鼓方叔入於河，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liao, the band master at the third meal, went to Cai."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-018-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "播浅武入於漢，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Que, the band master at the fourth meal, went to Qin."
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-018-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "少師陽、擊磬襄入於海。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Fang Shu, the drum master, withdrew to the north of the river. Wu, the master of the hand drum, withdrew to the Han. Yang, the assistant music master, and Xiang, master of the musical stone, withdrew to an island in the sea."
+          }
+        }
+      },
+      {
+        "character_count": 35,
+        "id": "chapter-018-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "周公謂魯公曰：「君子不施其親，不使大臣怨乎不以。故舊無大故，則不棄也。無求備於一人。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The duke of Zhou addressed his son, the duke of Lu, saying, \"The virtuous prince does not neglect his relations. He does not cause the great ministers to repine at his not employing them. Without some great cause, he does not dismiss from their offices the members of old families. He does not seek in one man talents for every employment.\""
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-018-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "周有八士：伯達、伯適、仲突、仲忽、叔夜、叔夏、季隨、季騧。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To Zhou belonged the eight officers, Bo Da, Bo Kuo, Zhong Tu, Zhong Hu, Shu Ye, Shu Xia, Ji Sui, and Ji Gua. Source: Chinese Text Project http://ctext.org/analects , from \"The Chinese Classics, volume 1\", James Legge, 1861 </div> Dictionary cache status: not loaded Glossary and Other Vocabulary"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "此篇多記聖賢之出處，凡十一章。\n微、箕，二國名。子，爵也。微子，紂庶兄。箕子、比干，紂諸父。微子見紂無道，去之以存宗祀。箕子、比干皆諫，紂殺比干，囚箕子以為奴，箕子因佯狂而受辱。三人之行不同，而同出於至誠惻怛之意，故不咈乎愛之理，而有以全其心之德也。楊氏曰：「此三人者，各得其本心，故同謂之仁。」\n三，去聲。焉，於虔反。士師，獄官。黜，退也。柳下惠三黜不去，而其辭氣雍容如此，可謂和矣。然其不能枉道之意，則有確乎其不可拔者。是則所謂必以其道，而不自失焉者也。○胡氏曰：「此必有孔子斷之之言而亡之矣。」\n魯三卿，季氏最貴，孟氏為下卿。孔子去之，事見世家。然此言必非面語孔子，蓋自以告其臣，而孔子聞之爾。程子曰：「季氏強臣，君待之之禮極隆，然非所以待孔子也。以季、孟之閒待之，則禮亦至矣。然復曰『吾老矣不能用也』，故孔子去之。蓋不繫待之輕重，特以不用而去爾。」\n歸，如字，或作饋。朝，音潮。季桓子，魯大夫，名斯。按史記，「定公十四年，孔子為魯司寇，攝行相事。齊人懼，歸女樂以沮之」。尹氏曰：「受女樂而怠於政事如此，其簡賢棄禮，不足與有為可知矣。夫子所以行也，所謂見幾而作，不俟終日者與？」范氏曰：「此篇記仁賢之出處，而折中以聖人之行，所以明中庸之道也。」\n接輿，楚人，佯狂辟世。夫子時將適楚，故接輿歌而過其車前也。鳳有道則見，無道則隱，接輿以比孔子，而譏其不能隱為德衰也。來者可追，言及今尚可隱去。已，止也。而，語助辭。殆，危也。接輿蓋知尊孔子而趨不同者也。辟，去聲。孔子下車，蓋欲告之以出處之意。接輿自以為是，故不欲聞而避之也。\n沮，七餘反。溺，乃歷反。二人，隱者。耦，並耕也。時孔子自楚反乎蔡。津，濟渡處。夫，音扶。與，平聲。執輿，執轡在車也。蓋本子路御而執轡，今下問津，故夫子代之也。知津，言數周流，自知津處。徒與之與，平聲。滔，吐刀反。辟，去聲。耰，音憂。滔滔，流而不反之意。以，猶與也。言天下皆亂，將誰與變易之？而，汝也。辟人，謂孔子。辟世，桀溺自謂。耰，覆種也。亦不告以津處。憮，音武。與，如字。憮然，猶悵然，惜其不喻己意也。言所當與同群者，斯人而已，豈可絕人逃世以為潔哉？天下若已平治，則我無用變易之。正為天下無道，故欲以道易之耳。程子曰：「聖人不敢有忘天下之心，故其言如此也。」張子曰：「聖人之仁，不以無道必天下而棄之也。」\n蓧，徒弔反。植，音值。丈人，亦隱者。蓧，竹器。分，辨也。五穀不分，猶言不辨菽麥爾，責其不事農業而從師遠遊也。植，立之也。芸，去草也。知其隱者，敬之也。食，音嗣。見，賢遍反。孔子使子路反見之，蓋欲告之以君臣之義。而丈人意子路必將復來，故先去之以滅其跡，亦接輿之意也。長，上聲。子路述夫子之意如此。蓋丈人之接子路甚倨，而子路益恭，丈人因見其二子焉。則於長幼之節，固知其不可廢矣，故因其所明以曉之。倫，序也。人之大倫有五：父子有親，君臣有義，夫婦有別，長幼有序，朋友有信是也。仕所以行君臣之義，故雖知道之不行而不可廢。然謂之義，則事之可否，身之去就，亦自有不可苟者。是以雖不潔身以亂倫，亦非忘義以殉祿也。福州有國初時寫本，路下有「反子」二字，以此為子路反而夫子言之也。未知是否？○范氏曰：「隱者為高，故往而不反。仕者為通，故溺而不止。不與鳥獸同群，則決性命之情以饕富貴。此二者皆惑也，是以依乎中庸者為難。惟聖人不廢君臣之義，而必以其正，所以或出或處而終不離於道也。」\n少，去聲，下同。逸，遺逸。民者，無位之稱。虞仲，即仲雍，與大伯同竄荊蠻者。夷逸、朱張，不見經傳。少連，東夷人。與，平聲。\n中，去聲，下同。柳下惠事見上。倫，義理之次第也。慮，思慮也。中慮，言有意義合人心。少連事不可考。然記稱其「善居喪，三日不怠，三月不解。期悲哀，三年憂」。則行之中慮，亦可見矣。仲雍居吳，斷髮文身，裸以為飾。隱居獨善，合乎道之清。放言自廢，合乎道之權。孟子曰：「孔子可以仕則仕，可以止則止，可以久則久，可以速則速。」所謂無可無不可也。謝氏曰「七人隱遯不汙則同，其立心造行則異。伯夷、叔齊，天子不得臣，諸侯不得友，蓋已遯世離群矣，下聖人一等，此其最高與！柳下惠、少連，雖降志而不枉己，雖辱身而不求合，其心有不屑也。故言能中倫，行能中慮。虞仲、夷逸隱居放言，則言不合先王之法者多矣。然清而不汙也，權而適宜也，與方外之士害義傷教而亂大倫者殊科。是以均謂之逸民。」尹氏曰：「七人各守其一節，而孔子則無可無不可，此所以常適其可，而異於逸民之徒也。」揚雄曰：「觀乎聖人則見賢人。是以孟子語夷，惠，亦必以孔子斷之。」\n大，音泰。大師，魯樂官之長。摯，其名也。飯，扶晚反。繚，音了。亞飯以下，以樂侑食之官。干、繚、缺，皆名也。鼓，擊鼓者。方叔，名。河，河內。浅，徒刀反。播，搖也。浅，小鼓。兩旁有耳，持其柄而搖之，則旁耳還自擊。武，名也。漢，漢中。少，去聲。少師，樂官之佐。陽、襄，二人名。襄即孔子所從學琴者。海，海島也。此記賢人之隱遯以附前章，然未必夫子之言也。末章放此。張子曰：「周衰樂廢，夫子自衛反魯，一嘗治之。其後伶人賤工識樂之正。及魯益衰，三桓僭妄，自大師以下，皆知散之四方，逾河蹈海以去亂。聖人俄頃之助，功化如此。如有用我，期月而可。豈虛語哉？」\n施，陸氏本作弛，詩紙反。福本同。魯公，周公子伯禽也。弛，遺棄也。以，用也。大臣非其人則去之，在其位則不可不用。大故，謂惡逆。李氏曰：「四者皆君子之事，忠厚之至也。」胡氏曰：「此伯禽受封之國，周公訓戒之辭。魯人傳誦，久而不忘也。其或夫子嘗與門弟子言之歟？\n騧，烏瓜反。或曰「成王時人」，或曰「宣王時人」。蓋一母四乳而生八子也，然不可考矣。張子曰：「記善人之多也。」愚按：此篇孔子於三仁、逸民、師摯、八士，既皆稱贊而品列之；於接輿、沮、溺、丈人，又每有惓惓接引之意。皆衰世之志也，其所感者深矣。在陳之歎，蓋亦如此。三仁則無間然矣，其餘數君子者，亦皆一世之高士。若使得聞聖人之道，以裁其所過而勉其所不及，則其所立，豈止於此而已哉？",
+    "supplemental_unit_count": 30,
+    "supplemental_units": [
+      {
+        "character_count": 13,
+        "id": "chapter-018-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "此篇多記聖賢之出處，凡十一章。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-018-supp-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "微、箕，二國名。子，爵也。微子，紂庶兄。箕子、比干，紂諸父。微子見紂無道，去之以存宗祀。箕子、比干皆諫，紂殺比干，囚箕子以為奴，箕子因佯狂而受辱。三人之行不同，而同出於至誠惻怛之意，故不咈乎愛之理，而有以全其心之德也。"
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-018-supp-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "楊氏曰：「此三人者，各得其本心，故同謂之仁。」"
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-018-supp-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "三，去聲。焉，於虔反。士師，獄官。黜，退也。柳下惠三黜不去，而其辭氣雍容如此，可謂和矣。然其不能枉道之意，則有確乎其不可拔者。是則所謂必以其道，而不自失焉者也。○胡氏曰：「此必有孔子斷之之言而亡之矣。」"
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-018-supp-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "魯三卿，季氏最貴，孟氏為下卿。孔子去之，事見世家。然此言必非面語孔子，蓋自以告其臣，而孔子聞之爾。程子曰：「季氏強臣，君待之之禮極隆，然非所以待孔子也。以季、孟之閒待之，則禮亦至矣。然復曰『吾老矣不能用也』，故孔子去之。"
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-018-supp-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "蓋不繫待之輕重，特以不用而去爾。」"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-018-supp-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "歸，如字，或作饋。朝，音潮。季桓子，魯大夫，名斯。按史記，「定公十四年，孔子為魯司寇，攝行相事。齊人懼，歸女樂以沮之」。尹氏曰：「受女樂而怠於政事如此，其簡賢棄禮，不足與有為可知矣。夫子所以行也，所謂見幾而作，不俟終日者與？"
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-018-supp-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "」范氏曰：「此篇記仁賢之出處，而折中以聖人之行，所以明中庸之道也。」"
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-018-supp-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "接輿，楚人，佯狂辟世。夫子時將適楚，故接輿歌而過其車前也。鳳有道則見，無道則隱，接輿以比孔子，而譏其不能隱為德衰也。來者可追，言及今尚可隱去。已，止也。而，語助辭。殆，危也。接輿蓋知尊孔子而趨不同者也。辟，去聲。"
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-018-supp-010",
+        "order": 10,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "孔子下車，蓋欲告之以出處之意。接輿自以為是，故不欲聞而避之也。"
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-018-supp-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "沮，七餘反。溺，乃歷反。二人，隱者。耦，並耕也。時孔子自楚反乎蔡。津，濟渡處。夫，音扶。與，平聲。執輿，執轡在車也。蓋本子路御而執轡，今下問津，故夫子代之也。知津，言數周流，自知津處。徒與之與，平聲。滔，吐刀反。辟，去聲。耰，音憂。"
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-018-supp-012",
+        "order": 12,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "滔滔，流而不反之意。以，猶與也。言天下皆亂，將誰與變易之？而，汝也。辟人，謂孔子。辟世，桀溺自謂。耰，覆種也。亦不告以津處。憮，音武。與，如字。憮然，猶悵然，惜其不喻己意也。言所當與同群者，斯人而已，豈可絕人逃世以為潔哉？"
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-018-supp-013",
+        "order": 13,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "天下若已平治，則我無用變易之。正為天下無道，故欲以道易之耳。程子曰：「聖人不敢有忘天下之心，故其言如此也。」張子曰：「聖人之仁，不以無道必天下而棄之也。」"
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-018-supp-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "蓧，徒弔反。植，音值。丈人，亦隱者。蓧，竹器。分，辨也。五穀不分，猶言不辨菽麥爾，責其不事農業而從師遠遊也。植，立之也。芸，去草也。知其隱者，敬之也。食，音嗣。見，賢遍反。孔子使子路反見之，蓋欲告之以君臣之義。"
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-018-supp-015",
+        "order": 15,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "而丈人意子路必將復來，故先去之以滅其跡，亦接輿之意也。長，上聲。子路述夫子之意如此。蓋丈人之接子路甚倨，而子路益恭，丈人因見其二子焉。則於長幼之節，固知其不可廢矣，故因其所明以曉之。倫，序也。"
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-018-supp-016",
+        "order": 16,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "人之大倫有五：父子有親，君臣有義，夫婦有別，長幼有序，朋友有信是也。仕所以行君臣之義，故雖知道之不行而不可廢。然謂之義，則事之可否，身之去就，亦自有不可苟者。是以雖不潔身以亂倫，亦非忘義以殉祿也。"
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-018-supp-017",
+        "order": 17,
+        "source_block_chunk": 4,
+        "source_block_order": 8,
+        "text": "福州有國初時寫本，路下有「反子」二字，以此為子路反而夫子言之也。未知是否？○范氏曰：「隱者為高，故往而不反。仕者為通，故溺而不止。不與鳥獸同群，則決性命之情以饕富貴。此二者皆惑也，是以依乎中庸者為難。"
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-018-supp-018",
+        "order": 18,
+        "source_block_chunk": 5,
+        "source_block_order": 8,
+        "text": "惟聖人不廢君臣之義，而必以其正，所以或出或處而終不離於道也。」"
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-018-supp-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "少，去聲，下同。逸，遺逸。民者，無位之稱。虞仲，即仲雍，與大伯同竄荊蠻者。夷逸、朱張，不見經傳。少連，東夷人。與，平聲。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-018-supp-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "中，去聲，下同。柳下惠事見上。倫，義理之次第也。慮，思慮也。中慮，言有意義合人心。少連事不可考。然記稱其「善居喪，三日不怠，三月不解。期悲哀，三年憂」。則行之中慮，亦可見矣。仲雍居吳，斷髮文身，裸以為飾。隱居獨善，合乎道之清。"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-018-supp-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "放言自廢，合乎道之權。孟子曰：「孔子可以仕則仕，可以止則止，可以久則久，可以速則速。」所謂無可無不可也。謝氏曰「七人隱遯不汙則同，其立心造行則異。伯夷、叔齊，天子不得臣，諸侯不得友，蓋已遯世離群矣，下聖人一等，此其最高與！"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-018-supp-022",
+        "order": 22,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "柳下惠、少連，雖降志而不枉己，雖辱身而不求合，其心有不屑也。故言能中倫，行能中慮。虞仲、夷逸隱居放言，則言不合先王之法者多矣。然清而不汙也，權而適宜也，與方外之士害義傷教而亂大倫者殊科。是以均謂之逸民。"
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-018-supp-023",
+        "order": 23,
+        "source_block_chunk": 4,
+        "source_block_order": 10,
+        "text": "」尹氏曰：「七人各守其一節，而孔子則無可無不可，此所以常適其可，而異於逸民之徒也。」揚雄曰：「觀乎聖人則見賢人。是以孟子語夷，惠，亦必以孔子斷之。」"
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-018-supp-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "大，音泰。大師，魯樂官之長。摯，其名也。飯，扶晚反。繚，音了。亞飯以下，以樂侑食之官。干、繚、缺，皆名也。鼓，擊鼓者。方叔，名。河，河內。浅，徒刀反。播，搖也。浅，小鼓。兩旁有耳，持其柄而搖之，則旁耳還自擊。武，名也。漢，漢中。少，去聲。"
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-018-supp-025",
+        "order": 25,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "少師，樂官之佐。陽、襄，二人名。襄即孔子所從學琴者。海，海島也。此記賢人之隱遯以附前章，然未必夫子之言也。末章放此。張子曰：「周衰樂廢，夫子自衛反魯，一嘗治之。其後伶人賤工識樂之正。"
+      },
+      {
+        "character_count": 48,
+        "id": "chapter-018-supp-026",
+        "order": 26,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "及魯益衰，三桓僭妄，自大師以下，皆知散之四方，逾河蹈海以去亂。聖人俄頃之助，功化如此。如有用我，期月而可。豈虛語哉？」"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-018-supp-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "施，陸氏本作弛，詩紙反。福本同。魯公，周公子伯禽也。弛，遺棄也。以，用也。大臣非其人則去之，在其位則不可不用。大故，謂惡逆。李氏曰：「四者皆君子之事，忠厚之至也。」胡氏曰：「此伯禽受封之國，周公訓戒之辭。魯人傳誦，久而不忘也。"
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-018-supp-028",
+        "order": 28,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "其或夫子嘗與門弟子言之歟？"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-018-supp-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "騧，烏瓜反。或曰「成王時人」，或曰「宣王時人」。蓋一母四乳而生八子也，然不可考矣。張子曰：「記善人之多也。」愚按：此篇孔子於三仁、逸民、師摯、八士，既皆稱贊而品列之；於接輿、沮、溺、丈人，又每有惓惓接引之意。皆衰世之志也，其所感者深矣。"
+      },
+      {
+        "character_count": 58,
+        "id": "chapter-018-supp-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "在陳之歎，蓋亦如此。三仁則無間然矣，其餘數君子者，亦皆一世之高士。若使得聞聖人之道，以裁其所過而勉其所不及，則其所立，豈止於此而已哉？"
+      }
+    ],
+    "text": "微子去之，箕子為之奴，比干諫而死。\n孔子曰：「殷有三仁焉。」\n柳下惠為士師，三黜。人曰：「子未可以去乎？」曰：「直道而事人，焉往而不三黜？枉道而事人，何必去父母之邦。」\n齊景公待孔子，曰：「若季氏則吾不能，以季、孟之閒待之。」曰：「吾老矣，不能用也。」孔子行。\n齊人歸女樂，季桓子受之。三日不朝，孔子行。\n楚狂接輿歌而過孔子曰：「鳳兮！鳳兮！何德之衰？往者不可諫，來者猶可追。已而，已而！今之從政者殆而！」\n孔子下，欲與之言。趨而辟之，不得與之言。\n長沮、桀溺耦而耕，孔子過之，使子路問津焉。\n長沮曰：「夫執輿者為誰？」子路曰：「為孔丘。」曰：「是魯孔丘與？」曰：「是也。」曰：「是知津矣。」\n問於桀溺，桀溺曰：「子為誰？」曰：「為仲由。」曰：「是魯孔丘之徒與？」對曰：「然。」曰：「滔滔者天下皆是也，而誰以易之？且而與其從辟人之士也，豈若從辟世之士哉？」耰而不輟。\n子路行以告。夫子憮然曰：「鳥獸不可與同群，吾非斯人之徒與而誰與？天下有道，丘不與易也。」\n子路從而後，遇丈人，以杖荷蓧。子路問曰：「子見夫子乎？」丈人曰：「四體不勤，五穀不分。孰為夫子？」植其杖而芸。\n子路拱而立。\n止子路宿，殺雞為黍而食之，見其二子焉。\n明日，子路行以告。子曰：「隱者也。」使子路反見之。至則行矣。\n子路曰：「不仕無義。長幼之節，不可廢也；君臣之義，如之何其廢之？欲潔其身，而亂大倫。君子之仕也，行其義也。道之不行，已知之矣。」\n逸民：伯夷、叔齊、虞仲、夷逸、朱張、柳下惠、少連。\n子曰：「不降其志，不辱其身，伯夷、叔齊與！」\n謂：「柳下惠、少連，降志辱身矣。言中倫，行中慮，其斯而已矣。」\n謂：「虞仲、夷逸，隱居放言。身中清，廢中權。\n我則異於是，無可無不可。」\n大師摯適齊，\n亞飯干適楚，三飯繚適蔡，四飯缺適秦。\n鼓方叔入於河，\n播浅武入於漢，\n少師陽、擊磬襄入於海。\n周公謂魯公曰：「君子不施其親，不使大臣怨乎不以。故舊無大故，則不棄也。無求備於一人。」\n周有八士：伯達、伯适、仲突、仲忽、叔夜、叔夏、季隨、季騧。",
+    "title": "微子第十八"
+  },
+  "chapter_path": "books/lunyu/chapters/chapter-018.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 論語集注",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/lun-yu-ji-zhu?if=en"
+}

@@ -1,0 +1,86 @@
+{
+  "chapter": {
+    "character_count": 112,
+    "id": "chapter-028",
+    "order": 28,
+    "reading_unit_count": 5,
+    "reading_units": [
+      {
+        "character_count": 30,
+        "id": "chapter-028-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「愚而好自用，賤而好自專，生乎今之世，反古之道。如此者，災及其身者也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, Let a man who is ignorant be fond of using his own judgment; let a man without rank be fond of assuming a directing power to himself; let a man who is living in the present age go back to the ways of antiquity;-on the persons of all who act thus calamities will be sure to come."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-028-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "非天子，不議禮，不制度，不考文。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To no one but the Son of Heaven does it belong to order ceremonies, to fix the measures, and to determine the written characters."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-028-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "今天下車同軌，書同文，行同倫。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now over the kingdom, carriages have all wheels, of the-same size; all writing is with the same characters; and for conduct there are the same rules."
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-028-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "雖有其位，苟無其德，不敢作禮樂焉；雖有其德，苟無其位，亦不敢作禮樂焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One may occupy the throne, but if he have not the proper virtue, he may not dare to make ceremonies or music. One may have the virtue, but if he do not occupy the throne, he may not presume to make ceremonies or music."
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-028-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "子曰：「吾說夏禮，杞不足徵也；吾學殷禮，有宋存焉；吾學周禮，今用之，吾從周。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"I may describe the ceremonies of the Xia dynasty, but Qi cannot sufficiently attest my words."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「愚而好自用，賤而好自專，生乎今之世，反古之道。如此者，災及其身者也。」\n非天子，不議禮，不制度，不考文。\n今天下車同軌，書同文，行同倫。\n雖有其位，苟無其德，不敢作禮樂焉；雖有其德，苟無其位，亦不敢作禮樂焉。\n子曰：「吾說夏禮，杞不足徵也；吾學殷禮，有宋存焉；吾學周禮，今用之，吾從周。」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-028.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

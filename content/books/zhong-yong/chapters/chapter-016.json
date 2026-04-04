@@ -1,0 +1,86 @@
+{
+  "chapter": {
+    "character_count": 78,
+    "id": "chapter-016",
+    "order": 16,
+    "reading_unit_count": 5,
+    "reading_units": [
+      {
+        "character_count": 11,
+        "id": "chapter-016-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「鬼神之為德，其盛矣乎！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"How abundantly do spiritual beings display the powers that belong to them!"
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-016-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "視之而弗見，聽之而弗聞，體物而不可遺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We look for them, but do not see them; we listen to, but do not hear them; yet they enter into all things, and there is nothing without them."
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-016-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "使天下之人齊明盛服，以承祭祀。洋洋乎！如在其上，如在其左右。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They cause all the people in the kingdom to fast and purify themselves, and array themselves in their richest dresses, in order to attend at their sacrifices."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-016-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "詩曰：『神之格思，不可度思！矧可射思！』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then, like overflowing water, they seem to be over the heads, and on the right and left of their worshippers."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-016-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "夫微之顯，誠之不可揜如此夫。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said in the Book of Poetry, 'The approaches of the spirits, you cannot surmise; and can you treat them with indifference?' Such is the manifestness of what is minute! Such is the impossibility of repressing the outgoings of sincerity!\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「鬼神之為德，其盛矣乎！\n視之而弗見，聽之而弗聞，體物而不可遺。\n使天下之人齊明盛服，以承祭祀。洋洋乎！如在其上，如在其左右。\n詩曰：『神之格思，不可度思！矧可射思！』\n夫微之顯，誠之不可揜如此夫。」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-016.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

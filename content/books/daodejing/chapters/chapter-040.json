@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 21,
+    "id": "chapter-040",
+    "order": 40,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 21,
+        "id": "chapter-040-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "反者道之動；弱者道之用。天下萬物生於有，有生於無。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The movement of the Tao By contraries proceeds; And weakness marks the course Of Tao's mighty deeds. All things under heaven sprang from It as existing (and named); that existence sprang from It as non-existent (and not named)."
+          }
+        }
+      }
+    ],
+    "summary": "反者道之動；弱者道之用",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "反者道之動；弱者道之用。天下萬物生於有，有生於無。",
+    "title": "第40章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-040.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

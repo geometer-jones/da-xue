@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-081",
+    "order": 81,
+    "summary": "未能免俗",
+    "text": "未能免俗\n目光如炬\n玉成其事\n年登花甲\n危在旦夕\n落落寡合\n如之奈何\n操矛入室\n达官知命\n直道而行\n对答如流\n从善如登\n利害相关\n千奇百怪\n直内方外\n三首六臂\n短中取长\n居无求安\n方兴未已\n指南攻北\n先来后到\n三等九格\n三亲六故\n似箭在弦\n轻重失宜\n年近古稀\n齐心併力\n说是弄非\n利出一孔\n步步登高",
+    "title": "2401-2430",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "未能免俗",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unable to break the custom (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "目光如炬",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Eyes shining like torches"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "玉成其事",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Perfection means being polite."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "年登花甲",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sixty years old is marked by stems and branches, which means sixty years old."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "危在旦夕",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "in imminent peril (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "落落寡合",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "aloof"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "如之奈何",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "what to do"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "操矛入室",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor for understanding the other party deeply, finding out their flaws, and then using the other party's arguments to refute the other party."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "达官知命",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Daguan used to mean letting things take their own course, and also meant being open-minded."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "直道而行",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. to go straight (idiom, from Analects); to act with integrity"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "对答如流",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "able to reply quickly and fluently (idiom); having a ready answer"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "从善如登",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means that being good is as difficult as climbing a mountain. It means that it is difficult to learn well."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "利害相关",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Advantages and Disadvantages"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "千奇百怪",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "fantastic oddities of every description (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "直内方外",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes integrity in heart and uprightness in doing things"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "三首六臂",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor of vast magical power and outstanding ability"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "短中取长",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 短中抽長|短中抽长[duan3 zhong1 chou1 chang2]"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "居无求安",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to not pursuing a comfortable and comfortable place of residence"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "方兴未已",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "flourishing and still in the ascendant (idiom); rapidly expanding"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "指南攻北",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still making noises from east to west"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "先来后到",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) in order of arrival; first come, first served"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "三等九格",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still three hundred sixty-nine and so on"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "三亲六故",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "old friends and relatives"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "似箭在弦",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It's as if the arrow has been placed on the bowstring and has to be fired"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "轻重失宜",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to improper handling of things whether they are important or not"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "年近古稀",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ancient and rare means seventy years old"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "齐心併力",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes understanding and working together"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "说是弄非",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "comment on right and wrong"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "利出一孔",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is only one way to reward people with wealth and wealth, and that is to engage in farming and warfare"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-081-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "步步登高",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "ascend"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-081.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

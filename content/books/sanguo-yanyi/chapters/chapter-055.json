@@ -1,0 +1,645 @@
+{
+  "chapter": {
+    "character_count": 3522,
+    "id": "chapter-055",
+    "order": 55,
+    "reading_unit_count": 48,
+    "reading_units": [
+      {
+        "character_count": 98,
+        "id": "chapter-055-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說玄德見孫夫人房中兩邊槍刀森列，侍婢皆佩劍，不覺失色。管家婆進曰：「貴人休得驚懼。夫人自幼好觀武事，居常令侍婢擊劍為樂，故爾如此。」玄德曰：「非夫人所觀之事，吾甚心寒，可命暫去。」管家婆稟覆孫夫人曰：「房中擺列兵器，嬌客不安，今可去之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Not the sort of thing a wife should ever look at,” said Liu Pei. “It makes me feel cold and you may have them removed for a time.” The housekeeper went to her mistress and said, “The weapons in your chamber displease the handsome one; may we remove them?” The Lady Sun laughed, saying, “Afraid of a few weapons after half a life time spent in slaughter!”"
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-055-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "」孫夫人笑曰：「廝殺半生，尚懼兵器乎？」命盡撤去，令侍婢解劍伏侍。當夜玄德與孫夫人成親，兩情歡洽。玄德又將金帛散給侍婢，以買其心，先教孫乾回荊州報喜。自此連日飲酒。國太十分愛敬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But she ordered their removal and bade the maids take off their swords while they were at work. And the night passed happily enough. Next day Yüan-tê distributed gifts among the maids to secure their good will. He also sent Sun Ch‘ien to Chingchou with news of the wedding, while he gave himself up to feasting and enjoyment. The Dowager loved him more every day."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-055-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "卻說孫權差人來柴桑郡報周瑜說：「我母親力主，已將吾妹嫁劉備。不想弄假成真。此事還復如何？」瑜聞大驚，行坐不安，乃思一計，修密書付來人持回見孫權。權拆書視之。書略曰：「瑜所謀之事，不想反覆如此。既已弄假成真，又當就此用計。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The results of the plot to destroy Liu Pei were thus very different from the originators' intention. Sun Ch'üan sent to his general to say that his mother had insisted upon marrying her daughter to their proposed victim and so by juggling with the fictitious they had made it real. What was to be done?"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-055-line-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "劉備以梟雄之姿，有關、張、趙雲之將，更兼諸葛用謀，必非久屈人下者。愚意莫如軟困之於吳中，盛為築宮室，以喪其心志；多送美色玩好，以娛其耳目；使分開關、張之情，隔遠諸葛之契，各置一方，然後以兵擊之，大事可定矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The news troubled Chou Yü, but eventually he thought out another scheme which he embodied in a letter sent to his master. Here is the outline of the missive:-“Contrary to expectation the plot that I, Chou Yü, contrived has turned the wrong way. However, since by juggling with deceit we have ended in a solid truth our future plans must start from the actual present facts. To the boldness of the adventurer is added the aid of such great captains as Kuan, Chang and Chao Yün, not to mention that Liu Pei has a strategist like Chuko. He is not the man to remain long in a lowly position. Wherefore I can think of no better plan than to enervate him by surrounding him with softness and keeping him in Wu, a prisoner of luxury. Therefore build for him a fine Palace to blunt the edge of his determination and surround him with ​ sensuous luxury. In this way the affection of his brothers will be alienated and Chuko will be driven away. When this result has been attained we can smite him and so end a great matter. If we be at all careless I fear the recumbent dragon may fly to the skies; it is no beast to be kept in a pond."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-055-line-005",
+        "order": 5,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "今若縱之，恐蛟龍得雲雨，終非池中物也。願明公熟思之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My lord, I pray you to consider this thoroughly.”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-055-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "孫權看畢，以書示張昭。昭曰：「公瑾之謀，正合愚意。劉備起身微末，奔走天下。未嘗享受富貴。今若以華堂大廈，子女金帛，令彼享用，自然疏遠孔明、關、張等。使彼各生怨望，然後荊州可圖也。主公可依公瑾之計火速行之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The letter was shown to Chang Chao who said, “My idea is identical with his. Liu Pei began life in a humble position and for years has been a wanderer. He has never tasted the delights of wealth. Give him the means of luxury, a beautiful dwelling, fair women, gold and silken attire, and as he enjoys them the thoughts of K‘ung-ming and his brothers will fade away and they, on their side, will be filled with rancour. Thus can we lay our plans for recovering Chingchou. I recommend action as Chou Yü says and quickly.”"
+          }
+        }
+      },
+      {
+        "character_count": 68,
+        "id": "chapter-055-line-007",
+        "order": 7,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "」權大喜，即日修整東府，廣栽花木，盛設器用，請玄德與妹居住；又增女樂數十餘人，並金玉錦綺玩好之物。國太只道孫權好意，喜不自勝。玄德果然被聲色所迷，全不想回荊州。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Ch‘üan then set about re-decorating the eastern Palace and laying out the grounds. He filled the rooms with beautiful furniture for his sister and her husband. He also sent fair damsels and musicians by the score, and many and beautiful vessels in gold and silver, and silken stuffs. And his mother was delighted at his kindness to her son-in-law."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-055-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "卻說趙雲與五百軍在東府前住，終日無事，只去城外射箭走馬。看看年終，雲猛省：「孔明分付三個錦囊與我，教我一到南徐，開第一個；住到年終，開第二個；臨到危急無路之時，開第三個。於內有神出鬼沒之計，可保主公回家。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Indeed Liu Pei was soon so immersed in sensuous pleasure that he gave no thought to return. Chao Yün and the company under him led an idle life in the front portion of the eastern Palace, save that at times they went outside the city for archery and horse-racing. And thus passed the year."
+          }
+        }
+      },
+      {
+        "character_count": 50,
+        "id": "chapter-055-line-009",
+        "order": 9,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "此時歲已將終，主公貪戀女色，並不見面，何不拆開第二個錦囊，看計而行？」遂拆開視之。原來如此神策。即日徑到府堂，要見玄德。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Suddenly Chao Yün remembered the orders he had received and the three bags with the plans in them. It was time to open the second one for the end of the year was nigh. His orders were only to open the third when danger was very near and there appeared no way out."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-055-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "侍婢報曰：「趙子龍有緊急事來報貴人。」玄德喚入問之。雲佯作失驚之狀曰：「主公深居畫堂，不想荊州耶？」玄德曰：「有甚事如此驚怪？」雲曰：「今早孔明使人來報，說曹操要報赤壁鏖兵之恨，起精兵五十萬，殺到荊州，甚是危急，請主公便回。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As already remarked, the year was drawing to a close and Chao Yün saw his lord daily becoming more and more the slave of pleasure. Liu Pei never appeared among his guards now. So the bag was opened and in pursuance of the wonderful scheme thereby discovered, Chao Yün went to the hall of the Palace and asked to see his master. The maid in attendance went within and said, “Chao Yün has some important matter on which to see the master.”"
+          }
+        }
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-055-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "」玄德曰：「必須與夫人商議。」雲曰：「若和夫人商議，必不肯放主公回。不如休說，今晚便好起程。遲則誤事。」玄德曰：「你且暫退，我自有道理。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê called him in and asked what the business was. Chao Yün assumed an attitude of great concern and said, “My lord, you are living happily secluded in these beautiful apartments; do you never think of Chingchou?” “But what is the matter that you seem so disturbed?” asked Liu."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-055-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "雲故意催逼數番而出。玄德入見孫夫人，暗暗垂淚。孫夫人曰：「夫君何故煩惱？」玄德曰：「念備一身飄蕩異鄉，生不能侍奉二親，又不能祭祀宗祖，乃大逆不孝也。今歲旦在邇，使備悒怏不已。」孫夫人曰：「你休瞞我。我已聽知了也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“To-day early K‘ung-ming sent a messenger to say that Ts‘ao Ts‘ao was trying to avenge his last defeat and was leading fifty legions to attack Chingchou, which was in great danger. And he wished you to return.” ​ “I must speak to my wife,” said Yüan-tê. “If you consult her she will be unwilling for you to return. It would be better to say nothing but to start this evening. Delay may do great damage.”"
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-055-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "方纔趙子龍報說荊州危急，你欲還鄉，故推此意。」玄德跪而告曰：「夫人既知，備安敢相瞞？備欲不去，使荊州有失，被天下人恥笑；欲去，又捨不得夫人：因此煩惱。」夫人曰：「妾已事君，任君所之，妾當相隨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Retire for a time; I must act discreetly,” said Liu Pei. Chao Yün urged the need to return several times more, but finally went away. Yüan-tê went into his wife’s rooms and began to weep silently. Seeing his tears the Lady Sun said, “Why are you so sad, my husband?”"
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-055-line-014",
+        "order": 14,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "」玄德曰：「夫人之心，雖則如此，爭奈國太與吳侯安肯容夫人去？夫人若可憐劉備，暫時辭別。」言畢，淚如雨下。孫夫人勸曰：「夫君休得煩惱。妾當苦告母親，必放妾與君同去。」玄德曰：「縱然國太肯時，吳侯必然阻擋。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê replied, “I have been driven hither and thither all my life. I was never able to do my duty to my parents nor have I been able to sacrifice to my ancestors. I have been very unfilial. The new year is at hand and its approach disquiets me greatly.” “Do not try to deceive me,” said the Lady Sun. “I heard and I know all. Just now Chao Yün came to tell you Chingchou was threatened and you wish to return home. That is why you put forward this excuse.”"
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-055-line-015",
+        "order": 15,
+        "source_block_chunk": 4,
+        "source_block_order": 6,
+        "text": "」孫夫人沈吟良久，乃曰：「妾與君正旦拜賀時，推稱江邊祭祖，不告而去，若何？」玄德又跪而謝曰：「若如此，生死難忘。切勿漏泄。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Yüan-tê fell on his knees and said, “Why should I dissemble, O wife, since you know? I do not wish to go, but if Chingchou be lost I shall be an object of ridicule to every one. I do desire to go, but I cannot leave you. Now you know why I am grieved.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-055-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "兩個商議已定。玄德密喚趙雲分付：「正旦日，你先引軍士出城，於官道等候。吾推祭祖，與夫人同走。」雲領諾。建安十五年春正月元旦，吳侯大會文武於堂上。玄德與孫夫人入拜國太。孫夫人曰：「夫主想父母宗祖墳墓，俱在涿郡，晝夜傷感不已。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "She replied, “I am your handmaid and whithersoever you go it is my duty to follow.” “Yes; your heart is right, but the difficulty is your mother and the Marquis; they will be unwilling. If you would have pity on me and let me go for a time And again the tears gushed forth. ” “Do not be so sad, my husband,” said the Lady Sun. “I will implore my mother to let us go and she will surely allow it.” “Even supposing the Dowager permits I am sure the Marquis will hinder.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-055-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "今日欲往江邊，望北遙祭，須告母親得知。」國太曰：「此孝道也，豈有不從？汝雖不識舅姑，可同汝夫前去祭拜，亦見為婦之禮。」孫夫人同玄德拜謝而出。此時只瞞著孫權。夫人乘車，止帶隨身一應細軟。玄德上馬，引數騎跟隨出城，與趙雲相會。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Lady Sun said nothing for a long time while she weighed the matter thoroughly. Presently she spoke, “On New Year’s Day you and I will go to court and present our congratulations. Then we will give the excuse of a sacrifice on the river bank and go away without formal leave. Will that suit you?” Yüan-tê knelt at her feet and expressed his gratitude. “I should be never so grateful,” said he. “Dead or alive I would remember your love. But this must be a perfect secret.”"
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-055-line-018",
+        "order": 18,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "五百軍士前遮後擁，離了南徐，趲程而行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This having been decided and the arrangements made, Chao Yün received secret orders to lead out his company and be on the road on New Year’s morn. He was told they were going away."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-055-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "當日孫權大醉，左右近侍扶入後堂，文武皆散。比及眾官探得玄德夫婦逃遁之時，天色已晚。要報孫權，權醉不醒。及至睡覺，已是五更。次日，孫權聞知走了玄德，急喚文武商議。張昭曰：「今日走了此人。早晚必生禍亂。可急追之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Ch'üan held a grand court on the New Year’s Day of the fifteenth year of “Established Tranquillity.” Liu Pei and ​ his bride went into the Dowager’s presence and the Lady Sun said, “My husband has been thinking of his ancestors, who lie in Cho, and grieves that he cannot do his duty by them. To-day we wish to go to the river side and offer sacrifices toward the north. It is our duty to inform you.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-055-line-020",
+        "order": 20,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "」孫權令陳武、潘璋選五百精兵，無分晝夜，務要趕上拏回。二將領命去了。孫權深恨玄德，將案上玉硯摔為粉碎。程普曰：「主公空有沖天之怒。某料陳武、潘璋必擒此人不得。」權曰：「焉敢違我令！」普曰：「郡主自幼好觀武事，嚴毅剛正，諸將皆懼。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“A very filial proceeding,” said the Dowager. “I should not think of stopping you. Although you have never known your husband’s parents yet you may go with him to sacrifice as it is proper for a wife to do.” Both thanked the Dowager and went out, rejoicing at having so far hoodwinked Sun Ch'üan. The Lady Sun got into her carriage taking only a little clothing with her, while Yüan-tê followed with a small escort. They went out of the city and met Chao Yün at the place arranged. Then with a guard in front and rear they left the precincts of the city, travelling as quickly as they could."
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-055-line-021",
+        "order": 21,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "既然肯順劉備，必同心而去。所追之將，若見郡主，豈肯下手？」權大怒，掣所佩之劍，喚蔣欽、周泰聽令，曰：「汝二人將這口劍去取吾妹並劉備頭來！違令者立斬！」蔣欽、周泰領命，隨後引三千軍趕來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "That day, at the new year banquet, Sun Ch'üan drank freely so that he had to be helped to his chamber, and the guests left. Before very long the escape of the fugitives became known, but it was then dark and when they tried to tell Sun Ch‘üan they could not rouse him. He slept heavily until the fifth watch. The next morning, when Sun Ch'üan heard the story he asked advice of his counsellors. Chang Shao said, “They have got away to-day but trouble will surely come of it; therefore pursue after them without loss of time.”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-055-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "卻說玄德加鞭縱轡，趲程而行，當夜於路暫歇兩個更次，慌忙起行。看看來到柴桑界首，望見後面塵頭大起，人報：「追兵至矣！」玄德慌問趙雲曰：「追兵既至，如之奈何？」趙雲曰：「主公先行，某願當後。」轉過前面山腳，一彪軍馬攔住去路。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Ch'ên Wu and P‘an Chang, with a half-company of veterans, were sent out with orders to use all speed both by day and by night and bring back the fugitives. They left. Sun Ch'üan’s anger burned hot against Yüan-tê. In his wrath he seized his jade inkstone and dashed it to the ground where it shivered to pieces. Said Ch‘êng P‘u, “My lord, your wrath is in vain, for I do not think your men will catch the runaways.” “Will they dare to disobey my order?” said Sun Ch'üan."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-055-line-023",
+        "order": 23,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "當先兩員大將，厲聲高叫曰：「劉備早早下馬受縛！吾奉周都督將令，守候多時！」原來周瑜恐玄德走脫，先使徐盛、丁奉引三千軍馬於衝要之處紮營等候，時常令人登高遙望，料得玄德若投旱路，必經此道而過。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Our young lady had always delighted to look upon war and is very fierce and determined. All the officers fear her. Now she has gone with her husband of her own free will and those sent in pursuit, if once they look upon her countenance, will not dare to lay hands on her.' ” Sun Ch‘üan’s wrath burned the more fiercely at these words. He drew the sword girded at his side and called up Chiang Ch‘in and Chou T‘ai saying, “You two take this sword and bring back the heads of my sister and Liu Pei. And if you do not I will put you to death.”"
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-055-line-024",
+        "order": 24,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "當日徐盛、丁奉瞭望得玄德一行人到，各綽兵器，截住去路。玄德驚慌，勒回馬問趙雲曰：「前有攔截之兵，後有追趕之兵：前後無路，如之奈何？」雲曰：「主公休慌。軍師有三條妙計，多在錦囊之中。已拆了兩個，並皆應驗。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "With this order they set out in pursuit, leading a whole company. Meanwhile Yüan-te and his wife were pressing forward with all speed. When night fell they rested for a time by the roadside, but not for long. Just as they reached ​ the confines of Ch‘aisang they turned and saw a great cloud of dust and the soldiers said that a force was coming in pursuit. “What shall we do if they come up with us?” said Yüan-tê excitedly to Chao Yün. “My lord, you go on in front and I will prevent pursuit.”"
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-055-line-025",
+        "order": 25,
+        "source_block_chunk": 4,
+        "source_block_order": 9,
+        "text": "今尚有第三個在此，分付遇危難之時，方可拆看。今日可急，當拆觀之。」便將錦囊拆開，獻與玄德。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As they turned the foot of a hill they saw a troop of soldiers blocking their road in front. Two captains were there and they bellowed, “Liu Pei, dismount and yield yourself captive. We are here by order of General Chou and you have kept us waiting long.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-055-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "玄德看了，急來軍前泣告孫夫人曰：「備有心腹之言，至此盡當實訴。」夫人曰：「丈夫有何言語，實對我說。」玄德曰：「昔日吳侯與周瑜同謀，將夫人招贅劉備，實非為夫人計，乃欲幽囚劉備而奪荊州耳。奪了荊州，必將殺備。是以夫人為香餌而釣備也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now the thought had come to Chou Yü that Yüan-tê would try to flee, and so he had sent Hsü Shêng and Ting Fêng, with three companies, to intercept him at this critical spot. They had made a camp there and kept a lookout from the hill-tops, for Chou had calculated that he would certainly pass that way. So when Liu Pei and his cavalcade appeared they all buckled on their arms and barred the way. Greatly fearing, Yüan-tê rode back to consult Chao Yün, to whom he said, “In front a force barring the road; in rear pursuers. There is no escape. What can we do?”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-055-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "備不懼萬死而來，蓋知夫人有男子之胸襟，必能憐備。昨聞吳侯將欲加害，故託荊州有難，以圖歸計。幸得夫人不棄，同至於此。今吳侯又令人在後追趕，周瑜又使人於前截住，非夫人莫解此禍。如夫人不允，備請死於車前，以報夫人之德。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Do not be alarmed, my lord. The great strategist gave me three plans enclosed in three silken bags. Two have been used and have answered admirably. There is yet the third and my orders were to open the bag in such a strait as this. This is a day of great danger such as calls me to open the bag.' ” Thereupon he opened the bag and handed it to Yüan-tê. As soon as Yüan-tê had seen the contents he hastened to the Lady Sun’s carriage and began to weep, saying, “I have something private to say, and I must tell you.” “What have you to tell me, my husband? Tell me the whole truth,” replied she."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-055-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "夫人怒曰：「吾兄既不以我為親骨肉，我有何面目重相見乎！今日之危，我當自解。」於是叱從人推車直出，捲起車簾，親喝徐盛、丁奉曰：「你二人欲造反耶？」徐、丁二將慌忙下馬，棄了兵器，聲喏於車前曰：「安敢造反：為奉周都督將令，屯兵在此專候劉備。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Your brother and Chou Yü formerly made a plot for you to marry me, not for your sake, but to get me into their power and hold me so that they might recover Chingchou. They were set on my murder, and you were the bait with which to hook me. Careless of consequences I came, for I knew that the spirit of a man dwelt in your bosom and you would pity me. Lately I heard that harm was intended me and so I made danger to Chingchou the excuse to escape. Happily for me you have remained true and come with me. But now the Marquis is pursuing us and Chou Yü's men are in front. Only you, my wife, can extricate us from this danger and if you refuse, then slay me where I stand that I may thus show my gratitude for your kindness.”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-055-line-029",
+        "order": 29,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "」孫夫人大怒曰：「周瑜逆賊！我東吳不曾虧負你！玄德乃大漢皇叔，是我丈夫。我已對母親、哥哥說知回荊州去。今你兩個山腳去處，引著軍馬攔道路，意欲劫我夫妻財物耶？」徐盛、丁奉喏喏連聲，口稱：「不敢。請夫人息怒。這不干我等之事，乃是周都督的將令。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Lady Sung grew angry and said, “Then does my brother forget that I am his sister? How will he ever look me in the face? I can extricate us from this danger.” ​ Thereupon she bade her people push the carriage to the front. She rolled up the blind and herself called out, “Hsü Shêng, Ting Fêng, are you turned traitors then?” The two captains slid out of their saddles, dropped their arms and stood meekly in front of the carriage. “We are no traitors,” said they. “We have the General’s orders to camp here and await Liu Pei.”"
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-055-line-030",
+        "order": 30,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "」孫夫人叱曰：「你只怕周瑜，獨不怕我？周瑜殺得你，我豈殺不得周瑜？」把周瑜大罵一場，喝令推車前進。徐盛、丁奉自思：「我等是下人，安敢與夫人違拗？」又見趙雲十分怒氣，只得把兵喝住，放條大路教過去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Chou Yü is an interfering scoundrel,” cried she. “We of the land of Wu have never harmed you, and Yüan-tê, the Uncle of the Great Family, is my husband. I have already told my mother and my brother of our journey and now I find you with an army at the foot of these hills preventing our passage. Is it that you would plunder us of our valuables?” The two captains mumbled dissent; they would not dare such a thing. “We pray you, O Lady, to stay your anger. This is no plan of ours; we do but obey our General’s orders.”"
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-055-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "恰纔行不得五六里，背後陳武、潘璋趕到。徐盛、丁奉備言其事。陳、潘二將曰：「你放他過去差了。我二人奉吳侯旨意，特來追捉他回去。」於是四將合兵一處，趲程趕來。玄德正行間，忽聽得背後喊聽大起。玄德又告孫夫人曰：「後面追兵又到，如之奈何？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“So you fear Chou Yü and not me!” cried she scornfully. “Think you that if he slay you I will not slay him?” She broke into a torrent of abuse of Chou Yü. Then she bade them push her carriage forward. The two leaders thought within themselves, “We are but men of lowly rank, we dare not dispute with the Lady Sun.” Beside they saw Chao Yün was bursting with wrath. So they ordered their men to stand aside and leave the road clear. The cavalcade had only gone a little distance when up came the pursuers. The two captains told the new-comers what had happened. “You were wrong to let them pass,” said Ch'ên and P‘an. “We have orders from the Marquis himself to arrest them.”"
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-055-line-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "」夫人曰：「夫君先行，我與子龍當後。」玄德先引三百軍，望江岸去了。子龍勒馬於車傍，將士卒擺開，專候來將。四員將見了孫夫人，只得下馬，拱手而立。夫人曰：「陳武、潘璋，來此何干？」二將答曰：「奉主公之命，請夫人、玄德回。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thereupon all four went in pursuit. When the noise of the approaching force reached the ears of Yüan-tê he said to his wife, “They are again pursuing us; what now?” “Husband, go on in front. I and Chao Yün will keep them off.” So Yüan-tê and a small company went on toward the river bank, while Chao Yün reined up beside the lady’s carriage and set out his men ready for battle. And when the four men came up they dismounted and stood with folded arms."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-055-line-033",
+        "order": 33,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "」夫人正色叱曰：「都是你這夥匹夫，離間我兄妹不睦！我已嫁他人，今日歸去，須不是與人私奔。我奉母親慈旨，令我夫婦回荊州。便是我哥哥來，也須依禮而行。你二人倚仗兵威，欲待殺害我耶？」罵得四人面面相覷，各自尋思：「他一萬年也只是兄妹。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What are you doing here, Captains?” asked the Lady Sun. “We have orders from our lord to request you and Yüan-tê to return.” Calmly but bitterly she said, “So this is the sort of fools you are! You would make dissension between brother and sister. But I am a wife on my way to my husband’s home. Nor am I leaving clandestinely, for I had my mother’s gracious permission. Now we, husband and wife, are going to Chingchou and if even my brother were here himself he would let us pass in all politeness. But you, because you have weapons in your hands, would slay us!”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-055-line-034",
+        "order": 34,
+        "source_block_chunk": 4,
+        "source_block_order": 12,
+        "text": "更兼國太作主；吳侯乃大孝之人，怎敢違逆母言？明日翻過臉來，只是我等不是。不如做個人情。」軍中又不見玄德；但見趙雲怒目睜眉，只待廝殺。因此四將喏喏連聲而退。孫夫人令推車便行。徐盛曰：「我四人同去見周都督，告稟此事。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ She abused the four men to their faces so that they looked from one to another in shame. And each in his heart thought, “Say what one will, after all they two are brother and sister and the Dowager is the controlling power. Sun Ch'üan is most obedient and would never dare oppose his mother’s decision. When the reaction comes, then indeed we shall certainly be found in the wrong. We had better be kind.” Another thing was that one of the two they sought, Yüan-tê, was not there and Chao Yün looked angry and dangerous. Finally, muttering to themselves, they gave way and with one accord retired and left the road open. The Lady Sun passed through."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-055-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "四人猶豫未定，忽見一軍如旋風而來；視之，乃蔣欽、周泰。二將問曰：「你等曾見劉備否？」四人曰：「早晨過去，已半日矣。」蔣欽曰：「何不拏下？」四人各言孫夫人發話之事。蔣欽曰：「便是吳侯怕道如此，封一口劍在此，教先殺他妹，後斬劉備。違者立斬！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“We four will go to see the General and report,” said Hsü Shêng. But that did not please them all and they stood irresolute. Presently they saw a column of men sweeping down on them like a hurricane. These were Chiang and Chou with their company. “Have you fellows seen Liu Pei?” they cried as they rushed up. “He has just passed along.” “Why did you not arrest him?” “Because of what the Lady Sun said.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-055-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "」四將曰：「去之已遠，怎生奈何？」蔣欽曰：「他終是些步軍，急行不上。徐、丁二將軍，可飛報都督，教水路棹快船追趕；我四人在岸上追趕。無問水旱之路，趕上殺了，休聽他言語。」於是徐盛、丁奉飛報周瑜；蔣欽、周泰、陳武、潘璋四個領兵沿江趕來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“That is just as the Marquis feared and so he gave us this sword and told us first to slay his sister and then Liu Pei. And if we disobey he will put us to death.” “What can be done? They are far away by now.” Chiang Ch‘in said, “After all they are but a few and on foot; they cannot travel very fast. Let Hsü and Ting go to Chou Yü to tell him, and he can send fast boats to pursue them on the river while we follow up on the bank. We must get them either on water or land and we must not listen to what they say.”"
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-055-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "卻說玄德一行人馬，離柴桑較遠，來到劉郎浦，心纔稍寬。沿著江岸尋渡，一望江水瀰漫、並無船隻。玄德府首沈吟。趙雲曰：「主公在虎口中逃，出今已近本界，吾料軍師必有調度，何用憂疑？」玄德聽罷，驀然想起在東吳繁華之事，不覺淒然淚下。後人有詩歎曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Whereupon two went back to report and two to the river bank. Meanwhile Liu Pei had got a long way from Ch‘aisang and reached Liulangpu. He now felt calmer. He went along the bank of the river seeking a boat, but there was no craft on the broad bosom of the stream. He bowed his head in deep sorrow. Chao Yün bade him be of good courage seeing that he had just escaped from the tiger’s jaws and had not far to go. “I suspect K‘ung-ming has something prepared for us,” said he. But his master was despondent. His thoughts were back to the pleasures he had enjoyed but a few hours since in the house of his wife, and the tears rolled down his cheeks. A poem has been written on this episode."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-055-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "吳蜀成婚此水澄，明珠步幛屋黃金。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "By the bank of the deep flowing Yangtse Once was a wedding, And the ruling houses of two states yet to be Were allied by marriage."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-055-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "誰知一女輕天下，欲易劉郎鼎峙心。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "See the beautiful maiden stepping slowly To the golden bridal chamber! Yet was the marriage but a ruse. Its author vainly imagined that a hero, Sinking in amorous toils, Would forget his high intent and great resolve."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-055-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "玄德令趙雲望前哨探船隻，忽報後面塵土沖天而起。玄德登高望之，但見軍馬蓋地而來，歎曰：「連日奔走，人困馬乏，追兵又到，死無地矣！」看看喊聲漸近。正慌急間，忽見江岸邊一字兒拋著拖篷船二十餘隻。趙雲曰：「天幸有船在此！棹過對岸，再作區處！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê bade the captain of his guard go along the bank to seek some boats. Then the soldiers told him there was a huge cloud of dust on the road. Ascending one of the hills he looked back whence they had come and saw the whole earth as it were covered with an advancing host. He sighed and said, “We have fled before them now for days, worn out our men and jaded our horses, and all to die in a strange place.” He watched them coming nearer and nearer. Then as things began to look most desperate he saw a line of some twenty boats all in the act of setting their sails."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-055-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "玄德與孫夫人便奔上船。子龍引五百軍亦都上船。只見船艙中一人綸巾道服，大笑而出，曰：「主公且喜！諸葛亮在此等候多時。」船中扮作客人的，皆是荊州水軍。玄德大喜。不多時，四將趕到。孔明笑指岸上人言曰：「吾已算定多時矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“By good luck here are some ships,” said Chao Yün. “Let us get on board, row to the further bank and see what can be done.” Yüan-tê and his bride hastened down the bank and went into a ship. The soldiers were embarked. Then they saw in the hold of the ship some one in Taoist dress, who came up with a smile, saying, “My lord, again you see Chuko Liang. He has waited a long time.” “All the men on board were from Chingchou, and Yüan-tê rejoiced at the sudden happy turn of affairs."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-055-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "汝等回去傳示周郎，教休再使美人局手段。」岸上亂箭射來，船已開的遠了。蔣欽四將，只好呆看。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Before long the pursuers reached the bank. K‘ung-ming pointed to them and laughed, saying, “I foresaw this a long time ago. You may return and tell your General not to use the fair damsel trick again.”"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-055-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "玄德與孔明正行間，忽然江聲大振，回頭視之，只見戰船無數。帥字旗下，周瑜自領慣戰水軍，左有黃蓋，右有韓當，勢如飛馬，疾似流星。看看趕上，孔明教棹船投北岸，棄了船盡皆上岸而走，車馬登程。周瑜趕到江邊，亦皆上岸追襲。大小水軍，盡是步行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Those on the bank sent a flight of arrows at the ships but they were already too far away. The four officers on the bank looked very foolish. As the boats were sailing along a great noise was heard on the river behind them and there appeared a huge fleet of war ships, sailing under the flag of Chou Yü. He also was there in command of the fleet and he was supported by Huang Kai and Han Tang. They seemed like a drove of horses and came along swift as a falling star. They gained on the fugitives rapidly."
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-055-line-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "止有為首官軍騎馬。周瑜當先，黃蓋、韓當、徐盛、丁奉緊隨。周瑜曰：「此處是那裏？」軍士答曰：「前面是黃州界首。」望見玄德軍馬不遠，瑜令併力追襲。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming ordered the boats to row over to the north bank, and the party landed. They had started off away from the shore before Chou Yü could land. Chou Yü's men, naturally, were all afoot but they kept up the pursuit, following as quickly as they could. When they reached the borders of Huangchou, Liu Pei and his party were not far away, and so they pressed the pursuit. But there were only horses for a few in front and suddenly the rolling of drums struck Chou Yü's ears and from out a gully dashed a troop of swordsmen led by Kuan Yü. ​ Chou Yü was too surprised and unprepared to do anything but flee."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-055-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "正趕之間，一聲鼓響，山谷內一隊刀手擁出，為首一員大將，乃關雲長也。周瑜舉止失措，急撥馬便走。雲長趕來，周瑜縱馬逃命。正奔走間，左邊黃忠，右邊魏延，兩軍殺出。吳兵大敗。周瑜急急下得船時，岸上軍士齊聲大叫曰：「周郎妙計安天下，陪了夫人又折兵！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chou Yü fled for his life and Kuan Yü pursued. At different points other captains came out and attacked, so that the men of Wu suffered a great defeat and Chou Yü barely escaped. As he came to the river and was going down into his ship the soldiers on the bank jeered at him on account of the miscarriage of his scheme for the restoration of tranquillity. All he had done was to give his enemy a wife and lose his soldiers. He was so annoyed that he would have gone up the bank to fight again, but his captains restrained him. He was very despondent and felt ashamed to face his master and confess utter defeat and failure."
+          }
+        }
+      },
+      {
+        "character_count": 57,
+        "id": "chapter-055-line-046",
+        "order": 46,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "」瑜怒曰：「可再登岸決一死戰！」黃蓋、韓當力阻。瑜自思曰：「吾計不成，有何面目去見吳侯！」大叫一聲，金瘡迸裂，倒於船上。眾將急救，卻早不省人事。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All at once he cried aloud and fell back in a swoon. His wound had re-opened. The captains came to his help but it was long before he recovered consciousness."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-055-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "兩番弄巧翻成拙，此日含嗔卻帶羞。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Twice had he played his trick And twice had he lost the game; His heart was full of resentment, He was overwhelmed with shame."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-055-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "未知周郎性命如何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The fate of Chou Yü will appear in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說玄德見孫夫人房中兩邊槍刀森列，侍婢皆佩劍，不覺失色。管家婆進曰：「貴人休得驚懼。夫人自幼好觀武事，居常令侍婢擊劍為樂，故爾如此。」玄德曰：「非夫人所觀之事，吾甚心寒，可命暫去。」管家婆稟覆孫夫人曰：「房中擺列兵器，嬌客不安，今可去之。」孫夫人笑曰：「廝殺半生，尚懼兵器乎？」命盡撤去，令侍婢解劍伏侍。當夜玄德與孫夫人成親，兩情歡洽。玄德又將金帛散給侍婢，以買其心，先教孫乾回荊州報喜。自此連日飲酒。國太十分愛敬。\n卻說孫權差人來柴桑郡報周瑜說：「我母親力主，已將吾妹嫁劉備。不想弄假成真。此事還復如何？」瑜聞大驚，行坐不安，乃思一計，修密書付來人持回見孫權。權拆書視之。書略曰：「瑜所謀之事，不想反覆如此。既已弄假成真，又當就此用計。劉備以梟雄之姿，有關、張、趙雲之將，更兼諸葛用謀，必非久屈人下者。愚意莫如軟困之於吳中，盛為築宮室，以喪其心志；多送美色玩好，以娛其耳目；使分開關、張之情，隔遠諸葛之契，各置一方，然後以兵擊之，大事可定矣。今若縱之，恐蛟龍得雲雨，終非池中物也。願明公熟思之。」\n孫權看畢，以書示張昭。昭曰：「公瑾之謀，正合愚意。劉備起身微末，奔走天下。未嘗享受富貴。今若以華堂大廈，子女金帛，令彼享用，自然疏遠孔明、關、張等。使彼各生怨望，然後荊州可圖也。主公可依公瑾之計火速行之。」權大喜，即日修整東府，廣栽花木，盛設器用，請玄德與妹居住；又增女樂數十餘人，並金玉錦綺玩好之物。國太只道孫權好意，喜不自勝。玄德果然被聲色所迷，全不想回荊州。\n卻說趙雲與五百軍在東府前住，終日無事，只去城外射箭走馬。看看年終，雲猛省：「孔明分付三個錦囊與我，教我一到南徐，開第一個；住到年終，開第二個；臨到危急無路之時，開第三個。於內有神出鬼沒之計，可保主公回家。此時歲已將終，主公貪戀女色，並不見面，何不拆開第二個錦囊，看計而行？」遂拆開視之。原來如此神策。即日徑到府堂，要見玄德。\n侍婢報曰：「趙子龍有緊急事來報貴人。」玄德喚入問之。雲佯作失驚之狀曰：「主公深居畫堂，不想荊州耶？」玄德曰：「有甚事如此驚怪？」雲曰：「今早孔明使人來報，說曹操要報赤壁鏖兵之恨，起精兵五十萬，殺到荊州，甚是危急，請主公便回。」玄德曰：「必須與夫人商議。」雲曰：「若和夫人商議，必不肯放主公回。不如休說，今晚便好起程。遲則誤事。」玄德曰：「你且暫退，我自有道理。」\n雲故意催逼數番而出。玄德入見孫夫人，暗暗垂淚。孫夫人曰：「夫君何故煩惱？」玄德曰：「念備一身飄蕩異鄉，生不能侍奉二親，又不能祭祀宗祖，乃大逆不孝也。今歲旦在邇，使備悒怏不已。」孫夫人曰：「你休瞞我。我已聽知了也。方纔趙子龍報說荊州危急，你欲還鄉，故推此意。」玄德跪而告曰：「夫人既知，備安敢相瞞？備欲不去，使荊州有失，被天下人恥笑；欲去，又捨不得夫人：因此煩惱。」夫人曰：「妾已事君，任君所之，妾當相隨。」玄德曰：「夫人之心，雖則如此，爭奈國太與吳侯安肯容夫人去？夫人若可憐劉備，暫時辭別。」言畢，淚如雨下。孫夫人勸曰：「夫君休得煩惱。妾當苦告母親，必放妾與君同去。」玄德曰：「縱然國太肯時，吳侯必然阻擋。」孫夫人沈吟良久，乃曰：「妾與君正旦拜賀時，推稱江邊祭祖，不告而去，若何？」玄德又跪而謝曰：「若如此，生死難忘。切勿漏泄。」\n兩個商議已定。玄德密喚趙雲分付：「正旦日，你先引軍士出城，於官道等候。吾推祭祖，與夫人同走。」雲領諾。建安十五年春正月元旦，吳侯大會文武於堂上。玄德與孫夫人入拜國太。孫夫人曰：「夫主想父母宗祖墳墓，俱在涿郡，晝夜傷感不已。今日欲往江邊，望北遙祭，須告母親得知。」國太曰：「此孝道也，豈有不從？汝雖不識舅姑，可同汝夫前去祭拜，亦見為婦之禮。」孫夫人同玄德拜謝而出。此時只瞞著孫權。夫人乘車，止帶隨身一應細軟。玄德上馬，引數騎跟隨出城，與趙雲相會。五百軍士前遮後擁，離了南徐，趲程而行。\n當日孫權大醉，左右近侍扶入後堂，文武皆散。比及眾官探得玄德夫婦逃遁之時，天色已晚。要報孫權，權醉不醒。及至睡覺，已是五更。次日，孫權聞知走了玄德，急喚文武商議。張昭曰：「今日走了此人。早晚必生禍亂。可急追之。」孫權令陳武、潘璋選五百精兵，無分晝夜，務要趕上拏回。二將領命去了。孫權深恨玄德，將案上玉硯摔為粉碎。程普曰：「主公空有沖天之怒。某料陳武、潘璋必擒此人不得。」權曰：「焉敢違我令！」普曰：「郡主自幼好觀武事，嚴毅剛正，諸將皆懼。既然肯順劉備，必同心而去。所追之將，若見郡主，豈肯下手？」權大怒，掣所佩之劍，喚蔣欽、周泰聽令，曰：「汝二人將這口劍去取吾妹並劉備頭來！違令者立斬！」蔣欽、周泰領命，隨後引三千軍趕來。\n卻說玄德加鞭縱轡，趲程而行，當夜於路暫歇兩個更次，慌忙起行。看看來到柴桑界首，望見後面塵頭大起，人報：「追兵至矣！」玄德慌問趙雲曰：「追兵既至，如之奈何？」趙雲曰：「主公先行，某願當後。」轉過前面山腳，一彪軍馬攔住去路。當先兩員大將，厲聲高叫曰：「劉備早早下馬受縛！吾奉周都督將令，守候多時！」原來周瑜恐玄德走脫，先使徐盛、丁奉引三千軍馬於衝要之處紮營等候，時常令人登高遙望，料得玄德若投旱路，必經此道而過。當日徐盛、丁奉瞭望得玄德一行人到，各綽兵器，截住去路。玄德驚慌，勒回馬問趙雲曰：「前有攔截之兵，後有追趕之兵：前後無路，如之奈何？」雲曰：「主公休慌。軍師有三條妙計，多在錦囊之中。已拆了兩個，並皆應驗。今尚有第三個在此，分付遇危難之時，方可拆看。今日可急，當拆觀之。」便將錦囊拆開，獻與玄德。\n玄德看了，急來軍前泣告孫夫人曰：「備有心腹之言，至此盡當實訴。」夫人曰：「丈夫有何言語，實對我說。」玄德曰：「昔日吳侯與周瑜同謀，將夫人招贅劉備，實非為夫人計，乃欲幽囚劉備而奪荊州耳。奪了荊州，必將殺備。是以夫人為香餌而釣備也。備不懼萬死而來，蓋知夫人有男子之胸襟，必能憐備。昨聞吳侯將欲加害，故託荊州有難，以圖歸計。幸得夫人不棄，同至於此。今吳侯又令人在後追趕，周瑜又使人於前截住，非夫人莫解此禍。如夫人不允，備請死於車前，以報夫人之德。」\n夫人怒曰：「吾兄既不以我為親骨肉，我有何面目重相見乎！今日之危，我當自解。」於是叱從人推車直出，捲起車簾，親喝徐盛、丁奉曰：「你二人欲造反耶？」徐、丁二將慌忙下馬，棄了兵器，聲喏於車前曰：「安敢造反：為奉周都督將令，屯兵在此專候劉備。」孫夫人大怒曰：「周瑜逆賊！我東吳不曾虧負你！玄德乃大漢皇叔，是我丈夫。我已對母親、哥哥說知回荊州去。今你兩個山腳去處，引著軍馬攔道路，意欲劫我夫妻財物耶？」徐盛、丁奉喏喏連聲，口稱：「不敢。請夫人息怒。這不干我等之事，乃是周都督的將令。」孫夫人叱曰：「你只怕周瑜，獨不怕我？周瑜殺得你，我豈殺不得周瑜？」把周瑜大罵一場，喝令推車前進。徐盛、丁奉自思：「我等是下人，安敢與夫人違拗？」又見趙雲十分怒氣，只得把兵喝住，放條大路教過去。\n恰纔行不得五六里，背後陳武、潘璋趕到。徐盛、丁奉備言其事。陳、潘二將曰：「你放他過去差了。我二人奉吳侯旨意，特來追捉他回去。」於是四將合兵一處，趲程趕來。玄德正行間，忽聽得背後喊聽大起。玄德又告孫夫人曰：「後面追兵又到，如之奈何？」夫人曰：「夫君先行，我與子龍當後。」玄德先引三百軍，望江岸去了。子龍勒馬於車傍，將士卒擺開，專候來將。四員將見了孫夫人，只得下馬，拱手而立。夫人曰：「陳武、潘璋，來此何干？」二將答曰：「奉主公之命，請夫人、玄德回。」夫人正色叱曰：「都是你這夥匹夫，離間我兄妹不睦！我已嫁他人，今日歸去，須不是與人私奔。我奉母親慈旨，令我夫婦回荊州。便是我哥哥來，也須依禮而行。你二人倚仗兵威，欲待殺害我耶？」罵得四人面面相覷，各自尋思：「他一萬年也只是兄妹。更兼國太作主；吳侯乃大孝之人，怎敢違逆母言？明日翻過臉來，只是我等不是。不如做個人情。」軍中又不見玄德；但見趙雲怒目睜眉，只待廝殺。因此四將喏喏連聲而退。孫夫人令推車便行。徐盛曰：「我四人同去見周都督，告稟此事。」\n四人猶豫未定，忽見一軍如旋風而來；視之，乃蔣欽、周泰。二將問曰：「你等曾見劉備否？」四人曰：「早晨過去，已半日矣。」蔣欽曰：「何不拏下？」四人各言孫夫人發話之事。蔣欽曰：「便是吳侯怕道如此，封一口劍在此，教先殺他妹，後斬劉備。違者立斬！」四將曰：「去之已遠，怎生奈何？」蔣欽曰：「他終是些步軍，急行不上。徐、丁二將軍，可飛報都督，教水路棹快船追趕；我四人在岸上追趕。無問水旱之路，趕上殺了，休聽他言語。」於是徐盛、丁奉飛報周瑜；蔣欽、周泰、陳武、潘璋四個領兵沿江趕來。\n卻說玄德一行人馬，離柴桑較遠，來到劉郎浦，心纔稍寬。沿著江岸尋渡，一望江水瀰漫、並無船隻。玄德府首沈吟。趙雲曰：「主公在虎口中逃，出今已近本界，吾料軍師必有調度，何用憂疑？」玄德聽罷，驀然想起在東吳繁華之事，不覺淒然淚下。後人有詩歎曰：\n吳蜀成婚此水澄，明珠步幛屋黃金。\n誰知一女輕天下，欲易劉郎鼎峙心。\n玄德令趙雲望前哨探船隻，忽報後面塵土沖天而起。玄德登高望之，但見軍馬蓋地而來，歎曰：「連日奔走，人困馬乏，追兵又到，死無地矣！」看看喊聲漸近。正慌急間，忽見江岸邊一字兒拋著拖篷船二十餘隻。趙雲曰：「天幸有船在此！棹過對岸，再作區處！」\n玄德與孫夫人便奔上船。子龍引五百軍亦都上船。只見船艙中一人綸巾道服，大笑而出，曰：「主公且喜！諸葛亮在此等候多時。」船中扮作客人的，皆是荊州水軍。玄德大喜。不多時，四將趕到。孔明笑指岸上人言曰：「吾已算定多時矣。汝等回去傳示周郎，教休再使美人局手段。」岸上亂箭射來，船已開的遠了。蔣欽四將，只好呆看。\n玄德與孔明正行間，忽然江聲大振，回頭視之，只見戰船無數。帥字旗下，周瑜自領慣戰水軍，左有黃蓋，右有韓當，勢如飛馬，疾似流星。看看趕上，孔明教棹船投北岸，棄了船盡皆上岸而走，車馬登程。周瑜趕到江邊，亦皆上岸追襲。大小水軍，盡是步行。止有為首官軍騎馬。周瑜當先，黃蓋、韓當、徐盛、丁奉緊隨。周瑜曰：「此處是那裏？」軍士答曰：「前面是黃州界首。」望見玄德軍馬不遠，瑜令併力追襲。\n正趕之間，一聲鼓響，山谷內一隊刀手擁出，為首一員大將，乃關雲長也。周瑜舉止失措，急撥馬便走。雲長趕來，周瑜縱馬逃命。正奔走間，左邊黃忠，右邊魏延，兩軍殺出。吳兵大敗。周瑜急急下得船時，岸上軍士齊聲大叫曰：「周郎妙計安天下，陪了夫人又折兵！」瑜怒曰：「可再登岸決一死戰！」黃蓋、韓當力阻。瑜自思曰：「吾計不成，有何面目去見吳侯！」大叫一聲，金瘡迸裂，倒於船上。眾將急救，卻早不省人事。正是：\n兩番弄巧翻成拙，此日含嗔卻帶羞。\n未知周郎性命如何，且看下文分解。",
+    "title": "第五十五回 玄德智激孫夫人　　　孔明二氣周公瑾"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-055.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

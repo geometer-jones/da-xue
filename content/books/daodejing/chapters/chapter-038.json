@@ -1,0 +1,47 @@
+{
+  "chapter": {
+    "character_count": 129,
+    "id": "chapter-038",
+    "order": 38,
+    "reading_unit_count": 2,
+    "reading_units": [
+      {
+        "character_count": 95,
+        "id": "chapter-038-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "上德不德，是以有德；下德不失德，是以無德。上德無為而無以為；下德為之而有以為。上仁為之而無以為；上義為之而有以為。上禮為之而莫之應，則攘臂而扔之。故失道而後德，失德而後仁，失仁而後義，失義而後禮。夫禮者，忠信之薄，而亂之首。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(Those who) possessed in highest degree the attributes (of the Tao) did not (seek) to show them, and therefore they possessed them (in fullest measure)."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-038-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "前識者，道之華，而愚之始。是以大丈夫處其厚，不居其薄；處其實，不居其華。故去彼取此。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(Those who) possessed in a lower degree those attributes (sought how) not to lose them, and therefore they did not possess them (in fullest measure). (Those who) possessed in the highest degree those attributes did nothing (with a purpose), and had no need to do anything. (Those who) possessed them in a lower degree were (always) doing, and had need to be so doing. (Those who) possessed the highest benevolence were (always seeking) to carry it out, and had no need to be doing so. (Those who) possessed the highest righteousness were (always seeking) to carry it out, and had need to be so doing. (Those who) possessed the highest (sense of) propriety were (always seeking) to show it, and when men did not respond to it, they bared the arm and marched up to them. Thus it was that when the Tao was lost, its attributes appeared; when its attributes were lost, benevolence appeared; when benevolence was lost, righteousness appeared; and when righteousness was lost, the proprieties appeared. Now propriety is the attenuated form of leal-heartedness and good faith, and is also the commencement of disorder; swift apprehension is (only) a flower of the Tao, and is the beginning of stupidity. Thus it is that the Great man abides by what is solid, and eschews what is flimsy; dwells with the fruit and not with the flower. It is thus that he puts away the one and makes choice of the other."
+          }
+        }
+      }
+    ],
+    "summary": "上德不德，是以有德；下德不失德，是以無德",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "上德不德，是以有德；下德不失德，是以無德。上德無為而無以為；下德為之而有以為。上仁為之而無以為；上義為之而有以為。上禮為之而莫之應，則攘臂而扔之。故失道而後德，失德而後仁，失仁而後義，失義而後禮。夫禮者，忠信之薄，而亂之首。前識者，道之華，而愚之始。是以大丈夫處其厚，不居其薄；處其實，不居其華。故去彼取此。",
+    "title": "第38章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-038.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

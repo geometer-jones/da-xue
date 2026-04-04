@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 48,
+    "id": "chapter-060",
+    "order": 60,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 48,
+        "id": "chapter-060-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "治大國若烹小鮮。以道蒞天下，其鬼不神；非其鬼不神，其神不傷人；非其神不傷人，聖人亦不傷人。夫兩不相傷，故德交歸焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Governing a great state is like cooking small fish. Let the kingdom be governed according to the Tao, and the manes of the departed will not manifest their spiritual energy. It is not that those manes have not that spiritual energy, but it will not be employed to hurt men. It is not that it could not hurt men, but neither does the ruling sage hurt them. When these two do not injuriously affect each other, their good influences converge in the virtue (of the Tao)."
+          }
+        }
+      }
+    ],
+    "summary": "治大國若烹小鮮",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "治大國若烹小鮮。以道蒞天下，其鬼不神；非其鬼不神，其神不傷人；非其神不傷人，聖人亦不傷人。夫兩不相傷，故德交歸焉。",
+    "title": "第60章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-060.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

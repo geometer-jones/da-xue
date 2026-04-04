@@ -1,0 +1,892 @@
+{
+  "chapter": {
+    "character_count": 3501,
+    "id": "chapter-034",
+    "order": 34,
+    "reading_unit_count": 67,
+    "reading_units": [
+      {
+        "character_count": 83,
+        "id": "chapter-034-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說曹操於金光處，掘出一銅雀，問荀攸曰：「此何兆也？」攸曰：「昔舜母夢玉雀入懷而生舜。今得銅雀，亦吉祥之兆也。」操大喜，遂命作高臺以慶之。乃即日破土斷木，燒瓦磨磚，築銅雀臺於漳河上之上。約計一年而工畢。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You will remember that Shun’s mother dreamed of a jade bird before his birth, so certainly it is a felicitous omen,” said Hsün Yü. Ts‘ao was very pleased and he ordered forthwith the building of a lofty tower to celebrate the find, and they began to dig foundations and cut timber, to burn tiles and to smooth bricks for the Bronze Bird Tower on the banks of the Chang River. Ts‘ao set a year for the building."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-034-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "少子曹植進曰：「若建層臺，必立三座：中間高者，名為銅雀；左邊一座，名為玉龍；右邊一座，名為金鳳。更作兩條飛橋，橫空而上，乃為壯觀。」操曰：「吾兒所言甚善。他日臺成，足可娛吾老矣！」原來曹操有五子，惟植性敏慧，善文章，曹操平日最愛之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His younger son, Chih, said, “If you build a terraced tower you should add two others, one on each side. The centre tower and the tallest should be called The Bronze Bird Tower; the side towers named Jade Dragon Tower and Golden Phœnix Tower. Then connect these by flying bridges and the effect will be noble.” “My son, your words are very good and by and bye when the building is complete I can solace my old age therein.”"
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-034-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "於是留曹植與曹丕在鄴郡造臺，使張燕守北寨。操將所得袁紹之兵，共五六十萬，班師回許都，大封功臣；又表贈郭嘉為貞侯，養其子奕於府中。復聚眾謀士商議，欲南征劉表。荀彧曰：「大軍方北征而回，未可復動。且待半年，養精蓄銳，劉表、孫權，可一鼓而下也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao had five sons, but this one Chih was the most clever and his essays were particularly elegant. His father was very fond of him and, seeing that the young man took an interest in the building, Ts‘ao left him with his brother P‘ei at Yehchün to superintend the work, while he led the army that had recently conquered the Yüans back to the capital. When he arrived he distributed rewards liberally and memorialised the throne obtaining the title of “The Pure Marquis” for the late Kuo Chia. And he took Kuo’s son to be brought up in his own family. Next he began to consider the reduction of Liu Piao’s power. Hsün Yü said, “The Grand Army has only just returned from the north and needs rest. Wait half a year that the men may recover from the fatigue of the campaign and both Liu Piao and Sun Ch‘ûan will fall at the first roll of the drums.”"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-034-line-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "」操從之，遂分兵屯田，以候調用。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Presently Ts‘ao approved of this plan and to rest his men he assigned certain lands to them to till while they rested."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-034-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "卻說玄德自到荊州，劉表待之甚厚。一日，正相聚飲酒，忽報降將張武、陳孫在江夏掠人民，共謀造反。表驚曰：「二賊又反，為禍不小！」玄德曰：「不須兄長憂慮，備請往討之。」表大喜，即點三萬軍，與玄德前去。玄德領命即行，不一日，來到江夏。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Piao had been very generous to Liu Pei ever since he had come, a fugitive seeking shelter. One day at a banquet ​ there came news that two captains, who had tendered their submission, had suddenly begun plundering the people in Chiangshia. They evidently meant rebellion. “If they really rebel it will cause a lot of trouble,” said Piao, rather dismayed. “Do not let that trouble you, I will go and settle it,” said P‘ei."
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-034-line-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "張武、陳孫引兵來迎。玄德與關、張、趙雲出馬在門旗下。望見張武所騎之馬，極其雄駿。玄德曰：「此必千里馬也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Pleased with this proposal, Piao told off three legions and placed them under his friend, and the army marched as soon as the orders were issued. In a short time it reached the scene and the two malcontents came out to fight. Yüan-tê and his two brothers took their stand beneath the great banner and looked over at the enemy. The two leaders were riding handsome prancing horses and Yüan-tê said, “They certainly have fine steeds.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-034-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "言未畢，趙雲挺槍出，徑衝彼陣。張武縱馬來迎，不三合，被趙雲一槍刺落馬下，隨手扯住轡頭，牽馬回陣。陳孫見了，隨趕來奪。張飛大喝一聲，挺矛直出，將陳孫刺死。眾皆潰散。玄德招安餘黨，平復江夏諸縣，班師而回。表出郭迎接入城，設宴慶功。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As he spoke Chao Yün galloped out with his spear set and dashed toward the enemy. Chang Wu, one of the leaders, came out to meet him, but the combat was very brief for Chang was soon killed. Thereupon Chao Yün laid a hand upon the bridle of the fallen man’s horse to lead him back to this own side. The slain rebel’s companion Ch‘ên Sun at once rode after him, whereupon Chang Fei uttered a loud shout and rode out to meet him. With one thrust he slew the rebel. Their followers now scattered and Yüan-tê speedily restored order and returned."
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-034-line-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "酒至半酣，表曰：「吾弟如此雄才，荊州有倚賴也。但憂南越不時來寇，張魯、孫權皆足為慮。」玄德曰：「弟有三將，足可委用：使張飛巡南越之境；雲長拒固子城，以鎮張魯；趙雲拒三江，以當孫權；何足慮哉？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Piao, grateful for this service, rode out to the boundary to welcome the victors. They re-entered the city and grand banquets were instituted, at which they emptied great goblets in congratulations over the victory. At one of these banquets the Prefect said, “With such heroism as my brother has shown Chingchou has one upon whom to rely. But a source of sorrow is the south country Yueh, from which a raid may come at any time. Chang Lu and Sun Ch‘üan are to be feared.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-034-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "表喜，欲從其言。蔡瑁告其姊蔡夫人曰：「劉備遣三將居外，而自居荊州，久必為患。」蔡夫人乃夜對劉表曰：「我聞荊州人多與劉備往來，不可不防之。今容其居住城中，無益，不若遣使他往。」表曰：「玄德仁人也。」蔡氏曰：「只恐他人不似汝心。」表沈吟不答。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“But I have three bold captains,” said Yüan-tê, “quite equal to any task you can set them. Send Chang Fei to keep ward on the southern marches, Kuan Yü to guard the city against Chang Lu and Chao Yün will protect you from Sun Ch‘üan. Why need you grieve?”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-034-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "次日出城，見玄德所乘之馬極駿，問之，知是張武之馬，表讚不已。玄德遂將此馬送與劉表。表大喜，騎回城中。蒯越見而問之。表曰：「此玄德所送也。」越曰：「昔先兄蒯良，最善相馬，越亦頗曉。此馬眼下有淚槽，額邊生白點，名為的盧，騎則妨主。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The scheme appealed strongly to the Prefect, but Ts‘ai Mao did not approve. So he spoke to his sister, Lio Piao’s wife, and insisted on the danger of putting these men in such commanding positions all round the prefecture. The lady Ts‘ai, thus influenced by her brother, undertook to remonstrate and that night began by saying, “The Chingchou men seem to have a great liking for Liu Pei; they are always coming and going. You ought to take precautions. I do not think you should let they stay in the city. Why not send them on some mission?”"
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-034-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "張武為此馬而亡。主公不可乘之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Yüan-tê is a good man,” replied the Prefect. “I think others differ from you,” said the lady."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-034-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "表聽其言。次日請玄德飲宴，因言曰：「昨承惠良馬，深感厚意。但賢弟不時征進，可以用之。敬當送還。」玄德起謝。表又曰：「賢弟久居此間，恐廢武事。襄陽屬邑新野縣，頗有錢糧。弟可引本部軍馬於本縣屯紮，何如？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Prefect said nothing but muttered to himself. Soon after he went out of the city to see Yüan-tê and noticed he was ​ riding a very handsome horse. They told him it was a prize taken from the recently conquered rebels, and as he praised it very warmly, the horse was presented to him. Liu Piao was delighted and rode it back to the city. K‘uai Yüeh saw it and asked where it had come from. The Prefect told him it was a gift from Liu P‘ei and Yüeh said, “My brother knew horses very well and I am not a bad judge. This horse has tear-tracks running down from his eyes and a white blaze on his forehead. He is called a tilu and he is a danger to his master. That is why Chang Wu was killed. I advise you not to ride him.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-034-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "玄德領諾。次日，謝別劉表，引本部軍馬逕往新野。方出城門，只見一人在馬前長揖曰：「公所騎馬，不可乘也。」玄德視之，乃荊州幕賓伊藉，字機伯，山陽人也。玄德忙下馬問之。籍曰：「昨聞蒯異度對劉荊州云：『此馬名的盧，乘則妨主。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Prefect began to think. Soon after he asked Yüan-tê to a banquet and in the course of it said, “You kindly presented me with a horse lately and I am most grateful, but you may need him on some of your expeditions and, if you do not mind, I would like to return him.” Yüan-tê rose and thanked him. The Prefect continued, “You have been here a long time and I fear I am spoiling your career as a warrior. Now Hsinyeh in Hsiangjang is no poverty-stricken town; how would you like to garrison it with your own men?” Yüan-tê naturally took the offer as a command and set out as soon as he could, taking leave of the Prefect the next day. And so he took up his quarters in Hsinyeh. When he left the city he noticed in the gate a person making him emphatic salutations and the man presently said, “You should not ride that horse.”"
+          }
+        }
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-034-line-014",
+        "order": 14,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "』因此還公，公豈可復乘之？」玄德曰：「深感先生見愛。但凡人死生有命，豈馬所能妨哉！」籍深服其高見，自此常與玄德往來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê looked at the man and recognised in the speaker one of the secretaries named I Chi, a native of Shanyang. So he hastily dismounted and asked why. I Chi replied, “Yesterday I heard that K‘uai Yüeh told the Prefect that that horse was a tilu and brought disaster to its owner. That is why it was returned to you. How can you mount it again?”"
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-034-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "玄德自到新野，軍民皆喜，政治一新。建安十二年春，甘夫人生劉禪。是夜有白鶴一隻，飛來縣衙屋上，高鳴四十餘聲，望西飛去。臨分娩時，異香滿室。甘夫人嘗夜夢仰吞北斗，故乳名阿斗。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am deeply touched by your affection,” replied Yüan-tê, “but a man’s life is governed by fate and what horse can interfere with that?” I Chi admitted his superior view, but thereafter he followed Yüan-tê wherever he went. The arrival of Liu P‘ei in Hsinyeh was a matter of rejoicing to all the inhabitants and the whole administration was reformed. In the spring of the twelfth year the Lady Kan gave birth to a son who was named Ch‘an. The night of his birth a crane settled on the roof of the house, screeched some forty times and then flew away westward."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-034-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "此時曹操正統兵北征。玄德乃往荊州，說劉表曰：「今曹操北征，許昌空虛，若以荊襄之眾，乘間襲之，大事可就也。」表曰：「吾坐據荊州足矣，豈可別圖？」玄德默然。表邀入後堂飲酒。酒至半酣，表忽然長歎。玄德曰：「兄長何故長歎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just at the time of birth a miraculous incense filled the chamber. Lady Kan one night had dreamed that she was looking up at the sky and the constellation of the Great Bear, Peitou, had fallen down her throat. As she conceived soon after she gave her son the milk-name of O-tou. ​ While Ts‘ao Ts‘ao was absent from the capital on his northern expedition, Liu P‘ei went to Liu Piao and said to him, “Why do you not take this opportunity to march against the capital? An empire might follow from that.” “I am well placed here,” was the reply, “Why should I attempt other things?”"
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-034-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "」表曰：「吾有心事，未易明言。」玄德再欲問時，蔡夫人出立屏後。劉表乃垂頭不語。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê said no more. Then the Prefect invited him into the private apartments to drink and while they were so engaged he suddenly began to sigh despondently. “O brother, why do you sigh thus?” asked Yüan-tê."
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-034-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "須臾席散，玄德自歸新野。至是年冬，聞曹操自柳城回，玄德甚歎表之不用其言。忽一日，劉表遣使至，請玄德赴荊州相會。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have a secret sorrow that is difficult to speak about,” said Piao. Yüan-tê was on the point of asking what it was when the Lady Ts‘ai came and stood behind the screen, whereat Piao hung his head and became silent. Before long host and guest bade each other farewell and Liu P‘ei went back to his own place."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-034-line-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "玄德隨使而往，劉表接著，敘禮畢，請入後堂飲宴，因謂玄德曰：「近聞曹操提兵回許都，勢日強盛，必有吞併荊襄之心，昔日悔不聽賢弟之言，失此好機會！」玄德曰：「今天下分裂，干戈日起，機會豈有盡乎？若能應之於後，未足為恨也。」表曰：「吾弟之言甚當。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "That winter they heard that Ts‘ao Ts‘ao had returned from Liuch‘êng and Liu P‘ei sighed when he reflected that his friend had paid no heed to his advice. Unexpectedly a messenger came from the principal city with a request that Liu P‘ei would go thither to consult with the Prefect. So he started at once with the messenger. He was received very kindly, and when the salutations were over, the two men went into the private quarters at the rear to dine. Presently the host said, “Ts‘ao has returned and he is stronger than ever. I am afraid he means to absorb this district. I am sorry I did not follow your advice for I have missed an opportunity.” “In this period of disruption, with strife on every side, one cannot pretend that there will be no more opportunities. If you only take that what offers there will be nothing to regret.”"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-020",
+        "order": 20,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "」相與對飲。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What you say, brother, is quite to the point,” replied Liu Piao."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-034-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "酒酣，表忽潸然下淚。玄德問其故。表曰：「吾有心事，前者欲訴與賢弟，未得其便。」玄德曰：「兄長有何難決之事？倘有用弟之處，弟雖死不辭。」表曰：「前妻陳氏所生長子琦，為人雖賢，而柔懦不足立大事；後妻蔡氏所生少子琮，頗聰明。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They drank on for a time till presently Liu P‘ei noticed that his host was weeping, and when he asked the cause of these tears, Piao replied, “It is that secret sorrow I spoke of to you before; I wished to tell you, but there was no opportunity that day.” “O brother, what difficulty have you, and can I assist you? I am entirely at your service.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-034-line-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "吾欲廢長立幼，恐礙於禮法；欲立長子，爭奈蔡氏族中，皆掌軍務，後必生亂：因此委決不下。」玄德曰：「自古廢長立幼，取亂之道。若憂蔡氏權重，可徐徐削之，不可溺愛而立少子也。」表默然。原來蔡夫人素疑玄德，凡遇玄德與表敘論，必來竊聽。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My wife, of the Ch‘ên family, bore me a son Ch‘i, my eldest. He grew up virtuous but weakly and unfitted to succeed me in my office. Later I took a wife of the Ts‘ai family, who bore me a son named Ts‘ung, fairly intelligent. If I pass over the elder in favour of the younger there is the breach of the rule of primogeniture, and if I follow law and custom there are the intrigues of the mother’s family and clan to be reckoned with. Further, the army is in the hollow of their hands. There will be trouble and I cannot decide what to do.”"
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-034-line-023",
+        "order": 23,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "是時正在屏風後，聞玄德此言，心甚恨之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Liu P‘ei said, “All experience proves that to set aside the elder for the younger is to take the way of confusion. If you fear the power of the Ts‘ai faction, then gradually reduce its power and influence, but do not let doting affection lead you into making the younger your heir.”"
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-034-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "玄德自知語失，遂起身如廁。因見己身髀肉復生，亦不覺潸然流淚。少頃復入席。表見玄德有淚容，怪問之。玄德長歎曰：「備往常身不離鞍，髀肉皆散；今久不騎，髀裏肉生。日月蹉跎，老將至矣，而功業不建，是以悲耳！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Piao agreed. But the Lady Ts‘ai had had a suspicion why her lord had summoned Liu P‘ei and what was the subject of discussion, so she had determined to listen secretly. She was behind the screen when the matter was talked over and she conceived deep resentment against Liu P‘ei for what he had said. On his side he felt that his advice had fallen upon deaf ears and he arose and walked across the room. As he did so he noticed that he was getting heavy and stiff and a furtive tear stole down his cheek as he thought of the past. When he returned and sat down his host noticed the traces of weeping and asked the cause of his sorrow."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-034-line-025",
+        "order": 25,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "」表曰：「吾聞賢弟在許昌，與曹操青梅煮酒，共論英雄，賢弟盡舉當世名士，操皆不許，而獨曰：『天下英雄，惟使君與操耳。』以曹操之權力，猶不敢居吾弟之先，何慮功業不建乎？」玄德乘著酒興，失口答曰：「備若有基本，天下碌碌之輩，誠不足慮也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“In the past I was always in the saddle and I was slender and lithe. Now it is so long since I rode that I am getting stout and the days and months are slipping by, wasted; I shall have old age on me in no time and I have accomplished nothing. So I am sad.” “I have heard a story that when you were at Hsucheng at the season of green plums you and Ts‘ao Ts‘ao were discussing heroes. You mentioned this name and that to him as men of parts and he rejected every one of them. Finally he said that you and he were the only two men of real worth in the whole country. If he with all his power and authority did not dare to place himself in front of you, I do not think you need grieve about having accomplished nothing.”"
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-034-line-026",
+        "order": 26,
+        "source_block_chunk": 3,
+        "source_block_order": 13,
+        "text": "」表聞言默然。玄德自知失語，託醉而起，歸館舍安歇，後人有詩讚玄德曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At this flattering speech Liu P‘ei pretended that the wine was getting the better of him and in a half maudlin manner he replied, “If I only had a starting point then I would not trouble about any one in a worldful of fools.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "曹公屈指從頭數，天下英雄獨使君。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His host said no more and the guest, feeling that he had slipped up in speech, rose as if drunk, took leave and staggered out saying he must return to his lodging to recover."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "髀肉復生猶感歎，爭教寰宇不三分？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The episode has been celebrated in a poem:—"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-034-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "卻說劉表聞玄德語，口雖不言，心懷不樂，別了玄德，退入內宅。蔡夫人曰：「適間我於屏後聽得劉備之言，甚輕覷人，足見其有吞併荊州之意。今若不除，必為後患。」表不答，但搖頭而已。蔡氏乃密召蔡瑁入，商議此事。瑁曰：「請先就館舍殺之，然後告知主公。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When with crooking fingers counting, Ts‘ao Ts‘ao reckoned up the forceful Men of real determination, Only two he found; and one was Yüan-tê. But by inaction He had grown both fat and slothful; Yet the months and years in passing Fretted him with nought accomplished. Though Liu Piao kept silence when he heard the words of Yüan-tê, yet he felt the more uneasy. After the departure of his guest he retired into the inner quarters where he met his wife. The Lady Ts‘ai said, “I happened to be behind the ​ screen just now and so heard the words of Liu P‘ei. They betray scant regard for other people and mean that he would take your country if he could. If you do not remove him it will go ill with you.”"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-034-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "」蔡氏然其言。瑁出，便連夜點軍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Her husband made no reply, but only shook his head. Then the Lady Ts‘ai took counsel with her kinsman Ts‘ai Mao, who said, “Let me go to the guest-house and slay him forthwith, and we can report what we have done.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-034-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "卻說玄德在館舍中秉燭而坐，三更以後，方欲就寢。忽一人叩門而入，視之乃伊籍也。原來伊籍探知蔡瑁欲害玄德，特夤夜來報。當下伊籍將蔡瑁之謀，報知玄德，催促玄德速速起身。玄德曰：「未辭景升，如何便去？」籍曰：「公若辭，必遭蔡瑁之害矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His sister consented and he went out, and that night told off a party of soldiers to do the foul deed."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-034-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "玄德乃謝別伊籍，急喚從者，一齊上馬。不待天明，星夜奔回新野。比及蔡瑁領軍到館舍時，玄德已去遠矣。瑁悔恨無及，乃寫詩一首於壁間，逕入見表曰：「劉備有反叛之意，題反詩於壁上，不辭而去矣。」表不信，親詣館舍觀之，果有詩四句。詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now Yüan-tê sat in his lodging by the light of a single candle till about the third watch, when he prepared to retire to bed. He was startled by a knock at his door and in came I Chi, who had heard of the plot against his new master and had come in the darkness to warn him. He related the details of the plot and urged speedy departure."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-034-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "數年徒守困，空對舊山川。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have not said farewell to my host; how can I go away?” said Liu P‘ei."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-034-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "龍豈池中物，乘雷欲上天！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If you go to bid him farewell you will fall a victim to the Ts‘ai faction,” said I Chi."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-034-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "劉表見詩大怒，拔劍言曰：「誓殺此無義之徒！」行數步，猛省曰：「吾與玄德相處許多時，不曾見他作詩，此必外人離間之計也。」遂回步入館舍，用劍尖削去此詩，棄劍上馬。蔡瑁請曰：「軍士已點齊，可就往新野擒劉備。」表曰：「未可造次，容徐圖之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Yüan-tê said a hasty good-bye to his friend, called up his escort and they all mounted and rode away by the light of the stars toward Hsinyeh. Soon after they had left the soldiers arrived at the guest-house, but their intended victim was already well on his way."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-034-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "蔡瑁見表遲疑不決，乃暗與蔡夫人商議，即日大會眾官於襄陽，就彼處謀之。次日，瑁稟表曰：「近年豐熟，合聚眾官於襄陽，以示撫慰之意。請主公一行。」表曰：「吾近日氣疾作，實不能行。可令二子為主待客。」瑁曰：「公子年幼，恐失於禮節。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Naturally the failure of the plot chagrined the treacherous Ts‘ai Mao, but he took the occasion to scribble some calumnious verses on one of the partitions. Then he went to see Liu Piao to whom he said, “Liu P‘ei has treacherous intentions, as can be seen from some lines written on the wall. And his hurried departure is suspicious.”"
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-034-line-037",
+        "order": 37,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "」表曰：「可往新野請玄德待客。」瑁暗喜正中其計，便差人請玄德赴襄陽。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Piao felt doubtful, but he went to the guest-house and there on the wall he read this poem:"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-034-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "卻說玄德奔回新野，自知失言取禍，未對眾人言之。忽使者至，請赴襄陽。孫乾曰：「昨見主公匆匆而回，意甚不樂。愚意度之，在荊州必有事故。今忽請赴會，不可輕往。」玄德方將前項事訴與諸人。雲長曰：「兄自疑心語失。劉荊州並無嗔責之意。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Too long, far too long I have dreamed life away, Gazing at scenery day after day. A dragon can never be kept in a pond, He should ride on the thunder to heaven and beyond. Greatly angered by what he read, Liu Piao drew his sword and swore to slay the writer. But before he had gone many paces his anger had already died down and he said to himself, “I have seen much of the man, but have never known him write verses. This is the handiwork of some one who wishes to sow discord between us.”"
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-034-line-039",
+        "order": 39,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "外人之言，未可輕信。襄陽離此不遠，若不去，則荊州反生疑矣。」玄德曰：「雲長之言是也。」張飛曰：「筵無好筵，會無好會，不如休去。」趙雲曰：「某將馬步軍三百人同往，可保主公無事。」玄德曰：「如此甚好。」遂與趙雲即日赴襄陽。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So saying he turned back and with the point of his sword scraped away the poem. Then, putting up his sword, he mounted and rode home. By and bye Ts‘ai Mao reminded him that the soldiers were awaiting orders and asked whether they could go to Hsinyeh and arrest Liu P‘ei. “There is no hurry,” he replied."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-034-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "蔡瑁出郭迎接，意甚謙謹。隨後劉琦、劉琮二子，引一班文武官僚出迎。玄德見二公子俱在，並不疑忌。是日請玄德於館舍暫歇。趙雲引三百軍圍繞保護。雲披甲挂劍，行坐不離左右。劉琦告玄德曰：「父親氣疾作，不能行動，特請叔父待客，撫勸各處守牧之官。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Ts‘ai Mao saw his brother-in-law’s hesitation and again sought his sister. She said, “Soon there is to be the great gathering at Hsiangyang and we can arrange something for that day.” Next day Ts‘ai Mao petitioned the Prefect, saying, “I pray you, Sir, to attend the Full Harvest Festival at Hsiangyang; it would be an encouragement to the people.” “I have been feeling my old trouble lately; I certainly cannot go,” replied he, “but my two sons can go to represent me and receive the guests.”"
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-034-line-041",
+        "order": 41,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "」玄德曰：「吾本不敢當此，既有兄命，不敢不從。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“They are full young,” replied Mao, “They may make some mistakes.”"
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-034-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "次日，人報九郡四十二州官員，俱已到齊。蔡瑁預請蒯越計議曰：「劉備世之梟雄，久留於此，後必為害，可就今日除之。」越曰：「恐失士民之望。」瑁曰：「吾已密領劉荊州言語在此。」越曰：「既如此，可預作準備。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Then go to Hsinyeh and request Liu P‘ei to receive the guests,” said Piao. Nothing could have pleased Ts‘ai Mao more, for this would bring Liu P‘ei within reach of his plot. Without loss of time he sent to Yüan-tê requesting him to go to preside at the Festival."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-034-line-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "」瑁曰：「東門峴山大路，已使吾弟蔡和引軍守把；南門外己使蔡中守把；北門外已使蔡勳守把。止有西門不必守把，前有檀溪阻隔，雖數萬之眾，不易過也。」越曰：「吾見趙雲行坐不離玄德，恐難下手。」瑁曰：「吾伏五百軍在城內準備。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It has been said that Yüan-tê made the best of his way home to Hsinyeh. He felt that he had offended by that slip in speech, but determined to keep silence about it and attempt no explanation. So he discussed it with nobody. Then came the message asking him to preside at the Festival, and he needed counsel."
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-034-line-044",
+        "order": 44,
+        "source_block_chunk": 3,
+        "source_block_order": 25,
+        "text": "」越曰：「可使文聘、王威二人另設一席於外廳，以待武將。先請住趙雲，然後可行事。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Ch‘ien said, “You have seemed worried and preoccupied lately and I think something untoward happened at Chingchou. You should consider well before you accept this invitation.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-034-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "瑁從其言。當日殺牛宰馬，大張筵席。玄德乘的盧馬至州衙，命牽入後園擐繫。眾官皆至堂中。玄德主席，二公子兩邊分坐，其餘各依次而坐。趙雲帶劍立於玄德之側。文聘、王威入請趙雲赴席。雲推辭不去。玄德令雲就席，雲勉強應命而出。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thereupon Yüan-tê told his confidants the whole story. Kuan Yü said, “You yourself think your speech offended the Prefect, but he said nothing to show displeasure. You need pay no attention to the babble of outsiders. Hsiangyang is quite near and, if you do not go, Liu Chinchou will begin to suspect something really is wrong.” “You speak well,” said Yüan-tê. Said Chang Fei, “Banquets are no good; gatherings are no better; it is best not to go.”"
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-034-line-046",
+        "order": 46,
+        "source_block_chunk": 2,
+        "source_block_order": 26,
+        "text": "蔡瑁在外收拾得鐵桶相似，將玄德帶來三百軍，都遣歸館舍，只待半酣，號起下手。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Let me take three hundred horse and foot as escort; there will be no trouble then,” said Chao Yün. “That is the best course,” said Yüan-tê."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-034-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "酒至三巡，伊籍起把盞，至玄德前，以目視玄德，低聲謂曰：「請更衣。」玄德會意，即起如廁。伊籍把盞畢，疾入後園，接著玄德，附耳報曰：「蔡瑁設計害君，城外東、南、北三處，皆有軍馬守把。惟西門可走，公宜急逃！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They soon set out for the gathering place and Ts‘ai Mao met them at the boundary and was most affable and courteous. Soon arrived the Prefect’s sons at the head of a great company of officers, civil and military. Their appearance put Yüan-tê more at ease. He was conducted to the guest-house and Chao Yün posted his men so as to guard it completely, while he himself, armed, remained close to his chief."
+          }
+        }
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-034-line-048",
+        "order": 48,
+        "source_block_chunk": 2,
+        "source_block_order": 27,
+        "text": "」玄德大驚，急解的盧馬，開後園門牽出，飛身上馬，不顧從者，匹馬望西門而走。門吏問之，玄德不答，加鞭而出。門吏當之不住，飛報蔡瑁。瑁即上馬，引五百軍隨後追趕。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Ch‘i said to Yüan-tê, “My father is feeling unwell and could not come, wherefore he begs you, Uncle Liu, to preside at the various ceremonies and conduct the inspections.” ​ “Really I am unfit for such responsibilities,” said Yüan-tê, “But my brother’s command must be obeyed.” Next day it was reported that the officials from the forty-one departments of the nine districts had all arrived."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-034-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "卻說玄德撞出西門，行無數里，前有大溪，攔住去路。那檀溪闊數丈，水通襄江，其波甚緊。玄德到溪邊，見不可渡，勒馬再回，遙望城西塵頭大起，追兵將至。玄德曰：「今番死矣！」遂回馬到溪邊。回頭看時，追兵已近。玄德著慌，縱馬下溪。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Ts‘ai Mao said to K‘uai Yüeh, “This Liu P‘ei is the villain of the age and if left alive will certainly work harm to us. He must be got rid of now.” “I fear you would forfeit everybody’s favour if you harmed him,” replied K‘uai. “I have already secretly spoken in these terms to Prefect Liu,” said Ts‘ai, “and I have his word here.” “So it may be regarded as settled; then we can prepare.”"
+          }
+        }
+      },
+      {
+        "character_count": 49,
+        "id": "chapter-034-line-050",
+        "order": 50,
+        "source_block_chunk": 2,
+        "source_block_order": 28,
+        "text": "行不數步，馬前蹄忽陷，浸濕衣袍。玄德乃加鞭大呼曰：「的盧，的盧！今日妨吾！」言畢，那馬忽從水中湧身而起，一躍三丈，飛上西岸。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ai Mao said, “One of my brothers is posted on the road to the Hsien Hills from the east gate and the others are on the north and south roads. No guard is needed on the west as the T‘an Torrent is quite safeguard enough. Even with legions he could not get over that.”"
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-034-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "玄德如從雲霧中起。後來蘇學士有古風一篇，單詠劉玄德躍馬檀溪事。詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘uai replied, “I notice that Chao Yün never leaves him. I feel sure he expects some attack.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "老去花殘春日暮，宦遊偶至檀溪路；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have placed five hundred men in ambush in the city.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "停騶遙望獨徘徊，眼前零落飄紅絮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“We will tell Wên P‘ing and Wang Wei to invite all the military officers to a banquet at one of the pavilions outside the city, and Chao Yün will be among them. Then will be our opportunity.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "暗想咸陽火德衰，龍爭虎鬥交相持。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ai Mao thought this a good device for getting Chao Yün out of the way."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "襄陽會上王孫飲，坐中玄德身將危。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now oxen and horses had been slaughtered and a grand banquet prepared. Yüan-tê rode to the residence on the horse of ill omen and when he arrived the steed was led into the back part of the enclosure and tethered there. Soon the guests arrived and Yüan-tê took his place as master of the feast, with the two sons of the Prefect, one on each side. The guests were all arranged in order of rank. Chao Yün stood near his lord sword in hand as a faithful henchman should do."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "逃生獨出西門道，背後追兵復將到。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Wên and Wang came to invite Chao Yün to the banquet they had prepared for the military officers. But he declined. However, Yüan-tê told him to go, and, after some demur, he went. Then Ts‘ai Mao perfected his final arrangements, placing his men surrounding the place like a ring of iron. The three hundred guards that formed the escort of Yüan-tê were sent away to the guest-house."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "一川煙水漲檀溪，急叱征騎往前跳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All were ready and awaiting the signal. At the third course, I Chi took a goblet of wine in his hands and approached Yüan-tê, at the same time giving him a meaning look. Then in a low voice he said, “Make an excuse to get away.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "馬蹄踏碎青玻璃，天風響處金鞭揮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê understood and presently rose as if stiff with long sitting and went outside. There he found I Chi, who had gone ​ thither after presenting the cup of wine. I Chi then told him more of the plot and that all the roads were guarded except that to the west. And he advised him to lose no time."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "耳畔但聞千騎走，波中忽見雙龍飛。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê was quite taken aback. However, he got hold of the horse of ill omen, opened the door of the garden and led him out. Then he took a flying leap into the saddle and galloped off without waiting for the escort. He made for the west gate. At the gate the wardens wanted to question him, but he only whipped up his steed and rode through. The guards at the gate ran off to report to Ts‘ai Mao, who quickly went in pursuit with a half company of soldiers."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "西川獨霸真英主，坐下龍駒兩相遇。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As has been said Yüan-tê burst out at the west gate. Before he had gone far there rolled before him a great river barring the way. It was the T‘an, many score feet in width, which pours its waters into the Hsiang. Its current was very swift."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "檀溪溪水自東流，龍駒英主今何處？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê reached the bank and saw the river was unfordable. So he turned his horse and rode back. Then, not far off, he saw a cloud of dust and knew that his pursuers were therein. He thought that it was all over. However, he turned again toward the swift river, and seeing the soldiers now quite near, plunged into the stream. A few paces, and he felt the horse’s fore legs floundering in front while the water rose over the skirt of his rove. Then he plied the whip furiously, crying, “Tilu, Tilu, I trust to you.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "臨流三歎心欲酸，斜陽寂寂照空山。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Whereupon the good steed suddenly reared up out of the water and, with one tremendous leap, was on the western bank. Yüan-tê felt as if he had come out of the clouds."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "三分鼎足渾如夢，蹤跡空留在世間。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In after years the famous court official, Su T‘ung-p‘o, wrote a poem on this leap over the T‘an Torrent:—"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-034-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "玄德躍過溪西，顧望東岸．蔡瑁已引軍趕到溪邊，大叫：「使君何故逃席而去？」玄德曰：「吾與汝無讎，何故欲相害？」瑁曰：「吾並無此心，使君休聽人言。」玄德見瑁手將拈弓取箭，乃急撥馬望西南而去。瑁謂左右曰：「是何神助也！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I’m growing old, the leaves are sere, My sun slopes westward, soon will sink, And I recall that yester year I wandered by T‘an River brink. Irresolute, anon I paused, Anon advanced, and gazed around, I marked the autumn’s reddened leaves, And watched them eddying to the ground I thought of all the mighty deeds Of him who set the House of Han On high, and all the struggles since, The battlefields, the blood that ran. I saw the nobles gathered round The board, set in the Banquet Hall; Amid them, one, above whose head There hung a sword about to fall. I saw him quit that festive throng And westward ride, a lonely way; I saw a squadron follow swift, Intent the fugitive to slay. Isaw him reach the River T‘an, Whose swirling current rushes by; Adown the bank he galloped fast, “Now leap, my steed!” I heard him cry. His steed’s hoofs churn the swollen stream; What recks he that the waves run high? He hears the sound of clashing steel, Of thundering squadrons coming nigh. And upward from the foaming waves I saw two peerless beings soar: One was a destined western king, And him another dragon bore. The T‘an still rolls from east to west, Its roaring torrent ne’er dry. Those dragons twain, Ah! where are they? Yes, where? But there is no reply. The setting sun, in dark relief Against the glowing western sky, Throws out the everlasting hills While, saddened, here I stand and sigh. Men died to found the kingdoms three, Which now as misty dreams remain. Of greatest deeds the traces oft Are faint that fleeting years retain. Thus Liu P‘ei crossed the rolling river. Then he turned and looked back at the other bank which his pursuers had just gained."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-034-line-065",
+        "order": 65,
+        "source_block_chunk": 2,
+        "source_block_order": 42,
+        "text": "」方欲收軍回城，只見西門內趙雲引三百軍趕來。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Why did you run away from the feast?” called out Ts‘ai Mao. “Why did you wish to harm one who has done you no injury?” replied Yüan-tê. “I have never thought of such a thing; do not listen to what people say to you.” But Yüan-tê saw that his enemy was fitting an arrow to his bowstring, so he whipped up his steed and rode away southwest."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-066",
+        "order": 66,
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "躍去龍駒能救主，追來虎將欲誅讎。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What spirits aided him?” said Ts‘ai Mao to his followers. Then he turned to go back to the city, but in the gate he saw Chao Yün coming out at the head of his company of guards."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-034-line-067",
+        "order": 67,
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "未知蔡瑁性命如何，且聽下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "By wondrous leap the dragon steed his rider’s life could save, Now follows him, on vengeance bent, his master’s henchman brave. The next chapters will tell what fate befell the traitor."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說曹操於金光處，掘出一銅雀，問荀攸曰：「此何兆也？」攸曰：「昔舜母夢玉雀入懷而生舜。今得銅雀，亦吉祥之兆也。」操大喜，遂命作高臺以慶之。乃即日破土斷木，燒瓦磨磚，築銅雀臺於漳河上之上。約計一年而工畢。少子曹植進曰：「若建層臺，必立三座：中間高者，名為銅雀；左邊一座，名為玉龍；右邊一座，名為金鳳。更作兩條飛橋，橫空而上，乃為壯觀。」操曰：「吾兒所言甚善。他日臺成，足可娛吾老矣！」原來曹操有五子，惟植性敏慧，善文章，曹操平日最愛之。\n於是留曹植與曹丕在鄴郡造臺，使張燕守北寨。操將所得袁紹之兵，共五六十萬，班師回許都，大封功臣；又表贈郭嘉為貞侯，養其子奕於府中。復聚眾謀士商議，欲南征劉表。荀彧曰：「大軍方北征而回，未可復動。且待半年，養精蓄銳，劉表、孫權，可一鼓而下也。」操從之，遂分兵屯田，以候調用。\n卻說玄德自到荊州，劉表待之甚厚。一日，正相聚飲酒，忽報降將張武、陳孫在江夏掠人民，共謀造反。表驚曰：「二賊又反，為禍不小！」玄德曰：「不須兄長憂慮，備請往討之。」表大喜，即點三萬軍，與玄德前去。玄德領命即行，不一日，來到江夏。張武、陳孫引兵來迎。玄德與關、張、趙雲出馬在門旗下。望見張武所騎之馬，極其雄駿。玄德曰：「此必千里馬也。」\n言未畢，趙雲挺槍出，徑衝彼陣。張武縱馬來迎，不三合，被趙雲一槍刺落馬下，隨手扯住轡頭，牽馬回陣。陳孫見了，隨趕來奪。張飛大喝一聲，挺矛直出，將陳孫刺死。眾皆潰散。玄德招安餘黨，平復江夏諸縣，班師而回。表出郭迎接入城，設宴慶功。酒至半酣，表曰：「吾弟如此雄才，荊州有倚賴也。但憂南越不時來寇，張魯、孫權皆足為慮。」玄德曰：「弟有三將，足可委用：使張飛巡南越之境；雲長拒固子城，以鎮張魯；趙雲拒三江，以當孫權；何足慮哉？」\n表喜，欲從其言。蔡瑁告其姊蔡夫人曰：「劉備遣三將居外，而自居荊州，久必為患。」蔡夫人乃夜對劉表曰：「我聞荊州人多與劉備往來，不可不防之。今容其居住城中，無益，不若遣使他往。」表曰：「玄德仁人也。」蔡氏曰：「只恐他人不似汝心。」表沈吟不答。\n次日出城，見玄德所乘之馬極駿，問之，知是張武之馬，表讚不已。玄德遂將此馬送與劉表。表大喜，騎回城中。蒯越見而問之。表曰：「此玄德所送也。」越曰：「昔先兄蒯良，最善相馬，越亦頗曉。此馬眼下有淚槽，額邊生白點，名為的盧，騎則妨主。張武為此馬而亡。主公不可乘之。」\n表聽其言。次日請玄德飲宴，因言曰：「昨承惠良馬，深感厚意。但賢弟不時征進，可以用之。敬當送還。」玄德起謝。表又曰：「賢弟久居此間，恐廢武事。襄陽屬邑新野縣，頗有錢糧。弟可引本部軍馬於本縣屯紮，何如？」\n玄德領諾。次日，謝別劉表，引本部軍馬逕往新野。方出城門，只見一人在馬前長揖曰：「公所騎馬，不可乘也。」玄德視之，乃荊州幕賓伊藉，字機伯，山陽人也。玄德忙下馬問之。籍曰：「昨聞蒯異度對劉荊州云：『此馬名的盧，乘則妨主。』因此還公，公豈可復乘之？」玄德曰：「深感先生見愛。但凡人死生有命，豈馬所能妨哉！」籍深服其高見，自此常與玄德往來。\n玄德自到新野，軍民皆喜，政治一新。建安十二年春，甘夫人生劉禪。是夜有白鶴一隻，飛來縣衙屋上，高鳴四十餘聲，望西飛去。臨分娩時，異香滿室。甘夫人嘗夜夢仰吞北斗，故乳名阿斗。\n此時曹操正統兵北征。玄德乃往荊州，說劉表曰：「今曹操北征，許昌空虛，若以荊襄之眾，乘間襲之，大事可就也。」表曰：「吾坐據荊州足矣，豈可別圖？」玄德默然。表邀入後堂飲酒。酒至半酣，表忽然長歎。玄德曰：「兄長何故長歎？」表曰：「吾有心事，未易明言。」玄德再欲問時，蔡夫人出立屏後。劉表乃垂頭不語。\n須臾席散，玄德自歸新野。至是年冬，聞曹操自柳城回，玄德甚歎表之不用其言。忽一日，劉表遣使至，請玄德赴荊州相會。玄德隨使而往，劉表接著，敘禮畢，請入後堂飲宴，因謂玄德曰：「近聞曹操提兵回許都，勢日強盛，必有吞併荊襄之心，昔日悔不聽賢弟之言，失此好機會！」玄德曰：「今天下分裂，干戈日起，機會豈有盡乎？若能應之於後，未足為恨也。」表曰：「吾弟之言甚當。」相與對飲。\n酒酣，表忽潸然下淚。玄德問其故。表曰：「吾有心事，前者欲訴與賢弟，未得其便。」玄德曰：「兄長有何難決之事？倘有用弟之處，弟雖死不辭。」表曰：「前妻陳氏所生長子琦，為人雖賢，而柔懦不足立大事；後妻蔡氏所生少子琮，頗聰明。吾欲廢長立幼，恐礙於禮法；欲立長子，爭奈蔡氏族中，皆掌軍務，後必生亂：因此委決不下。」玄德曰：「自古廢長立幼，取亂之道。若憂蔡氏權重，可徐徐削之，不可溺愛而立少子也。」表默然。原來蔡夫人素疑玄德，凡遇玄德與表敘論，必來竊聽。是時正在屏風後，聞玄德此言，心甚恨之。\n玄德自知語失，遂起身如廁。因見己身髀肉復生，亦不覺潸然流淚。少頃復入席。表見玄德有淚容，怪問之。玄德長歎曰：「備往常身不離鞍，髀肉皆散；今久不騎，髀裏肉生。日月蹉跎，老將至矣，而功業不建，是以悲耳！」表曰：「吾聞賢弟在許昌，與曹操青梅煮酒，共論英雄，賢弟盡舉當世名士，操皆不許，而獨曰：『天下英雄，惟使君與操耳。』以曹操之權力，猶不敢居吾弟之先，何慮功業不建乎？」玄德乘著酒興，失口答曰：「備若有基本，天下碌碌之輩，誠不足慮也。」表聞言默然。玄德自知失語，託醉而起，歸館舍安歇，後人有詩讚玄德曰：\n曹公屈指從頭數，天下英雄獨使君。\n髀肉復生猶感歎，爭教寰宇不三分？\n卻說劉表聞玄德語，口雖不言，心懷不樂，別了玄德，退入內宅。蔡夫人曰：「適間我於屏後聽得劉備之言，甚輕覷人，足見其有吞併荊州之意。今若不除，必為後患。」表不答，但搖頭而已。蔡氏乃密召蔡瑁入，商議此事。瑁曰：「請先就館舍殺之，然後告知主公。」蔡氏然其言。瑁出，便連夜點軍。\n卻說玄德在館舍中秉燭而坐，三更以後，方欲就寢。忽一人叩門而入，視之乃伊籍也。原來伊籍探知蔡瑁欲害玄德，特夤夜來報。當下伊籍將蔡瑁之謀，報知玄德，催促玄德速速起身。玄德曰：「未辭景升，如何便去？」籍曰：「公若辭，必遭蔡瑁之害矣。」\n玄德乃謝別伊籍，急喚從者，一齊上馬。不待天明，星夜奔回新野。比及蔡瑁領軍到館舍時，玄德已去遠矣。瑁悔恨無及，乃寫詩一首於壁間，逕入見表曰：「劉備有反叛之意，題反詩於壁上，不辭而去矣。」表不信，親詣館舍觀之，果有詩四句。詩曰：\n數年徒守困，空對舊山川。\n龍豈池中物，乘雷欲上天！\n劉表見詩大怒，拔劍言曰：「誓殺此無義之徒！」行數步，猛省曰：「吾與玄德相處許多時，不曾見他作詩，此必外人離間之計也。」遂回步入館舍，用劍尖削去此詩，棄劍上馬。蔡瑁請曰：「軍士已點齊，可就往新野擒劉備。」表曰：「未可造次，容徐圖之。」\n蔡瑁見表遲疑不決，乃暗與蔡夫人商議，即日大會眾官於襄陽，就彼處謀之。次日，瑁稟表曰：「近年豐熟，合聚眾官於襄陽，以示撫慰之意。請主公一行。」表曰：「吾近日氣疾作，實不能行。可令二子為主待客。」瑁曰：「公子年幼，恐失於禮節。」表曰：「可往新野請玄德待客。」瑁暗喜正中其計，便差人請玄德赴襄陽。\n卻說玄德奔回新野，自知失言取禍，未對眾人言之。忽使者至，請赴襄陽。孫乾曰：「昨見主公匆匆而回，意甚不樂。愚意度之，在荊州必有事故。今忽請赴會，不可輕往。」玄德方將前項事訴與諸人。雲長曰：「兄自疑心語失。劉荊州並無嗔責之意。外人之言，未可輕信。襄陽離此不遠，若不去，則荊州反生疑矣。」玄德曰：「雲長之言是也。」張飛曰：「筵無好筵，會無好會，不如休去。」趙雲曰：「某將馬步軍三百人同往，可保主公無事。」玄德曰：「如此甚好。」遂與趙雲即日赴襄陽。\n蔡瑁出郭迎接，意甚謙謹。隨後劉琦、劉琮二子，引一班文武官僚出迎。玄德見二公子俱在，並不疑忌。是日請玄德於館舍暫歇。趙雲引三百軍圍繞保護。雲披甲挂劍，行坐不離左右。劉琦告玄德曰：「父親氣疾作，不能行動，特請叔父待客，撫勸各處守牧之官。」玄德曰：「吾本不敢當此，既有兄命，不敢不從。」\n次日，人報九郡四十二州官員，俱已到齊。蔡瑁預請蒯越計議曰：「劉備世之梟雄，久留於此，後必為害，可就今日除之。」越曰：「恐失士民之望。」瑁曰：「吾已密領劉荊州言語在此。」越曰：「既如此，可預作準備。」瑁曰：「東門峴山大路，已使吾弟蔡和引軍守把；南門外己使蔡中守把；北門外已使蔡勳守把。止有西門不必守把，前有檀溪阻隔，雖數萬之眾，不易過也。」越曰：「吾見趙雲行坐不離玄德，恐難下手。」瑁曰：「吾伏五百軍在城內準備。」越曰：「可使文聘、王威二人另設一席於外廳，以待武將。先請住趙雲，然後可行事。」\n瑁從其言。當日殺牛宰馬，大張筵席。玄德乘的盧馬至州衙，命牽入後園擐繫。眾官皆至堂中。玄德主席，二公子兩邊分坐，其餘各依次而坐。趙雲帶劍立於玄德之側。文聘、王威入請趙雲赴席。雲推辭不去。玄德令雲就席，雲勉強應命而出。蔡瑁在外收拾得鐵桶相似，將玄德帶來三百軍，都遣歸館舍，只待半酣，號起下手。\n酒至三巡，伊籍起把盞，至玄德前，以目視玄德，低聲謂曰：「請更衣。」玄德會意，即起如廁。伊籍把盞畢，疾入後園，接著玄德，附耳報曰：「蔡瑁設計害君，城外東、南、北三處，皆有軍馬守把。惟西門可走，公宜急逃！」玄德大驚，急解的盧馬，開後園門牽出，飛身上馬，不顧從者，匹馬望西門而走。門吏問之，玄德不答，加鞭而出。門吏當之不住，飛報蔡瑁。瑁即上馬，引五百軍隨後追趕。\n卻說玄德撞出西門，行無數里，前有大溪，攔住去路。那檀溪闊數丈，水通襄江，其波甚緊。玄德到溪邊，見不可渡，勒馬再回，遙望城西塵頭大起，追兵將至。玄德曰：「今番死矣！」遂回馬到溪邊。回頭看時，追兵已近。玄德著慌，縱馬下溪。行不數步，馬前蹄忽陷，浸濕衣袍。玄德乃加鞭大呼曰：「的盧，的盧！今日妨吾！」言畢，那馬忽從水中湧身而起，一躍三丈，飛上西岸。\n玄德如從雲霧中起。後來蘇學士有古風一篇，單詠劉玄德躍馬檀溪事。詩曰：\n老去花殘春日暮，宦遊偶至檀溪路；\n停騶遙望獨徘徊，眼前零落飄紅絮。\n暗想咸陽火德衰，龍爭虎鬥交相持。\n襄陽會上王孫飲，坐中玄德身將危。\n逃生獨出西門道，背後追兵復將到。\n一川煙水漲檀溪，急叱征騎往前跳。\n馬蹄踏碎青玻璃，天風響處金鞭揮。\n耳畔但聞千騎走，波中忽見雙龍飛。\n西川獨霸真英主，坐下龍駒兩相遇。\n檀溪溪水自東流，龍駒英主今何處？\n臨流三歎心欲酸，斜陽寂寂照空山。\n三分鼎足渾如夢，蹤跡空留在世間。\n玄德躍過溪西，顧望東岸．蔡瑁已引軍趕到溪邊，大叫：「使君何故逃席而去？」玄德曰：「吾與汝無讎，何故欲相害？」瑁曰：「吾並無此心，使君休聽人言。」玄德見瑁手將拈弓取箭，乃急撥馬望西南而去。瑁謂左右曰：「是何神助也！」方欲收軍回城，只見西門內趙雲引三百軍趕來。正是：\n躍去龍駒能救主，追來虎將欲誅讎。\n未知蔡瑁性命如何，且聽下文分解。",
+    "title": "第三十四回 蔡夫人隔屏聽密語　　劉皇叔躍馬過檀溪"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-034.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

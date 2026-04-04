@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-004",
+    "order": 4,
+    "summary": "居高临下",
+    "text": "居高临下\n见缝插针\n因陋就简\n顺理成章\n从长计议\n深图远算\n因人制宜\n见机而行\n权衡利弊\n因时制宜\n知难而进\n亡羊补牢\n化险为夷\n转危为安\n水到渠成\n事半功倍\n半途而废\n功亏一篑\n雷厉风行\n身体力行\n力挽狂澜\n一鼓作气\n一马当先\n破釜沉舟\n再接再厉\n马到成功\n行之有效\n井井有条\n轻车熟路\n得心应手",
+    "title": "91-120",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "居高临下",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to live high and look down; to overlook; to tower above; to occupy the high ground; arrogance based on one's social position"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "见缝插针",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to see a gap and stick in a needle; to make use of every second and every inch"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "因陋就简",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "crude but simple method; to not strive for perfection"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "顺理成章",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "according to logic put in order; logical"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "从长计议",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to take one's time making a decision; to consider at length"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "深图远算",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Think deeply and calculate far"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "因人制宜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tailor measures to individual conditions"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "见机而行",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Seize the opportunity"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "权衡利弊",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to weigh the pros and cons"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "因时制宜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to use methods suitable to the current situation"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "知难而进",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Advancing despite difficulties"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "亡羊补牢",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to fix the pen after the sheep have escaped; too late to solve the problem"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "化险为夷",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to avert disaster in favor of peace"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "转危为安",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to turn peril into safety; to avert a danger"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "水到渠成",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "where water flows a channel will form"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "事半功倍",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "half the work, twice the effect"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "半途而废",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to give up halfway; to leave unfinished"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "功亏一篑",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to spoil work due to lack of one basket of soil"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "雷厉风行",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "pass like thunder and move like the wind; swift and decisive reaction"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "身体力行",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to practice what one has learned from experience; to practice what one preaches (idiom)"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "力挽狂澜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to pull strongly against a crazy tide; to try hard to save a desperate crisis"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "一鼓作气",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "in a spurt of energy"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "一马当先",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to take the lead"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "破釜沉舟",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "break the cauldrons and sink the boats; to cut off one's means of retreat"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "再接再厉",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to sharpen [one's weapon] and join [the battle] again; to continue to struggle"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "马到成功",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to win instant success"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "行之有效",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "effective in practice"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "井井有条",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "everything clear and orderly; neat and tidy"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "轻车熟路",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to drive a lightweight chariot on a familiar road; to do something routinely and with ease"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-004-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "得心应手",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "skilled at the job; entirely in one's element; going smoothly and easily"
+          }
+        },
+        "category": "行动与方法"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-004.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

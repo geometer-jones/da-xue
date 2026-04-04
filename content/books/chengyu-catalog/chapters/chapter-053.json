@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-053",
+    "order": 53,
+    "summary": "女中丈夫",
+    "text": "女中丈夫\n积非成是\n二分明月\n二三其德\n高文典策\n文章山斗\n四分五剖\n茫然若失\n广文先生\n三六九等\n是非口舌\n论德使能\n面如死灰\n眼穿心死\n急景流年\n逆水行舟\n举世皆知\n面若死灰\n救民水火\n公明正大\n量小力微\n三朝元老\n切切在心\n出奴入主\n心无二用\n衣被群生\n何足介意\n小道消息\n出云入泥\n逆耳利行",
+    "title": "1561-1590",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "女中丈夫",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to a masculine person among women"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "积非成是",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a wrong repeated becomes right (idiom); a lie or an error passed on for a long time may be taken for the truth"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "二分明月",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The ancients believed that there are three parts of the bright moon in the world, and Yangzhou has only two parts."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "二三其德",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Two or three are not specific"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "高文典策",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to important documents and edicts of the feudal court"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "文章山斗",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to an article that is admired by others"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "四分五剖",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "torn apart"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "茫然若失",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Looks confused and frustrated"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "广文先生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "①Du Fu of Tang Dynasty called Zheng Qian Mr. Guangwen."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "三六九等",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to many levels and categories, with various differences"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "是非口舌",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Misunderstandings or disputes caused by speaking"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "论德使能",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Salt moral people and use talented people"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "面如死灰",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "dead ashes cooling ashes"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "眼穿心死",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Seeing through and looking forward to seeing through"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "急景流年",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describe the passage of time"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "逆水行舟",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. navigating a boat against the current (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "举世皆知",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Juquan"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "面若死灰",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describing a dark complexion due to extreme depression or fear"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "救民水火",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Water and fire are metaphors for serious disasters"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "公明正大",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Fair, selfless and aboveboard"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "量小力微",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Very few in number and meager in strength"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "三朝元老",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The veteran with the oldest qualifications and the highest reputation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "切切在心",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Qieqie describes sincerity and sincerity of affection"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "出奴入主",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Referring to sectarian prejudices"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "心无二用",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "one cannot concentrate on two things at the same time"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "衣被群生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Clothes are used to clothe others, which is a metaphor for benefiting others."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "何足介意",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means there is no need to take it to heart"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "小道消息",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "hearsay"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "出云入泥",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He said that once he rises to the top, he will not hesitate to trample his old friends into the mud."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-053-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "逆耳利行",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still, words of advice may offend your ears and help your deeds"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-053.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

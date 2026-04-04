@@ -1,0 +1,1687 @@
+{
+  "chapter": {
+    "character_count": 2394,
+    "id": "chapter-007",
+    "order": 7,
+    "reading_unit_count": 85,
+    "reading_units": [
+      {
+        "character_count": 48,
+        "id": "chapter-007-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "孟子曰：「離婁之明，公輸子之巧，不以規矩，不能成方員：師曠之聰，不以六律，不能正五音；堯舜之道，不以仁政，不能平治天下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'The power of vision of Li Lou, and skill of hand of Gong Shu, without the compass and square, could not form squares and circles."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-007-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "今有仁心仁聞而民不被其澤，不可法於後世者，不行先王之道也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The acute ear of the music-master Kuang, without the pitch-tubes, could not determine correctly the five notes. The principles of Yao and Shun, without a benevolent government, could not secure the tranquil order of the kingdom. There are now princes who have benevolent hearts and a reputation for benevolence, while yet the people do not receive any benefits from them, nor will they leave any example to future ages - all because they do not put into practice the ways of the ancient kings."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-007-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "故曰，徒善不足以為政，徒法不能以自行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'Hence we have the saying: \"Virtue alone is not sufficient for the exercise of government; laws alone cannot carry themselves into practice.\" It is said in the Book of Poetry, \"Without transgression, without forgetfulness, Following the ancient statutes.\" Never has any one fallen into error, who followed the laws of the ancient kings."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-007-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "詩云：『不愆不忘，率由舊章。』遵先王之法而過者，未之有也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the sages had used the vigour of their eyes, they called in to their aid the compass, the square, the level, and the line, to make things square, round, level, and straight: the use of the instruments is inexhaustible."
+          }
+        }
+      },
+      {
+        "character_count": 62,
+        "id": "chapter-007-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "聖人既竭目力焉，繼之以規矩準繩，以為方員平直，不可勝用也；既竭耳力焉，繼之以六律，正五音，不可勝用也；既竭心思焉，繼之以不忍人之政，而仁覆天下矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When they had used their power of hearing to the utmost, they called in the pitch-tubes to their aid to determine the five notes - the use of those tubes is inexhaustible. When they had exerted to the utmost the thoughts of their hearts, they called in to their aid a government that could not endure to witness the sufferings of men - and their benevolence overspread the kingdom."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-007-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "故曰，為高必因丘陵，為下必因川澤。為政不因先王之道，可謂智乎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'Hence we have the saying: \"To raise a thing high, we must begin from the top of a mound or a hill; to dig to a great depth, we must commence in the low ground of a stream or a marsh.\" Can he be pronounced wise, who, in the exercise of government, does not proceed according to the ways of the former kings?"
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-007-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "是以惟仁者宜在高位。不仁而在高位，是播其惡於眾也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Therefore only the benevolent ought to be in high stations."
+          }
+        }
+      },
+      {
+        "character_count": 33,
+        "id": "chapter-007-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "上無道揆也。下無法守也，朝不信道，工不信度，君子犯義，小人犯刑，國之所存者幸也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When a man destitute of benevolence is in a high station, he thereby disseminates his wickedness among all below him. When the prince has no principles by which he examines his administration, and his ministers have no laws by which they keep themselves in the discharge of their duties, then in the court obedience is not paid to principle, and in the office obedience is not paid to rule. Superiors violate the laws of righteousness, and inferiors violate the penal laws. It is only by a fortunate chance that a State in such a case is preserved."
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-007-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "故曰：城郭不完，兵甲不多，非國之災也；田野不辟，貨財不聚，非國之害也。上無禮，下無學，賊民興，喪無日矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'Therefore it is said, \"It is not the exterior and interior walls being incomplete, and the supply of weapons offensive and defensive not being large, which constitutes the calamity of a kingdom."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-007-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "詩曰：『天之方蹶，無然泄泄。』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is not the cultivable area not being extended, and stores and wealth not being accumulated, which occasions the ruin of a State.\" When superiors do not observe the rules of propriety, and inferiors do not learn, then seditious people spring up, and that State will perish in no time."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-007-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "泄泄，猶沓沓也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said in the Book of Poetry, \"When such an overthrow of Zhou is being produced by Heaven, Be not ye so much at your ease!\" \" At your ease;\" - that is, dilatory."
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-007-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "事君無義，進退無禮，言則非先王之道者，猶沓沓也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And so dilatory may those officers be deemed, who serve their prince without righteousness, who take office and retire from it without regard to propriety, and who in their words disown the ways of the ancient kings."
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-007-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "故曰：責難於君謂之恭，陳善閉邪謂之敬，吾君不能謂之賊。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Therefore it is said, \"To urge one's sovereign to difficult achievements may be called showing respect for him. To set before him what is good and repress his perversities may be called showing reverence for him. He who does not do these things, saying to himself, My sovereign is incompetent to this, may be said to play the thief with him.\"'"
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-007-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "孟子曰：「規矩，方員之至也；聖人，人倫之至也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'The compass and square produce perfect circles and squares."
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-007-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "欲為君盡君道，欲為臣盡臣道，二者皆法堯舜而已矣。不以舜之所以事堯事君，不敬其君者也；不以堯之所以治民治民，賊其民者也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "By the sages, the human relations are perfectly exhibited."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-007-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "孔子曰：『道二：仁與不仁而已矣。』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He who as a sovereign would perfectly discharge the duties of a sovereign, and he who as a minister would perfectly discharge the duties of a minister, have only to imitate - the one Yao, and the other Shun."
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-007-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "暴其民甚，則身弒國亡；不甚，則身危國削。名之曰『幽厲』，雖孝子慈孫，百世不能改也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He who does not serve his sovereign as Shun served Yao, does not respect his sovereign; and he who does not rule his people as Yao ruled his, injures his people."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-007-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "詩云『殷鑒不遠，在夏后之世』，此之謂也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Confucius said, \"There are but two courses, which can be pursued, that of virtue and its opposite.\" A ruler who carries the oppression of his people to the highest pitch, will himself be slain, and his kingdom will perish. If one stop short of the highest pitch, his life will notwithstanding be in danger, and his kingdom will be weakened. He will be styled \"The Dark,\" or \"The Cruel,\" and though he may have filial sons and affectionate grandsons, they will not be able in a hundred generations to change the designation. This is what is intended in the words of the Book of Poetry, \"The beacon of Yin is not remote, It is in the time of the (last) sovereign of Xia.\"'"
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-007-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "孟子曰：「三代之得天下也以仁，其失天下也以不仁。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'It was by benevolence that the three dynasties gained the throne, and by not being benevolent that they lost it."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-007-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "國之所以廢興存亡者亦然。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is by the same means that the decaying and flourishing, the preservation and perishing, of States are determined."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-007-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "天子不仁，不保四海；諸侯不仁，不保社稷；卿大夫不仁，不保宗廟；士庶人不仁，不保四體。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If the sovereign be not benevolent, he cannot preserve the throne from passing from him."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-007-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "今惡死亡而樂不仁，是猶惡醉而強酒。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If the Head of a State be not benevolent, he cannot preserve his rule. If a high noble or great officer be not benevolent, he cannot preserve his ancestral temple. If a scholar or common man be not benevolent, be cannot preserve his four limbs. Now they hate death and ruin, and yet delight in being not benevolent - this is like hating to be drunk, and yet being strong to drink wine!'"
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-007-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "孟子曰：「愛人不親反其仁，治人不治反其智，禮人不答反其敬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'If a man love others, and no responsive attachment is shown to him, let him turn inwards and examine his own benevolence."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-007-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "行有不得者，皆反求諸己，其身正而天下歸之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If he is trying to rule others, and his government is unsuccessful, let him turn inwards and examine his wisdom."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-007-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "詩云：『永言配命，自求多福。』」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If he treats others politely, and they do not return his politeness, let him turn inwards and examine his own feeling of respect. When we do not, by what we do, realise what we desire, we must turn inwards, and examine ourselves in every point. When a man's person is correct, the whole kingdom will turn to him with recognition and submission. It is said in the Book of Poetry, \"Be always studious to be in harmony with the ordinances of God, And you will obtain much happiness.\"'"
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-007-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "孟子曰：「人有恆言，皆曰『天下國家』。天下之本在國，國之本在家，家之本在身。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'People have this common saying, \"The kingdom, the State, the family.\" The root of the kingdom is in the State. The root of the State is in the family. The root of the family is in the person of its Head.'"
+          }
+        }
+      },
+      {
+        "character_count": 40,
+        "id": "chapter-007-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "孟子曰：「為政不難，不得罪於巨室。巨室之所慕，一國慕之；一國之所慕，天下慕之；故沛然德教溢乎四海。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'The administration of government is not difficult - it lies in not offending the great families. He whom the great families affect, will be affected by the whole State; and he whom any one State affects, will be affected by the whole kingdom. When this is the case, such an one's virtue and teachings will spread over all within the four seas like the rush of water.'"
+          }
+        }
+      },
+      {
+        "character_count": 40,
+        "id": "chapter-007-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "孟子曰：「天下有道，小德役大德，小賢役大賢；天下無道，小役大，弱役強。斯二者天也。順天者存，逆天者亡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'When right government prevails in the kingdom, princes of little virtue are submissive to those of great, and those of little worth to those of great."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-007-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "齊景公曰：『既不能令，又不受命，是絕物也。』涕出而女於吳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When bad government prevails in the kingdom, princes of small power are submissive to those of great, and the weak to the strong. Both these cases are the rule of Heaven. They who accord with Heaven are preserved, and they who rebel against Heaven perish. The duke Jing of Qi said, \"Not to be able to command others, and at the same time to refuse to receive their commands, is to cut one's self off from all intercourse with others.\" His tears flowed forth while he gave his daughter to be married to the prince of Wu."
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-007-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "今也小國師大國而恥受命焉，是猶弟子而恥受命於先師也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'Now the small States imitate the large, and yet are ashamed to receive their commands."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-007-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "如恥之，莫若師文王。師文王，大國五年，小國七年，必為政於天下矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This is like a scholar's being ashamed to receive the commands of his master."
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-007-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "詩云：『商之孫子，其麗不億。上帝既命，侯于周服。侯服于周，天命靡常。殷士膚敏，祼將于京。』孔子曰：『仁不可為眾也。夫國君好仁，天下無敵。』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "For a prince who is ashamed of this, the best plan is to imitate king Wen."
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-007-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "今也欲無敵於天下而不以仁，是猶執熱而不以濯也。詩云：『誰能執熱，逝不以濯？』」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let one imitate king Wen, and in five years, if his State be large, or in seven years, if it be small, he will be sure to give laws to the kingdom. It is said in the Book of Poetry, \"The descendants of the sovereigns of the Shang dynasty, Are in number more than hundreds of thousands, But, God having passed His decree, They are all submissive to Zhou. They are submissive to Zhou, Because the decree of Heaven is not unchanging. The officers of Yin, admirable and alert, Pour out the libations, and assist in the capital of Zhou.\" Confucius said, \"As against so benevolent a sovereign, they could not be deemed a multitude.\" Thus, if the prince of a state love benevolence, he will have no opponent in all the kingdom. Now they wish to have no opponent in all the kingdom, but they do not seek to attain this by being benevolent. This is like a man laying hold of a heated substance, and not having first dipped it in water. It is said in the Book of Poetry, \"Who can take up a heated substance, Without first dipping it (in water)?\"'"
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-007-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "孟子曰：「不仁者可與言哉？安其危而利其菑，樂其所以亡者。不仁而可與言，則何亡國敗家之有？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'How is it possible to speak with those princes who are not benevolent?"
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-007-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "有孺子歌曰：『滄浪之水清兮，可以濯我纓；滄浪之水濁兮，可以濯我足。』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Their perils they count safety, their calamities they count profitable, and they have pleasure in the things by which they perish."
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-007-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "孔子曰：『小子聽之！清斯濯纓，濁斯濯足矣，自取之也。』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If it were possible to talk with them who so violate benevolence, how could we have such destruction of States and ruin of Families?"
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-007-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "夫人必自侮，然後人侮之；家必自毀，而後人毀之；國必自伐，而後人伐之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There was a boy singing, \"When the water of the Cang Lang is clear, It does to wash the strings of my cap; When the water of the Cang Lang is muddy, It does to wash my feet.\" Confucius said, \"Hear what he sings, my children."
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-007-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "太甲曰：『天作孽，猶可違；自作孽，不可活。』此之謂也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When clear, then he will wash his cap-strings; and when muddy, he will wash his feet with it. This different application is brought by the water on itself.\" A man must first despise himself, and then others will despise him. A family must first destroy itself, and then others will destroy it. A State must first smite itself, and then others will smite it. This is illustrated in the passage of the Tai Jia, \"When Heaven sends down calamities, it is still possible to escape them. When we occasion the calamities ourselves, it is not possible any longer to live.\"'"
+          }
+        }
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-007-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "孟子曰：「桀紂之失天下也，失其民也；失其民者，失其心也。得天下有道：得其民，斯得天下矣；得其民有道：得其心，斯得民矣；得其心有道：所欲與之聚之，所惡勿施爾也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Jie and Zhou's losing the throne, arose from their losing the people, and to lose the people means to lose their hearts."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-007-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "民之歸仁也，猶水之就下、獸之走壙也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is a way to get the kingdom: get the people, and the kingdom is got."
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-007-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "故為淵敺魚者，獺也；為叢敺爵者，鸇也；為湯武敺民者，桀與紂也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is a way to get the people: get their hearts, and the people are got."
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-007-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "今天下之君有好仁者，則諸侯皆為之敺矣。雖欲無王，不可得已。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is a way to get their hearts: it is simply to collect for them what they like, and not to lay on them what they dislike."
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-007-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "今之欲王者，猶七年之病求三年之艾也。苟為不畜，終身不得。苟不志於仁，終身憂辱，以陷於死亡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The people turn to a benevolent rule as water flows downwards, and as wild beasts fly to the wilderness."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-007-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "詩云『其何能淑，載胥及溺』，此之謂也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Accordingly, as the otter aids the deep waters, driving the fish into them, and the hawk aids the thickets, driving the little birds to them, so Jie and Zhou aided Tang and Wu, driving the people to them. If among the present rulers of the kingdom, there were one who loved benevolence, all the other princes would aid him, by driving the people to him. Although he wished not to become sovereign, he could not avoid becoming so. The case of one of the present princes wishing to become sovereign is like the having to seek for mugwort three years old, to cure a seven years' sickness. If it have not been kept in store, the patient may all his life not get it. If the princes do not set their wills on benevolence, all their days will be in sorrow and disgrace, and they will be involved in death and ruin. This is illustrated by what is said in the Book of Poetry, \"How otherwise can you improve the kingdom? You will only with it go to ruin.\"'"
+          }
+        }
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-007-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 45,
+        "text": "孟子曰：「自暴者，不可與有言也；自棄者，不可與有為也。言非禮義，謂之自暴也；吾身不能居仁由義，謂之自棄也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'With those who do violence to themselves, it is impossible to speak."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-007-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 46,
+        "text": "仁，人之安宅也；義，人之正路也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "With those who throw themselves away, it is impossible to do anything."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-007-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 47,
+        "text": "曠安宅而弗居，舍正路而不由，哀哉！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To disown in his conversation propriety and righteousness, is what we mean by doing violence to one's self. To say \"I am not able to dwell in benevolence or pursue the path of righteousness,\" is what we mean by throwing one's self away. Benevolence is the tranquil habitation of man, and righteousness is his straight path. Alas for them, who leave the tranquil dwelling empty and do not reside in it, and who abandon the right path and do not pursue it?'"
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-007-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 48,
+        "text": "孟子曰：「道在爾而求諸遠，事在易而求之難。人人親其親、長其長而天下平。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'The path of duty lies in what is near, and men seek for it in what is remote. The work of duty lies in what is easy, and men seek for it in what is difficult. If each man would love his parents and show the due respect to his elders, the whole land would enjoy tranquillity.'"
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-007-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 49,
+        "text": "孟子曰：「居下位而不獲於上，民不可得而治也。獲於上有道：不信於友，弗獲於上矣；信於友有道：事親弗悅，弗信於友矣；悅親有道：反身不誠，不悅於親矣；誠身有道：不明乎善，不誠其身矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'When those occupying inferior situations do not obtain the confidence of the sovereign, they cannot succeed in governing the people."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-007-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 50,
+        "text": "是故誠者，天之道也；思誠者，人之道也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is a way to obtain the confidence of the sovereign: if one is not trusted by his friends, he will not obtain the confidence of his sovereign."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-007-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 51,
+        "text": "至誠而不動者，未之有也；不誠，未有能動者也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is a way of being trusted by one's friends: if one do not serve his parents so as to make them pleased, he will not be trusted by his friends. There is a way to make one's parents pleased: if one, on turning his thoughts inwards, finds a want of sincerity, he will not give pleasure to his parents. There is a way to the attainment of sincerity in one's self: if a man do not understand what is good, he will not attain sincerity in himself. Therefore, sincerity is the way of Heaven. To think how to be sincere is the way of man. Never has there been one possessed of complete sincerity, who did not move others. Never has there been one who had not sincerity who was able to move others.'"
+          }
+        }
+      },
+      {
+        "character_count": 57,
+        "id": "chapter-007-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 52,
+        "text": "孟子曰：「伯夷辟紂，居北海之濱，聞文王作，興曰：『盍歸乎來！吾聞西伯善養老者。』太公辟紂，居東海之濱，聞文王作，興曰：『盍歸乎來！吾聞西伯善養老者。』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Bo Yi, that he might avoid Zhou, was dwelling on the coast of the northern sea."
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-007-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 53,
+        "text": "二老者，天下之大老也，而歸之，是天下之父歸之也。天下之父歸之，其子焉往？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he heard of the rise of king Wen, he roused himself, and said, \"Why should I not go and follow him?"
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-007-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 54,
+        "text": "諸侯有行文王之政者，七年之內，必為政於天下矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I have heard that the chief of the West knows well how to nourish the old.\" Tai Gong, that he might avoid Zhou, was dwelling on the coast of the eastern sea. When he heard of the rise of king Wen, he roused himself, and said, \"Why should I not go and follow him? I have heard that the chief of the West knows well how to nourish the old.\" Those two old men were the greatest old men of the kingdom. When they came to follow king Wen, it was the fathers of the kingdom coming to follow him. When the fathers of the kingdom joined him, how could the sons go to any other? Were any of the princes to practise the government of king Wen, within seven years he would be sure to be giving laws to the kingdom.'"
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-007-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 55,
+        "text": "孟子曰：「求也為季氏宰，無能改於其德，而賦粟倍他日。孔子曰：『求非我徒也，小子鳴鼓而攻之可也。』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Qiu acted as chief officer to the head of the Ji family, whose evil ways he was unable to change, while he exacted from the people double the grain formerly paid."
+          }
+        }
+      },
+      {
+        "character_count": 56,
+        "id": "chapter-007-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 56,
+        "text": "由此觀之，君不行仁政而富之，皆棄於孔子者也。況於為之強戰？爭地以戰，殺人盈野；爭城以戰，殺人盈城。此所謂率土地而食人肉，罪不容於死。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Confucius said, \"He is no disciple of mine."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-007-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 57,
+        "text": "故善戰者服上刑，連諸侯者次之，辟草萊、任土地者次之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Little children, beat the drum and assail him.\" Looking at the subject from this case, we perceive that when a prince was not practising benevolent government, all his ministers who enriched him were rejected by Confucius - how much more would he have rejected those who are vehement to fight for their prince! When contentions about territory are the ground on which they fight, they slaughter men till the fields are filled with them. When some struggle for a city is the ground on which they fight, they slaughter men till the city is filled with them. This is what is called \"leading on the land to devour human flesh.\" Death is not enough for such a crime. Therefore, those who are skilful to fight should suffer the highest punishment. Next to them should be punished those who unite some princes in leagues against others; and next to them, those who take in grassy commons, imposing the cultivation of the ground on the people.'"
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-007-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 58,
+        "text": "孟子曰：「存乎人者，莫良於眸子。眸子不能掩其惡。胸中正，則眸子瞭焉；胸中不正，則眸子眊焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Of all the parts of a man's body there is none more excellent than the pupil of the eye."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-007-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 59,
+        "text": "聽其言也，觀其眸子，人焉廋哉？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The pupil cannot be used to hide a man's wickedness. If within the breast all be correct, the pupil is bright. If within the breast all be not correct, the pupil is dull. Listen to a man's words and look at the pupil of his eye. How can a man conceal his character?'"
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-007-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 60,
+        "text": "孟子曰：「恭者不侮人，儉者不奪人。侮奪人之君，惟恐不順焉，惡得為恭儉？恭儉豈可以聲音笑貌為哉？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'The respectful do not despise others. The economical do not plunder others. The prince who treats men with despite and plunders them, is only afraid that they may not prove obedient to him - how can he be regarded as respectful or economical? How can respectfulness and economy be made out of tones of the voice, and a smiling manner?'"
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-007-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 61,
+        "text": "淳于髡曰：「男女授受不親，禮與？」孟子曰：「禮也。」曰：「嫂溺則援之以手乎？」曰：「嫂溺不援，是豺狼也。男女授受不親，禮也；嫂溺援之以手者，權也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Therefore, those who are skilful to fight should suffer the highest punishment. Next to them should be punished those who unite some princes in leagues against others; and next to them, those who take in grassy commons, imposing the cultivation of the ground on the people.' Mencius said, 'Of all the parts of a man's body there is none more excellent than the pupil of the eye. The pupil cannot be used to hide a man's wickedness. If within the breast all be correct, the pupil is bright. If within the breast all be not correct, the pupil is dull. Listen to a man's words and look at the pupil of his eye. How can a man conceal his character?' Mencius said, 'The respectful do not despise others. The economical do not plunder others. The prince who treats men with despite and plunders them, is only afraid that they may not prove obedient to him - how can he be regarded as respectful or economical? How can respectfulness and economy be made out of tones of the voice, and a smiling manner?' Chun Yu Kun said, 'Is it the rule that males and females shall not allow their hands to touch in giving or receiving anything?' Mencius replied, 'It is the rule.' Kun asked, 'If a man's sister-in-law be drowning, shall he rescue her with his hand?' Mencius said, 'He who would not so rescue the drowning woman is a wolf. For males and females not to allow their hands to touch in giving and receiving is the general rule; when a sister-in-law is drowning, to rescue her with the hand is a peculiar exigency.'"
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-007-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 62,
+        "text": "曰：「今天下溺矣，夫子之不援，何也？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kun said, 'The whole kingdom is drowning. How strange it is that you will not rescue it!'"
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-007-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 63,
+        "text": "曰：「天下溺，援之以道；嫂溺，援之以手。子欲手援天下乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius answered, 'A drowning kingdom must be rescued with right principles, as a drowning sister-in-law has to be rescued with the hand. Do you wish me to rescue the kingdom with my hand?'"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-007-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 64,
+        "text": "公孫丑曰：「君子之不教子，何也？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gong Sun Chou said, 'Why is it that the superior man does not himself teach his son?'"
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-007-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 65,
+        "text": "孟子曰：「勢不行也。教者必以正；以正不行，繼之以怒；繼之以怒，則反夷矣。『夫子教我以正，夫子未出於正也。』則是父子相夷也。父子相夷，則惡矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius replied, 'The circumstances of the case forbid its being done."
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-007-line-066",
+        "order": 66,
+        "source_block_chunk": 1,
+        "source_block_order": 66,
+        "text": "古者易子而教之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The teacher must inculcate what is correct."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-007-line-067",
+        "order": 67,
+        "source_block_chunk": 1,
+        "source_block_order": 67,
+        "text": "父子之間不責善。責善則離，離則不祥莫大焉。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he inculcates what is correct, and his lessons are not practised, he follows them up with being angry. When he follows them up with being angry, then, contrary to what should be, he is offended with his son. At the same time, the pupil says, 'My master inculcates on me what is correct, and he himself does not proceed in a correct path.\" The result of this is, that father and son are offended with each other. When father and son come to be offended with each other, the case is evil. The ancients exchanged sons, and one taught the son of another. Between father and son, there should be no reproving admonitions to what is good. Such reproofs lead to alienation, and than alienation there is nothing more inauspicious.'"
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-007-line-068",
+        "order": 68,
+        "source_block_chunk": 1,
+        "source_block_order": 68,
+        "text": "孟子曰：「事孰為大？事親為大；守孰為大？守身為大。不失其身而能事其親者，吾聞之矣；失其身而能事其親者，吾未之聞也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Of services, which is the greatest?"
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-007-line-069",
+        "order": 69,
+        "source_block_chunk": 1,
+        "source_block_order": 69,
+        "text": "孰不為事？事親，事之本也；孰不為守？守身，守之本也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The service of parents is the greatest."
+          }
+        }
+      },
+      {
+        "character_count": 67,
+        "id": "chapter-007-line-070",
+        "order": 70,
+        "source_block_chunk": 1,
+        "source_block_order": 70,
+        "text": "曾子養曾皙，必有酒肉。將徹，必請所與。問有餘，必曰『有』。曾皙死，曾元養曾子，必有酒肉。將徹，不請所與。問有餘，曰『亡矣』。將以復進也。此所謂養口體者也。若曾子，則可謂養志也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Of charges, which is the greatest ?"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-007-line-071",
+        "order": 71,
+        "source_block_chunk": 1,
+        "source_block_order": 71,
+        "text": "事親若曾子者，可也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The charge of one's self is the greatest. That those who do not fail to keep themselves are able to serve their parents is what I have heard. But I have never heard of any, who, having failed to keep themselves, were able notwithstanding to serve their parents. There are many services, but the service of parents is the root of all others. There are many charges, but the charge of one's self is the root of all others. The philosopher Zeng, in nourishing Zeng Xi, was always sure to have wine and flesh provided. And when they were being removed, he would ask respectfully to whom he should give what was left. If his father asked whether there was anything left, he was sure to say, \"There is.\" After the death of Zeng Xi, when Zeng Yuan came to nourish Zengzi, he was always sure to have wine and flesh provided. But when the things were being removed, he did not ask to whom he should give what was left, and if his father asked whether there was anything left, he would answer \"No;\" - intending to bring them in again. This was what is called \"nourishing the mouth and body.\" We may call Zengzi's practice \"nourishing the will.\" To serve one's parents as Zengzi served his, may be accepted as flial piety.'"
+          }
+        }
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-007-line-072",
+        "order": 72,
+        "source_block_chunk": 1,
+        "source_block_order": 72,
+        "text": "孟子曰：「人不足與適也，政不足間也。惟大人為能格君心之非。君仁莫不仁，君義莫不義，君正莫不正。一正君而國定矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'It is not enough to remonstrate with a sovereign on account of the mal-employment of ministers, nor to blame errors of government. It is only the great man who can rectify what is wrong in the sovereign's mind. Let the prince be benevolent, and all his acts will be benevolent. Let the prince be righteous, and all his acts will be righteous. Let the prince be correct, and everything will be correct. Once rectify the ruler, and the kingdom will be firmly settled.'"
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-007-line-073",
+        "order": 73,
+        "source_block_chunk": 1,
+        "source_block_order": 73,
+        "text": "孟子曰：「有不虞之譽，有求全之毀。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'There are cases of praise which could not be expected, and of reproach when the parties have been seeking to be perfect.'"
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-007-line-074",
+        "order": 74,
+        "source_block_chunk": 1,
+        "source_block_order": 74,
+        "text": "孟子曰：「人之易其言也，無責耳矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Men's being ready with their tongues arises simply from their not having been reproved.'"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-007-line-075",
+        "order": 75,
+        "source_block_chunk": 1,
+        "source_block_order": 75,
+        "text": "孟子曰：「人之患在好為人師。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'The evil of men is that they like to be teachers of others.'"
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-007-line-076",
+        "order": 76,
+        "source_block_chunk": 1,
+        "source_block_order": 76,
+        "text": "樂正子從於子敖之齊。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The disciple Yue Zheng went in the train of Zi Ao to Qi."
+          }
+        }
+      },
+      {
+        "character_count": 66,
+        "id": "chapter-007-line-077",
+        "order": 77,
+        "source_block_chunk": 1,
+        "source_block_order": 77,
+        "text": "樂正子見孟子。孟子曰：「子亦來見我乎？」曰：「先生何為出此言也？」曰：「子來幾日矣？」曰：「昔昔。」曰：「昔昔，則我出此言也，不亦宜乎？」曰：「舍館未定。」曰：「子聞之也，舍館定，然後求見長者乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He came to see Mencius, who said to him, 'Are you also come to see me?' Yue Zheng replied, 'Master, why do you speak such words?' 'How many days have you been here?' asked Mencius."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-078",
+        "order": 78,
+        "source_block_chunk": 1,
+        "source_block_order": 78,
+        "text": "曰：「克有罪。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'I came yesterday.' 'Yesterday! Is it not with reason then that I thus speak?' 'My lodging-house was not arranged.' 'Have you heard that a scholar's lodging-house must be arranged before he visit his elder?' Yue Zheng said, 'I have done wrong.'"
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-007-line-079",
+        "order": 79,
+        "source_block_chunk": 1,
+        "source_block_order": 79,
+        "text": "孟子謂樂正子曰：「子之從於子敖來，徒餔啜也。我不意子學古之道，而以餔啜也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius, addressing the disciple Yue Zheng, said to him, 'Your coming here in the train of Zi Ao was only because of the food and the drink. I could not have thought that you, having learned the doctrine of the ancients, would have acted with a view to eating and drinking.'"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-007-line-080",
+        "order": 80,
+        "source_block_chunk": 1,
+        "source_block_order": 80,
+        "text": "孟子曰：「不孝有三，無後為大。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'There are three things which are unfilial, and to have no posterity is the greatest of them."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-007-line-081",
+        "order": 81,
+        "source_block_chunk": 1,
+        "source_block_order": 81,
+        "text": "舜不告而娶，為無後也，君子以為猶告也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Shun married without informing his parents because of this, lest he should have no posterity. Superior men consider that his doing so was the same as if he had informed them.'"
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-007-line-082",
+        "order": 82,
+        "source_block_chunk": 1,
+        "source_block_order": 82,
+        "text": "孟子曰：「仁之實，事親是也；義之實，從兄是也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'The richest fruit of benevolence is this: the service of one's parents."
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-007-line-083",
+        "order": 83,
+        "source_block_chunk": 1,
+        "source_block_order": 83,
+        "text": "智之實，知斯二者弗去是也；禮之實，節文斯二者是也；樂之實，樂斯二者，樂則生矣；生則惡可已也，惡可已，則不知足之蹈之、手之舞之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The richest fruit of righteousness is this: the obeying one's elder brothers. The richest fruit of wisdom is this: the knowing those two things, and not departing from them. The richest fruit of propriety is this: the ordering and adorning those two things. The richest fruit of music is this: the rejoicing in those two things. When they are rejoiced in, they grow. Growing, how can they be repressed? When they come to this state that they cannot be repressed, then unconsciously the feet begin to dance and the hands to move.'"
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-007-line-084",
+        "order": 84,
+        "source_block_chunk": 1,
+        "source_block_order": 84,
+        "text": "孟子曰：「天下大悅而將歸己。視天下悅而歸己，猶草芥也。惟舜為然。不得乎親，不可以為人；不順乎親，不可以為子。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Suppose the case of the whole kingdom turning in great delight to an individual to submit to him."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-007-line-085",
+        "order": 85,
+        "source_block_chunk": 1,
+        "source_block_order": 85,
+        "text": "舜盡事親之道而瞽瞍厎豫，瞽瞍厎豫而天下化，瞽瞍厎豫而天下之為父子者定，此之謂大孝。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To regard the whole kingdom thus turning to him in great delight but as a bundle of grass - only Shun was capable of this. He considered that if one could not get the hearts of his parents he could not be considered a man, and that if he could not get to an entire accord with his parents, he could not be considered a son. By Shun's completely fulfilling everything by which a parent could be served, Gu Sou was brought to find delight in what was good. When Gu Sou was brought to find that delight, the whole kingdom was transformed. When Gu Sou was brought to find that delight, all fathers and sons in the kingdom were established in their respective duties. This is called great filial piety.'"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "凡二十八章。\n離婁，古之明目者。公輸子，名班，魯之巧人也。規，所以為員之器也。矩，所以為方之器也。師曠，晉之樂師，知音者也。六律，截竹為筩，陰陽各六，以節五音之上下。黃鍾、太蔟、姑洗、蕤賓、夷則、無射，為陽；大呂、夾鍾、仲呂、林鍾、南呂、應鍾，為陰也。五音：宮、商、角、徵、羽也。范氏曰：「此言治天下不可無法度，仁政者，治天下之法度也。」聞，去聲。仁心，愛人之心也。仁聞者，有愛人之聲聞於人也。先王之道，仁政是也。范氏曰：「齊宣王不忍一牛之死，以羊易之，可謂有仁心。梁武帝終日一食蔬素，宗廟以杫：：犧牲，斷死刑必為之涕泣，天下知其慈仁，可謂有仁聞。然而宣王之時，齊國不治，武帝之末，江南大亂。其故何哉，有仁心仁聞而不行先王之道故也。」徒，猶空也。有其心，無其政，是謂徒善；有其政，無其心，是為徒法。程子嘗言：「為政須要有綱紀文章，謹權、審量、讀法、平價，皆不可闕。」而又曰，「必有關雎麟趾之意，然後可以行周官之法度」，正謂此也。詩大雅假樂之篇。愆，過也。率，循也。章，典法也。所行不過差不遺忘者，以其循用舊典故也。勝，平聲。準，所以為平。繩，所以為直。覆，被也。此言古之聖人，既竭耳目心思之力，然猶以為未足以遍天下，及後世，故制為法度以繼續之，則其用不窮，而仁之所被者廣矣。丘陵本高，川澤本下，為高下者因之，則用力少而成功多矣。鄒氏曰：「自章首至此，論以仁心仁聞行先王之道。」仁者，有仁心仁聞而能擴而充之，以行先王之道者也。播惡於眾，謂貽患於下也。朝，音潮。此言不仁而在高位之禍也。道，義理也。揆，度也。法，制度也。道揆，謂以義理度量事物而制其宜。法守，謂以法度自守。工，官也。度，即法也。君子小人，以位而言也。由上無道揆，故下無法守。無道揆，則朝不信道而君子犯義；無法守，則工不信度而小人犯刑。有此六者，其國必亡；其不亡者僥倖而已。辟，與闢同。喪，去聲。上不知禮，則無以教民；下不知學，則易與為亂。鄒氏曰：「自是以惟仁者至此，所以責其君。」蹶，居衛反。泄，弋制反。詩大雅板之篇。蹶，顛覆之意。泄泄，怠緩悅從之貌。言天欲顛覆周室，群臣無得泄泄然，不急救正之。沓，徒合反。沓沓，即泄泄之意。蓋孟子時人語如此。非，詆毀也。范氏曰：「人臣以難事責於君，使其君為堯舜之君者，尊君之大也；開陳善道以禁閉君之邪心，惟恐其君或陷於有過之地者，敬君之至也；謂其君不能行善道而不以告者，賊害其君之甚也。」鄒氏曰：「自詩云『天之方蹶』至此，所以責其臣。」鄒氏曰：「此章言為治者，當有仁心仁聞以行先王之政，而君臣又當各任其責也。」\n至，極也。人倫說見前篇。規矩盡所以為方員之理，猶聖人盡所以為人之道。法堯舜以盡君臣之道，猶用規矩以盡方員之極，此孟子所以道性善而稱堯舜也。法堯舜，則盡君臣之道而仁矣；不法堯舜，則慢君賊民而不仁矣。二端之外，更無他道。出乎此，則入乎彼矣，可不謹哉？幽，暗。厲，虐。皆惡謚也。苟得其實，則雖有孝子慈孫，愛其祖考之甚者，亦不得廢公義而改之。言不仁之禍必至於此，可懼之甚也。詩大雅蕩之篇。言商紂之所當鑒者，近在夏桀之世，而孟子引之，又欲後人以幽厲為鑒也。\n三代，謂夏、商、周也。禹、湯、文、武，以仁得之；桀、紂、幽、厲，以不仁失之。國，謂諸侯之國。言必死亡。惡，去聲。樂音洛。強，上聲。此承上章之意而推言之也。\n治人之治，平聲。不治之治，去聲。我愛人而人不親我，則反求諸己，恐我之仁未至也。智敬放此。不得，謂不得其所欲，如不親、不治、不答是也。反求諸己，謂反其仁、反其智、反其敬也。如此，則其自治益詳，而身無不正矣。天下歸之，極言其效也。解見前篇。亦承上章而言。\n恆，胡登反。恆，常也。雖常言之，而未必知其言之有序也。故推言之，而又以家本乎身也。此亦承上章而言之，大學所謂「自天子至於庶人，壹是皆以修身為本」，為是故也。\n巨室，世臣大家也。得罪，謂身不正而取怨怒也。麥丘邑人祝齊桓公曰：「願主君無得罪於群臣百姓。」意蓋如此。慕，向也，心悅誠服之謂也。沛然，盛大流行之貌。溢，充滿也。蓋巨室之心，難以力服，而國人素所取信；今既悅服，則國人皆服，而吾德教之所施，可以無遠而不至矣。此亦承上章而言，蓋君子不患人心之不服，而患吾身之不修；吾身既修，則人心之難服者先服，而無一人之不服矣。林氏曰：「戰國之世，諸侯失德，巨室擅權，為患甚矣。然或者不修其本而遽欲勝之，則未必能勝而適以取禍。故孟子推本而言，惟務修德以服其心。彼既悅服，則吾之德教無所留礙，可以及乎天下矣。裴度所謂韓弘輿疾討賊，承宗斂手削地，非朝廷之力能制其死命，特以處置得宜，能服其心故爾，正此類也。」\n有道之世，人皆修德，而位必稱其德之大小；天下無道，人不修德，則但以力相役而已。天者，理勢之當然也。女，去聲。引此以言小役大弱役強之事也。令，出令以使人也。受命，聽命於人也。物，猶人也。女，以女與人也。吳，蠻夷之國也。景公羞與為昏而畏其強，故涕泣而以女與之。言小國不修德以自強，其般樂怠敖，皆若效大國之所為者，而獨恥受其教命，不可得也。此因其愧恥之心而勉以修德也。文王之政，布在方策，舉而行之，所謂師文王也。五年七年，以其所乘之勢不同為差。蓋天下雖無道，然修德之至，則道自我行，而大國反為吾役矣。程子曰：「五年七年，聖人度其時則可矣。然凡此類，學者皆當思其作為如何，乃有益耳。」祼，音灌。夫，音扶。好，去聲。詩大雅文王之篇。孟子引此詩及孔子之言，以言文王之事。麗，數也。十萬曰億。侯，維也。商士，商孫子之臣也。膚，大也。敏，達也。祼，宗廟之祭，以鬱鬯之酒灌地而降神也。將，助也。言高之孫子眾多，其數不但十萬而已。上帝既命周以天下，則凡此商之孫子，皆臣服于周矣。所以然者，以天命不常，歸于有德故也。是以商士之膚大而敏達者，皆執祼獻之禮，助王祭事于周之京師也。孔子因讀此詩，而言有仁者則雖有十萬之眾，不能當之。故國君好仁，則必無敵於天下也。不可為眾，猶所謂難為兄難為弟云爾。恥受命於大國，是欲無敵於天下也；乃師大國而不師文王，是不以仁也。詩大雅桑柔之篇。逝，語辭也。言誰能執持熱物，而不以水自濯其手乎？此章言不能自強，則聽天所命；修德行仁，則天命在我。\n菑，與災同。樂，音洛。安其危利其菑者，不知其為危菑而反以為安利也。所以亡者，謂荒淫暴虐，所以致亡之道也。不仁之人，私欲固蔽，失其本心，故其顛倒錯亂至於如此，所以不可告以忠言，而卒至於敗亡也。浪，音郎。滄浪，水名。纓，冠系也。言水之清濁有以自取之也。聖人聲入心通，無非至理，此類可見。夫，音扶。所謂自取之者。解見前篇。此章言心存則有以審夫得失之幾，不存則無以辨於存亡之著。禍福之來，皆其自取。\n惡，去聲。民之所欲，皆為致之，如聚斂然。民之所惡，則勿施於民。朂錯所謂「人情莫不欲壽，三王生之而不傷；人情莫不欲富，三王厚之而不困；人情1莫不欲安，三王扶之而不危；人情莫不欲逸，三王節其力而不盡」，此類之謂也。走，音奏。壙，廣野也。言民之所以歸乎此，以其所欲之在乎此也。為，去聲。敺，與驅同。獺，音闥。爵，與雀同。鸇，諸延反。淵，深水也。獺，食魚者也。叢，茂林也。鸇，食雀者也。言民之所以去此，以其所欲在彼而所畏在此也。好、為、王，皆去聲。王，去聲。艾，草名，所以灸者，乾久益善。夫病已深而欲求乾久之艾，固難卒辦，然自今畜之，則猶或可及；不然，則病日益深，死日益迫，而艾終不可得矣。詩大雅桑柔之篇。淑，善也。載，則也。胥，相也。言今之所為，其何能善，則相引以陷於亂亡而已。1. 情 : Originally read: \"惰\". 據清仿宋大字本改。\n暴，猶害也。非，猶毀也。自害其身者，不知禮義之為美而非毀之，雖與之言，必不見信也。自棄其身者，猶知仁義之為美，但弱於怠惰，自謂必不能行，與之有為必不能勉也。程子曰；「人苟以善自治，則無不可移者，雖昏愚之至，皆可漸磨而進也。惟自暴者拒之以不信，自棄者絕之以不為，雖聖人與居，不能化而入也。此所謂下愚之不移也。」仁宅已見前篇。義者，宜也，乃天理之當行，無人欲之邪曲，故曰正路。舍，上聲。曠，空也。由，行也。此章言道本固有而人自絕之，是可哀也。此聖賢之深戒，學者所當猛省也。\n爾、邇，古字通用。易，去聲。長，上聲。親長在人為甚邇，親之長之在人為甚易，而道初不外是也。舍此而他求，則遠且難而反失之。但人人各親其親、各長其長，則天下自平矣。\n獲於上，得其上之信任也。誠，實也。反身不誠，反求諸身而其所以為善之心有不實也。不明乎善，不能即事以窮理。無以真知善之所在也。游氏曰：「欲誠其意，先致其知；不明乎善，不誠乎身矣。學至於誠身，則安往而不致其極哉？以內則順乎親，以外則信乎友，以上則可以得君，以下則可以得民矣。」誠者，理之在我者皆實而無偽，天道之本然也；思誠者，欲此理之在我者皆實而無偽，人道之當然也。至，極也。楊氏曰：「動便是驗處，若獲乎上、信乎友、悅於親之類是也。」此章述中庸孔子之言，見思誠為修身之本，而明善又為思誠之本。乃子思所聞於曾子，而孟子所受乎子思者，亦與大學相表旿，學者宜潛心焉。\n辟，去聲。作、興，皆起也。盍，何不也。西伯，即文王也。紂命為西方諸侯之長，得專征伐，故稱西伯。太公，姜姓，呂氏，名尚。文王發政，必先鰥寡孤獨，庶人之老，皆無凍餒，故伯夷、太公來就其養，非求仕也。焉，於虔反。二老，伯夷、太公也。大老，言非常人之老者。天下之父，言齒德皆尊，如眾父然。既得其心，則天下之心不能外矣。蕭何所謂養民致賢以圖天下者，暗與此合，但其意則有公私之辨，學者又不可以不察也。七年，以小國而言也。大國五年，在其中矣。\n求，孔子弟子冉求。季氏，魯卿。宰，家臣。賦，猶取也，取民之粟倍於他日也。小子，弟子也。鳴鼓而攻之，聲其罪而責之也。為，去聲。林氏曰：「富其君者，奪民之財耳，而夫子猶惡之。況為土地之故而殺人，使其肝腦塗地，則是率土地而食人之肉。其罪之大，雖至於死，猶不足以容之也。」辟與闢同。善戰，如孫臏、吳起之徒。連結諸侯，如蘇秦、張儀之類。辟，開墾也。任土地，謂分土授民，使任耕稼之責，如李悝盡地方，商鞅開阡陌之類也。\n眸，音牟。瞭，音了。眊，音耄。良，善也。眸子，目瞳子也。瞭，明也。眊者，蒙蒙，目不明之貌。蓋人與物接之時，其神在目，故胸中正則神精而明，不正則神散而昏。焉，於虔反。廋，音搜。廋，匿也。言亦心之所發，故并此以觀，則人之邪正不可匿矣。然言猶可以偽為，眸子則有不容偽者。\n惡，平聲。惟恐不順，言恐人之不順己。聲音笑貌，偽為於外也。\n與，平聲。援，音爰。淳于，姓；髡，名；齊之辯士。授，與也。受，取也。古禮，男女不親授受，以遠別也。援，救之也。權，稱錘也，稱物輕重而往來以取中者也。權而得中，是乃禮也。言今天下大亂，民遭陷溺，亦當從權以援之，不可守先王之正道也。言天下溺，惟道可以捄之，非若嫂溺可手援也。今子欲援天下，乃欲使我枉道求合，則先失其所以援之之具矣。是欲使我以手援天下乎？此章言直己守道，所以濟時；枉道殉人，徒為失己。\n不親教也。夷，傷也。教子者，本為愛其子也，繼之以怒，則反傷其子矣。父既傷其子，子之心又責其父曰：『夫子教我以正道，而夫子之身未必自行正道。」則是子又傷其父也。易子而教，所以全父子之恩，而亦不失其為教。責善，朋友之道也。王氏曰：「父有爭子，何也？所謂爭者，非責善也。當不義則爭之而已矣。父之於子也如何？曰，當不義，則亦戒之而已矣。」\n守身，持守其身，使不陷於不義也。一失其身，則虧體辱親，雖日用三牲之養，亦不足以為孝矣。事親孝，則忠可移於君，順可移於長。身正，則家齊、國治、而天下平。養，去聲。復，扶又反。此承上文事親言之。曾皙，名點，曾子父也。曾元，曾子子也。曾子養其父，每食必有酒肉。食畢將徹去，必請於父曰：「此餘者與誰？」或父問此物尚有餘否？必曰「有」。恐親意更欲與人也。曾元不請所與，雖有言無。其意將以復進於親，不欲其與人也。此但能養父母之口體而已。曾子則能承順父母之志，而不忍傷之也。言當如曾子之養志，不可如曾元但養口體。程子曰：「子之身所能為者，皆所當為，無過分之事也。故事親若曾子可謂至矣，而孟子止曰可也，豈以曾子之孝為有餘哉？」\n適，音謫。間，去聲。趙氏曰：「適，過也。間，非也。格，正也。」徐氏曰：「格者，物之所取正也。書曰：『格其非心。』」愚謂間字上亦當有與字。言人君用人之非，不足過剥；行政之失，不足非間。惟有大人之德，則能格其君心之不正以歸於正，而國無不治矣。大人者，大德之人，正己而物正者也。程子曰：「天下之治亂，繫乎人君之仁與不仁耳。心之非，即害於政，不待乎發之於外也。昔者孟子三見齊王而不言事，門人疑之。孟子曰：『我先攻其邪心，心既正，而後天下之事可從而理也。』夫政事之失，用人之非，知者能更之，直者能諫之。然非心存焉，則事事而更之，後復有其事，將不勝其更矣；人人而去之，後復用其人，將不勝其去矣。是以輔相之職，必在乎格君心之非，然後無所不正；而欲格君心之非者，非有大人之德，則亦莫之能也。」\n虞，度也。呂氏曰「行不足以致譽而偶得譽，是謂不虞之譽。求免於毀而反致毀，是謂求全之毀。言毀譽之言，未必皆實，修己者不可以是遽為憂喜。觀人者不可以是輕為進退。」\n易，去聲。人之所以輕易其言者，以其未遭失言之責故耳。蓋常人之情，無所懲於前，則無所警於後。非以為君子之學，必俟有責而後不敢易其言也。然此豈亦有為而言之與？\n好，去聲。王勉曰：「學問有餘，人資於己，以不得已而應之可也。若好為人師，則自足而不復有進矣，此人之大患也。」\n子敖，王驩字。長，上聲。昔者，前日也。館，客舍也。王驩，孟子所不與言者，則其人可知矣。樂正子乃從之行，其失身之罪大矣；又不早見長者，則其罪又有甚者焉。故孟子姑以此責之。陳氏曰：「樂正子固不能無罪矣，然其勇於受責如此，非好善而篤信之，其能若是乎？世有強辯飾非，聞諫愈甚者，又樂正子之罪人也。」\n餔，博孤反。啜，昌悅反。徒，但也。餔，食也。啜，飲也。言其不擇所從，但求食耳。此乃正其罪而切責之。\n趙氏曰：「於禮有不孝者三事：謂阿意曲從，陷親不義，一也；家貧親老，不為祿仕，二也；不娶無子，絕先祖祀，三也。三者之中，無後為大。」為無之為，去聲》。舜告焉則不得娶，而終於無後矣。告者禮也。不告者權也。猶告，言與告同也。蓋權而得中，則不離於正矣。范氏曰：「天下之道，有正有權。正者萬世之常，權者一時之用。常道人皆可守，權非體道者不能用也。蓋權出於不得已者也，若父非瞽瞍，子非大舜，而欲不告而娶，則天下之罪人也。」\n仁主於愛，而愛莫切於事親；義主於敬，而敬莫先於從兄。故仁義之道，其用至廣，而其實不越於事親從兄之間。蓋良心之發，最為切近而精實者。有子以孝弟為為仁之本，其意亦猶此也。樂斯、樂則之樂，音洛。惡，平聲。斯二者，指事親從兄而言。知而弗去，則見之明而守之固矣。節文，謂品節文章。樂則生矣，謂和順從容，無所勉強，事親從兄之意油然自生，如草木之有生意也。既有生意，則其暢茂條達，自有不可遏者，所謂惡可已也。其又盛，則至於手舞足蹈而不自知矣。此章言事親從兄，良心真切，天下之道，皆原於此。然必知之明而守之固，然後節之密而樂之深也。\n言舜視天下之歸己如草芥，而惟欲得其親而順之也。得者，曲為承順以得其心之悅而已。順則有以諭之於道，心與之一而未始有違，尤人所難也。為人蓋泛言之，為子則愈密矣。底，之爾反。瞽瞍，舜父名。厎，致也。豫，悅樂也。瞽瞍至頑，嘗欲殺舜，至是而厎豫焉。書所謂「不格姦亦允若」是也。蓋舜至此而有以順乎親矣。是以天下之為子者，知天下無不可事之親，顧吾所以事之者未若舜耳。於是莫不勉而為孝，至於其親亦厎豫焉，則天下之為父者，亦莫不慈，所謂化也。子孝父慈，各止其所，而無不安其位之意，所謂定也。為法於天下，可傳於後世，非止一身一家之孝而已，此所以為大孝也。李氏曰：「舜之所以能使瞽瞍厎豫者，盡事親之道，其為子職，不見父母之非而已。昔羅仲素語此云：『只為天下無不是厎父母。』了翁聞而善之曰：『惟如此而後天下之為父子者定。彼臣弒其君、子弒其父者，常始於見其有不是處耳。』」",
+    "supplemental_unit_count": 70,
+    "supplemental_units": [
+      {
+        "character_count": 5,
+        "id": "chapter-007-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "凡二十八章。"
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-007-supp-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "離婁，古之明目者。公輸子，名班，魯之巧人也。規，所以為員之器也。矩，所以為方之器也。師曠，晉之樂師，知音者也。六律，截竹為筩，陰陽各六，以節五音之上下。黃鍾、太蔟、姑洗、蕤賓、夷則、無射，為陽；大呂、夾鍾、仲呂、林鍾、南呂、應鍾，為陰也。"
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-007-supp-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "五音：宮、商、角、徵、羽也。范氏曰：「此言治天下不可無法度，仁政者，治天下之法度也。」聞，去聲。仁心，愛人之心也。仁聞者，有愛人之聲聞於人也。先王之道，仁政是也。范氏曰：「齊宣王不忍一牛之死，以羊易之，可謂有仁心。"
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-007-supp-004",
+        "order": 4,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "梁武帝終日一食蔬素，宗廟以杫：：犧牲，斷死刑必為之涕泣，天下知其慈仁，可謂有仁聞。然而宣王之時，齊國不治，武帝之末，江南大亂。其故何哉，有仁心仁聞而不行先王之道故也。」徒，猶空也。有其心，無其政，是謂徒善；有其政，無其心，是為徒法。"
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-007-supp-005",
+        "order": 5,
+        "source_block_chunk": 4,
+        "source_block_order": 2,
+        "text": "程子嘗言：「為政須要有綱紀文章，謹權、審量、讀法、平價，皆不可闕。」而又曰，「必有關雎麟趾之意，然後可以行周官之法度」，正謂此也。詩大雅假樂之篇。愆，過也。率，循也。章，典法也。所行不過差不遺忘者，以其循用舊典故也。勝，平聲。準，所以為平。"
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-007-supp-006",
+        "order": 6,
+        "source_block_chunk": 5,
+        "source_block_order": 2,
+        "text": "繩，所以為直。覆，被也。此言古之聖人，既竭耳目心思之力，然猶以為未足以遍天下，及後世，故制為法度以繼續之，則其用不窮，而仁之所被者廣矣。丘陵本高，川澤本下，為高下者因之，則用力少而成功多矣。鄒氏曰：「自章首至此，論以仁心仁聞行先王之道。"
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-007-supp-007",
+        "order": 7,
+        "source_block_chunk": 6,
+        "source_block_order": 2,
+        "text": "」仁者，有仁心仁聞而能擴而充之，以行先王之道者也。播惡於眾，謂貽患於下也。朝，音潮。此言不仁而在高位之禍也。道，義理也。揆，度也。法，制度也。道揆，謂以義理度量事物而制其宜。法守，謂以法度自守。工，官也。度，即法也。君子小人，以位而言也。"
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-007-supp-008",
+        "order": 8,
+        "source_block_chunk": 7,
+        "source_block_order": 2,
+        "text": "由上無道揆，故下無法守。無道揆，則朝不信道而君子犯義；無法守，則工不信度而小人犯刑。有此六者，其國必亡；其不亡者僥倖而已。辟，與闢同。喪，去聲。上不知禮，則無以教民；下不知學，則易與為亂。鄒氏曰：「自是以惟仁者至此，所以責其君。"
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-007-supp-009",
+        "order": 9,
+        "source_block_chunk": 8,
+        "source_block_order": 2,
+        "text": "」蹶，居衛反。泄，弋制反。詩大雅板之篇。蹶，顛覆之意。泄泄，怠緩悅從之貌。言天欲顛覆周室，群臣無得泄泄然，不急救正之。沓，徒合反。沓沓，即泄泄之意。蓋孟子時人語如此。非，詆毀也。范氏曰：「人臣以難事責於君，使其君為堯舜之君者，尊君之大也；"
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-007-supp-010",
+        "order": 10,
+        "source_block_chunk": 9,
+        "source_block_order": 2,
+        "text": "開陳善道以禁閉君之邪心，惟恐其君或陷於有過之地者，敬君之至也；謂其君不能行善道而不以告者，賊害其君之甚也。」鄒氏曰：「自詩云『天之方蹶』至此，所以責其臣。」鄒氏曰：「此章言為治者，當有仁心仁聞以行先王之政，而君臣又當各任其責也。」"
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-007-supp-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "至，極也。人倫說見前篇。規矩盡所以為方員之理，猶聖人盡所以為人之道。法堯舜以盡君臣之道，猶用規矩以盡方員之極，此孟子所以道性善而稱堯舜也。法堯舜，則盡君臣之道而仁矣；不法堯舜，則慢君賊民而不仁矣。二端之外，更無他道。"
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-007-supp-012",
+        "order": 12,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "出乎此，則入乎彼矣，可不謹哉？幽，暗。厲，虐。皆惡謚也。苟得其實，則雖有孝子慈孫，愛其祖考之甚者，亦不得廢公義而改之。言不仁之禍必至於此，可懼之甚也。詩大雅蕩之篇。言商紂之所當鑒者，近在夏桀之世，而孟子引之，又欲後人以幽厲為鑒也。"
+      },
+      {
+        "character_count": 54,
+        "id": "chapter-007-supp-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "三代，謂夏、商、周也。禹、湯、文、武，以仁得之；桀、紂、幽、厲，以不仁失之。國，謂諸侯之國。言必死亡。惡，去聲。樂音洛。強，上聲。此承上章之意而推言之也。"
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-007-supp-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "治人之治，平聲。不治之治，去聲。我愛人而人不親我，則反求諸己，恐我之仁未至也。智敬放此。不得，謂不得其所欲，如不親、不治、不答是也。反求諸己，謂反其仁、反其智、反其敬也。如此，則其自治益詳，而身無不正矣。天下歸之，極言其效也。解見前篇。"
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-007-supp-015",
+        "order": 15,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "亦承上章而言。"
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-007-supp-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "恆，胡登反。恆，常也。雖常言之，而未必知其言之有序也。故推言之，而又以家本乎身也。此亦承上章而言之，大學所謂「自天子至於庶人，壹是皆以修身為本」，為是故也。"
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-007-supp-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "巨室，世臣大家也。得罪，謂身不正而取怨怒也。麥丘邑人祝齊桓公曰：「願主君無得罪於群臣百姓。」意蓋如此。慕，向也，心悅誠服之謂也。沛然，盛大流行之貌。溢，充滿也。蓋巨室之心，難以力服，而國人素所取信；"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-007-supp-018",
+        "order": 18,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "今既悅服，則國人皆服，而吾德教之所施，可以無遠而不至矣。此亦承上章而言，蓋君子不患人心之不服，而患吾身之不修；吾身既修，則人心之難服者先服，而無一人之不服矣。林氏曰：「戰國之世，諸侯失德，巨室擅權，為患甚矣。"
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-007-supp-019",
+        "order": 19,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "然或者不修其本而遽欲勝之，則未必能勝而適以取禍。故孟子推本而言，惟務修德以服其心。彼既悅服，則吾之德教無所留礙，可以及乎天下矣。裴度所謂韓弘輿疾討賊，承宗斂手削地，非朝廷之力能制其死命，特以處置得宜，能服其心故爾，正此類也。」"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-007-supp-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "有道之世，人皆修德，而位必稱其德之大小；天下無道，人不修德，則但以力相役而已。天者，理勢之當然也。女，去聲。引此以言小役大弱役強之事也。令，出令以使人也。受命，聽命於人也。物，猶人也。女，以女與人也。吳，蠻夷之國也。"
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-007-supp-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "景公羞與為昏而畏其強，故涕泣而以女與之。言小國不修德以自強，其般樂怠敖，皆若效大國之所為者，而獨恥受其教命，不可得也。此因其愧恥之心而勉以修德也。文王之政，布在方策，舉而行之，所謂師文王也。五年七年，以其所乘之勢不同為差。"
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-007-supp-022",
+        "order": 22,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "蓋天下雖無道，然修德之至，則道自我行，而大國反為吾役矣。程子曰：「五年七年，聖人度其時則可矣。然凡此類，學者皆當思其作為如何，乃有益耳。」祼，音灌。夫，音扶。好，去聲。詩大雅文王之篇。孟子引此詩及孔子之言，以言文王之事。麗，數也。十萬曰億。"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-007-supp-023",
+        "order": 23,
+        "source_block_chunk": 4,
+        "source_block_order": 8,
+        "text": "侯，維也。商士，商孫子之臣也。膚，大也。敏，達也。祼，宗廟之祭，以鬱鬯之酒灌地而降神也。將，助也。言高之孫子眾多，其數不但十萬而已。上帝既命周以天下，則凡此商之孫子，皆臣服于周矣。所以然者，以天命不常，歸于有德故也。"
+      },
+      {
+        "character_count": 105,
+        "id": "chapter-007-supp-024",
+        "order": 24,
+        "source_block_chunk": 5,
+        "source_block_order": 8,
+        "text": "是以商士之膚大而敏達者，皆執祼獻之禮，助王祭事于周之京師也。孔子因讀此詩，而言有仁者則雖有十萬之眾，不能當之。故國君好仁，則必無敵於天下也。不可為眾，猶所謂難為兄難為弟云爾。恥受命於大國，是欲無敵於天下也；乃師大國而不師文王，是不以仁也。"
+      },
+      {
+        "character_count": 48,
+        "id": "chapter-007-supp-025",
+        "order": 25,
+        "source_block_chunk": 6,
+        "source_block_order": 8,
+        "text": "詩大雅桑柔之篇。逝，語辭也。言誰能執持熱物，而不以水自濯其手乎？此章言不能自強，則聽天所命；修德行仁，則天命在我。"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-007-supp-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "菑，與災同。樂，音洛。安其危利其菑者，不知其為危菑而反以為安利也。所以亡者，謂荒淫暴虐，所以致亡之道也。不仁之人，私欲固蔽，失其本心，故其顛倒錯亂至於如此，所以不可告以忠言，而卒至於敗亡也。浪，音郎。滄浪，水名。纓，冠系也。"
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-007-supp-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "言水之清濁有以自取之也。聖人聲入心通，無非至理，此類可見。夫，音扶。所謂自取之者。解見前篇。此章言心存則有以審夫得失之幾，不存則無以辨於存亡之著。禍福之來，皆其自取。"
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-007-supp-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "惡，去聲。民之所欲，皆為致之，如聚斂然。民之所惡，則勿施於民。朂錯所謂「人情莫不欲壽，三王生之而不傷；人情莫不欲富，三王厚之而不困；人情1莫不欲安，三王扶之而不危；人情莫不欲逸，三王節其力而不盡」，此類之謂也。走，音奏。壙，廣野也。"
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-007-supp-029",
+        "order": 29,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "言民之所以歸乎此，以其所欲之在乎此也。為，去聲。敺，與驅同。獺，音闥。爵，與雀同。鸇，諸延反。淵，深水也。獺，食魚者也。叢，茂林也。鸇，食雀者也。言民之所以去此，以其所欲在彼而所畏在此也。好、為、王，皆去聲。王，去聲。"
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-007-supp-030",
+        "order": 30,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "艾，草名，所以灸者，乾久益善。夫病已深而欲求乾久之艾，固難卒辦，然自今畜之，則猶或可及；不然，則病日益深，死日益迫，而艾終不可得矣。詩大雅桑柔之篇。淑，善也。載，則也。胥，相也。言今之所為，其何能善，則相引以陷於亂亡而已。"
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-007-supp-031",
+        "order": 31,
+        "source_block_chunk": 4,
+        "source_block_order": 10,
+        "text": "1. 情 : Originally read: \"惰\". 據清仿宋大字本改。"
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-007-supp-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "暴，猶害也。非，猶毀也。自害其身者，不知禮義之為美而非毀之，雖與之言，必不見信也。自棄其身者，猶知仁義之為美，但弱於怠惰，自謂必不能行，與之有為必不能勉也。程子曰；「人苟以善自治，則無不可移者，雖昏愚之至，皆可漸磨而進也。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-007-supp-033",
+        "order": 33,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "惟自暴者拒之以不信，自棄者絕之以不為，雖聖人與居，不能化而入也。此所謂下愚之不移也。」仁宅已見前篇。義者，宜也，乃天理之當行，無人欲之邪曲，故曰正路。舍，上聲。曠，空也。由，行也。此章言道本固有而人自絕之，是可哀也。"
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-007-supp-034",
+        "order": 34,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "此聖賢之深戒，學者所當猛省也。"
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-007-supp-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "爾、邇，古字通用。易，去聲。長，上聲。親長在人為甚邇，親之長之在人為甚易，而道初不外是也。舍此而他求，則遠且難而反失之。但人人各親其親、各長其長，則天下自平矣。"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-007-supp-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "獲於上，得其上之信任也。誠，實也。反身不誠，反求諸身而其所以為善之心有不實也。不明乎善，不能即事以窮理。無以真知善之所在也。游氏曰：「欲誠其意，先致其知；不明乎善，不誠乎身矣。學至於誠身，則安往而不致其極哉？"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-007-supp-037",
+        "order": 37,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "以內則順乎親，以外則信乎友，以上則可以得君，以下則可以得民矣。」誠者，理之在我者皆實而無偽，天道之本然也；思誠者，欲此理之在我者皆實而無偽，人道之當然也。至，極也。楊氏曰：「動便是驗處，若獲乎上、信乎友、悅於親之類是也。"
+      },
+      {
+        "character_count": 56,
+        "id": "chapter-007-supp-038",
+        "order": 38,
+        "source_block_chunk": 3,
+        "source_block_order": 13,
+        "text": "」此章述中庸孔子之言，見思誠為修身之本，而明善又為思誠之本。乃子思所聞於曾子，而孟子所受乎子思者，亦與大學相表旿，學者宜潛心焉。"
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-007-supp-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "辟，去聲。作、興，皆起也。盍，何不也。西伯，即文王也。紂命為西方諸侯之長，得專征伐，故稱西伯。太公，姜姓，呂氏，名尚。文王發政，必先鰥寡孤獨，庶人之老，皆無凍餒，故伯夷、太公來就其養，非求仕也。焉，於虔反。二老，伯夷、太公也。"
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-007-supp-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "大老，言非常人之老者。天下之父，言齒德皆尊，如眾父然。既得其心，則天下之心不能外矣。蕭何所謂養民致賢以圖天下者，暗與此合，但其意則有公私之辨，學者又不可以不察也。七年，以小國而言也。大國五年，在其中矣。"
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-007-supp-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "求，孔子弟子冉求。季氏，魯卿。宰，家臣。賦，猶取也，取民之粟倍於他日也。小子，弟子也。鳴鼓而攻之，聲其罪而責之也。為，去聲。林氏曰：「富其君者，奪民之財耳，而夫子猶惡之。況為土地之故而殺人，使其肝腦塗地，則是率土地而食人之肉。"
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-007-supp-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "其罪之大，雖至於死，猶不足以容之也。」辟與闢同。善戰，如孫臏、吳起之徒。連結諸侯，如蘇秦、張儀之類。辟，開墾也。任土地，謂分土授民，使任耕稼之責，如李悝盡地方，商鞅開阡陌之類也。"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-007-supp-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "眸，音牟。瞭，音了。眊，音耄。良，善也。眸子，目瞳子也。瞭，明也。眊者，蒙蒙，目不明之貌。蓋人與物接之時，其神在目，故胸中正則神精而明，不正則神散而昏。焉，於虔反。廋，音搜。廋，匿也。言亦心之所發，故并此以觀，則人之邪正不可匿矣。"
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-007-supp-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "然言猶可以偽為，眸子則有不容偽者。"
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-007-supp-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "惡，平聲。惟恐不順，言恐人之不順己。聲音笑貌，偽為於外也。"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-007-supp-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "與，平聲。援，音爰。淳于，姓；髡，名；齊之辯士。授，與也。受，取也。古禮，男女不親授受，以遠別也。援，救之也。權，稱錘也，稱物輕重而往來以取中者也。權而得中，是乃禮也。言今天下大亂，民遭陷溺，亦當從權以援之，不可守先王之正道也。"
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-007-supp-047",
+        "order": 47,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "言天下溺，惟道可以捄之，非若嫂溺可手援也。今子欲援天下，乃欲使我枉道求合，則先失其所以援之之具矣。是欲使我以手援天下乎？此章言直己守道，所以濟時；枉道殉人，徒為失己。"
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-007-supp-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "不親教也。夷，傷也。教子者，本為愛其子也，繼之以怒，則反傷其子矣。父既傷其子，子之心又責其父曰：『夫子教我以正道，而夫子之身未必自行正道。」則是子又傷其父也。易子而教，所以全父子之恩，而亦不失其為教。責善，朋友之道也。"
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-007-supp-049",
+        "order": 49,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "王氏曰：「父有爭子，何也？所謂爭者，非責善也。當不義則爭之而已矣。父之於子也如何？曰，當不義，則亦戒之而已矣。」"
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-007-supp-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "守身，持守其身，使不陷於不義也。一失其身，則虧體辱親，雖日用三牲之養，亦不足以為孝矣。事親孝，則忠可移於君，順可移於長。身正，則家齊、國治、而天下平。養，去聲。復，扶又反。此承上文事親言之。曾皙，名點，曾子父也。曾元，曾子子也。"
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-007-supp-051",
+        "order": 51,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "曾子養其父，每食必有酒肉。食畢將徹去，必請於父曰：「此餘者與誰？」或父問此物尚有餘否？必曰「有」。恐親意更欲與人也。曾元不請所與，雖有言無。其意將以復進於親，不欲其與人也。此但能養父母之口體而已。曾子則能承順父母之志，而不忍傷之也。"
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-007-supp-052",
+        "order": 52,
+        "source_block_chunk": 3,
+        "source_block_order": 20,
+        "text": "言當如曾子之養志，不可如曾元但養口體。程子曰：「子之身所能為者，皆所當為，無過分之事也。故事親若曾子可謂至矣，而孟子止曰可也，豈以曾子之孝為有餘哉？」"
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-007-supp-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "適，音謫。間，去聲。趙氏曰：「適，過也。間，非也。格，正也。」徐氏曰：「格者，物之所取正也。書曰：『格其非心。』」愚謂間字上亦當有與字。言人君用人之非，不足過剥；行政之失，不足非間。惟有大人之德，則能格其君心之不正以歸於正，而國無不治矣。"
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-007-supp-054",
+        "order": 54,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "大人者，大德之人，正己而物正者也。程子曰：「天下之治亂，繫乎人君之仁與不仁耳。心之非，即害於政，不待乎發之於外也。昔者孟子三見齊王而不言事，門人疑之。孟子曰：『我先攻其邪心，心既正，而後天下之事可從而理也。"
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-007-supp-055",
+        "order": 55,
+        "source_block_chunk": 3,
+        "source_block_order": 21,
+        "text": "』夫政事之失，用人之非，知者能更之，直者能諫之。然非心存焉，則事事而更之，後復有其事，將不勝其更矣；人人而去之，後復用其人，將不勝其去矣。是以輔相之職，必在乎格君心之非，然後無所不正；而欲格君心之非者，非有大人之德，則亦莫之能也。」"
+      },
+      {
+        "character_count": 67,
+        "id": "chapter-007-supp-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "虞，度也。呂氏曰「行不足以致譽而偶得譽，是謂不虞之譽。求免於毀而反致毀，是謂求全之毀。言毀譽之言，未必皆實，修己者不可以是遽為憂喜。觀人者不可以是輕為進退。」"
+      },
+      {
+        "character_count": 67,
+        "id": "chapter-007-supp-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "易，去聲。人之所以輕易其言者，以其未遭失言之責故耳。蓋常人之情，無所懲於前，則無所警於後。非以為君子之學，必俟有責而後不敢易其言也。然此豈亦有為而言之與？"
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-007-supp-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "好，去聲。王勉曰：「學問有餘，人資於己，以不得已而應之可也。若好為人師，則自足而不復有進矣，此人之大患也。」"
+      },
+      {
+        "character_count": 68,
+        "id": "chapter-007-supp-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "子敖，王驩字。長，上聲。昔者，前日也。館，客舍也。王驩，孟子所不與言者，則其人可知矣。樂正子乃從之行，其失身之罪大矣；又不早見長者，則其罪又有甚者焉。故孟子姑以此責之。"
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-007-supp-060",
+        "order": 60,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "陳氏曰：「樂正子固不能無罪矣，然其勇於受責如此，非好善而篤信之，其能若是乎？世有強辯飾非，聞諫愈甚者，又樂正子之罪人也。」"
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-007-supp-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "餔，博孤反。啜，昌悅反。徒，但也。餔，食也。啜，飲也。言其不擇所從，但求食耳。此乃正其罪而切責之。"
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-007-supp-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "趙氏曰：「於禮有不孝者三事：謂阿意曲從，陷親不義，一也；家貧親老，不為祿仕，二也；不娶無子，絕先祖祀，三也。三者之中，無後為大。」為無之為，去聲》。舜告焉則不得娶，而終於無後矣。告者禮也。不告者權也。猶告，言與告同也。"
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-007-supp-063",
+        "order": 63,
+        "source_block_chunk": 2,
+        "source_block_order": 27,
+        "text": "蓋權而得中，則不離於正矣。范氏曰：「天下之道，有正有權。正者萬世之常，權者一時之用。常道人皆可守，權非體道者不能用也。蓋權出於不得已者也，若父非瞽瞍，子非大舜，而欲不告而娶，則天下之罪人也。」"
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-007-supp-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "仁主於愛，而愛莫切於事親；義主於敬，而敬莫先於從兄。故仁義之道，其用至廣，而其實不越於事親從兄之間。蓋良心之發，最為切近而精實者。有子以孝弟為為仁之本，其意亦猶此也。樂斯、樂則之樂，音洛。惡，平聲。斯二者，指事親從兄而言。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-007-supp-065",
+        "order": 65,
+        "source_block_chunk": 2,
+        "source_block_order": 28,
+        "text": "知而弗去，則見之明而守之固矣。節文，謂品節文章。樂則生矣，謂和順從容，無所勉強，事親從兄之意油然自生，如草木之有生意也。既有生意，則其暢茂條達，自有不可遏者，所謂惡可已也。其又盛，則至於手舞足蹈而不自知矣。"
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-007-supp-066",
+        "order": 66,
+        "source_block_chunk": 3,
+        "source_block_order": 28,
+        "text": "此章言事親從兄，良心真切，天下之道，皆原於此。然必知之明而守之固，然後節之密而樂之深也。"
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-007-supp-067",
+        "order": 67,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "言舜視天下之歸己如草芥，而惟欲得其親而順之也。得者，曲為承順以得其心之悅而已。順則有以諭之於道，心與之一而未始有違，尤人所難也。為人蓋泛言之，為子則愈密矣。底，之爾反。瞽瞍，舜父名。厎，致也。豫，悅樂也。瞽瞍至頑，嘗欲殺舜，至是而厎豫焉。"
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-007-supp-068",
+        "order": 68,
+        "source_block_chunk": 2,
+        "source_block_order": 29,
+        "text": "書所謂「不格姦亦允若」是也。蓋舜至此而有以順乎親矣。是以天下之為子者，知天下無不可事之親，顧吾所以事之者未若舜耳。於是莫不勉而為孝，至於其親亦厎豫焉，則天下之為父者，亦莫不慈，所謂化也。子孝父慈，各止其所，而無不安其位之意，所謂定也。"
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-007-supp-069",
+        "order": 69,
+        "source_block_chunk": 3,
+        "source_block_order": 29,
+        "text": "為法於天下，可傳於後世，非止一身一家之孝而已，此所以為大孝也。李氏曰：「舜之所以能使瞽瞍厎豫者，盡事親之道，其為子職，不見父母之非而已。昔羅仲素語此云：『只為天下無不是厎父母。』了翁聞而善之曰：『惟如此而後天下之為父子者定。"
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-007-supp-070",
+        "order": 70,
+        "source_block_chunk": 4,
+        "source_block_order": 29,
+        "text": "彼臣弒其君、子弒其父者，常始於見其有不是處耳。』」"
+      }
+    ],
+    "text": "孟子曰：「離婁之明，公輸子之巧，不以規矩，不能成方員：師曠之聰，不以六律，不能正五音；堯舜之道，不以仁政，不能平治天下。\n今有仁心仁聞而民不被其澤，不可法於後世者，不行先王之道也。\n故曰，徒善不足以為政，徒法不能以自行。\n詩云：『不愆不忘，率由舊章。』遵先王之法而過者，未之有也。\n聖人既竭目力焉，繼之以規矩準繩，以為方員平直，不可勝用也；既竭耳力焉，繼之以六律，正五音，不可勝用也；既竭心思焉，繼之以不忍人之政，而仁覆天下矣。\n故曰，為高必因丘陵，為下必因川澤。為政不因先王之道，可謂智乎？\n是以惟仁者宜在高位。不仁而在高位，是播其惡於眾也。\n上無道揆也。下無法守也，朝不信道，工不信度，君子犯義，小人犯刑，國之所存者幸也。\n故曰：城郭不完，兵甲不多，非國之災也；田野不辟，貨財不聚，非國之害也。上無禮，下無學，賊民興，喪無日矣。\n詩曰：『天之方蹶，無然泄泄。』\n泄泄，猶沓沓也。\n事君無義，進退無禮，言則非先王之道者，猶沓沓也。\n故曰：責難於君謂之恭，陳善閉邪謂之敬，吾君不能謂之賊。」\n孟子曰：「規矩，方員之至也；聖人，人倫之至也。\n欲為君盡君道，欲為臣盡臣道，二者皆法堯舜而已矣。不以舜之所以事堯事君，不敬其君者也；不以堯之所以治民治民，賊其民者也。\n孔子曰：『道二：仁與不仁而已矣。』\n暴其民甚，則身弒國亡；不甚，則身危國削。名之曰『幽厲』，雖孝子慈孫，百世不能改也。\n詩云『殷鑒不遠，在夏后之世』，此之謂也。」\n孟子曰：「三代之得天下也以仁，其失天下也以不仁。\n國之所以廢興存亡者亦然。\n天子不仁，不保四海；諸侯不仁，不保社稷；卿大夫不仁，不保宗廟；士庶人不仁，不保四體。\n今惡死亡而樂不仁，是猶惡醉而強酒。」\n孟子曰：「愛人不親反其仁，治人不治反其智，禮人不答反其敬。\n行有不得者，皆反求諸己，其身正而天下歸之。\n詩云：『永言配命，自求多福。』」\n孟子曰：「人有恆言，皆曰『天下國家』。天下之本在國，國之本在家，家之本在身。」\n孟子曰：「為政不難，不得罪於巨室。巨室之所慕，一國慕之；一國之所慕，天下慕之；故沛然德教溢乎四海。」\n孟子曰：「天下有道，小德役大德，小賢役大賢；天下無道，小役大，弱役強。斯二者天也。順天者存，逆天者亡。\n齊景公曰：『既不能令，又不受命，是絕物也。』涕出而女於吳。\n今也小國師大國而恥受命焉，是猶弟子而恥受命於先師也。\n如恥之，莫若師文王。師文王，大國五年，小國七年，必為政於天下矣。\n詩云：『商之孫子，其麗不億。上帝既命，侯于周服。侯服于周，天命靡常。殷士膚敏，祼將于京。』孔子曰：『仁不可為眾也。夫國君好仁，天下無敵。』\n今也欲無敵於天下而不以仁，是猶執熱而不以濯也。詩云：『誰能執熱，逝不以濯？』」\n孟子曰：「不仁者可與言哉？安其危而利其菑，樂其所以亡者。不仁而可與言，則何亡國敗家之有？\n有孺子歌曰：『滄浪之水清兮，可以濯我纓；滄浪之水濁兮，可以濯我足。』\n孔子曰：『小子聽之！清斯濯纓，濁斯濯足矣，自取之也。』\n夫人必自侮，然後人侮之；家必自毀，而後人毀之；國必自伐，而後人伐之。\n太甲曰：『天作孽，猶可違；自作孽，不可活。』此之謂也。」\n孟子曰：「桀紂之失天下也，失其民也；失其民者，失其心也。得天下有道：得其民，斯得天下矣；得其民有道：得其心，斯得民矣；得其心有道：所欲與之聚之，所惡勿施爾也。\n民之歸仁也，猶水之就下、獸之走壙也。\n故為淵敺魚者，獺也；為叢敺爵者，鸇也；為湯武敺民者，桀與紂也。\n今天下之君有好仁者，則諸侯皆為之敺矣。雖欲無王，不可得已。\n今之欲王者，猶七年之病求三年之艾也。苟為不畜，終身不得。苟不志於仁，終身憂辱，以陷於死亡。\n詩云『其何能淑，載胥及溺』，此之謂也。」\n孟子曰：「自暴者，不可與有言也；自棄者，不可與有為也。言非禮義，謂之自暴也；吾身不能居仁由義，謂之自棄也。\n仁，人之安宅也；義，人之正路也。\n曠安宅而弗居，舍正路而不由，哀哉！」\n孟子曰：「道在爾而求諸遠，事在易而求之難。人人親其親、長其長而天下平。」\n孟子曰：「居下位而不獲於上，民不可得而治也。獲於上有道：不信於友，弗獲於上矣；信於友有道：事親弗悅，弗信於友矣；悅親有道：反身不誠，不悅於親矣；誠身有道：不明乎善，不誠其身矣。\n是故誠者，天之道也；思誠者，人之道也。\n至誠而不動者，未之有也；不誠，未有能動者也。」\n孟子曰：「伯夷辟紂，居北海之濱，聞文王作，興曰：『盍歸乎來！吾聞西伯善養老者。』太公辟紂，居東海之濱，聞文王作，興曰：『盍歸乎來！吾聞西伯善養老者。』\n二老者，天下之大老也，而歸之，是天下之父歸之也。天下之父歸之，其子焉往？\n諸侯有行文王之政者，七年之內，必為政於天下矣。」\n孟子曰：「求也為季氏宰，無能改於其德，而賦粟倍他日。孔子曰：『求非我徒也，小子鳴鼓而攻之可也。』\n由此觀之，君不行仁政而富之，皆棄於孔子者也。況於為之強戰？爭地以戰，殺人盈野；爭城以戰，殺人盈城。此所謂率土地而食人肉，罪不容於死。\n故善戰者服上刑，連諸侯者次之，辟草萊、任土地者次之。」\n孟子曰：「存乎人者，莫良於眸子。眸子不能掩其惡。胸中正，則眸子瞭焉；胸中不正，則眸子眊焉。\n聽其言也，觀其眸子，人焉廋哉？」\n孟子曰：「恭者不侮人，儉者不奪人。侮奪人之君，惟恐不順焉，惡得為恭儉？恭儉豈可以聲音笑貌為哉？」\n淳于髡曰：「男女授受不親，禮與？」孟子曰：「禮也。」曰：「嫂溺則援之以手乎？」曰：「嫂溺不援，是豺狼也。男女授受不親，禮也；嫂溺援之以手者，權也。」\n曰：「今天下溺矣，夫子之不援，何也？」\n曰：「天下溺，援之以道；嫂溺，援之以手。子欲手援天下乎？」\n公孫丑曰：「君子之不教子，何也？」\n孟子曰：「勢不行也。教者必以正；以正不行，繼之以怒；繼之以怒，則反夷矣。『夫子教我以正，夫子未出於正也。』則是父子相夷也。父子相夷，則惡矣。\n古者易子而教之。\n父子之間不責善。責善則離，離則不祥莫大焉。」\n孟子曰：「事孰為大？事親為大；守孰為大？守身為大。不失其身而能事其親者，吾聞之矣；失其身而能事其親者，吾未之聞也。\n孰不為事？事親，事之本也；孰不為守？守身，守之本也。\n曾子養曾皙，必有酒肉。將徹，必請所與。問有餘，必曰『有』。曾皙死，曾元養曾子，必有酒肉。將徹，不請所與。問有餘，曰『亡矣』。將以復進也。此所謂養口體者也。若曾子，則可謂養志也。\n事親若曾子者，可也。」\n孟子曰：「人不足與適也，政不足間也。惟大人為能格君心之非。君仁莫不仁，君義莫不義，君正莫不正。一正君而國定矣。」\n孟子曰：「有不虞之譽，有求全之毀。」\n孟子曰：「人之易其言也，無責耳矣。」\n孟子曰：「人之患在好為人師。」\n樂正子從於子敖之齊。\n樂正子見孟子。孟子曰：「子亦來見我乎？」曰：「先生何為出此言也？」曰：「子來幾日矣？」曰：「昔昔。」曰：「昔昔，則我出此言也，不亦宜乎？」曰：「舍館未定。」曰：「子聞之也，舍館定，然後求見長者乎？」\n曰：「克有罪。」\n孟子謂樂正子曰：「子之從於子敖來，徒餔啜也。我不意子學古之道，而以餔啜也。」\n孟子曰：「不孝有三，無後為大。\n舜不告而娶，為無後也，君子以為猶告也。」\n孟子曰：「仁之實，事親是也；義之實，從兄是也。\n智之實，知斯二者弗去是也；禮之實，節文斯二者是也；樂之實，樂斯二者，樂則生矣；生則惡可已也，惡可已，則不知足之蹈之、手之舞之。」\n孟子曰：「天下大悅而將歸己。視天下悅而歸己，猶草芥也。惟舜為然。不得乎親，不可以為人；不順乎親，不可以為子。\n舜盡事親之道而瞽瞍厎豫，瞽瞍厎豫而天下化，瞽瞍厎豫而天下之為父子者定，此之謂大孝。」",
+    "title": "離婁章句上"
+  },
+  "chapter_path": "books/mengzi/chapters/chapter-007.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 孟子集注",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/meng-zi-ji-zhu?if=en"
+}

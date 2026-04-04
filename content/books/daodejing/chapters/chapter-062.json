@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 80,
+    "id": "chapter-062",
+    "order": 62,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 80,
+        "id": "chapter-062-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "道者萬物之奧。善人之寶，不善人之所保。美言可以市，尊行可以加人。人之不善，何棄之有？故立天子，置三公，雖有拱璧以先駟馬，不如坐進此道。古之所以貴此道者何？不曰：以求得，有罪以免耶？故為天下貴。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tao has of all things the most honoured place. No treasures give good men so rich a grace; Bad men it guards, and doth their ill efface. (Its) admirable words can purchase honour; (its) admirable deeds can raise their performer above others. Even men who are not good are not abandoned by it. Therefore when the sovereign occupies his place as the Son of Heaven, and he has appointed his three ducal ministers, though (a prince) were to send in a round symbol-of-rank large enough to fill both the hands, and that as the precursor of the team of horses (in the court-yard), such an offering would not be equal to (a lesson of) this Tao, which one might present on his knees. Why was it that the ancients prized this Tao so much? Was it not because it could be got by seeking for it, and the guilty could escape (from the stain of their guilt) by it? This is the reason why all under heaven consider it the most valuable thing."
+          }
+        }
+      }
+    ],
+    "summary": "道者萬物之奧",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "道者萬物之奧。善人之寶，不善人之所保。美言可以市，尊行可以加人。人之不善，何棄之有？故立天子，置三公，雖有拱璧以先駟馬，不如坐進此道。古之所以貴此道者何？不曰：以求得，有罪以免耶？故為天下貴。",
+    "title": "第62章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-062.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

@@ -1,0 +1,86 @@
+{
+  "chapter": {
+    "character_count": 111,
+    "id": "chapter-014",
+    "order": 14,
+    "reading_unit_count": 5,
+    "reading_units": [
+      {
+        "character_count": 12,
+        "id": "chapter-014-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "君子素其位而行，不願乎其外。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The superior man does what is proper to the station in which he is; he does not desire to go beyond this."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-014-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "素富貴，行乎富貴；素貧賤，行乎貧賤；素夷狄，行乎夷狄；素患難，行乎患難；君子無入而不自得焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In a position of wealth and honor, he does what is proper to a position of wealth and honor."
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-014-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "在上位不陵下，在下位不援上，正己而不求於人則無怨。上不怨天，下不尤人。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In a poor and low position, he does what is proper to a poor and low position."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-014-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "故君子居易以俟命，小人行險以徼幸。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Situated among barbarous tribes, he does what is proper to a situation among barbarous tribes. In a position of sorrow and difficulty, he does what is proper to a position of sorrow and difficulty. The superior man can find himself in no situation in which he is not himself. In a high situation, he does not treat with contempt his inferiors. In a low situation, he does not court the favor of his superiors. He rectifies himself, and seeks for nothing from others, so that he has no dissatisfactions. He does not murmur against Heaven, nor grumble against men. Thus it is that the superior man is quiet and calm, waiting for the appointments of Heaven, while the mean man walks in dangerous paths, looking for lucky occurrences."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-014-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "子曰：「射有似乎君子；失諸正鵠，反求諸其身。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"In archery we have something like the way of the superior man."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "君子素其位而行，不願乎其外。\n素富貴，行乎富貴；素貧賤，行乎貧賤；素夷狄，行乎夷狄；素患難，行乎患難；君子無入而不自得焉。\n在上位不陵下，在下位不援上，正己而不求於人則無怨。上不怨天，下不尤人。\n故君子居易以俟命，小人行險以徼幸。\n子曰：「射有似乎君子；失諸正鵠，反求諸其身。」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-014.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

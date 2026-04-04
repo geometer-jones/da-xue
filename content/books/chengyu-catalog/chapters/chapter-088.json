@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-088",
+    "order": 88,
+    "summary": "苟全性命",
+    "text": "苟全性命\n行将就木\n九江八河\n作古正经\n任重道悠\n根深本固\n深情底理\n百感交集\n作善降祥\n行思坐筹\n惜指失掌\n水长船高\n临水登山\n因小失大\n至圣至明\n身做身当\n矜功伐能\n物极必反\n一往直前\n感遇忘身\n生寄死归\n当世才度\n百计千方\n怅然若失\n出头露面\n退步抽身\n后悔莫及\n安民告示\n面如灰土\n没法奈何",
+    "title": "2611-2640",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "苟全性命",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just be content, for the time being"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "行将就木",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to approach one's coffin (idiom); with one foot in the grave"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "九江八河",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to all rivers"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "作古正经",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still speaking seriously"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "任重道悠",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor for heavy responsibility and long-term struggle."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "根深本固",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to a deep and solid foundation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "深情底理",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The inner truth and root cause of the matter"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "百感交集",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "all sorts of feelings well up in one's heart"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "作善降祥",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It used to mean that if you do good deeds on weekdays, you will get good luck."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "行思坐筹",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To describe thinking or remembering all the time"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "惜指失掌",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Be stingy"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "水长船高",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor that things improve with the improvement of the foundation on which they are based."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "临水登山",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "come, approach"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "因小失大",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to save a little only to lose a lot (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "至圣至明",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "extreme"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "身做身当",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to one's own responsibility for doing things"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "矜功伐能",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Pretentious, boastful"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "物极必反",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "when things reach an extreme, they can only move in the opposite direction (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "一往直前",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 一往無前|一往无前[yi1 wang3 wu2 qian2]"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "感遇忘身",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "grateful for the favor"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "生寄死归",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "stay temporarily"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "当世才度",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "contemporary, contemporary"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "百计千方",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to exhaust every means to achieve sth (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "怅然若失",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Disappointment describes dissatisfaction and unpleasantness"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "出头露面",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to appearing in public"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "退步抽身",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to resigning from an official position and retreating to home"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "后悔莫及",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "too late for regrets (idiom); It is useless to repent after the event."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "安民告示",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a notice to reassure the public"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "面如灰土",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "ashen-faced (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-088-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "没法奈何",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means there is no way, nothing can be done"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-088.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

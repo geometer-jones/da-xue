@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 64,
+    "id": "chapter-049",
+    "order": 49,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 64,
+        "id": "chapter-049-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "聖人無常心，以百姓心為心。善者，吾善之；不善者，吾亦善之；德善。信者，吾信之；不信者，吾亦信之；德信。聖人在天下，歙歙為天下渾其心，百姓皆注其耳目，聖人皆孩之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The sage has no invariable mind of his own; he makes the mind of the people his mind. To those who are good (to me), I am good; and to those who are not good (to me), I am also good;--and thus (all) get to be good. To those who are sincere (with me), I am sincere; and to those who are not sincere (with me), I am also sincere;--and thus (all) get to be sincere. The sage has in the world an appearance of indecision, and keeps his mind in a state of indifference to all. The people all keep their eyes and ears directed to him, and he deals with them all as his children."
+          }
+        }
+      }
+    ],
+    "summary": "聖人無常心，以百姓心為心",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "聖人無常心，以百姓心為心。善者，吾善之；不善者，吾亦善之；德善。信者，吾信之；不信者，吾亦信之；德信。聖人在天下，歙歙為天下渾其心，百姓皆注其耳目，聖人皆孩之。",
+    "title": "第49章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-049.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

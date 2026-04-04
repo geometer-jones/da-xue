@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 97,
+    "id": "chapter-015",
+    "order": 15,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 97,
+        "id": "chapter-015-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "古 之 善 為 士 者 ， 微妙 玄 通 ， 深 不可 識 。 夫 唯 不可 識 ， 故 強 為 之 容 。 豫 焉 若 冬 涉 川 ，猶 兮 若 畏 四鄰 ，儼 兮 其 若 容 ， 渙 兮 若 冰 之 將 釋 ， 敦 兮 其 若 樸 ， 曠 兮 其 若 谷 ， 混 兮 其 若 濁 。孰 能 濁 以 靜 之 徐 清 ？ 孰 能 安 以 久 動 之 徐 生 ？保 此道 者 不 欲 盈 ，夫 唯 不盈 ， 故 能 蔽 不 新 成 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The skilful masters (of the Dao) in old times, with a subtle and exquisite penetration, comprehended its mysteries, and were deep (also) so as to elude men's knowledge. As they were thus beyond men's knowledge, I will make an effort to describe of what sort they appeared to be. Shrinking looked they like those who wade through a stream in winter; irresolute like those who are afraid of all around them; grave like a guest (in awe of his host); evanescent like ice that is melting away; unpretentious like wood that has not been fashioned into anything; vacant like a valley, and dull like muddy water. Who can (make) the muddy water (clear)? Let it be still, and it will gradually become clear. Who can secure the condition of rest? Let movement go on, and the condition of rest will gradually arise. They who preserve this method of the Dao do not wish to be full (of themselves). It is through their not being full of themselves that they can afford to seem worn and not appear new and complete."
+          }
+        }
+      }
+    ],
+    "summary": "古之善為士者，微妙玄通，深不可識",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "古之善為士者，微妙玄通，深不可識。夫唯不可識，故強為之容。豫兮若冬涉川；猶兮若畏四鄰；儼兮其若容；渙兮若冰之將釋；敦兮其若樸；曠兮其若谷；混兮其若濁；孰能濁以靜之徐清？孰能安以久動之徐生？保此道者，不欲盈。夫唯不盈，故能蔽不新成。",
+    "title": "第15章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-015.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

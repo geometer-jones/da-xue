@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-008",
+    "order": 8,
+    "summary": "心平气和",
+    "text": "心平气和\n心旷神怡\n喜出望外\n满载而归\n如释重负\n意气风发\n从容不迫\n泰然自若\n胸有成竹\n一举两得\n名副其实\n实至名归\n有口皆碑\n脍炙人口\n一目了然\n一针见血\n言简意赅\n画龙点睛\n引人入胜\n出类拔萃\n名列前茅\n后来居上\n蒸蒸日上\n日新月异\n卓有成效\n当之无愧\n有目共睹\n熟视无睹\n文质彬彬\n落落大方",
+    "title": "211-240",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "心平气和",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "tranquil and even-tempered; calmly and without stress"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "心旷神怡",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "heart untroubled, spirit pleased; carefree and relaxed"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "喜出望外",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "overjoyed beyond expectations"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "满载而归",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to return from a rewarding journey"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "如释重负",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "as if relieved from a heavy burden; to have a weight off one's mind"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "意气风发",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "full of spirit"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "从容不迫",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "calm; unruffled"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "泰然自若",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "calm and composed"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "胸有成竹",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to imaging a complete of bamboo [before drawing it]; to plan in advance; a card up one's sleeve; forewarned is forearmed"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "一举两得",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "one move, two gains; two birds with one stone"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "名副其实",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the name corresponds with reality; not just in name only, but also in reality"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "实至名归",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "fame follows merit"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "有口皆碑",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "every voice gives praise; with an extensive public reputation"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "脍炙人口",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "meat for everybody to eat; universally liked"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "一目了然",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "obvious at a glance"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "一针见血",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "hit the nail on the head"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "言简意赅",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "concise and comprehensive"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "画龙点睛",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to paint a dragon and dot in the eyes"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "引人入胜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to enchant; fascinating"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "出类拔萃",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to excel the common; surpassing; preeminent; outstanding"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "名列前茅",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to rank among the best"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "后来居上",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "late-comer lives above; the up-and-coming youngster outstrips the older generation"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "蒸蒸日上",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "becoming more prosperous with each passing day"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "日新月异",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "daily renewal, monthly change; every day sees new developments; rapid progress"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "卓有成效",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "highly effective; fruitful"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "当之无愧",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "no shame accepting praise; to be worthy of"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "有目共睹",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "anyone with eyes can see it; obvious to all"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "熟视无睹",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to neglect a familiar sight"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "文质彬彬",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "culturally refined; gentle"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-008-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "落落大方",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(of one's conduct, speech etc) natural and unrestrained"
+          }
+        },
+        "category": "品格与表达"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-008.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

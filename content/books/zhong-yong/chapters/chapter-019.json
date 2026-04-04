@@ -1,0 +1,99 @@
+{
+  "chapter": {
+    "character_count": 156,
+    "id": "chapter-019",
+    "order": 19,
+    "reading_unit_count": 6,
+    "reading_units": [
+      {
+        "character_count": 11,
+        "id": "chapter-019-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「武王、周公，其達孝矣乎！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"How far-extending was the filial piety of King Wu and the duke of Zhou!"
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-019-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "夫孝者：善繼人之志，善述人之事者也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now filial piety is seen in the skillful carrying out of the wishes of our forefathers, and the skillful carrying forward of their undertakings."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-019-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "春秋脩其祖廟，陳其宗器，設其裳衣，薦其時食。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In spring and autumn, they repaired and beautified the temple halls of their fathers, set forth their ancestral vessels, displayed their various robes, and presented the offerings of the several seasons."
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-019-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "宗廟之禮，所以序昭穆也；序爵，所以辨貴賤也；序事，所以辨賢也；旅酬下為上，所以逮賤也；燕毛，所以序齒也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "By means of the ceremonies of the ancestral temple, they distinguished the royal kindred according to their order of descent."
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-019-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "踐其位，行其禮，奏其樂，敬其所尊，愛其所親，事死如事生，事亡如事存，孝之至也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "By ordering the parties present according to their rank, they distinguished the more noble and the less."
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-019-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "郊社之禮，所以事上帝也，宗廟之禮，所以祀乎其先也。明乎郊社之禮、禘嘗之義，治國其如示諸掌乎。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "By the arrangement of the services, they made a distinction of talents and worth. In the ceremony of general pledging, the inferiors presented the cup to their superiors, and thus something was given the lowest to do. At the concluding feast, places were given according to the hair, and thus was made the distinction of years. They occupied the places of their forefathers, practiced their ceremonies, and performed their music. They reverenced those whom they honored, and loved those whom they regarded with affection. Thus they served the dead as they would have served them alive; they served the departed as they would have served them had they been continued among them - the height of filial piety. By the ceremonies of the sacrifices to Heaven and Earth they served God, and by the ceremonies of the ancestral temple they sacrificed to their ancestors. He who understands the ceremonies of the sacrifices to Heaven and Earth, and the meaning of the several sacrifices to ancestors, would find the government of a kingdom as easy as to look into his palm!\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「武王、周公，其達孝矣乎！\n夫孝者：善繼人之志，善述人之事者也。\n春秋脩其祖廟，陳其宗器，設其裳衣，薦其時食。\n宗廟之禮，所以序昭穆也；序爵，所以辨貴賤也；序事，所以辨賢也；旅酬下為上，所以逮賤也；燕毛，所以序齒也。\n踐其位，行其禮，奏其樂，敬其所尊，愛其所親，事死如事生，事亡如事存，孝之至也。\n郊社之禮，所以事上帝也，宗廟之禮，所以祀乎其先也。明乎郊社之禮、禘嘗之義，治國其如示諸掌乎。」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-019.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

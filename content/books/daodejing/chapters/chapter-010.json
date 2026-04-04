@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 69,
+    "id": "chapter-010",
+    "order": 10,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 69,
+        "id": "chapter-010-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "載 營 魄 抱 一 ， 能 無 離 乎 ？專 氣 致 柔 ， 能 嬰兒 乎 ？滌除 玄 覽 ， 能 無 疵 乎 ？愛國 治 民 ， 能 無知 乎 ？天門 開闔 ， 能 為 雌 乎 ？明白 四 達 ， 能 無為 乎 ？生 之 ，畜 之 。生 而 不 有 ， 為 而 不 恃 ， 長 而 不 宰 ， 是 謂 玄 德 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the intelligent and animal souls are held together in one embrace, they can be kept from separating. When one gives undivided attention to the (vital) breath, and brings it to the utmost degree of pliancy, he can become as a (tender) babe. When he has cleansed away the most mysterious sights (of his imagination), he can become without a flaw. In loving the people and ruling the state, cannot he proceed without any (purpose of) action? In the opening and shutting of his gates of heaven, cannot he do so as a female bird? While his intelligence reaches in every direction, cannot he (appear to) be without knowledge? (The Dao) produces (all things) and nourishes them; it produces them and does not claim them as its own; it does all, and yet does not boast of it; it presides over all, and yet does not control them. This is what is called 'The mysterious Quality' (of the Dao)."
+          }
+        }
+      }
+    ],
+    "summary": "載營魄抱一，能無離乎？專氣致柔，能嬰兒乎？滌除玄覽，能無疵乎？愛民治國，能無知乎？天門開闔，能為雌乎？明白四達，能無知乎？生之、畜之，生而不有，為而不恃，長而不宰，是謂玄德",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "載營魄抱一，能無離乎？專氣致柔，能嬰兒乎？滌除玄覽，能無疵乎？愛民治國，能無知乎？天門開闔，能為雌乎？明白四達，能無知乎？生之、畜之，生而不有，為而不恃，長而不宰，是謂玄德。",
+    "title": "第10章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-010.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

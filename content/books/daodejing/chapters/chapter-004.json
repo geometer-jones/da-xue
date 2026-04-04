@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 42,
+    "id": "chapter-004",
+    "order": 4,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 42,
+        "id": "chapter-004-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "道 沖 而 用 之 或 不盈 ， 淵 兮 似 萬物 之 宗 ； 挫 其 銳 ， 解 其 紛 ， 和 其 光 ， 同 其 塵 ， 湛 兮 似 或 存 。 吾 不知 誰 之子 ， 象 帝 之 先 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Dao is (like) the emptiness of a vessel; and in our employment of it we must be on our guard against all fulness. How deep and unfathomable it is, as if it were the Honoured Ancestor of all things! We should blunt our sharp points, and unravel the complications of things; we should attemper our brightness, and bring ourselves into agreement with the obscurity of others. How pure and still the Dao is, as if it would ever so continue! I do not know whose son it is. It might appear to have been before God."
+          }
+        }
+      }
+    ],
+    "summary": "道沖而用之或不盈",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "道沖而用之或不盈。淵兮似萬物之宗。挫其銳，解其紛，和其光，同其塵。湛兮似或存。吾不知誰之子，象帝之先。",
+    "title": "第4章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-004.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

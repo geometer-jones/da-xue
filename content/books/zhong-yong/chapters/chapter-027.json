@@ -1,0 +1,112 @@
+{
+  "chapter": {
+    "character_count": 121,
+    "id": "chapter-027",
+    "order": 27,
+    "reading_unit_count": 7,
+    "reading_units": [
+      {
+        "character_count": 6,
+        "id": "chapter-027-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "大哉聖人之道！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "How great is the path proper to the Sage!"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-027-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "洋洋乎！發育萬物，峻極于天。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like overflowing water, it sends forth and nourishes all things, and rises up to the height of heaven."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-027-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "優優大哉！禮儀三百，威儀三千。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All-complete is its greatness!"
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-027-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "待其人而後行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It embraces the three hundred rules of ceremony, and the three thousand rules of demeanor."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-027-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "故曰苟不至德，至道不凝焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It waits for the proper man, and then it is trodden."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-027-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "故君子尊德性而道問學，致廣大而盡精微，極高明而道中庸。溫故而知新，敦厚以崇禮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hence it is said, \"Only by perfect virtue can the perfect path, in all its courses, be made a fact.\" Therefore, the superior man honors his virtuous nature, and maintains constant inquiry and study, seeking to carry it out to its breadth and greatness, so as to omit none of the more exquisite and minute points which it embraces, and to raise it to its greatest height and brilliancy, so as to pursue the course of the Mean."
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-027-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "是故居上不驕，為下不倍，國有道其言足以興，國無道其默足以容。詩曰「既明且哲，以保其身」，其此之謂與！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He cherishes his old knowledge, and is continually acquiring new. He exerts an honest, generous earnestness, in the esteem and practice of all propriety. Thus, when occupying a high situation he is not proud, and in a low situation he is not insubordinate. When the kingdom is well governed, he is sure by his words to rise; and when it is ill governed, he is sure by his silence to command forbearance to himself. Is not this what we find in the Book of Poetry,-\"Intelligent is he and prudent, and so preserves his person?\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "大哉聖人之道！\n洋洋乎！發育萬物，峻極于天。\n優優大哉！禮儀三百，威儀三千。\n待其人而後行。\n故曰苟不至德，至道不凝焉。\n故君子尊德性而道問學，致廣大而盡精微，極高明而道中庸。溫故而知新，敦厚以崇禮。\n是故居上不驕，為下不倍，國有道其言足以興，國無道其默足以容。詩曰「既明且哲，以保其身」，其此之謂與！",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-027.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

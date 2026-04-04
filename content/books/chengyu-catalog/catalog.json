@@ -1,0 +1,1014 @@
+{
+  "cache_dir": "books/chengyu-catalog",
+  "catalog_path": "books/chengyu-catalog/catalog.json",
+  "chapter_count": 100,
+  "chapters": [
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-001.json",
+      "character_count": 120,
+      "id": "chapter-001",
+      "order": 1,
+      "reading_unit_count": 30,
+      "summary": "持之以恒",
+      "supplemental_unit_count": 0,
+      "title": "1-30"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-002.json",
+      "character_count": 120,
+      "id": "chapter-002",
+      "order": 2,
+      "reading_unit_count": 30,
+      "summary": "博学多才",
+      "supplemental_unit_count": 0,
+      "title": "31-60"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-003.json",
+      "character_count": 120,
+      "id": "chapter-003",
+      "order": 3,
+      "reading_unit_count": 30,
+      "summary": "随机应变",
+      "supplemental_unit_count": 0,
+      "title": "61-90"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-004.json",
+      "character_count": 120,
+      "id": "chapter-004",
+      "order": 4,
+      "reading_unit_count": 30,
+      "summary": "居高临下",
+      "supplemental_unit_count": 0,
+      "title": "91-120"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-005.json",
+      "character_count": 120,
+      "id": "chapter-005",
+      "order": 5,
+      "reading_unit_count": 30,
+      "summary": "游刃有余",
+      "supplemental_unit_count": 0,
+      "title": "121-150"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-006.json",
+      "character_count": 120,
+      "id": "chapter-006",
+      "order": 6,
+      "reading_unit_count": 30,
+      "summary": "同舟共济",
+      "supplemental_unit_count": 0,
+      "title": "151-180"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-007.json",
+      "character_count": 120,
+      "id": "chapter-007",
+      "order": 7,
+      "reading_unit_count": 30,
+      "summary": "不卑不亢",
+      "supplemental_unit_count": 0,
+      "title": "181-210"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-008.json",
+      "character_count": 120,
+      "id": "chapter-008",
+      "order": 8,
+      "reading_unit_count": 30,
+      "summary": "心平气和",
+      "supplemental_unit_count": 0,
+      "title": "211-240"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-009.json",
+      "character_count": 120,
+      "id": "chapter-009",
+      "order": 9,
+      "reading_unit_count": 30,
+      "summary": "神采奕奕",
+      "supplemental_unit_count": 0,
+      "title": "241-270"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-010.json",
+      "character_count": 120,
+      "id": "chapter-010",
+      "order": 10,
+      "reading_unit_count": 30,
+      "summary": "四面楚歌",
+      "supplemental_unit_count": 0,
+      "title": "271-300"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-011.json",
+      "character_count": 120,
+      "id": "chapter-011",
+      "order": 11,
+      "reading_unit_count": 30,
+      "summary": "一无所有",
+      "supplemental_unit_count": 0,
+      "title": "301-330"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-012.json",
+      "character_count": 120,
+      "id": "chapter-012",
+      "order": 12,
+      "reading_unit_count": 30,
+      "summary": "无所不至",
+      "supplemental_unit_count": 0,
+      "title": "331-360"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-013.json",
+      "character_count": 120,
+      "id": "chapter-013",
+      "order": 13,
+      "reading_unit_count": 30,
+      "summary": "不可言传",
+      "supplemental_unit_count": 0,
+      "title": "361-390"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-014.json",
+      "character_count": 120,
+      "id": "chapter-014",
+      "order": 14,
+      "reading_unit_count": 30,
+      "summary": "无所不有",
+      "supplemental_unit_count": 0,
+      "title": "391-420"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-015.json",
+      "character_count": 120,
+      "id": "chapter-015",
+      "order": 15,
+      "reading_unit_count": 30,
+      "summary": "无所不为",
+      "supplemental_unit_count": 0,
+      "title": "421-450"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-016.json",
+      "character_count": 120,
+      "id": "chapter-016",
+      "order": 16,
+      "reading_unit_count": 30,
+      "summary": "别有天地",
+      "supplemental_unit_count": 0,
+      "title": "451-480"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-017.json",
+      "character_count": 120,
+      "id": "chapter-017",
+      "order": 17,
+      "reading_unit_count": 30,
+      "summary": "三心二意",
+      "supplemental_unit_count": 0,
+      "title": "481-510"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-018.json",
+      "character_count": 120,
+      "id": "chapter-018",
+      "order": 18,
+      "reading_unit_count": 30,
+      "summary": "正人君子",
+      "supplemental_unit_count": 0,
+      "title": "511-540"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-019.json",
+      "character_count": 120,
+      "id": "chapter-019",
+      "order": 19,
+      "reading_unit_count": 30,
+      "summary": "持之有故",
+      "supplemental_unit_count": 0,
+      "title": "541-570"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-020.json",
+      "character_count": 120,
+      "id": "chapter-020",
+      "order": 20,
+      "reading_unit_count": 30,
+      "summary": "金玉之言",
+      "supplemental_unit_count": 0,
+      "title": "571-600"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-021.json",
+      "character_count": 120,
+      "id": "chapter-021",
+      "order": 21,
+      "reading_unit_count": 30,
+      "summary": "妙不可言",
+      "supplemental_unit_count": 0,
+      "title": "601-630"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-022.json",
+      "character_count": 120,
+      "id": "chapter-022",
+      "order": 22,
+      "reading_unit_count": 30,
+      "summary": "金石之言",
+      "supplemental_unit_count": 0,
+      "title": "631-660"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-023.json",
+      "character_count": 120,
+      "id": "chapter-023",
+      "order": 23,
+      "reading_unit_count": 30,
+      "summary": "一笑了事",
+      "supplemental_unit_count": 0,
+      "title": "661-690"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-024.json",
+      "character_count": 120,
+      "id": "chapter-024",
+      "order": 24,
+      "reading_unit_count": 30,
+      "summary": "不谋而同",
+      "supplemental_unit_count": 0,
+      "title": "691-720"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-025.json",
+      "character_count": 120,
+      "id": "chapter-025",
+      "order": 25,
+      "reading_unit_count": 30,
+      "summary": "过门不入",
+      "supplemental_unit_count": 0,
+      "title": "721-750"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-026.json",
+      "character_count": 120,
+      "id": "chapter-026",
+      "order": 26,
+      "reading_unit_count": 30,
+      "summary": "以文乱法",
+      "supplemental_unit_count": 0,
+      "title": "751-780"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-027.json",
+      "character_count": 120,
+      "id": "chapter-027",
+      "order": 27,
+      "reading_unit_count": 30,
+      "summary": "时不可失",
+      "supplemental_unit_count": 0,
+      "title": "781-810"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-028.json",
+      "character_count": 120,
+      "id": "chapter-028",
+      "order": 28,
+      "reading_unit_count": 30,
+      "summary": "后手不接",
+      "supplemental_unit_count": 0,
+      "title": "811-840"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-029.json",
+      "character_count": 120,
+      "id": "chapter-029",
+      "order": 29,
+      "reading_unit_count": 30,
+      "summary": "小往大来",
+      "supplemental_unit_count": 0,
+      "title": "841-870"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-030.json",
+      "character_count": 120,
+      "id": "chapter-030",
+      "order": 30,
+      "reading_unit_count": 30,
+      "summary": "一之已甚",
+      "supplemental_unit_count": 0,
+      "title": "871-900"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-031.json",
+      "character_count": 120,
+      "id": "chapter-031",
+      "order": 31,
+      "reading_unit_count": 30,
+      "summary": "一往而深",
+      "supplemental_unit_count": 0,
+      "title": "901-930"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-032.json",
+      "character_count": 120,
+      "id": "chapter-032",
+      "order": 32,
+      "reading_unit_count": 30,
+      "summary": "果不其然",
+      "supplemental_unit_count": 0,
+      "title": "931-960"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-033.json",
+      "character_count": 120,
+      "id": "chapter-033",
+      "order": 33,
+      "reading_unit_count": 30,
+      "summary": "万死一生",
+      "supplemental_unit_count": 0,
+      "title": "961-990"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-034.json",
+      "character_count": 120,
+      "id": "chapter-034",
+      "order": 34,
+      "reading_unit_count": 30,
+      "summary": "不虚此行",
+      "supplemental_unit_count": 0,
+      "title": "991-1020"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-035.json",
+      "character_count": 120,
+      "id": "chapter-035",
+      "order": 35,
+      "reading_unit_count": 30,
+      "summary": "安分知足",
+      "supplemental_unit_count": 0,
+      "title": "1021-1050"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-036.json",
+      "character_count": 120,
+      "id": "chapter-036",
+      "order": 36,
+      "reading_unit_count": 30,
+      "summary": "奉公如法",
+      "supplemental_unit_count": 0,
+      "title": "1051-1080"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-037.json",
+      "character_count": 120,
+      "id": "chapter-037",
+      "order": 37,
+      "reading_unit_count": 30,
+      "summary": "拔十得五",
+      "supplemental_unit_count": 0,
+      "title": "1081-1110"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-038.json",
+      "character_count": 120,
+      "id": "chapter-038",
+      "order": 38,
+      "reading_unit_count": 30,
+      "summary": "出乎意料",
+      "supplemental_unit_count": 0,
+      "title": "1111-1140"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-039.json",
+      "character_count": 120,
+      "id": "chapter-039",
+      "order": 39,
+      "reading_unit_count": 30,
+      "summary": "遂心快意",
+      "supplemental_unit_count": 0,
+      "title": "1141-1170"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-040.json",
+      "character_count": 120,
+      "id": "chapter-040",
+      "order": 40,
+      "reading_unit_count": 30,
+      "summary": "三老四少",
+      "supplemental_unit_count": 0,
+      "title": "1171-1200"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-041.json",
+      "character_count": 120,
+      "id": "chapter-041",
+      "order": 41,
+      "reading_unit_count": 30,
+      "summary": "九流百家",
+      "supplemental_unit_count": 0,
+      "title": "1201-1230"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-042.json",
+      "character_count": 120,
+      "id": "chapter-042",
+      "order": 42,
+      "reading_unit_count": 30,
+      "summary": "水宿山行",
+      "supplemental_unit_count": 0,
+      "title": "1231-1260"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-043.json",
+      "character_count": 120,
+      "id": "chapter-043",
+      "order": 43,
+      "reading_unit_count": 30,
+      "summary": "短兵相接",
+      "supplemental_unit_count": 0,
+      "title": "1261-1290"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-044.json",
+      "character_count": 120,
+      "id": "chapter-044",
+      "order": 44,
+      "reading_unit_count": 30,
+      "summary": "急功近名",
+      "supplemental_unit_count": 0,
+      "title": "1291-1320"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-045.json",
+      "character_count": 120,
+      "id": "chapter-045",
+      "order": 45,
+      "reading_unit_count": 30,
+      "summary": "再三再四",
+      "supplemental_unit_count": 0,
+      "title": "1321-1350"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-046.json",
+      "character_count": 120,
+      "id": "chapter-046",
+      "order": 46,
+      "reading_unit_count": 30,
+      "summary": "知地知天",
+      "supplemental_unit_count": 0,
+      "title": "1351-1380"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-047.json",
+      "character_count": 120,
+      "id": "chapter-047",
+      "order": 47,
+      "reading_unit_count": 30,
+      "summary": "朝三暮二",
+      "supplemental_unit_count": 0,
+      "title": "1381-1410"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-048.json",
+      "character_count": 120,
+      "id": "chapter-048",
+      "order": 48,
+      "reading_unit_count": 30,
+      "summary": "何足道哉",
+      "supplemental_unit_count": 0,
+      "title": "1411-1440"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-049.json",
+      "character_count": 120,
+      "id": "chapter-049",
+      "order": 49,
+      "reading_unit_count": 30,
+      "summary": "势在必行",
+      "supplemental_unit_count": 0,
+      "title": "1441-1470"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-050.json",
+      "character_count": 120,
+      "id": "chapter-050",
+      "order": 50,
+      "reading_unit_count": 30,
+      "summary": "引虎入室",
+      "supplemental_unit_count": 0,
+      "title": "1471-1500"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-051.json",
+      "character_count": 120,
+      "id": "chapter-051",
+      "order": 51,
+      "reading_unit_count": 30,
+      "summary": "求忠出孝",
+      "supplemental_unit_count": 0,
+      "title": "1501-1530"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-052.json",
+      "character_count": 120,
+      "id": "chapter-052",
+      "order": 52,
+      "reading_unit_count": 30,
+      "summary": "居官守法",
+      "supplemental_unit_count": 0,
+      "title": "1531-1560"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-053.json",
+      "character_count": 120,
+      "id": "chapter-053",
+      "order": 53,
+      "reading_unit_count": 30,
+      "summary": "女中丈夫",
+      "supplemental_unit_count": 0,
+      "title": "1561-1590"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-054.json",
+      "character_count": 120,
+      "id": "chapter-054",
+      "order": 54,
+      "reading_unit_count": 30,
+      "summary": "困知勉行",
+      "supplemental_unit_count": 0,
+      "title": "1591-1620"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-055.json",
+      "character_count": 120,
+      "id": "chapter-055",
+      "order": 55,
+      "reading_unit_count": 30,
+      "summary": "马如流水",
+      "supplemental_unit_count": 0,
+      "title": "1621-1650"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-056.json",
+      "character_count": 120,
+      "id": "chapter-056",
+      "order": 56,
+      "reading_unit_count": 30,
+      "summary": "面壁功深",
+      "supplemental_unit_count": 0,
+      "title": "1651-1680"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-057.json",
+      "character_count": 120,
+      "id": "chapter-057",
+      "order": 57,
+      "reading_unit_count": 30,
+      "summary": "使心用倖",
+      "supplemental_unit_count": 0,
+      "title": "1681-1710"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-058.json",
+      "character_count": 120,
+      "id": "chapter-058",
+      "order": 58,
+      "reading_unit_count": 30,
+      "summary": "好事多磨",
+      "supplemental_unit_count": 0,
+      "title": "1711-1740"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-059.json",
+      "character_count": 120,
+      "id": "chapter-059",
+      "order": 59,
+      "reading_unit_count": 30,
+      "summary": "所在皆是",
+      "supplemental_unit_count": 0,
+      "title": "1741-1770"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-060.json",
+      "character_count": 120,
+      "id": "chapter-060",
+      "order": 60,
+      "reading_unit_count": 30,
+      "summary": "十死九活",
+      "supplemental_unit_count": 0,
+      "title": "1771-1800"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-061.json",
+      "character_count": 120,
+      "id": "chapter-061",
+      "order": 61,
+      "reading_unit_count": 30,
+      "summary": "口耳相传",
+      "supplemental_unit_count": 0,
+      "title": "1801-1830"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-062.json",
+      "character_count": 120,
+      "id": "chapter-062",
+      "order": 62,
+      "reading_unit_count": 30,
+      "summary": "安如磐石",
+      "supplemental_unit_count": 0,
+      "title": "1831-1860"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-063.json",
+      "character_count": 120,
+      "id": "chapter-063",
+      "order": 63,
+      "reading_unit_count": 30,
+      "summary": "曲意迎合",
+      "supplemental_unit_count": 0,
+      "title": "1861-1890"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-064.json",
+      "character_count": 120,
+      "id": "chapter-064",
+      "order": 64,
+      "reading_unit_count": 30,
+      "summary": "背公向私",
+      "supplemental_unit_count": 0,
+      "title": "1891-1920"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-065.json",
+      "character_count": 120,
+      "id": "chapter-065",
+      "order": 65,
+      "reading_unit_count": 30,
+      "summary": "家徒四壁",
+      "supplemental_unit_count": 0,
+      "title": "1921-1950"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-066.json",
+      "character_count": 120,
+      "id": "chapter-066",
+      "order": 66,
+      "reading_unit_count": 30,
+      "summary": "触目如故",
+      "supplemental_unit_count": 0,
+      "title": "1951-1980"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-067.json",
+      "character_count": 120,
+      "id": "chapter-067",
+      "order": 67,
+      "reading_unit_count": 30,
+      "summary": "用天因地",
+      "supplemental_unit_count": 0,
+      "title": "1981-2010"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-068.json",
+      "character_count": 120,
+      "id": "chapter-068",
+      "order": 68,
+      "reading_unit_count": 30,
+      "summary": "别出新意",
+      "supplemental_unit_count": 0,
+      "title": "2011-2040"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-069.json",
+      "character_count": 120,
+      "id": "chapter-069",
+      "order": 69,
+      "reading_unit_count": 30,
+      "summary": "家道消乏",
+      "supplemental_unit_count": 0,
+      "title": "2041-2070"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-070.json",
+      "character_count": 120,
+      "id": "chapter-070",
+      "order": 70,
+      "reading_unit_count": 30,
+      "summary": "大事去矣",
+      "supplemental_unit_count": 0,
+      "title": "2071-2100"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-071.json",
+      "character_count": 120,
+      "id": "chapter-071",
+      "order": 71,
+      "reading_unit_count": 30,
+      "summary": "青史留名",
+      "supplemental_unit_count": 0,
+      "title": "2101-2130"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-072.json",
+      "character_count": 120,
+      "id": "chapter-072",
+      "order": 72,
+      "reading_unit_count": 30,
+      "summary": "泰山北斗",
+      "supplemental_unit_count": 0,
+      "title": "2131-2160"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-073.json",
+      "character_count": 120,
+      "id": "chapter-073",
+      "order": 73,
+      "reading_unit_count": 30,
+      "summary": "必也正名",
+      "supplemental_unit_count": 0,
+      "title": "2161-2190"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-074.json",
+      "character_count": 120,
+      "id": "chapter-074",
+      "order": 74,
+      "reading_unit_count": 30,
+      "summary": "表里相应",
+      "supplemental_unit_count": 0,
+      "title": "2191-2220"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-075.json",
+      "character_count": 120,
+      "id": "chapter-075",
+      "order": 75,
+      "reading_unit_count": 30,
+      "summary": "操刀必割",
+      "supplemental_unit_count": 0,
+      "title": "2221-2250"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-076.json",
+      "character_count": 120,
+      "id": "chapter-076",
+      "order": 76,
+      "reading_unit_count": 30,
+      "summary": "妨功害能",
+      "supplemental_unit_count": 0,
+      "title": "2251-2280"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-077.json",
+      "character_count": 120,
+      "id": "chapter-077",
+      "order": 77,
+      "reading_unit_count": 30,
+      "summary": "不知就里",
+      "supplemental_unit_count": 0,
+      "title": "2281-2310"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-078.json",
+      "character_count": 120,
+      "id": "chapter-078",
+      "order": 78,
+      "reading_unit_count": 30,
+      "summary": "德言容功",
+      "supplemental_unit_count": 0,
+      "title": "2311-2340"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-079.json",
+      "character_count": 120,
+      "id": "chapter-079",
+      "order": 79,
+      "reading_unit_count": 30,
+      "summary": "执法如山",
+      "supplemental_unit_count": 0,
+      "title": "2341-2370"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-080.json",
+      "character_count": 120,
+      "id": "chapter-080",
+      "order": 80,
+      "reading_unit_count": 30,
+      "summary": "力所能及",
+      "supplemental_unit_count": 0,
+      "title": "2371-2400"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-081.json",
+      "character_count": 120,
+      "id": "chapter-081",
+      "order": 81,
+      "reading_unit_count": 30,
+      "summary": "未能免俗",
+      "supplemental_unit_count": 0,
+      "title": "2401-2430"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-082.json",
+      "character_count": 120,
+      "id": "chapter-082",
+      "order": 82,
+      "reading_unit_count": 30,
+      "summary": "如狼似虎",
+      "supplemental_unit_count": 0,
+      "title": "2431-2460"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-083.json",
+      "character_count": 120,
+      "id": "chapter-083",
+      "order": 83,
+      "reading_unit_count": 30,
+      "summary": "五零四散",
+      "supplemental_unit_count": 0,
+      "title": "2461-2490"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-084.json",
+      "character_count": 120,
+      "id": "chapter-084",
+      "order": 84,
+      "reading_unit_count": 30,
+      "summary": "心驰神往",
+      "supplemental_unit_count": 0,
+      "title": "2491-2520"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-085.json",
+      "character_count": 120,
+      "id": "chapter-085",
+      "order": 85,
+      "reading_unit_count": 30,
+      "summary": "口血未干",
+      "supplemental_unit_count": 0,
+      "title": "2521-2550"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-086.json",
+      "character_count": 120,
+      "id": "chapter-086",
+      "order": 86,
+      "reading_unit_count": 30,
+      "summary": "抱冰公事",
+      "supplemental_unit_count": 0,
+      "title": "2551-2580"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-087.json",
+      "character_count": 120,
+      "id": "chapter-087",
+      "order": 87,
+      "reading_unit_count": 30,
+      "summary": "出人望外",
+      "supplemental_unit_count": 0,
+      "title": "2581-2610"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-088.json",
+      "character_count": 120,
+      "id": "chapter-088",
+      "order": 88,
+      "reading_unit_count": 30,
+      "summary": "苟全性命",
+      "supplemental_unit_count": 0,
+      "title": "2611-2640"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-089.json",
+      "character_count": 120,
+      "id": "chapter-089",
+      "order": 89,
+      "reading_unit_count": 30,
+      "summary": "神安气集",
+      "supplemental_unit_count": 0,
+      "title": "2641-2670"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-090.json",
+      "character_count": 120,
+      "id": "chapter-090",
+      "order": 90,
+      "reading_unit_count": 30,
+      "summary": "德輶如羽",
+      "supplemental_unit_count": 0,
+      "title": "2671-2700"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-091.json",
+      "character_count": 120,
+      "id": "chapter-091",
+      "order": 91,
+      "reading_unit_count": 30,
+      "summary": "河山之德",
+      "supplemental_unit_count": 0,
+      "title": "2701-2730"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-092.json",
+      "character_count": 120,
+      "id": "chapter-092",
+      "order": 92,
+      "reading_unit_count": 30,
+      "summary": "惜墨如金",
+      "supplemental_unit_count": 0,
+      "title": "2731-2760"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-093.json",
+      "character_count": 120,
+      "id": "chapter-093",
+      "order": 93,
+      "reading_unit_count": 30,
+      "summary": "赤诚相待",
+      "supplemental_unit_count": 0,
+      "title": "2761-2790"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-094.json",
+      "character_count": 120,
+      "id": "chapter-094",
+      "order": 94,
+      "reading_unit_count": 30,
+      "summary": "手急眼快",
+      "supplemental_unit_count": 0,
+      "title": "2791-2820"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-095.json",
+      "character_count": 120,
+      "id": "chapter-095",
+      "order": 95,
+      "reading_unit_count": 30,
+      "summary": "方面大耳",
+      "supplemental_unit_count": 0,
+      "title": "2821-2850"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-096.json",
+      "character_count": 120,
+      "id": "chapter-096",
+      "order": 96,
+      "reading_unit_count": 30,
+      "summary": "旗鼓相当",
+      "supplemental_unit_count": 0,
+      "title": "2851-2880"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-097.json",
+      "character_count": 120,
+      "id": "chapter-097",
+      "order": 97,
+      "reading_unit_count": 30,
+      "summary": "各行其志",
+      "supplemental_unit_count": 0,
+      "title": "2881-2910"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-098.json",
+      "character_count": 120,
+      "id": "chapter-098",
+      "order": 98,
+      "reading_unit_count": 30,
+      "summary": "巴前算后",
+      "supplemental_unit_count": 0,
+      "title": "2911-2940"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-099.json",
+      "character_count": 120,
+      "id": "chapter-099",
+      "order": 99,
+      "reading_unit_count": 30,
+      "summary": "反攻倒算",
+      "supplemental_unit_count": 0,
+      "title": "2941-2970"
+    },
+    {
+      "chapter_path": "books/chengyu-catalog/chapters/chapter-100.json",
+      "character_count": 120,
+      "id": "chapter-100",
+      "order": 100,
+      "reading_unit_count": 30,
+      "summary": "首身分离",
+      "supplemental_unit_count": 0,
+      "title": "2971-3000"
+    }
+  ],
+  "commentary_chapter_count": 0,
+  "commentary_chapters": [],
+  "pedagogy_note": "The first 1,000 chengyu preserve the existing pedagogy-ordered sequence. The catalog then extends to 3,000 total four-character chengyu using a curriculum-aware pedagogical ranking and fixed-size lists of 30.",
+  "provenance_note": "Derived from the MIT-licensed pwxcoo/chinese-xinhua idiom list and reordered for pedagogy-first study in this bundled curriculum.",
+  "selection_note": "Front chapters prioritize transparent, high-utility, and culturally central idioms from the curated pedagogy-first list. Chapters 35-100 preserve that prefix, then rank remaining upstream candidates by learner-facing value: character familiarity in the current curriculum, overlap with already-bundled chengyu, explanation brevity, and penalties for source-heavy or opaque entries, with light diversity filters to avoid redundant variants.",
+  "source_url": "bundled://chengyu-catalog",
+  "title": "成語目錄"
+}

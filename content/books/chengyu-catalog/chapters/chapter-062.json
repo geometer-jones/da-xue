@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-062",
+    "order": 62,
+    "summary": "安如磐石",
+    "text": "安如磐石\n路人皆知\n失道寡助\n十二金牌\n草草收兵\n平原易野\n化民成俗\n仁心仁闻\n引古喻今\n危急存亡\n行思坐想\n法家拂士\n三等九般\n事出无奈\n前目后凡\n山南海北\n望文生义\n吉祥如意\n四山五岳\n知命之年\n七老八十\n仁义道德\n正正堂堂\n昭昭在目\n里出外进\n虎落平川\n待时守分\n深文峻法\n水到鱼行\n急公好义",
+    "title": "1831-1860",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "安如磐石",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "as solid as rock (idiom); as sure as houses"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "路人皆知",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "understood by everyone (idiom); well known"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "失道寡助",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "an unjust cause finds little support (idiom, from Mencius)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "十二金牌",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gold Medal: Song Dynasty imperial edicts and urgent military orders are sent with gold medals and sent by the Ministry of Internal Affairs to deliver them quickly."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "草草收兵",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to work vaguely then retreat (idiom); sloppy and half-hearted"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "平原易野",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Flat and unhindered wilderness"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "化民成俗",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Educate the people and form good customs"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "仁心仁闻",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "famous, prestigious"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "引古喻今",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Citing ancient historical facts or documents to describe current reality"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "危急存亡",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "critical dangerous and urgent"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "行思坐想",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I was thinking about it while I was walking and sitting."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "法家拂士",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "\"Futongbi\""
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "三等九般",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to many levels and categories, with various differences"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "事出无奈",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Things happened out of necessity"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "前目后凡",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Item details"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "山南海北",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "refer to a distant place"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "望文生义",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. view a text and interpret (idiom); to interpret word by word without understanding the meaning"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "吉祥如意",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Auspicious and auspicious"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "四山五岳",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to various regions in all directions"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "知命之年",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The age when you know your destiny"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "七老八十",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "in one's seventies (age)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "仁义道德",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "compassion, duty, propriety and integrity (idiom); all the traditional virtues"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "正正堂堂",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The banner of correctness and a dignified lineup"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "昭昭在目",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describe that everyone can see clearly"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "里出外进",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "uneven"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "虎落平川",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A place with flat terrain"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "待时守分",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Waiting"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "深文峻法",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still talking about harsh punishments"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "水到鱼行",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means that if the conditions are met, things can be done."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-062-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "急公好义",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "public-spirited"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-062.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

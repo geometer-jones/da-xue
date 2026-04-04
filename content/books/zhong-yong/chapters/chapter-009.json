@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 25,
+    "id": "chapter-009",
+    "order": 9,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 25,
+        "id": "chapter-009-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「天下國家可均也，爵祿可辭也，白刃可蹈也，中庸不可能也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"The kingdom, its states, and its families, may be perfectly ruled; dignities and emoluments may be declined; naked weapons may be trampled under the feet; but the course of the Mean cannot be attained to.\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「天下國家可均也，爵祿可辭也，白刃可蹈也，中庸不可能也。」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-009.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

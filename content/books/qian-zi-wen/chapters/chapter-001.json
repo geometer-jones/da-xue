@@ -1,0 +1,1646 @@
+{
+  "chapter": {
+    "character_count": 1000,
+    "id": "chapter-001",
+    "order": 1,
+    "reading_unit_count": 125,
+    "reading_units": [
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "天地玄黃　宇宙洪荒",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heaven is dark, earth golden; the cosmos is vast and sparse."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "日月盈昃　辰宿列張",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun and moon wax and wane; the stars are fixed in their constellations."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "寒來暑往　秋收冬藏",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cold follows warmth in due cycle; in autumn, food is gathered for winter."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "閏餘成歲　律呂調陽",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Extra days complete the year; tuning harmonizes yin and yang ."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "雲騰致雨　露結為霜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Clouds ascend to cause rain to fall; morning dew transforms to white frost."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "金生麗水　玉出崑岡",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gold from the Li River; Jade from Kunlun region."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "劍號巨闕　珠稱夜光",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sword named ‘Great Summit’; pearl named ‘Night Glow’."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "果珍李柰　菜重芥薑",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Of fruits most prized are pears and crab-apples; of seasonings most valued are mustard and ginger."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "海鹹河淡　鱗潛羽翔",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sea is salt, rivers are fresh; fish dive below, birds soar on high."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "龍師火帝　鳥官人皇",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "‘Dragon Master’, ‘Fire Emperor’, ‘Bird Ruler’, ‘Sovereign of Men’."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "始製文字　乃服衣裳",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Birth of writing and culture then clothes were worn."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "推位讓國　有虞陶唐",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The succession to the throne; passed on to Yu, Tao Tang."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "吊民伐罪　周發殷湯",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Support the people and punish crimes; as Zhou Fa and Yin Tang did."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "坐朝問道　垂拱平章",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They sat at court pondering the Way; handing down guidance for a peaceful life."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "愛育黎首　臣伏戎羌",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "With love they nurtured their people; overcoming by force the wild tribes."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "遐邇壹體　率賓歸王",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Both far and near were joined as one; visitors acknowledged the ruler."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "鳴鳳在竹　白駒食場",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then the male phoenix called from the bamboo thicket and the white foal grazed in the courtyard."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "化被草木　賴及萬方",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Transformation spread even to the grass and trees; sincerity extended everywhere."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "蓋此身髮　四大五常",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Our human bodies (to the tips of our hairs) live under four great elements and five constant virtues."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "恭惟鞠養　豈敢毀傷",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Honor those that raised you; do not contemplate harming yourself."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "女慕貞絜　男效才良",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Girls should seek chastity and purity; boys aspire to talent and virtue."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "知過必改　得能莫忘",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Recognize faults you must correct; make use of the skills you possess."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "罔談彼短　靡恃己長",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Do not point out the faults of others; do not waste your own abilities."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "信使可覆　器欲難量",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Your truthfulness must withstand challenge; mere capabilities are hard to gauge."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "墨悲絲染　詩贊羔羊",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mozi was grieved that silk had been dyed; as described in the poem ‘The Lamb’."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "景行維賢　剋念作聖",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Enlightened actions maintain worthiness; restrain yourself from too much study to become wise."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "德建名立　形端表正",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Virtue establishes respectability; the upright have correct appearance."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "空谷傳聲　虛堂習聽",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "An empty valley just spreads sound; but even the most modest of halls permits study by attentive listening."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "禍因惡積　福緣善慶",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Calamity is the reward for accumulating evil; good fortune is the just reward for benevolence."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "尺辟非寶　寸陰是競",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A foot length of precious jade is not to be valued; rather struggle for just an inch of time."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "資父事君　曰嚴與敬",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sustain your father and serve your lord; that is to say rigorously and respectfully."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "孝當竭力　忠則盡命",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Devoted to parents to the utmost; loyal to the end of your life."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "臨深履薄　夙興溫清",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Take care when approaching chasms and walking on thin ice; in the morning rise early whether warm or cold."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "似蘭斯馨　如松之盛",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like the orchid in fragrance; as the pine flourishes."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "川流不息　淵澄取映",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The river flows without ceasing; deep, unruffled waters allow reflection."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "容止若思　言辭安定",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let your manner by thoughtful; may what you say be calm and disciplined."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "篤初誠美　慎終宜令",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To begin earnestly is truly excellent; but carefulness to see it through is equally honorable."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "榮業所基　籍甚無竟",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Prodigious study forms the foundation; and then your good reputation will be limitless."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "學優登仕　攝職從政",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Excel in studies and become an official; master your duties to join in the work of government."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "存以甘棠　去而益詠",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "While alive, work under the sweet pear tree; when dead, people will still sing your praises."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "樂殊貴賤　禮別尊卑",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Music differentiates the noble and the base; decorum the superior and inferior."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "上和下睦　夫唱婦隨",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "With superiors have peace, with inferiors harmony; as the husband's song is accompanied by his wife."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "外受傅訓　入奉母儀",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Out of doors accept your tutor's instruction; at home show respect for mother's counsels."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "諸姑伯叔　猶子比兒",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Towards each aunt and uncle; be just like you were their own child."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 45,
+        "text": "孔懷兄弟　同氣連枝",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Care deeply about your brothers; they share the same breath as yourself and are like branches of the same tree."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 46,
+        "text": "交友投分　切磨箴規",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In friendship each must do their part; cut and polish yourself or else beware!"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 47,
+        "text": "仁慈隱惻　造次弗離",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Generosity, compassion and tender-feeling; it would be rash to abandon them."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 48,
+        "text": "節義廉退　顛沛匪虧",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If integrity, justice and honesty are in decline; even though when overwhelmed these should never be lacking."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 49,
+        "text": "性靜情逸　心動神疲",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If your nature is calm, the passions will be subdued; but when the heart is agitated the spirit is wearied."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 50,
+        "text": "守真誌滿　逐物意移",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Maintaining purity brings fulfillment; but if you pursue distractions your purpose will waver."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 51,
+        "text": "堅持雅操　好爵自縻",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Firmly grasp fine aspirations; innate nobility will shield you."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 52,
+        "text": "都邑華夏　東西二京",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The ancient capitals were splendid and glorious; both Eastern and Western capital cities."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 53,
+        "text": "背邙面洛　浮渭據涇",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The first of these is backed by Mount Mang and fronted by the River Luo; around the other is the swift Wei and the meandering Jing rivers."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 54,
+        "text": "宮殿盤鬱　樓觀飛驚",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Their palaces and halls were densely arrayed; the buildings so high that looking down inspired fear of plunging down."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 55,
+        "text": "圖寫禽獸　畫彩仙靈",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Drawings were made of birds and animals; depictions of immortals and deities."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 56,
+        "text": "丙舍傍啟　甲帳對楹",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Splendid apartments opened out on each side; fine drapes adorn the parallel rows of pillars."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 57,
+        "text": "肆筵設席　鼓瑟吹笙",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There were spread out lavish banquets; and there were played the drum, harp and the sheng was blown."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 58,
+        "text": "升階納陛　弁轉疑星",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ascending the steps to the throne; with the whirling hats of officials as numberless as the stars."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 59,
+        "text": "右通廣內　左達承明",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On the right is the library; on the left the scholars' dormitory."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 60,
+        "text": "既集墳典　亦聚群英",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There can be found the most ancient books and records; and also a host of wise men."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 61,
+        "text": "杜稿鐘隸　漆書壁經",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Du’s cursive style and Zhong’s formal style; ancient lacquered books and classics concealed in a wall."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 62,
+        "text": "府羅將相　路俠槐卿",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the mansions senior officials assemble in order; the junior grades flank their path down the road."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 63,
+        "text": "戶封八縣　家給千兵",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Some of these households will be granted eight counties; and to these families a thousand troops."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 64,
+        "text": "高冠陪輦　驅轂振纓",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "With their high hats they accompany the Imperial carriage; their ribbons flutter with the rapid stir."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 65,
+        "text": "世祿侈富　車駕肥輕",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Their inherited wealth gives plenteous riches; their carriages are pulled by sturdy but light steeds."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-066",
+        "order": 66,
+        "source_block_chunk": 1,
+        "source_block_order": 66,
+        "text": "策功茂實　勒碑刻銘",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Their noble plans are many and attested; they are carved on stones as inscriptions."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-067",
+        "order": 67,
+        "source_block_chunk": 1,
+        "source_block_order": 67,
+        "text": "磻溪伊尹　佐時阿衡",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At Pan brook he hired a man and also Yi Yin; both assisted for a while and became chief ministers."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-068",
+        "order": 68,
+        "source_block_chunk": 1,
+        "source_block_order": 68,
+        "text": "奄宅曲阜　微旦孰營",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Within Yan is the city of Qufu; who but the Duke of Zhou could have built it?"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-069",
+        "order": 69,
+        "source_block_chunk": 1,
+        "source_block_order": 69,
+        "text": "桓公匡合　濟弱扶傾",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Duke of Huan put things in order and united the people; he helped the feeble and revived the stricken."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-070",
+        "order": 70,
+        "source_block_chunk": 1,
+        "source_block_order": 70,
+        "text": "綺回漢惠　說感武丁",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Qi returned to aid Han Hui; influenced Wu Ding in a dream."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-071",
+        "order": 71,
+        "source_block_chunk": 1,
+        "source_block_order": 71,
+        "text": "俊乂密勿　多士寔寧",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The talented scholars regulate access to state secrets; and the many who cultivate true peace."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-072",
+        "order": 72,
+        "source_block_chunk": 1,
+        "source_block_order": 72,
+        "text": "晉楚更覇　趙魏困橫",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Jin and Chu states became tyrannical; the states of Zhao and Wei fell into misery and lawlessness."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-073",
+        "order": 73,
+        "source_block_chunk": 1,
+        "source_block_order": 73,
+        "text": "假途滅虢　踐土會盟",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Feigning a march the Jin army destroyed the state of Guo; at Jian Tu the rulers signed a treaty."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-074",
+        "order": 74,
+        "source_block_chunk": 1,
+        "source_block_order": 74,
+        "text": "何遵約法　韓弊煩刑",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xiao Hé advocated simple laws; he followed Han (Fei)'s philosophy but suffered cruelly under the laws that he himself instigated."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-075",
+        "order": 75,
+        "source_block_chunk": 1,
+        "source_block_order": 75,
+        "text": "起翦頗牧　用軍冣精",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The famous generals Qi, Jian, Po and Mu were pre-eminent in tactics."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-076",
+        "order": 76,
+        "source_block_chunk": 1,
+        "source_block_order": 76,
+        "text": "宣威沙漠　馳譽丹青",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tales of their ascendancy reached even the deserts; their reputation swiftly spread and they are immortalized in paintings."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-077",
+        "order": 77,
+        "source_block_chunk": 1,
+        "source_block_order": 77,
+        "text": "九州禹跡　百郡秦併",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All the nine regions of China bear the traces of Yu the Great; All the hundred districts united by the Qin."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-078",
+        "order": 78,
+        "source_block_chunk": 1,
+        "source_block_order": 78,
+        "text": "嶽宗泰岱　禪主云亭",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Of the sacred mountains Taishan is the most honored; at its base are altars at Yun and Ting"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-079",
+        "order": 79,
+        "source_block_chunk": 1,
+        "source_block_order": 79,
+        "text": "雁門紫塞　雞田赤城",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Yanmen pass and the Great Wall; Ji Tian station and Chicheng mountain."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-080",
+        "order": 80,
+        "source_block_chunk": 1,
+        "source_block_order": 80,
+        "text": "昆池碣石　鉅野洞庭",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kunming Pool and Jieshi Rocks; Juye Wasteland and Dongting Lake."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-081",
+        "order": 81,
+        "source_block_chunk": 1,
+        "source_block_order": 81,
+        "text": "曠遠緜邈　巖岫杳冥",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They are vast and distant, enduring forever; shaded cliffs and caverns shrouded in gloom."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-082",
+        "order": 82,
+        "source_block_chunk": 1,
+        "source_block_order": 82,
+        "text": "治本於農　務茲稼穡",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sound management of agriculture is vital - always give attention to farm work."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-083",
+        "order": 83,
+        "source_block_chunk": 1,
+        "source_block_order": 83,
+        "text": "俶載南畝　我藝黍稷",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The year begins in the southern fields; I cultivate the cereal crop."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-084",
+        "order": 84,
+        "source_block_chunk": 1,
+        "source_block_order": 84,
+        "text": "稅熟貢新　勸賞黜陟",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The tax due on ripe grain spurs the cultivation of the new crop; indolence is punished, hard-work rewarded."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-085",
+        "order": 85,
+        "source_block_chunk": 1,
+        "source_block_order": 85,
+        "text": "孟軻敦素　史魚秉直",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius was kind-hearted and genuine; Shi Yu was steadfastly truthful."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-086",
+        "order": 86,
+        "source_block_chunk": 1,
+        "source_block_order": 86,
+        "text": "庶幾中庸　勞謙謹敕",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They neared the Golden Medium; striving for modesty and obeying orders."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-087",
+        "order": 87,
+        "source_block_chunk": 1,
+        "source_block_order": 87,
+        "text": "聆音察理　鑒貌辨色",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Listen to what is said and examine its logic; scrutinize people's countenance and their appearance."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-088",
+        "order": 88,
+        "source_block_chunk": 1,
+        "source_block_order": 88,
+        "text": "貽厥嘉猷　勉其祗植",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Make your exemplary principles your legacy; exert yourself so as to nurture respectfulness."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-089",
+        "order": 89,
+        "source_block_chunk": 1,
+        "source_block_order": 89,
+        "text": "省躬譏誡　寵增抗極",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Scrutinize yourself when mocked and admonished; zealously guard against praise that may inflate self-esteem."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-090",
+        "order": 90,
+        "source_block_chunk": 1,
+        "source_block_order": 90,
+        "text": "殆辱近恥　林皋幸即",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When malevolent dishonor and disgrace comes near; spend time visiting the woods and streams."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-091",
+        "order": 91,
+        "source_block_chunk": 1,
+        "source_block_order": 91,
+        "text": "兩疏見機　解組誰逼",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The two Shu brothers observing other's intentions resigned from office, no-one compelled them."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-092",
+        "order": 92,
+        "source_block_chunk": 1,
+        "source_block_order": 92,
+        "text": "索居閒處　沉默寂寥",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Look for a tranquil place to live; to meditate alone."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-093",
+        "order": 93,
+        "source_block_chunk": 1,
+        "source_block_order": 93,
+        "text": "求古尋論　散慮逍遙",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Seek out and ponder on ancient writings; dispel worries and take your leisure."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-094",
+        "order": 94,
+        "source_block_chunk": 1,
+        "source_block_order": 94,
+        "text": "欣奏累遣　慼謝歡招",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Enjoy music to banish tension; troubles wane as joy is welcomed."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-095",
+        "order": 95,
+        "source_block_chunk": 1,
+        "source_block_order": 95,
+        "text": "渠荷的歷　園莽抽條",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the waterways the lotus plant grows; in the countryside lush wild-flowers flourish."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-096",
+        "order": 96,
+        "source_block_chunk": 1,
+        "source_block_order": 96,
+        "text": "枇杷晚翠　梧桐早凋",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Loquat tree retains its green leaves; while the Wutong tree's leaves are early to fade."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-097",
+        "order": 97,
+        "source_block_chunk": 1,
+        "source_block_order": 97,
+        "text": "陳根委翳　落葉飄搖",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Old roots suffer from decay and are cast aside; the fallen leaves float down forlornly in the wind."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-098",
+        "order": 98,
+        "source_block_chunk": 1,
+        "source_block_order": 98,
+        "text": "游鵾獨運　凌摩絳霄",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The huge, roaming bird journeys alone; soaring to touch the purple heavens."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-099",
+        "order": 99,
+        "source_block_chunk": 1,
+        "source_block_order": 99,
+        "text": "耽讀玩市　庽目囊箱",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Read for fun at the market; with a roving eye look for new boxes of books."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-100",
+        "order": 100,
+        "source_block_chunk": 1,
+        "source_block_order": 100,
+        "text": "易輶攸畏　屬耳垣牆",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gossip and rash talk should be dreaded as even apartment walls have ears."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-101",
+        "order": 101,
+        "source_block_chunk": 1,
+        "source_block_order": 101,
+        "text": "具膳餐飯　適口充腸",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When preparing meals eat plain food which suits the palate and fills the stomach."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-102",
+        "order": 102,
+        "source_block_chunk": 1,
+        "source_block_order": 102,
+        "text": "飽飫烹宰　饑厭糟糠",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gluttons will gorge on boiled meat; the starving will relish even the poorest husks."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-103",
+        "order": 103,
+        "source_block_chunk": 1,
+        "source_block_order": 103,
+        "text": "親戚故舊　老少異糧",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Relatives and old friends; the old and the young like different food."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-104",
+        "order": 104,
+        "source_block_chunk": 1,
+        "source_block_order": 104,
+        "text": "妾御績紡　侍巾帷房",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The concubines run the chores; they do the laundry and tidy rooms."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-105",
+        "order": 105,
+        "source_block_chunk": 1,
+        "source_block_order": 105,
+        "text": "紈扇圓絜　銀燭煒煌",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "White silk fans round and unblemished; silver light of brilliant candles."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-106",
+        "order": 106,
+        "source_block_chunk": 1,
+        "source_block_order": 106,
+        "text": "晝眠夕寐　藍筍象床",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "For snoozing at noon and sleeping at night; blue bamboo mats and ivory framed beds."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-107",
+        "order": 107,
+        "source_block_chunk": 1,
+        "source_block_order": 107,
+        "text": "弦歌酒宴　接杯舉觴",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Amidst music and feasting; raise the goblet and make a toast."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-108",
+        "order": 108,
+        "source_block_chunk": 1,
+        "source_block_order": 108,
+        "text": "矯手頓足　悅豫且康",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wave the hands and stomp your feet; everyone is joyful and at ease."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-109",
+        "order": 109,
+        "source_block_chunk": 1,
+        "source_block_order": 109,
+        "text": "嫡後嗣續　祭祀烝嘗",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "May the principal heir endure; offer sacrifices at the appropriate season."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-110",
+        "order": 110,
+        "source_block_chunk": 1,
+        "source_block_order": 110,
+        "text": "稽顙再拜　悚懼恐惶",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kowtowing to the ground repeatedly; in dread, awe and trembling."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-111",
+        "order": 111,
+        "source_block_chunk": 1,
+        "source_block_order": 111,
+        "text": "箋牒簡要　顧答審詳",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In correspondence be concise; give carefully considered and comprehensive replies."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-112",
+        "order": 112,
+        "source_block_chunk": 1,
+        "source_block_order": 112,
+        "text": "骸垢想浴　執熱願涼",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When dirty to the bone we desire a bath; when we grasp something too hot we crave coolness."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-113",
+        "order": 113,
+        "source_block_chunk": 1,
+        "source_block_order": 113,
+        "text": "驢騾犢特　駭躍超驤",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just as donkeys, camels, calves and bullocks do when startled - they leap around and take flight."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-114",
+        "order": 114,
+        "source_block_chunk": 1,
+        "source_block_order": 114,
+        "text": "誅斬賊盜　捕獲叛亡",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Punish by beheading thieves, traitors and robbers; seize the rebels who flee."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-115",
+        "order": 115,
+        "source_block_chunk": 1,
+        "source_block_order": 115,
+        "text": "布射僚丸　嵇琴阮嘯",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lu Bu the archer, Yi Liao the juggler; Ji Kang the musician and Ruan Ji the flute player."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-116",
+        "order": 116,
+        "source_block_chunk": 1,
+        "source_block_order": 116,
+        "text": "恬筆倫紙　鈞巧任釣",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tian invented the writing brush, Lun paper; Jun was an inventor, Ren an angler."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-117",
+        "order": 117,
+        "source_block_chunk": 1,
+        "source_block_order": 117,
+        "text": "釋紛利俗　竝皆佳妙",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They all overcame life's difficulties and brought benefits to all; taken together they were all marvelous."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-118",
+        "order": 118,
+        "source_block_chunk": 1,
+        "source_block_order": 118,
+        "text": "毛施淑姿　工顰妍笑",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mao and Shi were benevolent and beautiful; even while working their frowns were charming."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-119",
+        "order": 119,
+        "source_block_chunk": 1,
+        "source_block_order": 119,
+        "text": "年矢每催　曦暉朗曜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Years pass like flying arrows each in urgent haste; but the sun continues to shine bright and glorious."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-120",
+        "order": 120,
+        "source_block_chunk": 1,
+        "source_block_order": 120,
+        "text": "璇璣懸斡　晦魄環照",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Big Dipper hangs and turns in the sky; the pale moonlight encompasses the luminous earth."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-121",
+        "order": 121,
+        "source_block_chunk": 1,
+        "source_block_order": 121,
+        "text": "指薪修祜　永綏吉劭",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like the tinder that lights fires; always encourage and then good fortune will be the reward for effort."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-122",
+        "order": 122,
+        "source_block_chunk": 1,
+        "source_block_order": 122,
+        "text": "矩步引領　俯仰廊廟",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Regulate your pace and lead the way; bowing at the Imperial court."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-123",
+        "order": 123,
+        "source_block_chunk": 1,
+        "source_block_order": 123,
+        "text": "束帶矜莊　徘徊瞻眺",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Girt with your belt esteemed and grand; walking with hesitancy as you gaze around your lands."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-124",
+        "order": 124,
+        "source_block_chunk": 1,
+        "source_block_order": 124,
+        "text": "孤陋寡聞　愚蒙等誚",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Fools and numbskulls; dunderheads and the absurd may deride you."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-001-line-125",
+        "order": 125,
+        "source_block_chunk": 1,
+        "source_block_order": 125,
+        "text": "謂語助者　焉哉乎也",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At last these will help: that's it, all done, finito, the end."
+          }
+        }
+      }
+    ],
+    "summary": "天地玄黃　宇宙洪荒",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "天地玄黃　宇宙洪荒\n日月盈昃　辰宿列張\n寒來暑往　秋收冬藏\n閏餘成歲　律召調陽\n雲騰致雨　露結爲霜\n金生麗水　玉出崑岡\n劍號巨闕　珠稱夜光\n果珍李柰　菜重芥薑\n海鹹河淡　鱗潛羽翔\n龍師火帝　鳥官人皇\n始制文字　乃服衣裳\n推位讓國　有虞陶唐\n弔民伐罪　周發殷湯\n坐朝問道　垂拱平章\n愛育黎首　臣伏戎羌\n遐邇壹體　率賓歸王\n鳴鳳在樹　白駒食場\n化被草木　賴及萬方\n蓋此身髮　四大五常\n恭惟鞠養　豈敢毀傷\n女慕貞烈　男效才良\n知過必改　得能莫忘\n罔談彼短　靡恃己長\n信使可覆　器欲難量\n墨悲絲淬　詩讚羔羊\n景行維賢　克念作聖\n德建名立　形端表正\n空谷傳聲　虛堂習聽\n禍因惡積　福緣善慶\n尺璧非寶　寸陰是競\n資父事君　曰嚴與敬\n孝當竭力　忠則盡命\n臨深履薄　夙興溫凊\n似蘭斯馨　如松之盛\n川流不息　淵澄取映\n容止若思　言辭安定\n篤初誠美　慎終宜令\n榮業所基　籍甚無竟\n學優登仕　攝職從政\n存以甘棠　去而益詠\n樂殊貴賤　禮別尊卑\n上和下睦　夫唱婦隨\n外受傅訓　入奉母儀\n諸姑伯叔　猶子比兒\n孔懷兄弟　同氣連枝\n交友投分　切磨箴規\n仁慈隱惻　造次弗離\n節義廉退　顛沛匪虧\n性靜情逸　心動神疲\n守眞志滿　逐物意移\n堅持雅操　好爵自縻\n都邑華夏　東西二京\n背邙面洛　浮渭據涇\n宮殿盤鬱　樓觀飛驚\n圖寫禽獸　畫彩仙靈\n丙舍傍啟　甲帳對楹\n肆筵設席　鼓瑟吹笙\n升階納陛　弁轉疑星\n右通廣內　左達承明\n既集墳典　亦聚群英\n杜稾鍾隸　漆書壁經\n府羅將相　路俠槐卿\n戶封八縣　家給千兵\n高冠陪輦　驅轂振纓\n世祿侈富　車駕肥輕\n策功茂實　勒碑刻銘\n磻溪伊尹　佐時阿衡\n奄宅曲阜　微旦孰營\n桓公匡合　濟弱扶傾\n綺迴漢惠　說感武丁\n俊乂密勿　多士寔寧\n晉楚更霸　趙魏困橫\n假途滅虢　踐土會盟\n何遵約法　韓弊煩刑\n起翦頗牧　用軍最精\n宣威沙漠　馳譽丹青\n九州禹跡　百郡秦并\n嶽宗恆岱　禪主云亭\n雁門紫塞　雞田赤城\n昆池碣石　鉅野洞庭\n曠遠緜邈　巖岫杳冥\n治本於農　務茲稼穡\n俶載南畝　我藝黍稷\n稅熟貢新　勸賞黜陟\n孟軻敦素　史魚秉直\n庶幾中庸　勞謙謹敕\n聆音察理　鑑貌辨色\n貽厥嘉猷　勉其祗植\n省躬譏誡　寵增抗極\n殆辱近恥　林皋幸即\n兩疏見機　解組誰逼\n索居閒處　沈默寂寥\n求古尋論　散慮逍遙\n欣奏累遣　慼謝歡招\n渠荷的歷　園莽抽條\n枇杷晚翠　梧桐早凋\n陳根委翳　落葉飄颻\n游鵾獨運　凌摩絳霄\n耽讀翫市　寓目囊箱\n易輶攸畏　屬耳垣牆\n具膳餐飯　適口充腸\n飽飫烹宰　飢厭糟糠\n親戚故舊　老少異糧\n妾御績紡　侍巾帷房\n紈扇圓潔　銀燭煒煌\n晝眠夕寐　籃筍象牀\n弦歌酒讌　接杯舉觴\n矯手頓足　悅豫且康\n嫡後嗣續　祭祀烝嘗\n稽顙再拜　悚懼恐惶\n箋牒簡要　顧答審詳\n骸垢想浴　執熱願涼\n驢騾犢特　駭躍超驤\n誅斬賊盜　捕獲叛亡\n布射遼丸　嵇琴阮嘯\n恬筆倫紙　鈞巧任釣\n釋紛利俗　並皆佳妙\n毛施淑姿　工顰妍笑\n年矢每催　曦暉朗耀\n璇璣懸斡　晦魄環照\n指薪脩祜　永綏吉劭\n矩步引領　俯仰廊廟\n束帶矜莊　徘徊瞻眺\n孤陋寡聞　愚蒙等誚\n謂語助者　焉哉乎也",
+    "title": "全篇"
+  },
+  "chapter_path": "books/qian-zi-wen/chapters/chapter-001.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "千字文 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E5%8D%83%E5%AD%97%E6%96%87"
+}

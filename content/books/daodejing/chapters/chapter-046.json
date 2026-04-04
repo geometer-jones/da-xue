@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 39,
+    "id": "chapter-046",
+    "order": 46,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 39,
+        "id": "chapter-046-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "天下有道，卻走馬以糞。天下無道，戎馬生於郊。禍莫大於不知足；咎莫大於欲得。故知足之足，常足矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the Tao prevails in the world, they send back their swift horses to (draw) the dung-carts. When the Tao is disregarded in the world, the war-horses breed in the border lands. There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency."
+          }
+        }
+      }
+    ],
+    "summary": "天下有道，卻走馬以糞",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "天下有道，卻走馬以糞。天下無道，戎馬生於郊。禍莫大於不知足；咎莫大於欲得。故知足之足，常足矣。",
+    "title": "第46章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-046.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

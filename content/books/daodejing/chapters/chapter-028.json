@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 86,
+    "id": "chapter-028",
+    "order": 28,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 86,
+        "id": "chapter-028-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "知其雄，守其雌，為天下谿。為天下谿，常德不離，復歸於嬰兒。知其白，守其黑，為天下式。為天下式，常德不忒，復歸於無極。知其榮，守其辱，為天下谷。為天下谷，常德乃足，復歸於樸。樸散則為器，聖人用之，則為官長，故大制不割。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Who knows his manhood's strength, Yet still his female feebleness maintains; As to one channel flow the many drains, All come to him, yea, all beneath the sky. Thus he the constant excellence retains; The simple child again, free from all stains. Who knows how white attracts, Yet always keeps himself within black's shade, The pattern of humility displayed, Displayed in view of all beneath the sky; He in the unchanging excellence arrayed, Endless return to man's first state has made. Who knows how glory shines, Yet loves disgrace, nor e'er for it is pale; Behold his presence in a spacious vale, To which men come from all beneath the sky. The unchanging excellence completes its tale; The simple infant man in him we hail. The unwrought material, when divided and distributed, forms vessels. The sage, when employed, becomes the Head of all the Officers (of government); and in his greatest regulations he employs no violent measures."
+          }
+        }
+      }
+    ],
+    "summary": "知其雄，守其雌，為天下谿",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "知其雄，守其雌，為天下谿。為天下谿，常德不離，復歸於嬰兒。知其白，守其黑，為天下式。為天下式，常德不忒，復歸於無極。知其榮，守其辱，為天下谷。為天下谷，常德乃足，復歸於樸。樸散則為器，聖人用之，則為官長，故大制不割。",
+    "title": "第28章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-028.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

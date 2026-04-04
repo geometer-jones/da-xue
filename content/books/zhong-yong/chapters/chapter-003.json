@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 13,
+    "id": "chapter-003",
+    "order": 3,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 13,
+        "id": "chapter-003-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「中庸其至矣乎！民鮮能久矣！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Perfect is the virtue which is according to the Mean! Rare have they long been among the people, who could practice it!\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「中庸其至矣乎！民鮮能久矣！」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-003.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

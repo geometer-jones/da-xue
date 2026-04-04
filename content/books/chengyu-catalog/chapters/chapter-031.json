@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-031",
+    "order": 31,
+    "summary": "一往而深",
+    "text": "一往而深\n法无二门\n百无一用\n大有起色\n老于世故\n有一得一\n非常之谋\n心不应口\n师心自是\n不伦不类\n意气自若\n王公大人\n一介不取\n不亦乐乎\n不知所错\n一定不移\n一了百了\n一虎不河\n风俗人情\n文行出处\n不可言宣\n明见万里\n神意自若\n一毛不拔\n无风生浪\n言是人非\n莫知所为\n不经之说\n传为美谈\n见风是雨",
+    "title": "901-930",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "一往而深",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Go deep"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "法无二门",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dharma has no two doors"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "百无一用",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Useless"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "大有起色",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Great improvement"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "老于世故",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "experienced in the ways of the world; worldly-wise; sophisticated"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "有一得一",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One gets one"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "非常之谋",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Extraordinary plot"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "心不应口",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The heart should not speak"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "师心自是",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The teacher's heart is self-righteous"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "不伦不类",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "out of place"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "意气自若",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Feel confident"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "王公大人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Your Majesty"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "一介不取",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to not even take a penny (as a bribe)"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "不亦乐乎",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. isn't that a joy? (quote from Confucius)"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "不知所错",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Don't know what's wrong"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "一定不移",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Will never move"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "一了百了",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) once the main problem is solved, all troubles are solved; death ends all one's troubles"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "一虎不河",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One tiger but no river"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "风俗人情",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "customs"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "文行出处",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Source of literature"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "不可言宣",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unspeakable"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "明见万里",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Seeing thousands of miles clearly"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "神意自若",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "God's will"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "一毛不拔",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "too stingy to pull out a single hair"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "无风生浪",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No wind makes waves"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "言是人非",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Right words and wrong words"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "莫知所为",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Don't know what to do"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "不经之说",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It's a no-brainer"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "传为美谈",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "spread as a good story"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-031-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "见风是雨",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see the wind and assume it will rain; gullible; to believe whatever people suggest"
+          }
+        },
+        "category": "较高难度 I"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-031.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

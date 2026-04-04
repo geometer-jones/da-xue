@@ -1,0 +1,62 @@
+{
+  "commentary": {
+    "character_count": 10,
+    "id": "commentary-chapter-005",
+    "order": 5,
+    "reading_unit_count": 2,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "commentary-chapter-005-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "此謂知本，"
+      },
+      {
+        "character_count": 6,
+        "id": "commentary-chapter-005-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "此謂知之至也。"
+      }
+    ],
+    "summary": "，蓋釋格物、致知之義，而今亡矣",
+    "supplemental_text": "程子曰：「衍文也。」此句之上別有闕文，此特其結語耳。\n右傳之五章，蓋釋格物、致知之義，而今亡矣。此章舊本通下章，誤在經文之下。閒嘗竊取程子之意以補之曰：「所謂致知在格物者，言欲致吾之知，在即物而窮其理也。蓋人心之靈莫不有知，而天下之物莫不有理，惟於理有未窮，故其知有不盡也。是以大學始教，必使學者即凡天下之物，莫不因其已知之理而益窮之，以求至乎其極。至於用力之久，而一旦豁然貫通焉，則眾物之表裏精粗無不到，而吾心之全體大用無不明矣。此謂物格，此謂知之至也。」",
+    "supplemental_unit_count": 3,
+    "supplemental_units": [
+      {
+        "character_count": 20,
+        "id": "commentary-chapter-005-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "程子曰：「衍文也。」此句之上別有闕文，此特其結語耳。"
+      },
+      {
+        "character_count": 95,
+        "id": "commentary-chapter-005-supp-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "右傳之五章，蓋釋格物、致知之義，而今亡矣。此章舊本通下章，誤在經文之下。閒嘗竊取程子之意以補之曰：「所謂致知在格物者，言欲致吾之知，在即物而窮其理也。蓋人心之靈莫不有知，而天下之物莫不有理，惟於理有未窮，故其知有不盡也。"
+      },
+      {
+        "character_count": 81,
+        "id": "commentary-chapter-005-supp-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "是以大學始教，必使學者即凡天下之物，莫不因其已知之理而益窮之，以求至乎其極。至於用力之久，而一旦豁然貫通焉，則眾物之表裏精粗無不到，而吾心之全體大用無不明矣。此謂物格，此謂知之至也。」"
+      }
+    ],
+    "text": "此謂知本，\n此謂知之至也。",
+    "title": "右傳之五章"
+  },
+  "commentary_path": "books/da-xue/commentary/commentary-chapter-005.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

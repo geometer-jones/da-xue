@@ -1,0 +1,814 @@
+{
+  "chapter": {
+    "character_count": 4395,
+    "id": "chapter-085",
+    "order": 85,
+    "reading_unit_count": 61,
+    "reading_units": [
+      {
+        "character_count": 89,
+        "id": "chapter-085-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說章武二年夏六月，東吳陸遜，大破蜀兵於猇亭彝陵之地；先主奔回白帝城，趙雲引兵據守。忽馬良至，見大軍已敗，懊悔不及，將孔明之言，奏知先主。先主嘆曰：「朕早聽丞相之言，不致今日之敗！今有何面目復回成都見群臣乎！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So he promulgated a command to change the guest-house into the “Palace of Eternal Peace.' He was deeply grieved when they told him of the death of so many of his captains. Next he heard that Huang Ch'üan, who had been given command of the army on the north bank, had given in to Wei. They suggested to him that the family of the renegade was in his power and he could hold them responsible. But he only said, “The army was quite cut off, and he had no alternative but to surrender. Really, I betrayed him, not he me. Why should I take vengeance on his family?”"
+          }
+        }
+      },
+      {
+        "character_count": 70,
+        "id": "chapter-085-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "」遂傳旨就白帝城駐紮，將館驛改為永安宮。人報馮習、張南、傅彤、程畿、沙摩柯等皆歿於王事，先主傷感不已。又近臣奏稱：「黃權引江北之兵，降魏去了。陛下可將彼家屬送有司問罪。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So he continued the issue of the renegade’s pay to his family. When Huang Ch'üan surrendered he was led into the presence of the King of Wei, who said, “You have surrendered to me because you desired to imitate the admirable conduct of Ch'ên and Han.”"
+          }
+        }
+      },
+      {
+        "character_count": 45,
+        "id": "chapter-085-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "」先主曰：「黃權被吳兵隔斷在江北岸，欲歸無路，不得已降魏：是朕負權，非權負朕也。何必罪其家屬？」仍給祿米以養之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Huang replied, weeping, “The Emperor of Shu has been very kind to me, and he gave me the leadership of the army on the north bank. Lu Hsün cut me off so that I could not return to Shu, and I would not surrender to Wu, wherefore I have yielded to Your Majesty. Defeated as I am, I should be only too happy if my life were spared, but I have no claim to the credit of the virtuous ones of old.”"
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-085-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "卻說黃權降魏，諸將引見曹丕。丕曰：「卿今降朕，欲追慕於陳、韓耶？」權泣而奏曰：「臣受蜀帝之恩殊遇甚厚，令臣督諸軍於江北，被陸遜絕斷。臣歸蜀無路，降吳不可，故來投陛下。敗軍之將，免死為幸，安敢追慕於古人耶？」丕大喜，遂拜黃權為鎮南將軍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The reply satisfied the King of Wei, and he conferred an office on Huang, who, however, declined the offer. Then one of the courtiers said that a spy had reported that all the family of Huang had been put to death. But the leader replied that he could not believe it. ​ “I have the greatest confidence in the clemency of the King of Shu. He knows I would not have surrendered of my own free will, and he would not injure my family.”"
+          }
+        }
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-085-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "權堅辭不受。忽近臣奏曰：「有細作人自蜀中來，說蜀主將黃權家屬盡皆誅戮。」權曰：「臣與蜀主，推誠相信，知臣本心，必不肯殺臣之家小也。」丕然之。後人有詩責黃權曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And the King of Wei agreed with his opinion. But a poem has been written upbraiding Huang Ch'üan: 'Twas a pity that Huang Ch'üan grudged to die; Though he yielded to Wei, not Wu, Yet he crooked the knee in an alien court, Which the loyal cannot do. And the judgment calm of history Condemns such men all through."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-085-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "降吳不可卻降曹，忠義安能事兩朝？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao P‘ei sought advice from Chia Hsü concerning his design of bringing the whole country under his own rule."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-085-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "堪嘆黃權惜一死，紫陽書法不輕饒。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I wish to bring the whole empire under my rule; which shall I first reduce, Shu or Wu?”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-085-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "曹丕問賈詡曰：「朕欲一統天下：先取蜀乎？先取吳乎？」詡曰：「劉備雄才，更兼諸葛亮善能治國；東吳孫權，能識虛實，陸遜見屯兵於險要隔江泛湖，皆難卒謀。以臣觀之，諸將之中，皆無孫權、劉備敵手。雖以陛下天威臨之，亦未見萬全之勢也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Liu Pei is an able warrior, and Chuko Liang is a most capable administrator; Sun Ch'üan possesses discrimination, and his general, Lu Hsün, occupies all the strategical positions of importance. The natural obstacles, the intervening rivers and spreading lakes, would be hard to overcome. I do not think you have any leader to match either of these two men. Even with the prestige of Your Majesty’s own presence, no one could guarantee the result. The better course is to hold on and await the outcome of the struggle between those other two.”"
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-085-line-009",
+        "order": 9,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "只可持守，以待二國之變。」丕曰：「朕已遣三路大兵伐吳，安有不勝之理？」尚書劉曄曰：「近東吳陸遜，新破蜀兵七十萬，上下齊心，更有江湖之阻，不可卒制。陸遜多謀，必有準備。」丕曰：「卿前勸朕伐吳，今又諫阻，何也？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have already despatched three armies against Wu; can it be that they will fail?” The President, Liu Yeh, held the same opinion as his colleague. Said he, “Lu Hsün has just won a great victory over the great host of Shu, and all his army is full of confidence. Further, there are the lakes and the rivers, which are natural difficulties hard to cope with. And again, Lu Hsün is resourceful and well prepared.”"
+          }
+        }
+      },
+      {
+        "character_count": 58,
+        "id": "chapter-085-line-010",
+        "order": 10,
+        "source_block_chunk": 3,
+        "source_block_order": 5,
+        "text": "」曄曰：「時有不同也：昔東吳累敗於蜀，其勢頓挫，故可擊耳；今既獲全勝，銳氣百倍，未可攻也。」丕曰：「朕意已決，卿勿復言。」遂引御林軍親往接應三路兵馬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The king said, “Formerly, Sir, you urged me to attack Wu; why do you now give contrary advice?” “Because times have changed. When Wu was suffering defeat after defeat the country was depressed and might be smitten. Now this great victory has changed all that and their morale has increased a hundredfold. I say now they may not be attacked.”"
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-085-line-011",
+        "order": 11,
+        "source_block_chunk": 4,
+        "source_block_order": 5,
+        "text": "早有哨馬報說東吳已有準備：令呂範引兵拒住曹休，諸葛瑾引兵在南郡拒住曹真，朱桓引兵當住濡須以拒曹仁。劉曄曰：「既有準備，去恐無益。」丕不從，引兵而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Well; but I have decided to attack. So say no more,” said the king. He then led the Imperial Guards out to support his three armies. But the scouts soon brought news justifying the opinion of his advisers. A force had been sent to oppose each of his three armies. Liu Yeh pointed this out and again said that no success could be expected. Still the king was obstinate, and marched."
+          }
+        }
+      },
+      {
+        "character_count": 103,
+        "id": "chapter-085-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "卻說吳將朱桓，年方二十七歲，極有膽略，孫權甚愛之；時督軍於濡須，聞曹仁引大軍去取羨溪，桓遂盡撥軍守把羨溪去了，止留五千騎守城。忽報曹仁令大將常雕同諸葛虔、王雙，引五萬精兵飛奔濡須城來。眾軍皆有懼色。桓按劍而言曰：「勝負在將，不在兵之多寡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ The Wu leader, Chu Huan, who had been sent against Ts‘ao Jên at Juhsü, was a young man of twenty-seven. He was bold and resourceful, and Sun Ch'üan held him in great regard. Hearing that Ts‘ao Jên was going to attack Tzuchi, Chu led the bulk of his men to befend it, leaving only half a legion in Juhsü. Then he heard that the van of the enemy, under Ch‘ang Tiao, had made a dash for Juhsü, so he hastened back and found the small garrison a prey to fear. Drawing his sword, he made a speech, “Success depends upon the leader rather than on the number of men. The 'Art of War' says that the value of soldiers who come from afar is doubled; that of those who inhabit a place is halved, yet always those who are in possession overcome those who come from afar. Now the enemy is weary from a long march and I and you, my men, can hold this place together. We have a great river to defend us on the south, and we are backed by the mountains on the north. Success should be ours easily, and we are as hosts at home awaiting the arrival of our weary visitors. This will give us victory in every fight. Even if the great Ts‘ao P‘ei come, we need feel no anxiety. How much less care we for Ts‘ao Jên and his men?”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-085-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "兵法云；『客兵倍而主兵半者，主兵尚能勝於客兵。』今曹仁千里跋涉，人馬疲困。吾與汝等，共據高城，南臨大江，北背山險，以逸待勞，以主制客：此乃百戰百勝之勢。雖曹丕自來，尚不足憂，況仁等耶？」於是傳令，教眾軍偃旗息鼓，只作無人守把之狀。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then he issued orders to furl all the banners and to silence all the drums as if the city was empty of defenders. In time, Ch‘ang Tiao and his veterans of the van came to the city. Not a man was visible, and he hastened forward with all speed. But as he neared the city, suddenly a bomb went off. Immediately up rose a forest of flags, and out dashed Chu Huan, with his sword drawn. And he made for Ch‘ang Tiao. In the third encounter he cut down his enemy, and his men, rushing to the attack, thoroughly routed the invaders, slaying innumerable men. Beside scoring a complete victory, Chu Huan took much spoil of flags and weapons and horses. Ts‘ao Jên himself, coming up later, was attacked by the garrison of Tzŭchi and also routed. He fled home to his master with the news of defeat and destruction."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-085-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "且說魏將先鋒常雕，領精兵來取濡須城，遙望城上並無軍馬。雕催軍急進，離城不遠，一聲砲響，旌旗齊豎。朱桓橫刀飛馬而出，直取常雕。戰不三合，被桓一刀斬常雕於馬下。吳兵乘勢衝殺一陣，魏兵大敗，死者無數。朱桓大勝，得了無數旌旗軍器戰馬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And before the king could decide what course to take in regard to this loss the news came of the defeat of his other two armies. So all three had failed and were lost, and P‘ei sighed and said sadly, “This has come from my wilfulness and neglect of advice.” The summer of that year was very unhealthy, and a pestilence swept away the soldiers in huge numbers. So they were marched home to Loyang. The two countries were at enmity though they were not fighting."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-085-line-015",
+        "order": 15,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "曹仁領兵隨後到來，卻被吳兵從羨溪殺出。曹仁大敗而退，回見魏主，細奏大敗之事。丕大驚。正議之間，忽探馬報：「曹真、夏侯尚圍了南郡，被陸遜伏兵於內，諸葛瑾伏兵於外，內外夾攻，因此大敗。」言未畢，忽探馬又報：「曹休亦被呂範殺敗。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Meanwhile the First Ruler was failing. He remained in his Palace of Eternal Peace and presently was confined to his couch. Gradually he became worse, and in the fourth moon of the third year his condition became serious. He himself ​ felt the end was near, and he was depressed and wept for his two lost brothers till the sight of his eyes suffered. He was morose and ill-tempered: he could not bear any of his court near him, drove away his servants and lay upon his couch sad and solitary."
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-085-line-016",
+        "order": 16,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "」丕聽知三路兵敗，乃喟然嘆曰：「朕不聽賈詡、劉曄之言，果有此敗！」時值夏天，大疫流行，馬步軍十死六七，遂引軍回洛陽。吳、魏自此不和。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One evening as thus he lay, a sudden gust of wind came into the chamber, almost extinguishing the candles. As they burned bright again he saw two men standing in the shade behind them."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-085-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "卻說先主在永安宮染病不起，漸漸沈重。至章武三年夏四月，先主知病入四肢；又哭關、張二弟，其病愈深，兩目昏花，厭見侍從之人；乃叱退左右，獨臥於龍榻之上。忽然陰風驟起，將燈吹搖，滅而復明。只見燈影之下，二人侍立。先主怒曰；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I told you I was worried,” said the king, “and bade you leave me; why have you come back? Go!” But they remained and did not go. Wherefore the king rose and went over to look at them. As he drew near he saw one was Yün-ch‘ang; the other I-tê. “Are you still alive, then, brothers?” said he."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-085-line-018",
+        "order": 18,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "「朕心緒不寧，教汝等且退，何故又來！」叱之不退。先主起而視之：上首乃雲長，下首乃翼德也。先主大驚曰：「二弟原來尚在！」雲長曰：「臣等非人，乃是鬼也。上帝以臣二人平生不失信義，皆敕命為神。哥哥與兄弟聚會不遠矣。」先主扯定大哭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“We are not men; we are shades,” said Kuan Yü. “The Supreme One has conferred spirithood upon us in consideration of our faithfulness throughout life, and ere long, brother, we three shall be together again.” The king clutched at the figures and burst into tears; then he awoke. The two figures were no longer there. He called in his people and asked the hour: they told him the third watch."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-085-line-019",
+        "order": 19,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "忽然驚覺：二弟不見。即喚從人問之，時正三更。先主嘆曰：「朕不久於人世矣！」遂遣使往成都，請丞相諸葛亮、尚書令李嚴等，星夜來永安宮，聽受遺命。孔明等與先主次子魯王劉永、梁王劉理，來永安宮見帝，留太子劉禪守成都。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am not much longer for this world,” said he with a sigh. Messengers were sent to the capital to summon the Prime Minister and certain other high officers of state to receive the king’s last instructions. They came, K‘ung-ming bringing the two younger sons. The eldest, the heir-apparent, was left in charge of the capital."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-085-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "且說孔明到永安宮，見先主病危，慌忙拜伏於龍榻之下。先主傳旨，請孔明坐於龍榻之側，撫其背曰：「朕自得丞相，幸成帝業；何期智識淺陋，不納丞相之言，自取其敗。悔恨成疾，死在旦夕。嗣子孱弱，不得不以大事相託。」言訖，淚流滿面。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming saw at once that his master was very ill. He bowed to the ground at the foot of the “dragon” couch. The dying king bade him come near and sit beside him, and he patted his faithful minister on the back, saying, “The attainment of emperorship was your work. Little thought you that I should prove so stupid as not to follow your advice and so bring about the late disasters. But I am deeply sorry, and now I shall not live long. My heir is a degenerate, but I must leave him to do the best he can with the great inheritance.\""
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-085-line-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "孔明亦涕泣曰：「願陛下善保龍體，以副天下之望！」先主以目遍視，只見馬良之弟馬謖在傍，先主令且退。謖退出，先主謂孔明曰：「丞相觀馬謖之才何如？」孔明曰：「此人亦當世之英才也。」先主曰：「不然。朕觀此人，言過其實，不可大用。丞相宜深察之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And the tears flowed in streams. “I trust Your Majesty will fulfil the hopes of the people by a speedy recovery,” said K‘ung-ming, also in tears. Turning his head, the king saw Ma Liang’s brother at the bedside. He bade him retire. When he had left the chamber, the king said, “Do you think Ma Su is clever?” “He is one of the ablest men in the world,” said K‘ung-ming. “I do not think so. I think his words exceed his deeds. Do not make much use of him. Watch him carefully.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-085-line-022",
+        "order": 22,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "」分付畢，傳旨召諸臣入殿，取紙筆寫了遺詔，遞與孔明而嘆曰：「朕不讀書，粗知大略。聖人云：『鳥之將死，其鳴也哀；人之將死，其言也善。』朕本待與卿等同滅曹賊，共扶漢室；不幸中道而別。煩丞相將詔付與太子禪，令勿以為常言。凡事更望丞相之！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Having said this, he bade them summon the high officers of state to the chamber. Taking paper and pen the First Ruler wrote his testament. He handed it to the Prime ​ Minister with a sigh and said, “I am no great scholar, and I only know the rough outlines of what should be known. But the Holy One has said that a bird’s song is sad when death is near and a dying man’s words are good. I was waiting that we might aid each other in the destruction of Ts‘ao and the restoration of the Hans, but ere the work is complete I am called away, and this last command of mine I confide to you as Prime Minister to be handed to my son and heir, Chan. My words are to be taken seriously. I trust that you will instruct and guide my son.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-085-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "孔明等泣拜於地曰：「願陛下將息龍體！臣等盡施犬馬之勞，以報陛下知遇之恩也。」先主命內侍扶起孔明，一手掩淚，一手執其手，曰：「朕今死矣！有心腹之言相告！」孔明曰：「有何聖諭？」先主泣曰：「君才十倍曹丕，必能安邦定國，終定大事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming and all those present wept and prostrated themselves, saying, “We pray Your Majesty to repose yourself. We will do our utmost whereby to prove our gratitude for the kindness we have received.” At the king’s command the attendants raised K‘ung-ming from the earth. With one hand the dying man brushed away the falling tears, while with the other he grasped K‘ung-ming’s hand and said, “The end is near; I have something more to say as to a friend.”"
+          }
+        }
+      },
+      {
+        "character_count": 62,
+        "id": "chapter-085-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "若嗣子可輔，則輔之；如其不才，君可自為成都之主。」孔明聽畢，汗流遍體，手足失措，泣拜於地曰：「臣安敢不竭股肱之力，效忠貞之節，繼之以死乎！」言訖，叩頭流血。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What holy command has Your Majesty to give?” “You are many times more clever than Ts‘ao P‘ei, and you must safeguard the kingdom and complete the great work. If my son can be helped, help him. But if he prove a fool then take the throne yourself.”"
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-085-line-025",
+        "order": 25,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "先主又請孔明坐於榻上，喚魯王劉永、梁王劉理近前，分付曰：「爾等皆記朕言，朕亡之後，爾兄弟三人，皆以父事丞相，不可怠慢。」言罷，遂命二王同拜孔明。二王拜畢，孔明曰：「臣雖肝腦塗地，安能報知遇之恩也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Such a speech almost startled K‘ung-ming out of his senses. A cold sweat broke out all over his body, and his limbs threatened to cease to support him. He fell on his knees, saying, “I could never do otherwise than wear myself to the bone in the service of your son, whom I will serve till death.”"
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-085-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "先主謂眾官曰：「朕已託孤於丞相，令嗣子以父事之。卿等俱不可怠慢，以負朕望。」又囑趙雲曰：「朕與卿於患難之中，相從到今，不想於此地分別。卿可想朕故交，早晚看覷吾子，勿負朕言。」雲泣拜曰：「臣敢不效犬馬之勞！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He knocked his head upon the ground. The dying man called K‘ung-ming closer, and at the same time making his two sons come near, he said to them, “My sons, remember your father’s words. After my death you are to treat the Prime Minister as you would your father and be not remiss, for thereby you will fulfil your father’s hopes.' ” He made the two princes pay to K‘ung-ming the obeisance due to a father. Said K‘ung-ming, “Were I destroyed and ground into the earth, I should be unable to repay the kindness I have experienced.”"
+          }
+        }
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-085-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "」先主又謂眾官曰：「卿等眾官，朕不能一一分囑，願皆自愛。」言畢，駕崩，壽六十三歲：時章武三年四月二十四日也。後杜工部有詩歎曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Turning to the assembled officers, the First Ruler said, “As you have seen, I have confided my orphan son to the care of the Prime Minister and bidden my sons treat him as a father. You too, Sirs, are to treat him with deference. This is my dying request and charge to you.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-085-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "蜀主窺吳向三峽，崩年亦在永安宮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Turning to Chao Yün, he said, “I and you have gone together through many dangers and difficulties. Now comes the parting of our ways. You will not forget our old friendship, and you must see to it that my sons follow my precepts.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-085-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "翠華想在空山外，玉殿虛無野室中。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “I shall never dare to give other than my best,” said Chao Yün. “The fidelity of the dog and horse is mine to give and shall be theirs.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-085-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "古廟杉松巢水鶴，歲時伏臘走村翁。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then he turned to the others, “Noble Sirs, I am unable to speak to you one by one and lay a charge upon each individual; but I say to you, Maintain your self-respect.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-085-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "武侯祠屋長鄰近，一體君臣祭祀同。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "These were his last words. He was sixty-three, and he died on the twenty-fourth day of the fourth month (223 a. d. )"
+          }
+        }
+      },
+      {
+        "character_count": 50,
+        "id": "chapter-085-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "先主駕崩，文武官僚，無不哀傷，孔明率眾官奉梓宮還成都。太子劉禪出城迎接靈柩，安於正殿之內。舉哀行禮畢，開讀遺詔。詔曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Apoem was written by Tu Fu on his death:—"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-085-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "朕初得疾，但下痢耳；後轉生雜病，殆不自濟。朕聞「人年五十，不稱夭壽」。今朕六十有餘，死復何恨。但以汝兄弟為念耳。勉之！勉之！勿以惡小而為之，勿以善小而不為。惟賢惟德可以服人；汝父德薄，不足效也，吾亡之後，汝與丞相從事，事之如父，勿怠！勿忘！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The king set out to destroy the land that lay through the gorges, Failed he and breathed his last in the palace “Eternal Tranquillity,” The palace fair of his thoughts lay not this side the highlands. Beautiful chambers are vainly sought in his rural temple, Now are the pines near his shrine nesting places for herons, Through the courts aged peasants saunter, enjoying their leisure, Nearby often is found a shrine to this strategist famous, Prince and minister’s needs are now but offerings in season."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-085-line-034",
+        "order": 34,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "汝兄弟更求聞達，至囑！至囑！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thus died the First Ruler. All present lifted up their voices and wept."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-085-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "群臣讀詔已畢。孔明曰：「國不可一日無君；請立嗣君，以承漢統。」乃立太子禪即皇帝諡位，改元建興。加諸葛亮為武鄉侯，領益州牧。葬先主於惠陵，諡曰昭烈皇帝。尊皇后吳氏為皇太后。甘夫人為昭烈皇后。糜夫人亦追諡為皇后。陞賞群臣，大赦天下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Prime Minister led the procession that escorted the coffin to the capital, and the heir, Liu Ch‘an, came to the outskirts of the city, as a dutiful son should, to receive the remains with due respect. The coffin was laid in the Great Hall of the palace, wherein they lamented and performed the ceremonies appointed. At the end of these the testament was opened and read."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-085-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "早有魏軍探知此事，報入中原。近臣奏知魏主。曹丕大喜曰：「劉備已亡，朕無憂矣。何不乘其國中無主，起兵伐之？」賈詡諫曰：「劉備亡，必託孤於諸葛亮。亮感備知遇之恩，必傾心竭力，扶持嗣主。陛下不可倉卒伐之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I first fell ill from a simple ailment. Other disorders followed, and it became evident that I should not recover. They say that death at fifty cannot be called premature, and as I have passed three score I may not resent the call. But when I think of you and your brothers I regret. Now I say to you, strive and strive again. Do no evil because it is a small evil; do not leave undone a small good because it is a small good. Only with wisdom and virtue men can be won. But your father’s virtue was but slender and unequal to the strain."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-085-line-037",
+        "order": 37,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "」正言間，忽一人從班部中奮然而出曰：「不乘此時進兵，更待何時？」眾視之，乃司馬懿也。丕大喜，遂問計於懿。懿曰：「若只起中國之兵，急難取勝。須用五路大兵，四面夾攻，令諸葛亮首尾不能救應，然後可圖。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“After my death you are to conduct the affairs of the state with the Prime Minister. You are to treat him as a father and serve him without remissness. You and your brothers are to seek instruction. This is my final and simple command.' ” When this had been read, K‘ung-ming said, “The state cannot go a single day without a prince, wherefore I beg you to install the heir as successor to the great line of the Hans.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-085-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "丕問何五路。懿曰：「可修書一封，差使往遼東鮮卑國王軻比能，賂以金帛，令起遼西羌兵十萬，先從旱路取西平關：此一路也。再修書遣使齎官誥賞賜，直入南蠻見蠻王孟獲，令起兵十萬，攻打益州、永昌、牂牁、越雋四郡，以擊西川之南：此二路也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thereupon the ceremony was performed, and the new Emperor took his place. The style of the reign was changed to Chien-Hsing . Chuko Liang became “Marquis of Wuhsiang and Governor of Ichou.” Then they buried the late king at Huiling with the posthumous style of Chao-Lieh Huang-ti . ​ The Empress, of the Wu family, was formally created Empress Dowager. The late consort Kan became Chao-Lieh Empress, and the Lady Mi was granted similar, also posthumous, rank. There were promotions in rank and rewards for all, and a general amnesty was proclaimed."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-085-line-039",
+        "order": 39,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "再遣使入吳修好，許以割地，令孫權起兵十萬，攻兩川夾口，徑取涪城：此三路也。又可遣使至降將孟達處，起上庸兵十萬，西攻漢中：此四路也。然後命大將軍曹真為大都督，提兵十萬，由京兆徑出陽平關取西川：此五路也。共大兵五十萬，五路並進。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Before long, knowledge of these things came to the army of Wei, and a report was sent to the capital and made known to the Prince of Wei. Ts‘ao P‘ei felt relieved and was glad of the death of his rival, and his thoughts at once turned toward an attack during the critical moment of a change of ruler."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-085-line-040",
+        "order": 40,
+        "source_block_chunk": 3,
+        "source_block_order": 20,
+        "text": "諸葛亮便有呂望之才，安能當此乎？」丕大喜，隨即密遣能言官四員為使前去；又命曹真為大都督，領兵十萬，逕取陽平關。此時張遼等一班舊將，皆封列侯，俱在冀、徐、青及合淝等處，據守關津隘口，故不復調用。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Chia Hsü dissuaded him. “Liu Pei is gone, but surely he has confided the care of the state to Chuko Liang, who is indebted to him so deeply. He will exhaust every effort to support his young lord. You may not hastily attack.” As he tendered this remonstrance, a man suddenly stepped out from the serried ranks of courtiers and said fiercely, “If you neglect this moment can you expect a more favourable opportunity?”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-085-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "卻說蜀漢後主劉禪，自即位以來，舊臣多有病亡者，不能細說。凡一應朝廷、選法、錢糧、詞訟等事，皆聽諸葛丞相裁處。時後主未立皇后。孔明與群臣上言曰：「故車騎將軍張飛之女甚賢，年十七歲，可納為正宮皇后。」後主即納之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All eyes turned to the speaker; it was Ssŭma I. The interruption greatly pleased P‘ei, who at once asked how it was to be done. He propounded his plan in the following speech:— “It would be very difficult to obtain success with our own resources. Hence we must use five armies and attack all round at the same time, so as to embarrass Chuko Liang.” “Where are the five armies to come from?” said Ts‘ao P‘ei."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-085-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "建興元年秋八月，忽有邊報說：「魏調五路大兵，來取西川：第一路，曹真為大都督，起兵十萬，取陽平關；第二路，乃反將孟達，起上庸兵十萬，犯漢中；第三路，乃東吳孫權，起精兵十萬，取峽口入川；第四路，乃蠻王孟獲，起蠻兵十萬，犯益州四郡；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ssŭma went on, “The first is to be got from Liaotung, from the Hsian-pi country (Inner Mongolia). You must write to Prince K‘opinêng and send him presents of gold and silks so that he may send ten legions of the Ch‘iang (Tanguts) from Liaohsi to attack Hsip‘ing Pass. Secondly, the present prince of the Man Tribes, Mênghuo, must be persuaded to attack the south of Hsich'üan, the districts of Ichou, Jungch‘ang, Tsangko and Yüehchien. Thirdly, you must send an ambassador to Wu with fair promises of an increase of territory, and so induce Sun Ch'üan to lead ten legions to the attack, making Fouch'êng his objective. The fourth army can be got from Mêng Ta in Shangyung, who can attack Hanchung. Lastly, our own force may be placed under Ts‘ao Chên, who will attack by way of Yangping Pass. With fifty legions making a simultaneous attack along five different directions, it would be hard for Chuko Liang to hold his own even if he had the talent of Lü Wang (T‘ai Kung) himself.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-085-line-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "第五路，乃番王軻比能，起羌兵十萬，犯西平關－此五路軍馬，甚是利害。已先報知丞相，丞相不知為何，數日不出視事。」後主聽罷大驚，即差近侍齎旨，宣召孔明入朝。使命去了半日，「回報丞相府下人言，丞相染病不出。」後主轉慌；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The scheme delighted Ts‘ao P‘ei, who at once cast about for four glib-tongued messengers. He also issued a commission to Ts‘ao Chên as Commander-in-chief. At this time Chang Liao and most others of the veterans who had served Ts‘ao Ts‘ao were enjoying their leisure in ​ various parts of the country, and as nobles were keeping watch and ward at certain passes and fords and such places. Their appointments were more or less sinecures. They were not summoned for this expedition to the west."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-085-line-044",
+        "order": 44,
+        "source_block_chunk": 3,
+        "source_block_order": 22,
+        "text": "次日，又命黃門侍郎董允、諫議大夫杜瓊，去丞相臥榻前，告此大事。董、杜二人，到丞相府前，皆不得入。杜瓊曰：「先帝託孤於丞相，今主上初登寶位，被曹丕五路兵犯境，軍情至急，丞相何故推病不出？」良久，門吏傳丞相令，言：「病體稍可，明早出都堂議事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Although all the details of what came to pass in Shu after the accession of the Second King Liu Ch‘an need not be told yet it may be noted that many of those who had served his father died after the decease of their master. The work of the administration of the kingdom, the choice of officials, law-making, taxation, decision of legal cases, was all done by the Prime Minister. As the new king had no consort, the courtiers, headed by K‘ung-ming, proposed a daughter of the late Chang Fei as young and prudent, and she was married to the Emperor and so became Empress."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-085-line-045",
+        "order": 45,
+        "source_block_chunk": 4,
+        "source_block_order": 22,
+        "text": "」董、杜二人嘆息而回。次日，多官又來丞相府前伺侯。從早至晚，又不見出。眾官惶惶，只得散去。杜瓊入奏後主曰：「請陛下聖駕，親往丞相府問計。」後主即引多官入宮，啟皇太后。太后大驚，曰：「丞相何故如此？有負先帝委託之情也！我當自往。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It was in the autumn of the year of his accession that the Later Ruler heard of the plans and intentions of Wei against his state. The persons who told him gave him full details of the five armies and said they had previously told the Prime Minister. “But his conduct puzzles us,” said the informers. “We do not know why he does not take some action instead of remaining shut up in his palace all the time.”"
+          }
+        }
+      },
+      {
+        "character_count": 49,
+        "id": "chapter-085-line-046",
+        "order": 46,
+        "source_block_chunk": 5,
+        "source_block_order": 22,
+        "text": "」董允奏曰：「娘娘未可輕往。臣料丞相必有有高明之見。且待主上先往。如果怠慢，請娘娘於太廟中，召丞相問之未遲。」太后依奏。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Later Ruler became really alarmed, and he sent one of his personal attendants to call the Prime Minister to court. The servant was gone a long time, and then returned to say that the servants had told him the Prime Minister was ill and not to be seen."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-085-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "次日，後主車駕親至相府。門吏見駕到，慌忙拜伏於地而迎。後主問曰：「丞相在何處？」門吏曰：「不知在何處。只有丞相鈞旨，教擋住百官，勿得輒入。」後主乃下車步行，獨進第三重門，見孔明獨倚竹杖，在小池邊觀魚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The young Emperor’s distress increased, and he sent two high officers to K‘ung-ming, saying they were to see him even if he was on his couch and tell him the dreadful news of invasion. They went; but they got no farther than the gate. The keepers of the gate refused them admission. Then they confided their message in brief to the wardens of the gate, who went inside with it. After keeping them waiting a long time the wardens returned to say that the Prime Minister was rather better and would be at court in the morning."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-085-line-048",
+        "order": 48,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "後主在後立久，乃徐徐而言曰：「丞相安樂否？」孔明回顧，見是後主，慌忙棄杖，拜伏於地曰：「臣該萬死！」後主扶起，問曰；「今曹丕分兵五路，犯境甚急，相父緣何不肯出府視事？」孔明大笑，扶後主入內室坐定，奏曰：「五路兵至，臣安得不知？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The two messengers sighed deeply as they wended their way to the Emperor’s palace. Next morning a great crowd of officers assembled at the gate of the Prime Minister’s residence to wait for him to appear. But he did not come out. It began to grow late, and many of them were tired of waiting, when at last Tu Ch‘iung, one of the two who had been sent to tell K‘ung-ming why his presence was desired at council, went again to the Emperor and suggested that His Majesty should go in person and try to get K‘ung-ming to say what should be done."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-085-line-049",
+        "order": 49,
+        "source_block_chunk": 3,
+        "source_block_order": 23,
+        "text": "臣非觀魚，有所思也。」後主曰：「如之奈何？」孔明曰：「羌王軻比能，蠻王孟獲，反將孟達，魏將曹真：此四路兵，臣已皆退去了也。止有孫權這一路兵，臣已有退兵之計，但須一能言之人為使。因未得其人，故熟思之。陛下何必憂乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Emperor then returned to his palace and told his Consort his trouble. She was also alarmed. ​ “What can he mean?” said she. “This does not look like acting in the spirit of the charge laid upon him by the late Emperor. Let me go myself.” “Oh no,” said Tung Yün. “Your Majesty must not go. We think all is well, and the Prime Minister certainly understands and will do something. Beside, you must let His Majesty go first, and if the Prime Minister still shows remissness then Your Majesty can summon him to the Temple of the Dynasty and ask him.”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-085-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "後主聽罷，又驚又喜，曰：「相父果有鬼神不測之機也！願聞退兵之策。」孔明曰：「先帝以陛下付託與臣，臣安敢旦夕怠慢？成都眾官，皆不曉兵法之妙，貴在使人不測，豈可洩漏於人？老臣先知西番國王軻比能，引兵犯西平關；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So it was left at that. And the next day the Emperor rode in his chariot to the gate of his minister. When the doorkeepers saw the imperial chariot appear they fell upon their faces to welcome the Emperor. “Where is the Prime Minister?” asked he. “We do not know. But we have orders not to let in the crowd of officers.” The Emperor then descended and went on foot right in to the third gate. Then he saw K‘ung-ming leaning on a staff beside a fishpond looking at the fish. He approached, and stood behind him for a long time. Presently the king said slowly and with dignity, “Is the Prime Minister really enjoying himself?”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-085-line-051",
+        "order": 51,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "臣料馬超積祖西川人氏，素得羌人之心，羌人以超為神威大將軍；臣已先遣一人，星夜馳檄，令馬超緊守西平關，伏四路奇兵，每日交換，以兵拒之：此一路不必憂矣。又南蠻孟獲，兵犯四邵，臣亦飛檄遣魏延領一軍左出右入，右出左入，為疑兵之計；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming started and looked round. When he saw who the speaker was he suddenly dropped his staff and prostrated himself. “I ought to be put to death ten thousand times,” said he. But the Emperor put forth his hand and helped him to rise, saying, “Ts‘ao P‘ei threatens immediate invasion from five points; why will you not come forth and attend to business?” Kʻung-ming laughed. He conducted the Emperor into an inner room, and, when he was seated, K‘ung-ming addressed his king, saying, “Could it be possible that I was ignorant of these five armies? I was not looking at the fish; I was thinking.” “But, this being so, what shall we do?”"
+          }
+        }
+      },
+      {
+        "character_count": 103,
+        "id": "chapter-085-line-052",
+        "order": 52,
+        "source_block_chunk": 3,
+        "source_block_order": 24,
+        "text": "蠻兵惟勇力，其心多疑，若見疑兵，必不敢進：此一路又不足憂矣。又知孟達引兵出漢中；孟達與李嚴曾結生死之交；臣回成都時，留李嚴守永安宮；臣已作一書，只做李嚴親筆，令人送與孟達；達必然推病不出，以慢軍心：此一路又不足憂矣。又知曹真引兵犯陽平關；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have already turned back that K‘opinêng, of the Tanguts, and Mênghuo of the Man and the rebel leader Mêng Ta and the army from Wei. I have also thought out a plan to circumvent the army from Wu, but I need a special sort of man to carry it out. I want an envoy, an able talker, one capable of persuading other people. It was because I have not found such a man yet that I was so deeply in thought. But Your Majesty may set your mind at rest and not be anxious.” The Later Ruler heard this half terrified and half glad. “Surely your superhuman devices are too deep for mortal man. But may I ask how these armies have been made to turn back.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-085-line-053",
+        "order": 53,
+        "source_block_chunk": 4,
+        "source_block_order": 24,
+        "text": "此地險峻，可以保守，臣已調趙雲引一軍守把關隘，並不出戰；曹真若見我軍不出，不久自退矣。此四路兵俱不足憂。臣尚恐不能全保，又密調關興、張苞二將，各引兵三萬，屯於緊要之處，為各路救應。此數處調遣之事，皆不曾經由成都，故無人知覺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Since His late Majesty bade me take the best care of your welfare, I dare not be remiss for a single moment. These ​ officers in Ch'êngtu are ignorant of that refinement of war which consists in not allowing the enemy to guess your plans. How could I let them know anything? When I heard that the Tanguts might invade, I remembered that Ma Ch‘ao’s fore fathers were friendly with them and they had a high opinion of Ma Ch‘ao, thinking him a leader of supreme prestige. So I sent orders by despatch to Ma Ch‘ao to hold the Hsip‘ing Pass, and to prepare ambushes in certain places and change them daily so as to keep the Ch‘iang off. That settled them. I sent hastily to the south to order Wei Yen to move certain bodies of men about through the south-west districts, to be seen and then to disappear, to go in and come out and march to and fro, so that the Mans should be perplexed. The Mans are brave, but prone to doubts and hesitations, and they would not advance in the face of the unknown. Hence there is nothing to fear in that quarter. I also knew that Mêng Ta and our Li Yen were sworn friends. I had left him in charge of the Palace of Eternal Tranquillity. I then wrote a letter as if from Li to Mêng, so that I know Mêng will feign illness and not move his army. I sent Chao Yün to occupy all the strategical positions on the way by which Ts‘ao Chên would march, and bade him defend only and not go out to battle. If our men refuse to come out, Ts‘ao Chên will certainly have to retire. So all those four are settled. But for greater security I have sent your two cousins each with three legions to camp at points whence they can quickly help any of the others who may need it. And none of these arrangements are known here."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-085-line-054",
+        "order": 54,
+        "source_block_chunk": 5,
+        "source_block_order": 24,
+        "text": "只有東吳這一路兵，未必便動：如見四路兵勝，川中危急，必來相攻；若四路不濟，安肯動乎？臣料孫權想曹丕三路侵吳之怨，必不肯從其言。雖然如此，須用一舌辯之士，逕往東吳，以利害說之，則先退東吳；其四路之兵，何足憂乎？但未得說吳之人，臣故躊躇。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Now there is only Wu left to deal with. Had the other four succeeded and Shu been in danger, Sun Ch'üan would have come to the attack. If the others fail I know he will not budge, for he will remember that Ts‘ao P‘ei has just sent three armies to attack his country. And this being so, I want some man with a ready tongue and ingenious mind to go and talk plainly to Sun Ch'üan. So far I have not found such a man, and I am perplexed. I regret that I have given Your Majesty occasion to make this journey.”"
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-085-line-055",
+        "order": 55,
+        "source_block_chunk": 6,
+        "source_block_order": 24,
+        "text": "何勞陛下聖駕來臨？」後主曰：「太后亦欲來見相父。今朕聞相父之言，如夢初覺，復何憂哉！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My Consort also wanted to come,” said the Emperor. “But now you have spoken, O Minister-Father, I am as one awakened from a dream; I shall grieve no more.”"
+          }
+        }
+      },
+      {
+        "character_count": 102,
+        "id": "chapter-085-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "孔明與後主共飲數盃，送後主出府。眾官皆環立於門外，見後主面有喜色。後主別了孔明，上御車回朝。眾皆疑惑不定。孔明見眾官中，一人仰天而笑，面亦有喜色。孔明視之，乃義陽新野人：姓鄧，名芝，字伯苗；現為戶部尚書；漢司馬鄧禹之後。孔明暗令人留住鄧芝。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They two drank a few cups of wine together, and the minister escorted his master to his chariot. A ring of courtiers were waiting, and they could not help remarking the happiness that shone in their master’s face. The Emperor took his leave and returned to his palace, but the courtiers did not know what to think. Now K‘ung-ming had noted a certain man among the crowd who smiled and looked quite happy. He looked at him intently and then recollected his name, which was Têng Chih, a man of ​ reputable ancestry, who came from Hsinyeh. He sent a man privately to detain Têng, and when all the others had gone, K‘ung-ming led him into the library for a chat. Presently he came to the matter near his heart."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-085-line-057",
+        "order": 57,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "多官皆散。孔明請芝到書院中，問芝曰：「今蜀、魏、吳鼎分三國，欲討二國，一統中興，當先伐何國？」芝曰：「以愚意論之，魏雖漢賊，其勢甚大，急難搖動，當徐徐緩圖。今主上初登寶位，民心未安，當與東吳連合結為脣齒，一洗先帝舊怨，此乃長久之計也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The three states have become a fact,” said he. “Now if our state wanted to absorb the other two and restore the condition of one rule, which country should it attack first?” “Though Wei is the real rebel, yet Wei is strong and would be very difficult to overthrow. Any move against it would have to develop slowly. As our Emperor has but lately succeeded his father and the people are none too decided in his favour, I should propose a treaty of mutual defence with Wu. This would obliterate the enmity of His late Majesty and would have important results. However, you, Sir, may have another opinion. What is it?”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-085-line-058",
+        "order": 58,
+        "source_block_chunk": 3,
+        "source_block_order": 25,
+        "text": "未審丞相鈞意若何。」孔明大笑曰：「吾思之久矣，奈未得其人，今日方得也！」芝曰：「丞相欲其人何為？」孔明曰：「吾欲使人往結東吳。公既能明此意，必能不辱君命。使吳之任，非公不可。」芝曰：「愚才智淺，恐不堪當此重任。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“That is what I have been thinking of this long time, but I had not the man for the task. Now I have found him.” “What do you want a man to do?” “I want him to go as envoy to Wu to negotiate such a treaty. As you understand the position so well you will surely do honour to your prince’s commission as envoy. There is no other who would succeed.” “I fear I am not equal to such a task: I am not clever enough and too ignorant.”"
+          }
+        }
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-085-line-059",
+        "order": 59,
+        "source_block_chunk": 4,
+        "source_block_order": 25,
+        "text": "」孔明曰：「吾來日奏知天子，便請伯苗一行，切勿推辭。」芝應允而退。至次日，孔明奏准後主，差鄧芝往說東吳。芝拜辭，望東吳而來。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Iwill inform the Emperor to-morrow and beg him to appoint you. Of course you will accept.” Têng Chih consented and then took his leave. As promised, K‘ung-ming memorialised, and the Emperor consented that the mission should be entrusted to Têng Chih. And he started."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-085-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "吳人方見干戈息，蜀使還將玉帛通。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The din of war will cease in Wu, When Shu’s desires are known."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-085-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "未知鄧芝此去若何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "For the success or failure of this mission read the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說章武二年夏六月，東吳陸遜，大破蜀兵於猇亭彝陵之地；先主奔回白帝城，趙雲引兵據守。忽馬良至，見大軍已敗，懊悔不及，將孔明之言，奏知先主。先主嘆曰：「朕早聽丞相之言，不致今日之敗！今有何面目復回成都見群臣乎！」遂傳旨就白帝城駐紮，將館驛改為永安宮。人報馮習、張南、傅彤、程畿、沙摩柯等皆歿於王事，先主傷感不已。又近臣奏稱：「黃權引江北之兵，降魏去了。陛下可將彼家屬送有司問罪。」先主曰：「黃權被吳兵隔斷在江北岸，欲歸無路，不得已降魏：是朕負權，非權負朕也。何必罪其家屬？」仍給祿米以養之。\n卻說黃權降魏，諸將引見曹丕。丕曰：「卿今降朕，欲追慕於陳、韓耶？」權泣而奏曰：「臣受蜀帝之恩殊遇甚厚，令臣督諸軍於江北，被陸遜絕斷。臣歸蜀無路，降吳不可，故來投陛下。敗軍之將，免死為幸，安敢追慕於古人耶？」丕大喜，遂拜黃權為鎮南將軍。權堅辭不受。忽近臣奏曰：「有細作人自蜀中來，說蜀主將黃權家屬盡皆誅戮。」權曰：「臣與蜀主，推誠相信，知臣本心，必不肯殺臣之家小也。」丕然之。後人有詩責黃權曰：\n降吳不可卻降曹，忠義安能事兩朝？\n堪嘆黃權惜一死，紫陽書法不輕饒。\n曹丕問賈詡曰：「朕欲一統天下：先取蜀乎？先取吳乎？」詡曰：「劉備雄才，更兼諸葛亮善能治國；東吳孫權，能識虛實，陸遜見屯兵於險要隔江泛湖，皆難卒謀。以臣觀之，諸將之中，皆無孫權、劉備敵手。雖以陛下天威臨之，亦未見萬全之勢也。只可持守，以待二國之變。」丕曰：「朕已遣三路大兵伐吳，安有不勝之理？」尚書劉曄曰：「近東吳陸遜，新破蜀兵七十萬，上下齊心，更有江湖之阻，不可卒制。陸遜多謀，必有準備。」丕曰：「卿前勸朕伐吳，今又諫阻，何也？」曄曰：「時有不同也：昔東吳累敗於蜀，其勢頓挫，故可擊耳；今既獲全勝，銳氣百倍，未可攻也。」丕曰：「朕意已決，卿勿復言。」遂引御林軍親往接應三路兵馬。早有哨馬報說東吳已有準備：令呂範引兵拒住曹休，諸葛瑾引兵在南郡拒住曹真，朱桓引兵當住濡須以拒曹仁。劉曄曰：「既有準備，去恐無益。」丕不從，引兵而去。\n卻說吳將朱桓，年方二十七歲，極有膽略，孫權甚愛之；時督軍於濡須，聞曹仁引大軍去取羨溪，桓遂盡撥軍守把羨溪去了，止留五千騎守城。忽報曹仁令大將常雕同諸葛虔、王雙，引五萬精兵飛奔濡須城來。眾軍皆有懼色。　桓按劍而言曰：「勝負在將，不在兵之多寡。兵法云；『客兵倍而主兵半者，主兵尚能勝於客兵。』今曹仁千里跋涉，人馬疲困。吾與汝等，共據高城，南臨大江，北背山險，以逸待勞，以主制客：此乃百戰百勝之勢。雖曹丕自來，尚不足憂，況仁等耶？」於是傳令，教眾軍偃旗息鼓，只作無人守把之狀。\n且說魏將先鋒常雕，領精兵來取濡須城，遙望城上並無軍馬。雕催軍急進，離城不遠，一聲砲響，旌旗齊豎。朱桓橫刀飛馬而出，直取常雕。戰不三合，被桓一刀斬常雕於馬下。吳兵乘勢衝殺一陣，魏兵大敗，死者無數。朱桓大勝，得了無數旌旗軍器戰馬。曹仁領兵隨後到來，卻被吳兵從羨溪殺出。曹仁大敗而退，回見魏主，細奏大敗之事。丕大驚。正議之間，忽探馬報：「曹真、夏侯尚圍了南郡，被陸遜伏兵於內，諸葛瑾伏兵於外，內外夾攻，因此大敗。」言未畢，忽探馬又報：「曹休亦被呂範殺敗。」丕聽知三路兵敗，乃喟然嘆曰：「朕不聽賈詡、劉曄之言，果有此敗！」時值夏天，大疫流行，馬步軍十死六七，遂引軍回洛陽。吳、魏自此不和。\n卻說先主在永安宮染病不起，漸漸沈重。至章武三年夏四月，先主知病入四肢；又哭關、張二弟，其病愈深，兩目昏花，厭見侍從之人；乃叱退左右，獨臥於龍榻之上。忽然陰風驟起，將燈吹搖，滅而復明。只見燈影之下，二人侍立。先主怒曰；「朕心緒不寧，教汝等且退，何故又來！」叱之不退。先主起而視之：上首乃雲長，下首乃翼德也。先主大驚曰：「二弟原來尚在！」雲長曰：「臣等非人，乃是鬼也。上帝以臣二人平生不失信義，皆敕命為神。哥哥與兄弟聚會不遠矣。」先主扯定大哭。忽然驚覺：二弟不見。即喚從人問之，時正三更。先主嘆曰：「朕不久於人世矣！」遂遣使往成都，請丞相諸葛亮、尚書令李嚴等，星夜來永安宮，聽受遺命。孔明等與先主次子魯王劉永、梁王劉理，來永安宮見帝，留太子劉禪守成都。\n且說孔明到永安宮，見先主病危，慌忙拜伏於龍榻之下。先主傳旨，請孔明坐於龍榻之側，撫其背曰：「朕自得丞相，幸成帝業；何期智識淺陋，不納丞相之言，自取其敗。悔恨成疾，死在旦夕。嗣子孱弱，不得不以大事相託。」言訖，淚流滿面。孔明亦涕泣曰：「願陛下善保龍體，以副天下之望！」先主以目遍視，只見馬良之弟馬謖在傍，先主令且退。謖退出，先主謂孔明曰：「丞相觀馬謖之才何如？」孔明曰：「此人亦當世之英才也。」先主曰：「不然。朕觀此人，言過其實，不可大用。丞相宜深察之。」分付畢，傳旨召諸臣入殿，取紙筆寫了遺詔，遞與孔明而嘆曰：「朕不讀書，粗知大略。聖人云：『鳥之將死，其鳴也哀；人之將死，其言也善。』朕本待與卿等同滅曹賊，共扶漢室；不幸中道而別。煩丞相將詔付與太子禪，令勿以為常言。凡事更望丞相之！」\n孔明等泣拜於地曰：「願陛下將息龍體！臣等盡施犬馬之勞，以報陛下知遇之恩也。」先主命內侍扶起孔明，一手掩淚，一手執其手，曰：「朕今死矣！有心腹之言相告！」孔明曰：「有何聖諭？」先主泣曰：「君才十倍曹丕，必能安邦定國，終定大事。若嗣子可輔，則輔之；如其不才，君可自為成都之主。」孔明聽畢，汗流遍體，手足失措，泣拜於地曰：「臣安敢不竭股肱之力，效忠貞之節，繼之以死乎！」言訖，叩頭流血。先主又請孔明坐於榻上，喚魯王劉永、梁王劉理近前，分付曰：「爾等皆記朕言，朕亡之後，爾兄弟三人，皆以父事丞相，不可怠慢。」言罷，遂命二王同拜孔明。二王拜畢，孔明曰：「臣雖肝腦塗地，安能報知遇之恩也！」\n先主謂眾官曰：「朕已託孤於丞相，令嗣子以父事之。卿等俱不可怠慢，以負朕望。」又囑趙雲曰：「朕與卿於患難之中，相從到今，不想於此地分別。卿可想朕故交，早晚看覷吾子，勿負朕言。」雲泣拜曰：「臣敢不效犬馬之勞！」先主又謂眾官曰：「卿等眾官，朕不能一一分囑，願皆自愛。」言畢，駕崩，壽六十三歲：時章武三年四月二十四日也。後杜工部有詩歎曰：\n蜀主窺吳向三峽，崩年亦在永安宮。\n翠華想在空山外，玉殿虛無野室中。\n古廟杉松巢水鶴，歲時伏臘走村翁。\n武侯祠屋長鄰近，一體君臣祭祀同。\n先主駕崩，文武官僚，無不哀傷，孔明率眾官奉梓宮還成都。太子劉禪出城迎接靈柩，安於正殿之內。舉哀行禮畢，開讀遺詔。詔曰：\n朕初得疾，但下痢耳；後轉生雜病，殆不自濟。朕聞「人年五十，不稱夭壽」。今朕六十有餘，死復何恨。但以汝兄弟為念耳。勉之！勉之！勿以惡小而為之，勿以善小而不為。惟賢惟德可以服人；汝父德薄，不足效也，吾亡之後，汝與丞相從事，事之如父，勿怠！勿忘！汝兄弟更求聞達，至囑！至囑！\n群臣讀詔已畢。孔明曰：「國不可一日無君；請立嗣君，以承漢統。」乃立太子禪即皇帝諡位，改元建興。加諸葛亮為武鄉侯，領益州牧。葬先主於惠陵，諡曰昭烈皇帝。尊皇后吳氏為皇太后。甘夫人為昭烈皇后。糜夫人亦追諡為皇后。陞賞群臣，大赦天下。\n早有魏軍探知此事，報入中原。近臣奏知魏主。曹丕大喜曰：「劉備已亡，朕無憂矣。何不乘其國中無主，起兵伐之？」賈詡諫曰：「劉備亡，必託孤於諸葛亮。亮感備知遇之恩，必傾心竭力，扶持嗣主。陛下不可倉卒伐之。」正言間，忽一人從班部中奮然而出曰：「不乘此時進兵，更待何時？」眾視之，乃司馬懿也。丕大喜，遂問計於懿。懿曰：「若只起中國之兵，急難取勝。須用五路大兵，四面夾攻，令諸葛亮首尾不能救應，然後可圖。」\n丕問何五路。懿曰：「可修書一封，差使往遼東鮮卑國王軻比能，賂以金帛，令起遼西羌兵十萬，先從旱路取西平關：此一路也。再修書遣使齎官誥賞賜，直入南蠻見蠻王孟獲，令起兵十萬，攻打益州、永昌、牂牁、越雋四郡，以擊西川之南：此二路也。再遣使入吳修好，許以割地，令孫權起兵十萬，攻兩川夾口，徑取涪城：此三路也。又可遣使至降將孟達處，起上庸兵十萬，西攻漢中：此四路也。然後命大將軍曹真為大都督，提兵十萬，由京兆徑出陽平關取西川：此五路也。共大兵五十萬，五路並進。諸葛亮便有呂望之才，安能當此乎？」丕大喜，隨即密遣能言官四員為使前去；又命曹真為大都督，領兵十萬，逕取陽平關。此時張遼等一班舊將，皆封列侯，俱在冀、徐、青及合淝等處，據守關津隘口，故不復調用。\n卻說蜀漢後主劉禪，自即位以來，舊臣多有病亡者，不能細說。凡一應朝廷、選法、錢糧、詞訟等事，皆聽諸葛丞相裁處。時後主未立皇后。孔明與群臣上言曰：「故車騎將軍張飛之女甚賢，年十七歲，可納為正宮皇后。」後主即納之。\n建興元年秋八月，忽有邊報說：「魏調五路大兵，來取西川：第一路，曹真為大都督，起兵十萬，取陽平關；第二路，乃反將孟達，起上庸兵十萬，犯漢中；第三路，乃東吳孫權，起精兵十萬，取峽口入川；第四路，乃蠻王孟獲，起蠻兵十萬，犯益州四郡；第五路，乃番王軻比能，起羌兵十萬，犯西平關－此五路軍馬，甚是利害。已先報知丞相，丞相不知為何，數日不出視事。」後主聽罷大驚，即差近侍齎旨，宣召孔明入朝。使命去了半日，「回報丞相府下人言，丞相染病不出。」後主轉慌；次日，又命黃門侍郎董允、諫議大夫杜瓊，去丞相臥榻前，告此大事。董、杜二人，到丞相府前，皆不得入。杜瓊曰：「先帝託孤於丞相，今主上初登寶位，被曹丕五路兵犯境，軍情至急，丞相何故推病不出？」良久，門吏傳丞相令，言：「病體稍可，明早出都堂議事。」董、杜二人嘆息而回。次日，多官又來丞相府前伺侯。從早至晚，又不見出。眾官惶惶，只得散去。杜瓊入奏後主曰：「請陛下聖駕，親往丞相府問計。」後主即引多官入宮，啟皇太后。太后大驚，曰：「丞相何故如此？有負先帝委託之情也！我當自往。」董允奏曰：「娘娘未可輕往。臣料丞相必有有高明之見。且待主上先往。如果怠慢，請娘娘於太廟中，召丞相問之未遲。」太后依奏。\n次日，後主車駕親至相府。門吏見駕到，慌忙拜伏於地而迎。後主問曰：「丞相在何處？」門吏曰：「不知在何處。只有丞相鈞旨，教擋住百官，勿得輒入。」後主乃下車步行，獨進第三重門，見孔明獨倚竹杖，在小池邊觀魚。後主在後立久，乃徐徐而言曰：「丞相安樂否？」孔明回顧，見是後主，慌忙棄杖，拜伏於地曰：「臣該萬死！」後主扶起，問曰；「今曹丕分兵五路，犯境甚急，相父緣何不肯出府視事？」孔明大笑，扶後主入內室坐定，奏曰：「五路兵至，臣安得不知？臣非觀魚，有所思也。」後主曰：「如之奈何？」孔明曰：「羌王軻比能，蠻王孟獲，反將孟達，魏將曹真：此四路兵，臣已皆退去了也。止有孫權這一路兵，臣已有退兵之計，但須一能言之人為使。因未得其人，故熟思之。陛下何必憂乎？」\n後主聽罷，又驚又喜，曰：「相父果有鬼神不測之機也！願聞退兵之策。」孔明曰：「先帝以陛下付託與臣，臣安敢旦夕怠慢？成都眾官，皆不曉兵法之妙，貴在使人不測，豈可洩漏於人？老臣先知西番國王軻比能，引兵犯西平關；臣料馬超積祖西川人氏，素得羌人之心，羌人以超為神威大將軍；臣已先遣一人，星夜馳檄，令馬超緊守西平關，伏四路奇兵，每日交換，以兵拒之：此一路不必憂矣。又南蠻孟獲，兵犯四邵，臣亦飛檄遣魏延領一軍左出右入，右出左入，為疑兵之計；蠻兵惟勇力，其心多疑，若見疑兵，必不敢進：此一路又不足憂矣。又知孟達引兵出漢中；孟達與李嚴曾結生死之交；臣回成都時，留李嚴守永安宮；臣已作一書，只做李嚴親筆，令人送與孟達；達必然推病不出，以慢軍心：此一路又不足憂矣。又知曹真引兵犯陽平關；此地險峻，可以保守，臣已調趙雲引一軍守把關隘，並不出戰；曹真若見我軍不出，不久自退矣。此四路兵俱不足憂。臣尚恐不能全保，又密調關興、張苞二將，各引兵三萬，屯於緊要之處，為各路救應。此數處調遣之事，皆不曾經由成都，故無人知覺。只有東吳這一路兵，未必便動：如見四路兵勝，川中危急，必來相攻；若四路不濟，安肯動乎？臣料孫權想曹丕三路侵吳之怨，必不肯從其言。雖然如此，須用一舌辯之士，逕往東吳，以利害說之，則先退東吳；其四路之兵，何足憂乎？但未得說吳之人，臣故躊躇。何勞陛下聖駕來臨？」後主曰：「太后亦欲來見相父。今朕聞相父之言，如夢初覺，復何憂哉！」\n孔明與後主共飲數盃，送後主出府。眾官皆環立於門外，見後主面有喜色。後主別了孔明，上御車回朝。眾皆疑惑不定。孔明見眾官中，一人仰天而笑，面亦有喜色。孔明視之，乃義陽新野人：姓鄧，名芝，字伯苗；現為戶部尚書；漢司馬鄧禹之後。孔明暗令人留住鄧芝。多官皆散。孔明請芝到書院中，問芝曰：「今蜀、魏、吳鼎分三國，欲討二國，一統中興，當先伐何國？」芝曰：「以愚意論之，魏雖漢賊，其勢甚大，急難搖動，當徐徐緩圖。今主上初登寶位，民心未安，當與東吳連合結為脣齒，一洗先帝舊怨，此乃長久之計也。未審丞相鈞意若何。」孔明大笑曰：「吾思之久矣，奈未得其人，今日方得也！」芝曰：「丞相欲其人何為？」孔明曰：「吾欲使人往結東吳。公既能明此意，必能不辱君命。使吳之任，非公不可。」芝曰：「愚才智淺，恐不堪當此重任。」孔明曰：「吾來日奏知天子，便請伯苗一行，切勿推辭。」芝應允而退。至次日，孔明奏准後主，差鄧芝往說東吳。芝拜辭，望東吳而來。正是：\n吳人方見干戈息，蜀使還將玉帛通。\n未知鄧芝此去若何，且看下文分解。",
+    "title": "第八十五回 劉先主遺詔託孤兒　　諸葛亮安居平五路"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-085.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

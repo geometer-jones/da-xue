@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-065",
+    "order": 65,
+    "summary": "家徒四壁",
+    "text": "家徒四壁\n分甘共苦\n深山老林\n遂心应手\n刮目相待\n恩甚怨生\n柔情密意\n回光反照\n高遏行云\n先意承旨\n名垂后世\n借景生情\n高居深拱\n白衣宰相\n立身处世\n去本就末\n简在帝心\n接二连三\n出人意表\n量入计出\n白首北面\n流芳后世\n七足八手\n重生父母\n危如朝露\n鬼功神力\n招是搬非\n格物致知\n意乱心忙\n公耳忘私",
+    "title": "1921-1950",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "家徒四壁",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. with only four bare walls for a home (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "分甘共苦",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Share happiness and hardship"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "深山老林",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) backwoods; wilderness"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "遂心应手",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Very handy"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "刮目相待",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 刮目相看[gua1 mu4 xiang1 kan4]"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "恩甚怨生",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Giving too much favor can lead to resentment"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "柔情密意",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to tender and intimate affection"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "回光反照",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "final radiance of setting sun"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "高遏行云",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describing a high-pitched singing voice"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "先意承旨",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to trying to figure out the intentions of superiors and trying to flatter them"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "名垂后世",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Descendants of a good reputation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "借景生情",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Use the things in front of you to stimulate thoughts and feelings"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "高居深拱",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to occupying the imperial position and governing with an arch"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "白衣宰相",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to those members of the prime minister's family who have no reputation but rely on their power to wield power."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "立身处世",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) the way one conducts oneself in society"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "去本就末",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to abandoning farming and doing business"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "简在帝心",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to someone who can be known by the emperor"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "接二连三",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) one after another; in quick succession"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "出人意表",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to exceed all expectations"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "量入计出",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Set spending limits based on income"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "白首北面",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In ancient times, the south side was respected and the north side was humbled. This refers to the etiquette in which students respect their teachers."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "流芳后世",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to passing on a good reputation to future generations"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "七足八手",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "describe running around in panic"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "重生父母",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Again and again"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "危如朝露",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "precarious as the morning dew (idiom); fig. ephemeral and precarious nature of human existence"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "鬼功神力",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To describe something exquisite and superb, beyond human ability"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "招是搬非",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To stir up trouble and cause disputes"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "格物致知",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to study the underlying principle to acquire knowledge (idiom); pursuing knowledge to the end"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "意乱心忙",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still too busy"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-065-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "公耳忘私",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Serve the public wholeheartedly and forget private matters"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-065.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

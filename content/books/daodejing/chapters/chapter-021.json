@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 71,
+    "id": "chapter-021",
+    "order": 21,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 71,
+        "id": "chapter-021-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "孔德之容，唯道是從。道之為物，唯恍唯惚。忽兮恍兮，其中有象；恍兮忽兮，其中有物。窈兮冥兮，其中有精；其精甚真，其中有信。自古及今，其名不去，以閱衆甫。吾何以知衆甫之狀哉？以此。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The grandest forms of active force From Tao come, their only source. Who can of Tao the nature tell? Our sight it flies, our touch as well. Eluding sight, eluding touch, The forms of things all in it crouch; Eluding touch, eluding sight, There are their semblances, all right. Profound it is, dark and obscure; Things' essences all there endure. Those essences the truth enfold Of what, when seen, shall then be told. Now it is so; 'twas so of old. Its name--what passes not away; So, in their beautiful array, Things form and never know decay. How know I that it is so with all the beauties of existing things? By this (nature of the Tao)."
+          }
+        }
+      }
+    ],
+    "summary": "孔德之容，唯道是從",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "孔德之容，唯道是從。道之為物，唯恍唯惚。忽兮恍兮，其中有象；恍兮忽兮，其中有物。窈兮冥兮，其中有精；其精甚真，其中有信。自古及今，其名不去，以閱衆甫。吾何以知衆甫之狀哉？以此。",
+    "title": "第21章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-021.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

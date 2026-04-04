@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-060",
+    "order": 60,
+    "summary": "十死九活",
+    "text": "十死九活\n生死与共\n平心易气\n兄死弟及\n量如江海\n意气相投\n虎入羊群\n三冬二夏\n由表及里\n枝外生枝\n拔刀相向\n名山胜水\n质非文是\n果行育德\n急如风火\n安宅正路\n人我是非\n既成事实\n深切著明\n云行雨施\n宜家宜室\n文星高照\n心低意沮\n势如水火\n太山北斗\n家道从容\n山行海宿\n猛志常在\n高山仰止\n名正理顺",
+    "title": "1771-1800",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "十死九活",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "describe as difficult to survive"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "生死与共",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Live and die together, depend on each other for life"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "平心易气",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Peaceful mood and calm attitude"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "兄死弟及",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It also refers to a younger brother taking over his elder brother's position and career."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "量如江海",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The metaphor is very large"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "意气相投",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "congenial"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "虎入羊群",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tiger ran into the sheep"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "三冬二夏",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still talking about three or two years"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "由表及里",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to proceed from the outside to the inside"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "枝外生枝",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor of derivation and reproduction"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "拔刀相向",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Use force"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "名山胜水",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Famous rivers and mountains with beautiful scenery"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "质非文是",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just a gorgeous appearance without corresponding substance"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "果行育德",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cultivate high morals through decisive actions"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "急如风火",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As anxious as the wind and fire"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "安宅正路",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor of benevolence and righteousness"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "人我是非",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "right and wrong dispute, dispute"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "既成事实",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "fait accompli"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "深切著明",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "profound and obvious"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "云行雨施",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Shi Shibu"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "宜家宜室",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes a harmonious family and a harmonious couple"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "文星高照",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor for literary fortune"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "心低意沮",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to negative and depressed mood"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "势如水火",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes two parties as opposed to each other like water and fire, incompatible"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "太山北斗",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Taishan is the first of the five mountains, and the Beidou is dominated by the stars, so it is often used to describe people who are admired by everyone."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "家道从容",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the family’s abundant living conditions"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "山行海宿",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Walking in the mountains and staying on the sea"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "猛志常在",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A metaphor for ambition that will remain unchanged until death"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "高山仰止",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mountains are a metaphor for noble moral character"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-060-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "名正理顺",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means that the name is legitimate and reasonable."
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-060.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

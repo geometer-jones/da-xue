@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-014",
+    "order": 14,
+    "summary": "无所不有",
+    "text": "无所不有\n天上人间\n人间天上\n世道人情\n成事不说\n大而无当\n者也之乎\n之乎者也\n物是人非\n天下为家\n不仁不义\n不齿于人\n出以公心\n面无人色\n引而不发\n天不作美\n义不取容\n分文不名\n视而不见\n称家有无\n得失在人\n目中无人\n小人得志\n以日为年\n两世为人\n目不知书\n言不尽意\n不易之论\n不得人心\n以小见大",
+    "title": "391-420",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "无所不有",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have everything"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "天上人间",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "heaven and earth"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "人间天上",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "heaven on earth"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "世道人情",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Humanity"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "成事不说",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "it is not useful to discuss things of the past"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "大而无当",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "grandiose but impractical; large but of no real use"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "者也之乎",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "That's it"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "之乎者也",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "four grammatical particles of Classical Chinese"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "物是人非",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) the place is unchanged, but the faces are different"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "天下为家",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The world is home"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "不仁不义",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unkind and unjust"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "不齿于人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Disdainful"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "出以公心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "out of public spirit"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "面无人色",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "ashen-faced"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "引而不发",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to pull the bow without shooting (idiom from Mencius); ready and waiting for action"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "天不作美",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The weather is not perfect"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "义不取容",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Intolerance"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "分文不名",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "penniless"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "视而不见",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to look but not see; to neglect"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "称家有无",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Do you have a family or not?"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "得失在人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gains and losses depend on people"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "目中无人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to consider everyone else beneath one"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "小人得志",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a vile character flourishes"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "以日为年",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Day as year"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "两世为人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Two generations of people"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "目不知书",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I don't know the book"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "言不尽意",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(conventional letter ending) words cannot fully express what is in my heart"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "不易之论",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "perfectly sound proposition"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "不得人心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "not to enjoy popular support"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-014-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "以小见大",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to see the forest for the trees; to discern the big picture or an overall pattern from small details"
+          }
+        },
+        "category": "高透明度 III"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-014.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

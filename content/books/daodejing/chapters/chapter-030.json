@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 75,
+    "id": "chapter-030",
+    "order": 30,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 75,
+        "id": "chapter-030-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "以道佐人主者，不以兵強天下。其事好還。師之所處，荊棘生焉。大軍之後，必有凶年。善有果而已，不敢以取強。果而勿矜，果而勿伐，果而勿驕。果而不得已，果而勿強。物壯則老，是謂不道，不道早已。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He who would assist a lord of men in harmony with the Tao will not assert his mastery in the kingdom by force of arms. Such a course is sure to meet with its proper return. Wherever a host is stationed, briars and thorns spring up. In the sequence of great armies there are sure to be bad years. A skilful (commander) strikes a decisive blow, and stops. He does not dare (by continuing his operations) to assert and complete his mastery. He will strike the blow, but will be on his guard against being vain or boastful or arrogant in consequence of it. He strikes it as a matter of necessity; he strikes it, but not from a wish for mastery. When things have attained their strong maturity they become old. This may be said to be not in accordance with the Tao: and what is not in accordance with it soon comes to an end."
+          }
+        }
+      }
+    ],
+    "summary": "以道佐人主者，不以兵強天下",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "以道佐人主者，不以兵強天下。其事好還。師之所處，荊棘生焉。大軍之後，必有凶年。善有果而已，不敢以取強。果而勿矜，果而勿伐，果而勿驕。果而不得已，果而勿強。物壯則老，是謂不道，不道早已。",
+    "title": "第30章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-030.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

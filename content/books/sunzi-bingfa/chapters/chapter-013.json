@@ -1,0 +1,112 @@
+{
+  "chapter": {
+    "character_count": 465,
+    "id": "chapter-013",
+    "order": 13,
+    "reading_unit_count": 7,
+    "reading_units": [
+      {
+        "character_count": 83,
+        "id": "chapter-013-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "孫子曰：凡興師十萬，出征千里，百姓之費，公家之奉，日費千金，內外騷動，怠于道路，不得操事者，七十萬家，相守數年，以爭一日之勝，而愛爵祿百金，不知敵之情者，不仁之至也，非人之將也，非主之佐也，非勝之主也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This is the way to keep a country at peace and an army intact. Sun Tzu said: Raising a host of a hundred thousand men and marching them great distances entails heavy loss on the people and a drain on the resources of the State. The daily expenditure will amount to a thousand ounces of silver. There will be commotion at home and abroad, and men will drop down exhausted on the highways. As many as seven hundred thousand families will be impeded in their labor. Hostile armies may face each other for years, striving for the victory which is decided in a single day. This being so, to remain in ignorance of the enemy's condition simply because one grudges the outlay of a hundred ounces of silver in honors and emoluments, is the height of inhumanity. One who acts thus is no leader of men, no present help to his sovereign, no master of victory."
+          }
+        }
+      },
+      {
+        "character_count": 49,
+        "id": "chapter-013-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "故明君賢將，所以動而勝人，成功出于眾者，先知也；先知者，不可取于鬼神，不可象于事，不可驗于度；必取于人，知敵之情者也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thus, what enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-013-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "故用間有五：有鄉間、有內間、有反間、有死間、有生間。五間俱起，莫知其道，是謂神紀，人君之寶也。鄉間者，因其鄉人而用之。內間者，因其官人而用之。反間者，因其敵間而用之。死間者，為誑事于外，令吾間知之，而傳于敵。生間者，反報也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now this foreknowledge cannot be elicited from spirits; it cannot be obtained inductively from experience, nor by any deductive calculation. Knowledge of the enemy's dispositions can only be obtained from other men. Hence the use of spies, of whom there are five classes: (1) Local spies; (2) inward spies; (3) converted spies; (4) doomed spies; (5) surviving spies. When these five kinds of spy are all at work, none can discover the secret system. This is called “divine manipulation of the threads.” It is the sovereign's most precious faculty. Having local spies means employing the services of the inhabitants of a district. Having inward spies, making use of officials of the enemy. Having converted spies, getting hold of the enemy's spies and using them for our own purposes. Having doomed spies, doing certain things openly for purposes of deception, and allowing our spies to know of them and report them to the enemy. Surviving spies, finally, are those who bring back news from the enemy's camp."
+          }
+        }
+      },
+      {
+        "character_count": 68,
+        "id": "chapter-013-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "故三軍之事，親莫親于間，賞莫厚于間，事莫密于間，非聖智不能用間，非仁義不能使間，非微妙不能得間之實。微哉，微哉，無所不用間也。間事未發而先聞者，間與所告者皆死。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hence it is that which none in the whole army are more intimate relations to be maintained than with spies."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-013-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "凡軍之所欲擊，城之所欲攻，人之所欲殺；必先知其守將，左右，謁者，門者，舍人之姓名，令吾間必索知之。必索敵間之來間我者，因而利之，導而舍之，故反間可得而使也。因是而知之，故鄉間內間可得而使也；因是而知之，故死間為誑事，可使告敵；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "None should be more liberally rewarded. In no other business should greater secrecy be preserved. Spies cannot be usefully employed without a certain intuitive sagacity. They cannot be properly managed without benevolence and straightforwardness. Without subtle ingenuity of mind, one cannot make certain of the truth of their reports. Be subtle! be subtle! and use your spies for every kind of business. If a secret piece of news is divulged by a spy before the time is ripe, he must be put to death together with the man to whom the secret was told. Whether the object be to crush an army, to storm a city, or to assassinate an individual, it is always necessary to begin by finding out the names of the attendants, the aides-de-camp, and door-keepers and sentries of the general in command. Our spies must be commissioned to ascertain these. The enemy's spies who have come to spy on us must be sought out, tempted with bribes, led away and comfortably housed. Thus they will become converted spies and available for our service. It is through the information brought by the converted spy that we are able to acquire and employ local and inward spies. It is owing to his information, again, that we can cause the doomed spy to carry false tidings to the enemy."
+          }
+        }
+      },
+      {
+        "character_count": 35,
+        "id": "chapter-013-line-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "因是而知之，故生間可使如期。五間之事，主必知之，知之必在于反間，故反間不可不厚也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lastly, it is by his information that the surviving spy can be used on appointed occasions."
+          }
+        }
+      },
+      {
+        "character_count": 45,
+        "id": "chapter-013-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "昔殷之興也，伊摯在夏。周之興也，呂牙在殷。故明君賢將，能以上智為間者，必成大功，此兵之要，三軍之所恃而動也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The end and aim of spying in all its five varieties is knowledge of the enemy; and this knowledge can only be derived, in the first instance, from the converted spy. Hence it is essential that the converted spy be treated with the utmost liberality. Of old, the rise of the Yin dynasty was due to I Chih who had served under the Hsia. Likewise, the rise of the Chou dynasty was due to Lü Ya who had served under the Yin. Hence it is only the enlightened ruler and the wise general who will use the highest intelligence of the army for purposes of spying, and thereby they achieve great results. Spies are a most important element in water, because on them depends an army's ability to move."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "孫子曰：凡興師十萬，出征千里，百姓之費，公家之奉，日費千金，內外騷動，怠于道路，不得操事者，七十萬家，相守數年，以爭一日之勝，而愛爵祿百金，不知敵之情者，不仁之至也，非人之將也，非主之佐也，非勝之主也。故明君賢將，所以動而勝人，成功出于眾者，先知也；先知者，不可取于鬼神，不可象于事，不可驗于度；必取于人，知敵之情者也。\n故用間有五：有鄉間、有內間、有反間、有死間、有生間。五間俱起，莫知其道，是謂神紀，人君之寶也。鄉間者，因其鄉人而用之。內間者，因其官人而用之。反間者，因其敵間而用之。死間者，為誑事于外，令吾間知之，而傳于敵。生間者，反報也。\n故三軍之事，親莫親于間，賞莫厚于間，事莫密于間，非聖智不能用間，非仁義不能使間，非微妙不能得間之實。微哉，微哉，無所不用間也。間事未發而先聞者，間與所告者皆死。\n凡軍之所欲擊，城之所欲攻，人之所欲殺；必先知其守將，左右，謁者，門者，舍人之姓名，令吾間必索知之。必索敵間之來間我者，因而利之，導而舍之，故反間可得而使也。因是而知之，故鄉間內間可得而使也；因是而知之，故死間為誑事，可使告敵；因是而知之，故生間可使如期。五間之事，主必知之，知之必在于反間，故反間不可不厚也。\n昔殷之興也，伊摯在夏。周之興也，呂牙在殷。故明君賢將，能以上智為間者，必成大功，此兵之要，三軍之所恃而動也。",
+    "title": "用間"
+  },
+  "chapter_path": "books/sunzi-bingfa/chapters/chapter-013.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "The Art of War",
+  "source_url": "https://ctext.org/art-of-war?if=en"
+}

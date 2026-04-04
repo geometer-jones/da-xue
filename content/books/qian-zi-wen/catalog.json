@@ -1,0 +1,22 @@
+{
+  "cache_dir": "books/qian-zi-wen",
+  "catalog_path": "books/qian-zi-wen/catalog.json",
+  "chapter_count": 1,
+  "chapters": [
+    {
+      "chapter_path": "books/qian-zi-wen/chapters/chapter-001.json",
+      "character_count": 1000,
+      "id": "chapter-001",
+      "order": 1,
+      "reading_unit_count": 125,
+      "summary": "天地玄黃　宇宙洪荒",
+      "supplemental_unit_count": 0,
+      "title": "全篇"
+    }
+  ],
+  "commentary_chapter_count": 0,
+  "commentary_chapters": [],
+  "provider": "wikisource-html",
+  "source_url": "https://zh.wikisource.org/wiki/%E5%8D%83%E5%AD%97%E6%96%87",
+  "title": "千字文 - 维基文库，自由的图书馆"
+}

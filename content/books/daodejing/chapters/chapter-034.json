@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 61,
+    "id": "chapter-034",
+    "order": 34,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 61,
+        "id": "chapter-034-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "大道汎兮，其可左右。萬物恃之而生而不辭，功成不名有。衣養萬物而不為主，常無欲，可名於小；萬物歸焉，而不為主，可名為大。以其終不自為大，故能成其大。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All-pervading is the Great Tao! It may be found on the left hand and on the right. All things depend on it for their production, which it gives to them, not one refusing obedience to it. When its work is accomplished, it does not claim the name of having done it. It clothes all things as with a garment, and makes no assumption of being their lord;--it may be named in the smallest things. All things return (to their root and disappear), and do not know that it is it which presides over their doing so;--it may be named in the greatest things. Hence the sage is able (in the same way) to accomplish his great achievements. It is through his not making himself great that he can accomplish them."
+          }
+        }
+      }
+    ],
+    "summary": "大道汎兮，其可左右",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "大道汎兮，其可左右。萬物恃之而生而不辭，功成不名有。衣養萬物而不為主，常無欲，可名於小；萬物歸焉，而不為主，可名為大。以其終不自為大，故能成其大。",
+    "title": "第34章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-034.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

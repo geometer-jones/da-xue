@@ -1,0 +1,99 @@
+{
+  "chapter": {
+    "character_count": 212,
+    "id": "chapter-033",
+    "order": 33,
+    "reading_unit_count": 6,
+    "reading_units": [
+      {
+        "character_count": 62,
+        "id": "chapter-033-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "《詩》曰：「衣錦尚絅」，惡其文之著也。故君子之道，闇然而日章；小人之道，的然而日亡。君子之道：淡而不厭，簡而文，溫而理，知遠之近，知風之自，知微之顯，可與入德矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said in the Book of Poetry, \"Over her embroidered robe she puts a plain single garment,\" intimating a dislike to the display of the elegance of the former. Just so, it is the way of the superior man to prefer the concealment of his virtue, while it daily becomes more illustrious, and it is the way of the mean man to seek notoriety, while he daily goes more and more to ruin. It is characteristic of the superior man, appearing insipid, yet never to produce satiety; while showing a simple negligence, yet to have his accomplishments recognized; while seemingly plain, yet to be discriminating. He knows how what is distant lies in what is near. He knows where the wind proceeds from. He knows how what is minute becomes manifested. Such a one, we may be sure, will enter into virtue."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-033-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "《詩》云：「潛雖伏矣，亦孔之昭！」故君子內省不疚，無惡於志。君子所不可及者，其唯人之所不見乎！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said in the Book of Poetry, \"Although the fish sink and lie at the bottom, it is still quite clearly seen.\" Therefore the superior man examines his heart, that there may be nothing wrong there, and that he may have no cause for dissatisfaction with himself. That wherein the superior man cannot be equaled is simply this,-his work which other men cannot see."
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-033-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "《詩》云：「相在爾室，尚不愧于屋漏。」故君子不動而敬，不言而信。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said in the Book of Poetry, \"Looked at in your apartment, be there free from shame as being exposed to the light of Heaven.\" Therefore, the superior man, even when he is not moving, has a feeling of reverence, and while he speaks not, he has the feeling of truthfulness."
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-033-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "《詩》曰：「奏假無言，時靡有爭。」是故君子不賞而民勸，不怒而民威於鈇鉞。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said in the Book of Poetry, \"In silence is the offering presented, and the spirit approached to; there is not the slightest contention.\" Therefore the superior man does not use rewards, and the people are stimulated to virtue. He does not show anger, and the people are awed more than by hatchets and battle-axes."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-033-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "《詩》曰：「不顯惟德！百辟其刑之。」是故君子篤恭而天下平。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said in the Book of Poetry, \"What needs no display is virtue. All the princes imitate it.\" Therefore, the superior man being sincere and reverential, the whole world is conducted to a state of happy tranquility."
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-033-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "《詩》曰：「予懷明德，不大聲以色。」子曰：「聲色之於以化民，末也。」《詩》曰：「德輶如毛」，毛猶有倫；「上天之載，無聲無臭」，至矣！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said in the Book of Poetry, \"I regard with pleasure your brilliant virtue, making no great display of itself in sounds and appearances.\" The Master said, \"Among the appliances to transform the people, sound and appearances are but trivial influences. It is said in another ode, 'His Virtue is light as a hair.' Still, a hair will admit of comparison as to its size. 'The doings of the supreme Heaven have neither sound nor smell. 'That is perfect virtue.\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "詩曰「衣錦尚絅」，惡其文之著也。故君子之道，闇然而日章；小人之道，的然而日亡。君子之道：淡而不厭，簡而文，溫而理，知遠之近，知風之自，知微之顯，可與入德矣。\n詩云：「潛雖伏矣，亦孔之昭！」故君子內省不疚，無惡於志。君子之所不可及者，其唯人之所不見乎。\n詩云：「相在爾室，尚不愧于屋漏。」故君子不動而敬，不言而信。\n詩曰：「奏假無言，時靡有爭。」是故君子不賞而民勸，不怒而民威於鈇鉞。\n詩曰：「不顯惟德！百辟其刑之。」是故君子篤恭而天下平。\n詩云：「予懷明德，不大聲以色。」子曰：「聲色之於以化民，末也。」詩曰：「德輶如毛」，毛猶有倫。「上天之載，無聲無臭」，至矣！",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-033.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

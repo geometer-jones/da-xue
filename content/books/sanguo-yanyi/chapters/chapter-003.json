@@ -1,0 +1,736 @@
+{
+  "chapter": {
+    "character_count": 3982,
+    "id": "chapter-003",
+    "order": 3,
+    "reading_unit_count": 55,
+    "reading_units": [
+      {
+        "character_count": 89,
+        "id": "chapter-003-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "且說曹操當日對何進曰「宦官之禍古今皆有但世主不當假之權寵使至於此。若欲治罪當除元惡但付一獄吏足矣何必紛紛召外兵乎欲盡誅之事必宣露。吾料其必敗也。」何進怒曰「孟德亦懷私意耶」操退曰「亂天下者必進也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to Cao Cao."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-003-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "進乃暗差使命齎密詔星夜往各鎮去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On that day, he said to He Jin, \"There have been calamities caused by eunuchs since ancient times. However, a ruler can not use their favored status as a pretext to bring about the situation with which we are now faced. If you would like to punish wrongdoers, then you should get rid of the original culprit. However, you only need to employ one jailor for this task. There is no need to call up outside troops in such great numbers. If you want to kill all of them, the matter is bound to get out. I predict that it is doomed to fail.\" He Jin angrily replied, \"Mengde, I take it that you have your own personal agenda?\" Cao withdrew, saying, \"It is Jin that is determined to wreak havoc on this world.\" Jin then quietly sent someone on a mission to travel non-stop and personally deliver the secret decree to each and every hamlet."
+          }
+        }
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-003-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "卻說前將軍斄鄉侯西涼刺史董卓，先為破黃巾無功，朝廷將治其罪，因賄賂十常侍幸免；後又結託朝貴，遂任顯官，統西州大軍二十萬，常有不臣之心。是時得詔大喜，點起軍馬，陸續便行；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to former general Dong Zhuo --- the marquis of Tai Village, and governor of Xiliang Province --- who had failed to break up the Yellow Turbans."
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-003-line-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "使其婿中郎將牛輔，守住陝西，自己卻帶李傕、郭汜、張濟、樊稠等提兵望洛陽進發。卓婿謀士李儒曰：「今雖奉詔，中間多有暗昧。何不差人上表，名正言順，大事可圖。」卓大喜，遂上表。其略曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The court was planning on punishing him, but he bribed the ten regular attendants and got off lucky."
+          }
+        }
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-003-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "竊聞天下所以亂逆不止者，皆由黃門常侍張讓等侮慢天常之故。臣聞揚湯止沸，不如去薪；潰癰雖痛，勝於養毒。臣敢鳴鐘鼓入洛陽，請除讓等。社稷幸甚！天下幸甚！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Afterwards, he got cozy with some of the powerful officials at court, so he was appointed to a noteworthy post. He was in charge a large army of 200,000 men in Xizhou, but continued to harbor feelings of disloyalty. After he received this latest decree, he was overjoyed. He called up the army and cavalry, and marched them nonstop. He placed his son-in-law, Commander of the Palace Guard Niu Fu, in charge of defending Shaanxi. He led the rest of the army toward Luoyang, accompanied by people such as Li Jue, Guo Si, Zhang Ji and Fan Chou. Li Ru, Zhuo's son-in-law and advisor, said, \"Even though our intention is to obey the decree, there are many vagaries within its text; why not send someone with a petition to the emperor which clearly states our intentions, so that we may accomplish great things.\" Zhuo was overjoyed, and sent the petition to the emperor. It said something to the effect of: We, your subjects, have overheard that the reason for all of the chaos in the country is that the likes of eunuchs such as Zhang Rang and his ilk have been making a mockery of the natural hierarchy of relationships among men. We have heard it said that lifting the soup to stop it from boiling is less effective than taking away the firewood. Piercing an abscess to let the puss drain might be painful, but it is better than letting it fester. We boldly sound the drums and gongs of war on our way into Luoyang, so that we can clear out the likes of Rang and his cohorts. This is good for the nation! This is good for the world!"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-003-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "何進得表，出示大臣。侍御史鄭泰諫曰：「董卓乃豺狼也，引入京城，必食人矣。」進曰：「汝多疑，不足謀大事。」盧植亦諫曰：「植素知董卓為人，面善心狠；一入禁庭，必生禍患。不如止之勿來，免致生亂。」進不聽，鄭泰、盧植皆棄官而去。朝廷大臣，去者大半。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After He Jin received the petition, he showed it to his ministers."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-003-line-007",
+        "order": 7,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "進使人迎董卓於澠池，卓按兵不動。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Assistant oversight advisor Zheng Tai admonished, \"Dong Zhuo is a wolf and a jackal, if he enters the capital, it will most certainly be people that he devours.\" Jin replied, \"You have too many doubts, and are not up to the task of planning for great things.\" Lu Zhi also admonished, \"I know Dong Zhuo's character all too well, he is a wolf in sheep's clothing."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-003-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "張讓等知外兵到，共議曰：「此何進之謀也；我等不先下手，皆滅族矣。」乃先伏刀斧手五十人於長樂宮嘉德門內，入告何太后曰：「今大將軍矯詔召外兵至京師，欲滅臣等，望娘娘垂憐賜救。」太后曰：「汝等可詣大將軍府謝罪。」讓曰：「若到相府，骨肉虀粉矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Once he enters the palace, it will surely become a catastrophe. It is better to not allow him to enter the capital, in order to avoid chaos.\" Jin would not listen, so Zheng Tai and Lu Zhi resigned their posts and left. More than half of the senior ministers at court departed. Jin sent someone to meet with Dong Zhuo at Mianchi, and Zhuo temporarily held back his army. Zhang Rang and his cohorts knew of the arrival of the outside army, and discussed the matter, saying, \"This is a plot of He Jin's; if we don't take action first, it will be the death of us.\" So they sent 50 armed guards to hide inside the gate to Jiade Hall within Changle Palace. They then went to see Empress Dowager He, saying, \"The supreme general has now issued a forged decree which calls for outside armies to enter the capital. They want to destroy us. Please take pity, and save us.\" The empress dowager replied, \"You could all go to the residence of the supreme general and apologize for your transgressions.\" Rang said, \"If we were to go to the residence of the chancellor, he would make mince meat out of us. We would like for you to summon the supreme general to the palace, and command him to stop. If he does not comply, then all we can do is come before you and ask to be put to death.\""
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-003-line-009",
+        "order": 9,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "望娘娘宣大將軍入宮諭止之。如其不從，臣等只就娘娘前請死。」太后乃降詔宣進。進得詔便行。主簿陳琳諫曰：「太后此詔，必是十常侍之謀，切不可去。去必有禍。」進曰：「太后詔我，有何禍事？」袁紹曰：「今謀已泄，事已露，將軍尚欲入宮耶？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The empress dowager issued a decree summoning Jin."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-003-line-010",
+        "order": 10,
+        "source_block_chunk": 3,
+        "source_block_order": 5,
+        "text": "」曹操曰：「先召十常侍出，然後可入。」進笑曰：「此小兒之見也。吾掌天下之權，十常侍敢待如何？」紹曰：「公必欲去，我等引甲士護從，以防不測。」於是袁紹、曹操各選精兵五百，命袁紹之弟袁術領之。袁術全身披掛，引兵布列青瑣門外。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Jin received the decree, and was going to make the trip."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-003-line-011",
+        "order": 11,
+        "source_block_chunk": 4,
+        "source_block_order": 5,
+        "text": "紹與操帶劍護送何進至長樂宮前。黃門傳懿旨云：「太后特宣大將軍，餘人不許輒入。」將袁紹、曹操等都阻住宮門外。何進昂然直入。至嘉德殿門，張讓、段圭迎出，左右圍住，進大驚。讓厲聲責進曰：「董后何罪，妄以酖死？國母喪葬，託疾不出！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chief of records Chen Lin admonished, \"The empress dowager's decree is most certainly a plot of the ten regular attendants, you must not go."
+          }
+        }
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-003-line-012",
+        "order": 12,
+        "source_block_chunk": 5,
+        "source_block_order": 5,
+        "text": "汝本屠沽小輩，我等薦之天子，以致榮貴：不思報效，欲相謀害！汝言我等甚濁，其清者是誰？」進慌急，欲尋出路，宮門盡閉，伏甲齊出，將何進砍為兩段。後人有詩歎之曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If you go, it will mean disaster.\" Jin replied, \"The empress dowager has summoned me, what could go wrong?\" Yuan Shao said, \"The plot has already been leaked, the whole affair has been exposed. General, are you sure you still want to enter the palace?\" Cao Cao said, \"First tell the ten regular attendants to come out, and then you can go in.\" Jin smiled and said, \"That is a childish view. I command all that is under heaven, what would the ten regular attendants dare do to me?\" Shao said, \"If you must go, we will escort you with a contingent of armor-clad soldiers, in order to prevent any unexpected eventualities.\" 200px|thumb|right|w:Yuan Shu|Yuan Shu Yuan Shao and Cao Cao then each selected five hundred elite soldiers, and placed Yuan Shao's younger brother Yuan Shu in command of them. Yuan Shu, clad in full-body armor, lined up his soldiers outside of Qingsuo Gate. Shao and Cao wore straight swords on their hips, and escorted He Jin to the front of Changle Palace. The eunuchs delivered a decree from the empress; it stated, \"The empress dowager has summoned the supreme general, no one else may enter.\" They forced Yuan Shao, Cao Cao and the others to remain outside of the Palace Gate. He Jin boldly walked straight in. When he arrived at Jiade Hall, Zhang Rang and Duan Gui came out to meet him. Jin was then surrounded, to his great surprise. In a stern voice, Rang accused Jin, \"What crime did Empress Dong commit that she should be wantonly poisoned to death? You pretended to be sick, and did not even attend her funeral! You are a low-class son of a butcher, yet we recommended that your family inherit the throne, which brought you wealth and glory; but instead of repaying us with gratitude, you plotted our destruction! You said that we were dirty, but who is the clean one?\" Jin panicked, and began looking for an escape route, but the palace gates were all closed. Armor-clad soldiers came out of hiding in unison, and chopped off He Jin's head. People of later generations composed a poem to lament the incident:"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-003-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "漢室傾危天數終，無謀何進作三公。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The house of Han was in peril, and their days were at an end."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-003-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "幾番不聽忠臣諫，難免宮中受劍鋒。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He Jin lacked the ability to scheme, yet he controlled the offices of the three senior ministers. On several occasions, he did not heed the advice of his loyal ministers. No wonder he should meet with the tip of a sword while in the palace!"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-003-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "讓等既殺何進，袁紹久不見進出，乃於宮門外大叫曰：「請將軍上車！」讓等將何進首級從牆上擲出，宣諭曰：「何進謀反，已伏誅矣。其餘脅從，盡皆赦宥。」袁紹厲聲大叫：「閹官謀殺大臣！誅惡黨者前來助戰！」何進部將吳匡，便於青瑣門外放起火來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Rang and his cohorts had killed He Jin."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-003-line-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "袁術引兵突入宮庭，但見閹官，不諭大小，盡皆殺之。袁紹、曹操斬關入內。趙忠，程曠，夏惲，郭勝四個被趕至翠花樓前，剁為肉泥。宮中火燄沖天。張讓、段圭、曹節、侯覽將太后及太子並陳留王劫去內省，從後道走北宮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yuan Shao had not seen Jin come out for quite some time, so he yelled out from outside the palace gates, \"Will the general please board his wagon!\" Rang and his cohorts took He Jin's head, and threw it over the wall."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-003-line-017",
+        "order": 17,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "時盧植棄官未去，見宮中事變，擐甲持戈，立於閣下。遙見段圭擁逼何后過來，植大呼曰：「段圭逆賊，安敢劫太后！」段圭回身便走。太后從窗中跳出，植急救得免。吳匡殺入內庭，見何苗亦提劍出。匡大呼曰：「何苗同謀害兄，當共殺之！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They then read a decree out loud, \"He Jin has plotted insurrection, and has been executed for his crimes!"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-003-line-018",
+        "order": 18,
+        "source_block_chunk": 4,
+        "source_block_order": 8,
+        "text": "」眾人俱曰：「願斬謀兄之賊！」苗欲走，四面圍定，砍為齏粉。紹復令軍士分頭來殺十常侍家屬，不分大小，盡皆誅絕，多有無鬚者誤被殺死。曹操一面救滅宮中之火，請何太后權攝大事，遣兵追襲張讓等，尋覓少帝。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The others were forced to go along with his scheme, so they will be granted amnesty.\" Yuan Shao shouted out in a stern voice, \"The eunuchs have murdered the great minister! I say we kill all of the members of this evil faction; who is with me!\" Wu Kuang, one of He Jin's officers, set fire to the outside of Qingsuo Gate. Yuan Shu led his troops on an attack of the palace. They burst inside and killed every eunuch in sight, no matter how important or insignificant. Yuan Shao and Cao Cao also fought their way inside. Zhao Zhong, Cheng Kuang, Xia Yun and Guo Sheng had all run to the front of the Cuihua building; it was there that they were cut to smithereens. The flames from inside the palace floated high into the sky. Zhang Rang, Duan Gui, Cao Jie and Hou Lan forced the empress dowager, the crown prince and the Prince of Chenliu to leave the emperor's private quarters; they were escorted through a rear pathway to the northern palace. At that time, Lu Zhi had resigned his post, but had not yet left. When he saw that there was a disturbance at the palace, he donned his armor and picked up a weapon. He then went out and stood at the foot of a tower. In the distance, he spotted Duan Gui forcing Empress He to go. Zhi yelled out, \"Duan Gui you traitor, how dare you kidnap the empress dowager!\" Duan Gui turned around and ran off. The empress dowager jumped out of the window, and Zhi immediately came to her rescue. Wu Kuang fought his way into the inner palace, where he saw He Miao, armed with a sword. Kuang yelled out, \"He Miao conspired to kill his brother, we should kill him!\" Everybody said, \"Let's all cut down the one who plotted against his brother!\" Miao wanted to leave, but was surrounded on all sides. He was hacked to smithereens. Shao then ordered his soldiers to split up and go after the families of the ten regular attendants. No matter how important or insignificant, all were exterminated. There were many beardless ones who were killed by mistake. Cao Cao worked to put out the fires within the palace. At the same time, he requested Empress Dowager He to temporarily place him in charge of the government. He then sent his soldiers in pursuit of Zhang Rang and his cohorts, as well as the young emperor."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-003-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "且說張讓、段圭劫擁少帝及陳留王，冒煙突火，連夜奔走至北邙山。約三更時分，後面喊聲大舉，人馬趕至；當前何南中部掾吏閔貢，大呼：「逆賊休走！」張讓見事急，遂投河而死。帝與陳留王未知虛實，不敢高聲，伏於河邊亂草之內。軍馬四散去趕，不知帝之所在。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to Zhang Rang and Duan Gui, who had made off with both the young emperor and the Prince of Chenliu."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-003-line-020",
+        "order": 20,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "帝與王伏至四更，露水又下，腹中飢餒，相抱而哭；又怕人知覺，吞聲草莽之中。陳留王曰：「此間不可久戀，須別尋活路。」於是二人以衣相結，爬上岸邊。滿地荊棘，黑暗之中，不見行路。正無奈何，忽有流螢千百成群，光芒照耀，只在帝前飛轉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They had battled their way through the smoke and flames, and rushed through the night toward Mount Mang."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-003-line-021",
+        "order": 21,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "陳留王曰：「此天助我兄弟也！」遂隨螢火而行，漸漸見路。行至五更，足痛不能行。山岡邊見一草堆，帝與王臥於草堆之畔。草堆前面是一所莊院。莊主是夜夢兩紅日墜於莊後，驚覺，披衣出戶，四下觀望。見莊後草堆上紅光沖天，慌忙往視，卻是二人臥於草畔。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At around midnight, they heard a loud commotion behind them, which was accompanied by lots of shouting."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-003-line-022",
+        "order": 22,
+        "source_block_chunk": 4,
+        "source_block_order": 9,
+        "text": "莊主問曰「二少年誰家之子」帝不敢應。陳留王指帝曰「此是當今皇帝遭十常侍之亂逃難到此。吾乃皇弟陳留王也。」莊主大驚再拜曰「臣先朝司徒崔烈之弟崔毅也。因見十常侍賣官嫉賢故隱於此。」遂扶帝入莊跪進酒食。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Horses and men quickly arrived; in the front was Min Gong, assistant to the governor of central Henan, who shouted, \"Halt you traitors!\" Zhang Rang saw how desperate the situation was, so he jumped into the river and died. The emperor and the Prince of Chenliu knew not what to believe, so they dared not make any loud noises. They hid in some tall grass beside the river. The soldiers and horses scattered in all four directions, they did not know the whereabouts of the emperor. The emperor and the prince hid until the fourth watch; the dew started to cover everything. They were hungry, and embraced each other. They began to weep, but were afraid of someone noticing them, so they stifled their sobs while still amongst the reeds. The Prince of Chenliu said, \"We cannot linger here for much longer, we must find a road out of here.\" The two of them then bound themselves together with their clothing, and climbed up onto the bank of the river. The area was carpeted with thorn bushes, and they could not see the path in the dark. They were about to give up, when a swarm of fireflies suddenly appeared, and lit up the area. They only flew around the emperor. The Prince of Chenliu said, \"Heaven must be helping my brother!\" They followed the light from the fireflies, and eventually spotted the road. They walked until the fifth watch, when their feet became too sore to continue. There was a haystack at the foot of a small hill. The emperor and the prince crouched down beside the haystack. In front of the haystack was a villa. The master of the villa had been dreaming that two red suns had landed behind his villa, and woke up with a start. He got dressed, went outside, and looked all around. He noticed a red glow, rising up into the sky, from the haystack behind the villa. He hurried over to take a look, and found the two of them crouching beside the hay. The master of the villa asked, \"What family are you two boys from?\" The emperor did not dare respond. The Prince of Chenliu pointed to the emperor, saying, \"This is the emperor now. He was caught up in the pandemonium of the ten regular attendants. He escaped and came here. I am the emperor's younger brother, the Prince of Chenliu. The master of the villa was taken aback; he performed the ritual obeisance, and said, \"I am Cui Yi, the younger brother of Cui Lie. Cui Lie had served as Minister over the Masses under the previous emperor. His post was sold away by the ten regular attendants, because they were threatened by his talents. As a result, we went into hiding in this place.\" He then escorted the emperor into the villa, brought in both wine and food, and knelt down before them."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-003-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "卻說閔貢趕上段圭拏住，問天子何在。圭言已在半路相失，不知何往。貢遂殺段圭，懸頭於馬項下，分兵四散尋覓；自己卻獨乘一馬，隨路追尋。偶至崔毅莊，毅見首級，問之，貢說詳細。崔毅引貢見帝，君臣痛哭。貢曰：「國不可一日無君，請陛下還都。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "200px|thumb|right|w:Wang Yun (Han dynasty)|Wang Yun Let us now turn to Min Gong, who had overtaken Duan Gui; he asked, \"Where is the Son of Heaven?\" Gui responded, \"We became separated along the way; I don't know where he went.\" Gong then killed Duan Gui, and hung his severed head around the neck of his horse."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-003-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "」崔毅莊上只有瘦馬一匹，備與帝乘。貢與陳留王共乘一馬。離莊而行，不到三里，司徒王允，太尉楊彪，左軍校尉淳于瓊，右軍校尉趙萌，後軍校尉鮑信，中軍校尉袁紹，一行人眾，數百人馬，接著車駕，君臣皆哭。先使人將段圭首級往京師號令。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He then had his troops split up and search everywhere."
+          }
+        }
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-003-line-025",
+        "order": 25,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "另換好馬與帝及陳留王騎坐簇帝還京。先是洛陽小兒謠曰「帝非非王千乘萬騎走北邙。」至此果應其讖。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He even got on a horse himself, and rode out in search of the emperor. When he happened upon Cui Yi's villa, Yi saw the severed head, and asked about it. Gong gave a detailed account of what had transpired. Cui Yi brought Gong to see the emperor. Ruler and subject wept bitterly. Gong said, \"The nation cannot be without its ruler for even one day. Your Majesty, please return to the capital.\" There was only one shriveled up horse in Cui Yi's villa. The horse was made ready for the emperor to ride. Gong and the Prince of Chenliu rode together on the same horse. They had not gone more than three li from the village when they encountered a large group of horses and men, who had brought along the emperor's personal carriage. This group included: Minister over the Masses Wang Yun, Grand Commandant Yang Biao, captain of the left army Chunyu Qiong, captain of the right army Zhao Meng, captain of the rear army Bao Xin, and captain of the middle army Yuan Shao. Ruler and subjects all wept. They sent someone ahead with the head of Duan Gui, so that it could be put on public display in the capital. They also changed horses so that the emperor and the Prince of Chenliu could have decent mounts to ride. The entire group returned to the capital. In Luoyang, there had been a children's song that went, \"The emperor is not an emperor, the king is not a king, hundreds of horses ran off to Mount Mang.\" The song turned out to be quite apropos."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-003-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "車駕行不到數里忽見旌旗蔽日塵土遮天一枝人馬到來。百官失色帝亦大驚。袁紹驟馬出問何人。繡旗影裏一將飛出厲聲問「天子何在」帝戰慄不能言。陳留王勒馬向前叱曰「來者何人」卓曰「西涼刺史董卓也。」陳留王曰「汝來保駕耶汝來劫駕耶」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The royal carriage had not gone more than a few li when they suddenly saw a vast number of banners which seemed to block out the sun."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-003-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "卓應曰「特來保駕。」陳留王曰「既來保駕天子在此何不下馬」卓大驚慌忙下馬拜於道左。陳留王以言撫慰董卓自初至終並無失語。卓暗奇之已懷廢立之意。是日還宮見何太后俱各痛哭。檢點宮中不見了傳國玉璽。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A bunch of horses and men approached, kicking up dust which covered the sky."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-003-line-028",
+        "order": 28,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "董卓屯兵城外，每日帶鐵甲馬軍入城，橫行街市，百姓惶惶不安。卓出入宮庭，略無忌憚。後軍校尉鮑信，來見袁紹，言董卓必有異心，可速除之。紹曰：「朝廷新定，未可輕動。」鮑信見王允，亦言其事。允曰：「且容商議。」信自引本部軍兵，投泰山去了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All of the government officials turned pale; the emperor was startled as well. Yuan Shao road out on his horse and asked, \"Who are you?\" A general burst out from behind the shadow of the silk flags, and asked in a stern voice, \"Where is the Son of Heaven?\" The emperor trembled in fear and could not speak. The Prince of Chenliu charged out on his horse, shouting, \"Who comes before us?\" Zhuo replied, \"I am the governor of Xiliang Province; my name is Dong Zhuo.\" The Prince of Chenliu said, \"Are you here to protect the royal carriage or are you here to make off with it?\" Zhuo responded, \"I have come especially to protect the royal carriage.\" The Prince of Chenliu said, \"Since you have come to protect the royal carriage, the Son of Heaven is here. Why don't you dismount from your horse?\" Zhuo was shocked, and hurriedly climbed down from his horse. He made his obeisance at the left side of the road. The Prince of Chenliu said a few words to Dong Zhuo so as to put him at ease, and did not misspeak from start to finish. Zhuo was secretly impressed by him, and already had thoughts of forcing the emperor to abdicate in favor of the prince. 200px|thumb|right|w:Mount Tai|Mount Tai They returned to the capital that day, and saw Empress Dowager He. They all broke down in tears. They conducted a thorough search of the palace, but did not find the Heirloom Jade Seal of the Realm. Dong Zhuo had stationed his troops outside the city. Everyday, he led his armored cavalry into the city, and ran amuck in the markets. The citizenry was uneasy. Zhuo brazenly entered and exited the palace. Captain of the rear army Bao Xin came to see Yuan Shao, and told him that Dong Zhuo must have some ulterior motive, and that they should get rid of him. Shao replied, \"The court has just been reestablished, we cannot do anything rash.\" Bao Xin then went to see Wang Yun, and told him the same thing. Yun said, \"We should discuss this further.\" Xin took it upon himself to lead the main force of the army on a trip to Mount Tai."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-003-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "董卓招誘何進兄弟部下之兵，盡歸掌握。私謂李儒曰：「吾欲廢帝立陳留王，何如？」李儒曰：「今朝廷無主，不就此時行事，遲則有變矣。來日於溫明園中，召集百官，諭以廢立；有不從者斬之，則威權之行，正在今日。」卓喜。次日大排筵會，遍請公卿。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dong Zhuo gathered up all of the soldiers that had been under the command of He Jin's brother, and took charge of them."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-003-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "公卿皆懼董卓，誰敢不到？卓待百官到了，然後徐徐到園門下馬，帶劍入席。酒行數巡，卓教停酒止樂，乃厲聲曰：「吾有一言，眾官靜聽。」眾官側耳。卓曰：「天子為萬民之主，無威儀不可以奉宗廟社稷。今上懦弱，不若陳留王聰明好學，可承大位。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In private, he said to Li Ru, \"I want to depose the emperor, and replace him with the Prince of Chenliu, what do you think?\" Li Ru replied, \"The court is now without a ruler, if you delay and don't take action now, it will result in rebellion later on."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-003-line-031",
+        "order": 31,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "吾欲廢帝，立陳留王，諸大臣以為何如？」諸官聽罷，不敢出聲。座上一人推案直出，立於筵前，大呼：「不可！不可！汝是何人，敢發大語？天子乃先帝嫡子，初無過失，何得妄議廢立？汝欲為篡逆耶？」卓視之，乃荊州刺史丁原也。卓怒叱曰：「順我者生，逆我者死！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tomorrow, assemble all of the officials in the Garden of Warmth and Brightness, and proclaim the deposing of the emperor. Behead anyone who does not comply. If you do this, the power will be yours to wield on this very day.\" 200px|thumb|right|w:Ding Yuan|Ding Yuan Zhuo was delighted. The next day, he arranged a large banquet, and invited all of the senior ministers. The senior ministers were all intimidated by Dong Zhuo; who would dare not come? Zhuo waited until all of the officials had arrived before sauntering up to the gates of the garden. He climbed down from his horse and took his seat, still wearing his sword. After several rounds of wine, Zhuo ordered the drinking and merriment be stopped. He said in a stern voice, \"I have something to say. Everyone, listen to me and do not speak.\" Everyone leaned in to listen. Zhuo said, \"The Son of Heaven is the ruler of all the people. He cannot make sacrifices at the ancestral temple if he lacks a stately bearing. The current emperor is cowardly and weak. He cannot compare to the Prince of Chenliu, who is smart and loves learning. He has what it takes to succeed the throne. I would like depose the emperor, and replace him with the Prince of Chenliu. What does everyone think?\" They all listened to him, but nobody dared utter a sound. One of them pushed away his table, and stood up in front of everybody. He bellowed, \"You can't do this! You can't do this! Who are you that you dare speak in such grandiose terms? The Son of Heaven is the son of the legal wife of the deceased emperor. He has yet to make a misstep. How can you cavalierly depose him? Do you want to stage a coup?\" Zhuo looked at him; it was Ding Yuan, governor of Jingzhou Province. Zhuo angrily retorted, \"Those who obey me shall live, and those who oppose me shall die!\" He then took out his sword, and was about to cut down Ding Yuan."
+          }
+        }
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-003-line-032",
+        "order": 32,
+        "source_block_chunk": 4,
+        "source_block_order": 12,
+        "text": "」遂掣佩劍欲斬丁原。時李儒見丁原背後一人，生得器字軒昂，威風凜凜，手執方天畫戟，怒目而視。李儒急進曰：「今日飲宴之處，不可談國政；來日向都堂公論未遲。」眾人皆勸丁原上馬而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "200px|thumb|right|w:Huo Guang|Huo Guang Then, Li Ru saw an imposing person with a dignified bearing, armed with the square sky painted halberd; this person was behind Ding Yuan, and had anger in his eyes."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-003-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "卓問百官曰：「吾所言，合公道否？」盧植曰：「明公差矣：昔太甲不明，伊尹放之於桐宮。昌邑王登位方二十七日，造惡三千餘條，故霍光告太廟而廢之。今上雖幼，聰明仁智，並無分毫過失。公乃外郡刺史，素未參與國政，又無伊、霍之大才，何可強主廢立之事？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Li Ru rushed forward and said, \"We must not talk about matters of state at our banquet today."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-003-line-034",
+        "order": 34,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "聖人云『有伊尹之志則可，無伊尹之志則篡也。』」卓大怒，拔劍向前欲殺植。議郎彭伯諫曰：「盧尚書海內人望，今先害之，恐天下震怖。」卓乃止。司徒王允曰：「廢立之事，不可酒後相商，另日再議。」於是百官皆散。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is still time for us to have an open discussion tomorrow, when we are at the meeting hall.\" Everyone advised Ding Yuan to get on his horse and leave."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-003-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "卓按劍立於園門，忽見一人躍馬持戟，於園門外往來馳驟。卓問李儒：「此何人也？」儒曰：「此丁原義兒：姓呂，名布，字奉先者也。主公且須避之。」卓乃入園潛避。次日，人報丁原引軍城外搦戰。卓怒，引軍同李儒出迎。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhuo asked all of the ministers, \"Are my words in accordance with principles of fairness or not?\" Lu Zhi responded, \"Your Excellency is in error. In the past, Tai Jia was unwise, and Yi Yin exiled him to the Paulownia palace. The Prince of Changyi had only been on the throne for twenty seven days, but had committed more than three thousand infractions, so Huo Guang held a ceremony at the imperial ancestral temple which deposed him. Although the current emperor is young, he is smart, benevolent and wise. Moreover, he has not made a single misstep. You are a provincial governor. You have never taken part in matters of state, and you also lack the considerable talents of Yi and Huo. How can you impose your will, and have the emperor deposed? A sage once said, 'If one has the will of Yi Yin, then it is possible; if one lacks the will of Yi Yin, then it will result in rebellion.'\" 200px|thumb|right|w:Lü Bu|Lü Bu, holding the square sky painted halberd in his left hand Zhuo was furious; he drew his sword, intending to kill Zhi. Court Advisor Peng Bo admonished him, \"Chief of staff Lu represents the hopes of all of the people. If you harm him now, it will strike terror throughout the entire country.\" Zhuo stopped. Minister over the Masses Wang Yun said, \"A thing like deposing an emperor should not be discussed after one has had too much wine, let us discuss this again on another day.\" After that, all of the officials began to disperse. Zhuo stood at the gate to the gardens, holding his sword. Suddenly, he saw a person riding a horse with a halberd in his hand. He was outside the gate to gardens, galloping back and forth. Zhuo asked Li Ru, \"Who is that?\" Ru answered, \"That is Ding Yuan's adoptive son. His surname is Lü, and his given name is Bu. His style name is Fengxian. Your Excellency should steer clear of him.\" After that, Zhuo went into the gardens so he would not be seen."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-003-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "兩陣對圓，只見呂布頂束髮金冠，披百花戰袍，擐唐猊鎧甲，繫獅蠻寶帶，縱馬挺戟，隨丁建陽出到陣前。建陽指卓罵曰：「國家不幸，閹官弄權，以致萬民塗炭。爾無尺寸之功，焉敢妄言廢立，欲亂朝廷？」董卓未及回言，呂布飛馬直殺過來。董卓慌走，建陽率軍掩殺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The following day, it was reported that Ding Yuan had amassed troops outside the city walls and was spoiling for a fight."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-003-line-037",
+        "order": 37,
+        "source_block_chunk": 3,
+        "source_block_order": 14,
+        "text": "卓兵大敗，退三十餘里下寨，聚眾商議。卓曰：「吾觀呂布非常人也。吾若得此人，何慮天下哉？」帳前一人出曰：「主公勿憂：某與呂布同鄉，知其勇而無謀，見利忘義。某憑三寸不爛之舌，說呂布拱手來降，可乎？」卓大喜，觀其人，乃虎賁中郎李肅也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhuo was furious, and led his own army, accompanied by Li Ru, out to meet them."
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-003-line-038",
+        "order": 38,
+        "source_block_chunk": 4,
+        "source_block_order": 14,
+        "text": "卓曰：「汝將何以說之？」肅曰：「某聞主公有名馬一匹，號曰『赤兔』，日行千里。須得此馬，再用金珠，以利結其心。某更進說詞，呂布必反丁原，來投主公矣。」卓問李儒曰：「此言可乎？」儒曰：「主公欲取天下，何惜一馬？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The two armies squared off, and all eyes were on Lü Bu."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-003-line-039",
+        "order": 39,
+        "source_block_chunk": 5,
+        "source_block_order": 14,
+        "text": "」卓欣然與之，更與黃金一千兩、明珠數十顆、玉帶一條。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lü Bu was wearing a gold and silk braided cap, with long pheasant feathers protruding from each side of the cap. He wore a multi-patterned warrior garment underneath tangni body armor. He wore a belt decorated with prints of lions and barbarian kings. He was galloping around on his horse with his halberd in hand. He accompanied Ding Jianyang out to the front line. Jianyang pointed at Zhuo, and cursed, \"The misfortunes of the country were all the result of abuses by the eunuchs. As a consequence, all of the people were made to suffer. And you, who lacks even one ounce of merit, how dare you say such outrageous things about deposing the emperor; do you want to throw the court into chaos?\" Before Dong Zhuo could respond, Lü Bu charged at full gallop. Dong Zhuo fled in panic; Jianyang took advantage of the confusion, and led his army in an attack. Zhuo's army suffered a major defeat, and retreated more than 30 li before making camp. He gathered everyone together to discuss the matter. Zhuo said, \"I see that Lü Bu is no ordinary man. If I could acquire this person, what need would I have to be concerned about a single thing in the world?\" A person appeared at the front of the tent, and said, \"Don't worry, Your Excellency. I am a countryman of Lü Bu's. I know that he is brave, but lacks strategy, and is likely to forget about principles if there's something in it for him. I'm good at schmoozing, and can easily convince Lü Bu to fall in line. Will you allow me to try?\" 200px|thumb|right|w:Red Hare|Red Hare Zhuo was overjoyed. He looked at the person; it was captain of the guard Li Su. Zhuo said, \"How will you persuade him?\" Su responded, \"I have heard that Your Excellency owns a famous horse, named 'Red Hare,' which can travel one thousand li in a single day. I must have this horse, along with gold and pearls, in order to help me to win over his heart. After that, I will present our proposition to him. If we do all of this, Lü Bu will definitely betray Ding Yuan, and switch allegiance to Your Excellency.\" Zhuo asked Li Ru, \"Is his idea acceptable?\" Ru responded, \"If Your Excellency wants to conquer the world, why quibble over one horse?\" Zhuo happily gave the horse, along with one thousand taels of gold, 10 shiny pearls, and one jade belt."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-003-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "李肅齎了禮物，投呂布寨來。伏路軍人圍住。肅曰：「可速報呂將軍，有故人來見。」軍人報知，布命入見。肅見布曰：「賢弟別來無恙！」布揖曰：「久不相見，今居何處？」肅曰：「見任虎賁中郎將之職。聞賢弟匡扶社稷，不勝之喜。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Carrying the presents, Li Su set out towards Lü Bu's camp."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-003-line-041",
+        "order": 41,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "有良馬一匹，日行千里，渡水登山，如履平地，名曰『赤兔』：特獻與賢弟，以助虎威。」布便令牽過來看。果然那馬渾身上下，火炭般赤，無半根雜毛；從頭至尾，長一丈；從蹄至項，高八尺；嘶喊咆哮，有騰空入海之狀。後人有詩單道赤兔馬曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The soldiers hiding at the sides of the road came out and surrounded him."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-003-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "奔騰千里蕩塵埃渡水登山紫霧開。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Su said, \"Inform General Lü at once that an old friend has come to see him.\" The soldiers relayed the message, and Bu ordered the soldiers to have Su come in and see him."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-003-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "掣斷絲韁搖玉轡火龍飛下九天來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Su looked at Bu, and said, \"My esteemed young friend, you look well!\" Bu saluted, and replied, \"Long time, no see; where are you living nowadays?\" Su said, \"I currently am serving as captain of the imperial guard. When I heard that you had come to the aid of the nation, I was extremely happy. I have a fine horse, capable of running one thousand li in a single day. It can cross rivers and climb mountains as if it were on a piece of flat ground. Its name is 'Red Hare;' I came especially to give him to you, to help give you the aura of a general.\" Bu ordered it to be lead over so that he could look at it. Sure enough, the entire horse was the color of burning charcoal, without a single strand of fur out of place. From head to tail, its length measured one zhang. From its hoof to the nape of its neck, it measured eight chi. It loudly neighed and bellowed, and seemed as though it could soar through air and gallop into the sea. People of later generations composed a poem just for Red Hare, it went: It gallops one thousand li, and kicks up the dust; violet mist is parted in half as the steed crosses over rivers and climbs mountains. Pulling on the silk reigns causes them to break, as the jade bridle whips back and forth; the flaming dragon flies down to the Ninth Heaven."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-003-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "布見了此馬大喜謝肅曰「兄賜此良駒將何以為報」肅曰「某為義氣而來豈望報乎」布置酒相待。酒酣肅曰「肅與賢弟少得相見令尊卻常會來。」布曰「兄醉矣先父棄世多年安得與兄相會」肅大笑曰「非也某說今日丁刺史耳。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Bu looked at the horse, and was overjoyed."
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-003-line-045",
+        "order": 45,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "布惶恐曰「某在丁建陽處亦出於無奈。」肅曰「賢弟有擎天駕海之才四海孰不欽敬功名富貴如探囊取物何言無奈而在人之下乎」布曰「恨不逢其主耳。」肅笑曰「『良禽擇木而棲賢臣擇主而事。』見機不早悔之晚矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He thanked Su, saying, \"Now that you have given me this fine horse, how shall I repay you?\" Su replied, \"I have come here because we share a personal bond, how could I expect anything in return?\" Bu poured more wine for his guest."
+          }
+        }
+      },
+      {
+        "character_count": 69,
+        "id": "chapter-003-line-046",
+        "order": 46,
+        "source_block_chunk": 3,
+        "source_block_order": 18,
+        "text": "布曰「兄在朝廷觀何人為世之英雄」肅曰「某遍觀群臣皆不如董卓董卓為人敬賢禮士賞罰分明終成大業。」布曰「某欲從之恨無門路。」肅取金珠、玉帶列於布前。布驚曰「何為有此」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After feeling a bit tipsy, Su said, \"I don't get to see you that much, but your dear father comes quite often.\" Bu said, \"You're drunk! My father passed away many years ago, how could you meet with him?\" Su responded, \"No, no; I'm talking about provincial governor Ding.\" Bu said timidly, \"I am not with Ding Jianyang by choice.\" Su replied, \"But you are so incredibly talented; in the entire world, who wouldn't admire you? For you, fame, fortune and prestige are as easy to come by as reaching into to your own pocket for something. How can you say that you have no choice about whom you serve?\" Bu said, \"I regret not having such a lord under which I could serve.\" Su smiled and said, \"'A good bird chooses for himself the tree upon which to perch, the talented subject chooses for himself the lord that he shall serve.' Your time is running out for spotting opportunities, you may regret waiting until it's too late.\" Bu said, \"You are at court, which person do you consider to be a world-class hero?\" Su responded, \"I have looked around at all of the ministers, and none of them can compare to Dong Zhuo. Dong Zhuo respects men of talent; he rewards or punishes based on merit. He will end up doing great things.\" Bu said, \"I would like to follow him; unfortunately, I don't have an in with him.\""
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-003-line-047",
+        "order": 47,
+        "source_block_chunk": 4,
+        "source_block_order": 18,
+        "text": "肅令叱退左右告布曰「此是董公久慕大名特令某將此奉獻。赤兔馬亦董公所贈也。」布曰「董公如此見愛某將何以報之」肅曰「如某之不才尚為虎賁中郎將公若到彼貴不可言。」布曰「恨無涓埃之功以為進見之禮。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Su took out the gold, pearls and jade belt, and laid them out before Bu."
+          }
+        }
+      },
+      {
+        "character_count": 66,
+        "id": "chapter-003-line-048",
+        "order": 48,
+        "source_block_chunk": 5,
+        "source_block_order": 18,
+        "text": "」肅曰：「功在翻手之間，公不肯為耳。」布沈吟良久曰：「吾欲殺丁原，引軍歸董卓，何如？」肅曰：「賢弟若能如此，真莫大之功也！但事不宜遲，在於速決。」布與肅約於明日來降，肅別去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Bu was astonished, and said, \"What is all this for?\" Su commanded all of the attendants to withdraw, then told Bu, \"Lord Dong has been an admirer of yours for quite some time; he especially ordered that these gifts be presented to you."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-003-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "是夜二更時分，布提刀逕入丁原帳中。原正秉燭觀書，見布至，曰：「吾兒來有何事故？」布曰：「吾堂堂丈夫，安肯為汝子乎！」原曰：「奉先何故心變？」布向前一刀砍下丁原首級，大呼：「左右！丁原不仁，吾已殺之。肯從吾者在此，不從者自去！」軍士散其大半。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Red Hare is also a present from Lord Dong.\" Bu said, \"How can I ever repay Lord Dong for such kindness?\" Su said, \"Look at me, I have no great abilities, and yet I was made Captain of the Imperial Guard; if you were to switch allegiance to him, the rewards would be beyond anything you could imagine.\" Bu said, \"Unfortunately, I have not performed even the slightest deed which could be offered as tribute for such a benefactor.\" Su said, \"There is one thing that would be as quick and easy as turning over your hand, but you probably would not be willing do it.\" Bu muttered to himself for a long time, then said, \"What if I were to kill Ding Yuan, and bring his army over to Dong Zhuo's side, how would that be?\" Su said, \"If you could do that, it would be a huge accomplishment! But you would have to take action before it's too late, so you'll need to decide quickly.\" Bu promised Su that he would surrender his forces the next day, so Su departed. That night during the second watch, Bu marched straight into Ding Yuan's tent with his sword in hand. Yuan was reading by candlelight at the time; when he saw that Bu had arrived, he said, \"My son, what's wrong?\" Bu said, \"I am a full grown man of accomplishment, how could I ever consent to being your son!\" Yuan responded, \"Fengxian, why have you had a sudden change of heart?\" Bu moved in with his sword and cut off Ding Yuan's head in one movement; he shouted out, \"Attendants! Ding Yuan was a tyrant, and I have now killed him. Those who wish to follow me stay here, those who do not can leave of their own accord!\" Just over half of the soldiers took their leave."
+          }
+        }
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-003-line-050",
+        "order": 50,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "軍士散其大半。次日布持丁原首級往見李肅。肅遂引布見卓。卓大喜置酒相待。卓先下拜曰「卓今得將軍如旱苗之得甘雨也。」布納卓坐而拜之曰「公若不棄布請拜為義父。」卓以金甲錦袍賜布暢飲而散。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The next day, Bu took the head of Ding Yuan and went to see Li Su."
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-003-line-051",
+        "order": 51,
+        "source_block_chunk": 3,
+        "source_block_order": 19,
+        "text": "卓自是威勢越大，自領前將軍事，封弟董旻為左將軍鄠侯，封呂布為騎都尉中郎將都亭侯。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Su then took Bu to see Zhuo."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-003-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "李儒勸卓早定廢立之計。卓乃於省中設宴，會集公卿，令呂布將甲士千餘，侍衛左右。是日，太傅袁隗與百官皆到。酒行數巡，卓拔劍曰：「今上闇弱，不可以奉宗廟；吾將依伊尹、霍光故事，廢帝為弘農王，立陳留王為帝。有不從者斬！」群臣惶怖莫敢對。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhuo was overjoyed, and poured wine for his guest."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-003-line-053",
+        "order": 53,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "中軍校尉袁紹挺身出曰：「今上即位未幾，並無失德；汝欲廢嫡立庶，非反而何？」卓怒曰：「天下事在我！我今為之，誰敢不從？汝視我之劍不利否？」袁紹亦拔劍曰：「汝劍利，吾劍未嘗不利！」兩個在筵上對敵。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhuo then bowed in respect, saying, \"My obtaining a new general is like a parched seedling encountering a sweet rain.\" Bu took a seat with Zhuo and saluted him, saying, \"If you will have me, I would like your permission to call you my new father.\" Zhuo presented a suit of armor, along with a brocade gown, to Bu as a gift. They merrily drank and then parted company. Zhuo's prestige grew even stronger after this, and he personally took over as general of the front army. He made his younger brother Dong Min general of the left army and gave him the title of Marquis of Hu County. He made Bu captain of the cavalry and captain of the imperial guard, and also gave him the title of Marquis of the Capital City Ting. Li Ru advised Zhuo to quickly finalize his plans for deposing the emperor. Zhuo then threw a banquet at the palace, and gathered all of the ministers. He ordered Lü Bu to command a detail of more than 1,000 troops to stand guard. That day, all of the officials arrived, including Grand Tutor Yuan Wei. After a few rounds of drinks, Zhuo grabbed his sword, and said, \"The current emperor is ignorant and weak. He is not qualified to make offerings at the imperial ancestral temple. I am going to follow the precedent set by Yi Yin and Huo Guang; I will demote the emperor to Prince of Hongnong, and make Prince of Chenliu emperor instead. Anyone who does not obey my wishes shall be executed!\" The ministers were all terrified, and no one dared oppose him. Then Yuan Shao, captain of the middle army, stood up and said, \"The current emperor has only been on the throne for a short time, and he has not committed any transgressions. Now you want to depose the son of an empress, and replace him with the son of a concubine; if that is not treason, then what is?\" Zhuo angrily replied, \"I control everything under the heavens! If I decide to do something now, who will dare to oppose me? Do you believe that my sword is not sharp?\" Yuan Shao also drew his own sword, saying, \"Your sword is sharp, and my sword has never been dull!\" The two of them squared off near their reed seating mats. It was a case of: Ding Yuan upheld justice, and was the first to die. Yuan Shao is now in a fight to the finish, and his power is in peril. How did things turn out for Yuan Shao? Did he live or die? Keep reading, and all will be explained."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-003-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "丁原仗義身先喪，袁紹爭鋒勢又危。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Ting by treacherous murder died, The loss was great to Yüan’s side."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-003-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "畢竟袁紹性命如何且聽下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The fate of Yüan Shao will be disclosed in later chapters."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "且說曹操當日對何進曰：「宦官之禍，古今皆有；但世主不當假之權寵，使至於此。若欲治罪，當除元惡，但付一獄吏足矣，何必紛紛召外兵乎？欲盡誅之，事必宣露。吾料其必敗也。」何進怒曰：「孟德亦懷私意耶？」操退曰：「亂天下者，必進也。」進乃暗差使命齎密詔，星夜往各鎮去。\n卻說前將軍斄鄉侯西涼刺史董卓，先為破黃巾無功，朝廷將治其罪，因賄賂十常侍幸免；後又結託朝貴，遂任顯官，統西州大軍二十萬，常有不臣之心。是時得詔大喜，點起軍馬，陸續便行；使其婿中郎將牛輔，守住陝西，自己卻帶李傕、郭汜、張濟、樊稠等提兵望洛陽進發。卓婿謀士李儒曰：「今雖奉詔，中間多有暗昧。何不差人上表，名正言順，大事可圖。」卓大喜，遂上表。其略曰：\n竊聞天下所以亂逆不止者，皆由黃門常侍張讓等侮慢天常之故。臣聞揚湯止沸，不如去薪；潰癰雖痛，勝於養毒。臣敢鳴鐘鼓入洛陽，請除讓等。社稷幸甚！天下幸甚！\n何進得表，出示大臣。侍御史鄭泰諫曰：「董卓乃豺狼也，引入京城，必食人矣。」進曰：「汝多疑，不足謀大事。」盧植亦諫曰：「植素知董卓為人，面善心狠；一入禁庭，必生禍患。不如止之勿來，免致生亂。」進不聽，鄭泰、盧植皆棄官而去。朝廷大臣，去者大半。進使人迎董卓於澠池，卓按兵不動。\n張讓等知外兵到，共議曰：「此何進之謀也；我等不先下手，皆滅族矣。」乃先伏刀斧手五十人於長樂宮嘉德門內，入告何太后曰：「今大將軍矯詔召外兵至京師，欲滅臣等，望娘娘垂憐賜救。」太后曰：「汝等可詣大將軍府謝罪。」讓曰：「若到相府，骨肉虀粉矣。望娘娘宣大將軍入宮諭止之。如其不從，臣等只就娘娘前請死。」太后乃降詔宣進。進得詔便行。主簿陳琳諫曰：「太后此詔，必是十常侍之謀，切不可去。去必有禍。」進曰：「太后詔我，有何禍事？」袁紹曰：「今謀已泄，事已露，將軍尚欲入宮耶？」曹操曰：「先召十常侍出，然後可入。」進笑曰：「此小兒之見也。吾掌天下之權，十常侍敢待如何？」紹曰：「公必欲去，我等引甲士護從，以防不測。」於是袁紹、曹操各選精兵五百，命袁紹之弟袁術領之。袁術全身披掛，引兵布列青瑣門外。紹與操帶劍護送何進至長樂宮前。黃門傳懿旨云：「太后特宣大將軍，餘人不許輒入。」將袁紹、曹操等都阻住宮門外。何進昂然直入。至嘉德殿門，張讓、段圭迎出，左右圍住，進大驚。讓厲聲責進曰：「董后何罪，妄以酖死？國母喪葬，託疾不出！汝本屠沽小輩，我等薦之天子，以致榮貴：不思報效，欲相謀害！汝言我等甚濁，其清者是誰？」進慌急，欲尋出路，宮門盡閉，伏甲齊出，將何進砍為兩段。後人有詩歎之曰：\n漢室傾危天數終，無謀何進作三公。\n幾番不聽忠臣諫，難免宮中受劍鋒。\n讓等既殺何進，袁紹久不見進出，乃於宮門外大叫曰：「請將軍上車！」讓等將何進首級從牆上擲出，宣諭曰：「何進謀反，已伏誅矣。其餘脅從，盡皆赦宥。」袁紹厲聲大叫：「閹官謀殺大臣！誅惡黨者前來助戰！」何進部將吳匡，便於青瑣門外放起火來。袁術引兵突入宮庭，但見閹官，不諭大小，盡皆殺之。袁紹、曹操斬關入內。趙忠，程曠，夏惲，郭勝四個被趕至翠花樓前，剁為肉泥。宮中火燄沖天。張讓、段圭、曹節、侯覽將太后及太子並陳留王劫去內省，從後道走北宮。時盧植棄官未去，見宮中事變，擐甲持戈，立於閣下。遙見段圭擁逼何后過來，植大呼曰：「段圭逆賊，安敢劫太后！」段圭回身便走。太后從窗中跳出，植急救得免。吳匡殺入內庭，見何苗亦提劍出。匡大呼曰：「何苗同謀害兄，當共殺之！」眾人俱曰：「願斬謀兄之賊！」苗欲走，四面圍定，砍為齏粉。紹復令軍士分頭來殺十常侍家屬，不分大小，盡皆誅絕，多有無鬚者誤被殺死。曹操一面救滅宮中之火，請何太后權攝大事，遣兵追襲張讓等，尋覓少帝。\n且說張讓、段圭劫擁少帝及陳留王，冒煙突火，連夜奔走至北邙山。約三更時分，後面喊聲大舉，人馬趕至；當前何南中部掾吏閔貢，大呼：「逆賊休走！」張讓見事急，遂投河而死。帝與陳留王未知虛實，不敢高聲，伏於河邊亂草之內。軍馬四散去趕，不知帝之所在。帝與王伏至四更，露水又下，腹中飢餒，相抱而哭；又怕人知覺，吞聲草莽之中。陳留王曰：「此間不可久戀，須別尋活路。」於是二人以衣相結，爬上岸邊。滿地荊棘，黑暗之中，不見行路。正無奈何，忽有流螢千百成群，光芒照耀，只在帝前飛轉。陳留王曰：「此天助我兄弟也！」遂隨螢火而行，漸漸見路。行至五更，足痛不能行。山岡邊見一草堆，帝與王臥於草堆之畔。草堆前面是一所莊院。莊主是夜夢兩紅日墜於莊後，驚覺，披衣出戶，四下觀望。見莊後草堆上紅光沖天，慌忙往視，卻是二人臥於草畔。莊主問曰：「二少年誰家之子？」帝不敢應。陳留王指帝曰：「此是當今皇帝，遭十常侍之亂，逃難到此。吾乃皇弟陳留王也。」莊主大驚，再拜曰：「臣先朝司徒崔烈之弟崔毅也。因見十常侍賣官嫉賢，故隱於此。」遂扶帝入莊，跪進酒食。\n卻說閔貢趕上段圭拏住，問天子何在。圭言已在半路相失，不知何往。貢遂殺段圭，懸頭於馬項下，分兵四散尋覓；自己卻獨乘一馬，隨路追尋。偶至崔毅莊，毅見首級，問之，貢說詳細。崔毅引貢見帝，君臣痛哭。貢曰：「國不可一日無君，請陛下還都。」崔毅莊上只有瘦馬一匹，備與帝乘。貢與陳留王共乘一馬。離莊而行，不到三里，司徒王允，太尉楊彪，左軍校尉淳于瓊，右軍校尉趙萌，後軍校尉鮑信，中軍校尉袁紹，一行人眾，數百人馬，接著車駕，君臣皆哭。先使人將段圭首級往京師號令。另換好馬與帝及陳留王騎坐，簇帝還京。先是洛陽小兒謠曰：「帝非帝，王非王，千乘萬騎走北邙。」至此果應其讖。\n車駕行不到數里，忽見旌旗蔽日，塵土遮天，一枝人馬到來。百官失色，帝亦大驚。袁紹驟馬出問何人。繡旗影裏，一將飛出，厲聲問：「天子何在？」帝戰慄不能言。陳留王勒馬向前，叱曰：「來者何人？」卓曰：「西涼刺史董卓也。」陳留王曰：「汝來保駕耶？汝來劫駕耶？」卓應曰：「特來保駕。」陳留王曰：「既來保駕，天子在此，何不下馬？」卓大驚，慌忙下馬，拜於道左。陳留王以言撫慰董卓，自初至終，並無失語。卓暗奇之，已懷廢立之意。是日還宮，見何太后，俱各痛哭。檢點宮中，不見了傳國玉璽。董卓屯兵城外，每日帶鐵甲馬軍入城，橫行街市，百姓惶惶不安。卓出入宮庭，略無忌憚。後軍校尉鮑信，來見袁紹，言董卓必有異心，可速除之。紹曰：「朝廷新定，未可輕動。」鮑信見王允，亦言其事。允曰：「且容商議。」信自引本部軍兵，投泰山去了。\n董卓招誘何進兄弟部下之兵，盡歸掌握。私謂李儒曰：「吾欲廢帝立陳留王，何如？」李儒曰：「今朝廷無主，不就此時行事，遲則有變矣。來日於溫明園中，召集百官，諭以廢立；有不從者斬之，則威權之行，正在今日。」卓喜。次日大排筵會，遍請公卿。公卿皆懼董卓，誰敢不到？卓待百官到了，然後徐徐到園門下馬，帶劍入席。酒行數巡，卓教停酒止樂，乃厲聲曰：「吾有一言，眾官靜聽。」眾官側耳。卓曰：「天子為萬民之主，無威儀不可以奉宗廟社稷。今上懦弱，不若陳留王聰明好學，可承大位。吾欲廢帝，立陳留王，諸大臣以為何如？」諸官聽罷，不敢出聲。座上一人推案直出，立於筵前，大呼：「不可！不可！汝是何人，敢發大語？天子乃先帝嫡子，初無過失，何得妄議廢立？汝欲為篡逆耶？」卓視之，乃荊州刺史丁原也。卓怒叱曰：「順我者生，逆我者死！」遂掣佩劍欲斬丁原。時李儒見丁原背後一人，生得器字軒昂，威風凜凜，手執方天畫戟，怒目而視。李儒急進曰：「今日飲宴之處，不可談國政；來日向都堂公論未遲。」眾人皆勸丁原上馬而去。\n卓問百官曰：「吾所言，合公道否？」盧植曰：「明公差矣：昔太甲不明，伊尹放之於桐宮。昌邑王登位方二十七日，造惡三千餘條，故霍光告太廟而廢之。今上雖幼，聰明仁智，並無分毫過失。公乃外郡刺史，素未參與國政，又無伊、霍之大才，何可強主廢立之事？聖人云『有伊尹之志則可，無伊尹之志則篡也。』」卓大怒，拔劍向前欲殺植。議郎彭伯諫曰：「盧尚書海內人望，今先害之，恐天下震怖。」卓乃止。司徒王允曰：「廢立之事，不可酒後相商，另日再議。」於是百官皆散。\n卓按劍立於園門，忽見一人躍馬持戟，於園門外往來馳驟。卓問李儒：「此何人也？」儒曰：「此丁原義兒：姓呂，名布，字奉先者也。主公且須避之。」卓乃入園潛避。次日，人報丁原引軍城外搦戰。卓怒，引軍同李儒出迎。兩陣對圓，只見呂布頂束髮金冠，披百花戰袍，擐唐猊鎧甲，繫獅蠻寶帶，縱馬挺戟，隨丁建陽出到陣前。建陽指卓罵曰：「國家不幸，閹官弄權，以致萬民塗炭。爾無尺寸之功，焉敢妄言廢立，欲亂朝廷？」董卓未及回言，呂布飛馬直殺過來。董卓慌走，建陽率軍掩殺。卓兵大敗，退三十餘里下寨，聚眾商議。卓曰：「吾觀呂布非常人也。吾若得此人，何慮天下哉？」帳前一人出曰：「主公勿憂：某與呂布同鄉，知其勇而無謀，見利忘義。某憑三寸不爛之舌，說呂布拱手來降，可乎？」卓大喜，觀其人，乃虎賁中郎李肅也。卓曰：「汝將何以說之？」肅曰：「某聞主公有名馬一匹，號曰『赤兔』，日行千里。須得此馬，再用金珠，以利結其心。某更進說詞，呂布必反丁原，來投主公矣。」卓問李儒曰：「此言可乎？」儒曰：「主公欲取天下，何惜一馬？」卓欣然與之，更與黃金一千兩、明珠數十顆、玉帶一條。\n李肅齎了禮物，投呂布寨來。伏路軍人圍住。肅曰：「可速報呂將軍，有故人來見。」軍人報知，布命入見。肅見布曰：「賢弟別來無恙！」布揖曰：「久不相見，今居何處？」肅曰：「見任虎賁中郎將之職。聞賢弟匡扶社稷，不勝之喜。有良馬一匹，日行千里，渡水登山，如履平地，名曰『赤兔』：特獻與賢弟，以助虎威。」布便令牽過來看。果然那馬渾身上下，火炭般赤，無半根雜毛；從頭至尾，長一丈；從蹄至項，高八尺；嘶喊咆哮，有騰空入海之狀。後人有詩單道赤兔馬曰：\n奔騰千里蕩塵埃，渡水登山紫霧開。\n掣斷絲韁搖玉轡，火龍飛下九天來。\n布見了此馬，大喜，謝肅曰：「兄賜此良駒，將何以為報？」肅曰：「某為義氣而來，豈望報乎？」布置酒相待。酒酣，肅曰：「肅與賢弟少得相見；令尊卻常會來。」布曰：「兄醉矣！先父棄世多年，安得與兄相會？」肅大笑曰：「非也﹔某說今日丁刺史耳。」布惶恐曰：「某在丁建陽處，亦出於無奈。」肅曰：「賢弟有擎天駕海之才，四海孰不欽敬？功名富貴，如探囊取物，何言無奈而在人之下乎？」布曰：「恨不逢其主耳。」肅笑曰：「『良禽擇木而棲，賢臣擇主而事。』見機不早，悔之晚矣。」布曰：「兄在朝廷，觀何人為世之英雄？」肅曰：「某遍觀群臣，皆不如董卓，董卓為人敬賢禮士，賞罰分明，終成大業。」布曰：「某欲從之，恨無門路。」肅取金珠、玉帶列於布前。布驚曰：「何為有此？」肅令叱退左右，告布曰：「此是董公久慕大名，特令某將此奉獻。赤兔馬亦董公所贈也。」布曰：「董公如此見愛，某將何以報之？」肅曰：「如某之不才，尚為虎賁中郎將；公若到彼，貴不可言。」布曰：「恨無涓埃之功，以為進見之禮。」肅曰：「功在翻手之間，公不肯為耳。」布沈吟良久曰：「吾欲殺丁原，引軍歸董卓，何如？」肅曰：「賢弟若能如此，真莫大之功也！但事不宜遲，在於速決。」布與肅約於明日來降，肅別去。\n是夜二更時分，布提刀逕入丁原帳中。原正秉燭觀書，見布至，曰：「吾兒來有何事故？」布曰：「吾堂堂丈夫，安肯為汝子乎！」原曰：「奉先何故心變？」布向前一刀砍下丁原首級，大呼：「左右！丁原不仁，吾已殺之。肯從吾者在此，不從者自去！」軍士散其大半。次日，布持丁原首級，往見李肅。肅遂引布見卓。卓大喜，置酒相待。卓先下拜曰：「卓今得將軍，如旱苗之得甘雨也。」布納卓坐而拜之曰：「公若不棄，布請拜為義父。」卓以金甲錦袍賜布，暢飲而散。卓自是威勢越大，自領前將軍事，封弟董旻為左將軍鄠侯，封呂布為騎都尉中郎將都亭侯。\n李儒勸卓早定廢立之計。卓乃於省中設宴，會集公卿，令呂布將甲士千餘，侍衛左右。是日，太傅袁隗與百官皆到。酒行數巡，卓拔劍曰：「今上闇弱，不可以奉宗廟；吾將依伊尹、霍光故事，廢帝為弘農王，立陳留王為帝。有不從者斬！」群臣惶怖莫敢對。中軍校尉袁紹挺身出曰：「今上即位未幾，並無失德；汝欲廢嫡立庶，非反而何？」卓怒曰：「天下事在我！我今為之，誰敢不從？汝視我之劍不利否？」袁紹亦拔劍曰：「汝劍利，吾劍未嘗不利！」兩個在筵上對敵。正是：\n丁原仗義身先喪，袁紹爭鋒勢又危。\n畢竟袁紹性命如何，且聽下文分解。",
+    "title": "第三回 議溫明董卓叱丁原　　餽金珠李肅說呂布"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-003.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

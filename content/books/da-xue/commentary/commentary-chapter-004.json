@@ -1,0 +1,46 @@
+{
+  "commentary": {
+    "character_count": 30,
+    "id": "commentary-chapter-004",
+    "order": 4,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 30,
+        "id": "commentary-chapter-004-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「聽訟，吾猶人也，必也使無訟乎！」無情者不得盡其辭。大畏民志，此謂知本。"
+      }
+    ],
+    "summary": "釋本末",
+    "supplemental_text": "猶人，不異於人也。情，實也。引夫子之言，而言聖人能使無實之人不敢盡其虛誕之辭。蓋我之明德既明，自然有以畏服民之心志，故訟不待聽而自無也。觀於此言，可以知本末之先後矣。\n右傳之四章。釋本末。此章舊本誤在「止於信」下。",
+    "supplemental_unit_count": 2,
+    "supplemental_units": [
+      {
+        "character_count": 72,
+        "id": "commentary-chapter-004-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "猶人，不異於人也。情，實也。引夫子之言，而言聖人能使無實之人不敢盡其虛誕之辭。蓋我之明德既明，自然有以畏服民之心志，故訟不待聽而自無也。觀於此言，可以知本末之先後矣。"
+      },
+      {
+        "character_count": 18,
+        "id": "commentary-chapter-004-supp-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "右傳之四章。釋本末。此章舊本誤在「止於信」下。"
+      }
+    ],
+    "text": "子曰：「聽訟，吾猶人也，必也使無訟乎！」無情者不得盡其辭。大畏民志，此謂知本。",
+    "title": "右傳之四章"
+  },
+  "commentary_path": "books/da-xue/commentary/commentary-chapter-004.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

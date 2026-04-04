@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 56,
+    "id": "chapter-036",
+    "order": 36,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 56,
+        "id": "chapter-036-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之。是謂微明。柔弱勝剛強。魚不可脫於淵，國之利器不可以示人。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When one is about to take an inspiration, he is sure to make a (previous) expiration; when he is going to weaken another, he will first strengthen him; when he is going to overthrow another, he will first have raised him up; when he is going to despoil another, he will first have made gifts to him:--this is called 'Hiding the light (of his procedure).' The soft overcomes the hard; and the weak the strong. Fishes should not be taken from the deep; instruments for the profit of a state should not be shown to the people."
+          }
+        }
+      }
+    ],
+    "summary": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之。是謂微明。柔弱勝剛強。魚不可脫於淵，國之利器不可以示人。",
+    "title": "第36章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-036.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

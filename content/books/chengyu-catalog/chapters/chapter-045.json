@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-045",
+    "order": 45,
+    "summary": "再三再四",
+    "text": "再三再四\n惹是生非\n表面文章\n半死半生\n心手相应\n鬼出神入\n捷足先得\n非池中物\n今是昨非\n平地起雷\n身家性命\n心口相应\n良知良能\n意合情投\n惹事生非\n面目全非\n口耳相承\n孤行己意\n二心两意\n通前至后\n视死如生\n恩若再生\n明公正气\n众心如城\n去太去甚\n如箭在弦\n行藏用舍\n如履平地\n交臂相失\n百思莫解",
+    "title": "1321-1350",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "再三再四",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "repeatedly"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "惹是生非",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to stir up trouble"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "表面文章",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "superficial show"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "半死半生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "①Not all dead"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "心手相应",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He is skilled in describing techniques and can do whatever he thinks in his mind."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "鬼出神入",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The metaphor changes cleverly and quickly, and is difficult to predict"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "捷足先得",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Quick and easy"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "非池中物",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not a small animal that lives in a pond for a long time"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "今是昨非",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "What is right now was wrong in the past"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "平地起雷",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just like a sound of thunder"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "身家性命",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Net worth and family"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "心口相应",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "What you think is consistent with what you say"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "良知良能",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "instinctive understanding, esp. of ethical issues (idiom); untrained, but with an inborn sense of right and wrong"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "意合情投",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still in love"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "惹事生非",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to stir up trouble"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "面目全非",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "nothing remains the same (idiom); change beyond recognition"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "口耳相承",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to accepting rumors"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "孤行己意",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Do not accept other people's opinions and act stubbornly according to your own opinions"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "二心两意",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes lack of single-mindedness and unsteadiness in will"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "通前至后",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "from beginning to end"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "视死如生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Treat death as if you were alive"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "恩若再生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The great favor is like being given a second life"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "明公正气",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still formal"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "众心如城",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "United as one, we are as indestructible as a solid city wall"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "去太去甚",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just enough, don't go too far"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "如箭在弦",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The arrow is on the string"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "行藏用舍",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "do it, implement it"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "如履平地",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "tread"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "交臂相失",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still saying goodbye"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-045-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "百思莫解",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 百思不解[bai3 si1 bu4 jie3]"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-045.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

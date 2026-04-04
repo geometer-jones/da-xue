@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 95,
+    "id": "chapter-041",
+    "order": 41,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 95,
+        "id": "chapter-041-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "上士聞道，勤而行之；中士聞道，若存若亡；下士聞道，大笑之。不笑不足以為道。故建言有之：明道若昧；進道若退；夷道若纇；上德若谷；太白若辱；廣德若不足；建德若偷；質真若渝；大方無隅；大器晚成；大音希聲；大象無形；道隱無名。夫唯道，善貸且成。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Scholars of the highest class, when they hear about the Tao, earnestly carry it into practice. Scholars of the middle class, when they have heard about it, seem now to keep it and now to lose it. Scholars of the lowest class, when they have heard about it, laugh greatly at it. If it were not (thus) laughed at, it would not be fit to be the Tao. Therefore the sentence-makers have thus expressed themselves:-- 'The Tao, when brightest seen, seems light to lack; Who progress in it makes, seems drawing back; Its even way is like a rugged track. Its highest virtue from the vale doth rise; Its greatest beauty seems to offend the eyes; And he has most whose lot the least supplies. Its firmest virtue seems but poor and low; Its solid truth seems change to undergo; Its largest square doth yet no corner show A vessel great, it is the slowest made; Loud is its sound, but never word it said; A semblance great, the shadow of a shade.' The Tao is hidden, and has no name; but it is the Tao which is skilful at imparting (to all things what they need) and making them complete."
+          }
+        }
+      }
+    ],
+    "summary": "上士聞道，勤而行之；中士聞道，若存若亡；下士聞道，大笑之",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "上士聞道，勤而行之；中士聞道，若存若亡；下士聞道，大笑之。不笑不足以為道。故建言有之：明道若昧；進道若退；夷道若纇；上德若谷；太白若辱；廣德若不足；建德若偷；質真若渝；大方無隅；大器晚成；大音希聲；大象無形；道隱無名。夫唯道，善貸且成。",
+    "title": "第41章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-041.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

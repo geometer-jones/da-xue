@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 28,
+    "id": "chapter-071",
+    "order": 71,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 28,
+        "id": "chapter-071-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "知不知上；不知知病。夫唯病病，是以不病。聖人不病，以其病病，是以不病。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease. It is simply by being pained at (the thought of) having this disease that we are preserved from it. The sage has not the disease. He knows the pain that would be inseparable from it, and therefore he does not have it."
+          }
+        }
+      }
+    ],
+    "summary": "知不知上；不知知病",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "知不知上；不知知病。夫唯病病，是以不病。聖人不病，以其病病，是以不病。",
+    "title": "第71章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-071.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

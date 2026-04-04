@@ -1,0 +1,697 @@
+{
+  "chapter": {
+    "character_count": 3026,
+    "id": "chapter-042",
+    "order": 42,
+    "reading_unit_count": 52,
+    "reading_units": [
+      {
+        "character_count": 85,
+        "id": "chapter-042-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說鍾縉、鍾紳，二人攔住趙雲廝殺。趙雲挺槍便刺。鍾縉當先揮大斧來迎。兩馬相交，戰不三合，被雲一槍刺落馬下，奪路便走。背後鍾紳持戟趕來，馬尾相衝，那枝戟只在趙雲後心內弄影。雲急撥轉馬頭，恰好兩胸相拍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But in his rear arose another tumultuous shouting, seeming to rend the very sky, and Wên P‘ing came up behind. However, although the man was weary and his steed highspent, Chao Yün got close to the bridge where he saw standing, all ready for any fray, his brother in arms."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-042-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "雲左手持槍隔過畫戟，右手拔出青釭寶劍砍去，帶盔連腦，砍去一半，紳落馬而死，餘眾奔散。趙雲得脫，望長阪橋而走。只聞後面喊聲大震。原來文聘引軍趕來。趙雲到得橋邊，人困馬乏。見張飛挺矛立馬於橋上，雲大呼曰：「翼德援我！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Help me, I-tê!” he cried and crossed the bridge."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-042-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "」飛曰：「子龍速行，追兵我自當之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Hasten!” cried Chang Fei, “I will keep back the pursuers.”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-042-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "雲縱馬過橋，行二十餘里，見玄德與眾人憩於樹下。雲下馬伏地而泣。玄德亦泣。雲喘息而言曰：「趙雲之罪，萬死猶輕！糜夫人身帶重傷，不肯上馬，投井而死。雲只得推土牆掩之；懷抱公子，身突重圍；賴主公洪福，幸而得脫。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "About twenty li from the bridge he saw Yüan-tê with his followers reposing in the shade of some trees. He dismounted and drew near, weeping. The tears also started to Yüan-tê's eyes when he saw his faithful follower."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-042-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "適纔公子尚在懷中啼哭，此一會不見動靜，想是不能保也。」遂解視之。原來阿斗正睡著未醒。雲喜曰：「幸得公子無恙！」雙手遞與玄德。玄德接過，擲之於地曰：「為汝這孺子，幾損我一員大將！」趙雲忙向地下抱起阿斗，泣拜曰：「雲雖肝腦塗地，不能報也！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still panting from his exertions, Chao Yün gasped out, “My fault —— —death is too light a punishment. The Lady Mi was severely wounded; she refused my horse and threw herself into a well. She is dead and all I could do was to fill in the well with the rubbish that lay around. But I placed the babe in the breast of my fighting robe and have won my way out of the press of battle. Thanks to the little lord’s grand luck I have escaped. At first he cried a good deal, but for some time now he has not stirred or made a sound. I fear I may not have saved his life after all.”"
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-042-line-006",
+        "order": 6,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "」後人有詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then he opened his robe and looked; the child was fast asleep."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-042-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "曹操軍中飛虎出，趙雲懷內小龍眠。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ \"Happily, Sir, your son is unhurt,\" said Chao as he drew him forth and presented him in both hands. Yüan-tê took the child but threw it aside angrily, saying, \"To preserve that suckling I very nearly lost a great captain.\""
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-042-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "無由撫慰忠臣意，故把親兒擲馬前。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chao Yün picked up the child again and, weeping, said, \"Were I ground to powder I could not prove my gratitude.\""
+          }
+        }
+      },
+      {
+        "character_count": 57,
+        "id": "chapter-042-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "卻說文聘引軍追趙雲至長阪橋，只見張飛倒豎虎鬚，圓睜環眼，手綽蛇矛，立馬橋上；又見橋東樹林之後，塵頭大起，疑有伏兵，便勒住馬不敢近前。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "From out Ts‘ao’s host a tiger rushed, His wish but to destroy; Though Liu Pei’s consort lost her life, Chao Yün preserved her boy. “Too great the risk you ran to save This child,” the father cried. To show he rated Chao Yün high, He threw his son aside."
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-042-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "俄而曹仁、李典、夏侯惇、夏侯淵、樂進、張遼、張郃、許褚等都至。見飛怒目橫矛，立馬於橋上，又恐是諸葛孔明之計，都不敢近前，紮住陣腳，一字兒擺在橋西，使人飛報曹操。操聞知，急上馬，從陣後來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wên P‘ing and his company pursued Chao Yün till they saw Chang Fei’s bristling moustache and fiercely glaring eyes before them. There he was seated on his battle steed, his hand grasping his terrible serpent-like spear, guarding the bridge. They also saw great clouds of dust rising above the trees and concluded they would fall into an ambush if they ventured across the bridge. So they stopped the pursuit, not daring to advance further. In a little time several other captains came up, but none dared advance, frightened not only by Chang Fei’s fierce look, but lest they should become victims of a ruse of the terrible Chuko Liang. As they came up they formed a line on the west side, halting till they could inform their lord of the position."
+          }
+        }
+      },
+      {
+        "character_count": 67,
+        "id": "chapter-042-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "張飛圓睜環眼，隱隱見後軍青羅傘蓋、旄鉞旌旗來到，料得是曹操心疑，親自來看。飛乃厲聲大喝曰：「我乃燕人張翼德也！誰敢與我決一死戰？」聲如巨雷。曹軍聞之，盡皆股栗。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As soon as the messengers arrived and Ts‘ao Ts‘ao heard about it he mounted and rode to the bridge to see for himself. Chang Fei’s fierce eye scanning the hinder position of the army opposite him saw the silken umbrella, the axes and banners coming along and concluded that Ts‘ao Ts‘ao came to see for himself how matters stood. So in a mighty voice he shouted, “I am Chang I-tê of Yen; who dares fight with me?”"
+          }
+        }
+      },
+      {
+        "character_count": 45,
+        "id": "chapter-042-line-012",
+        "order": 12,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "曹操急令去其傘蓋，回顧左右曰：「我向曾聞雲長言，翼德於百萬軍中，取上將之首，如探囊取物。今日相逢，不可輕敵。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At the sound of this thundrous voice a terrible quaking fear seized upon Ts‘ao and he bade them take the umbrella away. Turning to his followers he said, “Kuan Yü said that his brother Chang Fei was the sort of man to go through an army of a hundred legions and take the head of its commanderin-chief; and do it easily. Now here is this terror in front of us and we must be careful.”"
+          }
+        }
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-042-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "言未已，張飛睜目又喝曰：「燕人張翼德在此！誰敢來決死戰？」曹操見張飛如此氣概，頗有退心。飛望見曹操後軍陣腳移動，乃挺矛又喝曰：「戰又不戰，退又不退，卻是何故！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As he finished speaking again that terrible voice was heard, “I am Chang I-tê of Yen; who dares fight with me?” Ts‘ao, seeing his enemy so fierce and resolute, was too frightened to think of anything but retreat and Chang Fei, seeing a movement going on in the rear, once again shook his spear and roared, “What mean you, cowards? You will not fight nor do you run away.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-042-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "喊聲未絕，曹操身邊夏侯傑驚得肝膽碎裂，倒撞於馬下。操便回馬而走。於是諸軍眾將一齊望西逃奔。正是：黃口孺子，怎聞霹靂之聲；病體樵夫，難聽虎豹之吼。一時棄槍落盔者，不計其數。人如潮湧，馬似山崩，自相踐踏。後人有詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ This roar had scarcely begun when one of Ts‘ao’s staff reeled and fell from his horse terror-stricken, paralysed with fear. The panic touched Ts‘ao Ts‘ao, and spread to his whole surroundings and he and his staff galloped for their lives. They were as frightened as a suckling babe at a clap of thunder or a weak woodcutter at the roar of a tiger. Many threw away their spears, dropped their casques and fled, a wave of panic-stricken humanity, a tumbling mass of terrified horses. None thought of aught but flight, and those who ran trampled the bodies of fallen comrades under foot."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-042-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "長阪橋頭殺氣生，橫槍立馬眼圓睜。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang Fei was wrathful; and who dared To accept his challenge? Fierce he glared; His thundrous voice rolled out, and then In terror fled Ts‘ao’s armed men."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-042-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "一聲好似轟雷震，獨退曹家百萬兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Panic stricken Ts‘ao Ts‘ao galloped westward with the rest, thinking of nothing but getting away. He lost his headdress and his loosened hair streamed behind him. Presently Chang Liao and Hsü Ch‘u came up with him and seized his bridle; fear had deprived him of all self-control."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-042-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "卻說曹操懼張飛之威，驟馬望西而走，冠簪盡落，披髮奔逃。張遼、許褚趕上扯住轡環。曹操倉皇失措。張遼曰：「丞相休驚。料張飛一人，何足深懼！今急回軍殺去，劉備可擒也。」曹操方纔神色稍定，乃令張遼、許褚再至長阪橋探聽消息。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Do not be frightened,” said Chang Liao. “After all Chang Fei is but one man and not worthy of extravagant fear. If you will only return and attack you will capture your enemy.” By that time Ts‘ao had somewhat overcome his panic and become reasonable. Two captains were ordered back to the bridge to reconnoitre. Chang Fei saw the disorderly rout of the enemy but he dared not pursue. However, he bade his score or so of dustraising followers to cut loose the branches from their horses' tails and come to help destroy the bridge. This done he went to report to his brother and told him of the destruction of the bridge."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-042-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "且說張飛見曹軍一擁而退，不敢追趕，速喚回原隨二十餘騎，解去馬尾樹枝，令將橋梁拆斷，然後回馬來見玄德，具言斷橋一事。玄德曰：「吾弟勇則勇矣，惜失於計較。」飛問其故。玄德曰：「曹操多謀。汝不合拆斷橋梁。彼必追至矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Brave as you are, brother, and no one is braver, you are no strategist,” said Liu Pei. “What mean you, brother?” “Ts‘ao Ts‘ao is very deep. You are no match for him. The destruction of the bridge will bring him in pursuit.” “If he ran away at a yell of mine, think you he will dare return?”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-042-line-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "」飛曰：「他被我一喝，倒退數里，何敢再追？」玄德曰：「若不斷橋，彼恐有埋伏，不敢進兵；今拆斷了橋，彼料我無軍而怯，必來追趕。彼有百萬之眾，雖涉江、漢，可填而過，豈懼一橋之斷耶？」於是即刻起身，從小路斜投漢津，望沔陽路而走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If you had left the bridge he would have thought there was an ambush and would not have dared to pass it. Now the destruction of the bridge tells him we are weak and fearful, and he will pursue. He does not mind a broken bridge. His legions could fill up the biggest rivers that we could get across. ” So orders were given to march and they went by a bye-road which led diagonally to Hanching and then took the road to Minyang."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-042-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "卻說曹操使張遼、許褚探長阪橋消息，回報曰：「張飛已拆斷橋梁而去矣。」操曰：「彼斷橋而去，乃心怯也。」遂傳令差一萬軍，速搭三座浮橋，只今夜就要過。李典曰：「此恐是諸葛亮之詐謀，不可輕進。」操曰：「張飛一勇之夫，豈有詐謀？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The two captains sent by Ts‘ao to reconnoitre near Ch‘angpan Bridge returned, saying, “The bridge has been destroyed, Chang Fei has left.” ​ “Then he is afraid,” said Ts‘ao. He at once gave orders to set a legion at work on three floating bridges to be finished that night. Li Tien said, “I fear this is one of the wiles of Chuko Liang; so be careful.” “Chang Fei is just a bold warrior, but there is no guile about him,” said Ts‘ao Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-042-line-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "」遂傳下號令，火速進兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He gave orders for immediate advance."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-042-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "卻說玄德行近漢津，忽見後面塵頭大起，鼓聲連天，喊聲震地。玄德曰：「前有大江，後有追兵，如之奈何？」急命趙雲準備抵敵。曹操下令軍中曰：「今劉備釜中之魚，阱中之虎；若不就此時擒捉，如放魚入海，縱虎歸山矣。眾將可努力向前。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Pei was making all speed to Hanching. Suddenly there appeared in his track a great cloud of dust whence came loud rolls of drums and shoutings. Yüan-tê was dismayed and said, “Before us rolls the great river; behind is the pursuer. What hope is there for us?” But he bade Chao Yün organise a defence. Now Ts‘ao Ts‘ao in an order to his army had said, “Liu Pei is a fish in the fish kettle; a tiger in the pit. Catch him this time, or the fish will get back to the sea and the tiger escape to the hills. Therefore every captain must use his best efforts to press on.”"
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-042-line-023",
+        "order": 23,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "」眾將領令，一個個奮威追趕。忽山坡後鼓聲響處，一隊軍馬飛出，大叫曰：「我在此等候多時了！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In consequence every leader bade those under him hasten forward. And they were pressing on at great speed when suddenly soldiers appeared from the hills and a voice cried, “I have waited here a long time.”"
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-042-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "當頭那員大將，手執青龍刀，坐下赤兔馬。原來是關雲長，去江夏惜得軍馬一萬，探知當陽長阪大戰，特地從此路截出。曹操一見雲長，即勒住馬回顧眾將曰：「又中諸葛亮之計也！」傳令大軍速退。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The leader who had shouted this bore in his hand the Black Dragon sword and rode “Red Hare,” for indeed it was no other than Kuan Yü. He had gone to Chianghsia for help and had returned with a whole legion. Having heard of the battle he had taken this very road to intercept pursuit. As soon as Kuan Yü appeared Ts‘ao stopped and said to his officers, “Here we are, tricked again by that Chuko Liang.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-042-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "雲長追趕十數里，即回軍保護玄德等到漢津，已有船隻伺候；雲長請玄德並甘夫人、阿斗至船中坐定。雲長問曰：「二嫂如何不見？」玄德訴說當陽之事。雲長歎曰：「昔日獵於許田時，若從吾意，可無今日之患。」玄德曰：「我於此時亦『投鼠忌器』耳。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Without more ado he ordered a retreat. Kuan Yü followed him some ten li and then drew off to act as guard to his elder brother on his way to the river. There boats were ready and Yüan-tê and family went on board. When all were settled comfortably in the boat Kuan Yü asked where was his sister, the second wife of his brother. Then Yüan-tê told him the story of Tangyang. “Alas!” said Kuan Yü. “Had you taken my advice that day of the hunting in Hsüt‘ien we should have escaped the misery of this day.”"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-042-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "正說之間，忽見江南岸戰鼓大鳴，舟船如蟻，順風揚帆而來。玄德大驚。船來至近，只見一人白袍銀鎧，立於船頭上大呼曰：「叔父別來無恙？小姪得罪來遲！」玄德視之，乃劉琦也。琦過船哭拜曰：「聞叔父困於曹操，小姪特來接應。」玄德大喜，遂合兵一處而行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“But,” said Yüan-tê, “on that day it was 'Ware damage when pelting rats.” Just as he spoke he heard war-drums on the south bank. A fleet of boats, thick as a flight of ants, came running up with swelling sails before the fair wind. He was alarmed. The boats came nearer. There he saw the white clad figure of a man wearing a silver hennet who stood in the prow of the foremost ship. He cried, “Are you all right, my uncle? I am very guilty.” ​ It was Liu Chi. He bowed low as the ship passed, saying, “I heard you were in danger from Ts‘ao Ts‘ao and I have come to aid you.”"
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-042-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "在船中正訴情由，忽西南上戰船一字兒擺開，乘風唿哨而至。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê welcomed him with joy and his soldiers joined in with the main body and the whole fleet sailed on, while they told each other their adventures."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-042-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "劉琦驚曰：「江夏之兵，小姪已盡起至此矣。今有戰船攔路，非曹操之軍，即江東之軍也，如之奈何？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Unexpectedly in the south-west there appeared a line of fighting ships swishing up before a fair wind. Liu Chi said, “All my men are here and now there is an enemy barring the way. If they are not Ts‘ao Ts‘ao’s ships they must be from Chiangtung. We have a poor chance. What now?”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-042-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "玄德出船頭視之，見一人綸巾道服，坐在船頭上，乃孔明也，背後立著孫乾。玄德慌請過船，問其何故卻在此。孔明曰：「亮自至江夏，先令雲長於漢津登陸地而接應。我料曹操必來追趕，主公必不從江陵來，必斜取漢津矣；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê went to the prow and gazed at them. Presently he made out a figure in a turban and Taoist robe sitting in the bows of one of the boats and knew it to be K‘ung-ming. Behind him stood Sun Ch‘ien. When they were quite near Yüan-tê asked K‘ung-ming how he came to be there. And he reported what he had done, saying, “When I reached Chianghsia I sent Kuan Yü to land at Hanching with reinforcements, for I feared pursuit from Ts‘ao Ts‘ao and knew the road you would take. So I prayed your nephew to go to meet you while I went to Hsiak‘ou to muster as many men as possible.”"
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-042-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "故特請公子先來接應，我竟往夏口，盡起軍前來相助。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The new-comers added to their strength and they began once more to consider how their powerful enemy might be overcome."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-042-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "玄德大悅，合為一處，商議破曹之策。孔明曰：「夏口城險，頗有錢糧，可以久守。請主公到夏口屯住。公子自回江夏，整頓戰船，收拾軍器，為犄角之勢，可以抵當曹操。若共歸江夏，則勢反孤矣。」劉琦曰：「軍師之言甚善。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Said K‘ung-ming, “Hsiak‘ou is strong and a good strategical point; it is also rich and suited for a lengthy stay. I would ask you, my lord, to make it a permanent camp. Your nephew can go to Chianghsia to get the fleet in order and prepare weapons. Thus there will be two threatening angles to our position. If we all return to Chianghsia the position will be weakened.” Liu Chi replied, “The Adviser-General’s words are excellent, but I would rather my uncle stayed awhile in Chianghsia till the army was in thorough order. Then he could go to Hsiak‘ou."
+          }
+        }
+      },
+      {
+        "character_count": 54,
+        "id": "chapter-042-line-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "但愚意欲請叔父暫至江夏，整頓軍馬停當，再回夏口不遲。」玄德曰：「賢姪之言亦是。」遂留下雲長，引五千軍守夏口。玄德、孔明、劉琦共投江夏。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You speak to the point, nephew,” replied Yüan-tê. Then leaving Kuan Yü with half a legion at Hsiak‘ou he, with K‘ung-ming and his nephew, went to Chianghsia. When Ts‘ao Ts‘ao saw Kuan Yü with a force ready to attack he feared lest a greater number were hidden away behind, so he stopped the pursuit. He also feared lest Yüan-tê should take Chiangling, so he marched thither with all haste."
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-042-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "卻說曹操見雲長在旱路引軍截出，疑有伏兵，不敢來追；又恐水路先被玄德奪了江陵，便星夜提兵赴江陵來。荊州治中鄧義、別駕劉先。已備知襄陽之事，料不能抵敵曹操，遂引荊州軍民出郭投降。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The two officers in command at Chingchou had heard of what happened at Hsiangyang and, knowing that there was no chance of successful defence against Ts‘ao Ts‘ao’s armies, they led out the people of Chingchou to the outskirts and offered submission. Ts‘ao entered the city and, after restoring order and confidence, he released Han Sung and gave him the ​ dignified office of Director of Ambassadorial Receptions. He rewarded the others. Then said Ts‘ao Ts‘ao, “Liu Pei has gone to Chianghsia and may ally himself with Wu and the opposition to me will be greater. Can he be destroyed?”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-042-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "曹操入城，安民已定，釋韓嵩之囚，加為大鴻臚。其餘眾官，各有封賞。曹操與眾將議曰：「今劉備已投江夏，恐結連東吳，是滋蔓也。當用何計破之？」荀攸曰：「我今大振兵威，遣使馳檄江東，請孫權會獵於江夏，共擒劉備，分荊州之地，永結盟好。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsün Yu said, “The splendour of your achievements has spread wide. Therefore you might send a messenger to invite Sun Ch'üan to a grand hunting party at Chianghsia and you two could seize Liu Pei, share Chingchou with Sun and make a solemn treaty. Sun will be too frightened not to come over to you and your end will be gained.” Ts‘ao agreed. He sent the letters by a messenger and he prepared his men, horse and foot and marines. He had in all eighty-three legions, but he called them a hundred. The attack was to be by land and water at the same time."
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-042-line-035",
+        "order": 35,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "孫權必驚疑而來降，則吾事濟矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The fleet advanced up the river in two lines. On the west it extended to Chinghsia, on the east to Ch‘ihuang in Hupeh. The stockades stretched three hundred li ."
+          }
+        }
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-042-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "操從其計，一面發檄遣使赴東吳；一面計點馬步水軍共八十三萬，詐稱一百萬，水陸並進，船騎雙行，沿江而來。西連荊峽，東接蘄黃，寨柵聯絡三百餘里。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At this point the narrative must digress. The story of Ts‘ao Ts‘ao’s movements and successes reached Sun Ch'üan, then in camp at Ch‘aisang. He assembled his strategists to decide on a scheme of defence."
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-042-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "話分兩頭。卻說江東孫權，屯兵柴桑郡，聞曹操大軍至襄陽，劉琮已降，今又星夜兼道取江陵，乃集眾謀士商議禦守之策。魯肅曰：「荊州與國鄰接，江山險固，士民殷富。吾若據而有之，此帝王之資也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lu Su said, “Chingchou is contiguous to our borders. It is strong and defensive, its people are rich. It is the sort of country that an emperor or a king should have. Liu Piao’s recent death gives an excuse for me to be sent to convey condolence and, once there, I shall be able to talk over Liu Pei and the officers of the late prefect to combine with you against Ts‘ao. If Liu Pei does as I wish, then success is yours.”"
+          }
+        }
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-042-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "今劉表新亡，劉備新敗，肅請奉命往江夏弔喪，因說劉備使撫劉表眾將，同心一意，共破曹操；備若喜而從命，則大事可成矣。」權喜從其言，即遣魯肅齎禮往江夏弔喪。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Ch'üan thought this a good plan, so he had the necessary letters prepared, and the gifts, and sent Lu Su with them. All this time Liu Pei was at Chianghsia where, with K‘ungming and Liu Ch‘i, he was endeavouring to evolve a good plan of campaign."
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-042-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "卻說玄德至江夏，與孔明、劉琦共議良策。孔明曰：「曹操勢大，急難抵敵，不如往投東吳孫權，以為應援。使南北相持，吾等於中取利，有何不可？」玄德曰：「江東人物極多，必有遠謀，安肯相容耶？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming said, “Ts‘ao Ts‘ao’s power is too great for us to cope with. Let us go over to Wu and ask help from Sun Ch'üan. If we can set north and south at grips we ought to be able to get some advantage from our mediary position between them.” “But will they be willing to have anything to do with us?” said Yüan-tê. “It is a large and populous country and Sun Ch'üan has ambitions of his own.”"
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-042-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "」孔明笑曰：「今操引百萬之眾，虎踞江漢，江東安得不使人來探聽虛實？若有人到此，亮借一帆風，直至江東，憑三寸不爛之舌，說南北兩軍互相吞併。若南軍勝，共誅曹操以取荊州之地；若北軍勝，則我乘勢以取江南可也。」玄德曰：「此論甚高。但如何得江東人到？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming replied, “Ts‘ao with his army of a hundred legions holds the Han and the Yangtse. Chiangtung will certainly send to find out all possible about the position. Should any messenger come I shall borrow a little boat and make a little trip over the river and trust to my little lithe tongue to set north and south at each other’s throats. If the southern men win, we will assist in destroying Ts‘ao in order to get ​ Chingchou; if the north win, we shall profit by the victory to get Chiangnan. So we shall get some advantage either way.”"
+          }
+        }
+      },
+      {
+        "character_count": 0,
+        "id": "chapter-042-line-041",
+        "order": 41,
+        "source_block_chunk": 3,
+        "source_block_order": 25,
+        "text": "」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“That is a very fine view to take,” said Yüan-tê. “But how are you going to get hold of any one from the south to talk to?”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-042-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "正說間，人報江東孫權差魯肅來弔喪，船已傍岸。孔明笑曰：「大事濟矣！」遂問劉琦曰：「往日孫策亡時，襄陽曾遣人去弔喪否？」琦曰：「江東與我家有殺父之讎，安得通慶弔之禮？」孔明曰：「然則魯肅之來，非為弔喪，乃來探聽軍情也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Pei’s question was answered by the arrival of Lu Su, and as the ship touched the bank and the envoy came ashore, K‘ung-ming laughed, saying, “It is done!” Turning to Liu Ch‘i he asked, “When Sun Ts'ê died did your country send any condolences?” “Is it likely there would be any mourning courtesies between them and us while there was the death of a father to avenge?” “Then it is certain that this envoy does not come to present condolences but to spy out the land.”"
+          }
+        }
+      },
+      {
+        "character_count": 33,
+        "id": "chapter-042-line-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 26,
+        "text": "」遂謂玄德曰：「魯肅至，若問曹操動靜，主公只推不知。再三問時，主公只說可問諸葛亮。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So he said to Yüan-tê, “When Lu Su asks about the movements of Ts‘ao Ts‘ao, you will know nothing. If he press the matter, say he can ask me.”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-042-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "計議已定，使人迎接魯肅。肅入城弔喪，收過禮物，劉琦請肅與玄德相見。禮畢，邀入後堂飲酒。肅曰：「久聞皇叔大名，無緣拜會；今幸得見，實為欣慰。近聞皇叔與曹操會戰，必知彼虛實。敢問操軍約有幾何？」玄德曰：「備兵微將寡，一聞操至即走，竟不知彼虛實。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Having thus prepared their scheme they sent to welcome the envoy, who entered the city in mourning garb. The gifts having been accepted, Liu Ch‘i asked Lu Su to meet Yüan-tê. When the introductory ceremonies were over the three men went to one of the inner chambers to drink a cup of wine. Presently Lu Su said to Yüan-tê, “By reputation I have known you a long time, Uncle Liu, but till to-day I have not met you. I am very gratified at seeing you. You have been fighting Ts‘ao Ts‘ao, though, lately, so I suppose you know all about him. Has he really so great an army? How many, do you think, he has?”"
+          }
+        }
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-042-line-045",
+        "order": 45,
+        "source_block_chunk": 2,
+        "source_block_order": 27,
+        "text": "」魯肅曰：「聞皇叔用諸葛孔明之謀，兩場火燒得曹操魂亡膽落，何言不知耶？」玄德曰：「除非問孔明，便知其詳。」肅曰：「孔明安在？願求一見。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My army was so small that we fled whenever we heard of his approach; so I do not know how many he had.” “You had the advice of Chuko K‘ung-ming and you used fire on Ts‘ao Ts‘ao twice. You burned him almost to death so that you can hardly say you know nothing about his men,” said Lu."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-042-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "玄德教請孔明出來相見。肅見孔明禮畢，問曰：「向慕先生才德，未得拜晤；今幸相遇，願聞目今安危之事。」孔明曰：「曹操奸計，亮已盡知；但恨力未及，故且避之。」肅曰：「皇叔今將止於此乎？」孔明曰：「使君與蒼梧太守吳臣有舊，將往投之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Without asking my adviser I really do not know the details.” “Where is K‘ung-ming? I should like to see him,” said Lu. So they sent for him and he was introduced. When the ceremonies were over Lu Su said, “I have long admired your genius but have never been fortunate enough to meet you. Now that I have met you I hope I may speak of present politics.” Replied K‘ung-ming, “We know all Ts‘ao Ts‘ao’s infamies and wickednesses, but to our regret we were not strong enough to withstand him. That is why we avoided him.” “Is the Imperial Uncle going to stay here?”"
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-042-line-047",
+        "order": 47,
+        "source_block_chunk": 2,
+        "source_block_order": 28,
+        "text": "」肅曰：「吳臣糧少兵微，自不能保，焉能容人？」孔明曰：「吳臣處雖不足久居，今且暫依之，別有良圖。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The Princely One is an old friend of Wu Ch'ên, Prefect of Ts‘angwu and intends to go to him.” ​ “He has few men and insufficient supplies, he cannot ensure safety. How can he receive the Uncle?” said Lu."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-042-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "肅曰：「孫將軍虎踞六郡，兵精糧足，又極敬賢禮士，江東英雄，多歸附之。今為君計，莫若遣心腹往結東吳，以共圖大事。」孔明曰：「劉使君與孫將軍自來無舊，恐虛費詞說；且別無心腹之人可使。」肅曰：「先生之兄，現為江東參謀，日望與先生相見。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“His place is not one to remain in long, but it is good enough for the present. We can make other plans for the future.” Lu said, “Sun Ch'üan is strongly posted and is exceedingly well supplied. He treats able men and scholars with the greatest courtesy and so they gather round him. Now if you are seeking a plan for your Prince you cannot do better than send some friend to confer with him.” “There have never been any relations between my master and yours,” said K‘ung-ming. “I fear there would be nothing but a waste of words. Besides, we have no one to send.”"
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-042-line-049",
+        "order": 49,
+        "source_block_chunk": 2,
+        "source_block_order": 29,
+        "text": "肅不才，願與公同見孫將軍，共議大事。」玄德曰：「孔明是吾之師，頃刻不可相離，安可去也？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Your elder brother is there as adviser and is longing to see you. I am but a simple wight but I should be pleased to discuss affairs with my master and you.”"
+          }
+        }
+      },
+      {
+        "character_count": 50,
+        "id": "chapter-042-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "肅堅請孔明同去。玄德佯不許。孔明曰：「事急矣，請奉命一行。」玄德方纔許諾。魯肅遂別了玄德、劉琦，與孔明登舟，望柴桑郡來。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“But he is my Director-in-Chief,” said Yüan-tê, “and I cannot do without him. He cannot go.” Lu Su pressed him. Yüan-tê pretended to refuse permission. “It is important; I pray you give me leave to go,” said K‘ung-ming. Then Yüan-tê consented. And they soon took leave and the two set out by boat for Sun Ch'üan’s headquarters."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-042-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "只因諸葛扁舟去，致使曹兵一旦休。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Alittle boat sailed down the stream With Chuko well content; For he could see his enemies To black perdition sent."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-042-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "不知孔明此去畢竟如何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The result of this journey will appear in the following chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說鍾縉、鍾紳，二人攔住趙雲廝殺。趙雲挺槍便刺。鍾縉當先揮大斧來迎。兩馬相交，戰不三合，被雲一槍刺落馬下，奪路便走。背後鍾紳持戟趕來，馬尾相衝，那枝戟只在趙雲後心內弄影。雲急撥轉馬頭，恰好兩胸相拍。雲左手持槍隔過畫戟，右手拔出青釭寶劍砍去，帶盔連腦，砍去一半，紳落馬而死，餘眾奔散。趙雲得脫，望長阪橋而走。只聞後面喊聲大震。原來文聘引軍趕來。趙雲到得橋邊，人困馬乏。見張飛挺矛立馬於橋上，雲大呼曰：「翼德援我！」飛曰：「子龍速行，追兵我自當之。」\n雲縱馬過橋，行二十餘里，見玄德與眾人憩於樹下。雲下馬伏地而泣。玄德亦泣。雲喘息而言曰：「趙雲之罪，萬死猶輕！糜夫人身帶重傷，不肯上馬，投井而死。雲只得推土牆掩之；懷抱公子，身突重圍；賴主公洪福，幸而得脫。適纔公子尚在懷中啼哭，此一會不見動靜，想是不能保也。」遂解視之。原來阿斗正睡著未醒。雲喜曰：「幸得公子無恙！」雙手遞與玄德。玄德接過，擲之於地曰：「為汝這孺子，幾損我一員大將！」趙雲忙向地下抱起阿斗，泣拜曰：「雲雖肝腦塗地，不能報也！」後人有詩曰：\n曹操軍中飛虎出，趙雲懷內小龍眠。\n無由撫慰忠臣意，故把親兒擲馬前。\n卻說文聘引軍追趙雲至長阪橋，只見張飛倒豎虎鬚，圓睜環眼，手綽蛇矛，立馬橋上；又見橋東樹林之後，塵頭大起，疑有伏兵，便勒住馬不敢近前。\n俄而曹仁、李典、夏侯惇、夏侯淵、樂進、張遼、張郃、許褚等都至。見飛怒目橫矛，立馬於橋上，又恐是諸葛孔明之計，都不敢近前，紮住陣腳，一字兒擺在橋西，使人飛報曹操。操聞知，急上馬，從陣後來。張飛圓睜環眼，隱隱見後軍青羅傘蓋、旄鉞旌旗來到，料得是曹操心疑，親自來看。飛乃厲聲大喝曰：「我乃燕人張翼德也！誰敢與我決一死戰？」聲如巨雷。曹軍聞之，盡皆股栗。曹操急令去其傘蓋，回顧左右曰：「我向曾聞雲長言，翼德於百萬軍中，取上將之首，如探囊取物。今日相逢，不可輕敵。」\n言未已，張飛睜目又喝曰：「燕人張翼德在此！誰敢來決死戰？」曹操見張飛如此氣概，頗有退心。飛望見曹操後軍陣腳移動，乃挺矛又喝曰：「戰又不戰，退又不退，卻是何故！」\n喊聲未絕，曹操身邊夏侯傑驚得肝膽碎裂，倒撞於馬下。操便回馬而走。於是諸軍眾將一齊望西逃奔。正是：黃口孺子，怎聞霹靂之聲；病體樵夫，難聽虎豹之吼。一時棄槍落盔者，不計其數。人如潮湧，馬似山崩，自相踐踏。後人有詩曰：\n長阪橋頭殺氣生，橫槍立馬眼圓睜。\n一聲好似轟雷震，獨退曹家百萬兵。\n卻說曹操懼張飛之威，驟馬望西而走，冠簪盡落，披髮奔逃。張遼、許褚趕上扯住轡環。曹操倉皇失措。張遼曰：「丞相休驚。料張飛一人，何足深懼！今急回軍殺去，劉備可擒也。」曹操方纔神色稍定，乃令張遼、許褚再至長阪橋探聽消息。\n且說張飛見曹軍一擁而退，不敢追趕，速喚回原隨二十餘騎，解去馬尾樹枝，令將橋梁拆斷，然後回馬來見玄德，具言斷橋一事。玄德曰：「吾弟勇則勇矣，惜失於計較。」飛問其故。玄德曰：「曹操多謀。汝不合拆斷橋梁。彼必追至矣。」飛曰：「他被我一喝，倒退數里，何敢再追？」玄德曰：「若不斷橋，彼恐有埋伏，不敢進兵；今拆斷了橋，彼料我無軍而怯，必來追趕。彼有百萬之眾，雖涉江、漢，可填而過，豈懼一橋之斷耶？」於是即刻起身，從小路斜投漢津，望沔陽路而走。\n卻說曹操使張遼、許褚探長阪橋消息，回報曰：「張飛已拆斷橋梁而去矣。」操曰：「彼斷橋而去，乃心怯也。」遂傳令差一萬軍，速搭三座浮橋，只今夜就要過。李典曰：「此恐是諸葛亮之詐謀，不可輕進。」操曰：「張飛一勇之夫，豈有詐謀？」遂傳下號令，火速進兵。\n卻說玄德行近漢津，忽見後面塵頭大起，鼓聲連天，喊聲震地。玄德曰：「前有大江，後有追兵，如之奈何？」急命趙雲準備抵敵。曹操下令軍中曰：「今劉備釜中之魚，阱中之虎；若不就此時擒捉，如放魚入海，縱虎歸山矣。眾將可努力向前。」眾將領令，一個個奮威追趕。忽山坡後鼓聲響處，一隊軍馬飛出，大叫曰：「我在此等候多時了！」\n當頭那員大將，手執青龍刀，坐下赤兔馬。原來是關雲長，去江夏惜得軍馬一萬，探知當陽長阪大戰，特地從此路截出。曹操一見雲長，即勒住馬回顧眾將曰：「又中諸葛亮之計也！」傳令大軍速退。\n雲長追趕十數里，即回軍保護玄德等到漢津，已有船隻伺候；雲長請玄德並甘夫人、阿斗至船中坐定。雲長問曰：「二嫂如何不見？」玄德訴說當陽之事。雲長歎曰：「昔日獵於許田時，若從吾意，可無今日之患。」玄德曰：「我於此時亦『投鼠忌器』耳。」\n正說之間，忽見江南岸戰鼓大鳴，舟船如蟻，順風揚帆而來。玄德大驚。船來至近，只見一人白袍銀鎧，立於船頭上大呼曰：「叔父別來無恙？小姪得罪來遲！」玄德視之，乃劉琦也。琦過船哭拜曰：「聞叔父困於曹操，小姪特來接應。」玄德大喜，遂合兵一處而行。在船中正訴情由，忽西南上戰船一字兒擺開，乘風唿哨而至。\n劉琦驚曰：「江夏之兵，小姪已盡起至此矣。今有戰船攔路，非曹操之軍，即江東之軍也，如之奈何？」\n玄德出船頭視之，見一人綸巾道服，坐在船頭上，乃孔明也，背後立著孫乾。玄德慌請過船，問其何故卻在此。孔明曰：「亮自至江夏，先令雲長於漢津登陸地而接應。我料曹操必來追趕，主公必不從江陵來，必斜取漢津矣；故特請公子先來接應，我竟往夏口，盡起軍前來相助。」\n玄德大悅，合為一處，商議破曹之策。孔明曰：「夏口城險，頗有錢糧，可以久守。請主公到夏口屯住。公子自回江夏，整頓戰船，收拾軍器，為犄角之勢，可以抵當曹操。若共歸江夏，則勢反孤矣。」劉琦曰：「軍師之言甚善。但愚意欲請叔父暫至江夏，整頓軍馬停當，再回夏口不遲。」玄德曰：「賢姪之言亦是。」遂留下雲長，引五千軍守夏口。玄德、孔明、劉琦共投江夏。\n卻說曹操見雲長在旱路引軍截出，疑有伏兵，不敢來追；又恐水路先被玄德奪了江陵，便星夜提兵赴江陵來。荊州治中鄧義、別駕劉先。已備知襄陽之事，料不能抵敵曹操，遂引荊州軍民出郭投降。\n曹操入城，安民已定，釋韓嵩之囚，加為大鴻臚。其餘眾官，各有封賞。曹操與眾將議曰：「今劉備已投江夏，恐結連東吳，是滋蔓也。當用何計破之？」荀攸曰：「我今大振兵威，遣使馳檄江東，請孫權會獵於江夏，共擒劉備，分荊州之地，永結盟好。孫權必驚疑而來降，則吾事濟矣。」\n操從其計，一面發檄遣使赴東吳；一面計點馬步水軍共八十三萬，詐稱一百萬，水陸並進，船騎雙行，沿江而來。西連荊峽，東接蘄黃，寨柵聯絡三百餘里。\n話分兩頭。卻說江東孫權，屯兵柴桑郡，聞曹操大軍至襄陽，劉琮已降，今又星夜兼道取江陵，乃集眾謀士商議禦守之策。魯肅曰：「荊州與國鄰接，江山險固，士民殷富。吾若據而有之，此帝王之資也。今劉表新亡，劉備新敗，肅請奉命往江夏弔喪，因說劉備使撫劉表眾將，同心一意，共破曹操；備若喜而從命，則大事可成矣。」權喜從其言，即遣魯肅齎禮往江夏弔喪。\n卻說玄德至江夏，與孔明、劉琦共議良策。孔明曰：「曹操勢大，急難抵敵，不如往投東吳孫權，以為應援。使南北相持，吾等於中取利，有何不可？」玄德曰：「江東人物極多，必有遠謀，安肯相容耶？」孔明笑曰：「今操引百萬之眾，虎踞江漢，江東安得不使人來探聽虛實？若有人到此，亮借一帆風，直至江東，憑三寸不爛之舌，說南北兩軍互相吞併。若南軍勝，共誅曹操以取荊州之地；若北軍勝，則我乘勢以取江南可也。」玄德曰：「此論甚高。但如何得江東人到？」\n正說間，人報江東孫權差魯肅來弔喪，船已傍岸。孔明笑曰：「大事濟矣！」遂問劉琦曰：「往日孫策亡時，襄陽曾遣人去弔喪否？」琦曰：「江東與我家有殺父之讎，安得通慶弔之禮？」孔明曰：「然則魯肅之來，非為弔喪，乃來探聽軍情也。」遂謂玄德曰：「魯肅至，若問曹操動靜，主公只推不知。再三問時，主公只說可問諸葛亮。」\n計議已定，使人迎接魯肅。肅入城弔喪，收過禮物，劉琦請肅與玄德相見。禮畢，邀入後堂飲酒。肅曰：「久聞皇叔大名，無緣拜會；今幸得見，實為欣慰。近聞皇叔與曹操會戰，必知彼虛實。敢問操軍約有幾何？」玄德曰：「備兵微將寡，一聞操至即走，竟不知彼虛實。」魯肅曰：「聞皇叔用諸葛孔明之謀，兩場火燒得曹操魂亡膽落，何言不知耶？」玄德曰：「除非問孔明，便知其詳。」肅曰：「孔明安在？願求一見。」\n玄德教請孔明出來相見。肅見孔明禮畢，問曰：「向慕先生才德，未得拜晤；今幸相遇，願聞目今安危之事。」孔明曰：「曹操奸計，亮已盡知；但恨力未及，故且避之。」肅曰：「皇叔今將止於此乎？」孔明曰：「使君與蒼梧太守吳臣有舊，將往投之。」肅曰：「吳臣糧少兵微，自不能保，焉能容人？」孔明曰：「吳臣處雖不足久居，今且暫依之，別有良圖。」\n肅曰：「孫將軍虎踞六郡，兵精糧足，又極敬賢禮士，江東英雄，多歸附之。今為君計，莫若遣心腹往結東吳，以共圖大事。」孔明曰：「劉使君與孫將軍自來無舊，恐虛費詞說；且別無心腹之人可使。」肅曰：「先生之兄，現為江東參謀，日望與先生相見。肅不才，願與公同見孫將軍，共議大事。」玄德曰：「孔明是吾之師，頃刻不可相離，安可去也？」\n肅堅請孔明同去。玄德佯不許。孔明曰：「事急矣，請奉命一行。」玄德方纔許諾。魯肅遂別了玄德、劉琦，與孔明登舟，望柴桑郡來。正是：\n只因諸葛扁舟去，致使曹兵一旦休。\n不知孔明此去畢竟如何，且看下文分解。",
+    "title": "第四十二回 張翼德大鬧長阪橋　　劉豫州敗走漢津口"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-042.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-016",
+    "order": 16,
+    "summary": "别有天地",
+    "text": "别有天地\n无所事事\n等而下之\n一相情原\n不好意思\n有本有原\n若无其事\n用武之地\n不得不尔\n不死不活\n论世知人\n知人论世\n公之于众\n人不聊生\n不敢后人\n一无所取\n好生之德\n得人死力\n无往不复\n不闻不问\n不问不闻\n时不再来\n地利人和\n自然而然\n动不失时\n十指连心\n四方之志\n经国之才\n不教之教\n二心三意",
+    "title": "451-480",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "别有天地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "enchanting scenery"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "无所事事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have nothing to do; to idle one's time away"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "等而下之",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "going from there to lower grades"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "一相情原",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A love story"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "不好意思",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to feel embarrassed"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "有本有原",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Original"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "若无其事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "as if nothing had happened; calmly; nonchalantly"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "用武之地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "ample scope for abilities; favorable position for the use of one's skills"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "不得不尔",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I have to"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "不死不活",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "half-dead; lifeless; lethargic"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "论世知人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On the world and knowing people"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "知人论世",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Know people and judge the world"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "公之于众",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to make known to the masses; to publicize widely; to let the world know"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "人不聊生",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "People are bored"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "不敢后人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Don't dare to descend"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "一无所取",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "gain nothing"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "好生之德",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "life-loving virtue; the virtue of cherishing lives and not killing people and animals"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "得人死力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "win people to death"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "无往不复",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "nothing departs that does not return; cyclical"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "不闻不问",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "not to hear, not to question; to show no interest in something; uncritical; not in the least concerned"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "不问不闻",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Don't ask, don't hear"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "时不再来",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Time that has passed will never come back."
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "地利人和",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "favorable geographical and social conditions; good location and the people satisfied"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "自然而然",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "naturally; involuntary; automatically"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "动不失时",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Never lose time"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "十指连心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Fingers and hearts"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "四方之志",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ambition from all directions"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "经国之才",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Talents for governing the country"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "不教之教",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Teaching without teaching"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-016-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "二心三意",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "half-hearted"
+          }
+        },
+        "category": "高透明度 IV"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-016.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

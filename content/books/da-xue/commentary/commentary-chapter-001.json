@@ -1,0 +1,70 @@
+{
+  "commentary": {
+    "character_count": 26,
+    "id": "commentary-chapter-001",
+    "order": 1,
+    "reading_unit_count": 4,
+    "reading_units": [
+      {
+        "character_count": 6,
+        "id": "commentary-chapter-001-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "康誥曰：「克明德。」"
+      },
+      {
+        "character_count": 9,
+        "id": "commentary-chapter-001-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "大甲曰：「顧諟天之明命。」"
+      },
+      {
+        "character_count": 7,
+        "id": "commentary-chapter-001-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "帝典曰：「克明峻德。」"
+      },
+      {
+        "character_count": 4,
+        "id": "commentary-chapter-001-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "皆自明也。"
+      }
+    ],
+    "summary": "釋明明德",
+    "supplemental_text": "康誥，周書。克，能也。大，讀作泰。諟，古是字。大甲，商書。顧，謂常目在之也。諟，猶此也，或曰審也。天之明命，即天之所以與我，而我之所以為德者也。常目在之，則無時不明矣。峻，書作俊。帝典，堯典，虞書。峻，大也。結所引書，皆言自明己德之意。\n右傳之首章。釋明明德。此通下三章至「止於信」，舊本誤在「沒世不忘」之下。",
+    "supplemental_unit_count": 2,
+    "supplemental_units": [
+      {
+        "character_count": 89,
+        "id": "commentary-chapter-001-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "康誥，周書。克，能也。大，讀作泰。諟，古是字。大甲，商書。顧，謂常目在之也。諟，猶此也，或曰審也。天之明命，即天之所以與我，而我之所以為德者也。常目在之，則無時不明矣。峻，書作俊。帝典，堯典，虞書。峻，大也。結所引書，皆言自明己德之意。"
+      },
+      {
+        "character_count": 28,
+        "id": "commentary-chapter-001-supp-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "右傳之首章。釋明明德。此通下三章至「止於信」，舊本誤在「沒世不忘」之下。"
+      }
+    ],
+    "text": "康誥曰：「克明德。」\n大甲曰：「顧諟天之明命。」\n帝典曰：「克明峻德。」\n皆自明也。",
+    "title": "右傳之首章"
+  },
+  "commentary_path": "books/da-xue/commentary/commentary-chapter-001.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

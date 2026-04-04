@@ -1,0 +1,840 @@
+{
+  "chapter": {
+    "character_count": 3967,
+    "id": "chapter-069",
+    "order": 69,
+    "reading_unit_count": 63,
+    "reading_units": [
+      {
+        "character_count": 46,
+        "id": "chapter-069-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說當日曹操，見黑風中群屍首皆起，驚倒於地。須臾風定，群屍皆不見。左右扶操回宮，驚而成疾。後人有詩讚左慈曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Apoet celebrated the episode of the murdered Taoist:— He studied his magical books, He was learned in mystical lore, And with magical fleetness of foot He could travel the wide world o‘er. The magical arts that he knew, He employed in an earnest essay To reform the bad heart of Ts‘ao Man, But in vain; Ts‘ao held on his way."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-069-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "飛步凌雲遍九州，獨憑遁甲自邀遊。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao’s illness seemed beyond the art of the leech and drugs seemed of no avail. It happened that T‘aishih Ch'êng and Hsü Chih came from the capital to visit the prince, who bade the latter take the sortes from the “Book of Changes.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-069-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "等閒施設神仙術，點悟曹瞞不轉頭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Have you ever heard of Kuan Lu? He is more than human in his skill at divination,” said Hsü."
+          }
+        }
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-069-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "曹操染病，服藥無愈。適太史丞許芝，自許昌來見操。操令芝卜易。芝曰：「大王曾聞神卜管輅否？」操曰：「頗聞其名，未知其術。汝可詳言之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have heard a lot about him, but I do not know how clever he is; you tell me about him,” replied Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-069-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "芝曰：「管輅字公明，平原人也。容貌粗醜，好酒疎狂。其父曾為瑯琊郡丘長。輅自幼便喜仰視星辰，夜不思寐。父母不能禁止。常云：『家雞野鵠，尚自知時，何況為人在世乎？』與鄰兒共戲，輒畫地為天文，分布日月星辰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“He is from P‘ingyüan; his other name is Kung-ming. His face is ugly and coarse; he drinks to excess and is rather dissipated. His father was chief of the aborigines of the Langya districts. From a lad Kuan Lu loved to study the stars, staying up all night to watch them, in spite of the prohibition of his father and mother. He used to say that if domestic fowls and wild geese knew the seasons naturally how much more should a man. He often used to play with other boys at drawing pictures of the sky on the ground, putting in the sun, moon and stars. When he grew older he studied the 'Book of Changes' very deeply and observed the winds. He was a marvellous calculator and excellent physiognomist."
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-069-line-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "及稍長，即深明周易，仰觀風角，數學通神，兼善相術。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“His fame reached the ears of the Prefect Tan Tzu-ch‘un, who called him to his residence for an interview. There were present some hundred or so other guests, every one of whom could be called able of speech."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-069-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "「瑯琊太守單子春聞其名，召輅相見。時有坐客百餘人，皆能言之士。輅謂子春曰：『輅年少膽氣未堅，先請美酒三升，飲而後言。』子春奇之，遂與酒三升。飲畢，輅問子春：『今欲與輅為對者，若府君四座之士耶﹖』子春曰：『吾自與卿旗鼓相當。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“'I am young and not over-bold,' said Kuan Lu to the Prefect. 'I pray you give me three stoups of wine to loosen my tongue.' ​ “The request was astonishing, but the wine was brought in, and when he had drunk it, Kuan Lu, looking contemptuously at the other guests, said, 'Now I am ready; are these the sort of opponents you have got together for me to contend with? Are these gentlemen sitting around me disputants?' “ 'I myself am anxious for a match with you,' said Tan."
+          }
+        }
+      },
+      {
+        "character_count": 54,
+        "id": "chapter-069-line-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "』於是與輅講論易理。輅亹亹而談，言言精奧。子春反覆辨難，輅對答如流，從曉至暮，酒食不行。子春及眾賓客，無不歎服。於是天下號為『神童』。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Then they began upon the meaning of the 'Book of Changes.' Kuan Lu’s words poured forth like a torrent, and his ideas were most recondite. The Prefect replied, stating difficulties; Kuan swept them away in a stream of eloquence. So it went on the whole day without a pause even for refreshment. Neither Tan nor his other guests could help praising him and agreeing with him. “His fame spread wide after this encounter, and people spoke of him as the 'Supernatural Boy.'"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-069-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "「後有居民郭恩者，兄弟三人，皆得躄疾，請輅卜之。輅曰：『卦中有君家本墓中女鬼，非君伯母即叔母也。昔饑荒之年，謀數升之米之利，推之落井，以大石壓破其頭，孤魂痛苦，自訴於天；故君兄弟有此報，不可禳也。』郭恩等涕泣伏罪。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“After this he became famous in another way. There was a certain Kuo En, a man of the people, who had two brothers. All three became lame and they called in Kuan Lu to cast lots and discover the reason. Kuan Lu said, 'By the lots there is a female demon in your family tomb, an aunt, the wife of one of your father’s brothers. Some years ago, in a time of dearth, for the sake of a few measures of grain, she was pushed into a well and a great stone was thrown in on her, crushing her head so that she suffered intensely. She complained to the Most High, and your lameness is the retribution for that crime. No prayers will avert the evil. “The three brothers wept and acknowledged their guilt."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-069-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "「安平太守王基，知輅神卜，延輅至家。適信都令妻，常患頭風；其子又患心痛；因請輅卜之。輅曰：『此堂之西角有二死屍。一男持矛，一男持弓箭。頭在壁內，腳在壁外。持矛者主刺頭，故頭痛；持弓箭者主刺胸腹，故心痛。』乃掘之。入地八尺，果有二棺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The Prefect Wang Chi, of Anping, heard of the diviner’s fame and invited him to come on a visit, and he went. It happened that the wife of the magistrate of Hsintu suffered from headaches and his son from pains in the heart. Kuan Lu was asked to discover the reason. He cast lots and said that at the west corner of the main hall there were buried two corpses, one of a man who held a spear, the other of a man who had a bow and arrows. The wall was built across them. The spearman’s master had gashed his head and so his head pained. The archer’s master had stabbed him in the heart and so his heart suffered anguish. They dug where he indicated and, about eight feet down, found two coffins, one with a spear inside and the other with a strung bow and wooden arrows. All were much decayed. Kuan Lu bade them remove the bones and bury them ten li outside the walls. Thereafter the woman and her son suffered no more."
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-069-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "一棺中有矛，一棺中有角弓及箭，木俱已朽爛。輅令徙骸骨去城外十里埋之，妻與子遂無恙。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“A certain Chuko Yüan, magistrate of Kuant‘ao, newly promoted to Prefect, was leaving for his new post, and Kuan Lu went to see him off. One of the guests mentioned that Kuan Lu could divine what was hidden from sight. The Prefect doubted such powers and said he would put a test. He got a swallow’s egg, a wasp’s nest and a spider and con ​ cealed them in three separate boxes. He asked Kuan to guess the contents. The divination made, he wrote three quatrains:—"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-069-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "「館陶令諸葛原，遷新興太守，輅往送行。客言輅能射覆。諸葛原不信，暗取燕卵、蜂窠、蜘蛛三物，分置三盒之中，令輅卜之。卦成，各寫四句於盒上。其一曰：『含氣須變，依乎堂宇；雌雄以形，羽翼舒張。此燕卵也。』其二曰：『家室倒懸，門戶眾多；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'The latent life will declare itself; It will cling to your lordly hall, Or male or female, flung into space, Wide wings will prevent its fall. 'This seems to indicate a swallow’s egg. ‘A many-chambered dwelling Is hanging to your eaves, Each room has a poisonous tenant; Who‘ll be flying when he leaves. 'This answers to a wasp’s nest."
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-069-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "藏精育毒，得秋乃化。此蜂窠也。』其三曰：『觳觫長足，吐絲成羅；尋網求食，利在昏夜。此蜘蛛也。』滿座驚駭。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Therein’s a long-shanked, trembling thing, Who spins a thread from his inside And spreads a fine spun net for flies; He profits most at eventide. ‘And this it a spider.' “The guests were amazed."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-069-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "「鄉中有老婦失牛，求卜之。輅判曰：『北溪之濱，七人宰烹；急往追尋，皮肉尚存。』老婦果往尋之，見七人於茅舍後煮食，皮肉猶存。婦告本郡太守劉邠，捕七人罪之，因問老婦曰：『汝何以知之？』婦告以管輅之神卜。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“An old woman in his village having lost a cow, came to consult him. After the divination he told her that seven men had taken away the cow and were cooking and eating it on the bank of a certain mountain stream. She had better go there quickly and see who they were. If she went with all speed she would find the skin and the flesh. She went and found the seven men hidden behind a small shanty, boiling beef. Most of the cow’s flesh was still there. She told the Prefect, who arrested the seven men and punished them. Then he asked the old lady how she got to know exactly who the offenders were, and she told him."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-069-line-015",
+        "order": 15,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "劉邠不信，請輅至府，取印囊及山雞毛藏於盒中，令卜之。輅卜其一曰；『內方外圓，五色成文；含寶守信，出則有章。此印囊也。』其二曰：『高岳巖巖，有鳥朱身；羽翼玄黃，鳴不失晨。此山雞毛也。』劉邠大驚，遂待為上賓。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“He was dubious, too. He sent for Kuan Lu and put him to the following test. He placed his seal and a pheasant feather in a box and asked what were the contents. The reply was:— 'Square within, without so round, Beauteous colours here abound; The jewel within is held secure And what it witnesses is sure. ‘Is not this a seal in its bag?' “With regard to the other thing, Kuan Lu said:— 'There’s a bird on the precipice steep, Its body with flame seems aglow, Its wings are barred yellow and black, At sunrise it ne‘er fails to crow. 'And I think this hints at a pheasant feather.'"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-069-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "「一日出郊閒行，見一少年耕於田中，輅立道傍觀之。良久，問曰：『少年高姓、貴庚？』答曰：『姓趙，名顏。年十九歲矣。敢問先生為誰？』輅曰：『吾管輅也。吾見汝眉間有死氣，三日內必死，汝貌美，可惜無壽。』趙顏回家，急告其父。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “The Prefect Liu treated the marvellous diviner with great honour. “One day Kuan Lu saw a youth ploughing a field. After watching him for a long time, Kuan Lu suddenly asked his name and age. “ 'My name is Chao Yen, and I am nineteen,' said the young man. ‘Pray, who may you be, Sir?' “ ‘I am Kuan Lu; you may have heard of me. I see an air of early death about you, and you will be done with life in three days. It is a pity that one so handsome should die so young.' “Chao Yen forsook his plough, hurried home and told his father. The father at once set out to find Kuan Lu, and, having found him, threw himself on the ground and besought him to save his son. “ 'How can I avert the doom? It is fate,' said Kuan Lu."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-069-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "父聞之，趕上管輅，哭拜於地曰：『請歸救吾子！』輅曰：『此乃天命也，安可禳乎？』父告曰：『老夫止有此子，望乞垂救！』趙顏亦哭求。輅見父子情切，乃謂趙顏曰：「汝可備淨酒一瓶，鹿脯一塊，來日齎往南山之中，大樹之下，看盤石上有二人亦棋。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“ 'Alas! I have but this one son, I pray you to save him.' “And the son added his tears and prayers to those of his father. Kuan Lu was deeply touched. Then he turned to the lad and said, 'You get ready some good wine and some venison. To-morrow go into the forest on the south there, and underneath a lofty tree you will see two men seated on boulders playing wei-ch‘i. One of them will be dressed in white, and he will be facing the south. He is very evil looking. The other will be seated opposite, dressed in red. He is very handhome. They will be deeply absorbed in their game and will not notice who offers them food and wine, which you will humbly present on your knees. When they have eaten and drunk, you will prostrate yourself and with tears pray them to grant you length of days. You will gain an increased span of life, but, above all things, do not mention that I told you what to do.'"
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-069-line-018",
+        "order": 18,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "一人向南坐，穿白袍，其貌甚惡；一人向北坐，穿紅袍，其貌甚美。汝可乘其弈興濃時，將酒及鹿跪進之。待其飲食畢，汝乃哭拜求壽，必得益算矣。但切勿言是吾所教。』」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The father kept Kuan Lu as a guest, and the next day the son followed out his instructions. He entered the forest and soon came upon the two men seated beneath a pine, playing wei-ch‘i . They seemed oblivious to all around them. Chao Yen presented the wine and the food, and the two men ate absent-mindedly, for the game went on. “But when Chao Yen threw himself on the ground and implored the gift of long life, they seemed startled."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-069-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "「老人留輅在家。次日，趙顏攜酒脯盃盤入南山之中。約行五六里，果有二人於大松樹下盤石上奕棋。全然不顧，趙顏跪進酒脯。二人貪著棋，不覺飲酒已盡。趙顏哭拜於地而求壽，二人大驚。穿紅袍者曰：『此必管子之言也。吾二人既受其私，必須憐之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“ 'This must be some of Kuan Lu’s doing,' said Red Robe. 'Still, as we have accepted a gift at his hand we must have pity on him.' “He who was dressed in white then lifted up a book that hung at his side and looked therein. “ 'You are nineteen this year,' said he to Chao Yen. 'You ought to die. But we will insert a ‘nine' over the 'ten' and so make it read ninety and nine, and that is the age you will attain. But when you go back, tell Kuan Lu he is not to betray the secrets of fate, or Heaven will surely punish him.'"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-069-line-020",
+        "order": 20,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "』穿白袍者，乃於身邊取出簿籍檢看，謂趙顏曰：『汝今年十九歲，當死。吾今於『十』字上添上一『九』字，汝壽可至九十九。回見管輅，教再休泄漏天機；不然，必致天譴。』穿紅者出筆添訖，一陣香風過處，二人化作二白鶴，沖天而去。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “Then Red Robe took out a pen and added the figure gust of wind passed, and the two old men were transformed into two cranes that rose into the sky and flew away. “Chao Yen came back home and told what he had seen. Kuan Lu told him the red-robed man was the Southern Dipper Constellation, and the white-robed, the Northern Dipper. “ 'But the Northern Dipper consists of nine stars, and there was only one man,' objected the lad."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-069-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "「趙顏歸問管輅。輅曰：『穿紅者，南斗也；穿白者，北斗也。』顏曰：『吾聞北斗九星，何止一人？』輅曰：『散而為九，合而為一也。北斗注死，南斗注生。今已添注壽算，子復何憂﹖』父子拜謝。自此管輅恐泄天機，更不輕為人卜。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "\" 'Separately they are nine, but they combine to form one. I The Northern Dipper records deaths; the Southern Dipper, births. Now the extra figure has been added you need have no anxiety; you will live long.' “Father and son both thanked him most sincerely, but thereafter Kuan Lu was very careful how he divined for people lest he should betray celestial secrets. “Now, this man is at P‘ingyüan, and you, O Prince, can seek your fate of him. Why not call him?”"
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-069-line-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "此人現在平原，大王欲知休咎，何不召之？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Lu was sent for and came. As soon as the salutations were over, Ts‘ao Ts‘ao asked him to cast lots for him."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-069-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "操大喜，即差人往平原召輅。輅至，參拜訖，操令卜之。輅答曰：「此幻術耳，何必為憂？」操心安，病乃漸可。操令卜天下之事。輅卜曰：「三八縱橫，黃豬遇虎；定軍之南，傷折一股。」又今卜傳祚修短之數。輅卜曰：「獅子宮中，以安神位；王道鼎新，子孫極貴。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Lu at once found that the illness was only due to magical machinations, and said so; at which Ts‘ao Ts‘ao was much relieved in his mind, and his health began to improve. Next Ts‘ao Ts‘ao wished to know about the conditions in the world’s affairs. After the necessary calculations the prophet said, “Three-eight crosswise; the yellow boar meets the tiger: stop the southern expedition with the loss of one limb.” Then Ts‘ao Ts‘ao asked him to enquire whether his life should be long or not."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-069-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "」操問其詳。輅曰：「茫茫天數，不可預知。待後自驗。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He replied, “Lion in the Palace to preserve the talents of ancestors: the Prince’s way is securely renewed and his son and grandson shall come to high honour.”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-069-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "操欲封輅為太吏。輅曰：「命薄相窮，不稱此職，不敢受也。」操問其故。答曰：「輅額無主骨，眼無守睛；鼻無梁柱，腳無天根；背無三甲，腹無三壬。只可泰山治鬼，不能治生人也。」操曰：「汝相吾若何？」輅曰：「位極人臣，又何必相？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Ts‘ao Ts‘ao asked concerning himself. “Divinations concerning the fate of the universe may not be foreknown; wait a time and I will look into it.” Ts‘ao Ts‘ao was pleased and would like to keep such a man near him, so he offered him the post of historiographer (who was also soothsayer) at his court, but it was declined. “My destiny is mean, my luck despicable; I am not equal to such an office and dare not undertake it.” “Why not?” said Ts‘ao Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-069-line-026",
+        "order": 26,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "」再三問之，輅但笑而不答。操令輅遍相文武官僚。輅曰：「皆治世之臣也。」操問休咎，皆不肯盡言。後人有詩讚管輅曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My forehead has no lofty fullness; my eyes no steady expression; my nose no bridge; my feet no round, solid heels; my back lacks the triple armour (of shoulder blades and intervening muscles); and my breast the three marks (like the character jên , which indicates wealth). I can only control evil spirits securely; I cannot rule living men.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-069-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "平明神卜管公明，能算南辰北斗星。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What think you of my physiognomy?”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-069-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "八卦幽微通鬼竅，六爻玄奧究天庭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What can a minister of extremely exalted rank like yourself desire further?” said Kuan Lu."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-069-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "預知相法應無壽，自覺心源極有靈。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Ts‘ao Ts‘ao pressed him to say: the soothsayer only laughed. Then Ts‘ao asked him to look at the many officers of all kinds standing around."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-069-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "可惜當年奇異術，後人無復授遺經。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Every one of them is a servant equal to the administration of the world,” said Kuan Lu."
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-069-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "操令卜東吳、西蜀二處。輅設卦云：「東吳主亡一大將，西蜀有兵犯界。」操不信。忽合淝報來：「東吳陸口守將魯肅身故。」操大驚，便差人往漢中探聽消息。不數日，飛報：「劉玄德遣張飛、馬超屯兵下辨取關。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But when Ts‘ao Ts‘ao asked whether good or bad fortune was to be his, the soothsayer would not give a clear and full reply. Apoem says:— Kuan Lu was a seer of old, Stars to him their secrets told. Mysteries, occult and dim, Were as daylight unto him. His so subtle intellect Could the shade of death detect, But the secrets of his skill Died with him,—are secrets still."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-069-line-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "」操大怒，便欲自領兵再入漢中，令管輅卜之，輅曰：「大王未可妄動。來春許都必有火災。」操見輅言累驗，故不敢輕動，留居鄴郡，使曹洪領兵五萬，往助夏侯淵、張郃同守東川；又差夏侯惇領兵三萬，於許都來往巡警，以備不虞；又教長史王必總督御林軍馬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Again Ts‘ao Ts‘ao asked him to divine concerning his rivals Wu and Shu. He said the former had just lost a famous leader and the latter had encroached on his territory. Ts‘ao’s doubts as to the accuracy of one of these events were soon set at rest, for a messenger came from Hofei to say that Lu Su had died. Then Ts‘ao sent hurriedly into Hanchung, and the scout returned to say that Chang Fei and Ma Ch‘ao had taken the Pass at Hsiapien. Ts‘ao Ts‘ao was angry and inclined to march at once against the invaders; but he consulted the great soothsayer, who advised him not to move. “In the coming spring there will be a conflagration in Hsütu,” said he."
+          }
+        }
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-069-line-033",
+        "order": 33,
+        "source_block_chunk": 3,
+        "source_block_order": 20,
+        "text": "主簿司馬懿曰：「王必嗜酒性寬，恐不堪任此職。」操曰：「王必是孤披荊棘歷艱難時相隨之人，忠而且勤，心如鐵石，最足相當。」遂委王必領御林軍馬屯於許都東華門外。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Having been witness of the verification of Kuan Lu’s words, Ts‘ao Ts‘ao was in no mood to neglect the warning. He stayed on in his palace, but he sent Ts‘ao Hung with five legions to assist in the defence of East Ch‘uan,while Hsiahou Tun, with three legions, went to Hsütu to keep careful watch and be ready against any surprises. He placed Chang Shih and Wang Pi in command of the Imperial Guard. Ssŭma I warned him against this Wang Pi. Said he, “The man is given to wine, and slack. He is not a fit man for such a post.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-069-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "時有一人姓耿，名紀，字季行，洛陽人也；舊為丞相府掾，後遷侍中少府，與司直韋晃甚厚；見曹操進封王爵，出入用天子車服，心甚不平。建安二十三年春正月，耿紀與韋晃密議曰：「操賊奸惡日甚，將來必為篡逆之事。吾等為漢臣，豈可同惡相濟？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao replied, “He is very fit. He has followed me through all difficulties and dangers. He is loyal and diligent, solid as stone or iron.” Wang Pi was appointed and led the guard into camp at the capital, outside the Tung-hua Gate of the Imperial Palace. Now there was a certain Kêng Chi, a Loyang man, who had long been employed in the minister’s palace in a subordinate capacity and afterward had been promoted to a rather better post. He, Ssŭma Chih and Wei Huang were close friends. These three were greatly distressed at Ts‘ao Ts‘ao’s advance to princely rank, and more especially at his use of the imperial ​ chariots. In the early months of the twenty-third year Kêng and Wei came to a secret exchange of views on Ts‘ao’s conduct."
+          }
+        }
+      },
+      {
+        "character_count": 69,
+        "id": "chapter-069-line-035",
+        "order": 35,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "」韋晃曰：「吾有心腹人，姓金，名褘，乃漢相金日磾之後，素有討操之心；更兼與王必甚厚。若得同謀，大事濟矣。」耿紀曰：「他既與王必交厚。豈肯與我同謀乎？」韋晃曰：「且往說之，看是如何。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kêng Chi said, “The man is a rebel and wicked, every day behaving worse. He intends to go farther, and how can we, as servants of the dynasty, help him in his wickedness? I have a friend named Chin I, who also is a servant of Han and an enemy of Ts‘ao Ts‘ao’s. He is a descendant of Chin Jih-ti, one-time minister. Beside, he is friendly with Wang Pi. If we all tried our best we ought to succeed.” “But if he is friendly with Wang Pi he will not assist us!” said Kêng."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-069-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "於是二人同至金褘宅中。褘接入後堂，坐定。晃曰：「德偉與王長史甚厚，吾三人特來告求。」褘曰：「所求何事？」晃曰：「吾聞魏王早晚受禪，將登大寶，公與王長史必高遷。望不相棄，曲賜提攜，感德非淺！」褘拂袖而起。適從者奉茶至，便將茶潑於地上。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Let us go and sound him,” said Wei Huang. So the two went to see Chin I, who received them in his private rooms. There they talked. Said Wei Huang, “O virtuous I, we know you are on most friendly terms with Commander Wang Pi, and so have come to beg a favour.” “What is it you ask?” “The Prince of Wei will soon receive the abdication of the Emperor and himself ascend to the seat of the mighty. Then you and your friend Wang will advance to places of great honour; and when that day comes, we pray you not to forget us, but to recommend us for employment. We should feel no shallow gratitude for your kindness.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-069-line-037",
+        "order": 37,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "晃佯驚曰：「德偉故人，何薄情也？」褘曰：「吾與汝交厚，為汝等是漢朝臣宰之後；今不思報本，欲輔造反之人，吾有何面目與汝為友！」耿紀曰：「奈天數如此，不得不然耳！」褘大怒。耿紀、韋晃見褘果有忠義之心，乃以實情相告曰：「吾等本欲討賊，來求足下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chin I flicked down his sleeves and arose looking very angry. At that instant arrived the tea for the visitors. He snatched it away from the serving-man and emptied it on the floor. Wei Huang started up in feigned alarm. “How have I offended you, my good old friend?” cried he. “I have been friends with you because you are descendants of men who have served Han faithfully. Now, if instead of trying to repay the debt of gratitude you ought to feel, you turn aside to assist one who is their enemy, think you that I can regard you as friends? How could I look the world in the face?”"
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-069-line-038",
+        "order": 38,
+        "source_block_chunk": 3,
+        "source_block_order": 22,
+        "text": "前言特相試耳。」褘曰：「吾累世漢臣，安能從賊？公等欲扶漢室，有何高見？」晃曰：「雖有報國之心，未有討賊之計。」褘曰：「吾欲裏應外合，殺了王必，奪其兵權，扶助鑾輿，更結劉皇叔為外援，操賊可滅矣。」二人聞之，撫掌稱善。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“But if it be destiny, one cannot help it,” said Kêng. “One must accept it.” Chin grew still more angry, so that the two visitors were convinced that at heart he was still loyal to the dynasty. Then they began to tell him the true state of the case. “Our real desire is to destroy this rebel, and we have come to ask your help in that. What we said at first was only a test to find out what you thought.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-069-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "褘曰：「吾有心腹二人，與操賊有殺父之仇，現居城外，可用為羽翼。」耿紀問是何人。褘曰：「太醫吉平之子：長名吉邈，字文然；次名吉穆，字思然。操昔為董承衣帶詔事，曾殺其父。二子逃竄遠鄉，得免於難。今已潛歸許都。若使相助討賊，無有不從。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Think you, with my ancestry, generation after generation in the confidence and service of the Hans, that I would willingly follow a rebel? If you, Sirs, really think of restoring the dynasty, pray tell me your plans.” “Though we have the desire to prove our gratitude, yet we lack the means to destroy the enemy,” said Wei. ​ Said Chin, “We desire helpers within and supporters without. If we could slay Wang Pi we could use his name and troops to help the Emperor. With the help of Liu, the Imperial Uncle, we should be able to destroy the rebel Ts‘ao.” Hearing Chin I’s plan, the others clapped their hands in approval."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-069-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "」耿紀、韋晃大喜。金褘即使人密喚二吉。須臾，二人至。褘具言其事。二人感憤流淚，怨氣沖天，誓殺國賊。金褘曰：「正月十五日夜間，城中大張燈火，慶賞元宵。耿少府、韋司直，你二人各領家僮，殺至王必營前；只看營中火起，分兩路殺入；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“And I have two friends who will go with us,” said Chin. “Both of them have the murder of a father to avenge. They are sons of the great physician Chi P‘ing and are called Chi Miao and Chi Mu. Ts‘ao Ts‘ao put their father to death for his connection with the plot organised by Tung Ch'êng when he received the secret edict conveyed in the robe and girdle that was conferred upon him by the Emperor. The two sons escaped that time by flight, but they have since secretly returned to the capital. With their help all will go well.” The two conspirators rejoiced at the prospect of further help, and a messenger was sent to call in the two Chi. Soon they arrived, and the plot was laid before them. They were deeply affected and shed copious tears. Their wrath rose to the sky and they swore to aid in the destruction of the rebel."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-069-line-041",
+        "order": 41,
+        "source_block_chunk": 3,
+        "source_block_order": 23,
+        "text": "殺了王必，逕跟我入內，請天子登五鳳樓，召百官面諭討賊。吉文然兄弟於城外殺入，放火為號，各要揚聲，叫百姓誅殺國賊，截住城內救軍；待天子降詔，招安已定，便進兵殺奔鄴郡擒曹操，即發使齎詔召劉皇叔。今日約定，至期二更舉事，勿似董承自取其禍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“On the fifteenth day of the first month there will be grand illuminations in the city,” said Chin I, “and felicitations will be going on on every side. Kêng Chi and Wei Huang will each lead out their retainers and make their way quickly to Wang Pi’s camp to wait till they see the fire begin. Then they will dash in, slay Wang Pi and follow me inside the palace. We will then request the Emperor to ascend the Tower of the Five Phoenixes, assemble his officers and issue orders to destroy the rebels. The two brothers Chi will make their way into the city and set fires going. Then all will raise their voices and summon the populace to their aid. They are to hold up any rescue force in the city till the Emperor has issued the edict and disturbance is allayed, when they will rush toward Yehchün and seize Ts‘ao Ts‘ao. Then a messenger will be despatched with a summons for Liu, the Imperial Uncle. We will begin our work this night at the second watch and we will escape the ill success that attended Tung Ch'êng’s attempt.”"
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-069-line-042",
+        "order": 42,
+        "source_block_chunk": 4,
+        "source_block_order": 23,
+        "text": "」五人對天說誓，歃血為盟，各自歸家，整頓軍馬器械，臨期而行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All five swore before Heaven to be true, and they smeared their lips with blood in earnest of their oath. After this, each returned to his own home to prepare arms and call up their men."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-069-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "且說耿紀、韋晃二人，各有家僮三四百，預備器械。吉邈兄弟，亦聚三、四百人口，只推圍獵。安排已定。金褘先期來見王必，言：「方今海宇稍安，魏王威震天下；今值元宵令節，不可不放燈火，以示太平氣象。」王必然其言，告諭城內居民，盡張燈結彩，慶賞佳節。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Both Kêng Chi and Wei Huang had a large number of retainers, whom they armed. The brothers Chi also got together some hundreds of men. They gave out a story of a hunting party to explain the gathering. When the preparations were complete, and before the time fixed for the rising, Chin I went to see Wang Pi and said, “Everything in the world seems now tranquil, and the power of the Prince of Wei extends over all the land. It is a season ​ of joy and felicitation, and everyone is hanging out lanterns and putting up decorations for the occasion.”"
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-069-line-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "至正月十五夜，天色晴霽，星月交輝。六街三市，競放花燈。真個金吾不禁，玉漏無催！王必與御林諸將，在營中飲宴。二更以後，忽聞營中吶喊，人報營後火起。王必慌忙出帳看時，只見火光亂滾；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The night of full moon was very clear, moon and stars most brilliant. The people of the capital took advantage of the night and thronged the “six streets and the three market places.” The lanterns were hung out in profusion, and all went merrily. No official interfered with the crowd, no one thought of the flight of time; all was simple gaiety."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-069-line-045",
+        "order": 45,
+        "source_block_chunk": 3,
+        "source_block_order": 24,
+        "text": "又聞喊殺連天，知是營中有變，急上馬出南門，正遇耿紀，一箭射中肩膊，幾乎墜馬，遂望西門而走。背後有車趕來。王必著忙，棄馬步行，至金褘門首，慌叩其門。原來金褘一面使人於營中放火；一面親領家僮隨後助戰，只留婦女在家。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "That night Wang Pi and his officers of the guards had a feast in their camp. Just after the second watch had begun they heard a great shouting in the camp, and someone came in to say that a fire had started in the rear. Wang Pi hurriedly left the table and went outside. He saw flames leaping up and rolling by and heard shouts of “Kill!” rising on every side and echoing to the very sky. He thought the camp had certainly mutinied, and, jumping on his horse, went out at the south gate. Just outside he ran against Kêng Chi, who loosed an arrow which struck him in the shoulder. He nearly fell with the shock, but he got away toward the west gate. He found he was pursued by armed men, so he got flurried, dismounted and went on foot. Presently he came to the house of Chin Wei and hammered at the door."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-069-line-046",
+        "order": 46,
+        "source_block_chunk": 4,
+        "source_block_order": 24,
+        "text": "時家中聞王必叩門之聲，只道金褘歸來。褘妻從隔門便問曰：「王必那廝殺了麼？」王必大驚，方悟金禕同謀，逕投曹休家報知金褘、耿紀等同謀反。休急披挂上馬，引千餘人在城中拒敵。城內四下火起，燒著五鳳樓，帝避於深宮。曹氏心腹爪牙，死據宮門。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now the fire that had created such a scare had been raised by Chin’s own men sent for that purpose, and he had followed them to fight when the time came. Hence there was no one but the women folk left in his house. When the women heard the clamour at the door they thought Chin I had come back, and his wife, from the door of the women’s quarter, called out, “Have you killed Wang Pi?” This was a shock, but it told Wang Pi that his quondam friend was now an enemy. Wherefore he fled further to the house of Ts‘ao Hsiu and told him that Kêng Chi and Chin I had raised a disturbance. Ts‘ao Hsiu immediately armed himself, got to horse and led a company into the city. He found fires on all sides, and the Tower of the Five Phoenixes was in flames. The Emperor had fled into the recesses of the palace, but Ts‘ao Ts‘ao’s friends and partizans were defending the palace gate like grim death."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-069-line-047",
+        "order": 47,
+        "source_block_chunk": 5,
+        "source_block_order": 24,
+        "text": "城中但聞人叫：「殺盡曹賊，以扶漢室！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the city the crowd was shouting one to another to slay Ts‘ao Ts‘ao and restore the Hans."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-069-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "原來夏侯惇奉曹操命，巡警許昌，領三萬軍，離城五里屯紮；是夜遙望見城中火起，便領大軍前來，圍住許都，使一枝軍入城接應。曹休直混殺至天明。耿紀、韋晃等無人相助。人報金褘、二吉皆被殺死。耿紀、韋晃奪路殺出城門，正遇夏侯惇大軍圍住，活捉去了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Hsiahou Tun had received the command to keep watch and ward over the capital, he had gone into camp five li from the city. When he saw the conflagration start he set the army in motion and surrounded the city. He also sent reinforcements to Ts‘ao Hsiu within. Inside the city the fighting went on all night. No one joined the conspirators; the small band were left to their own efforts. Soon it was reported that Chin I and the brothers Chi were slain. Kêng and Wei found their way to one of the gates, but ​ there they met Hsiahou Tun’s main force and were made prisoners. The handful of men with them were cut to pieces."
+          }
+        }
+      },
+      {
+        "character_count": 68,
+        "id": "chapter-069-line-049",
+        "order": 49,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "手下百餘人皆被殺。夏侯惇入城，救滅遺火，盡收五人老小宗族，使人飛報曹操。操傳令教將耿、韋二人，及五家宗族老小，皆斬於市，並將在朝大小百官，盡拏解鄴郡，聽侯發落。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the fighting subsided, Hsiahou Tun went into the city and set his men to put out the fires. He also laid hands on the whole households of the five conspirators. Then he sent a report to Ts‘ao Ts‘ao, who sent back orders to execute the two conspirators and put to death in public all the members of the five families. He was also to arrest every official and send the whole batch to Yehchün."
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-069-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "夏侯惇押耿、韋二人至市曹。耿紀厲聲大叫曰：「曹阿瞞，吾生不能殺汝，死當作厲鬼以擊賊！」劊子手以刀搠其口，流血滿地，大罵不絕而死。韋晃以面頰頓地曰：「可恨！可恨！」咬牙皆碎而死。後人有詩讚曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsiahou Tun sent his two chief prisoners to the place of execution. They shouted against Ts‘ao Ts‘ao. “Living we have failed to slay you, Ts‘ao A-man; dead we will be malicious spirits smiting rebels in all places.” The executioner smote Kêng on the mouth with his sword, so that the blood gushed out, but he continued to shout as long as he could. Wei Huang, his fellow-conspirator, dashed his temples on the ground crying, “How I hate him!” and ground his teeth till he broke them to fragments. And he died."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-069-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "耿紀精忠韋晃賢，各持空手欲扶天。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Who can with outstretched hands uphold the sky Or thrones maintain by simple loyalty? Han’s day was done; two would avert the doom, But failed, and carried anger to the tomb."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-069-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "誰知漢祚相將盡，恨滿心胸喪九泉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsiahou Tun carried out his chief’s orders and sent the officials he had arrested to Yehchün. There Ts‘ao Ts‘ao set up two flags, one red and one white, in the drill ground and sent all the officials thither. Then he addressed them."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-069-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "夏侯惇盡斬五家老小宗族，將百官解赴鄴郡。曹操於教場立紅旗於左、白旗於右，下令曰：「耿紀、韋晃等造反，放火焚許都，汝等亦有出救火者，亦有閉門不出者。如曾救火者，可立於紅旗下；如不曾救火者，可立於白旗下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“In this late rebellion some of you went out to extinguish the fire, some of you stayed within doors. Let those who went forth to put out the fire take their stand by the red flag and those who remained in their houses go to the white flag.' ” The officials thought within themselves, “Certainly there can be nothing wrong in trying to put out a fire,” so they nearly all placed themselves under the red flag; only about a third went to the white."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-069-line-054",
+        "order": 54,
+        "source_block_chunk": 2,
+        "source_block_order": 29,
+        "text": "」眾官自思救火者必無罪，於是多奔紅旗之下。三停內只有一停立於白旗下。操教盡拏立於紅旗下者。眾官各言無罪。操曰：「汝當時之心，非是救火，實欲助賊耳。」盡命牽出漳河邊斬之，死者三百餘員。其立於白旗下者，盡皆賞賜，仍令還許都。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then the order was given to seize all those by the red flag. They protested. “We are guiltless!” cried they. Ts‘ao Ts‘ao said, “At that time you intended not to put out the flames but to aid the rebels.” He sent them all down to the Chang River and had them put to death on the bank. There were more than three hundred victims. He rewarded those who were under the white flag and sent them to their homes in the capital. Wang Pi died from his wound and was buried with great honour."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-069-line-055",
+        "order": 55,
+        "source_block_chunk": 3,
+        "source_block_order": 29,
+        "text": "時王必已被箭瘡發而死，操命厚葬之。令曹休總督御林軍馬，鍾繇為相國，華歆為御史大夫。遂定侯爵六等十八級，關中侯爵十七級，皆金印紫綬；又置關內外侯十六級，銀印龜紐墨綬；五大夫十五級，銅印鐶組綬。定爵封官，朝廷又換一班人物。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Hsiu was placed over the guards; Chung Yu was dreated Prime Minister, Hua Hsin became a Chief Censor. The occasion was taken to create six grades of the title of “Marquis” with three divisions each, eighteen in all. There were seventeen grades of marquis under the name Kuan-hsi , or ​ “West of the Pass.” And all these had golden seals of office with purple ribbons. There were also sixteen ranks of marquis called Kuan-nei , “Interior,” and Kuan-wai , “Exterior\". They had silver seals with tortoise ornaments on the back and black ribbons. There were five classes of T‘ai-fu with three grades in each class. These had brass seals, with chain ornaments and ribbons. And with all these various gradations of ranks and nobility reorganised, the Court was entirely transformed. There were new ranks and new men in office."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-069-line-056",
+        "order": 56,
+        "source_block_chunk": 4,
+        "source_block_order": 29,
+        "text": "曹操方悟管輅火災之說，遂重賞輅。輅不受。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao then remembered the warning about a conflagration in the capital and wished to reward Kuan Lu for his prescience, but he would receive nothing."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-069-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "卻說曹洪領兵到漢中，令張郃、夏侯淵各據險要。曹洪親自進兵拒敵。時張飛自與雷同守巴西。馬兵至下辦，令吳蘭為先鋒，領軍哨出，正與曹洪軍相遇，吳蘭欲退。牙將任夔曰：「賊兵初至，若不先挫其銳氣，何顏見孟起乎？」於是驟馬挺槍搦曹洪戰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Hung with an army went into Hanchung. He placed Hsiahou Yüan and Chang Ho in command at points of importance, while he went on to the attack. At that time Chang Fei with Lei T‘ung were holding Pahsi. Ma Ch‘ao marched to Hsiapan and sent Wu Lan out as van leader to reconnoitre. He fell in with Ts‘ao Hung, and Wu Lan was going to retire. But a petty officer, Jên K‘uei, advised against this. “They are newly arrived, why not fight and take the keen edge off their pride? If we do not fight, how can we look our chief in the face when we return?”"
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-069-line-058",
+        "order": 58,
+        "source_block_chunk": 2,
+        "source_block_order": 30,
+        "text": "洪自提刀躍馬而出。交鋒三合，斬任夔於馬下，乘勢掩殺。吳蘭大敗，回見馬超。超責之曰：「汝不得吾令，何故輕敵致敗？」吳蘭曰：「任夔不聽吾言，故有此敗。」馬超曰：「可緊守隘口，勿與交鋒。」一面申報成都，聽候行止。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So it was decided to offer battle, and Jên K‘uei rode out and challenged Ts‘ao Hung. The challenge was accepted, and the warriors advanced. Jên K‘uei fell in the third encounter. Ts‘ao Hung pressed the advantage, and Wu Lan was driven off. When he returned and told Ma Ch‘ao, he was blamed. “Why did you attack without orders and bring about this defeat?” “It was the fault of Jên K‘uei, who disobeyed orders.” “Defend most carefully; do not engage,” said Ma Ch‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-069-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "曹洪見馬超連日不出，恐有詐謀，引軍退回南鄭。張郃來見曹洪，問曰：「將軍既已斬將，如何退兵？」洪曰：「吾見馬超不出，恐有別謀。且我在鄴郡，聞神卜管輅有言，當於此地折一員大將。吾疑此言，故不敢輕進。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ma Ch‘ao sent a report to Ch'êngtu and awaited orders for a further action. Ts‘ao Hung suspected some ruse when Ma Ch‘ao remained so long inactive, and retired to Nanchün. Here he was visited by Chang Ho, who asked why he had retired after the successful attack and slaughter of one of the enemy leaders. “Seeing that Ma Ch‘ao declined to come out to fight I suspected some ruse,” replied he. “Beside, when I was at Yehtu that wonderful soothsayer, Kuan Lu, foretold the loss of a leader here. I heeded what he said and so was careful.”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-069-line-060",
+        "order": 60,
+        "source_block_chunk": 2,
+        "source_block_order": 31,
+        "text": "」張郃大笑曰：「將軍行兵半生，今奈何信卜者之言，而惑其心哉？郃雖不才，願以本部兵取巴西。若得巴西，蜀郡易耳。」洪曰：「巴西守將張飛，非比等閒，不可輕敵。」張郃曰：「人皆怕張飛，吾視之如小兒耳！此去必擒之！」洪曰：「倘有疏失，若何？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang Ho laughed, “You have been a leader of soldiers for half your life and yet you heed the sayings of a soothsayer! I may be of small wit, but I would take Pahsi with my own troop, and the possession of Pahsi would be the key to the whole of Shu.” “The defender of Pahsi is Chang Fei,” said Ts‘ao Hung. “He is no ordinary man to meet. One must be careful.” ​ “All of you fear this Chang Fei, but I do not; I look upon him as a mere nobody. I shall have to capture him this time.”"
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-069-line-061",
+        "order": 61,
+        "source_block_chunk": 3,
+        "source_block_order": 31,
+        "text": "」郃曰：「甘當軍命。」洪勒了文狀，張郃進兵。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“But if you fail, what then?” “Then I shall be content to pay the penalty according to military rules.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-069-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "自古驕兵多致敗，從來輕敵少成功。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Hung made him put his undertaking in writing, and then Chang Ho marched to the attack."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-069-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "未知勝負如何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The proud are often defeated, Lightsome attacks oft fail. The following chapter will tell how Chang Ho fared."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說當日曹操，見黑風中群屍首皆起，驚倒於地。須臾風定，群屍皆不見。左右扶操回宮，驚而成疾。後人有詩讚左慈曰：\n飛步凌雲遍九州，獨憑遁甲自邀遊。\n等閒施設神仙術，點悟曹瞞不轉頭。\n曹操染病，服藥無愈。適太史丞許芝，自許昌來見操。操令芝卜易。芝曰：「大王曾聞神卜管輅否？」操曰：「頗聞其名，未知其術。汝可詳言之。」\n芝曰：「管輅字公明，平原人也。容貌粗醜，好酒疎狂。其父曾為瑯琊郡丘長。輅自幼便喜仰視星辰，夜不思寐。父母不能禁止。常云：『家雞野鵠，尚自知時，何況為人在世乎？』與鄰兒共戲，輒畫地為天文，分布日月星辰。及稍長，即深明周易，仰觀風角，數學通神，兼善相術。」\n「瑯琊太守單子春聞其名，召輅相見。時有坐客百餘人，皆能言之士。輅謂子春曰：『輅年少膽氣未堅，先請美酒三升，飲而後言。』子春奇之，遂與酒三升。飲畢，輅問子春：『今欲與輅為對者，若府君四座之士耶﹖』子春曰：『吾自與卿旗鼓相當。』於是與輅講論易理。輅亹亹而談，言言精奧。子春反覆辨難，輅對答如流，從曉至暮，酒食不行。子春及眾賓客，無不歎服。於是天下號為『神童』。」\n「後有居民郭恩者，兄弟三人，皆得躄疾，請輅卜之。輅曰：『卦中有君家本墓中女鬼，非君伯母即叔母也。昔饑荒之年，謀數升之米之利，推之落井，以大石壓破其頭，孤魂痛苦，自訴於天；故君兄弟有此報，不可禳也。』郭恩等涕泣伏罪。」\n「安平太守王基，知輅神卜，延輅至家。適信都令妻，常患頭風；其子又患心痛；因請輅卜之。輅曰：『此堂之西角有二死屍。一男持矛，一男持弓箭。頭在壁內，腳在壁外。持矛者主刺頭，故頭痛；持弓箭者主刺胸腹，故心痛。』乃掘之。入地八尺，果有二棺。一棺中有矛，一棺中有角弓及箭，木俱已朽爛。輅令徙骸骨去城外十里埋之，妻與子遂無恙。」\n「館陶令諸葛原，遷新興太守，輅往送行。客言輅能射覆。諸葛原不信，暗取燕卵、蜂窠、蜘蛛三物，分置三盒之中，令輅卜之。卦成，各寫四句於盒上。其一曰：『含氣須變，依乎堂宇；雌雄以形，羽翼舒張。此燕卵也。』其二曰：『家室倒懸，門戶眾多；藏精育毒，得秋乃化。此蜂窠也。』其三曰：『觳觫長足，吐絲成羅；尋網求食，利在昏夜。此蜘蛛也。』滿座驚駭。」\n「鄉中有老婦失牛，求卜之。輅判曰：『北溪之濱，七人宰烹；急往追尋，皮肉尚存。』老婦果往尋之，見七人於茅舍後煮食，皮肉猶存。婦告本郡太守劉邠，捕七人罪之，因問老婦曰：『汝何以知之？』婦告以管輅之神卜。劉邠不信，請輅至府，取印囊及山雞毛藏於盒中，令卜之。輅卜其一曰；『內方外圓，五色成文；含寶守信，出則有章。此印囊也。』其二曰：『高岳巖巖，有鳥朱身；羽翼玄黃，鳴不失晨。此山雞毛也。』劉邠大驚，遂待為上賓。」\n「一日出郊閒行，見一少年耕於田中，輅立道傍觀之。良久，問曰：『少年高姓、貴庚？』答曰：『姓趙，名顏。年十九歲矣。敢問先生為誰？』輅曰：『吾管輅也。吾見汝眉間有死氣，三日內必死，汝貌美，可惜無壽。』趙顏回家，急告其父。父聞之，趕上管輅，哭拜於地曰：『請歸救吾子！』輅曰：『此乃天命也，安可禳乎？』父告曰：『老夫止有此子，望乞垂救！』趙顏亦哭求。輅見父子情切，乃謂趙顏曰：「汝可備淨酒一瓶，鹿脯一塊，來日齎往南山之中，大樹之下，看盤石上有二人亦棋。一人向南坐，穿白袍，其貌甚惡；一人向北坐，穿紅袍，其貌甚美。汝可乘其弈興濃時，將酒及鹿跪進之。待其飲食畢，汝乃哭拜求壽，必得益算矣。但切勿言是吾所教。』」\n「老人留輅在家。次日，趙顏攜酒脯盃盤入南山之中。約行五六里，果有二人於大松樹下盤石上奕棋。全然不顧，趙顏跪進酒脯。二人貪著棋，不覺飲酒已盡。趙顏哭拜於地而求壽，二人大驚。穿紅袍者曰：『此必管子之言也。吾二人既受其私，必須憐之。』穿白袍者，乃於身邊取出簿籍檢看，謂趙顏曰：『汝今年十九歲，當死。吾今於『十』字上添上一『九』字，汝壽可至九十九。回見管輅，教再休泄漏天機；不然，必致天譴。』穿紅者出筆添訖，一陣香風過處，二人化作二白鶴，沖天而去。」\n「趙顏歸問管輅。輅曰：『穿紅者，南斗也；穿白者，北斗也。』顏曰：『吾聞北斗九星，何止一人？』輅曰：『散而為九，合而為一也。北斗注死，南斗注生。今已添注壽算，子復何憂﹖』父子拜謝。自此管輅恐泄天機，更不輕為人卜。此人現在平原，大王欲知休咎，何不召之？」\n操大喜，即差人往平原召輅。輅至，參拜訖，操令卜之。輅答曰：「此幻術耳，何必為憂？」操心安，病乃漸可。操令卜天下之事。輅卜曰：「三八縱橫，黃豬遇虎；定軍之南，傷折一股。」又今卜傳祚修短之數。輅卜曰：「獅子宮中，以安神位；王道鼎新，子孫極貴。」操問其詳。輅曰：「茫茫天數，不可預知。待後自驗。」\n操欲封輅為太吏。輅曰：「命薄相窮，不稱此職，不敢受也。」操問其故。答曰：「輅額無主骨，眼無守睛；鼻無梁柱，腳無天根；背無三甲，腹無三壬。只可泰山治鬼，不能治生人也。」操曰：「汝相吾若何？」輅曰：「位極人臣，又何必相？」再三問之，輅但笑而不答。操令輅遍相文武官僚。輅曰：「皆治世之臣也。」操問休咎，皆不肯盡言。後人有詩讚管輅曰：\n平明神卜管公明，能算南辰北斗星。\n八卦幽微通鬼竅，六爻玄奧究天庭。\n預知相法應無壽，自覺心源極有靈。\n可惜當年奇異術，後人無復授遺經。\n操令卜東吳、西蜀二處。輅設卦云：「東吳主亡一大將，西蜀有兵犯界。」操不信。忽合淝報來：「東吳陸口守將魯肅身故。」操大驚，便差人往漢中探聽消息。不數日，飛報：「劉玄德遣張飛、馬超屯兵下辨取關。」操大怒，便欲自領兵再入漢中，令管輅卜之，輅曰：「大王未可妄動。來春許都必有火災。」操見輅言累驗，故不敢輕動，留居鄴郡，使曹洪領兵五萬，往助夏侯淵、張郃同守東川；又差夏侯惇領兵三萬，於許都來往巡警，以備不虞；又教長史王必總督御林軍馬。主簿司馬懿曰：「王必嗜酒性寬，恐不堪任此職。」操曰：「王必是孤披荊棘歷艱難時相隨之人，忠而且勤，心如鐵石，最足相當。」遂委王必領御林軍馬屯於許都東華門外。\n時有一人姓耿，名紀，字季行，洛陽人也；舊為丞相府掾，後遷侍中少府，與司直韋晃甚厚；見曹操進封王爵，出入用天子車服，心甚不平。建安二十三年春正月，耿紀與韋晃密議曰：「操賊奸惡日甚，將來必為篡逆之事。吾等為漢臣，豈可同惡相濟？」韋晃曰：「吾有心腹人，姓金，名褘，乃漢相金日磾之後，素有討操之心；更兼與王必甚厚。若得同謀，大事濟矣。」耿紀曰：「他既與王必交厚。豈肯與我同謀乎？」韋晃曰：「且往說之，看是如何。」\n於是二人同至金褘宅中。褘接入後堂，坐定。晃曰：「德偉與王長史甚厚，吾三人特來告求。」褘曰：「所求何事？」晃曰：「吾聞魏王早晚受禪，將登大寶，公與王長史必高遷。望不相棄，曲賜提攜，感德非淺！」褘拂袖而起。適從者奉茶至，便將茶潑於地上。晃佯驚曰：「德偉故人，何薄情也？」褘曰：「吾與汝交厚，為汝等是漢朝臣宰之後；今不思報本，欲輔造反之人，吾有何面目與汝為友！」耿紀曰：「奈天數如此，不得不然耳！」褘大怒。耿紀、韋晃見褘果有忠義之心，乃以實情相告曰：「吾等本欲討賊，來求足下。前言特相試耳。」褘曰：「吾累世漢臣，安能從賊？公等欲扶漢室，有何高見？」晃曰：「雖有報國之心，未有討賊之計。」褘曰：「吾欲裏應外合，殺了王必，奪其兵權，扶助鑾輿，更結劉皇叔為外援，操賊可滅矣。」二人聞之，撫掌稱善。\n褘曰：「吾有心腹二人，與操賊有殺父之仇，現居城外，可用為羽翼。」耿紀問是何人。褘曰：「太醫吉平之子：長名吉邈，字文然；次名吉穆，字思然。操昔為董承衣帶詔事，曾殺其父。二子逃竄遠鄉，得免於難。今已潛歸許都。若使相助討賊，無有不從。」耿紀、韋晃大喜。金褘即使人密喚二吉。須臾，二人至。褘具言其事。二人感憤流淚，怨氣沖天，誓殺國賊。金褘曰：「正月十五日夜間，城中大張燈火，慶賞元宵。耿少府、韋司直，你二人各領家僮，殺至王必營前；只看營中火起，分兩路殺入；殺了王必，逕跟我入內，請天子登五鳳樓，召百官面諭討賊。吉文然兄弟於城外殺入，放火為號，各要揚聲，叫百姓誅殺國賊，截住城內救軍；待天子降詔，招安已定，便進兵殺奔鄴郡擒曹操，即發使齎詔召劉皇叔。今日約定，至期二更舉事，勿似董承自取其禍。」五人對天說誓，歃血為盟，各自歸家，整頓軍馬器械，臨期而行。\n且說耿紀、韋晃二人，各有家僮三四百，預備器械。吉邈兄弟，亦聚三、四百人口，只推圍獵。安排已定。金褘先期來見王必，言：「方今海宇稍安，魏王威震天下；今值元宵令節，不可不放燈火，以示太平氣象。」王必然其言，告諭城內居民，盡張燈結彩，慶賞佳節。至正月十五夜，天色晴霽，星月交輝。六街三市，競放花燈。真個金吾不禁，玉漏無催！王必與御林諸將，在營中飲宴。二更以後，忽聞營中吶喊，人報營後火起。王必慌忙出帳看時，只見火光亂滾；又聞喊殺連天，知是營中有變，急上馬出南門，正遇耿紀，一箭射中肩膊，幾乎墜馬，遂望西門而走。背後有車趕來。王必著忙，棄馬步行，至金褘門首，慌叩其門。原來金褘一面使人於營中放火；一面親領家僮隨後助戰，只留婦女在家。時家中聞王必叩門之聲，只道金褘歸來。褘妻從隔門便問曰：「王必那廝殺了麼？」王必大驚，方悟金禕同謀，逕投曹休家報知金褘、耿紀等同謀反。休急披挂上馬，引千餘人在城中拒敵。城內四下火起，燒著五鳳樓，帝避於深宮。曹氏心腹爪牙，死據宮門。城中但聞人叫：「殺盡曹賊，以扶漢室！」\n原來夏侯惇奉曹操命，巡警許昌，領三萬軍，離城五里屯紮；是夜遙望見城中火起，便領大軍前來，圍住許都，使一枝軍入城接應。曹休直混殺至天明。耿紀、韋晃等無人相助。人報金褘、二吉皆被殺死。耿紀、韋晃奪路殺出城門，正遇夏侯惇大軍圍住，活捉去了。手下百餘人皆被殺。夏侯惇入城，救滅遺火，盡收五人老小宗族，使人飛報曹操。操傳令教將耿、韋二人，及五家宗族老小，皆斬於市，並將在朝大小百官，盡拏解鄴郡，聽侯發落。\n夏侯惇押耿、韋二人至市曹。耿紀厲聲大叫曰：「曹阿瞞，吾生不能殺汝，死當作厲鬼以擊賊！」劊子手以刀搠其口，流血滿地，大罵不絕而死。韋晃以面頰頓地曰：「可恨！可恨！」咬牙皆碎而死。後人有詩讚曰：\n耿紀精忠韋晃賢，各持空手欲扶天。\n誰知漢祚相將盡，恨滿心胸喪九泉。\n夏侯惇盡斬五家老小宗族，將百官解赴鄴郡。曹操於教場立紅旗於左、白旗於右，下令曰：「耿紀、韋晃等造反，放火焚許都，汝等亦有出救火者，亦有閉門不出者。如曾救火者，可立於紅旗下；如不曾救火者，可立於白旗下。」眾官自思救火者必無罪，於是多奔紅旗之下。三停內只有一停立於白旗下。操教盡拏立於紅旗下者。眾官各言無罪。操曰：「汝當時之心，非是救火，實欲助賊耳。」盡命牽出漳河邊斬之，死者三百餘員。其立於白旗下者，盡皆賞賜，仍令還許都。時王必已被箭瘡發而死，操命厚葬之。令曹休總督御林軍馬，鍾繇為相國，華歆為御史大夫。遂定侯爵六等十八級，關中侯爵十七級，皆金印紫綬；又置關內外侯十六級，銀印龜紐墨綬；五大夫十五級，銅印鐶組綬。定爵封官，朝廷又換一班人物。曹操方悟管輅火災之說，遂重賞輅。輅不受。\n卻說曹洪領兵到漢中，令張郃、夏侯淵各據險要。曹洪親自進兵拒敵。時張飛自與雷同守巴西。馬兵至下辦，令吳蘭為先鋒，領軍哨出，正與曹洪軍相遇，吳蘭欲退。牙將任夔曰：「賊兵初至，若不先挫其銳氣，何顏見孟起乎？」於是驟馬挺槍搦曹洪戰。洪自提刀躍馬而出。交鋒三合，斬任夔於馬下，乘勢掩殺。吳蘭大敗，回見馬超。超責之曰：「汝不得吾令，何故輕敵致敗？」吳蘭曰：「任夔不聽吾言，故有此敗。」馬超曰：「可緊守隘口，勿與交鋒。」一面申報成都，聽候行止。\n曹洪見馬超連日不出，恐有詐謀，引軍退回南鄭。張郃來見曹洪，問曰：「將軍既已斬將，如何退兵？」洪曰：「吾見馬超不出，恐有別謀。且我在鄴郡，聞神卜管輅有言，當於此地折一員大將。吾疑此言，故不敢輕進。」張郃大笑曰：「將軍行兵半生，今奈何信卜者之言，而惑其心哉？郃雖不才，願以本部兵取巴西。若得巴西，蜀郡易耳。」洪曰：「巴西守將張飛，非比等閒，不可輕敵。」張郃曰：「人皆怕張飛，吾視之如小兒耳！此去必擒之！」洪曰：「倘有疏失，若何？」郃曰：「甘當軍命。」洪勒了文狀，張郃進兵。正是：\n自古驕兵多致敗，從來輕敵少成功。\n未知勝負如何，且看下文分解。",
+    "title": "第六十九回 卜周易管輅知機　　　討漢賊五臣死節"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-069.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

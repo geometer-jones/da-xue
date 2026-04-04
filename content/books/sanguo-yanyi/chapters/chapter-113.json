@@ -1,0 +1,684 @@
+{
+  "chapter": {
+    "character_count": 3666,
+    "id": "chapter-113",
+    "order": 113,
+    "reading_unit_count": 51,
+    "reading_units": [
+      {
+        "character_count": 96,
+        "id": "chapter-113-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說姜維恐救兵到，先將軍器車仗一應軍需，步兵先退，然後將馬軍斷後。細作報知鄧艾。艾笑曰：「姜維知大將軍到，故先退去。不必追之，追則中彼之計也。」乃令人哨探，回報果然駱谷狹窄之處，堆積柴草，準備要燒追兵。眾皆稱艾曰：「將軍真神算也！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The spies reported his movements to Têng Ai, who said, “He has gone because he knew that the main army would soon be upon him. Let him go, and do not follow. If we pursue he will play us some evil trick.” Scouts were sent to keep in touch with the retreating army, and when they returned they reported that preparations had been made in the Lo Valley to check any pursuit with fire. The officers praised the prescience of their leader. When Têng reported these matters he was commended, and the Prime Minister requested the king to confer a reward."
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-113-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "」遂遣使齎表奏聞。於是司馬昭大喜，又奏賞鄧艾。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Prime Minister of Wu was greatly angered by the desertion of so many of his men and officers to Wei, and revenged himself by putting their families to death. King Liang disapproved of these acts of cruelty, but he was powerless."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-113-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "卻說東吳大將軍孫綝，聽知全端、唐咨等降魏，勃然大怒，將各人家眷，盡皆斬之。吳主孫亮，時年方十七，見綝殺戮太過，心甚不然。一日出西苑，因食生梅，令黃門取蜜，須臾取至，見蜜內有鼠糞數枚，召藏吏責之，藏吏叩首曰：「臣封閉甚嚴，安有鼠糞？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The young king was of an ingenious turn of mind, as will be seen from the following story. One day he went to the West Park to eat of the newly ripened plums. He bade one of the eunuchs bring some honey. It was brought, but there were lumps of dirt in it. The young king called the storekeeper and blamed him for carelessness. The storekeeper said he was very careful to keep his stores in good order, and the honey could not possibly have been fouled in the storehouse. “Has any one asked you for honey lately?” asked the king. “One of the eunuchs asked for some a few days ago refused him. ”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-113-line-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "」亮曰：「黃門曾向爾求蜜食否？」藏吏曰：「黃門於數日前曾求食蜜，臣實不敢與。」亮指黃門曰：「此必汝怒藏吏不與爾蜜，故置糞於蜜中，以陷之也。」黃門不服。亮曰：「此事易知耳。若糞久在蜜中，則內外皆溼；若新在蜜中，則外溼內燥。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I “You defiled the honey out of spite,” said the king to the eunuch named. The man denied it. “It is very easy to tell,” said the king. “If the dirt has been lying in the honey for some time it will be soft all through.” He broke one of the lumps, and it was quite dry inside. The eunuch then confessed. ​ This shows the king was quick-witted. But clever as he was, he could not control his Prime Minister, whose relatives were in command of all the garrisons and armies, so that he was unassailable."
+          }
+        }
+      },
+      {
+        "character_count": 69,
+        "id": "chapter-113-line-005",
+        "order": 5,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "」命剖視之，果然內燥。黃門服罪。亮之聰明，大抵如此。雖然聰明，卻被孫綝把持，不能主張。綝之弟威遠將軍孫據入蒼龍宿衛；武衛將軍孫恩、偏將軍孫幹、長水校尉孫闓，分屯諸營。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One day the young king, musing over his sorrows and feeling very miserable, began to weep. The officer in charge of the eunuchs, who was a “State Uncle,” stood by. “Sun Ch'ên holds all real power and does as he wishes, while I am despised,” said the king. “Something must be done.” Ch'üan Chi said, “I would think no sacrifice too great if Your Majesty would make use of me.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-113-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "一日吳主孫亮悶坐，黃門侍郎全紀在側，紀乃國舅也。亮因泣告曰：「孫綝專權妄殺，欺朕太甚；今不圖之，必為後患。」紀曰：「陛下但有用臣處，臣萬死不辭。」亮曰：「卿可只今點起禁兵，與將軍劉丞各把城門，朕自出殺孫綝。但此事切不可令卿母知之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If you could muster the guards and help General Liu to keep the gates, I would go and murder that ruffian. But you must not let anyone know, for if you tell your noble mother she will tell her brother, and that would be very serious for me.” Now Ch'üan’s mother was the Prime Minister’s sister. “Will Your Majesty give me a command that I may have authority to act when the time comes?” said Ch'üan. “At the critical moment I could show the edict and hold back Sun’s supporters.” The command was given, and Ch'üan went home. But he could not keep his secret, and confided the plan to his father, Shang. His father told his wife that Sun would be got rid of in a few days."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-113-line-007",
+        "order": 7,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "卿母乃綝之姊也。倘若泄漏，誤朕匪輕。」紀曰：「乞陛下草詔與臣。臨行事之時，臣將詔示眾，使綝手下人皆不敢妄動。」亮從之，即寫密詔付紀。紀受詔歸家，密告其父全尚。尚知此事，乃告妻曰：「三日內殺孫綝矣。」妻曰：「殺之是也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Oh, you are going to kill him then,” said she. Although she seemed to approve with her tongue, she sent a secret messenger with a letter to the proposed victim. That same night Sun Ch'ên called in his four soldier brothers, and the palace was surrounded. The conspirators were seized, with Liu Ch‘eng and Ch'üan Shang and all their families. About dawn the young king was disturbed by a commotion at the gates, and a servant told him that the palace was surrounded."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-113-line-008",
+        "order": 8,
+        "source_block_chunk": 3,
+        "source_block_order": 3,
+        "text": "」口雖應之，卻令人持書報知孫綝。綝大怒，當夜便喚弟兄四人，點起精兵，先圍大內；一面將全尚、劉丞並其家小俱拿下。比及平明，吳主孫亮聽得宮門外金鼓大震。內侍慌入奏曰：「孫綝領兵圍了內苑。」亮大怒，指全后罵曰：「汝父兄誤我大事矣！」乃拔劍欲出。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The king knew that he had been betrayed. He turned on the Empress, who was of the Ch'üan house, and reproached her. “Your father and brother have upset all my plans.” Drawing his sword, he was dashing out when his Consort and her people clung to his clothing and held him back. After putting to death Liu Ch'êng and Ch'üan Shang, the Prime Minister Sun Ch'ên assembled the officers in the court and addressed them thus:—“The king is vicious and weak, depraved and foolish and unfit for his high office. Wherefore he must be deposed. Any of you who oppose will be punished as for conspiracy.”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-113-line-009",
+        "order": 9,
+        "source_block_chunk": 4,
+        "source_block_order": 3,
+        "text": "全后與侍中近臣，皆牽其衣而哭，不放亮出。孫綝先將全尚、劉丞等殺訖，然後召文武於朝內，下令曰：「主上荒淫久病，昏亂無道，不可以奉宗廟，今當廢之。汝諸文武，敢有不從者，以謀叛論！」眾皆畏懼，應曰：「願從將軍之令。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Only one of those present dared to say a word of protest. It was an officer named Hêng I, who said, “How dare you utter ​ such words? Our king is very intelligent, and I will not support you. I had rather die.” Death was his portion. Then Sun went into the palace and said to the king, “O unrighteous and unenlightened King, your death would be the only fitting reparation to make to the empire, but out of consideration for your ancestors you are only deposed and degraded to princely rank as Prince Hui-chi. I will select a worthy successor.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-113-line-010",
+        "order": 10,
+        "source_block_chunk": 5,
+        "source_block_order": 3,
+        "text": "」尚書桓懿大怒，從班部中挺然而出，指孫綝大罵曰：「今上乃聰明之主，汝何敢出此亂言！吾寧死不從賊臣之命。」綝大怒，自拔劍斬之，即入內指吳主孫亮罵曰：「無道昏君，本當誅戳，以謝天下！看先帝之面，廢汝為會稽王，吾自選有德者立之！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Li Tsung, the Chung-shu-lang , was ordered to bring in the the royal seal, which was delivered to Têng Chêng. The deposed ruler retired weeping. The sage example of the wise I Yin Perverted now to traitor’s use we see; And Ho Kuang’s faithful services are made A cloak to cover vilest treachery. Even able princes are but toys of fate, And need our pity, fall‘n from high estate. Then two officers of the court, Sun K‘ai and Tung Chao, went as envoys to Hulin to request Sun Hsiu, Prince of Langya, to ascend the throne."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-113-line-011",
+        "order": 11,
+        "source_block_chunk": 6,
+        "source_block_order": 3,
+        "text": "」叱中書郎李崇奪其印綬，令鄧程收之。亮大哭而去。後人有詩歎曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The King-elect had had some premonition of the high honour to which he was now called, for in a dream he ascended into the skies seated on a dragon. Only the dragon seemed to have no tail. He woke up in a fright, and the next day brought the messengers."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-113-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "亂賊誣伊尹，奸臣充霍光。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He set out. At Ch'üa his carriage was stopped by a venerable old man who offered felicitations."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-113-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "可憐聰明主，不得蒞朝堂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Changes are inevitable, and I wish you a prosperous journey,” said the aged one."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-113-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "孫綝遣宗正孫楷、中書郎董朝，往虎林迎請瑯琊王孫休為君。休字子烈，乃孫權第六子也；在虎林夜夢乘龍上天，回顧不見龍尾，失驚而覺。次日，孫楷、董朝至，拜請回都。行至曲阿，有一老人，自稱姓干，名休，叩頭言曰：「事久必變，願殿下速行。」休謝之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At Pusait‘ing awaited an officer with a chariot, but Sun Hsiu’s modesty would not allow him to mount it. He remained in his own simple carriage and therein travelled to the capital. Officials lined the road to salute him, and he dismounted to return their salutations. Then the Prime Minister stood forth and bade them take the newly-elected king by the arm and lead him into the Great Hall, where, after thrice refusing the honour, he at last took his seat and received the jade seal passed from one ruler to another."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-113-line-015",
+        "order": 15,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "行至布塞亭，孫恩將軍駕來迎。休不敢乘輦，乃坐小車而入。百官拜謁道傍，休慌忙下車答禮。孫綝出，令扶起，請入大殿，升御座即天子位。休再三謙讓，方受玉璽。文官武將朝賀已畢，大赦天下，改元永安元年；封孫綝為丞相、荊州牧；多官各有封賞；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When all the officers had made obeisance, there were the usual amnesties, promotions, honours and change of reignstyle. Jun-An , “Eternal Tranquillity,” was the name of the new reign. Sun Ch'ên was confirmed as Prime Minister, with the governorship of Chingchou. Moreover, Sun Hao, the son of his elder brother, was created Marquis of Wuch'êng."
+          }
+        }
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-113-line-016",
+        "order": 16,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "又封兄之子孫皓為烏程侯。孫琳一門五侯，皆典禁兵，權傾人主。吳主孫休，恐其內變，陽示恩寵，內實防之。綝驕橫愈甚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Ch'ên, with five marquisates in his family and the whole army under their command, was immensely powerful, able to set up and pull down at will. The new king secretly feared ​ him, and although outwardly he showed him great favour, yet he kept careful watch over his Prime Minister, whose arrogance knew no bounds."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-113-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "冬十二月，綝奉牛酒入宮上壽，吳主孫休不受，綝怒，乃以牛酒詣左將軍張布府中共飲。酒酣，乃謂布曰：「吾初廢會稽王時，人皆勸吾為君。吾為今上賢，故立之。今我上壽而見拒，是將我等閒相待。吾早晚教你看！」布聞言，唯唯而已。次日，布入宮密奏孫休。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the autumn Sun Ch'ên sent into the palace presents of oxen and wine as birthday gifts. The king declined them. The Minister was very annoyed and took the presents to General Pu’s residence, where they two dined together. When warmed with wine, Sun said, “When I deposed the present Prince Hui-chi many people urged me to take the throne myself. But I acted magnanimously and set up this present king. Now I suffer the mortification of seeing my presents rejected. You will see what will come of this slight.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-113-line-018",
+        "order": 18,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "休大懼，日夜不安。數日內孫綝遣中書郎孟宗，撥與中營所管精兵一萬五千，出屯武昌；又盡將武庫內軍器與之。於是將軍魏邈、武衛士施朔，二人密奏孫休曰：「綝調兵在外，又搬盡武庫內軍器，早晚必為變矣。」休大驚，急召張布計議。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang sympathised, but the next day he secretly told the king, and the king’s fears increased so that he could not rest. Shortly after this, Sun sent a large body of troops under the command of Mêng Tsung into camp at Wuch‘ang, and he armed them from the state arsenals. Whereupon Wei Miao and Shih Shuo secretly memorialised the Throne that Sun’s action pointed to rebellion. Then the king called in Chang Pu to consult, and he recommended Ting Fêng as an able and trustworthy officer. So Ting was called and taken into the king’s confidence."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-113-line-019",
+        "order": 19,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "布奏曰：「老將丁奉，計略過人，能斷大事，可與議之。」休乃召奉入內，密告其事。奉奏曰：「陛下勿憂，臣有一計，為國除害。」休問何計。奉曰：「來朝臘日，只推大會群臣，召綝赴席，臣自有調遣。」休大喜。奉令魏邈、施朔為外事，張布為內應。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Have no anxiety,” said Ting. “I will find some way of ridding the state of this evil.” “What do you propose?” “When the winter Court is held, and all the officers are assembled, spread a great banquet and invite Sun. I shall be ready to act.” Wei Miao and Shih Shuo were taken into the plot and were to do what was possible outside the palace, and Chang Pu saw to arrangements within."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-113-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "是夜狂風大作，飛沙走石，將老樹連根拔起。天明風定，使者奉旨來請孫綝入宮赴宴。孫綝方起床，平地如人推倒，心中不悅。使者十餘人簇擁入內。家人止之曰：「一夜狂風不息，今早又無故驚倒，恐非吉兆，不可赴宴。」綝曰：「吾弟兄共典禁兵，誰敢近身？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One night a heavy gale came on to blow, which tore up great trees by the roots. However, by daylight it had abated, and that morning a king’s messenger arrived bearing an invitation to a banquet in the royal palace. Sun rose from his couch, and, as he did so, fell flat on the ground as though he had been pushed from behind. This accident troubled him, and he felt apprehensive, so he called half a score of his trusty men to act as his escort to the palace."
+          }
+        }
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-113-line-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "倘有變動，於府中放火為號。」囑訖，升車入內。吳主孫休慌下御座迎之，請綝高坐。酒行數巡，眾驚曰：「宮外望有火起。」綝便欲起身。休止之曰：「丞相穩便，外兵自多，何必懼哉？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As he was leaving home his family besought him not to go out, for they feared the omens of the gale in the night and the fall that morning. However, he made light of their fears and said no one would dare come near him since the family was so strong. “But if there is anything amiss I will signal.” So he took his seat, and the carriage set out. When he reached the palace the king rose from his place to welcome him, and at table he sat in the seat of honour. The banquet proceeded."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-113-line-022",
+        "order": 22,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "」言未畢，左將軍張布拔劍在手，引武士三十餘人，搶上殿來，口中厲聲而言曰：「有詔擒反賊孫綝！」綝急欲走時，早被武士擒下。綝叩頭曰：「願徙交州歸田里。」休叱曰：「爾何不徙滕胤、呂據、王惇耶？」命推下斬之。於是張布牽孫綝下殿東斬訖。從者皆不敢動。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “There is a fire outside; what does that mean?” said a guest presently. Sun rose to go out, but the king said, “There is no danger, and there are plenty of soldiers outside.” Just at that moment General Chang entered at the head of a couple of score of armed men. He rushed up the banquet chamber shouting, “I hold a command to slay the rebel Sun.” Instantly the Prime Minister was seized. He fell prostrate before the king, knocking his head on the ground and crying, “Spare my life! Exile me to my own place, but let me live.” “Did you exile any of your victims?” said the king, angrily."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-113-line-023",
+        "order": 23,
+        "source_block_chunk": 4,
+        "source_block_order": 8,
+        "text": "布宣詔曰：「罪在孫綝一人，餘皆不問。」眾心乃安。布請孫休升五鳳樓。丁奉、魏邈、施朔等，擒孫綝兄弟至。休命盡斬於市。宗黨死者數百人，滅其三族，命軍士掘開孫峻墳墓，戮其屍首。將被害諸葛恪、滕胤、呂據、王惇等家，重建墳墓，以表其忠。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The order went forth to carry out the execution, and Sun was hustled out and put to death. No single person raised a hand to help him. Then it was proclaimed that Sun was the only culprit and no other would be questioned. Then at Chang’s request the king went up on the Tower of the Five Phoenixes. The brothers of the Prime Minister were brought before him and also condemned to death. After this their families were slain, so that many hundreds suffered death. Not content with all these things, the tomb of Sun Hsün was broken open and his corpse beheaded."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-113-line-024",
+        "order": 24,
+        "source_block_chunk": 5,
+        "source_block_order": 8,
+        "text": "其牽累流遠者，皆赦還鄉里。丁奉重加封賞。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Magnificent tombs were raised to his victims, Chuko Ch'üo, Têng Yin and others. Thus at last loyalty was rewarded, and the banished were permitted to return home with full pardon. The conspirators were rewarded."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-113-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "馳書報入成都。後主劉禪遣使回賀，吳使薛珝答禮。珝自蜀中歸，吳主孫休問蜀中近日作何舉動。珝奏曰：「近日中常侍黃皓用事，公卿多阿附之。入其朝，不聞直言；經其野，民有菜色。所謂『燕雀處堂，不知大廈之將焚』者也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "News of this revolution was sent into Shu, and King Liu Ch‘an sent an envoy into Wu with felicitations. The envoy, Hsueh Hsü by name, at his audience was questioned about affairs in the west, and he told King Sun Hsiu, saying, “All affairs of state are in the hands of a certain eunuch named Huang Hao, and all the courtiers look up to him as to a father. At Court plain truth is never heard, and the country people look sallow and starved. The whole country appears on the verge of destruction. The birds on the roof do not know that the building is about to be burned.”"
+          }
+        }
+      },
+      {
+        "character_count": 49,
+        "id": "chapter-113-line-026",
+        "order": 26,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "」休嘆曰：「若諸葛武侯在時，何至如此乎！」於是又寫國書，教人齎入成都，說司馬昭不日篡魏，必將侵吳蜀以示威，彼此各宜準備。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Ah! If only Chuko Liang, The Warlike, was still alive; how different all would be!” said King Hsui, with a sigh. Letters were prepared saying that beyond doubt Ssǔma Chao intended usurpation, and when that came about in Wei, both Wu and Shu would be invaded. Wherefore both should be ready."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-113-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "姜維聽得此信，忻然上表，再議出師伐魏。時蜀漢景耀元年冬，大將軍姜維，以廖化、張翼為先鋒，王含、蔣斌為左軍，蔣舒、傅僉為右軍，胡濟為合後。維與夏侯霸為總中軍，共起蜀兵二十萬，拜辭後主，逕到漢中，與夏侯霸商議，當先攻取何地。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On the arrival of these letters Chiang Wei hastened to seek permission to attempt another expedition. Consent being given, a large army marched into Hanchung, with Liao Hua and Chang I as van-leaders. Wang Han, Chiang Pin, Chiang Shu and Hu Chi were on the wings, while Chiang Wei and Hsiahou Pa led the main column. Asked what he thought should be the first objective, Hsiahou Pa replied, “There is no better fighting ground than Ch‘ishan, ​ as the tactics of the late minister made evident, and it is the only good exit.”"
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-113-line-028",
+        "order": 28,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "霸曰：「祁山乃用武之地，可以進兵，故丞相昔日六出祁山。因他處不可出也。」維從其言，遂令三軍並望祁山進發，至谷口下寨。時鄧艾正在祁山寨中，整點隴右之兵。忽流星馬到，報說蜀兵見下三寨於谷口。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So thither the armies marched, and they camped at the entrance to the valley. At this time Têng Ai had a training camp at Ch‘ishan drilling the Shênsi troops. The scouts told him of the coming of the western men, and he ascended a hill to see and verify their reports. He seemed pleased when he saw the enemy camp."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-113-line-029",
+        "order": 29,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "艾聽知，遂登高看了，回寨升帳，大喜曰：「不出吾之所料也！」原來鄧艾先度了地脈，故留蜀兵下寨之地；地中至祁山寨直至蜀寨，早挖了地道，待蜀兵至時，於中取事。此時姜維至谷口分作三寨，地道正在左寨之中，乃王含、蔣斌下寨之處。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“They have just done as I foresaw,” said he. Now Têng Ai had carefully considered the “pulse” of the countryside and so had not interfered with the Shu army when it was on the march or settling into camp. Moreover, he had excavated a subterranean road to the spot where he had thought they would halt, and their “left” camp had been pitched just on it. Wang and Chiang Chi commanded in that camp."
+          }
+        }
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-113-line-030",
+        "order": 30,
+        "source_block_chunk": 4,
+        "source_block_order": 10,
+        "text": "鄧艾喚子鄧忠，與師纂各引一萬兵，為左右衝擊；卻喚副將鄭倫，引五百掘子軍，於當夜二更，逕從地道直至左營，從帳後地下擁出。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Têng Ai called his son and Shih Tsuan and sent them to attack, one on each flank. He sent men into the underground road, which opened in rear of the threatened camp."
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-113-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "卻說王含、蔣斌因立寨未定，恐魏兵來劫寨，不敢解甲而寢。忽聞中軍大亂，急綽兵器上的馬時，寨外鄧忠引兵殺到。內外夾攻，王、蔣二將，奮死抵敵不住，棄寨而走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As the newly made camp was not yet well fortified, its two commanders exercised great care and kept their men under arms all night, watching with vigilance. So when the alarm was given they had but to seize their weapons and go out. But as the two leaders were mounting their steeds Têng Ai also attacked, and two faces had to be defended. Soon they found the position untenable and fled."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-113-line-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "姜維在帳中聽得左寨中大喊，料道有內應外合之兵，遂急上馬，立於中軍帳前，傳令曰：「如有妄動者斬，便有敵兵到營邊，休要問他，只管以弓弩射之！」一面傳示右營，亦不許妄動。果然魏兵十餘次衝擊，皆被射回。只衝殺到天明，魏兵不敢殺入。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Chiang Wei saw that his left camp had been attacked on two sides he mounted and took his position in front of the centre camp. “Let no one move on pain of death!” he shouted. “Stand still, and when the enemy approaches shoot.” The right camp was ordered to stand fast. His defence was effective. Half a score of times the men of Wei came forward, only to be driven back before the arrows and bolts of the defenders. Daylight found the Shu camps still firm, and Têng Ai drew off."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-113-line-033",
+        "order": 33,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "鄧艾收兵回寨，乃歎曰：「姜維深得孔明之法！兵在夜而不驚，將聞變而不亂：真將材也！」次日，王含、蔣斌收聚敗兵，伏於大寨前請罪。維曰：「非汝等之罪，乃吾不明地脈之故也。」又撥軍馬，命二將安營訖。卻將傷死身屍，填於地道之中，以土掩之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Chiang Wei has indeed learned of K‘ung-ming,” said Têng. “His men stood the night attack without flinching, and the leaders took the chances of battle quite calmly. He is able.” When the two commanders of the camp that had been attacked went to confess their fault, Chiang said, “It was less your fault than mine, for I did not clearly recognise the nature of the terrain.” So no penalty was inflicted. The camp was made stronger, and the subterranean passage was filled with the bodies of the slain."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-113-line-034",
+        "order": 34,
+        "source_block_chunk": 4,
+        "source_block_order": 11,
+        "text": "令人下戰書單搦鄧艾來日交鋒。艾忻然應之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Achallenge to battle for the following day was sent to Têng, who accepted it joyfully."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-113-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "次日，兩軍列於祁山之前。維按武侯八陣之法，依天、地、風、雲、鳥、蛇、龍、虎之形，分布已定。鄧艾出馬，見維布成八卦，乃亦布之，左右前後，門戶一般。維持槍縱馬大叫曰：「汝效吾排八陣，亦能變陣否？」艾笑曰：「汝道此陣只汝能布耶？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Next day the two armies were arrayed in front of Ch‘ishan, the men of Shu according to the “Eight Formations” designed by Chuko Liang, which are called Heaven, Earth, Wind, Cloud, Bird, Serpent, Dragon and Tiger. While the manœuvre was in progress, Têng recognised it as the pa-kua and placed his men accordingly. Chiang Wei then gripped his spear and rode out, saying, “You have made a good imitation of my eight, but can you work variations?”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-113-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "吾既會布陣，豈不知變陣！」艾便勒馬入陣，令執法官把旗左右招颭，變成八八六十四個門戶；復出陣前曰：「吾變法若何？」維曰：「雖然不差，汝敢與吾入陣相圍麼？」艾曰：「有何不敢！」兩軍各依隊伍而進。艾在中軍調遣。兩軍衝突，陣法不曾錯動。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You call these yours! Did you think that you alone held the secret? Since I have made it, of course I know the variations.” Têng re-entered his ranks, gave the signal officers certain orders, and the “eight eights” of the variations were evolved in rapid succession. Then he rode to the front again. “What of my evolutions?” asked he. “Not so bad; would you like to try a surrounding move with me?” replied Chiang. “Why not?”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-113-line-037",
+        "order": 37,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "姜維到中間，把旗一招，忽然變成「長蛇捲地陣」，將鄧艾困在核心，四面喊聲大震。艾不知其陣，心中大驚。蜀兵漸漸逼進，艾引眾將衝突不出。只聽得蜀兵齊叫曰：「鄧艾早降！」鄧艾仰天長嘆曰：「我一時自逞其能，中姜維之計矣！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The two armies moved in orderly ranks. Têng stood in the midst of his army giving the necessary orders. Then the clash came, but his tactics did not grip. Then Chiang waved a certain signal flag, and his force suddenly assumed the form of a serpent coiled on the ground with Têng in the centre. Shouts arose all about him. He could not understand what had happened and began to feel afraid. Gradually the men of Shu closed in upon him, and he saw no way of escape."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-113-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "忽然西北角一彪軍殺入，艾見是魏兵，遂乘勢殺出。救鄧艾者，乃司馬望也。比及救出鄧艾時，祁山九寨，皆被蜀兵所奪。艾引敗兵，退於渭水南下寨。艾謂望曰：「公何以知此陣法而救出我也？」望曰：「吾幼年遊學於荊南，曾與崔州平、石廣元為友，講論此陣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Têng Ai, you must surrender,” cried the soldiers. “Indeed I am in the toils,” he replied. Suddenly from the north-west a cohort dashed in. To Têng’s great joy they were soldiers of Wei, and they crossed over and released him. The leader was Ssŭma Wang. But although Têng had been rescued, his nine camps were seized by his enemy and he had to retire. He led his army to the south of the River Wei and halted. “How did you know exactly where to strike?” asked Têng of his rescuer."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-113-line-039",
+        "order": 39,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "今日姜維所變者，乃『長蛇捲地陣』也。若他處擊之，必不可破。吾見其頭在西北，故從西北擊之，自破矣。」艾謝曰：「我雖學得陣法，實不知變法。公既之此法，來日以此法復奪祁山寨柵，如何？」望曰：「我之所學，恐瞞不過姜維。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ssǔma replied, “In my youth I studied tactics and was friendly with Kuang Yüan of P‘ingshih. He explained that formation to me. Chiang Wei used what is known as “The Serpent Coil,” and the only way to break it is to attack the head, which I saw was in the north west.” Têng replied, “Although I have studied formations, I do not know all the modifications. But since you know about this we may be able to recover our camps.” “I fear the little I have learned will not be enough to overcome Chiang Wei.”"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-113-line-040",
+        "order": 40,
+        "source_block_chunk": 3,
+        "source_block_order": 13,
+        "text": "」艾曰：「來日公在陣上與他鬥陣法，我卻引一軍暗襲祁山之後。兩下混戰，可奪舊寨也。」於是命鄭倫為先鋒，艾自引軍襲山後；一面令人下戰書，搦姜維來日鬥陣法。維批回去訖，乃謂眾將曰：「吾受武侯所傳密書，此陣變法，共三百六十五樣，按周天之數。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“To-morrow you shall contend with him, and while his attention is engaged I will attack the rear of Chʻishan, and we will recover our camps.” ​ So a force was prepared to attack on the morrow, and he sent a challenge to a contest in tactics for the same day. Chiang accepted. Chiang Wei said to his officers, “In the secret book that I received from the marquis the variations are three hundred and sixty-five, corresponding to the circuit of the heavens. This challenge from them is as one going to teach hewing to the God of Carpenters. I think some ruse lies behind this. Can you guess what it is?”"
+          }
+        }
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-113-line-041",
+        "order": 41,
+        "source_block_chunk": 4,
+        "source_block_order": 13,
+        "text": "今搦吾鬥陣法，乃『班門弄斧』耳！但中間必有詐謀，公等知之乎？」廖化曰：「此必賺我鬥陣法，卻引一軍襲我後也。」維笑曰：「正合吾意。」即令張翼、廖化引一萬兵去山後埋伏。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liao replied, “While they engage your attention in this competition they intend to attack our rear.” “Just so; that is my opinion.” replied Chiang. So he prepared a counter-stroke by sending Liao and Chang, two of his captains, to lie in wait at the back of the hills."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-113-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "次日，姜維盡收九寨之兵，分布於祁山之前。司馬望引兵離了渭南，逕到祁山之前，出馬與姜維答話。維曰：「汝請吾鬥陣法，汝先布與我看。」望布成了八卦。維笑曰：「此即吾所布八陣之法也，汝今盜襲，何足為奇！」望曰：「汝亦竊他人之法耳！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Next day the men from the nine camps were led out and drawn up in front of the hills. Ssǔma Wang came out on the other side and presently rode to the front to parley. “You have challenged me to a contest; now draw up your men for me to see,” said Chiang. Ssǔma did so and arrayed the eight diagrams, pa-kua. “That is what we know as the eight diagrams,” said Chiang. “But it is nothing wonderful, only a sort of array fit for a brigand’s raid.”"
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-113-line-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "」維曰：「此陣凡有幾變？」望笑曰：「吾既能布，豈不會變？此陣有九九八十一變。」維笑曰：「汝試變來。」望入陣變了數番，復出陣曰：「汝識吾變否？」維笑曰：「吾陣法按周天三百六十五變，汝乃井底之蛙，安知玄奧乎！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You also have only stolen another man’s tactics,” replied his adversary. “How many modifications of this are there?” asked Chiang. “Since I have arranged this, naturally I know the variations, of which there are nine nines, making eighty-one.” “Try them.” Ssǔma returned to his array and evolved many, finally riding out and asking his opponent if he recognised them. “My formation admits of three hundred and sixty-five variations. You are but a frog in a well and know nothing of the deeper mysteries.”"
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-113-line-044",
+        "order": 44,
+        "source_block_chunk": 3,
+        "source_block_order": 14,
+        "text": "」望自知有此變法，實不曾學全，乃勉強折辯曰：「吾不信，汝試變來。」維曰：「汝叫鄧艾出來，吾當布與他看。」望曰：「鄧將軍自有良謀，不好陣法。」維大笑曰：「有何良謀！不過教汝賺吾在此布陣，他卻引兵襲吾山後耳！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now Ssǔma knew that so many variations were possible, but had not studied them. However, he put on a bold air and said contemptuously that he did not believe it. And he challenged Chiang to show them. “Go and call Têng Ai,” raplied he. “I will display them to him.” “General Têng has excellent plans and does not think much of such tactics.” “What plans? I suppose you mean a plan to keep me here while he tries a surprise attack in the rear.”"
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-113-line-045",
+        "order": 45,
+        "source_block_chunk": 4,
+        "source_block_order": 14,
+        "text": "」望大驚，恰欲進兵混戰，被維以鞭梢一指，兩翼兵先出，殺的那魏兵棄甲拋戈，各逃性命。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ssŭma was aghast. He made a sudden dash forward, and a mêlee began. Chiang Wei made a signal with his whip, and his men poured in from both wings. The men of Wei were seized with sudden panic, threw down their weapons and fled."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-113-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "卻說鄧艾催督先鋒鄭倫來襲山後。倫方轉過山角，忽然一聲砲響，鼓角喧天，伏兵殺出：為首大將，乃廖化也。二人未及答話，兩馬交處，被廖化一刀，斬鄭倫於馬下。鄧艾大驚，急勒兵退時，張翼引一軍殺到。兩下夾攻，魏兵大敗。艾捨命突出，身被四箭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Now Têng had hurried on Chêng Lun to make the first attack. As Chêng turned the corner of the hill a bomb exploded. At once the drums rolled and an ambush discovered itself. Liao was in command. Neither side stayed to parley, and the leaders engaged in single combat. In the first encounter Chêng fell. Têng had not expected such preparation, and he hastened to withdraw. Then Chang came forth and attacked on the other side. The army of Wei was worsted. Têng fought his way clear, but he bore four arrow wounds upon his body. He got to the river, where he found Ssǔma Wang, and they discussed how to get away."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-113-line-047",
+        "order": 47,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "奔到渭南寨時，司馬望亦到。二人商議退兵之策。望曰：「近日蜀主劉禪，寵幸中貴黃皓，日夜以酒色為樂，可用反間計召回姜維，此圍可解。」艾問眾謀士曰：「誰可入蜀交通黃皓？」言未畢，一人應聲曰：「某願往。」艾視之，乃襄陽党均也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Ssǔma proposed another form of attack. “The King of Shu has a favourite, the eunuch Huang Hao, in whom he places all his trust and with whom he spends his time in one round of pleasure. Let us use the eunuch to sow distrust between the king and his general and so get Chiang Wei recalled. In that way we shall retrieve our defeat.” So Têng assembled his advisers and asked who could go into Shu and get into communication with the eunuch, the king’s favourite."
+          }
+        }
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-113-line-048",
+        "order": 48,
+        "source_block_chunk": 3,
+        "source_block_order": 15,
+        "text": "艾大喜，即令党均齎金珠寶物，逕到成都連結黃皓，布散流言，說姜維怨望天子，不久投魏。於是成都人人所說皆同。黃皓奏知後主，即遣人星夜宣姜維入朝。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Acertain Tang Chün volunteered at once. To him was entrusted gold and pearls and precious things, and he was sent into Shu to win the treacherous alliance of the eunuch. As he went he also disseminated reports that Chiang Wei was angry and intended to desert. These rumours became the common talk in Ch‘êngtu, and everyone believed them. Huang Hao carried them to the king, and a messenger was sent to call the general to the capital."
+          }
+        }
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-113-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "卻說姜維連日搦戰，鄧艾堅守不出。維心中甚疑。忽使命至，召維入朝。維不知何事，只得班師回朝。鄧艾、司馬望知姜維中計，遂拔渭南之兵，隨後掩殺。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Meanwhile Chiang tried every day to bring the enemy to give battle, but they remained obstinately behind their defences. Chiang began to think some evil scheme was afoot, when suddenly he was recalled. Although ignorant of the reason, he could not disobey, and when he retired the Wei leader knew that their plot had succeeded. They broke camp and set out to attack the retreating army."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-113-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "樂毅伐齊遭間阻，岳飛破敵被讒回。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Because of Court intrigues Yo I and Yo Fei failed."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-113-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "未知勝敗如何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "How matters went will be told in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說姜維恐救兵到，先將軍器車仗一應軍需，步兵先退，然後將馬軍斷後。細作報知鄧艾。艾笑曰：「姜維知大將軍到，故先退去。不必追之，追則中彼之計也。」乃令人哨探，回報果然駱谷狹窄之處，堆積柴草，準備要燒追兵。眾皆稱艾曰：「將軍真神算也！」遂遣使齎表奏聞。於是司馬昭大喜，又奏賞鄧艾。\n卻說東吳大將軍孫綝，聽知全端、唐咨等降魏，勃然大怒，將各人家眷，盡皆斬之。吳主孫亮，時年方十七，見綝殺戮太過，心甚不然。一日出西苑，因食生梅，令黃門取蜜，須臾取至，見蜜內有鼠糞數枚，召藏吏責之，藏吏叩首曰：「臣封閉甚嚴，安有鼠糞？」亮曰：「黃門曾向爾求蜜食否？」藏吏曰：「黃門於數日前曾求食蜜，臣實不敢與。」亮指黃門曰：「此必汝怒藏吏不與爾蜜，故置糞於蜜中，以陷之也。」黃門不服。亮曰：「此事易知耳。若糞久在蜜中，則內外皆溼；若新在蜜中，則外溼內燥。」命剖視之，果然內燥。黃門服罪。亮之聰明，大抵如此。雖然聰明，卻被孫綝把持，不能主張。綝之弟威遠將軍孫據入蒼龍宿衛；武衛將軍孫恩、偏將軍孫幹、長水校尉孫闓，分屯諸營。\n一日吳主孫亮悶坐，黃門侍郎全紀在側，紀乃國舅也。亮因泣告曰：「孫綝專權妄殺，欺朕太甚；今不圖之，必為後患。」紀曰：「陛下但有用臣處，臣萬死不辭。」亮曰：「卿可只今點起禁兵，與將軍劉丞各把城門，朕自出殺孫綝。但此事切不可令卿母知之。卿母乃綝之姊也。倘若泄漏，誤朕匪輕。」紀曰：「乞陛下草詔與臣。臨行事之時，臣將詔示眾，使綝手下人皆不敢妄動。」亮從之，即寫密詔付紀。紀受詔歸家，密告其父全尚。尚知此事，乃告妻曰：「三日內殺孫綝矣。」妻曰：「殺之是也。」口雖應之，卻令人持書報知孫綝。綝大怒，當夜便喚弟兄四人，點起精兵，先圍大內；一面將全尚、劉丞並其家小俱拿下。比及平明，吳主孫亮聽得宮門外金鼓大震。內侍慌入奏曰：「孫綝領兵圍了內苑。」亮大怒，指全后罵曰：「汝父兄誤我大事矣！」乃拔劍欲出。全后與侍中近臣，皆牽其衣而哭，不放亮出。孫綝先將全尚、劉丞等殺訖，然後召文武於朝內，下令曰：「主上荒淫久病，昏亂無道，不可以奉宗廟，今當廢之。汝諸文武，敢有不從者，以謀叛論！」眾皆畏懼，應曰：「願從將軍之令。」尚書桓懿大怒，從班部中挺然而出，指孫綝大罵曰：「今上乃聰明之主，汝何敢出此亂言！吾寧死不從賊臣之命。」綝大怒，自拔劍斬之，即入內指吳主孫亮罵曰：「無道昏君，本當誅戳，以謝天下！看先帝之面，廢汝為會稽王，吾自選有德者立之！」叱中書郎李崇奪其印綬，令鄧程收之。亮大哭而去。後人有詩歎曰：\n亂賊誣伊尹，奸臣充霍光。\n可憐聰明主，不得蒞朝堂。\n孫綝遣宗正孫楷、中書郎董朝，往虎林迎請瑯琊王孫休為君。休字子烈，乃孫權第六子也；在虎林夜夢乘龍上天，回顧不見龍尾，失驚而覺。次日，孫楷、董朝至，拜請回都。行至曲阿，有一老人，自稱姓干，名休，叩頭言曰：「事久必變，願殿下速行。」休謝之。行至布塞亭，孫恩將軍駕來迎。休不敢乘輦，乃坐小車而入。百官拜謁道傍，休慌忙下車答禮。孫綝出，令扶起，請入大殿，升御座即天子位。休再三謙讓，方受玉璽。文官武將朝賀已畢，大赦天下，改元永安元年；封孫綝為丞相、荊州牧；多官各有封賞；又封兄之子孫皓為烏程侯。孫琳一門五侯，皆典禁兵，權傾人主。吳主孫休，恐其內變，陽示恩寵，內實防之。綝驕橫愈甚。\n冬十二月，綝奉牛酒入宮上壽，吳主孫休不受，綝怒，乃以牛酒詣左將軍張布府中共飲。酒酣，乃謂布曰：「吾初廢會稽王時，人皆勸吾為君。吾為今上賢，故立之。今我上壽而見拒，是將我等閒相待。吾早晚教你看！」布聞言，唯唯而已。次日，布入宮密奏孫休。休大懼，日夜不安。數日內孫綝遣中書郎孟宗，撥與中營所管精兵一萬五千，出屯武昌；又盡將武庫內軍器與之。於是將軍魏邈、武衛士施朔，二人密奏孫休曰：「綝調兵在外，又搬盡武庫內軍器，早晚必為變矣。」休大驚，急召張布計議。布奏曰：「老將丁奉，計略過人，能斷大事，可與議之。」休乃召奉入內，密告其事。奉奏曰：「陛下勿憂，臣有一計，為國除害。」休問何計。奉曰：「來朝臘日，只推大會群臣，召綝赴席，臣自有調遣。」休大喜。奉令魏邈、施朔為外事，張布為內應。\n是夜狂風大作，飛沙走石，將老樹連根拔起。天明風定，使者奉旨來請孫綝入宮赴宴。孫綝方起床，平地如人推倒，心中不悅。使者十餘人簇擁入內。家人止之曰：「一夜狂風不息，今早又無故驚倒，恐非吉兆，不可赴宴。」綝曰：「吾弟兄共典禁兵，誰敢近身？倘有變動，於府中放火為號。」囑訖，升車入內。吳主孫休慌下御座迎之，請綝高坐。酒行數巡，眾驚曰：「宮外望有火起。」綝便欲起身。休止之曰：「丞相穩便，外兵自多，何必懼哉？」言未畢，左將軍張布拔劍在手，引武士三十餘人，搶上殿來，口中厲聲而言曰：「有詔擒反賊孫綝！」綝急欲走時，早被武士擒下。綝叩頭曰：「願徙交州歸田里。」休叱曰：「爾何不徙滕胤、呂據、王惇耶？」命推下斬之。於是張布牽孫綝下殿東斬訖。從者皆不敢動。布宣詔曰：「罪在孫綝一人，餘皆不問。」眾心乃安。布請孫休升五鳳樓。丁奉、魏邈、施朔等，擒孫綝兄弟至。休命盡斬於市。宗黨死者數百人，滅其三族，命軍士掘開孫峻墳墓，戮其屍首。將被害諸葛恪、滕胤、呂據、王惇等家，重建墳墓，以表其忠。其牽累流遠者，皆赦還鄉里。丁奉重加封賞。\n馳書報入成都。後主劉禪遣使回賀，吳使薛珝答禮。珝自蜀中歸，吳主孫休問蜀中近日作何舉動。珝奏曰：「近日中常侍黃皓用事，公卿多阿附之。入其朝，不聞直言；經其野，民有菜色。所謂『燕雀處堂，不知大廈之將焚』者也。」休嘆曰：「若諸葛武侯在時，何至如此乎！」於是又寫國書，教人齎入成都，說司馬昭不日篡魏，必將侵吳蜀以示威，彼此各宜準備。\n姜維聽得此信，忻然上表，再議出師伐魏。時蜀漢景耀元年冬，大將軍姜維，以廖化、張翼為先鋒，王含、蔣斌為左軍，蔣舒、傅僉為右軍，胡濟為合後。維與夏侯霸為總中軍，共起蜀兵二十萬，拜辭後主，逕到漢中，與夏侯霸商議，當先攻取何地。霸曰：「祁山乃用武之地，可以進兵，故丞相昔日六出祁山。因他處不可出也。」維從其言，遂令三軍並望祁山進發，至谷口下寨。時鄧艾正在祁山寨中，整點隴右之兵。忽流星馬到，報說蜀兵見下三寨於谷口。艾聽知，遂登高看了，回寨升帳，大喜曰：「不出吾之所料也！」原來鄧艾先度了地脈，故留蜀兵下寨之地；地中至祁山寨直至蜀寨，早挖了地道，待蜀兵至時，於中取事。此時姜維至谷口分作三寨，地道正在左寨之中，乃王含、蔣斌下寨之處。鄧艾喚子鄧忠，與師纂各引一萬兵，為左右衝擊；卻喚副將鄭倫，引五百掘子軍，於當夜二更，逕從地道直至左營，從帳後地下擁出。\n卻說王含、蔣斌因立寨未定，恐魏兵來劫寨，不敢解甲而寢。忽聞中軍大亂，急綽兵器上的馬時，寨外鄧忠引兵殺到。內外夾攻，王、蔣二將，奮死抵敵不住，棄寨而走。姜維在帳中聽得左寨中大喊，料道有內應外合之兵，遂急上馬，立於中軍帳前，傳令曰：「如有妄動者斬，便有敵兵到營邊，休要問他，只管以弓弩射之！」一面傳示右營，亦不許妄動。果然魏兵十餘次衝擊，皆被射回。只衝殺到天明，魏兵不敢殺入。鄧艾收兵回寨，乃歎曰：「姜維深得孔明之法！兵在夜而不驚，將聞變而不亂：真將材也！」次日，王含、蔣斌收聚敗兵，伏於大寨前請罪。維曰：「非汝等之罪，乃吾不明地脈之故也。」又撥軍馬，命二將安營訖。卻將傷死身屍，填於地道之中，以土掩之。令人下戰書單搦鄧艾來日交鋒。艾忻然應之。\n次日，兩軍列於祁山之前。維按武侯八陣之法，依天、地、風、雲、鳥、蛇、龍、虎之形，分布已定。鄧艾出馬，見維布成八卦，乃亦布之，左右前後，門戶一般。維持槍縱馬大叫曰：「汝效吾排八陣，亦能變陣否？」艾笑曰：「汝道此陣只汝能布耶？吾既會布陣，豈不知變陣！」艾便勒馬入陣，令執法官把旗左右招颭，變成八八六十四個門戶；復出陣前曰：「吾變法若何？」維曰：「雖然不差，汝敢與吾入陣相圍麼？」艾曰：「有何不敢！」兩軍各依隊伍而進。艾在中軍調遣。兩軍衝突，陣法不曾錯動。姜維到中間，把旗一招，忽然變成「長蛇捲地陣」，將鄧艾困在核心，四面喊聲大震。艾不知其陣，心中大驚。蜀兵漸漸逼進，艾引眾將衝突不出。只聽得蜀兵齊叫曰：「鄧艾早降！」鄧艾仰天長嘆曰：「我一時自逞其能，中姜維之計矣！」\n忽然西北角一彪軍殺入，艾見是魏兵，遂乘勢殺出。救鄧艾者，乃司馬望也。比及救出鄧艾時，祁山九寨，皆被蜀兵所奪。艾引敗兵，退於渭水南下寨。艾謂望曰：「公何以知此陣法而救出我也？」望曰：「吾幼年遊學於荊南，曾與崔州平、石廣元為友，講論此陣。今日姜維所變者，乃『長蛇捲地陣』也。若他處擊之，必不可破。吾見其頭在西北，故從西北擊之，自破矣。」艾謝曰：「我雖學得陣法，實不知變法。公既之此法，來日以此法復奪祁山寨柵，如何？」望曰：「我之所學，恐瞞不過姜維。」艾曰：「來日公在陣上與他鬥陣法，我卻引一軍暗襲祁山之後。兩下混戰，可奪舊寨也。」於是命鄭倫為先鋒，艾自引軍襲山後；一面令人下戰書，搦姜維來日鬥陣法。維批回去訖，乃謂眾將曰：「吾受武侯所傳密書，此陣變法，共三百六十五樣，按周天之數。今搦吾鬥陣法，乃『班門弄斧』耳！但中間必有詐謀，公等知之乎？」廖化曰：「此必賺我鬥陣法，卻引一軍襲我後也。」維笑曰：「正合吾意。」即令張翼、廖化引一萬兵去山後埋伏。\n次日，姜維盡收九寨之兵，分布於祁山之前。司馬望引兵離了渭南，逕到祁山之前，出馬與姜維答話。維曰：「汝請吾鬥陣法，汝先布與我看。」望布成了八卦。維笑曰：「此即吾所布八陣之法也，汝今盜襲，何足為奇！」望曰：「汝亦竊他人之法耳！」維曰：「此陣凡有幾變？」望笑曰：「吾既能布，豈不會變？此陣有九九八十一變。」維笑曰：「汝試變來。」望入陣變了數番，復出陣曰：「汝識吾變否？」維笑曰：「吾陣法按周天三百六十五變，汝乃井底之蛙，安知玄奧乎！」望自知有此變法，實不曾學全，乃勉強折辯曰：「吾不信，汝試變來。」維曰：「汝叫鄧艾出來，吾當布與他看。」望曰：「鄧將軍自有良謀，不好陣法。」維大笑曰：「有何良謀！不過教汝賺吾在此布陣，他卻引兵襲吾山後耳！」望大驚，恰欲進兵混戰，被維以鞭梢一指，兩翼兵先出，殺的那魏兵棄甲拋戈，各逃性命。\n卻說鄧艾催督先鋒鄭倫來襲山後。倫方轉過山角，忽然一聲砲響，鼓角喧天，伏兵殺出：為首大將，乃廖化也。二人未及答話，兩馬交處，被廖化一刀，斬鄭倫於馬下。鄧艾大驚，急勒兵退時，張翼引一軍殺到。兩下夾攻，魏兵大敗。艾捨命突出，身被四箭。奔到渭南寨時，司馬望亦到。二人商議退兵之策。望曰：「近日蜀主劉禪，寵幸中貴黃皓，日夜以酒色為樂，可用反間計召回姜維，此圍可解。」艾問眾謀士曰：「誰可入蜀交通黃皓？」言未畢，一人應聲曰：「某願往。」艾視之，乃襄陽党均也。艾大喜，即令党均齎金珠寶物，逕到成都連結黃皓，布散流言，說姜維怨望天子，不久投魏。於是成都人人所說皆同。黃皓奏知後主，即遣人星夜宣姜維入朝。\n卻說姜維連日搦戰，鄧艾堅守不出。維心中甚疑。忽使命至，召維入朝。維不知何事，只得班師回朝。鄧艾、司馬望知姜維中計，遂拔渭南之兵，隨後掩殺。正是：\n樂毅伐齊遭間阻，岳飛破敵被讒回。\n未知勝敗如何，且看下文分解。",
+    "title": "第一百十三回 丁奉定計斬孫綝　　　姜維鬥陣破鄧艾"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-113.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

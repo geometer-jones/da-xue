@@ -1,0 +1,1165 @@
+{
+  "chapter": {
+    "character_count": 5381,
+    "id": "chapter-016",
+    "order": 16,
+    "reading_unit_count": 88,
+    "reading_units": [
+      {
+        "character_count": 90,
+        "id": "chapter-016-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說楊大將獻計欲攻劉備。袁術曰「計將安出」大將曰「劉備軍屯小沛雖然易取奈呂布虎踞徐州前次許他金帛糧馬至今未與恐其助備今當令人送與糧食以結其心使其按兵不動則劉備可擒。先擒劉備後圖呂布徐州可得也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yang Ta-chiang replied, “Though Liu Pei, now camped at Hsiaop‘ei, could easily be taken, yet Lü Pu is strongly posted at the chief city near, and I think he would help Pei if it was only for the grudge he bears against you for not having given him the gold and stuffs, grain and horses you promised. First of all you should send Lü Pu a present whereby to engage his affections and keep him quiet while you deal with Liu Pei. You can see to Lü Pu after this is done.”"
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-016-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "術喜便具粟二十萬斛令韓胤齎密書往見呂布。呂布甚喜重待韓胤。胤回告袁術術遂遣紀靈為大將雷簿、陳蘭為副將統兵數萬進攻小沛。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thereupon a large quantity of millet was sent, with letters, by the hand of Han Yin. The gift pleased Lü Pu greatly; and he treated the messenger with great cordiality. Feeling sure of no trouble from that quarter Yüan Shu told off the leaders of the expedition against Hsiaop‘ei."
+          }
+        }
+      },
+      {
+        "character_count": 62,
+        "id": "chapter-016-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "玄德聞知此信聚眾商議。張飛要出戰。孫乾曰「今小沛糧寡兵微如何抵敵可修書告急於呂布。」張飛曰「那廝如何肯來」玄德曰「乾之言善。」送修書與呂布。書略曰",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Liu Pei heard these things he called his officers to take counsel. Chang Fei was for open war forthwith. Sun Ch‘ien said their resources were too small: they must lay the position before Lü Pu and ask help."
+          }
+        }
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-016-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "伏自將軍垂念今備於小沛容身實拜雲天之德。今袁術欲報私讎遣紀靈領兵到縣亡在旦夕非將軍莫能救。望驅一旅之師以救倒懸之急幸甚幸甚",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Do you think that fellow will do anything?” said Chang Fei cynically. Liu Pei decided in favour of Sun’s proposal and wrote as follows:—"
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-016-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "呂布看了書與陳宮計議曰「前者袁術送糧致書蓋欲使我不救玄德也。今玄德又來求救吾想玄德屯軍小沛未必遂能為我害若袁術併了玄德則北連泰山諸將以圖我我不能安枕矣不若救玄德。」遂點兵啟程。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Humbly I venture to remind you that I am here by your orders and enjoy repose as the result of your kindness, extensive as the heavens. Now Yüan Shu, moved by a desire for revenge, is sending a force against this place and its destruction is imminent unless you intervene to save it. I trust you will send an army quickly to protect the town, and our happiness will be inexpressible.”"
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-016-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "卻說紀靈起兵長驅大進，已到沛縣東南，劄下營寨。晝列旌旗，遮映山川；夜設火鼓，震崩天地，玄德縣中，止有五千餘人，也只得勉強領兵出縣，布陣安營。忽報呂布引軍離縣一里，西南上劄下營寨。紀靈知呂布領兵來救劉備，急令人致書於呂布，責其無信。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Receiving this Lü Pu called in Ch‘ên Kung to whom he said, “I have just received gifts from Yüan Shu and a letter, with the intent of restraining me from helping Liu Pei. Now comes a letter from him asking help. It seems to me that Yüan-tê where he is can do me no harm, but if Yüan Shu overcomes Liu Pei then the power of the north is so much nearer and I should be unable to resist the attacks of so many leaders and should never sleep secure. I will aid Liu Pei; that is the better course for me.”"
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-016-line-007",
+        "order": 7,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "布笑曰：「我有一計，使袁、劉兩家都不怨我。」乃發使往紀靈、劉備寨中，請二人飲宴。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Now the force sent against Hsiaop‘ei went thither as quickly as possible and soon the country to the southeast fluttered with pennons by day and blazed with watch fires by night, while the rolling of the drums reverberated from heaven to earth."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-016-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "玄德聞布相請，即便欲往。關、張曰：「兄長不可去。呂布必有異心。」玄德曰：「我待彼不薄，彼必不害我。」遂上馬而行。關、張隨往。到呂布寨中，入見。布曰：「吾今特解公之危，異日得志，不可相忘。」玄德稱謝。布請玄德坐。關、張按劍於立於背後。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The few men at Liu Pei’s disposal were led out of the city and arranged to make a brave show, but it was good news to him to hear that Lü Pu had arrived and was quite near. He camped only a li away to the south-west. When Yüan Shu’s general, Chi Ling, heard of his arrival he wrote letters reproaching Lü Pu for his treachery. Lü Pu smiled as he read them."
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-016-line-009",
+        "order": 9,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "人報紀靈到玄德大驚欲避之。布曰「吾特請你二人來會議勿得生疑。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I know how to make both of them love me,” said he. So he sent invitations to both leaders to come to a banquet. Liu Pei was for accepting the invitation and going, but his brothers dissuaded him saying, “There is some treachery in his heart.”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-016-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "玄德未知其意心下不安。紀靈下馬入寨卻見玄德在帳上坐大驚抽身便回左右留之不住。呂布向前一把扯回如提童稚。靈曰「將軍欲殺紀靈耶」布曰「非也。」靈曰「莫非殺大耳兒乎」布曰「亦非也」。靈曰「然則為何」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have treated him too well for him to do me any harm,” said Yüan-tê. So he mounted and rode away, the two brothers following. They came to the camp. The host said, “Now by a special effort I have got you out of danger; I hope you will not forget that when you come into your own.”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-016-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "」布曰：「玄德與布乃兄弟也，今為將軍所困，故而救之。」靈曰：「若此則殺靈也？」布曰：「無有此理。布平生不好鬥，惟好解鬥。吾今為兩家解之。」靈曰：「請問今日解之之法。」布曰：「吾有一法，從天所決。」乃拉靈入帳與玄德相見。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê thanked him heartily and was invited to take a seat. The two brothers took up their usual place as guards. But when Chi Ling was announced Yüan-tê felt a spasm of fear and got up to go away."
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-016-line-012",
+        "order": 12,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "二人各懷疑忌，布乃居中坐，使靈居左，備居右，且教設宴行酒。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You two are invited for the particular purpose of a discussion,” said the host. “Do not take it amiss.”"
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-016-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "酒行數巡，布曰：「你兩家看我面上，俱各罷兵。」玄德無語。靈曰：「吾奉主公之命，提十萬之兵，專捉劉備，如何罷得？」張飛大怒，拔劍在手，叱曰：「吾雖兵少，覷汝輩如兒戲耳！你比百萬黃巾何如？你敢傷我哥哥！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan-tê, being quite ignorant of his intentions, was very uneasy. Presently his fellow guest entered. Seeing Yüan-tê in the tent, and in the seat of honour, he was puzzled, hesitated and tried to withdraw. But the attendants prevented this and Lü Pu, advancing, laid hold of him and drew him into the tent as he had been a child."
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-016-line-014",
+        "order": 14,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "」關公急止之曰：「且看呂將軍如何主意，那時各回營寨廝殺未遲。」呂布曰：「我請你兩家解鬥，須不教你廝殺。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Do you wish to slay me?” asked he. “Not at all,” replied Lü Pu."
+          }
+        }
+      },
+      {
+        "character_count": 53,
+        "id": "chapter-016-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "這邊紀靈不忿，那邊張飛只要廝殺，布大怒，教「左右！取我戟來！」布提畫戟在手。紀靈、玄德、盡皆失色。布曰：「我勸你兩家不要廝殺，盡在天命。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Then you are going to slay Long-ears?” “No; not that.” “Then what does it mean?”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-016-line-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "」令左右接過畫戟，去轅門外遠遠插定，乃回顧紀靈、玄德曰：「轅門離中軍一百五十步，吾若一箭射中戟上小枝，你兩家罷兵；如射不中時，各自回營，安排廝殺。有不從吾言者，併力拒之。」紀靈私忖：「戟在一百五十步之外，安能便中？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Yüan-tê and I are brothers. Now, General, you are besieging him and so I have come to the rescue.” “Then slay me,” said Chi Ling."
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-016-line-017",
+        "order": 17,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "且落得應允，待其不中，那時憑我廝殺。」便一口許諾。玄德自無不允。布都教坐，再各飲一杯酒。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“There would be no sense in that. All my life I have disliked fighting and quarrels, but have loved making peace. And now I want to settle the quarrel between you two.”"
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-016-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "酒畢。布教取弓箭來。玄德暗祝曰：「只願他射得中便好！」只見呂布挽起袍袖，搭上箭，扯滿弓，叫一聲「著！」正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“May I ask how you think of doing so?”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-016-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "弓開如秋月行天，箭去似流星落地。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have a means and one approved of heaven itself.”"
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-016-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "一箭正中畫戟小枝。帳上帳下將校，齊聲喝采。後人有詩讚之曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Then he drew Ling within the tent and led him up to Pei. The two men faced each other, full of mutual suspicion, but their host placed himself between them and they took their seats, Liu Pei on the right hand of the host."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-016-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "溫侯神射世間稀曾向轅門獨解危。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The banquet began. After a number of courses almost in silence, Lü Pu spoke, saying, “I wish you two gentlemen to listen to me and put an end to your strife.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-016-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "落日果然欺后羿號猿直欲勝由基。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Pei made no reply but Chi Ling said, “I have come with an army of ten legions at the express bidding of my master to take Liu Pei. How can I cease the strife? I must fight.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-016-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "虎觔弦響弓開處雕羽翎飛箭到時。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What!” exclaimed Chang Fei drawing his sword. “Few as we are we regard you no more than a lot of children. What are you compared with a million Yellow Turbans? You dare to hurt our brother!”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-016-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "豹子尾搖穿畫戟雄兵十萬脫征衣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü urged him to be silent. “Let us see what General Lü has to say first; after that there will be time to go to our tents and fight.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-016-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "當下呂布射中畫戟小枝呵呵大笑擲弓於地執紀靈、玄德之手曰「此天令你兩家罷兵也」喝教軍士斟酒來各飲一大觥。玄德暗稱慚愧。紀靈默然半晌告布曰「將軍之言不敢不聽奈紀靈回去主人如何肯信」布曰「吾自作書覆之便了。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I beg you both to come to an understanding. I cannot let you fight,” said Lü Pu. Now on one side Chi Ling was discontented and angry; on the other Chang Fei was dying for a fight and neither of the two chiefly concerned would signify assent. Then suddenly the host turned to his attendants saying, “Bring my halberd!” They did so and he sat there gripping the graceful but effective weapon in his right hand. Both guests felt very ill at ease and turned pale. Lü Pu went on “I have tried to persuade you to make peace for that is the command of the Most High. It shall be put to the test.”"
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-016-line-026",
+        "order": 26,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "」酒又數巡，紀靈求書先回。布謂玄德曰：「非我則公危矣。」玄德拜謝，與關、張回。次日，三處軍馬都散。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He then bade his servants take the halberd outside beyond the gate and set it up. Then speaking to his two guests he said, “That gate is one hundred and fifty paces distant. If I can hit that centre branch of the halberd-head with an arrow, you will both withdraw your armies. If I miss, you can go away and prepare for immediate battle. I shall compel you to abide by what I say.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-016-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "不說玄德入小沛，呂布歸徐州。卻說紀靈回淮南見袁術，說呂布轅門射戟解和之事，呈上書信。袁術大怒曰：「呂布受吾許多糧米，反以此兒戲之事，偏護劉備；吾當自提重兵，親征劉備，兼討呂布！」紀靈曰：「主公不可造次。呂布勇力過人，兼有徐州之地；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chi Ling thought to himself, “That small mark at that distance! How could any one hit it?” So he assented, thinking he would have plenty of fighting after his host had missed the mark. Of course Liu Pei was willing. They all sat down again and wine was served. When this had been drunk the host called for his bow and arrows. Yüan-tê silently prayed that he would hit the mark. Lü Pu turned back his sleeves, carefully fitted an arrow to the string and pulled the bow to its utmost stretch. A slight exclamation escaped him as the bow curved like the harvest moon sailing through the sky. “Twang!” went the bowstring and the arrow sped like a falling star. And it struck the slender tongue of the halberd head full and square. A roar of acclamation from all sides greeted the exploit."
+          }
+        }
+      },
+      {
+        "character_count": 57,
+        "id": "chapter-016-line-028",
+        "order": 28,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "若布與備首尾相連，不易圖也。靈聞布妻嚴氏有一女，年已及笄。主公有一子，可令人求親於布。布若嫁女於主公，必殺劉備。此乃『疏不間親之計』也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "O Lü was a wonderful archer, And the arrow he shot sped straight; By hitting the mark he saved his friend That day at his yamên gate. Hou I, the archer of ancient days, Brought down each mocking sun, And the apes that gibbered to fright Yuchi Were slain by him, one by one. But we sing of Lü Pu that drew the bow, And his feathered shaft that flew; For a myriad men could doff their mail When he hit the mark so true."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-016-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "袁術從之，即日遣韓胤為媒，齎禮物往徐州求親。胤到徐州見布，稱說：「主公仰慕將軍，欲求令嬡為兒婦，永結秦晉之好。」布入謀於妻嚴氏。原來呂布有二妻一妾：先娶嚴氏為正妻，後娶貂蟬為妾；及居小沛時，又娶曹豹之女為次妻。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lü Pu laughed loud at the success of his shot. Dropping his bow he seized his guests by the hands saying, “The command of Heaven indeed! And now you cease from fighting!” He ordered the soldier attendants to pour out great goblets of wine and each drank. Liu Pei in his inmost heart felt rather ashamed; his fellow guest sat silent, nodding his head. Presently he said, “I cannot disobey your command, General, but let me depart. What will my master say and will he believe me?”"
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-016-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "曹氏先亡無出，貂蟬亦無所出，惟嚴氏生一女，布最鍾愛。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I will write a letter and confirm it,” said Lü Pu."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-016-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "當下嚴氏謂布曰：「吾聞袁公路久鎮淮南，兵多糧廣，早晚將為天子。若成大事，則吾女有后妃之望；只不知他有幾子？」布曰：「止有一子。」妻曰：「既如此，即當許之。縱不為皇后，吾徐州亦無憂矣。」布意遂決，厚款韓胤，許了親事。韓胤回報袁術。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After a few more rounds of the wine Chi Ling asked that he might have the letter and after that departed. When the brothers took their leave Lü Pu again reminded Liu Pei that he owed him his deliverance. In a short time the soldiers had gone. Here nothing will be said of the entry of two of the actors in the drama into their own towns. When Chi Ling had got back to Huainan and told the story of the feat of archery and the peace-making that followed, and had presented the letter, his lord was very wroth."
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-016-line-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "術即備聘禮，仍令韓胤送至徐州。呂布受了，設席相待，留於館驛安歇。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“He repays me for all my grain with this bit of play-acting!” cried he. “He has saved Liu Pei, but I will lead a large army myself and settle him, and take Lü Pu too.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-016-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "次日陳宮竟往館驛內拜望韓胤講禮畢坐定。宮乃叱退左右對胤曰「誰獻此計教袁公與奉先聯姻意在取劉玄德之頭乎胤失驚起謝曰「乞公臺勿洩」宮曰吾自不洩只恐其事若遲必被他人識破事將中變。」胤曰「然則奈何願公教之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Be careful, my lord,” said Chi Ling. “He is braver and stronger than most men and has wide territory. He and Liu Pei together make a powerful combination, not easy to break. But there is another course. I have found out that his wife, the lady Yen, has a daughter just of marriageable age and as you have a son, you could arrange a marriage alliance with Lü Pu. If his daughter wedded your son he would certainly slay your enemy for you. This is the nothing-can-separate-relations plan.”"
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-016-line-034",
+        "order": 34,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "宮曰「吾見奉先使其即日送女就親何如」胤大喜稱謝曰「若如此袁公感佩明德不淺矣」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This scheme appealed to Yüan Shu, who soon set about its accomplishment. He sent presents by the hand of Han Yin, who was to discuss the question. When Han saw Lü he spoke of the immense respect his master had for him and his desire to ensure perpetual alliance between the two families by a marriage, an alliance such as existed between the states Ts‘in and Chin."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-016-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "宮遂辭別韓胤入見呂布曰「聞公女許嫁袁公路甚喜。但不知於何日結親」布曰「尚容徐議。」宮曰「古者自受聘至成婚之期各有定例天子一年諸侯半年大夫一季庶民一月。」布曰「袁公路天賜國寶早晚當為帝今從天子例可乎」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lü Pu was well disposed toward the scheme, but went in to consult his wife. Now Lü Pu had two wives and one concubine. ​ He first married a lady of the Yen family and she was the legal wife. Then he took Little Cicada as a concubine, and while he was living at Hsiaop‘ei he had married a secondary wife, a daughter of Ts‘ao Pao. She had died quite young leaving no issue. Neither had his concubine borne any children. So that he had but one child, this daughter, of whom he was dotingly fond."
+          }
+        }
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-016-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "」宮曰：「不可。」布曰：「然則仍從諸侯例？」宮曰：「亦不可。」布曰：「然則將從卿大夫例矣？」宮曰：「亦不可。」布笑曰：「公豈欲吾依庶民例耶？」宮曰：「非也。」布曰：「然則公意欲如何？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he broached the subject his wife said, “The Yüan’s have dominated their part of the country these many years. They have a large army and are very prosperous. One day a Yüan will become Emperor and our daughter may hope to be an Empress. But how many sons has he?” “Only this one.” “Then we should accept the offer. Even if our daughter does not become an Empress, Hsüchou is nothing to be sad about.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-016-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "宮曰「方今天下諸侯互相爭雄今公與袁公路結親諸侯保無有嫉妒者乎若復遠擇吉期或竟乘我良辰伏兵半路以奪之如之奈何為今之計不許便休既已許之當趁諸侯未知之時即便送女到壽春另居別館然後擇吉成親萬無一失也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lü Pu decided to accept and so treated the messenger with extreme generosity. Han Yin went back with a favourable answer. The wedding gifts were then prepared ready for Han Yin to take to the bride’s family. They were received and banquets and merry-making filled all the time. One day Ch‘ên Kung went tosee the messenger in his lodging, and when the usual ceremonies and greetings had been exchanged, the two men sat down to talk. When the servants had been sent out of earshot Ch‘ên Kung said, “Who originated this scheme by which Yüan Shu and Lü Pu are to become connections by this marriage so that Liu Pei’s head may fall?”"
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-016-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "布喜曰「公臺之言甚當。」遂入告嚴氏。連夜具辦妝奩收拾寶馬香車令宋憲、魏續一同韓胤送女前去。鼓樂喧天送出城外。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Han Yin was terrified. “I pray you not to let it get abroad,” said he. “I certainly shall keep it secret. But if there be any delay some other person will find it out and that spells failure.” “What had best be done?”"
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-016-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "時陳元龍之父陳珪，養老在家，聞鼓樂之聲，遂問左右。左右告以故。珪曰：「此乃『疏不間親之計』也。玄德危矣。」遂扶病來見呂布。布曰：「大人何來？」珪曰：「聞將軍死，故特來弔喪。」布驚曰：「何出此言？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I will see Lü Pu and get him to send the girl immediately so that the marriage may be concluded quickly.” “If it happened thus my master would indeed hold you in high respect.” With this Ch‘ên Kung took his leave and sought an interview with Lü Pu. “I hear your daughter is to be married to Yüan Shu’s son. That is capital, but no one knows when.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-016-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "珪曰：「前者袁公路以金帛送公，欲殺劉玄德，而公以射戟解之；今忽來求親，其意蓋欲以公女為質，隨後就來攻玄德而取小沛。小沛亡，徐州危矣。且彼或來借糧，或來借兵。公若應之，是疲於奔命，而又結怨於人；若其不允，是棄親而啟兵端也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“That has yet to be considered.” “There were certain fixed rules as to the period between sending presents and consummation of the marriage; Emperors, a year; nobles, half a year; high officers, three months; and common people, one month.” Lü Pu replied, “As to Yüan Kung-lu, Heaven has already put into his hands one Imperial jewel and he will surely arrive at the dignity one day. So, I should think the Imperial rule would apply.” ​ “No; it will not.” “The nobles’ rule, then?”"
+          }
+        }
+      },
+      {
+        "character_count": 35,
+        "id": "chapter-016-line-041",
+        "order": 41,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "況聞袁術已有稱帝之意，是造反也。彼若造反，則公乃反賊親屬矣，得無為天下所不容乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“No; nor that.” “The high officers’?” “Not even that.” Lü Pu laughed. “Then you mean me to go by the rule for common people.” “Nor that either.” “Then what do you mean?”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-016-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "布大驚曰「陳宮誤我」急令張遼引兵追趕之。三十里之外將女搶歸連韓胤都拏回監禁不放歸去卻令人回復袁術只說女兒妝奩未備俟備畢便自送來。陳珪又說呂布使解韓胤赴許都。布猶豫未決。忽人報「玄德在小沛招軍買馬不知何意」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“In the midst of the present troubles, when there is great rivalry between the nobles, do you not see that the others will be exceedingly jealous of your marriage alliance with such a family as the Yüans? Suppose you postpone the choice of the day, most likely when your fine morning arrives the wedding party will fall into an ambush on the road and the bride be carried off. Then what could be done? My opinion is that you would have done better to refuse. But since you have consented, then carry out the plan at once before the lords hear of it and so send the girl over without delay to Shouch‘un. You can hire a lodging there till you have selected the wedding day and the odds are greatly against any failure.”"
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-016-line-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 26,
+        "text": "布曰「此為將者本分事何足為怪」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What you say is quite to the point,” replied Lü."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-016-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "正話間，宋憲、魏續至，告布曰：「我二人奉明公之命，往山東買馬，買得好馬三百餘匹；回至沛縣界首，被強寇劫去一半，打聽得是劉備之弟張飛，詐裝山賊，搶劫馬匹去了。」呂布聽了大怒，隨即點兵往小沛，來攻張飛。玄德聞之大驚，慌忙引軍出迎。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He went into the private apartments to see his wife and told her the bride elect would set out immediately and the trousseau was to be prepared as far as it could be. On his side he chose some good horses and had a wedding carriage got ready. The escort consisted of Han Yin and two military officers. The procession went out of the city to the sound of music. Now at this time Ch‘ên Kuei, father of Ch‘ên Têng (Yüan-lung) was placidly waiting till the evening of his life passed into night. Hearing this burst of music he enquired the occasion and the servants told him. “They are working on the ‘Relatives-are-inseparable’ device, then,” said he. “Yüan-tê is in danger.” Thereupon in spite of his many infirmities he went to see Lü Pu. “Noble Sir, what brings you here?” asked Lü. “I heard you were dead and I came to mourn,” quavered the old man."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-016-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "兩陣圓處，玄德出馬曰：「兄長何故領兵到此？」布指罵曰：「我轅門射戟，救你大難，你何故奪我馬匹？」玄德曰：「備因缺馬，令人四下收買。安敢奪兄馬匹？」布曰：「你便使張飛奪了我好馬一百五十匹，尚自抵賴！」張飛挺槍出馬曰：「是我奪了你好馬！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who said that?” exclaimed his host. “Once upon a time you received grand presents from the Yüan’s that you might slay Liu Pei, but you got out by that clever shot at your halberd. Now they suddenly seek a marriage alliance thinking to get hold of your daughter as a pledge. The next move will be an attack on Hsiaop‘ei and, that gone, where are you? Whatever they ask in future, grain or men or anything else, and you yield, will bring your own end nearer, and make you hated all round. If you refuse, then you are false to the duties of a relative and that will be an ​ excuse to attack you openly. Beside this Yüan Shu intends to call himself Emperor, which would be rebellion, and you would be of the rebel’s family; something abominable, which the Empire would not suffer.”"
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-016-line-046",
+        "order": 46,
+        "source_block_chunk": 2,
+        "source_block_order": 28,
+        "text": "你今待怎麼？」布罵曰：「環眼賊！你累次藐視我！」飛曰：「我奪你馬你便惱，你奪我哥哥的徐州便不說了！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lü Pu was much disturbed to hear this. “I have been misled!” cried he. So he hurriedly sent Chang Liao to bring the wedding party back to the city. When they had come he threw Han Yin into prison and sent a reply to Yüan Shu saying curtly that the girl’s trousseau was not ready and she could not be married till it was."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-016-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "布挺戟出馬來戰張飛，飛亦挺槍來迎。兩個酣戰一百餘合，未見勝負。玄德恐有疏失，急鳴金收軍入城。呂布分軍四面圍定。玄德喚張飛責之曰：「都是你奪他馬匹，惹起事端！如今馬匹在何處？」飛曰：「都寄在各寺院內。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Han Yin was sent back to the capital. Lü Pu was hesitating what course to adopt, when he heard that Liu Pei was enlisting soldiers and buying horses for no apparent reason. “He is simply doing his duty; there is nothing to be surprised at,” said Lü Pu. Then came two officers saying, “As you ordered us we went into Shantung to purchase horses. We had got three hundred when, on our way back, on the borders of Peihsien some robbers stole half of them. We hear that the real robbers were Chang Fei and his men, who took on the guise of brigands.”"
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-016-line-048",
+        "order": 48,
+        "source_block_chunk": 2,
+        "source_block_order": 29,
+        "text": "」玄德隨令人出城，至呂布營中說情，願送還馬匹，兩相罷兵。布欲從之。陳宮曰：「今不殺劉備，久後必為所害。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lü Pu was very angry at this and began to prepare an expedition against Hsiaop‘ei. When Liu Pei heard that an attack threatened he led out his army to oppose it and the two armies were arrayed. Liu Pei rode to the front and said, “Elder brother, why have you brought an army against me?”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-016-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "布聽之，不從所請，攻城愈急。玄德與麋竺、孫乾商議。孫乾曰：「曹操所恨者，呂布也。不若棄城走許都，投奔曹操，借軍破布，此為上策。」玄德曰：「誰可當先破圍而出？」飛曰：「小弟情願死戰。」玄德令飛在前；雲長在後；自居其中，保護老少。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lü Pu began abusing him saying, “That shot of mine at the yamên gate saved you from grave danger; why then did you steal my horses?” “I wanted horses and I sent out to buy them. Should I dare to take yours?” said Liu. “You stole a hundred and fifty in the person of your brother Chang Fei. You only used another man’s hand.” Thereupon Chang Fei, with his spear in rest, rode out saying, “Yes; I stole your good horses, and what more do you expect?” Lü Pu replied, “You goggled-eyed thief! You are always treating me with contempt.”"
+          }
+        }
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-016-line-050",
+        "order": 50,
+        "source_block_chunk": 2,
+        "source_block_order": 30,
+        "text": "當夜三更，乘著月明出北門而走，正遇宋憲、魏續，被翼德一陣殺退，得出重圍。後面張遼趕來，關公敵住。呂布見玄德去了，也不來趕，隨即入城安民，令高順守小沛，自己仍回徐州去了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Yes; I took your horses and you get angry. You did not say any thing when you stole my brother’s city.” Lü Pu rode forward to give battle and Chang Fei advanced. A reckless fight began and the two warriors kept it up for a hundred bouts without a decisive stroke. Then Liu Pei, fearing some accident to his brother, hastily beat the gongs as a signal to retire and led his army into the city. Lü Pu then invested it."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-016-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "卻說玄德前奔許都到城外下寨先使孫乾來見曹操言被呂布追迫特來相投。操曰「玄德與吾兄弟也。」便請入城相見。次日玄德留關、張在城外自帶孫乾、糜竺入見操。操待以上賓之禮。玄德備訴呂布之事。操曰「布乃無義之輩吾與賢弟併力誅之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Pei called his brother and chid him as the cause of all this misfortune. “Where are the horses?” said he. “In some of the temples and courts,” replied Fei. ​ A messenger was sent out to speak softly and offer to restore the stolen horses if hostilities were to cease. Lü Pu was disposed to agree but Ch‘ên Kung opposed. “You will suffer by and by if you do not remove this Liu Pei.” Under his influence the request for peace was rejected and the attack on the city pressed harder. Liu Pei called Mi Chu and Sun Ch‘ien to him to ask advice."
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-016-line-052",
+        "order": 52,
+        "source_block_chunk": 2,
+        "source_block_order": 31,
+        "text": "玄德稱謝。操設宴相待至晚送出。荀彧入見曰「劉備英雄也今不早圖後必為患。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Said the latter, “The one person that Ts‘ao Ts‘ao detests is Lü Pu. Let us then abandon the city and take refuge with Ts‘ao Ts‘ao, from whom we may borrow men to destroy him.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-016-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "操不答。彧出，郭嘉入。操曰：「荀彧勸我殺玄德，當如何？」嘉曰：「不可。主公興義兵，為百姓除暴，惟仗信義以招俊傑，猶懼其不來也；今玄德素有英雄之名，以困窮而來投，若殺之，是害賢也。天下智謀之士，聞而自疑，將裹足不前，主公與誰定天下乎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If we try to get away, who will lead the van?” “I will do my best,” said Chang Fei. So he led the way. Kuan Yü was rearguard and in the centre was Liu Pei with the non-fighting portion. The cavalcade started and went out at the north gate. They met some opposition but the soldiers were driven off and the besieging force was passed without difficulty. Chang Liao pursued, but was held off by the rearguard. It seemed Lü Pu was not dissatisfied at the flight for he took no personal trouble to prevent it. He made formal entry into the city, settled local affairs and appointed a governor."
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-016-line-054",
+        "order": 54,
+        "source_block_chunk": 2,
+        "source_block_order": 32,
+        "text": "夫除一人之患，以阻四海之望，安危之機，不可不察。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Pei approached Hsütu and encamped outside the city, whence he sent Sun Ch‘ien to see Ts‘ao Ts‘ao and relate the events that brought him there. Ts‘ao was very friendly and said, “Liu Pei is as my brother.” He invited him to enter the city."
+          }
+        }
+      },
+      {
+        "character_count": 69,
+        "id": "chapter-016-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "操大喜曰「君言正合吾心。」次日即表薦劉備領豫州牧。程昱諫曰「劉備終不為人之下不如早圖之。」操曰「方今正用英雄之時不可殺一人而失天下之心此郭奉孝與吾有同見也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Leaving his brothers at the camp Liu Pei, with Sun Ch‘ien and Mi Chu, went to Ts‘ao Ts‘ao, who received him with the greatest respect. The story of Lü Pu’s perfidy was again related. “He has no sense of right,” said Ts‘ao Ts‘ao. “You and I, my brother, will attack him together.” Yüan-tê was very grateful. A banquet was then prepared and it was late evening before the visitor left for his own camp."
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-016-line-056",
+        "order": 56,
+        "source_block_chunk": 2,
+        "source_block_order": 33,
+        "text": "」遂不聽昱言，以兵三千，糧萬斛，送與玄德，使往豫州到任，進兵屯小沛，招集原散之兵，攻呂布。玄德至豫州，令人約會曹操。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsün Yü then had an interview with his master and said, “If you are not on your guard Liu Pei will be your undoing. You ought to destroy him. He is too much of the hero.” Ts‘ao made no reply and his adviser retired. Presently Kuo Chia came and Ts‘ao Ts‘ao said, “I have been advised to kill Liu Pei; what of such a scheme?”"
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-016-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "操正欲起兵，自往征呂布，忽流星馬報說張濟自關中引兵攻南陽，為流矢所中而死；濟姪張繡統其眾，用賈詡為謀士，結連劉表，屯兵宛城，欲興兵犯闕奪駕。操大怒，欲興兵討之，又恐呂布來攻許都，乃問計於荀彧。彧曰：「此易事耳。呂布無謀之輩，見利必喜；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“A bad scheme,” said Kuo. “You are the popular champion, pledged to relieve the people from oppression and only by truth and rectitude can you secure the support of the noble-minded. Your only fear is lest they stay away. Now Liu Pei is famous. He has come to you for help and protection and to put him to death would be to alienate all good men and put fear into the hearts of all the able advisers. Hampered by these difficulties where will you find those whose help you need? To remove ​ the dangers represented by one man and thereby injure yourself in the eyes of all mankind is a sure means of destruction. These conditions need careful consideration.”"
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-016-line-058",
+        "order": 58,
+        "source_block_chunk": 2,
+        "source_block_order": 34,
+        "text": "明公可遣使往徐州，加官賜賞，令與玄德解和。布喜，則不思遠圖矣。」操曰：「善。」遂差奉軍都尉王則，齎官誥併和解書，往徐州去訖；一面起兵五十萬，親討張繡。分軍三路而行，以夏侯惇為先鋒。軍馬至淯水下寨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What you say exactly fits in with what I think,” said Ts‘ao, greatly pleased with these remarks. His next step was to memorialise the Emperor to give Liu Pei the governorship of Yüchou. Again Ch‘êng Yü said, “Liu Pei is certain to rise to the top; he will never remain in a subordinate position. You had better remove him.” “Now is just the time to make use of good men. I will not forfeit the regard of the world for the sake of removing one individual. Kuo Fêng-hsiao and I both see this in the same light.”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-016-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "賈詡勸張繡曰：「操兵勢大，不可與敵，不如舉城投降。」張繡從之，使賈詡至操寨通款。操見詡應對如流，甚愛之，欲用為謀士。詡曰：「某昔從李榷，得罪天下；今從張繡，言聽計從，未忍棄之。」乃辭去。次日引繡來見操，操待之甚厚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wherefore he rejected all persuasion to work against Liu Pei but sent him soldiers and a large supply of grain, and set him on his way to Yü (Honan). He was to march to Hsiaop‘ei, occupy it, call together his former soldiers and attack Lü Pu. When Liu Pei reached Yüchou he sent to inform Ts‘ao Ts‘ao, who prepared to march an army to subjugate Lü Pu. But just then hasty news came that Chang Chi, who had gone to the attack of Nanyang, had been wounded by a stray arrow and had died. His nephew Hsiu had succeeded to the command of his army and with Chia Hsü as strategist, had joined Liu Piao and camped at Wanch‘êng. They intended to attack the capital and get possession of the Emperor’s person."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-016-line-060",
+        "order": 60,
+        "source_block_chunk": 2,
+        "source_block_order": 35,
+        "text": "引兵入宛城屯紮，餘軍分屯城外，寨柵聯絡十餘里。一住數日。繡每日設宴請操。一日操醉，退入寢所，私問左右曰：「此城中有妓女否？」操之兄子曹安民，知操意，乃密對曰：「昨晚小姪兒窺見館舍之側，有一婦人，生得十分美麗。問之，即繡叔張濟之妻也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao was placed in a quandary. He would go to attack this combination but he feared lest Lü Pu would attack the capital if he left it. So he sought the advice of Hsün Yü. “Lü Pu has no notion of a policy. He is led astray by any little advantage that presents itself to his eyes. All you need do is to obtain promotion for him, giving him some additional title, and tell him to make peace with Yüan-tê and he will do it.”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-016-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "操聞言便令安民領五十甲兵往取之。須臾取到軍中。操見之果然美麗。問其姓名婦答曰「妾乃張濟之妻鄒氏也。」操曰「夫人識吾否」鄒氏曰「久聞丞相威名今夕幸得瞻拜。」操曰「吾為夫人故特納張繡之降不然滅族矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Good,” said Ts‘ao Ts‘ao and he acted upon the hint and sent an officer with the official announcement and a letter urging peace, while he went on with preparations to meet the other danger. When ready he marched out in three divisions. Hsiahou Tun was the van-leader and they went to Yüshui River and camped there. Chia Hsü succeeded in persuading Chang Hsiu of the hopelessness of resistance. “You would do well to surrender since his army is too large for you to oppose,” said he. Seeing the truth of this Hsiu sent his adviser to propose submission. Ts‘ao Ts‘ao was greatly pleased with the messenger, admiring his ready and fluent repartee, and tried to win him to his service."
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-016-line-062",
+        "order": 62,
+        "source_block_chunk": 2,
+        "source_block_order": 36,
+        "text": "鄒氏拜曰「實感再生之恩。」操曰「今日得見夫人乃天幸也。今宵願同枕席隨吾還都安享富貴何如」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I was formerly with Li Ts‘ui and was held guilty with him. Now I am with Chang who accepts my advice and I should not like to abandon him,” said Chia Hsü."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-016-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "鄒氏拜謝。是夜共宿於帳中。鄒氏曰：「久住城中，繡必生疑，亦恐外人議論。」操曰：「明日同夫人寨中去住。」次日，移于城外安歇，喚典韋就中軍帳房外宿衛。他人非奉呼喚，不許輒入，因此內外不通。操每日與鄒氏取樂，不想歸期。張繡家人密報繡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ He left and next day conducted his master into Ts‘ao Ts‘ao’s presence. Ts‘ao was generous. Then he entered Wanch‘êng, the greater part of the army being put in camp outside where the lines extended some ten li . Great banquets were given every day and Ts‘ao Ts‘ao was always being entertained. One day, when Ts‘ao Ts‘ao returned to his quarters in a more than usual merry mood, he asked the attendants if there were any singing girls in the city. The son of his elder brother heard the question and said, “Peeping through one of the partititions last evening I saw a perfectly beautiful woman in one of the courts. They told me she was the wife of Chang Hsiu’s uncle. She is very lovely.”"
+          }
+        }
+      },
+      {
+        "character_count": 35,
+        "id": "chapter-016-line-064",
+        "order": 64,
+        "source_block_chunk": 2,
+        "source_block_order": 37,
+        "text": "繡怒曰：「操賊辱我太甚！」便請賈詡商議。詡曰：「此事不可洩漏。來日等操出帳議事，如此如此。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tsʻao Tsʻao, inflamed by the description given him of the beauty, told his nephew to go and bring her to visit him. He did so supported by an armed escort and very soon the woman stood before him."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-016-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "次日，操在帳中，張繡入告曰：「新降兵多有逃亡者，乞移屯中軍。」操許之，繡乃移屯其軍，分為四寨，刻期舉事。因畏典韋勇猛，急切難近，乃與偏將胡車兒商議。那胡車兒力能負五百斤，日行七百里，亦異人也。當下獻計于繡曰：「典韋之可畏者，雙鐵戟耳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "She was a beauty indeed and Ts‘ao Ts‘ao asked her name. She replied, “Thy handmaid was wife to Chang Chi; I was born of the Tsou family.” “Do you know who I am?” “I have known the Minister by reputation a long time. I am happy to see him and be permitted to bow before him,” said she. “It was for your sake that I allowed Chang Hsiu to submit; otherwise I would have slain him and cut him off root and branch,” said Ts‘ao. “Indeed, then, I owe my very life to you; I am very grateful,” said she."
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-016-line-066",
+        "order": 66,
+        "source_block_chunk": 2,
+        "source_block_order": 38,
+        "text": "主公明日可請他來吃酒，使盡醉而歸。那時某便溷入他跟來軍士數內，偷入帳房，盜其戟，此人不足畏矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“To see you is a glimpse of paradise, but there is one thing I should like better. Stay here and go with me to the capital where I will see that you are properly cared for. What do you say to that?” She could but thank him."
+          }
+        }
+      },
+      {
+        "character_count": 102,
+        "id": "chapter-016-line-067",
+        "order": 67,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "繡甚喜，預先準備弓箭甲兵，告示各寨。至期令賈詡致意請典韋到寨，殷勤待酒。至晚醉歸，胡車兒雜在眾人隊裏，直入大寨。是夜曹操于帳中，與鄒氏飲酒。忽聽帳外人言馬嘶，操使人觀之。回報是張繡軍夜巡，操乃不疑。時近二更，忽聞寨後吶喊。報說草車上火起。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“But Chang Hsiu will greatly wonder at my prolonged absence and gossips will begin to talk,” said she. “If you like you can leave the city tomorrow.” She did so, but instead of going at once to the capital she stayed with him among the tents, where Tien Wei was appointed as a special guard over her apartments. Ts‘ao was the only person whom she saw and he passed the days in idle dalliance with the lady, quite content to let time flow by. But Chang’s people told him what had gone amiss and he was angry at the shame brought upon the family. He confided his trouble to Chia Hsü who said, “Keep this secret, wait till he appears again to carry on business and then ……”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-016-line-068",
+        "order": 68,
+        "source_block_chunk": 2,
+        "source_block_order": 39,
+        "text": "操曰：「軍中失火，勿得驚動。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Aplan was arranged quite secretly."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-016-line-069",
+        "order": 69,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "須臾，四下裏火起，操始著忙，急喚典韋。韋方醉臥，睡夢中聽得金鼓喊殺之聲，便跳起身來，卻尋不見了雙戟。時敵兵已到轅門，韋急掣步卒腰刀在手。只見門首無數軍馬，各挺長槍，搶入寨來。韋奮力向前，砍死二十餘人。軍馬方退，步軍又到，兩邊槍如葦列。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not long after this Chang Hsiu went into Ts‘ao Ts‘ao’s tent to say that, as many of his men were deserting, it would be ​ well to camp them in the centre and when permission was given the men of his old command were moved in and placed in four camps. But Tien Wei, the especial guard of Ts‘ao Ts‘ao’s tent, was a man to be feared, being both brave and powerful. It was hard to know how to attack him. So counsel was taken with an officer, Hu Ch‘êrh, a man of enormous strength and activity. He could carry a burden of six hundred pounds and travel seven hundred li in a day. He proposed a plan. He said, “The fearsome thing about Tien Wei is his double halberd. But get him to come to a party and make him quite drunk before you send him back. I will mingle among his escort and so get into his tent and steal away his weapon. One need not fear him then.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-016-line-070",
+        "order": 70,
+        "source_block_chunk": 2,
+        "source_block_order": 40,
+        "text": "韋身無片甲，上下被數十槍，兀自死戰。刀砍缺不堪用，韋即棄刀，雙手提著兩個軍人迎敵，擊死者八九人。群賊不敢近，只遠遠以箭射之。箭如驟雨，韋猶死拒寨門。爭奈寨後賊軍已入，韋背上又中一槍，乃大叫數聲。血流滿地而死。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So the necessary arms were prepared and orders given in the various camps. This done the intended victim was invited and plied vigorously with wine so that he was quite intoxicated when he left. And, as arranged, the officer mingled with his escort and made away with his weapons. That night, when Ts‘ao Ts‘ao was at supper with the lady, he heard the voices of men and neighing of horses and sent out to ask what it meant. They told him it was the night patrol going the rounds and he was satisfied. Near the second watch of the night again was heard some noise in the rear of his tent and one of the fodder carts was reported to be burning. “One of the men has dropped a spark; there is nothing to be alarmed at,” said he."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-016-line-071",
+        "order": 71,
+        "source_block_chunk": 3,
+        "source_block_order": 40,
+        "text": "死了半晌，還無一人敢從前門而入者。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But very soon the fire spread on all sides and became alarming. He called Tien Wei. But he, usually so alert, was lying down quite intoxicated."
+          }
+        }
+      },
+      {
+        "character_count": 102,
+        "id": "chapter-016-line-072",
+        "order": 72,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "卻說曹操賴典韋當住寨門，乃得從寨後上馬逃奔，只有曹安民步隨，操右臂中了一箭，馬亦中了三箭。虧得那馬是大宛良馬，熬得痛，走得快。剛剛走到淯水河邊，賊兵追至，安民被砍為肉泥。操急驟馬衝波過河，纔上得岸，賊兵一箭射來，正中馬眼，那馬撲地倒了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "However, the beating of gongs and rolling of drums mingling with his dreams awoke him and he jumped up. His trusty halberd had disappeared. The enemy was near. He hastily snatched up an infantryman’s sword and rushed out. At the gate he saw a crowd of spearmen just bursting in. Tien Wei rushed at them slashing all around him and a score or more fell beneath his blows. The others drew back. But the spears stood around him like reeds on the river bank. Being totally without mail he was soon wounded in several places. He fought desperately till his sword snapped and was no longer of any use. Throwing it aside he seized a couple of soldiers and with their bodies as weapons felled half a score of his opponents. The others dared not approach, but they shot arrows at him. These fell thick as rain but he still maintained the gate against the assailants. However, the mutineers got in by the rear of the camp and one of them wounded him in the back with a spear thrust. Uttering a loud cry he fell. The blood gushed from the wound ​ in torrents and he died. Even after he was dead not a man dared to come in by the main gate."
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-016-line-073",
+        "order": 73,
+        "source_block_chunk": 2,
+        "source_block_order": 41,
+        "text": "操長子曹昂，即以己所乘之馬奉操。操上馬急奔。曹昂卻被亂箭射死。操乃走脫。路逢諸將，收集殘兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao, relying on Tien Wei to hold the main gate, had fled in haste by the rear gate. His nephew accompanied him on foot. Then Ts‘ao was wounded by an arrow in the arm and three arrows struck his horse. However, fortunately, the horse was a fine beast from Tawan full of spirit and, in spite of his wounds, he bore his master swiftly and well as far as the Yüshui River."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-016-line-074",
+        "order": 74,
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "時夏侯惇所領青州之兵乘勢下鄉劫掠民家平虜校尉于禁即將本部軍于路剿殺安撫鄉民。青州兵走回迎操泣拜于地言于禁造反趕殺青州軍馬。操大驚。須臾夏侯惇、許褚、李典樂進都到。操言于禁造反可整兵迎之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Here some of the pursuers came up and his nephew was hacked to pieces. Ts‘ao Ts‘ao dashed into the river and reached the further side, but there an arrow struck his steed in the eye and he fell. Ts‘ao Ts‘ao’s eldest son dismounted and yielded his horse to his father, who galloped on. His son was killed but he himself got away. Soon after he met several of his officers who had rallied a few soldiers. The soldiers under Hsiahou Tun seized the occasion to plunder the people. Yü Chin took his men fell upon them and slew many. Thus he protected and appeased the people. The plunderers, meeting Ts‘ao Ts‘ao on the road, knelt down howling and said Yü Chin had mutinied and attacked them. Ts‘ao Ts‘ao was surprised and when he met Hsiahou Tun, gave orders to attack Yü Chin."
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-016-line-075",
+        "order": 75,
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "卻說于禁見操等俱到，乃引軍射住陣角，鑿塹安營。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now when Yü Chin saw his master and a great company approaching he at once stopped the attack and set his men to make a camp. Hsün Yü asked him why."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-016-line-076",
+        "order": 76,
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "告之曰：「青州軍言將軍造反，今丞相已到，何不分辯，乃先立營寨耶？」于禁曰：「今賊追兵在後，不時即至；若不先準備，何以拒敵？分辯小事，退敵大事。」安營方畢，張繡軍兩路殺至。于禁身先出寨迎敵。繡急退兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "\"The Chingchou soldiers say you have turned traitor; why do you not explain now that the Minister has arrived? Why first make a camp?” said he. He replied, “Our enemies are coming up in our rear and are very close. It is necessary to prepare for defence or we shall not withstand them. Explanation is a small matter, but defence is very important.” Soon after the camp was finished Chang Hsiu fell upon them in two divisions. Yü Chin himself rode out to face them. Chang drew back. The other leader, seeing Yü Chin advance thus boldly, also attacked and Chang Hsiu was overcome. They pursued him a great distance until his force was almost annihilated. With the miserable remnant he finally fled to Liu Piao."
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-016-line-077",
+        "order": 77,
+        "source_block_chunk": 2,
+        "source_block_order": 44,
+        "text": "左右諸將，見于禁向前，各引兵擊之，繡軍大敗，追殺百餘里。繡勢窮力孤，引敗兵投劉表去了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao’s army reformed and the captains mustered. Then Yü Chin went to see his master and told him of the conduct of the Chingchou soldiers and their looting and why he had attacked them."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-016-line-078",
+        "order": 78,
+        "source_block_chunk": 1,
+        "source_block_order": 45,
+        "text": "曹操收軍點將，于禁入見，備言青州之兵，肆行劫掠，大失民望，某故殺之。操曰：「不告我，先下寨，何也？」禁以前言對。操曰：「將軍在匆忙之中，能整兵堅壘，任謗任勞，使反敗為勝，雖古之名將，何以加茲！」乃賜以金器一副，封益壽亭侯；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Why did you not tell me before you made the camp?” Yü Chin related what had occurred. Said Ts‘ao, “When the first thought of a leader in the time of greatest stress is to maintain order and strengthen his defences, giving no thought to slander but shouldering his ​ burdens manfully, and when he thereby turns a defeat into a victory, who, even of the ancient leaders, can excel him?” He rewarded Yü Chin with a service of plate and a marquisate. But he reprimanded Hsiahou Tun for his lack of discipline."
+          }
+        }
+      },
+      {
+        "character_count": 54,
+        "id": "chapter-016-line-079",
+        "order": 79,
+        "source_block_chunk": 2,
+        "source_block_order": 45,
+        "text": "責夏侯惇治兵不嚴之過；又設祭，祭典韋。操親自哭而奠之，顧謂諸將曰：「吾折長子、愛姪，俱無深痛；獨號泣典韋也。」眾皆感歎。次日下令班師。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sacrifices in honour of the dead warrior Tien Wei were instituted. Ts‘ao himself led the wailing and paid due honours. Turning to his offices he said, “I have lost my first born son, but I grieve not so heavily for him as for Tien Wei. I weep for him.” All were sad at the loss of this captain. Then orders were issued to return but nothing will be said here of the march to the capital."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-016-line-080",
+        "order": 80,
+        "source_block_chunk": 1,
+        "source_block_order": 46,
+        "text": "不說曹操還兵許都。且說王則齎詔至徐州，布迎接入府，開讀詔書，─封布為平東將軍，特賜印綬。─又出操私書。王則在呂布面前，極道曹公相敬之意。布大喜。忽報袁術遣人至，布喚入問之。使言：「袁公早晚即皇帝位，立東宮，催取皇妃早到淮南。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Wang Tsê, bearing the imperial decree, reached Hsüchou, he was met by Lü Pu, who conducted him into the residence where the decree was read. It conferred the title General, “Pacificator of the East,” and a special seal accompanied the mandate. The private letter was also handed over and the messenger detailed the high appreciation in which Lü was held by the chief Minister of State. Next came news that a messenger from Yüan Shu had arrived. When he had been introduced he said that Shu’s project of declaring himself Emperor was advancing. He had already built a palace and would speedily choose an Empress and concubines and would come to Huainan."
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-016-line-081",
+        "order": 81,
+        "source_block_chunk": 2,
+        "source_block_order": 46,
+        "text": "」布大怒曰：「反賊焉敢如此！」遂殺來使，將韓胤用枷釘了，遣陳登齎謝表，解韓胤一同王則上許都來謝恩；且答書于操，欲求實授徐州牧。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Has the rebel gone so far?” cried Lü Pu in a rage. He put the messenger to death and Han Yin into the cangue. He drafted a memorial of thanks and sent it to the capital, at the same time sending, too, Han Yin, the unfortunate agent who had arranged the marriage alliance. He also replied to Ts‘ao Ts‘ao’s private letter asking to be confirmed in his governorship."
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-016-line-082",
+        "order": 82,
+        "source_block_chunk": 1,
+        "source_block_order": 47,
+        "text": "操知布絕婚袁術，大喜，遂斬韓胤于市曹。陳登密諫操曰：「呂布豺狼也，勇而無謀，輕於去就，宜早圖之。」操曰：「吾素知呂布狼子野心，誠難久養。非公父子莫能究其情，公當與吾謀之。」登曰：「丞相若有舉動，某當為內應。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao was pleased to hear of the rupture of the marriage arrangement, and forthwith put Han Yin to death in the market place. However, Ch‘ên Têng sent a secret remonstrance to Ts‘ao Ts‘ao, vilifying Lü Pu as cruel, stupid and facile and advising his destruction. “I know Lü Pu quite well,” said Ts‘ao. “He is a wolf with a savage heart, and it will be hard to feed him for long. If it had not been for you and your father I should not have known all the circumstances and you must help me to get rid of him.” “Anything the Minister wishes to do shall have my assistance,” was the reply."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-016-line-083",
+        "order": 83,
+        "source_block_chunk": 2,
+        "source_block_order": 47,
+        "text": "操大喜表贈陳珪治中二千石登為廣陵太守。登辭回操執登手曰「東方之事便以相付。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As a reward Ts‘ao Ts‘ao obtained a grant of grain for the father and a prefecture for the son, who then took his leave. As he was saying farewell Ts‘ao took him by the hand saying, “I shall depend upon you in the eastern affair.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-016-line-084",
+        "order": 84,
+        "source_block_chunk": 1,
+        "source_block_order": 48,
+        "text": "登點頭允諾回徐州見呂布。布問之登言父贈祿某為太守。布大怒曰「汝不為吾求徐州牧而乃自求爵祿汝父教我協同曹公絕婚公路今吾所求終無一獲而汝父子俱各顯貴吾為汝父子所賣耳遂拔劍欲斬之。登大笑曰「將軍何其不明之甚也」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Ch‘ên Têng nodded acquiescence. Then he returned to Lü Pu, who asked him how he had fared. Ch‘ên told him of the gifts to his father, which annoyed Pu. “You did not ask Hsüchou for me, but you got something for yourself. Your father advised me to help Ts‘ao Ts‘ao by breaking off the marriage, and now I get nothing at all of what I asked while you and your father get everything. I have been victimised by your father.” He threatened Ch‘ên with his sword. Ch‘ên Têng only laughed saying, “O how stupid you are, General!” “I! How stupid?”"
+          }
+        }
+      },
+      {
+        "character_count": 68,
+        "id": "chapter-016-line-085",
+        "order": 85,
+        "source_block_chunk": 2,
+        "source_block_order": 48,
+        "text": "」布曰：「吾何不明？」登曰：「吾見曹公，言養將軍譬如養虎，當飽其肉；不飽則將噬人。」曹公笑曰：「不如卿言。吾待溫侯，如養鷹耳，狐兔未息，不敢先飽。饑則為用，飽則颺去。」某問：「誰為狐兔？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“When I saw Ts‘ao, I said that to keep you going was like feeding a tiger. The tiger must be kept fully fed or he would eat men. But Ts‘ao laughed and replied, ‘No; not that. One must treat the marquis like a falcon. Not feed it till the foxes and hares are done. Hungry, the bird is of use; full fed it flies away.’ I asked who were the quarry. He replied ‘Yüan Shu, Sun Ts‘ê, Yüan Shao, Liu Piao, Liu Chang and Chang Lu; these are the foxes and hares.’ ”"
+          }
+        }
+      },
+      {
+        "character_count": 62,
+        "id": "chapter-016-line-086",
+        "order": 86,
+        "source_block_chunk": 3,
+        "source_block_order": 48,
+        "text": "」曹公曰：「淮南袁術、江東孫策、冀州袁紹、荊州劉表、益州劉璋、漢中張魯，皆狐兔也。」布擲劍笑曰：「曹公知我也！」正說話間，忽報袁術軍來取徐州。呂布聞言失驚。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lü Pu threw aside his sword and laughed, saying, “Yes; he understands me.” But just about that time came news of the advance of Yüan Shu on Hsüchou and that frightened Lü Pu."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-016-line-087",
+        "order": 87,
+        "source_block_chunk": 1,
+        "source_block_order": 49,
+        "text": "秦晉未諧吳越鬥婚姻惹出甲兵來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When discord rose ’twixt Ts‘in and Chin, They were attacked by Yüeh and Wu, And when a promised bride ne’er came, An army marched to enforce the claim."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-016-line-088",
+        "order": 88,
+        "source_block_chunk": 1,
+        "source_block_order": 50,
+        "text": "畢竟後事如何。且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "How all this fell out will be shown in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說楊大將獻計欲攻劉備。袁術曰：「計將安出？」大將曰：「劉備軍屯小沛，雖然易取，奈呂布虎踞徐州，前次許他金帛糧馬，至今未與，恐其助備；今當令人送與糧食，以結其心，使其按兵不動，則劉備可擒。先擒劉備，後圖呂布，徐州可得也。」術喜，便具粟二十萬斛，令韓胤齎密書往見呂布。呂布甚喜，重待韓胤。胤回告袁術，術遂遣紀靈為大將，雷簿、陳蘭為副將，統兵數萬，進攻小沛。\n玄德聞知此信，聚眾商議。張飛要出戰。孫乾曰：「今小沛糧寡兵微，如何抵敵？可修書告急於呂布。」張飛曰：「那廝如何肯來！」玄德曰：「乾之言善。」送修書與呂布。書略曰：\n伏自將軍垂念，今備於小沛容身，實拜雲天之德。今袁術欲報私讎，遣紀靈領兵到縣，亡在旦夕，非將軍莫能救。望驅一旅之師，以救倒懸之急，幸甚幸甚！\n呂布看了書，與陳宮計議曰：「前者袁術送糧致書，蓋欲使我不救玄德也。今玄德又來求救，吾想玄德屯軍小沛，未必遂能為我害；若袁術併了玄德，則北連泰山諸將以圖我，我不能安枕矣；不若救玄德。」遂點兵啟程。\n卻說紀靈起兵長驅大進，已到沛縣東南，劄下營寨。晝列旌旗，遮映山川；夜設火鼓，震崩天地，玄德縣中，止有五千餘人，也只得勉強領兵出縣，布陣安營。忽報呂布引軍離縣一里，西南上劄下營寨。紀靈知呂布領兵來救劉備，急令人致書於呂布，責其無信。布笑曰：「我有一計，使袁、劉兩家都不怨我。」乃發使往紀靈、劉備寨中，請二人飲宴。\n玄德聞布相請，即便欲往。關、張曰：「兄長不可去。呂布必有異心。」玄德曰：「我待彼不薄，彼必不害我。」遂上馬而行。關、張隨往。到呂布寨中，入見。布曰：「吾今特解公之危，異日得志，不可相忘。」玄德稱謝。布請玄德坐。關、張按劍於立於背後。人報紀靈到，玄德大驚，欲避之。布曰：「吾特請你二人來會議，勿得生疑。」\n玄德未知其意，心下不安。紀靈下馬入寨，卻見玄德在帳上坐，大驚，抽身便回，左右留之不住。呂布向前一把扯回，如提童稚。靈曰：「將軍欲殺紀靈耶？」布曰：「非也。」靈曰：「莫非殺大耳兒乎？」布曰：「亦非也」。靈曰：「然則為何？」布曰：「玄德與布乃兄弟也，今為將軍所困，故而救之。」靈曰：「若此則殺靈也？」布曰：「無有此理。布平生不好鬥，惟好解鬥。吾今為兩家解之。」靈曰：「請問今日解之之法。」布曰：「吾有一法，從天所決。」乃拉靈入帳與玄德相見。二人各懷疑忌，布乃居中坐，使靈居左，備居右，且教設宴行酒。\n酒行數巡，布曰：「你兩家看我面上，俱各罷兵。」玄德無語。靈曰：「吾奉主公之命，提十萬之兵，專捉劉備，如何罷得？」張飛大怒，拔劍在手，叱曰：「吾雖兵少，覷汝輩如兒戲耳！你比百萬黃巾何如？你敢傷我哥哥！」關公急止之曰：「且看呂將軍如何主意，那時各回營寨廝殺未遲。」呂布曰：「我請你兩家解鬥，須不教你廝殺。」\n這邊紀靈不忿，那邊張飛只要廝殺，布大怒，教「左右！取我戟來！」布提畫戟在手。紀靈、玄德、盡皆失色。布曰：「我勸你兩家不要廝殺，盡在天命。」令左右接過畫戟，去轅門外遠遠插定，乃回顧紀靈、玄德曰：「轅門離中軍一百五十步，吾若一箭射中戟上小枝，你兩家罷兵；如射不中時，各自回營，安排廝殺。有不從吾言者，併力拒之。」紀靈私忖：「戟在一百五十步之外，安能便中？且落得應允，待其不中，那時憑我廝殺。」便一口許諾。玄德自無不允。布都教坐，再各飲一杯酒。\n酒畢。布教取弓箭來。玄德暗祝曰：「只願他射得中便好！」只見呂布挽起袍袖，搭上箭，扯滿弓，叫一聲「著！」正是：\n弓開如秋月行天，箭去似流星落地。\n一箭正中畫戟小枝。帳上帳下將校，齊聲喝采。後人有詩讚之曰：\n溫侯神射世間稀，曾向轅門獨解危。\n落日果然欺后羿，號猿直欲勝由基。\n虎觔弦響弓開處，雕羽翎飛箭到時。\n豹子尾搖穿畫戟，雄兵十萬脫征衣。\n當下呂布射中畫戟小枝，呵呵大笑，擲弓於地，執紀靈、玄德之手曰：「此天令你兩家罷兵也！」喝教軍士斟酒來，各飲一大觥。玄德暗稱慚愧。紀靈默然半晌，告布曰：「將軍之言，不敢不聽；奈紀靈回去，主人如何肯信？」布曰：「吾自作書覆之便了。」酒又數巡，紀靈求書先回。布謂玄德曰：「非我則公危矣。」玄德拜謝，與關、張回。次日，三處軍馬都散。\n不說玄德入小沛，呂布歸徐州。卻說紀靈回淮南見袁術，說呂布轅門射戟解和之事，呈上書信。袁術大怒曰：「呂布受吾許多糧米，反以此兒戲之事，偏護劉備；吾當自提重兵，親征劉備，兼討呂布！」紀靈曰：「主公不可造次。呂布勇力過人，兼有徐州之地；若布與備首尾相連，不易圖也。靈聞布妻嚴氏有一女，年已及笄。主公有一子，可令人求親於布。布若嫁女於主公，必殺劉備。此乃『疏不間親之計』也。」\n袁術從之，即日遣韓胤為媒，齎禮物往徐州求親。胤到徐州見布，稱說：「主公仰慕將軍，欲求令嬡為兒婦，永結秦晉之好。」布入謀於妻嚴氏。原來呂布有二妻一妾：先娶嚴氏為正妻，後娶貂蟬為妾；及居小沛時，又娶曹豹之女為次妻。曹氏先亡無出，貂蟬亦無所出，惟嚴氏生一女，布最鍾愛。\n當下嚴氏謂布曰：「吾聞袁公路久鎮淮南，兵多糧廣，早晚將為天子。若成大事，則吾女有后妃之望；只不知他有幾子？」布曰：「止有一子。」妻曰：「既如此，即當許之。縱不為皇后，吾徐州亦無憂矣。」布意遂決，厚款韓胤，許了親事。韓胤回報袁術。術即備聘禮，仍令韓胤送至徐州。呂布受了，設席相待，留於館驛安歇。\n次日，陳宮竟往館驛內拜望韓胤，講禮畢，坐定。宮乃叱退左右，對胤曰：「誰獻此計？教袁公與奉先聯姻，意在取劉玄德之頭乎？」胤失驚，起謝曰：「乞公臺勿洩！」宮曰：「吾自不洩，只恐其事若遲，必被他人識破，事將中變。」胤曰：「然則奈何？願公教之。」宮曰：「吾見奉先，使其即日送女就親，何如？」胤大喜，稱謝曰：「若如此，袁公感佩明德不淺矣！」\n宮遂辭別韓胤，入見呂布曰：「聞公女許嫁袁公路，甚喜。但不知於何日結親？」布曰：「尚容徐議。」宮曰：「古者自受聘至成婚之期，各有定例：天子一年，諸侯半年，大夫一季，庶民一月。」布曰：「袁公路天賜國寶，早晚當為帝，今從天子例，可乎？」宮曰：「不可。」布曰：「然則仍從諸侯例？」宮曰：「亦不可。」布曰：「然則將從卿大夫例矣？」宮曰：「亦不可。」布笑曰：「公豈欲吾依庶民例耶？」宮曰：「非也。」布曰：「然則公意欲如何？」\n宮曰：「方今天下諸侯，互相爭雄；今公與袁公路結親，諸侯保無有嫉妒者乎？若復遠擇吉期，或竟乘我良辰，伏兵半路以奪之，如之奈何？為今之計，不許便休；既已許之，當趁諸侯未知之時，即便送女到壽春，另居別館，然後擇吉成親，萬無一失也。」布喜曰：「公臺之言甚當。」遂入告嚴氏。連夜具辦妝奩，收拾寶馬香車，令宋憲、魏續一同韓胤送女前去。鼓樂喧天，送出城外。\n時陳元龍之父陳珪，養老在家，聞鼓樂之聲，遂問左右。左右告以故。珪曰：「此乃『疏不間親之計』也。玄德危矣。」遂扶病來見呂布。布曰：「大人何來？」珪曰：「聞將軍死，故特來弔喪。」布驚曰：「何出此言？」\n珪曰：「前者袁公路以金帛送公，欲殺劉玄德，而公以射戟解之；今忽來求親，其意蓋欲以公女為質，隨後就來攻玄德而取小沛。小沛亡，徐州危矣。且彼或來借糧，或來借兵。公若應之，是疲於奔命，而又結怨於人；若其不允，是棄親而啟兵端也。況聞袁術已有稱帝之意，是造反也。彼若造反，則公乃反賊親屬矣，得無為天下所不容乎？」\n布大驚曰：「陳宮誤我！」急令張遼引兵追趕之。三十里之外將女搶歸；連韓胤都拏回監禁，不放歸去；卻令人回復袁術，只說女兒妝奩未備，俟備畢便自送來。陳珪又說呂布，使解韓胤赴許都。布猶豫未決。忽人報：「玄德在小沛招軍買馬，不知何意？」布曰：「此為將者本分事，何足為怪？」\n正話間，宋憲、魏續至，告布曰：「我二人奉明公之命，往山東買馬，買得好馬三百餘匹；回至沛縣界首，被強寇劫去一半，打聽得是劉備之弟張飛，詐裝山賊，搶劫馬匹去了。」呂布聽了大怒，隨即點兵往小沛，來攻張飛。玄德聞之大驚，慌忙引軍出迎。\n兩陣圓處，玄德出馬曰：「兄長何故領兵到此？」布指罵曰：「我轅門射戟，救你大難，你何故奪我馬匹？」玄德曰：「備因缺馬，令人四下收買。安敢奪兄馬匹？」布曰：「你便使張飛奪了我好馬一百五十匹，尚自抵賴！」張飛挺槍出馬曰：「是我奪了你好馬！你今待怎麼？」布罵曰：「環眼賊！你累次藐視我！」飛曰：「我奪你馬你便惱，你奪我哥哥的徐州便不說了！」\n布挺戟出馬來戰張飛，飛亦挺槍來迎。兩個酣戰一百餘合，未見勝負。玄德恐有疏失，急鳴金收軍入城。呂布分軍四面圍定。玄德喚張飛責之曰：「都是你奪他馬匹，惹起事端！如今馬匹在何處？」飛曰：「都寄在各寺院內。」玄德隨令人出城，至呂布營中說情，願送還馬匹，兩相罷兵。布欲從之。陳宮曰：「今不殺劉備，久後必為所害。」\n布聽之，不從所請，攻城愈急。玄德與麋竺、孫乾商議。孫乾曰：「曹操所恨者，呂布也。不若棄城走許都，投奔曹操，借軍破布，此為上策。」玄德曰：「誰可當先破圍而出？」飛曰：「小弟情願死戰。」玄德令飛在前；雲長在後；自居其中，保護老少。當夜三更，乘著月明出北門而走，正遇宋憲、魏續，被翼德一陣殺退，得出重圍。後面張遼趕來，關公敵住。呂布見玄德去了，也不來趕，隨即入城安民，令高順守小沛，自己仍回徐州去了。\n卻說玄德前奔許都，到城外下寨，先使孫乾來見曹操，言被呂布追迫，特來相投。操曰：「玄德與吾兄弟也。」便請入城相見。次日，玄德留關、張在城外，自帶孫乾、糜竺入見操。操待以上賓之禮。玄德備訴呂布之事。操曰：「布乃無義之輩，吾與賢弟併力誅之。」玄德稱謝。操設宴相待，至晚送出。荀彧入見曰：「劉備英雄也，今不早圖，後必為患。」\n操不答。彧出，郭嘉入。操曰：「荀彧勸我殺玄德，當如何？」嘉曰：「不可。主公興義兵，為百姓除暴，惟仗信義以招俊傑，猶懼其不來也；今玄德素有英雄之名，以困窮而來投，若殺之，是害賢也。天下智謀之士，聞而自疑，將裹足不前，主公與誰定天下乎？夫除一人之患，以阻四海之望，安危之機，不可不察。」\n操大喜曰：「君言正合吾心。」次日，即表薦劉備領豫州牧。程昱諫曰：「劉備終不為人之下，不如早圖之。」操曰：「方今正用英雄之時，不可殺一人而失天下之心，此郭奉孝與吾有同見也。」遂不聽昱言，以兵三千，糧萬斛，送與玄德，使往豫州到任，進兵屯小沛，招集原散之兵，攻呂布。玄德至豫州，令人約會曹操。\n操正欲起兵，自往征呂布，忽流星馬報說張濟自關中引兵攻南陽，為流矢所中而死；濟姪張繡統其眾，用賈詡為謀士，結連劉表，屯兵宛城，欲興兵犯闕奪駕。操大怒，欲興兵討之，又恐呂布來攻許都，乃問計於荀彧。彧曰：「此易事耳。呂布無謀之輩，見利必喜；明公可遣使往徐州，加官賜賞，令與玄德解和。布喜，則不思遠圖矣。」操曰：「善。」遂差奉軍都尉王則，齎官誥併和解書，往徐州去訖；一面起兵五十萬，親討張繡。分軍三路而行，以夏侯惇為先鋒。軍馬至淯水下寨。\n賈詡勸張繡曰：「操兵勢大，不可與敵，不如舉城投降。」張繡從之，使賈詡至操寨通款。操見詡應對如流，甚愛之，欲用為謀士。詡曰：「某昔從李榷，得罪天下；今從張繡，言聽計從，未忍棄之。」乃辭去。次日引繡來見操，操待之甚厚。引兵入宛城屯紮，餘軍分屯城外，寨柵聯絡十餘里。一住數日。繡每日設宴請操。一日操醉，退入寢所，私問左右曰：「此城中有妓女否？」操之兄子曹安民，知操意，乃密對曰：「昨晚小姪兒窺見館舍之側，有一婦人，生得十分美麗。問之，即繡叔張濟之妻也。」\n操聞言，便令安民領五十甲兵往取之。須臾，取到軍中。操見之，果然美麗。問其姓名，婦答曰：「妾乃張濟之妻鄒氏也。」操曰：「夫人識吾否？」鄒氏曰：「久聞丞相威名，今夕幸得瞻拜。」操曰：「吾為夫人，故特納張繡之降；不然滅族矣。」鄒氏拜曰：「實感再生之恩。」操曰：「今日得見夫人，乃天幸也。今宵願同枕席，隨吾還都，安享富貴，何如？」\n鄒氏拜謝。是夜共宿於帳中。鄒氏曰：「久住城中，繡必生疑，亦恐外人議論。」操曰：「明日同夫人寨中去住。」次日，移于城外安歇，喚典韋就中軍帳房外宿衛。他人非奉呼喚，不許輒入，因此內外不通。操每日與鄒氏取樂，不想歸期。張繡家人密報繡。繡怒曰：「操賊辱我太甚！」便請賈詡商議。詡曰：「此事不可洩漏。來日等操出帳議事，如此如此。」\n次日，操在帳中，張繡入告曰：「新降兵多有逃亡者，乞移屯中軍。」操許之，繡乃移屯其軍，分為四寨，刻期舉事。因畏典韋勇猛，急切難近，乃與偏將胡車兒商議。那胡車兒力能負五百斤，日行七百里，亦異人也。當下獻計于繡曰：「典韋之可畏者，雙鐵戟耳。主公明日可請他來吃酒，使盡醉而歸。那時某便溷入他跟來軍士數內，偷入帳房，盜其戟，此人不足畏矣。」\n繡甚喜，預先準備弓箭甲兵，告示各寨。至期令賈詡致意請典韋到寨，殷勤待酒。至晚醉歸，胡車兒雜在眾人隊裏，直入大寨。是夜曹操于帳中，與鄒氏飲酒。忽聽帳外人言馬嘶，操使人觀之。回報是張繡軍夜巡，操乃不疑。時近二更，忽聞寨後吶喊。報說草車上火起。操曰：「軍中失火，勿得驚動。」\n須臾，四下裏火起，操始著忙，急喚典韋。韋方醉臥，睡夢中聽得金鼓喊殺之聲，便跳起身來，卻尋不見了雙戟。時敵兵已到轅門，韋急掣步卒腰刀在手。只見門首無數軍馬，各挺長槍，搶入寨來。韋奮力向前，砍死二十餘人。軍馬方退，步軍又到，兩邊槍如葦列。韋身無片甲，上下被數十槍，兀自死戰。刀砍缺不堪用，韋即棄刀，雙手提著兩個軍人迎敵，擊死者八九人。群賊不敢近，只遠遠以箭射之。箭如驟雨，韋猶死拒寨門。爭奈寨後賊軍已入，韋背上又中一槍，乃大叫數聲。血流滿地而死。死了半晌，還無一人敢從前門而入者。\n卻說曹操賴典韋當住寨門，乃得從寨後上馬逃奔，只有曹安民步隨，操右臂中了一箭，馬亦中了三箭。虧得那馬是大宛良馬，熬得痛，走得快。剛剛走到淯水河邊，賊兵追至，安民被砍為肉泥。操急驟馬衝波過河，纔上得岸，賊兵一箭射來，正中馬眼，那馬撲地倒了。操長子曹昂，即以己所乘之馬奉操。操上馬急奔。曹昂卻被亂箭射死。操乃走脫。路逢諸將，收集殘兵。\n時夏侯惇所領青州之兵，乘勢下鄉，劫掠民家；平虜校尉于禁，即將本部軍于路剿殺，安撫鄉民。青州兵走回，迎操泣拜于地，言于禁造反，趕殺青州軍馬。操大驚。須臾，夏侯惇、許褚、李典樂進都到。操言于禁造反，可整兵迎之。\n卻說于禁見操等俱到，乃引軍射住陣角，鑿塹安營。\n告之曰：「青州軍言將軍造反，今丞相已到，何不分辯，乃先立營寨耶？」于禁曰：「今賊追兵在後，不時即至；若不先準備，何以拒敵？分辯小事，退敵大事。」安營方畢，張繡軍兩路殺至。于禁身先出寨迎敵。繡急退兵。左右諸將，見于禁向前，各引兵擊之，繡軍大敗，追殺百餘里。繡勢窮力孤，引敗兵投劉表去了。\n曹操收軍點將，于禁入見，備言青州之兵，肆行劫掠，大失民望，某故殺之。操曰：「不告我，先下寨，何也？」禁以前言對。操曰：「將軍在匆忙之中，能整兵堅壘，任謗任勞，使反敗為勝，雖古之名將，何以加茲！」乃賜以金器一副，封益壽亭侯；責夏侯惇治兵不嚴之過；又設祭，祭典韋。操親自哭而奠之，顧謂諸將曰：「吾折長子、愛姪，俱無深痛；獨號泣典韋也。」眾皆感歎。次日下令班師。\n不說曹操還兵許都。且說王則齎詔至徐州，布迎接入府，開讀詔書，─封布為平東將軍，特賜印綬。─又出操私書。王則在呂布面前，極道曹公相敬之意。布大喜。忽報袁術遣人至，布喚入問之。使言：「袁公早晚即皇帝位，立東宮，催取皇妃早到淮南。」布大怒曰：「反賊焉敢如此！」遂殺來使，將韓胤用枷釘了，遣陳登齎謝表，解韓胤一同王則上許都來謝恩；且答書于操，欲求實授徐州牧。\n操知布絕婚袁術，大喜，遂斬韓胤于市曹。陳登密諫操曰：「呂布豺狼也，勇而無謀，輕於去就，宜早圖之。」操曰：「吾素知呂布狼子野心，誠難久養。非公父子莫能究其情，公當與吾謀之。」登曰：「丞相若有舉動，某當為內應。」操大喜，表贈陳珪治中二千石，登為廣陵太守。登辭回，操執登手曰：「東方之事，便以相付。」\n登點頭允諾，回徐州見呂布。布問之，登言父贈祿，某為太守。布大怒曰：「汝不為吾求徐州牧，而乃自求爵祿！汝父教我協同曹公，絕婚公路，今吾所求，終無一獲，而汝父子俱各顯貴，吾為汝父子所賣耳！」遂拔劍欲斬之。登大笑曰：「將軍何其不明之甚也！」布曰：「吾何不明？」登曰：「吾見曹公，言養將軍譬如養虎，當飽其肉；不飽則將噬人。」曹公笑曰：「不如卿言。吾待溫侯，如養鷹耳，狐兔未息，不敢先飽。饑則為用，飽則颺去。」某問：「誰為狐兔？」曹公曰：「淮南袁術、江東孫策、冀州袁紹、荊州劉表、益州劉璋、漢中張魯，皆狐兔也。」布擲劍笑曰：「曹公知我也！」正說話間，忽報袁術軍來取徐州。呂布聞言失驚。正是：\n秦晉未諧吳越鬥，婚姻惹出甲兵來。\n畢竟後事如何。且看下文分解。",
+    "title": "第十六回 呂奉先射戟轅門　　　曹孟德敗師淯水"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-016.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

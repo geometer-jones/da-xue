@@ -1,0 +1,762 @@
+{
+  "chapter": {
+    "character_count": 4046,
+    "id": "chapter-073",
+    "order": 73,
+    "reading_unit_count": 57,
+    "reading_units": [
+      {
+        "character_count": 102,
+        "id": "chapter-073-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說曹操退兵至斜谷，孔明料他必棄漢中而走，故差馬超等諸將，分兵十數路，不時攻劫；因此操不能久住。又被魏延射了一箭，急急班師。三軍銳氣墮盡。前隊纔行，兩下火起，乃是馬超伏兵追趕。曹兵人人喪膽。操令軍士急行，曉夜奔走無停；直至京兆，方始安心。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Yüan-tê sent Liu Fêng, Mêng Ta and Wang P‘ing to take Shangyung. Shên T‘ang and his colleagues, knowing that Ts‘ao Ts‘ao had retreated, offered their submission. After confidence had been restored among the people, Yüan-tê rewarded his army generously, and they were all joyful. It was after this that the general body of the officers decided to urge Yüan-tê to assume the title of “Emperor,” but they dared not tell him so. However, they sent up a petition to K‘ung-ming, who replied that he had already decided on this course. So he and Fa Chêng headed a deputation that went in to see their lord."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-073-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "且說玄德命劉封、孟達、王平等，攻取上庸諸郡。申耽等聞操已棄漢中而走，遂皆投降。玄德安民已定，大賞三軍，人心大悅。於是眾將皆有推尊玄德為帝之心；未敢逕啟，卻來稟告諸葛軍師。孔明曰：「吾意已有定奪了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They said, “Now that Ts‘ao Ts‘ao really holds the reins of authority the people are without a king. Our lord, your kindness and sense of justice have spread throughout the empire. You have restored peace over this 'Land of Streams,' and your becoming Emperor would be according to God’s will and the desire of the people. Then by right and title you could destroy rebels. This matter should not be delayed and we pray you to choose the auspicious day.”"
+          }
+        }
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-073-line-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "」隨引法正等入見玄德曰：「今曹操專權，百姓無主；主公仁義著於天下，今已撫有兩川之地，可以應天順人，即皇帝位，名正言順，以討國賊。事不宜遲，便請擇吉。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Yuan-tê evinced great surprise, and replied, “Your words, O Commander of the Army, are wrong. Although I am of the imperial house, yet I am but a minister; and to do this thing would be rebellion against Han.”"
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-073-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "玄德大驚曰：「軍師之言差矣。劉備雖然漢之宗室，乃臣子也；若為此事，是反漢矣。」孔明曰：「非也。方今天下分崩，英雄並起，各霸一方，四海才德之士，捨死亡生而事其上者，皆欲攀龍附鳳，建立功名也。今主公避嫌守義，恐失眾人之望。願主公熟思之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming replied, “Not so. To-day the empire is riven and many of the bolder spirits have seized upon, and claim ​ the rule of, various portions. The talented of the empire and the virtuous among officers, who have risked death and lost their lives in serving those above them, all desire to have the opportunity of serving an Emperor and doing service for a Throne. Now, if you insist on modestly maintaining your righteous way I fear that you will lose popular support. My lord, I would that you should reflect upon this.”"
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-073-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "」玄德曰：「要吾僭居尊位，吾必不敢。可再商議長策。」諸將齊言曰：「主公若只推卻，眾心解矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“But you desire me to usurp a place of great honour in the state, and I dare not. Let there be more delay and discussion.”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-073-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "孔明曰：「主公平生以義為本，未肯便稱尊號。今有荊襄、兩川之地，可暫為漢中王。」玄德曰：「汝等雖欲尊吾為王，不得天子明詔，是僭也。」孔明曰：「今宜從權，不可拘執常理。」張飛大叫曰：「異姓之人，皆欲為君，何況哥哥乃漢朝宗派！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But with one voice they said, “Our lord, if you reject this the hearts of the people will turn from you.” “My lord,” said K‘ung-ming, “you have made rectitude your motto all your life. If you really object to the most honoured title, then, since you have Chingchou and Hsiangyang, take the title temporarily of 'Prince of Hanchung.”"
+          }
+        }
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-073-line-007",
+        "order": 7,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "莫說漢中王，就稱皇帝，有何不可！」玄德叱曰：「汝勿多言！」孔明曰：「主公宜從權變，先進位漢中王，然後表奏天子，未為遲也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Gentlemen, though you may desire to honour me by the title of 'Prince,' yet, without an edict from the Emperor, such action would be usurpation.”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-073-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "玄德再三推遲不過，只得依允。建安二十四年秋七月，築壇於沔陽，方圓九里，分布五方，各設旌旗儀仗。群臣皆依次序排列。許靖、法正請玄德登壇，進冠冕璽綬訖，面南而坐，受文武官員拜賀為漢中王。子劉禪立為王世子。封許靖為太傅，法正為尚書令。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Said K‘ung-ming, “The time demands recognition of the actual state of authority, and not a rigid adherence to all the rules of propriety.”"
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-073-line-009",
+        "order": 9,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "諸葛亮為軍師，總理軍國重事。封關羽、張飛、趙雲、馬超、黃忠為五虎大將軍；魏延為漢中太守。其餘各擬功勳定爵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And Chang Fei roared out, “All sorts of people with all sorts of names are making themselves rulers; how much more ought you, O Brother, who are of the dynastic stock? It ought not to be 'Prince of Hanchung' but 'Emperor.' What prevents it?”"
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-073-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "玄德既為漢中王，遂修表一道，差人齎赴許都。表曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Brother, say no more,” said Yüan-tê, roughly."
+          }
+        }
+      },
+      {
+        "character_count": 53,
+        "id": "chapter-073-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "備以具臣之才，荷上將之任，總督三軍，奉辭於外；不能掃除寇難，靖匡王室，久使陛下聖教陵遲；六合之內，否而未泰，惟憂反側，疢如疾首。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My lord,” said K‘ung-ming, “it is fitting to follow political changes and suit one’s conduct to circumstances. Wherefore first take the princedom and then memorialise the Throne.”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-073-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "曩者，董卓造為亂階，自是之後，群凶縱橫，殘剝海內。賴陛下聖德威臨，人臣同應，或忠義奮討，或上天降罰，暴逆並殪，以漸冰消。惟獨曹操，久未梟除，侵擅國權，恣心極亂。臣昔與車騎將軍董承圖謀討操，事機不密，承見陷害。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As there seemed no option, Yüan-tê listened and complied. In the twenty-fourth year (219 a.d. ), in the seventh month, an altar was set up at Mienyang (in Hupeh), square and nine li about, which was set around with the proper flags and banners and symbols, and thereon, in the presence of all his officers assembled according to their rank, and at the request of the two ministers Hsü Ching and Fa Chêng, Yüan-tê received the head dress and seal of a prince. Then he took his seat, facing the south as a ruler should, and received the salutes and felicitations of all his officers as Prince of Hanchung. And his son Liu Ch‘an was nominated his heir-apparent."
+          }
+        }
+      },
+      {
+        "character_count": 57,
+        "id": "chapter-073-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "臣播越失據，忠義不果，遂使操窮凶極逆。主后戮殺，皇子鴆害。雖糾合同盟，念在奮力；懦弱不武。歷年未效。常恐殞越，辜負國恩；寤寐永歎，夕惕若厲。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsü Ching was given the title of Royal Preceptor; Fa Chêng that of a president of a Board. Chuko Liang was reappointed Commander-in-chief of the Forces, with the additional powers of control over the whole state policy. The two brothers, with Chao Yün, Huang Chung and Ma Ch‘ao, were the Five Tiger Leaders. Wei Yen was made Governor of Hanchung, and all the others who had assisted were given ranks and offices."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-073-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "今臣群僚，以為在昔虞書，敦敘九族，庶明勵冀，帝王相傳，此道不廢。周監二代，並建諸姬，實賴普、鄭夾輔之力。高祖龍興，尊王之弟，大啟九國，卒斬諸呂，以安大宗。今操惡直醜正，實繁有徒，包藏禍心，篡盜已顯；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ As soon as the investiture was completed, Liu Pei composed a memorial and sent it to the capital. This is the document:— “I, Pei, have but ordinary talents, yet was I made a general of high rank and led a great army. Though I received a commission to purge the empire of rebels I was unable to cleanse it and so renew the tranquillity to Your Majesty’s house and restore the dynasty. Too long have I delayed to spread Your Majesty’s sacred governance. The world is evil and not in good case, and as I sorrowfully think it over and over I am distressed as one in severe pain."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-073-line-015",
+        "order": 15,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "既宗室微弱，帝族無位，斟酌古式，依假權宜：上臣為大司馬漢中王。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Rebellion began with Tung Cho, and all kinds of evils have spread abroad; cruelty and ferocity have become rife. Strong in faith in Your Majesty’s sacred virtue and inspiring presence, many banded together to help. The loyal exerted themselves to destroy the rebels, but others of them were smitten of heaven. The fierce and the contumacious have been exterminated, and gradually rebellion has melted away."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-073-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "臣伏自三省，受國厚恩，荷任一方，陳力未效，所獲已過，不宜復忝高位，以重罪謗。群僚見逼，迫臣以義。臣退惟寇賊不梟，國難未已；宗廟傾危，社稷將墜；誠臣憂心碎首之日。若應權通變，以寧靜聖朝，雖赴水火，所不得辭。輒順眾議，拜受印璽，以崇國威。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Only Ts‘ao Ts‘ao now remains, too long unpunished. He has arrogated to himself the authority of the state. His wicked heart is very rebellious. Once I, with the officer of high rank Tung Ch'êng, conspired against him, but the plot was discovered and my fellow conspirator suffered. Thenceforward I was a wanderer and my loyalty availed nothing. It only allowed Ts‘ao further licence and liberty to do evil, till he dared even to accomplish the death of the Empress and the destruction of her sons. Although we might band together and form associations, yet, with all our energy, we had to recognise that we were too weak for war. Wherefore the years passed and nothing was accomplished. In constant fear of destruction, we even forgot our duty to the state. Waking and sleeping we sighed, and our nights were times of anxiety."
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-073-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "仰惟爵號，位高寵厚；俯思報效。憂深責重；驚怖惕息，如臨於谷，敢不盡力輸誠，獎勵六師，率齊群義，應天順時，撲討兇逆，以寧社稷？謹拜表以聞。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Now my fellows consider that history has repeated itself. They attach the utmost importance to the family and would manifest it with all their might. Hereditary succession of rulers is still a principle. The Rulers of Chou, taking the two preceding dynasties as models, strengthened its position through all the states, and it reinforced itself with the support of Chin and Chêng. When the great Founder of the Hans came into his own he ennobled his whole family. Later, the dynasty had to issue a general command throughout the whole of the nine divisions in order to destroy the widespread family of Lu."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-073-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "表到許都，曹操在鄴郡聞知玄德自立為漢中王，大怒曰：「織蓆小兒，安敢如此！吾誓滅之！」即時傳令，盡起傾國之兵，赴兩川與漢中王決雌雄。一人出班諫曰：「大王不可因一時之怒，親勞車駕遠征。臣有一計，不須張弓隻箭，令劉備在蜀自受其禍；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Now Ts‘ao is an enemy of all rectitude, and his followers are all evil. His treachery is manifest. Since the members of the imperial clan are few and weak the clan is not honoured. Having reflected upon the ancient models and being desirous of temporary alleviation, my fellows have made me assume the title of Prince of Hanchung' with the addition of Ta-ssŭ-ma . ​ I have deeply considered these things. If one receive kindness from the Throne and accept the responsibility for a portion of the state and fail, then such a fault would only be made the more serious by holding high rank and thereby increasing the burden of reproach. But my fellows have urged me, and they have convinced me that it would be right; and, should I refuse, the wicked will not be destroyed and the danger to the state will not be removed. The temple of your ancestors is in danger, the imperial prerogatives are failing. A faithful servant, who in the day of tribulation can undertake a suitable policy whereby to preserve the dynasty, should not refuse his help at any cost. Wherefore I have yielded and accepted the position for the glory of the state."
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-073-line-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "待其兵衰力盡，只須一將往征之，便可成功。」操視其人，乃司馬懿也。操喜問曰：「仲達有何高見？」懿曰：「江東孫權以妹嫁劉備，而又乘間竊取回去；劉備又據占荊州不還；彼此俱有切齒之恨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Humbly I think of such a title and its exalted position and the favour vouchsafed me, and I would endeavour to show true gratitude. My anxiety is deep, for the responsibility is heavy. I am as one on the brink of a great gulf. I must surely exert myself to the utmost and encourage my armies and lead all disciples of rectitude, in accordance with the will of heaven and as occasion serves, to smite rebellion so as to restore the dynasty.”"
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-073-line-020",
+        "order": 20,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "今可差一舌辯之士，齎書往說孫權，使興兵取荊州，劉備必發兩川之兵來救荊州。那時大王興兵去取漢川，令劉備首尾不能相救，勢必危矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When this memorial reached the capital, Ts‘ao Ts‘ao was in his palace at Puyeh and it annoyed him greatly. “How dare this mean weaver of straw shoes behave thus?” said he. “Now I swear that I will destroy him.” So he issued orders for the whole force of the state to go out against Hsich‘uan to wage fierce war with the new Prince of Hanchung."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-073-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "操大喜，即修書令滿寵為使，星夜投江東來見孫權。權知滿寵到，遂與謀士商議。張昭進曰：「魏與吳本無讎；前因聽諸葛之說詞，致兩家連年征戰不息，生靈遭其塗炭。今滿伯寧來，必有講和之意，可以禮接之。」權依其言，令眾謀士接滿寵入城相見。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But a remonstrance came from the mouth of Ssŭma I. “Let not the great Prince trouble himself to go on a distant expedition because of a temporary annoyance. I can propose a plan of which the execution will need not the bending of a single bow, and yet it will make Liu Pei bring down disaster upon his own head. When his army shall have become exhausted, it will only be necessary to send one single captain against him and victory will be ours.” “What is your exalted view, my friend?” said Ts‘ao Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-073-line-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "禮畢，權以賓禮待寵。寵呈上操書，曰：「吳、魏自來無讎，皆因劉備之故，致生釁隙。魏王差某到此，約將軍攻取荊州，魏王以兵臨漢川，首尾夾擊。破劉之後，共分疆土，誓不相侵。」孫權覽書畢，設筵相待滿寵，送歸館舍安歇。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Sun Ch'üan’s sister is wife to Liu Pei, but Sun has found an occasion to steal away the bride. Liu Pei is in possession of Chingchou still, and he and Sun are bitter enemies. Therefore send some able speaker with a letter to Wu to persuade him to send an army to recover Chingchou. That will draw thither all the armies of Hsich‘uan, when you can send your army to Han and Ch‘uan. Liu Pei will be helpless and his strength will be wasted.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-073-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "權與眾謀士商議。顧雍曰：「雖是說詞，其中有理。今可一面送滿寵回，約會曹操，首尾相擊；一面使人過江探雲長動靜，方可行事。」諸葛瑾曰：「某聞雲長自到荊州，劉備娶與妻室，先生一子，次生一女。其女尚幼，未許字人。某願往與主公世子求婚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The scheme pleased Ts‘ao Ts‘ao. He at once drew up a letter and sent it by the hand of Man Ch‘ung, who soon arrived in Chiangtung. As soon as Sun Ch'üan knew of the mission, he summoned his advisers to consult. ​ Chang Chao said, “Wei and Wu are primarily enemies because of the dissension fomented by the words of Chuko. They have been fighting for several years and many lives have been lost. Now this messenger has surely come to discuss terms of friendship, and he should be welcomed. On the strength of this, Man Ch‘ung was well received and conducted into the city and into the presence of Sun Ch'üan. He presented his letters at the conclusion of the ceremonies of reception and declared his mission."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-073-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "若雲長肯許，即與雲長計議共破曹操；若雲長不肯，然後助曹取荊州。」孫權用其謀，先送滿寵回許都；卻遣諸葛瑾為使，投荊州來。入城見雲長禮畢。雲長曰：「子瑜此來何意？」謹曰：「特來求結兩家之好。吾主吳侯有一子，甚聰明。聞將軍有一女，特來求親。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Wu and Wei have no fundamental quarrel, and their dissension has been brought about by Liu Pei. My master sends me to covenant with you for an attack on Chingchou, while he goes against Han and Ch‘uan. This double attack being successful, the conquered country can be divided between you two and you can both swear to respect each other’s territory.” Having read the letter, Sun Ch'üan prepared a banquet in honour of Man Ch‘ung and then sent him to the guest-house to rest while he discussed the matter with his council of advisers."
+          }
+        }
+      },
+      {
+        "character_count": 53,
+        "id": "chapter-073-line-025",
+        "order": 25,
+        "source_block_chunk": 3,
+        "source_block_order": 14,
+        "text": "兩家結好，併力破曹。此誠美事，請君侯思之。」雲長勃然大怒曰：「吾虎女安肯嫁犬子乎！不看汝弟之面，立斬汝首！再休多言！」遂喚左右逐出。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Said Ku Yung, “Although the messenger’s speech was all special pleading it was correct in form. I propose that the messenger be allowed to return and that a covenant be made with Ts‘ao Ts‘ao for joint attack. In addition, let spies be sent over the river to find out Kuan Yü's movements, and then we may act.”"
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-073-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "瑾抱頭鼠竄，回見吳侯；不敢隱匿，遂以實告。權大怒曰：「何太無禮耶！」便喚張昭等武官員，商議取荊州之策。步騭曰：「曹操久欲篡漢，所懼者劉備也；今遣使來令吳興兵吞蜀，此嫁禍於吳也。」權曰：「孤亦欲取荊州久矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chuko Chin said, “I hear that since Kuan Yü has been in Chingchou, Liu Pei has found him a wife, who has borne him a son and a daughter. The daughter is too young to have been betrothed, wherefore let me go to ask her in marriage with your heir. If Kuan Yü agree, then we can arrange with him to attack Ts‘ao. If Kuan Yü refuse, then let us aid Ts‘ao in an attack on Chingchou.” Sun took this advice. So he sent Man Ch‘ung away and sent Chuko Chin to Chingchou to try to arrange the betrothal. Chuko Chin was received; and when the time came to state the reason for his coming, Kuan Yü asked him bluntly what he had come for."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-073-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "」騭曰：「今曹仁見屯兵於襄陽、樊城，又無長江之險，旱路可取荊州，如何不取，卻令主公動兵？只此便見其心。主公可遣使去許都見操，令曹仁旱路先起兵取荊州，雲長必掣荊州之兵而取樊城。若雲長一動，主公可遣一將，暗取荊州，一舉可得矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have come seeking to ally the two houses. My master, the Marquis of Wu, has a son who is quite clever. Hearing that you have a daughter, General, I ask her in marriage, whereby the two houses may join in an attack on Ts‘ao Ts‘ao. This would be an admirable result and I pray you to consider the proposal.” But the warrior flared up. “How can my tiger daughter marry with a dog’s whelp? Were it not for your brother I would take your head. Say no more!” Kuan Yü called his servants to hustle forth the hapless messenger, who ran away with his hands over his head too astonished to look any one in the face. And reaching his ​ own place he dared not hide the manner of his reception, but told the whole truth."
+          }
+        }
+      },
+      {
+        "character_count": 62,
+        "id": "chapter-073-line-028",
+        "order": 28,
+        "source_block_chunk": 3,
+        "source_block_order": 15,
+        "text": "」權從其議，即時遣使過江，上書曹操，陳說此事。操大喜，發付使者先回，隨遣滿寵往樊城助曹仁為參謀官，商議動兵；一面馳檄東吳，令領兵水路接應，以取荊州。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What ruffianism!” exclaimed the marquis. Thereupon he ordered the council again to consider an attack on Chingchou. Pu Chih rose and said, “It has been long manifest that Ts‘ao Ts‘ao wishes to usurp the Throne, but he is afraid of Liu Pei. Now we are to attack Shu with an army. The marriage has brought us misfortune indeed.” “But I also want the place,” said Sun Ch‘üan."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-073-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "卻說漢中王令魏延總督軍馬，守禦東川。遂引百官回成都。差官起造宮廷，又置館舍，自成都至白水，建四百餘處館舍郵亭。廣積糧草，多造軍器，以圖進取中原。細作人探聽得曹操結連東吳，欲取荊州，即飛報入蜀。漢中王忙請孔明商議。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Said Pu Chih, “Ts‘ao Jên is already camped at Fanch'êng in Hsiangyang and in no danger from the river. If Ts‘ao can take Chingchou by land why does he not take it? However, he wants you, my lord, to send your army, and you can judge his real intention from this. Send to Ts‘ao and tell him to make Ts‘ao Jên attack by land. Then Kuan Yü must take the army from Chingchou to Fanch'êng. When he has left Chingchou you can send an army to seize it.”"
+          }
+        }
+      },
+      {
+        "character_count": 70,
+        "id": "chapter-073-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "孔明曰：「某已料曹操必有此謀；然吳中謀士極多，必教操令曹仁先興兵矣。」漢中王曰：「似此，如之奈何？」孔明曰：「可差使命就送官誥與雲長，令先起兵取樊城，使敵軍膽寒，自然瓦解矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Ch'üan thought the scheme good and sent letters with these proposals to Ts‘ao Ts‘ao. Ts‘ao adopted the plan, and having sent the messenger back to Wu, he next sent Man Ch‘ung to help Ts‘ao Jên at Fanch'êng as assistant adviser in the matter of attack. He also sent despatches to Wu to ask for the assistance of Sun Ch'üan’s marine force."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-073-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "漢中王大喜，即差前部司馬費詩為使，齎捧誥命投荊州來。雲長出郭，迎接入城。至公廳禮畢，雲長問曰：「漢中王封我何爵？」詩曰：「五虎大將之首。」雲長問：「那五虎將？」。詩曰：「關、張、趙、馬、黃是也。」雲長怒曰：「翼德吾弟也；孟起世代名家；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Having laid on Wei Yen the task of holding eastern Ch‘uan, the Prince of Hanchung, with his officers, returned to Ch'êngtu and began to set his new house in order. A palace was begun and public guest-houses were built, and between Ch'êngtu and Paishui, at selected places, they built four hundred rest-houses and post stations. The prince also set himself to accumulate great stores of grain and forage and to fill his arsenals with weapons with the design of mastering the capital and the whole country. Then his spies told him of the treaty between Ts‘ao and Wu, with designs upon Chingchou, and he hastily called in K‘ungming to ask what should be done."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-073-line-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "子龍久隨吾兄，即吾弟也：位與吾相並，可也。黃忠何等人，敢與吾同列！大丈夫終不與老卒為伍！」遂不肯受印。詩笑曰：「將軍差矣。昔蕭何、曹參，與高祖同舉大事，最為親近，而韓信乃楚之亡將也；然信立位為王，居蕭、曹之上，未聞蕭、曹以此為怨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I felt that Ts‘ao Ts‘ao would try to do this,” said K‘ungming, “and most of the advisers in Wu will persuade Ts‘ao to order Ts‘ao Jên to begin the campaign.” “But what am I to do?” asked the prince. “First send a special messenger to Kuan Yü with his new title, telling him to capture Fanch'êng, which will so damp the ardour of the enemy that he will break off himself.” Therefore the prince sent Fei Shih, a high official from his Board of War, to take the patent of his new title to Kuan Yü, who received the delegate with great deference and conducted him into the city. After they had arrived at the official residence, Kuan Yü enquired what new title had been conferred upon him."
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-073-line-033",
+        "order": 33,
+        "source_block_chunk": 3,
+        "source_block_order": 17,
+        "text": "今漢中王雖有五虎將之封，而與將軍有兄弟之義，視同一體。將軍即漢中王，漢中王即將軍也。豈與諸人等哉？將軍受漢中王厚恩，當與同休戚，共禍福，不宜計較官號之高下。願將軍熟思之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “Chief of the Five Tiger Generals,” replied the delegate. “And who are the five?” “Their names are Kuan, Chang, Chao, Ma and Huang.” “The second is my brother,” said Kuan Yü discontentedly. “Ma comes of a famous family and Chao Yün has been with my elder brother so long that he is as a brother. It is right for him to be put on a level with me. But what sort of a man is this Huang Chung that he is ranked with us? The really great man does not stand shoulder to shoulder with any old soldier that comes along.” And he refused both title and seal."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-073-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "雲長大悟，乃再拜曰：「某之不明，非足下見教，幾誤大事。」即拜受印綬。費詩方出王旨，令雲長領兵取樊城。雲長領命，即時便差傅士仁、糜芳二人為先鋒，先引一軍於荊州城外屯紮；一面設宴城中，款待費詩。飲至二更，忽報城外寨中火起。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You do wrong to refuse,” said Fei Shih. “Of old, Hsiao Ho and Ts‘ao Ts‘an helped the Founder of the Han Dynasty in his great enterprise and were very dear friends, while Han Hsin was but a runaway leader from Ch‘u. Yet Han Hsin became a prince, and so was placed over the heads of the other two. I have never heard that these two resented it. The prince has his Five Tiger Generals, but he is still your brother and all that that means. As his brother you are he and he is you. Is there any comparison with any other? The prince has always treated you with the greatest kindness. You are one in sorrow and joy, sharers of disaster and good fortune. No such question as that of a mere title ought to reckon at all. I pray you, Sir, to reflect.”"
+          }
+        }
+      },
+      {
+        "character_count": 54,
+        "id": "chapter-073-line-035",
+        "order": 35,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "雲長即披挂上馬，出城看時，乃是傅士仁、糜芳飲酒，帳後遺火，燒著火砲，滿營撼動，把軍器糧草，盡皆燒燬。雲長引兵救撲，至四更方纔火滅。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü understood, and thanked the messenger for having prevented him from making a great mistake. He then received the seal with all humility."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-073-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "雲長入城，召傅士仁、糜芳責之曰：「吾令汝二人作先鋒，不曾出師，先將許多軍器糧草燒燬，火砲打死本部軍馬；如此誤事，要你二人何用！」叱令斬之。費詩告曰：「未曾出師，先斬大將，於軍不利。可暫免其罪。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Next Fei Shih produced the edict ordering the capture of Fanch'êng. Kuan Yü lost no time in obeying its command. He appointed Fushih Jên and Mi Fang leaders of the van to take the first army out of the city into camp. This done, a banquet was prepared for the messenger, and they sat late at their wine. While still at table there was an alarm of fire in the new camp, and Kuan Yü hastened out of the city to see. He found that the two captains had also been feasting and the fire had started behind their tent, a spark having fallen into some explosives, whence it spread and destroyed the whole camp and all that was in it. Kuan Yü and his men did what they could to put out the fire and then re-entered the city. There he summoned the two captains before him, abused them for their lack of care and sentenced them to death."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-073-line-037",
+        "order": 37,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "」雲長怒氣不息，叱二人曰：「吾不看費司馬之面，必斬汝二人之首！」乃喚武士各杖四十，摘去先鋒印綬，罰糜芳守南郡，傅士仁守公安；且曰：「吾若得勝回來之日，稍有差池，二罪俱罰！」二人滿面羞慚，喏喏而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "However, Fei Shih interceded for them, saying, “It is not well to put two leaders to death at the beginning of a campaign, before even the army has marched. You might reprieve them at least.” Kuan Yü's anger had by no means subsided, but he recalled the two peccant captains and said, “Were it not that I have the greatest regard for the President Fei here I had let the sentence take its course. Now I will only flog you.” ​ So the two officers received forty blows each and were degraded from leading the van. Their seals were taken away and one was sent to Nanchün, the other to Kungan."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-073-line-038",
+        "order": 38,
+        "source_block_chunk": 3,
+        "source_block_order": 19,
+        "text": "雲長便令廖化為先鋒，關平為副將，自總中軍，馬良、伊籍為參軍，一同征進。先是有胡華之子胡班，到荊州來降投關公；公念其舊日相救之情，甚愛之。令隨費詩入川，見漢中王受爵。費詩辭別關公，帶了胡班自回蜀中去了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Now be warned,” said Kuan Yü. “If, when I return from my victories, there is the least sign of disorder on your part, you will suffer for both faults.” The two men flushed crimson and went out. Then two new officers were appointed, Liao Hua and Kuan P‘ing. Next Kuan Yü took command of the main army, and he had two advisers. Then it was that Hu Hua’s son, Hu Pan, came to Chingchou and joined Kuan, who loved him for the sake of his father and the good service he had rendered. Kuan Yü sent him to the Prince of Hanchung in the train of Fei Shih."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-073-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "且說關公是日祭了帥字大旗，假寐於帳中。忽見一豬，其大如牛，渾身黑色，奔入帳中，逕咬雲長之足。雲長大怒，急拔劍斬之，聲如裂帛。霎然驚覺，乃是一夢，便覺左足陰陰疼痛；心中大疑，喚關平至，以夢告之。平對曰：「豬亦有龍象。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The day that Kuan Yü sacrificed to his standard before starting, he was lying in his tent resting when suddenly there dashed into his tent a huge boar, very large, as big as a bullock and quite black. It bit his foot. He jumped up to kill the creature, when it squealed with the sound of tearing cloth—and he awoke. But he had a pain in his foot. The dream perplexed him, and he could not explain it. He related it to his son, who interpreted it happily, saying that the boar was something of a royal beast, like the dragon, and coming to his feet meant a rise for his adopted father. When the dream got noised abroad, for he told his officers, some interpreted it as auspicious and some the reverse."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-073-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "龍附足，乃升騰之意，不必疑忌。」雲長聚眾官於帳下，告以夢兆。或言吉祥者，或言不祥者，眾論不一。雲長曰：「大丈夫年近六旬，即死亦何憾！」正言間，蜀使至，傳漢中王旨，拜雲長為前將軍，假節銊，都督荊襄九郡事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“When a man nears sixty he ought not to be greatly disturbed by the thought of death,” said Kuan Yü. “After all, I am a man.” Just about that time came an edict from the Prince of Hanchung making him Chief General, with honourable insignia of rank and control over the nine districts in Chingchou and Hsiangyang. When the officers congratulated him on his new honours they did not forget the dream. “This shows what a dream of boars means.” This new distinction pleased Kuan Yü greatly and he had no more perplexing doubts. Soon he marched away along the great road to the point of danger."
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-073-line-041",
+        "order": 41,
+        "source_block_chunk": 3,
+        "source_block_order": 20,
+        "text": "雲長受命訖，眾官拜賀曰：「此足見豬龍之瑞也。」於是雲長坦然不疑，遂起兵奔襄陽大路而來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Jên was in the city when he heard that the great warrior was coming against him. He was much put about, and inclined to trust solely to defence. But his next command, Chai Yüan, did not support this course and argued against it."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-073-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "曹仁正在城中，忽報雲長自領兵來。仁大驚，欲堅守不出。副將翟元曰：「今魏王令將軍約會東吳取荊州，今彼自來，是送死也，何故避之？」參謀滿寵諫：「吾素知雲長勇而有謀，未可輕敵。不如堅守，乃為上策。」驍將夏侯存曰：「此書生之言耳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Our prince has ordered you to act in concert with Wu and take Chingchou. For the other side to come against such a combination is to walk in the way of death; certainly we have no occasion to avoid a conflict.” On the other hand the newly sent adviser inculcated caution. Said he, “Kuan is brave and cunning and one not to be met lightly. I think defence is best.” ​ Then Hsiahou Ts‘un said contemptuously, “This is all the talk of a lot of book-folk. When the flood approaches bank up to keep it out. Let the enemy come and we shall only have to sit still and receive our reward, for we are sure of victory.”"
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-073-line-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "豈不聞『水來土掩，將至兵迎』？我軍以逸代勞，自可取勝。」曹仁從其言，令滿寵守樊城，自領兵來迎雲長。雲長知曹兵來，喚關平、廖化二將，受計而往。與曹兵兩陣對圓。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Jên was won over to the side of the men of action. He placed Man Ch‘ung in command of the defences while he went outside to beat off Kuan Yü. When the two forces met, Kuan Yü called to his side Kuan P‘ing and Liao Hua, to whom he gave certain orders. These two advanced, settled their array and Liao Hua then rode out and offered a challenge. Chai Yüan accepted it; but soon after the combat began Liao Hua made as if he was defeated and turned to leave the field. Chai Yüan went after him. The Chingchou men retired twenty li or so."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-073-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "廖化出馬搦戰，翟元出迎。二將戰不多時，化詐敗撥馬便走，翟元從後追殺，荊州兵退二十里。次日，又來搦戰。夏侯存、翟元一齊出迎，荊州兵又敗。又追殺二十餘里，忽聽得背後喊聲大震，鼓角齊鳴。曹仁急命前軍速回，背後關平、廖化殺來，曹兵大亂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Soon the Chingchou soldiers came again and offered battle, when Hsiahou Ts‘un and Chai Yüan both went out. The manoeuvre of the preceding day was repeated. But suddenly there was a detonation behind the men of Ts‘ao and the rolling of drums as for attack. Ts‘ao Jên hastily called upon his men to return. They did so; but Kuan P‘ing and Liao Hua then turned and followed on their heels so that the men of Ts‘ao were thrown into confusion."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-073-line-045",
+        "order": 45,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "曹仁知是中計，先掣一軍飛奔襄陽；離城數里，前面繡旗招颭，雲長勒馬橫刀，攔住去路。曹仁膽戰心驚，不敢交鋒，望襄陽斜路而走。雲長不趕。須臾，夏侯存軍至，見了雲長，大怒，便與雲長交鋒；只一合，被雲長砍死。翟元便走，被關平趕上，一刀斬之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Jên by this time had seen that a trap had been laid and he had fallen therein, so he hastily marched with one army to Hsiangyang. He got to within a short distance of the city when he saw before him a handsome banner waving in the wind, and out came the great warrior with his sword ready to slay. Ts‘ao Jên was powerless from fear, and, fighting being impossible, he turned off in a diagonal direction for Hsiangyang. Nor was he pursued. Shortly after, Hsiahou Ts‘un came. He fell into a rage at the sight of the old warrior and went to fight him. He was slain in the first encounter. His colleague fled, but Kuan P‘ing captured and slew him. Then the pursuit was continued, and the loss on Ts‘ao’s side was very heavy. Many were drowned in the Hsiang River. This phase ended with Ts‘ao Jên defending Fanch'êng and Kuan in possession of Hsiangyang. His was the victory."
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-073-line-046",
+        "order": 46,
+        "source_block_chunk": 3,
+        "source_block_order": 22,
+        "text": "乘勢追殺，曹兵大半死於襄江之中。曹仁退守樊城。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You have obtained this city very easily,” said the Transport Officer Wang Fu, “but the task is not ended. Ts‘ao’s men have been beaten and their courage broken, but there is danger from the side of Wu. Lü Mêng is at Luk‘ou, and he has long cherished the desire to lay hands on Chingchou. Suppose he now attacks; what will happen?”"
+          }
+        }
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-073-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "雲長得了襄陽，賞軍撫民。隨軍司馬王甫曰：「將軍一鼓而下襄陽，曹兵雖然喪膽，然以愚意論之：今東吳呂蒙屯兵陸口，常有吞併荊州之意；倘率兵逕取荊州，如何奈之？」雲長曰：「吾亦念及此。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I was e‘en thinking of that myself. You may go and attend to this matter. You will certainly be able to find certain elevated spots on the river bank, not too far apart, suitable for alarm beacons, whence could be signalled any attempt of the men of Wu to cross the river. Fifty men could guard ​ each station. Let there be a flame by night and a smoke by day. If they cross the river I must go and smite them.”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-073-line-048",
+        "order": 48,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "汝便可提調此事：去沿江上下，或二十里，或三十里，選高阜處置一烽火臺。每臺用五十軍守之。倘吳兵渡江，夜則明火，晝則舉煙為號。吾當親往擊之。」王甫曰：「糜芳、傅士仁守二隘口，恐不竭力；必須再得一人以總督荊州。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wang Fu replied, “Fushih Jên and Mi Fang are defending important places and doing it well. But there ought to be a commander-in-chief over Chingchou.” “There is no need for anxiety; P‘an Chün is guarding the city.” “The objection is the character of P‘an Chün. He is jealous and selfish and not a fit man for the task. I think you would do well to replace him by Chao Lei, now of the commissariat. He is loyal, trusty, clean-handed and straight, a much more desirable man for the post.”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-073-line-049",
+        "order": 49,
+        "source_block_chunk": 3,
+        "source_block_order": 23,
+        "text": "」雲長曰：「吾已差治中潘濬守之，有何慮焉？」甫曰：「潘濬平生多忌而好利，不可任用。可差軍前都督糧料官趙累代之。趙累為人忠誠廉直，若用此人，萬無一失。」雲長曰：「吾素知潘濬為人，今既差定，不必更改。趙累現掌糧料，亦是重事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I know P‘an Chün very well, but I have delegated him for that duty and cannot change now. The work your friend has to do in the supplies is also most important. I do not think you need be anxious. Just get along with those beacons for me.” Wang Fu, annoyed, took his leave. Then Kuan P‘ing was bidden to prepare ships ready to cross the river and attack Fanch'êng, whither Ts‘ao Jên had retired after his defeat."
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-073-line-050",
+        "order": 50,
+        "source_block_chunk": 4,
+        "source_block_order": 23,
+        "text": "汝勿多疑，只與我築烽火臺去。」王甫怏怏拜辭而行。雲長令關平準備船隻渡襄江，攻打樊城。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now Ts‘ao Jên said to Man Ch‘ung, “Neglecting your advice I lost my men, my two captains and the city of Hsiangyang. What am I to do now?”"
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-073-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "卻說曹仁折了二將，退守樊城，謂滿寵曰：「不聽公言，兵敗將亡，失卻襄陽，如之奈何？」寵曰：「雲長虎將，足智多謀，不可輕敵，只宜堅守。」正言間，人報雲長渡江而來，攻打樊城。仁大驚。寵曰：「只宜堅守。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Kuan Yü is very dangerous, too brave and skilful for you to try to defeat. You had better remain on the defensive,” replied Man Ch‘ung. Just about this time came the tidings that Kuan Yü was crossing the river on the way to attack. Man maintained his policy, that of defence. But the subordinate leader Lu Ch‘ang was for going out to meet the enemy. “I ask for a few companies,” said Lu, “and I will meet the enemy on the way.”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-073-line-052",
+        "order": 52,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "」部將呂常奮然曰：「某乞兵數千，願當來軍於襄江之內。」寵諫曰：「不可。」呂常怒曰：「據汝等文官之言，只宜堅守，何能退敵？豈不聞兵法云：『軍半渡可擊』？今雲長半渡襄江，何不擊之？若兵臨城下，將至壕邊，急難抵當矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You cannot do any good,” said Man. “According to the advice of you and the other bookish officials there is only one thing to do. But will defence drive off the enemy? The proper way is to attack your enemy while he is crossing a river, and as Kuan Yü is doing that now, why not attack now? It will be quite another matter if you let him reach the walls and get possession of the moat.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-073-line-053",
+        "order": 53,
+        "source_block_chunk": 3,
+        "source_block_order": 24,
+        "text": "」仁即與兵二千，令呂常出樊城迎戰。呂常來至江口，只見前面繡旗開處，雲長橫刀出馬。呂常卻欲來迎。後面眾軍見雲長神威凜凜，不戰先走，呂常喝止不住。雲長混殺過來，曹兵大敗，馬步軍折其大半。敗殘軍奔入樊城，曹仁急差人求救。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As a result of his arguments and protest, Lu got command of two companies, whom he led to the river. And there he found Kuan Yü already arrayed for battle. Kuan Yü at once rode out, and the bold Lu was going to attack him. But his men were panic-stricken at the sight of Kuan Yü's fierce countenance and ran away. Lu Ch‘ang called them to come back, but they would not stop, and as Kuan Yü came on with a rush, the army of Ts‘ao again lost the day. Many were slain, and the remainder ran into Fanch'êng. Ts‘ao Jen sent off a hasty messenger for help and a letter to Ch‘angan to tell what ​ Kuan Yü had done and how Fanch'êng was in imminent danger of falling"
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-073-line-054",
+        "order": 54,
+        "source_block_chunk": 4,
+        "source_block_order": 24,
+        "text": "使命星夜至長安，將書呈上曹操，言：「雲長破了襄陽，現圍樊城甚急；望撥大將前來救援。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The letter reached Ts‘ao, who chose a certain one among his officers and asked if he could relieve Fanch'êng. The man at once stepped out and said he could."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-073-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "曹操指班部內一人而言曰：「汝可去解樊城之圍。」其人應聲而出。眾視之，乃于禁也。禁曰：「某求一將作先鋒，領兵同去。」操又問眾人曰：「誰敢作先鋒？」一人奮然出曰：「某願施犬馬之勞，生擒關某，獻於麾下。」操視之大喜。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The man was Yü Chin. “Let me have some captain to lead the van,” said he. “Who volunteers?” asked Ts‘ao, looking around. “I do,” cried a man; “I will give my poor services for what they are worth. And I will capture this fellow Kuan and bring him as an offering before your standard.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-073-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "未見東吳來伺隙，先看北魏又添兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The men of Wei began the war E‘er Wu had sent out spies."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-073-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "未知此人是誰，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But who was the man bold enough to say he would capture Kuan Yü? For his name see the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說曹操退兵至斜谷，孔明料他必棄漢中而走，故差馬超等諸將，分兵十數路，不時攻劫；因此操不能久住。又被魏延射了一箭，急急班師。三軍銳氣墮盡。前隊纔行，兩下火起，乃是馬超伏兵追趕。曹兵人人喪膽。操令軍士急行，曉夜奔走無停；直至京兆，方始安心。\n且說玄德命劉封、孟達、王平等，攻取上庸諸郡。申耽等聞操已棄漢中而走，遂皆投降。玄德安民已定，大賞三軍，人心大悅。於是眾將皆有推尊玄德為帝之心；未敢逕啟，卻來稟告諸葛軍師。孔明曰：「吾意已有定奪了。」隨引法正等入見玄德曰：「今曹操專權，百姓無主；主公仁義著於天下，今已撫有兩川之地，可以應天順人，即皇帝位，名正言順，以討國賊。事不宜遲，便請擇吉。」\n玄德大驚曰：「軍師之言差矣。劉備雖然漢之宗室，乃臣子也；若為此事，是反漢矣。」孔明曰：「非也。方今天下分崩，英雄並起，各霸一方，四海才德之士，捨死亡生而事其上者，皆欲攀龍附鳳，建立功名也。今主公避嫌守義，恐失眾人之望。願主公熟思之。」玄德曰：「要吾僭居尊位，吾必不敢。可再商議長策。」諸將齊言曰：「主公若只推卻，眾心解矣。」\n孔明曰：「主公平生以義為本，未肯便稱尊號。今有荊襄、兩川之地，可暫為漢中王。」玄德曰：「汝等雖欲尊吾為王，不得天子明詔，是僭也。」孔明曰：「今宜從權，不可拘執常理。」張飛大叫曰：「異姓之人，皆欲為君，何況哥哥乃漢朝宗派！莫說漢中王，就稱皇帝，有何不可！」玄德叱曰：「汝勿多言！」孔明曰：「主公宜從權變，先進位漢中王，然後表奏天子，未為遲也。」\n玄德再三推遲不過，只得依允。建安二十四年秋七月，築壇於沔陽，方圓九里，分布五方，各設旌旗儀仗。群臣皆依次序排列。許靖、法正請玄德登壇，進冠冕璽綬訖，面南而坐，受文武官員拜賀為漢中王。子劉禪立為王世子。封許靖為太傅，法正為尚書令。諸葛亮為軍師，總理軍國重事。封關羽、張飛、趙雲、馬超、黃忠為五虎大將軍；魏延為漢中太守。其餘各擬功勳定爵。\n玄德既為漢中王，遂修表一道，差人齎赴許都。表曰：\n備以具臣之才，荷上將之任，總督三軍，奉辭於外；不能掃除寇難，靖匡王室，久使陛下聖教陵遲；六合之內，否而未泰，惟憂反側，疢如疾首。\n曩者，董卓造為亂階，自是之後，群凶縱橫，殘剝海內。賴陛下聖德威臨，人臣同應，或忠義奮討，或上天降罰，暴逆並殪，以漸冰消。惟獨曹操，久未梟除，侵擅國權，恣心極亂。臣昔與車騎將軍董承圖謀討操，事機不密，承見陷害。臣播越失據，忠義不果，遂使操窮凶極逆。主后戮殺，皇子鴆害。雖糾合同盟，念在奮力；懦弱不武。歷年未效。常恐殞越，辜負國恩；寤寐永歎，夕惕若厲。\n今臣群僚，以為在昔虞書，敦敘九族，庶明勵冀，帝王相傳，此道不廢。周監二代，並建諸姬，實賴普、鄭夾輔之力。高祖龍興，尊王之弟，大啟九國，卒斬諸呂，以安大宗。今操惡直醜正，實繁有徒，包藏禍心，篡盜已顯；既宗室微弱，帝族無位，斟酌古式，依假權宜：上臣為大司馬漢中王。\n臣伏自三省，受國厚恩，荷任一方，陳力未效，所獲已過，不宜復忝高位，以重罪謗。群僚見逼，迫臣以義。臣退惟寇賊不梟，國難未已；宗廟傾危，社稷將墜；誠臣憂心碎首之日。若應權通變，以寧靜聖朝，雖赴水火，所不得辭。輒順眾議，拜受印璽，以崇國威。\n仰惟爵號，位高寵厚；俯思報效。憂深責重；驚怖惕息，如臨於谷，敢不盡力輸誠，獎勵六師，率齊群義，應天順時，撲討兇逆，以寧社稷？謹拜表以聞。\n表到許都，曹操在鄴郡聞知玄德自立為漢中王，大怒曰：「織蓆小兒，安敢如此！吾誓滅之！」即時傳令，盡起傾國之兵，赴兩川與漢中王決雌雄。一人出班諫曰：「大王不可因一時之怒，親勞車駕遠征。臣有一計，不須張弓隻箭，令劉備在蜀自受其禍；待其兵衰力盡，只須一將往征之，便可成功。」操視其人，乃司馬懿也。操喜問曰：「仲達有何高見？」懿曰：「江東孫權以妹嫁劉備，而又乘間竊取回去；劉備又據占荊州不還；彼此俱有切齒之恨。今可差一舌辯之士，齎書往說孫權，使興兵取荊州，劉備必發兩川之兵來救荊州。那時大王興兵去取漢川，令劉備首尾不能相救，勢必危矣。」\n操大喜，即修書令滿寵為使，星夜投江東來見孫權。權知滿寵到，遂與謀士商議。張昭進曰：「魏與吳本無讎；前因聽諸葛之說詞，致兩家連年征戰不息，生靈遭其塗炭。今滿伯寧來，必有講和之意，可以禮接之。」權依其言，令眾謀士接滿寵入城相見。禮畢，權以賓禮待寵。寵呈上操書，曰：「吳、魏自來無讎，皆因劉備之故，致生釁隙。魏王差某到此，約將軍攻取荊州，魏王以兵臨漢川，首尾夾擊。破劉之後，共分疆土，誓不相侵。」孫權覽書畢，設筵相待滿寵，送歸館舍安歇。\n權與眾謀士商議。顧雍曰：「雖是說詞，其中有理。今可一面送滿寵回，約會曹操，首尾相擊；一面使人過江探雲長動靜，方可行事。」諸葛瑾曰：「某聞雲長自到荊州，劉備娶與妻室，先生一子，次生一女。其女尚幼，未許字人。某願往與主公世子求婚。若雲長肯許，即與雲長計議共破曹操；若雲長不肯，然後助曹取荊州。」孫權用其謀，先送滿寵回許都；卻遣諸葛瑾為使，投荊州來。入城見雲長禮畢。雲長曰：「子瑜此來何意？」謹曰：「特來求結兩家之好。吾主吳侯有一子，甚聰明。聞將軍有一女，特來求親。兩家結好，併力破曹。此誠美事，請君侯思之。」雲長勃然大怒曰：「吾虎女安肯嫁犬子乎！不看汝弟之面，立斬汝首！再休多言！」遂喚左右逐出。\n瑾抱頭鼠竄，回見吳侯；不敢隱匿，遂以實告。權大怒曰：「何太無禮耶！」便喚張昭等武官員，商議取荊州之策。步騭曰：「曹操久欲篡漢，所懼者劉備也；今遣使來令吳興兵吞蜀，此嫁禍於吳也。」權曰：「孤亦欲取荊州久矣。」騭曰：「今曹仁見屯兵於襄陽、樊城，又無長江之險，旱路可取荊州，如何不取，卻令主公動兵？只此便見其心。主公可遣使去許都見操，令曹仁旱路先起兵取荊州，雲長必掣荊州之兵而取樊城。若雲長一動，主公可遣一將，暗取荊州，一舉可得矣。」權從其議，即時遣使過江，上書曹操，陳說此事。操大喜，發付使者先回，隨遣滿寵往樊城助曹仁為參謀官，商議動兵；一面馳檄東吳，令領兵水路接應，以取荊州。\n卻說漢中王令魏延總督軍馬，守禦東川。遂引百官回成都。差官起造宮廷，又置館舍，自成都至白水，建四百餘處館舍郵亭。廣積糧草，多造軍器，以圖進取中原。細作人探聽得曹操結連東吳，欲取荊州，即飛報入蜀。漢中王忙請孔明商議。孔明曰：「某已料曹操必有此謀；然吳中謀士極多，必教操令曹仁先興兵矣。」漢中王曰：「似此，如之奈何？」孔明曰：「可差使命就送官誥與雲長，令先起兵取樊城，使敵軍膽寒，自然瓦解矣。」\n漢中王大喜，即差前部司馬費詩為使，齎捧誥命投荊州來。雲長出郭，迎接入城。至公廳禮畢，雲長問曰：「漢中王封我何爵？」詩曰：「五虎大將之首。」雲長問：「那五虎將？」。詩曰：「關、張、趙、馬、黃是也。」雲長怒曰：「翼德吾弟也；孟起世代名家；子龍久隨吾兄，即吾弟也：位與吾相並，可也。黃忠何等人，敢與吾同列！大丈夫終不與老卒為伍！」遂不肯受印。詩笑曰：「將軍差矣。昔蕭何、曹參，與高祖同舉大事，最為親近，而韓信乃楚之亡將也；然信立位為王，居蕭、曹之上，未聞蕭、曹以此為怨。今漢中王雖有五虎將之封，而與將軍有兄弟之義，視同一體。將軍即漢中王，漢中王即將軍也。豈與諸人等哉？將軍受漢中王厚恩，當與同休戚，共禍福，不宜計較官號之高下。願將軍熟思之。」\n雲長大悟，乃再拜曰：「某之不明，非足下見教，幾誤大事。」即拜受印綬。費詩方出王旨，令雲長領兵取樊城。雲長領命，即時便差傅士仁、糜芳二人為先鋒，先引一軍於荊州城外屯紮；一面設宴城中，款待費詩。飲至二更，忽報城外寨中火起。雲長即披挂上馬，出城看時，乃是傅士仁、糜芳飲酒，帳後遺火，燒著火砲，滿營撼動，把軍器糧草，盡皆燒燬。雲長引兵救撲，至四更方纔火滅。\n雲長入城，召傅士仁、糜芳責之曰：「吾令汝二人作先鋒，不曾出師，先將許多軍器糧草燒燬，火砲打死本部軍馬；如此誤事，要你二人何用！」叱令斬之。費詩告曰：「未曾出師，先斬大將，於軍不利。可暫免其罪。」雲長怒氣不息，叱二人曰：「吾不看費司馬之面，必斬汝二人之首！」乃喚武士各杖四十，摘去先鋒印綬，罰糜芳守南郡，傅士仁守公安；且曰：「吾若得勝回來之日，稍有差池，二罪俱罰！」二人滿面羞慚，喏喏而去。雲長便令廖化為先鋒，關平為副將，自總中軍，馬良、伊籍為參軍，一同征進。先是有胡華之子胡班，到荊州來降投關公；公念其舊日相救之情，甚愛之。令隨費詩入川，見漢中王受爵。費詩辭別關公，帶了胡班自回蜀中去了。\n且說關公是日祭了帥字大旗，假寐於帳中。忽見一豬，其大如牛，渾身黑色，奔入帳中，逕咬雲長之足。雲長大怒，急拔劍斬之，聲如裂帛。霎然驚覺，乃是一夢，便覺左足陰陰疼痛；心中大疑，喚關平至，以夢告之。平對曰：「豬亦有龍象。龍附足，乃升騰之意，不必疑忌。」雲長聚眾官於帳下，告以夢兆。或言吉祥者，或言不祥者，眾論不一。雲長曰：「大丈夫年近六旬，即死亦何憾！」正言間，蜀使至，傳漢中王旨，拜雲長為前將軍，假節銊，都督荊襄九郡事。雲長受命訖，眾官拜賀曰：「此足見豬龍之瑞也。」於是雲長坦然不疑，遂起兵奔襄陽大路而來。\n曹仁正在城中，忽報雲長自領兵來。仁大驚，欲堅守不出。副將翟元曰：「今魏王令將軍約會東吳取荊州，今彼自來，是送死也，何故避之？」參謀滿寵諫：「吾素知雲長勇而有謀，未可輕敵。不如堅守，乃為上策。」驍將夏侯存曰：「此書生之言耳。豈不聞『水來土掩，將至兵迎』？我軍以逸代勞，自可取勝。」曹仁從其言，令滿寵守樊城，自領兵來迎雲長。雲長知曹兵來，喚關平、廖化二將，受計而往。與曹兵兩陣對圓。\n廖化出馬搦戰，翟元出迎。二將戰不多時，化詐敗撥馬便走，翟元從後追殺，荊州兵退二十里。次日，又來搦戰。夏侯存、翟元一齊出迎，荊州兵又敗。又追殺二十餘里，忽聽得背後喊聲大震，鼓角齊鳴。曹仁急命前軍速回，背後關平、廖化殺來，曹兵大亂。曹仁知是中計，先掣一軍飛奔襄陽；離城數里，前面繡旗招颭，雲長勒馬橫刀，攔住去路。曹仁膽戰心驚，不敢交鋒，望襄陽斜路而走。雲長不趕。須臾，夏侯存軍至，見了雲長，大怒，便與雲長交鋒；只一合，被雲長砍死。翟元便走，被關平趕上，一刀斬之。乘勢追殺，曹兵大半死於襄江之中。曹仁退守樊城。\n雲長得了襄陽，賞軍撫民。隨軍司馬王甫曰：「將軍一鼓而下襄陽，曹兵雖然喪膽，然以愚意論之：今東吳呂蒙屯兵陸口，常有吞併荊州之意；倘率兵逕取荊州，如何奈之？」雲長曰：「吾亦念及此。汝便可提調此事：去沿江上下，或二十里，或三十里，選高阜處置一烽火臺。每臺用五十軍守之。倘吳兵渡江，夜則明火，晝則舉煙為號。吾當親往擊之。」王甫曰：「糜芳、傅士仁守二隘口，恐不竭力；必須再得一人以總督荊州。」雲長曰：「吾已差治中潘濬守之，有何慮焉？」甫曰：「潘濬平生多忌而好利，不可任用。可差軍前都督糧料官趙累代之。趙累為人忠誠廉直，若用此人，萬無一失。」雲長曰：「吾素知潘濬為人，今既差定，不必更改。趙累現掌糧料，亦是重事。汝勿多疑，只與我築烽火臺去。」王甫怏怏拜辭而行。雲長令關平準備船隻渡襄江，攻打樊城。\n卻說曹仁折了二將，退守樊城，謂滿寵曰：「不聽公言，兵敗將亡，失卻襄陽，如之奈何？」寵曰：「雲長虎將，足智多謀，不可輕敵，只宜堅守。」正言間，人報雲長渡江而來，攻打樊城。仁大驚。寵曰：「只宜堅守。」部將呂常奮然曰：「某乞兵數千，願當來軍於襄江之內。」寵諫曰：「不可。」呂常怒曰：「據汝等文官之言，只宜堅守，何能退敵？豈不聞兵法云：『軍半渡可擊』？今雲長半渡襄江，何不擊之？若兵臨城下，將至壕邊，急難抵當矣。」仁即與兵二千，令呂常出樊城迎戰。呂常來至江口，只見前面繡旗開處，雲長橫刀出馬。呂常卻欲來迎。後面眾軍見雲長神威凜凜，不戰先走，呂常喝止不住。雲長混殺過來，曹兵大敗，馬步軍折其大半。敗殘軍奔入樊城，曹仁急差人求救。使命星夜至長安，將書呈上曹操，言：「雲長破了襄陽，現圍樊城甚急；望撥大將前來救援。」\n曹操指班部內一人而言曰：「汝可去解樊城之圍。」其人應聲而出。眾視之，乃于禁也。禁曰：「某求一將作先鋒，領兵同去。」操又問眾人曰：「誰敢作先鋒？」一人奮然出曰：「某願施犬馬之勞，生擒關某，獻於麾下。」操視之大喜。正是：\n未見東吳來伺隙，先看北魏又添兵。\n未知此人是誰，且看下文分解。",
+    "title": "第七十三回 玄德進位漢中王　　　雲長攻拔襄陽郡"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-073.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

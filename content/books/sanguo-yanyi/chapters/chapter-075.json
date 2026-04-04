@@ -1,0 +1,606 @@
+{
+  "chapter": {
+    "character_count": 3233,
+    "id": "chapter-075",
+    "order": 75,
+    "reading_unit_count": 45,
+    "reading_units": [
+      {
+        "character_count": 96,
+        "id": "chapter-075-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說曹仁見關公落馬，即引兵衝出城來；被關平一陣殺回，救關公歸寨，拔出臂箭。原來箭頭有藥，毒已入骨，右臂青腫，不能運動。關平慌與眾將商議曰：「父親若損此臂，安能出敵？不如暫回荊州調理。」於是與眾將入帳見關公。公問曰：「汝等來有何事？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan P‘ing consulted with the other leaders and proposed that, as fighting was impossible for the moment, they should withdraw to Chingchou, where his father’s wound could be treated. Having decided upon this, they went to see the wounded warrior. “What have you come for?” asked Kuan Yü when they entered. “Considering that you, Sir, have been wounded in the right arm, we fear the result of the excitement of battle. Moreover, you can hardly take part in a fight just now and we therefore propose that the army retire till you are recovered.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-075-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "」眾對曰：「某等因見君侯右臂損傷，恐臨敵致怒，衝突不便。眾議可暫班師回荊州調理。」公怒曰：「吾取樊城，只在目前；取了樊城，即當長驅大進，逕到許都，剿滅曹賊，以安漢室。豈可因小瘡而誤大事？汝等敢慢吾軍心耶！」平等默然而退。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü replied angrily, “I am on the point of taking the city, and if I succeed I must press forward to the capital, Hsütu, and destroy that brigand Ts‘ao Ts‘ao, so that the Hans may be restored to their own. Think you that I can vitiate the whole campaign because of a slight wound? Would you dishearten the army?” Kuan P‘ing and his colleagues said no more, but somewhat unwillingly withdrew. Seeing that their leader would not retire and the wound showed no signs of healing, the various captains enquired far and near for a good surgeon to attend their general."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-075-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "眾將見公不肯退兵，瘡又不痊，只得四方訪問名醫。忽一日，有人從江東駕小舟而來，直至寨前。小校引見關平。平視其人：方巾闊服，臂挽青囊；自言姓名，乃沛國譙郡人，姓華，名佗，字元化。因聞關將軍乃天下英雄，今中毒箭，特來醫治。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One day a person arrived in a small ship and, having landed and come up to the gate of the camp, was led in to see Kuan P‘ing. The visitor wore a square-cut cap and a loose robe. In his hand he carried a small black bag. He said his name was Hua T‘o and he belonged to Ch‘iaochun. He had heard of the wound sustained by the famous hero and had come to heal it. “Surely you must be the physician who treated Chou T‘ai,” said Kuan P‘ing."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-075-line-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "」平曰：「莫非昔日醫東吳周泰者乎？」佗曰：「然。」平大喜，即與眾將同引華佗入帳見關公。時關公本是臂痛，恐慢軍心，無可消遣，正與馬良弈棋；聞有醫者至，即召入。禮畢，賜坐。茶罷，佗請臂視之。公袒下衣袍，伸臂令佗看視。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “I am.” Taking with him the other captains, Kuan P‘ing went in to see his father. He found him engaged in a game of wei-ch‘i, although his arm was very painful. But he kept up appearances so as not to discourage the men. When they told him that a physician had come, he consented to see him. So Hua T‘o was introduced, asked to take a seat and, after the tea of ceremony, was shown the injured arm."
+          }
+        }
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-075-line-005",
+        "order": 5,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "佗曰：「此乃弩箭所傷，其中有烏頭之藥，直透入骨；若不早治，此臂無用矣。」公曰：「用何物治之？」佗曰：「某自有治法。但恐君侯懼耳。」公笑曰：「吾視死如歸，有何懼哉？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“This was caused by an arrow,” said the doctor. “There is some 'blackhead' poison in the wound, and it has penetrated to the bone. Unless the wound is soon treated the arm will become useless.” “What do you propose to do?” asked Kuan. “I know how to cure the wound, but I think you will be afraid of the remedy.” “Am I likely to be afraid of that when I am not even afraid of death? Death is only a return home after all.”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-075-line-006",
+        "order": 6,
+        "source_block_chunk": 4,
+        "source_block_order": 2,
+        "text": "」佗曰：「當於靜處立一標柱，上釘大環，請君侯將臂穿於環中，以繩繫之，然後以被蒙其首。吾用尖刀割開皮肉，直至於骨，刮去骨上箭毒，用藥敷之，以線縫其口，方可無事。但恐君侯懼耳。」公笑曰：「如此容易，何用柱環？」令設酒席相待。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Hua said, “This is what I shall do. In a private room I shall erect a post with a ring attached. I shall ask you, Sir, to insert your arm in the ring, and I shall bind it firmly to the post. Then I shall cover your head with a quilt so that you cannot see, and with a scalpel I shall open up the flesh right down to the bone. Then I shall scrape away the poison. This done, I shall dress the wound with a certain preparation, sew it up with a thread, and there will be no further trouble. But I think you may quail at the severity of the treatment.\""
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-075-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "公飲數盃酒畢，一面仍與馬良弈棋，伸臂令佗割之。佗取尖刀在手，令一小校，捧一大盆於臂下接血。佗曰：「某便下手，君侯勿驚。」公曰：「任汝醫治。吾豈比世間俗子，懼痛者耶？」佗乃下刀割開皮肉，直至於骨，骨上已青；佗用刀刮骨，悉悉有聲。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü smiled. “It all sounds easy enough,” said he; “but why the post and the ring?” Refreshments were then served, and after a few cups of wine the warrior extended his arm for the operation. With his other hand he went on with his game. Meanwhile the surgeon prepared his knife and called a lad to hold a basin beneath the limb. “I am just going to cut; do not start,” said Hua T‘o. “When I consented to undergo the treatment did you think I was like the generality of people, afraid of pain?”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-075-line-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "帳上帳下見者皆掩面失色。公飲酒食肉，談笑弈棋，全無痛苦之色。須臾，血流盈盈。佗刮盡其毒，敷上藥，以線縫之。公大笑而起，謂眾將曰：「此臂伸舒如故，並無痛矣。先生真神醫也！」佗曰：「某為醫一生，未嘗見此。君侯真天神也！」後人有詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The surgeon then performed the operation as he had predescribed. He found the bone much discoloured, but he scraped it clean. “ Hsi, hsi ,” went the knife over the surface, and all those near covered their eyes and turned pale. But Kuan Yü went on with his game, only drinking a cup of wine now and again, and his face betrayed no sign of pain. When the wound had been cleansed, sewn up and dressed, the patient stood up smiling and said, “This arm is now as good as it ever was; there is no pain. Indeed, Master Leech, you are a marvel.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-075-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "治病須分內外科，世間妙藝苦無多。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have spent my life in the art,” said Hua T‘o; “but I have never seen such a patient as you, Sir. You are the real marvel.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-075-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "神威罕及惟關將，聖手能醫說華佗。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​"
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-075-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "關公箭瘡既愈，設席款謝華佗。佗曰：「君侯箭瘡雖治，然須愛護。切勿怒氣傷觸。過百日後，平復如舊矣。」關公以金百兩酬之。佗曰：「某聞君侯高義，特來醫治，豈望報乎？」堅辭不受，留藥一帖，以敷瘡口，辭別而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Here as surgeons, there physicians, leeches boast their skill; Bitter few are those that cure one when one’s really ill. As for superhuman valour rivals Kuan had none, So for holy touch in healing Hua T‘o stood alone. When the cure was well advanced, Kuan Yü gave a fine banquet in honour of Hua T‘o and offered him a fee of a hundred taels. But he declined it. He had come to treat his patient from admiration of his great virtue and not for money."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-075-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "卻說關公擒了于禁，斬了龐德，威名大震，華夏皆驚。探馬報到許都。曹操大驚，聚文武商議曰：「某素知雲長智勇蓋世，今據荊襄，如虎生翼。于禁被擒，龐德被斬，魏兵挫銳；倘彼率兵直至許都，如之奈何？孤欲遷都以避之。」司馬懿諫曰：「不可。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Noble Marquis, although your wound is cured you must be careful of your health, and especially avoid all excitement for a hundred days, when you will be as well as ever you were.” Then Hua T‘o, having prepared dressings for the wound, took his leave, refusing fees to the very last. Having captured Yü Chin and accomplished the death of P‘ang Tê, Kuan Yü became more famous and more fearinspiring through the whole country than even before. Ts‘ao Ts‘ao called together his advisers to help him decide upon what he should do."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-075-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "于禁等被水所渰，非戰之故，於國家大計，本無所損。今孫、劉失好，雲長得志，孫權必不喜。大王可遣使去東吳陳說利害，令孫權暗暗起兵躡雲長之後，許事平之日，割江南之地以封孫權，則樊城之危自解矣。」主簿蔣濟曰：「仲達之言是也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Said Ts‘ao, “I must acknowledge this Kuan Yün-ch‘ang as the one man who, in skill and valour, overtops the whole world. Lately he has obtained possession of Chingchou and the district near it, and has so become very terrible. He is a tiger with wings added. P‘ang Tê is no more; Yü Chin is his prisoner; the armies of Wei have lost their morale; and if he led his armies here we should be helpless. I can only think of avoiding the peril by removal of the capital. What think you?”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-075-line-014",
+        "order": 14,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "今可即發使往東吳，不必遷都動眾。」操依允，遂不遷都；因歎謂諸將曰：「于禁從孤三十年，何期臨危反不如龐德也！今一面遣使致書東吳，一面必得一大將以當雲長之銳。」言未畢，階下一將應聲而出曰：「某願往。」操視之，乃徐晃也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“No; do not take that step,” said Ssŭma I, rising to reply. “Yü Chin and all the others you lost were victims of the flood and slain in battle. These losses do no harm at all to your great plan. The Suns and Lius are no longer friends since Kuan Yü has accomplished his desire. You may send a messenger into Wu to foment the quarrel and cause Sun Ch‘üan to send his armies to attack the army of Kuan Yü from the rear, promising that, when things are tranquil, you will reward Sun with a slice of Chiangnan. In this way you will relieve Fanch'êng.”"
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-075-line-015",
+        "order": 15,
+        "source_block_chunk": 4,
+        "source_block_order": 7,
+        "text": "操大喜，遂發精兵五萬，令徐晃為將，呂建副之，剋日起兵，前到陽陵陂駐紮；看東南有應，然後征進。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Here the Recorder Chiang Chi said, “Ssŭma I speaks well, and the messenger should lose no time. Do not move the capital or send an army.”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-075-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "卻說孫權接得曹操書信，覽畢，欣然應允，即修書發付使者先回，乃聚文武商議。張昭曰：「近聞雲長擒于禁，斬龐德，威震華夏，操欲遷都以避其鋒。今樊城危急，遣使求救，事定之後，恐有反覆。」權未及發言，忽報呂蒙乘小舟自陸口來，有事面稟。權召入問之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao therefore did not carry out his first proposal. But he was sad at the loss of Yü Chin, and spoke of him affectionately. “Yü Chin had followed me faithfully for thirty years, and I did not think I was sending him into danger. P‘ang Tê was not on the same footing as he.” It was necessary to send someone with the letters to Wu and also to find another leader willing to face Kuan Yü. Ts‘ao had not long to wait for the latter, as an officer stepped out from ​ the ranks of those in waiting and offered himself. It was Hsü Huang."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-075-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "蒙曰：「今雲長提兵圍樊城，可乘其遠出，襲取荊州。」權曰：「孤欲北取徐州，如何？」蒙曰：「今操遠在河北，未暇東顧。徐州守兵無多，往自可克；然其地勢利於陸戰，不利水戰，縱然得之，亦難保守。不如先取荊州，全據長江，別作良圖。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His offer was accepted, and he was given five legions of veterans. Lü Chien was sent as his second, and the army marched to Yanglingp‘o, where they halted to see if any support was coming from the south-east. Sun Ch'üan fell in with the scheme of Ts‘ao Ts‘ao as soon as he had read his letter. He at once prepared a reply for the messenger to take back, and then gathered his officers, civil and military, to consult. Chang Chao was the first speaker."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-075-line-018",
+        "order": 18,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "」權曰：「孤本欲取荊州，前言特以試卿耳。卿可速為孤圖之。孤當隨後便起兵也。」呂蒙辭了孫權，回至陸口。早有哨馬報說：「沿江上下，或二十里，或三十里，高阜處各有烽火臺。」又聞荊州軍馬整肅，預有準備，蒙大驚曰：「若如此，急難圖也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“We know Kuan Yü has captured one leader and slain another. This has added greatly to his fame and reputation. Ts‘ao was going to move the capital rather than risk an attack. We also know that Fanch'êng is in imminent danger. Ts‘ao has asked for our help, but when he has gained his end I doubt whether he will hold to his promise.” Before Sun Ch'üan had replied they announced the arrival of Lü Mêng, who had come in a small ship from Luk‘ou with a special message. He was at once called in and asked what it was. Said Lü, “The armies of Kuan Yü being absent at Fanch‘êng, the opportunity should be taken to attack Chingchou.”"
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-075-line-019",
+        "order": 19,
+        "source_block_chunk": 4,
+        "source_block_order": 8,
+        "text": "我一時在吳侯面前勸取荊州，今卻如何處置？」尋思無計，乃託病不出，使人回報孫權。權聞呂蒙患病，心甚怏怏。陸遜進言曰：「呂子明之病，乃詐耳，非真病也。」權曰：「伯言既知其詐，可往視之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“But I wish to attack Hsüchou in the north; what of this plan?” said Sun Ch'üan. “It would be better to attack Chingchou, and so get control of the Long River (Yangtse Kiang.). Ts‘ao Ts‘ao is far away to the north and too occupied to regard the east. Hsüchou is weakly held and could be taken easily, but the lie of the land favours the use of an army rather than a navy. If you capture it, it will not be easy to hold, but once you hold Chingchou you can evolve other schemes.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-075-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "陸遜領命，是夜至陸口寨中，來見呂蒙，果然面無病色。遜曰：「某奉吳侯命，敬探子明貴恙。」蒙曰：「賤軀偶病，何勞探問？」遜曰：「吳侯以重任付公，公不乘時而動，空懷鬱結，何也？」蒙目視陸遜，良久不語。遜又曰：「愚有小方，能治將軍之疾，未審可用否？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Really, my desire was to attack Chingchou, but I wished to hear what you would say to the other plan. Now, Sir, make me a plan speedily and I will act upon it.” So Lü Mêng took his leave and went back to Luk‘ou. But soon they heard that beacon towers were being erected at short distances all along the river, and that the Chingchou army was being put into most efficient condition. “If this is so, it is hard to make a plan that will ensure success,” said Lü Mêng. “I have already advised my master to attack Chingchou, but I am unable to meet this complication.”"
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-075-line-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "」蒙乃屏退左右而問曰：「伯言良方，乞早賜教。」遜笑曰：「子明之疾，不過因荊州兵馬整肅，沿江有烽火臺之備耳。予有一計，令沿江守吏，不能舉火；荊州之兵，束手歸降，可乎？」蒙驚謝曰：「伯言之語，如見我肺腑。願聞良策。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Therefore he made illness an excuse to stay at home, and sent to inform Sun Ch'üan, who was very distressed at the news. Then said Lu Hsün, “The illness is feigned; he is quite well.” “If you know that so well, go and see,” said Sun. ​ Away went Lu Hsün and speedily arrived at Luk‘ou, where he saw Lü Mêng, who indeed appeared to be in perfect health. Nor did his face bear any signs of recent illness. “The marquis has sent me to enquire after your honourable complaint,” said Lu Hsün. How distressed I am that the state of my wretched carcase has caused anyone the inconvenience of enquiring!” replied Lü Mêng."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-075-line-022",
+        "order": 22,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "」陸遜曰：「雲長倚恃英雄，自料無敵，所慮者惟將軍耳。將軍乘此機會，託疾辭職，以陸口之任讓之他人，使他人卑辭讚美關公，以驕其心，彼必盡撤荊州之兵，以向樊城；若荊州無備，用一旅之師，別出奇計以襲之，則荊州在掌握之中矣。」蒙大喜曰：「真良策也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The marquis placed a very heavy responsibility on your shoulders, but you are not making the best use of the opportunity. However, what is the real origin of your distress?” Lü sat gazing at his visitor a long time without replying. “I have a little remedy,” said Lu Hsün. “Do you think I might use it?” Lü dismissed the servants, and when the two were alone he said, “This remedy, my friend, please tell me what it is.' ” “Your ailment is due simply to the efficiency of the Chingchou soldiers; and I know how to keep the beacons from flaring, and I can make the Chingchou defenders come to you with their hands tied. Would that cure you?”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-075-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "由是呂蒙託病不起，上書辭職。陸遜回見孫權，具言前計。孫權乃召呂蒙還建業養病。蒙至，入見權。權問曰：「陸口之任，昔周公瑾薦魯子敬以自代；後子敬又薦卿自代；今卿亦須薦一才望兼隆者，代卿為妙。」蒙曰：「若用望重之人，雲長必然防備。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My friend, you speak as if you saw into my inmost heart. Pray unfold your good scheme.” “Kuan Yü thinks himself too much of a hero for anyone to dare to face him, and his only anxiety is yourself. Now you must take advantage of this excuse you have made of illness actually to resign this post so that the farce may be kept up and another man be appointed. Let this man, your successor, humbly praise Kuan Yü till he becomes so conceited that he will withdraw all the troops from Chingchou to send them against Fanch'êng. When Chingchou is left undefended then is our chance, and the city will fall into our hands.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-075-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "陸遜意思深長，而未有遠名，非雲長所忌；若即用以代臣之任，必有所濟。」權大喜，即日拜陸遜為偏將軍右都督，代蒙守陸口。遜謝曰：「某年幼無學，恐不堪大任。」權曰：「子明保卿，必不差錯。卿毋得推辭。」遜乃拜受印綬，連夜往陸口；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The plan seems most excellent,” said Lü Mêng. Wherefore Lü Mêng’s malady waxed worse, so that he was confined to bed; and he gave Lu Hsün his letter of resignation to carry back to Sun Ch'üan. The messenger hastened back and explained the ruse to his master, who soon after issued a command for Lü Mêng to retire and attend to the recovery of his health."
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-075-line-025",
+        "order": 25,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "交割馬步水三軍已畢，即修書一封，具名馬、異錦、酒禮等物，遣使齎赴樊城見關公。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Lü Mêng came to Sun Ch'üan to discuss the matter of a successor. Sun Ch'üan said to him, “As to the appintment at Luk‘ou, you know Chou Yü recommended Lu Su, who in turn proposed you. Now you ought to be able to mention some other talented and well-known officer to succeed you.”"
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-075-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "時公正將息箭瘡，按兵不動。忽報：「江東陸口守將呂蒙病危，孫權取回調理，近拜陸遜為將，代呂蒙守陸口。今遜差人齎書具禮，特來拜見。」關公召入，指來使而言曰：「仲謀見識短淺，用此孺子為將！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If you choose a well-known man, Kuan Yü will certainly be on his guard against him. Now Lu Hsün is deep and farseeing, but he has no widespread fame. Hence no particular notice would be taken of his appointment and no countermeasures taken. So he is the most suitable person to send.” ​ “Sun Ch'üan agreed and thereupon promoted Lu Hsün to the rank of “General and Commander-in-chief of the Right,' and sent him to defend the port."
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-075-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "」來使伏地告曰：「陸將軍呈書備禮，一來與君侯作賀，二來求兩家和好，幸乞笑留。」公拆書視之，書詞極其卑謹。關公覽畢，仰面大笑，令左右收了禮物，發付使者回去。使者回見陸遜曰：「關公欣喜，無復有憂江東之意。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am very young,” said Lu Hsün, “and feel unequal to such a post.” “Lü Mêng has proposed you, and you will not make any mistakes. Pray do not decline,” said Sun. So the appointment was made, and Lu Hsün set out at once. When he had assumed charge of the cavalry, the infantry and the marines, he set about drawing up a letter to Kuan Yü, and he selected fine horses and beautiful silks and good wines and delicacies suitable for gifts to go with the letter. He sent all by the hand of a trusty messenger to Fanch‘êng."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-075-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "遜大喜，密遣人探得關公果然撤荊州大半兵赴樊城聽調，只待箭瘡痊可，便欲進兵。遜察知備細，即差人星夜報知孫權。孫權召呂蒙商議曰：「今雲長果撤荊州之兵，攻取樊城，便可設計襲取荊州。卿與吾弟孫皎同引大軍前去，何如？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The news of the change of command reached Kuan Yü when he lay ill from the effects of his wound and unable to conduct any military operations. Close upon the news came the letter and the gifts from Lu Hsün, and the bearer was called in to see the great warrior. “Friend Sun was not very prudent when he made a general out of a mere scholar,” said Kuan, pointing to the messenger. The messenger said, “General Lu sends this letter and some presents, which he hopes you will accept. He also sends his felicitations, and would rejoice if the two houses could become friends.”"
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-075-line-029",
+        "order": 29,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "」孫皎字叔明，乃孫權叔父孫靜之次子也。蒙曰：「主公若以蒙可用則獨用蒙；若以叔明可用則獨用叔明。豈不聞昔日周瑜、程普為左右都督，事雖決於瑜，然普自以舊臣而居瑜下，頗不相睦；後因見瑜之才，方始敬服？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü read the letter, which was couched in most modest language, and then threw back his head and laughed loud. He bade the attendants receive the various gifts, and sent the bearer away. The messenger forthwith returned to Luk‘ou and said the old warrior had seemed very gratified and would henceforward feel no anxiety that danger might threaten from their direction. Spies were sent out to report on proceedings, and they returned to say that half the troops had been sent to assist in the siege of Fanch'êng. That city was to be seriously assaulted as soon as Kuan Yü had recovered."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-075-line-030",
+        "order": 30,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "今蒙之才不及瑜，而叔明之親勝於普，恐未必能相濟也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This news was promptly sent on to Sun Ch'üan, who at once called in Lü Mêng to decide upon the next move."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-075-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "權大悟，遂拜呂蒙為大都督，總制江東諸路軍馬；令孫皎在後接應糧草。蒙拜謝，點兵三萬，快船八十餘隻，選會水者扮作商人，皆穿白衣，在船上搖櫓，卻將精兵伏於𦩷𦪇船中。次調韓當、蔣欽、朱然、潘璋、周泰、徐盛、丁奉等七員大將，相繼而進。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Now is the favourable moment to get possession of Chingchou,” said Sun. “I propose to send you and my brother, Sun Chiao, to lead the army.” This Sun Chiao was really only a cousin, as he was the second son of Sun Ch'üan’s uncle. His secondary name was Shu-ming."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-075-line-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "其餘皆隨吳侯為合後救應。一面遣使致書曹操，令進兵以襲雲長之後；一面先傳報陸遜，然後發白衣人，駕快船往潯陽江去。晝夜趲行，直抵北岸。江邊烽火臺上守臺軍盤問時，吳人答曰：「我等皆是客商；因江中阻風，到此一避。」隨將財物送與守臺軍士。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Lü Mêng objected. “My lord, if you think to employ me, then employ me only; if Shu-ming, then Shu-ming only. You cannot have forgotten that Chou Yü and Ch'êng P‘u were associate commanders, and although the final decision lay with Chou Yü, yet the other presumed upon his seniority and there was some unfriendliness between the two. All ended well because Ch'êng P‘u recognised the ability of his colleague and ​ so supported him. I know I am not so clever as Chou Yü, but Shu-ming’s consanguinity will be a greater obstacle than mere length of service, and I fear he may not be wholly with me.”"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-075-line-033",
+        "order": 33,
+        "source_block_chunk": 3,
+        "source_block_order": 13,
+        "text": "軍士信之，遂任其停泊江邊。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Ch'üan saw the force of the contention, and appointed Lü Mêng to sole command with Sun Chiao to help him in the commissariat. Lü Mêng thanked his lord for his commission, soon got his three legions together and assembled four score ships for the expedition."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-075-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "約至二更，𦩷𦪇中精兵齊出，將烽火臺上官軍縛倒，暗號一聲，八十餘船精兵俱起，將緊要去處墩臺之軍，盡行捉入船中，不曾走了一個。於是長驅大進，逕取荊州，無人知覺。將至荊州，呂蒙將沿江墩臺所獲官軍，用好言撫慰，各各重賞，令賺開城門，縱火為號。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He dressed a number of sailors in the plain costumes of ordinary merchants and put them on board to work his vessels. He concealed his veterans in the holds of the kolu ships (shallow-draught transports). He selected seven captains to serve under him and settled the order of their successive movements. The remainder of the forces was left with Sun Ch'üan as supports and reserves. Letters were also written to Ts‘ao Ts‘ao that he might co-operate by sending his army to attack Kuan Yü in the rear. The sailors in plain dress navigated the ships to Hsünyangchiang as quickly as possible, and then crossed to the north bank. When the beacon-keepers came down to question them, the men of Wu said they were traders forced into the bank by contrary winds. And they offered gifts to the beacon-keepers, who accepted them and let the ships come to an anchor close to the shore."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-075-line-035",
+        "order": 35,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "眾軍領命，呂蒙便教前導。比及半夜，到城下叫門。門吏認得是荊州之兵，開了城門。眾軍一聲喊起，就城門裏放起號火。吳兵齊入，襲了荊州。呂蒙便傳令軍中：「如有妄殺一人，妄取民間一物者，定按軍法。」原任官吏，並依舊職。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At about the second watch the soldiers came out of hiding in the holds of the transports, suddenly fell upon the beaconkeepers and made them prisoners, officers and men. Next the signal for a general landing was given, and all the soldiers from the eighty ships went ashore. The guard stations were attacked, and all the men captured and carried off to the ships, not a man being allowed to escape. Then the whole force hurried off to Chingchou, having so far carried out their plans that no one knew of their coming. Nearing Chingchou, Lü Mêng spoke kindly to his captives, and gave them gifts and comforted them in order to induce them to get the gates opened for him to enter the city. He won them over to his side, and they promised to aid him. They would show a flare as a signal that the gates were free. So they went in advance and arrived at the gates about midnight. They called the watch; and the wardens of the gate, recognising their voices, opened for them. Once within, they shouted and lit the flares. Immediately the men of Wu came in with a rush and were soon in possession."
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-075-line-036",
+        "order": 36,
+        "source_block_chunk": 3,
+        "source_block_order": 14,
+        "text": "將關公家屬另養別宅，不許閒人攪擾。一面遣人申報孫權。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The first order issued by Lü Mêng was to spare the people. Instant death should be the punishment for any murder or robbery. The various officials over the people were retained in their offices and continued their functions. Special guards were set over Kuan Yü's family dwelling, and none dared ​ break open any other house. A messenger was sent with tidings to Sun Ch'üan."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-075-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "一日大雨，蒙上馬引數騎點看四門。忽見一人取民間箬笠以蓋鎧甲，蒙喝左右執下問之：乃蒙之鄉人也。蒙曰：「汝雖係我同鄉，但吾號令已出，汝故犯之，當按軍法。」其人泣告曰：「某恐雨濕官鎧，故取遮蓋，非為私用。乞將軍念同鄉之情。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One very wet day Lü Mêng, with a few horsemen as escort, was going round the walls and visiting the gates. One of the soldiers took from a passer-by his broad-brimmed hat and put it on over his helmet to keep his armour dry. Lü Mêng saw it, and the offender was seized. He was a fellow-villager of Lü Mêng’s, but that did not save him. “You are an old acquaintance, but you knew my order; why did you disobey it?” “I thought the rain would spoil my uniform, and I took the hat to protect it. I did not take it for my own advantage, but to protect official property. Spare me, O General, for the sake of our common dwelling-place.”"
+          }
+        }
+      },
+      {
+        "character_count": 48,
+        "id": "chapter-075-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "」蒙曰：「吾固知汝為覆官鎧，然終是不應取民間之物。」叱左右推下斬之。梟首傳示畢，然後收其屍首，泣而葬之。自是三軍震肅。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I know you were protecting your armour, but still it was disobedience to the order against taking anything from the people.” The soldier was beheaded, and his head exposed as & warning. But when all was over, Lü Mêng had the body buried decently and wept at the grave for the loss of his friend. Never after this was there the least laxity of discipline."
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-075-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "不一日，孫權領眾至。呂蒙出郭迎接入衙。權慰勞畢，仍命潘濬為治中，掌荊州事；監內放出于禁，遣歸曹操，安民賞軍，設宴慶賀。權謂呂蒙曰：「今荊州已得，但公安傅士仁、南郡糜芳，此二處如何收復？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Sun Ch'üan visited the city, Lü Mêng met him at the boundary and led him to the official residence, where he issued rewards and commendations. This done, he ordered P‘an Chün to take charge of the new possession. Yü Chin, who was in prison, was freed and sent back to his master. When the people had been comforted and the soldiers rewarded, there was a great banquet in honour of the success of the expedition."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-075-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "」言未畢，忽一人出曰：「不須引弓發箭，某憑三寸不爛之舌，說公安傅士仁來降，可乎？」眾視之，乃虞翻也。權曰：「仲翔有何良策，可使傅士仁歸降？」翻曰：「某自幼與士仁交厚；今若以利害說之，彼必歸矣。」權大喜，遂令虞翻五百軍，逕奔公安來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then said Sun Ch'üan to his general, “We have got this place, but now we want Kungan and Nanchün. How can we get them?” Suddenly one Yü Fan started up and offered his services. “You will need neither bows nor arrows,” said he, “unless my little tongue is worn out. I can persuade Fu Shih-yen to surrender.” “Friend Yü, how will you do it?” asked Sun Ch'üan. “He and I are very old friends, ever since we were boys, and if I explain the matter to him I am sure he will come over to this side.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-075-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "卻說傅士仁聽知荊州已失，急令閉城堅守。虞翻至，見城門緊閉，遂寫書拴於箭上，射入城中。軍士拾得，獻與傅士仁。士仁拆書視之，乃招降之意。覽畢，想起關公去日恨吾之意，不如早降；即令大開城門，請虞翻入城。二人禮畢，各訴舊情。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Yü Fan, with an escort, left quickly for Kungan, where his friend was in command. Now when Fu heard of the capture of Chingchou he closed his gates. Yü Fan arrived, but was refused entrance. So he wrote a letter, attached it to an arrow and shot it over the city wall. A soldier A soldier picked it up and took it to his commander, who found therein much persuasion to surrender. Having read all this, he thought within himself, “I think I should do well, for the other day Kuan Yü was very bitter against me.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-075-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "翻說吳侯寬洪大度，禮賢下士。士仁大喜，即同虞翻齎印綬來荊州投降。孫權大悅，仍令去守公安。呂蒙密謂權曰：「今雲長未獲，留士仁於公安，久必有變；不若使往南郡招糜芳歸降。」權乃召傅士仁謂曰：「糜芳與卿交厚，卿可招來歸降，孤自當有重賞。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Without further ado he bade the wardens open the gate, and his friend came in. After their greetings they talked of old times, and Yü Fan praised Sun Ch'üan’s magnanimity and liberality and greatness generally. So finally Fu Shih-yen decided to exchange masters and went away, taking with him his seal of office. He was presented to Sun Ch'üan, who reappointed him to the command of Kungan under its new lord. Lü Mêng thought the appointment imprudent while Kuan Yü was yet unconquered, and proposed instead to send him to Nanchün to induce his former colleague and fellow in disgrace to join him in desertion to the enemy. His advice was followed, and Fu was recalled."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-075-line-043",
+        "order": 43,
+        "source_block_chunk": 3,
+        "source_block_order": 17,
+        "text": "」傅士仁慨然領諾，遂引十餘騎，逕投南郡招安糜芳。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Go to Nanchün and win over Mi Fang, and I will reward you richly,” said Sun Ch'üan. Fu Shih-yen accepted the mission and duly left for Nanchün."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-075-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "今日公安無守志，從前王甫是良言。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kungan’s defender failed when tried, So Wang Fu’s words were justified."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-075-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "未知此去如何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "For the events of the journey see the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說曹仁見關公落馬，即引兵衝出城來；被關平一陣殺回，救關公歸寨，拔出臂箭。原來箭頭有藥，毒已入骨，右臂青腫，不能運動。關平慌與眾將商議曰：「父親若損此臂，安能出敵？不如暫回荊州調理。」於是與眾將入帳見關公。公問曰：「汝等來有何事？」眾對曰：「某等因見君侯右臂損傷，恐臨敵致怒，衝突不便。眾議可暫班師回荊州調理。」公怒曰：「吾取樊城，只在目前；取了樊城，即當長驅大進，逕到許都，剿滅曹賊，以安漢室。豈可因小瘡而誤大事？汝等敢慢吾軍心耶！」平等默然而退。\n眾將見公不肯退兵，瘡又不痊，只得四方訪問名醫。忽一日，有人從江東駕小舟而來，直至寨前。小校引見關平。平視其人：方巾闊服，臂挽青囊；自言姓名，乃沛國譙郡人，姓華，名佗，字元化。因聞關將軍乃天下英雄，今中毒箭，特來醫治。」平曰：「莫非昔日醫東吳周泰者乎？」佗曰：「然。」平大喜，即與眾將同引華佗入帳見關公。時關公本是臂痛，恐慢軍心，無可消遣，正與馬良弈棋；聞有醫者至，即召入。禮畢，賜坐。茶罷，佗請臂視之。公袒下衣袍，伸臂令佗看視。佗曰：「此乃弩箭所傷，其中有烏頭之藥，直透入骨；若不早治，此臂無用矣。」公曰：「用何物治之？」佗曰：「某自有治法。但恐君侯懼耳。」公笑曰：「吾視死如歸，有何懼哉？」佗曰：「當於靜處立一標柱，上釘大環，請君侯將臂穿於環中，以繩繫之，然後以被蒙其首。吾用尖刀割開皮肉，直至於骨，刮去骨上箭毒，用藥敷之，以線縫其口，方可無事。但恐君侯懼耳。」公笑曰：「如此容易，何用柱環？」令設酒席相待。\n公飲數盃酒畢，一面仍與馬良弈棋，伸臂令佗割之。佗取尖刀在手，令一小校，捧一大盆於臂下接血。佗曰：「某便下手，君侯勿驚。」公曰：「任汝醫治。吾豈比世間俗子，懼痛者耶？」佗乃下刀割開皮肉，直至於骨，骨上已青；佗用刀刮骨，悉悉有聲。帳上帳下見者皆掩面失色。公飲酒食肉，談笑弈棋，全無痛苦之色。須臾，血流盈盈。佗刮盡其毒，敷上藥，以線縫之。公大笑而起，謂眾將曰：「此臂伸舒如故，並無痛矣。先生真神醫也！」佗曰：「某為醫一生，未嘗見此。君侯真天神也！」後人有詩曰：\n治病須分內外科，世間妙藝苦無多。\n神威罕及惟關將，聖手能醫說華佗。\n關公箭瘡既愈，設席款謝華佗。佗曰：「君侯箭瘡雖治，然須愛護。切勿怒氣傷觸。過百日後，平復如舊矣。」關公以金百兩酬之。佗曰：「某聞君侯高義，特來醫治，豈望報乎？」堅辭不受，留藥一帖，以敷瘡口，辭別而去。\n卻說關公擒了于禁，斬了龐德，威名大震，華夏皆驚。探馬報到許都。曹操大驚，聚文武商議曰：「某素知雲長智勇蓋世，今據荊襄，如虎生翼。于禁被擒，龐德被斬，魏兵挫銳；倘彼率兵直至許都，如之奈何？孤欲遷都以避之。」司馬懿諫曰：「不可。于禁等被水所渰，非戰之故，於國家大計，本無所損。今孫、劉失好，雲長得志，孫權必不喜。大王可遣使去東吳陳說利害，令孫權暗暗起兵躡雲長之後，許事平之日，割江南之地以封孫權，則樊城之危自解矣。」主簿蔣濟曰：「仲達之言是也。今可即發使往東吳，不必遷都動眾。」操依允，遂不遷都；因歎謂諸將曰：「于禁從孤三十年，何期臨危反不如龐德也！今一面遣使致書東吳，一面必得一大將以當雲長之銳。」言未畢，階下一將應聲而出曰：「某願往。」操視之，乃徐晃也。操大喜，遂發精兵五萬，令徐晃為將，呂建副之，剋日起兵，前到陽陵陂駐紮；看東南有應，然後征進。\n卻說孫權接得曹操書信，覽畢，欣然應允，即修書發付使者先回，乃聚文武商議。張昭曰：「近聞雲長擒于禁，斬龐德，威震華夏，操欲遷都以避其鋒。今樊城危急，遣使求救，事定之後，恐有反覆。」權未及發言，忽報呂蒙乘小舟自陸口來，有事面稟。權召入問之。蒙曰：「今雲長提兵圍樊城，可乘其遠出，襲取荊州。」權曰：「孤欲北取徐州，如何？」蒙曰：「今操遠在河北，未暇東顧。徐州守兵無多，往自可克；然其地勢利於陸戰，不利水戰，縱然得之，亦難保守。不如先取荊州，全據長江，別作良圖。」權曰：「孤本欲取荊州，前言特以試卿耳。卿可速為孤圖之。孤當隨後便起兵也。」呂蒙辭了孫權，回至陸口。早有哨馬報說：「沿江上下，或二十里，或三十里，高阜處各有烽火臺。」又聞荊州軍馬整肅，預有準備，蒙大驚曰：「若如此，急難圖也。我一時在吳侯面前勸取荊州，今卻如何處置？」尋思無計，乃託病不出，使人回報孫權。權聞呂蒙患病，心甚怏怏。陸遜進言曰：「呂子明之病，乃詐耳，非真病也。」權曰：「伯言既知其詐，可往視之。」\n陸遜領命，是夜至陸口寨中，來見呂蒙，果然面無病色。遜曰：「某奉吳侯命，敬探子明貴恙。」蒙曰：「賤軀偶病，何勞探問？」遜曰：「吳侯以重任付公，公不乘時而動，空懷鬱結，何也？」蒙目視陸遜，良久不語。遜又曰：「愚有小方，能治將軍之疾，未審可用否？」蒙乃屏退左右而問曰：「伯言良方，乞早賜教。」遜笑曰：「子明之疾，不過因荊州兵馬整肅，沿江有烽火臺之備耳。予有一計，令沿江守吏，不能舉火；荊州之兵，束手歸降，可乎？」蒙驚謝曰：「伯言之語，如見我肺腑。願聞良策。」陸遜曰：「雲長倚恃英雄，自料無敵，所慮者惟將軍耳。將軍乘此機會，託疾辭職，以陸口之任讓之他人，使他人卑辭讚美關公，以驕其心，彼必盡撤荊州之兵，以向樊城；若荊州無備，用一旅之師，別出奇計以襲之，則荊州在掌握之中矣。」蒙大喜曰：「真良策也！」\n由是呂蒙託病不起，上書辭職。陸遜回見孫權，具言前計。孫權乃召呂蒙還建業養病。蒙至，入見權。權問曰：「陸口之任，昔周公瑾薦魯子敬以自代；後子敬又薦卿自代；今卿亦須薦一才望兼隆者，代卿為妙。」蒙曰：「若用望重之人，雲長必然防備。陸遜意思深長，而未有遠名，非雲長所忌；若即用以代臣之任，必有所濟。」權大喜，即日拜陸遜為偏將軍右都督，代蒙守陸口。遜謝曰：「某年幼無學，恐不堪大任。」權曰：「子明保卿，必不差錯。卿毋得推辭。」遜乃拜受印綬，連夜往陸口；交割馬步水三軍已畢，即修書一封，具名馬、異錦、酒禮等物，遣使齎赴樊城見關公。\n時公正將息箭瘡，按兵不動。忽報：「江東陸口守將呂蒙病危，孫權取回調理，近拜陸遜為將，代呂蒙守陸口。今遜差人齎書具禮，特來拜見。」關公召入，指來使而言曰：「仲謀見識短淺，用此孺子為將！」來使伏地告曰：「陸將軍呈書備禮，一來與君侯作賀，二來求兩家和好，幸乞笑留。」公拆書視之，書詞極其卑謹。關公覽畢，仰面大笑，令左右收了禮物，發付使者回去。使者回見陸遜曰：「關公欣喜，無復有憂江東之意。」\n遜大喜，密遣人探得關公果然撤荊州大半兵赴樊城聽調，只待箭瘡痊可，便欲進兵。遜察知備細，即差人星夜報知孫權。孫權召呂蒙商議曰：「今雲長果撤荊州之兵，攻取樊城，便可設計襲取荊州。卿與吾弟孫皎同引大軍前去，何如？」孫皎字叔明，乃孫權叔父孫靜之次子也。蒙曰：「主公若以蒙可用則獨用蒙；若以叔明可用則獨用叔明。豈不聞昔日周瑜、程普為左右都督，事雖決於瑜，然普自以舊臣而居瑜下，頗不相睦；後因見瑜之才，方始敬服？今蒙之才不及瑜，而叔明之親勝於普，恐未必能相濟也。」\n權大悟，遂拜呂蒙為大都督，總制江東諸路軍馬；令孫皎在後接應糧草。蒙拜謝，點兵三萬，快船八十餘隻，選會水者扮作商人，皆穿白衣，在船上搖櫓，卻將精兵伏於𦩷𦪇船中。次調韓當、蔣欽、朱然、潘璋、周泰、徐盛、丁奉等七員大將，相繼而進。其餘皆隨吳侯為合後救應。一面遣使致書曹操，令進兵以襲雲長之後；一面先傳報陸遜，然後發白衣人，駕快船往潯陽江去。晝夜趲行，直抵北岸。江邊烽火臺上守臺軍盤問時，吳人答曰：「我等皆是客商；因江中阻風，到此一避。」隨將財物送與守臺軍士。軍士信之，遂任其停泊江邊。\n約至二更，𦩷𦪇中精兵齊出，將烽火臺上官軍縛倒，暗號一聲，八十餘船精兵俱起，將緊要去處墩臺之軍，盡行捉入船中，不曾走了一個。於是長驅大進，逕取荊州，無人知覺。將至荊州，呂蒙將沿江墩臺所獲官軍，用好言撫慰，各各重賞，令賺開城門，縱火為號。眾軍領命，呂蒙便教前導。比及半夜，到城下叫門。門吏認得是荊州之兵，開了城門。眾軍一聲喊起，就城門裏放起號火。吳兵齊入，襲了荊州。呂蒙便傳令軍中：「如有妄殺一人，妄取民間一物者，定按軍法。」原任官吏，並依舊職。將關公家屬另養別宅，不許閒人攪擾。一面遣人申報孫權。\n一日大雨，蒙上馬引數騎點看四門。忽見一人取民間箬笠以蓋鎧甲，蒙喝左右執下問之：乃蒙之鄉人也。蒙曰：「汝雖係我同鄉，但吾號令已出，汝故犯之，當按軍法。」其人泣告曰：「某恐雨濕官鎧，故取遮蓋，非為私用。乞將軍念同鄉之情。」蒙曰：「吾固知汝為覆官鎧，然終是不應取民間之物。」叱左右推下斬之。梟首傳示畢，然後收其屍首，泣而葬之。自是三軍震肅。\n不一日，孫權領眾至。呂蒙出郭迎接入衙。權慰勞畢，仍命潘濬為治中，掌荊州事；監內放出于禁，遣歸曹操，安民賞軍，設宴慶賀。權謂呂蒙曰：「今荊州已得，但公安傅士仁、南郡糜芳，此二處如何收復？」言未畢，忽一人出曰：「不須引弓發箭，某憑三寸不爛之舌，說公安傅士仁來降，可乎？」眾視之，乃虞翻也。權曰：「仲翔有何良策，可使傅士仁歸降？」翻曰：「某自幼與士仁交厚；今若以利害說之，彼必歸矣。」權大喜，遂令虞翻五百軍，逕奔公安來。\n卻說傅士仁聽知荊州已失，急令閉城堅守。虞翻至，見城門緊閉，遂寫書拴於箭上，射入城中。軍士拾得，獻與傅士仁。士仁拆書視之，乃招降之意。覽畢，想起關公去日恨吾之意，不如早降；即令大開城門，請虞翻入城。二人禮畢，各訴舊情。翻說吳侯寬洪大度，禮賢下士。士仁大喜，即同虞翻齎印綬來荊州投降。孫權大悅，仍令去守公安。呂蒙密謂權曰：「今雲長未獲，留士仁於公安，久必有變；不若使往南郡招糜芳歸降。」權乃召傅士仁謂曰：「糜芳與卿交厚，卿可招來歸降，孤自當有重賞。」傅士仁慨然領諾，遂引十餘騎，逕投南郡招安糜芳。正是：\n今日公安無守志，從前王甫是良言。\n未知此去如何，且看下文分解。",
+    "title": "第七十五回 關雲長刮骨療毒　　　呂子明白衣渡江"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-075.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

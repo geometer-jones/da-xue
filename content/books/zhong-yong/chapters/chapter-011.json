@@ -1,0 +1,60 @@
+{
+  "chapter": {
+    "character_count": 50,
+    "id": "chapter-011",
+    "order": 11,
+    "reading_unit_count": 3,
+    "reading_units": [
+      {
+        "character_count": 16,
+        "id": "chapter-011-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「素隱行怪，後世有述焉，吾弗為之矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"To live in obscurity, and yet practice wonders, in order to be mentioned with honor in future ages:-this is what I do not do."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-011-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "君子遵道而行，半涂而廢，吾弗能已矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The good man tries to proceed according to the right path, but when he has gone halfway, he abandons it:-I am not able so to stop."
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-011-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "君子依乎中庸，遁世不見知而不悔，唯聖者能之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The superior man accords with the course of the Mean. Though he may be all unknown, unregarded by the world, he feels no regret. It is only the sage who is able for this."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「素隱行怪，後世有述焉，吾弗為之矣。\n君子遵道而行，半塗而廢，吾弗能已矣。\n君子依乎中庸，遯世不見知而不悔，唯聖者能之。",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-011.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

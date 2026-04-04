@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-011",
+    "order": 11,
+    "summary": "一无所有",
+    "text": "一无所有\n人事不知\n有一无二\n不明不白\n天地不容\n无可不可\n无所不作\n事在人为\n一事无成\n一得之见\n不一而足\n无大无小\n不言而喻\n一文不名\n不可一世\n言之无物\n周而不比\n无地自容\n无恶不为\n无中生有\n无天无日\n不了了之\n一言中的\n不当人子\n求之不得\n一物不知\n不当不正\n无所不通\n不知所以\n可有可无",
+    "title": "301-330",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "一无所有",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "not having anything at all; utterly lacking"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "人事不知",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have lost consciousness"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "有一无二",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "one of a kind"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "不明不白",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) obscure; dubious; shady"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "天地不容",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "of grave sin"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "无可不可",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It's inevitable"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "无所不作",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Do nothing"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "事在人为",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the matter depends on the individual; it is a matter for your own effort; With effort, one can achieve anything."
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "一事无成",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to accomplish nothing; to get nowhere"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "一得之见",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Once seen"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "不一而足",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "by no means an isolated case"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "无大无小",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "no matter how big or small"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "不言而喻",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "it goes without saying; it is self-evident"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "一文不名",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be penniless"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "不可一世",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to consider oneself unexcelled in the world; to be insufferably arrogant"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "言之无物",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(of a writing etc) to have no substance; to carry no weight"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "周而不比",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "faithful and not partisan"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "无地自容",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) ashamed and unable to show one's face"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "无恶不为",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Do no evil"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "无中生有",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to create something from nothing"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "无天无日",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No sky or sun"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "不了了之",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to settle a matter by leaving it unsettled"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "一言中的",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to the point"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "不当人子",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not a son of man"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "求之不得",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to seek something but not obtain it"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "一物不知",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Don't know anything"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "不当不正",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Improper and improper"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "无所不通",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Know everything"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "不知所以",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to not know the reason"
+          }
+        },
+        "category": "高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "可有可无",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "not essential"
+          }
+        },
+        "category": "高透明度 I"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-011.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

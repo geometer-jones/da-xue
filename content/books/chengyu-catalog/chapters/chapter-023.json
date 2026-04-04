@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-023",
+    "order": 23,
+    "summary": "一笑了事",
+    "text": "一笑了事\n无其伦比\n心口如一\n一无是处\n少不更事\n大人虎变\n无怨无德\n别有用心\n取而代之\n不三不四\n其乐不穷\n来处不易\n四战之地\n师出有名\n生不遇时\n人命关天\n来去分明\n一往无前\n人才难得\n四战之国\n君命无二\n夫子自道\n华而不实\n音容如在\n疾不可为\n各行其是\n有口难言\n顺天从人\n生公说法\n百无是处",
+    "title": "661-690",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "一笑了事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just laugh it off"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "无其伦比",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Unparalleled"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "心口如一",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to say what you think"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "一无是处",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) not one good point; everything about it is wrong"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "少不更事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) young and inexperienced; wet behind the ears"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "大人虎变",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Adults become tigers"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "无怨无德",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No resentment and no virtue"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "别有用心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have an ulterior motive; a hidden agenda"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "取而代之",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to substitute for; to remove and replace; to supersede"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "不三不四",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) dubious; shady; neither one thing nor the other; neither fish nor fowl; nondescript"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "其乐不穷",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "boundless joy"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "来处不易",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Difficult to come from"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "四战之地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The place of four battles"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "师出有名",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to start a military expedition with justification"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "生不遇时",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Unexpected times"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "人命关天",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "human life is beyond value"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "来去分明",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Coming and going clearly"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "一往无前",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to advance courageously ; to press forward"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "人才难得",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Talent is rare"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "四战之国",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "country of four wars"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "君命无二",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Your destiny is the same"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "夫子自道",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "appearing to be praising others while actually praising yourself"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "华而不实",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "flower but no fruit; handsome exterior but hollow inside; flashy"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "音容如在",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sound and appearance are as present as ever"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "疾不可为",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Incurable disease"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "各行其是",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "each performs his own actions"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "有口难言",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "cannot bring oneself to mention something; to find it hard or embarrassing to bring up a matter"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "顺天从人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Be obedient to nature and people"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "生公说法",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sheng Gong's explanation"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-023-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "百无是处",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Useless"
+          }
+        },
+        "category": "中高透明度 III"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-023.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

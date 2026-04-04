@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-027",
+    "order": 27,
+    "summary": "时不可失",
+    "text": "时不可失\n能文能武\n大有作为\n如有所失\n礼无不答\n人言可畏\n视同路人\n以心传心\n上下同门\n而立之年\n月下老人\n年事已高\n所当无敌\n天下为公\n一夫之用\n没没无闻\n来者不善\n其乐无穷\n称心如意\n诗礼之家\n物尽其用\n一败如水\n顾而言他\n食为民天\n有意无意\n高下任心\n穷日之力\n不情之请\n无形之罪\n一字一珠",
+    "title": "781-810",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "时不可失",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "there is not a moment to lose; we mustn't let this opportunity pass us by"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "能文能武",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Able in culture and martial arts"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "大有作为",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to accomplish much"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "如有所失",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to seem as if something is amiss"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "礼无不答",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Answer politely"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "人言可畏",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "gossip is a fearful thing"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "视同路人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Treat as a passer-by"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "以心传心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heart to heart"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "上下同门",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The same family"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "而立之年",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) the age of 30"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "月下老人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "minor divinity concerned with marriage"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "年事已高",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "old in years"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "所当无敌",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Be invincible"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "天下为公",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the world belongs to the people; a public and common spirit rules all under the sky; the whole world as one community"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "一夫之用",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "For one man"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "没没无闻",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) unknown; unrenowned"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "来者不善",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Unkind person"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "其乐无穷",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "boundless joy"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "称心如意",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be satisfied with the state of things"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "诗礼之家",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Home of Shili"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "物尽其用",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to use sth to the full"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "一败如水",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be completely defeated"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "顾而言他",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Take care of him"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "食为民天",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Food is the people's destiny"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "有意无意",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "intentionally or otherwise"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "高下任心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Have a high sense of responsibility"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "穷日之力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The power of a poor day"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "不情之请",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) (humble expression) my presumptuous request"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "无形之罪",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "invisible sin"
+          }
+        },
+        "category": "中透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-027-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "一字一珠",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "with a sweet mellow voice"
+          }
+        },
+        "category": "中透明度 I"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-027.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

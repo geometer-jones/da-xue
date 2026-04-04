@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-071",
+    "order": 71,
+    "summary": "青史留名",
+    "text": "青史留名\n却行求前\n三旬九食\n精义入神\n马到功成\n如虎傅翼\n半壁江山\n露水夫妻\n五风十雨\n诸如此比\n三朝五日\n知尽能索\n乐道好古\n三年化碧\n性急口快\n知情达理\n多情多感\n长年三老\n春意盎然\n急于事功\n望秋先零\n原来如此\n深文曲折\n三回九转\n身心交瘁\n罪逆深重\n道貌岸然\n事捷功倍\n别出心裁\n求名夺利",
+    "title": "2101-2130",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "青史留名",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Qingshi history book"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "却行求前",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to going backwards in order to move forward. It is a metaphor that the method is wrong and therefore it is impossible to achieve the goal."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "三旬九食",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. to have only nine meals in thirty days (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "精义入神",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Study the subtle meaning of things carefully and reach a magical state"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "马到功成",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes things going well and winning from the beginning"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "如虎傅翼",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Like a tiger giving birth to wings"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "半壁江山",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "half of the country (esp. when half the country has fallen into enemy hands)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "露水夫妻",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a couple in a short-lived, improper relationship"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "五风十雨",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It winds once every five days and rains once every ten days"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "诸如此比",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "many things similar to this"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "三朝五日",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to three or five days"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "知尽能索",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor for exhaustion of wisdom and ability"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "乐道好古",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Take pleasure in keeping the Tao and love ancient customs"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "三年化碧",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to unfailing loyalty"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "性急口快",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I have an impatient temper and say what I have to say."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "知情达理",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 通情達理|通情达理[tong1 qing2 da2 li3]"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "多情多感",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Emotional and easily sad"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "长年三老",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to boatman in ancient times"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "春意盎然",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Meaning"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "急于事功",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "career"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "望秋先零",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Withering"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "原来如此",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) so that's how it is; I see"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "深文曲折",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Distorting legal provisions and incriminating others without revealing any traces"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "三回九转",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "①Describe the twists and turns"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "身心交瘁",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "worn out in body and soul (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "罪逆深重",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to doing a big bad thing or committing a big crime"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "道貌岸然",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "sanctimonious"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "事捷功倍",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Things are easy to do but very effective"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "别出心裁",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to hit on sth new (idiom); to display originality"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-071-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "求名夺利",
+        "category": "较高难度 IV",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the pursuit of reputation and competition for financial gain"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-071.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

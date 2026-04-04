@@ -1,0 +1,99 @@
+{
+  "chapter": {
+    "character_count": 177,
+    "id": "chapter-029",
+    "order": 29,
+    "reading_unit_count": 6,
+    "reading_units": [
+      {
+        "character_count": 12,
+        "id": "chapter-029-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "王天下有三重焉，其寡過矣乎！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I have learned the ceremonies of the Yin dynasty, and in Song they still continue."
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-029-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "上焉者雖善無徵，無徵不信，不信民弗從；下焉者雖善不尊，不尊不信，不信民弗從。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I have learned the ceremonies of Zhou, which are now used, and I follow Zhou.\" He who attains to the sovereignty of the kingdom, having those three important things, shall be able to effect that there shall be few errors under his government."
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-029-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "故君子之道：本諸身，徵諸庶民，考諸三王而不繆，建諸天地而不悖，質諸鬼神而無疑，百世以俟聖人而不惑。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "However excellent may have been the regulations of those of former times, they cannot be attested."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-029-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "質諸鬼神而無疑，知天也；百世以俟聖人而不惑，知人也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not being attested, they cannot command credence, and not being credited, the people would not follow them."
+          }
+        }
+      },
+      {
+        "character_count": 35,
+        "id": "chapter-029-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "是故君子動而世為天下道，行而世為天下法，言而世為天下則。遠之則有望，近之則不厭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "However excellent might be the regulations made by one in an inferior situation, he is not in a position to be honored."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-029-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "詩曰：「在彼無惡，在此無射；庶幾夙夜，以永終譽！」君子未有不如此而蚤有譽於天下者也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Unhonored, he cannot command credence, and not being credited, the people would not follow his rules. Therefore the institutions of the Ruler are rooted in his own character and conduct, and sufficient attestation of them is given by the masses of the people. He examines them by comparison with those of the three kings, and finds them without mistake. He sets them up before Heaven and Earth, and finds nothing in them contrary to their mode of operation. He presents himself with them before spiritual beings, and no doubts about them arise. He is prepared to wait for the rise of a sage a hundred ages after, and has no misgivings. His presenting himself with his institutions before spiritual beings, without any doubts arising about them, shows that he knows Heaven. His being prepared, without any misgivings, to wait for the rise of a sage a hundred ages after, shows that he knows men. Such being the case, the movements of such a ruler, illustrating his institutions, constitute an example to the world for ages. His acts are for ages a law to the kingdom. His words are for ages a lesson to the kingdom. Those who are far from him look longingly for him; and those who are near him are never wearied with him. It is said in the Book of Poetry,-\"Not disliked there, not tired of here, from day to day and night tonight, will they perpetuate their praise.\" Never has there been a ruler, who did not realize this description, that obtained an early renown throughout the kingdom."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "王天下有三重焉，其寡過矣乎！\n上焉者雖善無徵，無徵不信，不信民弗從；下焉者雖善不尊，不尊不信，不信民弗從。\n故君子之道：本諸身，徵諸庶民，考諸三王而不繆，建諸天地而不悖，質諸鬼神而無疑，百世以俟聖人而不惑。\n質諸鬼神而無疑，知天也；百世以俟聖人而不惑，知人也。\n是故君子動而世為天下道，行而世為天下法，言而世為天下則。遠之則有望，近之則不厭。\n詩曰：「在彼無惡，在此無射；庶幾夙夜，以永終譽！」君子未有不如此而蚤有譽於天下者也。",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-029.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

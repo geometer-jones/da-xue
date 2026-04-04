@@ -1,0 +1,1503 @@
+{
+  "chapter": {
+    "character_count": 2641,
+    "id": "chapter-011",
+    "order": 11,
+    "reading_unit_count": 77,
+    "reading_units": [
+      {
+        "character_count": 26,
+        "id": "chapter-011-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "告子曰：「性，猶杞柳也；義，猶桮棬也。以人性為仁義，猶以杞柳為桮棬。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The philosopher Gao said, 'Man's nature is like the qi-willow , and righteousness is like a cup or a bowl. The fashioning benevolence and righteousness out of man's nature is like the making cups and bowls from the qi-willow.'"
+          }
+        }
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-011-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "孟子曰：「子能順杞柳之性而以為桮棬乎？將戕賊杞柳而後以為桮棬也？如將戕賊杞柳而以為桮棬，則亦將戕賊人以為仁義與？率天下之人而禍仁義者，必子之言夫！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius replied, 'Can you, leaving untouched the nature of the willow, make with it cups and bowls? You must do violence and injury to the willow, before you can make cups and bowls with it. If you must do violence and injury to the willow in order to make cups and bowls with it, on your principles you must in the same way do violence and injury to humanity in order to fashion from it benevolence and righteousness! Your words, alas! would certainly lead all men on to reckon benevolence and righteousness to be calamities.'"
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-011-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "告子曰：「性猶湍水也，決諸東方則東流，決諸西方則西流。人性之無分於善不善也，猶水之無分於東西也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The philosopher Gao said, 'Man's nature is like water whirling round in a corner. Open a passage for it to the east, and it will flow to the east; open a passage for it to the west, and it will flow to the west. Man's nature is indifferent to good and evil, just as the water is indifferent to the east and west.'"
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-011-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "孟子曰：「水信無分於東西。無分於上下乎？人性之善也，猶水之就下也。人無有不善，水無有不下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius replied, 'Water indeed will flow indifferently to the east or west, but will it flow indifferently up or down?"
+          }
+        }
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-011-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "今夫水，搏而躍之，可使過顙；激而行之，可使在山。是豈水之性哉？其勢則然也。人之可使為不善，其性亦猶是也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The tendency of man's nature to good is like the tendency of water to flow downwards. There are none but have this tendency to good, just as all water flows downwards. Now by striking water and causing it to leap up, you may make it go over your forehead, and, by damming and leading it you may force it up a hill - but are such movements according to the nature of water? It is the force applied which causes them. When men are made to do what is not good, their nature is dealt with in this way.'"
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-011-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "告子曰：「生之謂性。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The philosopher Gao said, 'Life is what we call nature!'"
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-011-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "孟子曰：「生之謂性也，猶白之謂白與？」曰：「然。」「白羽之白也，猶白雪之白；白雪之白，猶白玉之白與？」曰：「然。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now by striking water and causing it to leap up, you may make it go over your forehead, and, by damming and leading it you may force it up a hill - but are such movements according to the nature of water? It is the force applied which causes them. When men are made to do what is not good, their nature is dealt with in this way.' The philosopher Gao said, 'Life is what we call nature!' Mencius asked him, 'Do you say that by nature you mean life, just as you say that white is white?' 'Yes, I do,' was the reply. Mencius added, 'Is the whiteness of a white feather like that of white snow, and the whiteness of white snow like that of white jade?' Gao again said 'Yes.'"
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-011-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "「然則犬之性，猶牛之性；牛之性，猶人之性與？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'Very well,' pursued Mencius. 'Is the nature of a dog like the nature of an ox, and the nature of an ox like the nature of a man?'"
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-011-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "告子曰：「食色，性也。仁，內也，非外也；義，外也，非內也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The philosopher Gao said, 'To enjoy food and delight in colours is nature. Benevolence is internal and not external; righteousness is external and not internal.'"
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-011-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "孟子曰：「何以謂仁內義外也？」曰：「彼長而我長之，非有長於我也；猶彼白而我白之，從其白於外也，故謂之外也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius asked him, 'What is the ground of your saying that benevolence is internal and righteousness external?' He replied, 'There is a man older than I, and I give honour to his age. It is not that there is first in me a principle of such reverence to age. It is just as when there is a white man, and I consider him white; according as he is so externally to me. On this account, I pronounce of righteousness that it is external.'"
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-011-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "曰：「異於白馬之白也，無以異於白人之白也；不識長馬之長也，無以異於長人之長與？且謂長者義乎？長之者義乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'There is no difference between our pronouncing a white horse to be white and our pronouncing a white man to be white. But is there no difference between the regard with which we acknowledge the age of an old horse and that with which we acknowledge the age of an old man? And what is it which is called righteousness? The fact of a man's being old? Or the fact of our giving honour to his age?'"
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-011-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "曰：「吾弟則愛之，秦人之弟則不愛也，是以我為悅者也，故謂之內。長楚人之長，亦長吾之長，是以長為悅者也，故謂之外也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gao said, 'There is my younger brother; I love him. But the younger brother of a man of Qin I do not love: that is, the feeling is determined by myself, and therefore I say that benevolence is internal. On the other hand, I give honour to an old man of Chu, and I also give honour to an old man of my own people: that is, the feeling is determined by the age, and therefore I say that righteousness is external.'"
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-011-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "曰：「耆秦人之炙，無以異於耆吾炙。夫物則亦有然者也，然則耆炙亦有外與？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius answered him, 'Our enjoyment of meat roasted by a man of Qin does not differ from our enjoyment of meat roasted by ourselves. Thus, what you insist on takes place also in the case of such things, and will you say likewise that our enjoyment of a roast is external?'"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-011-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "孟季子問公都子曰：「何以謂義內也？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The disciple Meng Ji asked Gong Du,"
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-011-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "曰：「行吾敬，故謂之內也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "saying, 'On what ground is it said that righteousness is internal?' Gong Du replied, 'We therein act out our feeling of respect, and therefore it is said to be internal.'"
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-011-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "「鄉人長於伯兄一歲，則誰敬？」曰：「敬兄。」「酌則誰先？」曰：「先酌鄉人。」「所敬在此，所長在彼，果在外，非由內也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The other objected, 'Suppose the case of a villager older than your elder brother by one year, to which of them would you show the greater respect?' 'To my brother,' was the reply. 'But for which of them would you first pour out wine at a feast?' 'For the villager.' Meng Ji argued, 'Now your feeling of reverence rests on the one, and now the honour due to age is rendered to the other - this is certainly determined by what is without, and does not proceed from within.'"
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-011-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "公都子不能答，以告孟子。孟子曰：「敬叔父乎？敬弟乎？彼將曰『敬叔父』。曰：『弟為尸，則誰敬？』彼將曰『敬弟。』子曰：『惡在其敬叔父也？』彼將曰『在位故也。』子亦曰：『在位故也。庸敬在兄，斯須之敬在鄉人。』」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gong Du was unable to reply, and told the conversation to Mencius. Mencius said, 'You should ask him, \"Which do you respect most, your uncle, or your younger brother?\" He will answer, \"My uncle.\" Ask him again, \"If your younger brother be personating a dead ancestor, to which do you show the greater respect, to him or to your uncle?\" He will say, \"To my younger brother.\" You can go on, \"But where is the respect due, as you said, to your uncle?\" He will reply to this, \"I show the respect to my younger brother, because of the position which he occupies,\" and you can likewise say, \"So my respect to the villager is because of the position which he occupies. Ordinarily, my respect is rendered to my elder brother; for a brief season, on occasion, it is rendered to the villager.\"'"
+          }
+        }
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-011-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "季子聞之曰：「敬叔父則敬，敬弟則敬，果在外，非由內也。」公都子曰：「冬日則飲湯，夏日則飲水，然則飲食亦在外也？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Meng Ji heard this and observed, 'When respect is due to my uncle, I respect him, and when respect is due to my younger brother, I respect him; the thing is certainly determined by what is without, and does not proceed from within.' Gong Du replied, 'In winter we drink things hot, in summer we drink things cold; and so, on your principle, eating and drinking also depend on what is external!'"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-011-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "公都子曰：「告子曰：『性無善無不善也。』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The disciple Gong Du said, 'The philosopher Gao says, \"Man's nature is neither good nor bad.\" Some say, \"Man's nature may be made to practise good, and it may be made to practise evil, and accordingly, under Wen and Wu, the people loved what was good, while under Yu and Li, they loved what was cruel.\" Some say, \"The nature of some is good, and the nature of others is bad."
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-011-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "或曰：『性可以為善，可以為不善；是故文武興，則民好善；幽厲興，則民好暴。』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hence it was that under such a sovereign as Yao there yet appeared Xiang;"
+          }
+        }
+      },
+      {
+        "character_count": 45,
+        "id": "chapter-011-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "或曰：『有性善，有性不善；是故以堯為君而有象，以瞽瞍為父而有舜；以紂為兄之子且以為君，而有微子啟、王子比干。』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "that with such a father as Gu Sou there yet appeared Shun;"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-011-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "今曰『性善』，然則彼皆非與？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "and that with Zhou for their sovereign, and the son of their elder brother besides, there were found Qi, the viscount of Wei, and the prince Bi Gan. And now you say, \"The nature is good.\" Then are all those wrong?'"
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-011-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "孟子曰：「乃若其情，則可以為善矣，乃所謂善也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'From the feelings proper to it, it is constituted for the practice of what is good."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-011-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "若夫為不善，非才之罪也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'From the feelings proper to it, it is constituted for the practice of what is good."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-011-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "惻隱之心，人皆有之；羞惡之心，人皆有之；恭敬之心，人皆有之；是非之心，人皆有之。惻隱之心，仁也；羞惡之心，義也；恭敬之心，禮也；是非之心，智也。仁義禮智，非由外鑠我也，我固有之也，弗思耳矣。故曰：『求則得之，舍則失之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This is what I mean in saying that the nature is good."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-011-line-026",
+        "order": 26,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "』或相倍蓰而無算者，不能盡其才者也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If men do what is not good, the blame cannot be imputed to their natural powers."
+          }
+        }
+      },
+      {
+        "character_count": 45,
+        "id": "chapter-011-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "詩曰：『天生蒸民，有物有則。民之秉夷，好是懿德。』孔子曰：『為此詩者，其知道乎！故有物必有則，民之秉夷也，故好是懿德。』」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The feeling of commiseration belongs to all men; so does that of shame and dislike; and that of reverence and respect; and that of approving and disapproving. The feeling of commiseration implies the principle of benevolence; that of shame and dislike, the principle of righteousness; that of reverence and respect, the principle of propriety; and that of approving and disapproving, the principle of knowledge. Benevolence, righteousness, propriety, and knowledge are not infused into us from without. We are certainly furnished with them. And a different view is simply owing to want of reflection. Hence it is said, \"Seek and you will find them. Neglect and you will lose them.\" Men differ from one another in regard to them - some as much again as others, some five times as much, and some to an incalculable amount - it is because they cannot carry out fully their natural powers. It is said in the Book of Poetry, \"Heaven in producing mankind, Gave them their various faculties and relations with their specific laws. These are the invariable rules of nature for all to hold, And all love this admirable virtue.\" Confucius said, \"The maker of this ode knew indeed the principle of our nature!\" We may thus see that every faculty and relation must have its law, and since there are invariable rules for all to hold, they consequently love this admirable virtue.'"
+          }
+        }
+      },
+      {
+        "character_count": 33,
+        "id": "chapter-011-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "孟子曰：「富歲，子弟多賴；凶歲，子弟多暴，非天之降才爾殊也，其所以陷溺其心者然也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'In good years the children of the people are most of them good, while in bad years the most of them abandon themselves to evil."
+          }
+        }
+      },
+      {
+        "character_count": 49,
+        "id": "chapter-011-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "今夫麰麥，播種而耰之，其地同，樹之時又同，浡然而生，至於日至之時，皆熟矣。雖有不同，則地有肥磽，雨露之養，人事之不齊也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is not owing to any difference of their natural powers conferred by Heaven that they are thus different."
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-011-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "故凡同類者，舉相似也，何獨至於人而疑之？聖人與我同類者。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The abandonment is owing to the circumstances through which they allow their minds to be ensnared and drowned in evil."
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-011-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "故龍子曰：『不知足而為屨，我知其不為蕢也。』屨之相似，天下之足同也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There now is barley."
+          }
+        }
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-011-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "口之於味，有同耆也。易牙先得我口之所耆者也。如使口之於味也，其性與人殊，若犬馬之與我不同類也，則天下何耆皆從易牙之於味也？至於味，天下期於易牙，是天下之口相似也",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let it be sown and covered up; the ground being the same, and the time of sowing likewise the same, it grows rapidly up, and, when the full time is come, it is all found to be ripe."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-011-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "惟耳亦然。至於聲，天下期於師曠，是天下之耳相似也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Although there may be inequalities of produce, that is owing to the difference of the soil, as rich or poor, to the unequal nourishment afforded by the rains and dews, and to the different ways in which man has performed his business in reference to it."
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-011-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "惟目亦然。至於子都，天下莫不知其姣也。不知子都之姣者，無目者也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thus all things which are the same in kind are like to one another; why should we doubt in regard to man, as if he were a solitary exception to this?"
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-011-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "故曰：口之於味也，有同耆焉；耳之於聲也，有同聽焉；目之於色也，有同美焉。至於心，獨無所同然乎？心之所同然者何也？謂理也，義也。聖人先得我心之所同然耳。故理義之悅我心，猶芻豢之悅我口。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The sage and we are the same in kind. In accordance with this the scholar Long said, \"If a man make hempen sandals without knowing the size of people's feet, yet I know that he will not make them like baskets.\" Sandals are all like one another, because all men's feet are like one another. So with the mouth and flavours - all mouths have the same relishes. Yi Ya only apprehended before me what my mouth relishes. Suppose that his mouth in its relish for flavours differed from that of other men, as is the case with dogs or horses which are not the same in kind with us, why should all men be found following Yi Ya in their relishes? In the matter of tastes all the people model themselves after Yi Ya; that is, the mouths of all men are like one another. And so also it is with the ear. In the matter of sounds, the whole people model themselves after the music-master Kuang; that is, the ears of all men are like one another. And so also it is with the eye. In the case of Zi Du, there is no man but would recognise that he was beautiful. Any one who would not recognise the beauty of Zi Du must have no eyes. Therefore I say, Men's mouths agree in having the same relishes; their ears agree in enjoying the same sounds; their eyes agree in recognising the same beauty - shall their minds alone be without that which the similarly approve? What is it then of which they similarly approve? It is, I say, the principles of our nature, and the determinations of righteousness. The sages only apprehended before me that of which my mind approves along with other men. Therefore the principles of our nature and the determinations of righteousness are agreeable to my mind, just as the flesh of grass and grain-fed animals is agreeable to my mouth.'"
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-011-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "孟子曰：「牛山之木嘗美矣，以其郊於大國也，斧斤伐之，可以為美乎？是其日夜之所息，雨露之所潤，非無萌櫱之生焉，牛羊又從而牧之，是以若彼濯濯也。人見其濯濯也，以為未嘗有材焉，此豈山之性也哉？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'The trees of the Niu mountain were once beautiful."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-011-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "雖存乎人者，豈無仁義之心哉？其所以放其良心者，亦猶斧斤之於木也，旦旦而伐之，可以為美乎？其日夜之所息，平旦之氣，其好惡與人相近也者幾希，則其旦晝之所為，有梏亡之矣。梏之反覆，則其夜氣不足以存；夜氣不足以存，則其違禽獸不遠矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Being situated, however, in the borders of a large State, they were hewn down with axes and bills - and could they retain their beauty?"
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-011-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 36,
+        "text": "人見其禽獸也，而以為未嘗有才焉者，是豈人之情也哉？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still through the activity of the vegetative life day and night, and the nourishing influence of the rain and dew, they were not without buds and sprouts springing forth, but then came the cattle and goats and browsed upon them."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-011-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "故苟得其養，無物不長；苟失其養，無物不消。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To these things is owing the bare and stripped appearance of the mountain, and when people now see it, they think it was never finely wooded."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-011-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "孔子曰：『操則存，舍則亡；出入無時，莫知其鄉。』惟心之謂與？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But is this the nature of the mountain? And so also of what properly belongs to man; shall it be said that the mind of any man was without benevolence and righteousness? The way in which a man loses his proper goodness of mind is like the way in which the trees are denuded by axes and bills. Hewn down day after day, can it - the mind - retain its beauty? But there is a development of its life day and night, and in the calm air of the morning, just between night and day, the mind feels in a degree those desires and aversions which are proper to humanity, but the feeling is not strong, and it is fettered and destroyed by what takes place during the day. This fettering taking place again and again, the restorative influence of the night is not sufficient to preserve the proper goodness of the mind; and when this proves insufficient for that purpose, the nature becomes not much different from that of the irrational animals, and when people now see it, they think that it never had those powers which I assert. But does this condition represent the feelings proper to humanity? Therefore, if it receive its proper nourishment, there is nothing which will not grow. If it lose its proper nourishment, there is nothing which will not decay away. Confucius said, \"Hold it fast, and it remains with you. Let it go, and you lose it. Its outgoing and incoming cannot be defined as to time or place.\" It is the mind of which this is said!'"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-011-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "孟子曰：「無或乎王之不智也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'It is not to be wondered at that the king is not wise!"
+          }
+        }
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-011-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "雖有天下易生之物也，一日暴之，十日寒之，未有能生者也。吾見亦罕矣，吾退而寒之者至矣，吾如有萌焉何哉？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Suppose the case of the most easily growing thing in the world; if you let it have one day's genial heat, and then expose it for ten days to cold, it will not be able to grow."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-011-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "今夫弈之為數，小數也；不專心致志，則不得也。弈秋，通國之善弈者也。使弈秋誨二人弈，其一人專心致志，惟弈秋之為聽。一人雖聽之，一心以為有鴻鵠將至，思援弓繳而射之，雖與之俱學，弗若之矣。為是其智弗若與？曰：非然也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is but seldom that I have an audience of the king, and when I retire, there come all those who act upon him like the cold. Though I succeed in bringing out some buds of goodness, of what avail is it? Now chess-playing is but a small art, but without his whole mind being given, and his will bent, to it, a man cannot succeed at it. Chess Qiu is the best chess-player in all the kingdom. Suppose that he is teaching two men to play. The one gives to the subject his whole mind and bends to it all his will, doing nothing but listening to Chess Qiu. The other, although he seems to be listening to him, has his whole mind running on a swan which he thinks is approaching, and wishes to bend his bow, adjust the string to the arrow, and shoot it. Although he is learning along with the other, he does not come up to him. Why? Because his intelligence is not equal? Not so.'"
+          }
+        }
+      },
+      {
+        "character_count": 54,
+        "id": "chapter-011-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "孟子曰：「魚，我所欲也；熊掌，亦我所欲也，二者不可得兼，舍魚而取熊掌者也。生，亦我所欲也；義，亦我所欲也，二者不可得兼，舍生而取義者也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'I like fish, and I also like bear's paws."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-011-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If I cannot have the two together, I will let the fish go, and take the bear's paws."
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-011-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So, I like life, and I also like righteousness."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-011-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 45,
+        "text": "由是則生而有不用也，由是則可以辟患而有不為也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If I cannot keep the two together, I will let life go, and choose righteousness."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-011-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 46,
+        "text": "是故所欲有甚於生者，所惡有甚於死者，非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I like life indeed, but there is that which I like more than life, and therefore, I will not seek to possess it by any improper ways."
+          }
+        }
+      },
+      {
+        "character_count": 35,
+        "id": "chapter-011-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 47,
+        "text": "一簞食，一豆羹，得之則生，弗得則死。咴爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I dislike death indeed, but there is that which I dislike more than death, and therefore there are occasions when I will not avoid danger."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-011-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 48,
+        "text": "萬鍾則不辨禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If among the things which man likes there were nothing which he liked more than life, why should he not use every means by which he could preserve it?"
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-011-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 49,
+        "text": "鄉為身死而不受，今為宮室之美為之；鄉為身死而不受，今為妻妾之奉為之；鄉為身死而不受，今為所識窮乏者得我而為之，是亦不可以已乎？此之謂失其本心。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If among the things which man dislikes there were nothing which he disliked more than death, why should he not do everything by which he could avoid danger? There are cases when men by a certain course might preserve life, and they do not employ it; when by certain things they might avoid danger, and they will not do them. Therefore, men have that which they like more than life, and that which they dislike more than death. They are not men of distinguished talents and virtue only who have this mental nature. All men have it; what belongs to such men is simply that they do not lose it. Here are a small basket of rice and a platter of soup, and the case is one in which the getting them will preserve life, and the want of them will be death; if they are offered with an insulting voice, even a tramper will not receive them, or if you first tread upon them, even a beggar will not stoop to take them. And yet a man will accept of ten thousand zhong, without any consideration of propriety or righteousness. What can the ten thousand chung add to him? When he takes them, is it not that he may obtain beautiful mansions, that he may secure the services of wives and concubines, or that the poor and needy of his acquaintance may be helped by him? In the former case the offered bounty was not received, though it would have saved from death, and now the emolument is taken for the sake of beautiful mansions. The bounty that would have preserved from death was not received, and the emolument is taken to get the service of wives and concubines. The bounty that would have saved from death was not received, and the emolument is taken that one's poor and needy acquaintance may be helped by him. Was it then not possible likewise to decline this? This is a case of what is called \"Losing the proper nature of one's mind.\"'"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-011-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 50,
+        "text": "孟子曰：「仁，人心也；義，人路也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Benevolence is man's mind, and righteousness is man's path."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-011-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 51,
+        "text": "舍其路而弗由，放其心而不知求，哀哉！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "How lamentable is it to neglect the path and not pursue it, to lose this mind and not know to seek it again!"
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-011-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 52,
+        "text": "人有雞犬放，則知求之；有放心，而不知求。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When men's fowls and dogs are lost, they know to seek for them again, but they lose their mind, and do not know to seek for it."
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-011-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 53,
+        "text": "學問之道無他，求其放心而已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The great end of learning is nothing else but to seek for the lost mind.'"
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-011-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 54,
+        "text": "孟子曰：「今有無名之指，屈而不信，非疾痛害事也，如有能信之者，則不遠秦楚之路，為指之不若人也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Here is a man whose fourth finger is bent and cannot be stretched out straight."
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-011-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 55,
+        "text": "指不若人，則知惡之；心不若人，則不知惡，此之謂不知類也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is not painful, nor does it incommode his business, and yet if there be any one who can make it straight, he will not think the way from Qin to Chu far to go to him; because his finger is not like the finger of other people. When a man's finger is not like those of other people, he knows to feel dissatisfied, but if his mind be not like that of other people, he does not know to feel dissatisfaction. This is called \"Ignorance of the relative importance of things.\"'"
+          }
+        }
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-011-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 56,
+        "text": "孟子曰：「拱把之桐梓，人苟欲生之，皆知所以養之者。至於身，而不知所以養之者，豈愛身不若桐梓哉？弗思甚也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Anybody who wishes to cultivate the tong or the zi, which may be grasped with both hands, perhaps with one, knows by what means to nourish them. In the case of their own persons, men do not know by what means to nourish them. Is it to be supposed that their regard of their own persons is inferior to their regard for a tong or zi? Their want of reflection is extreme.'"
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-011-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 57,
+        "text": "孟子曰：「人之於身也，兼所愛。兼所愛，則兼所養也。無尺寸之膚不愛焉，則無尺寸之膚不養也。所以考其善不善者，豈有他哉？於己取之而已矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'There is no part of himself which a man does not love, and as he loves all, so he must nourish all."
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-011-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 58,
+        "text": "體有貴賤，有小大。無以小害大，無以賤害貴。養其小者為小人，養其大者為大人。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is not an inch of skin which he does not love, and so there is not an inch of skin which he will not nourish."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-011-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 59,
+        "text": "今有場師，舍其梧檟，養其樲棘，則為賤場師焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "For examining whether his way of nourishing be good or not, what other rule is there but this, that he determine by reflecting on himself where it should be applied?"
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-011-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 60,
+        "text": "養其一指而失其肩背，而不知也，則為狼疾人也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Some parts of the body are noble, and some ignoble; some great, and some small."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-011-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 61,
+        "text": "飲食之人，則人賤之矣，為其養小以失大也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The great must not be injured for the small, nor the noble for the ignoble."
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-011-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 62,
+        "text": "飲食之人無有失也，則口腹豈適為尺寸之膚哉？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He who nourishes the little belonging to him is a little man, and he who nourishes the great is a great man."
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-011-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 63,
+        "text": "公都子問曰：「鈞是人也，或為大人，或為小人，何也？」孟子曰：「從其大體為大人，從其小體為小人。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Here is a plantation-keeper, who neglects his wu and jia, and cultivates his sour jujube-trees; he is a poor plantation-keeper."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-011-line-066",
+        "order": 66,
+        "source_block_chunk": 1,
+        "source_block_order": 64,
+        "text": "曰：「鈞是人也，或從其大體，或從其小體，何也？」曰：「耳目之官不思，而蔽於物，物交物，則引之而已矣。心之官則思，思則得之，不思則不得也。此天之所與我者，先立乎其大者，則其小者弗能奪也。此為大人而已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He who nourishes one of his fingers, neglecting his shoulders or his back, without knowing that he is doing so, is a man who resembles a hurried wolf. A man who only eats and drinks is counted mean by others; because he nourishes what is little to the neglect of what is great. If a man, fond of his eating and drinking, were not to neglect what is of more importance, how should his mouth and belly be considered as no more than an inch of skin?' The disciple Gong Du said, 'All are equally men, but some are great men, and some are little men - how is this?' Mencius replied, 'Those who follow that part of themselves which is great are great men; those who follow that part which is little are little men.' Gong Du pursued, 'All are equally men, but some follow that part of themselves which is great, and some follow that part which is little - how is this?' Mencius answered, 'The senses of hearing and seeing do not think, and are obscured by external things. When one thing comes into contact with another, as a matter of course it leads it away. To the mind belongs the office of thinking. By thinking, it gets the right view of things; by neglecting to think, it fails to do this. These - the senses and the mind - are what Heaven has given to us. Let a man first stand fast in the supremacy of the nobler part of his constitution, and the inferior part will not be able to take it from him. It is simply this which makes the great man.'"
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-011-line-067",
+        "order": 67,
+        "source_block_chunk": 1,
+        "source_block_order": 65,
+        "text": "孟子曰：「有天爵者，有人爵者。仁義忠信，樂善不倦，此天爵也；公卿大夫，此人爵也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'There is a nobility of Heaven, and there is a nobility of man."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-011-line-068",
+        "order": 68,
+        "source_block_chunk": 1,
+        "source_block_order": 66,
+        "text": "古之人修其天爵，而人爵從之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Benevolence, righteousness, self-consecration, and fidelity, with unwearied joy in these virtues; these constitute the nobility of Heaven."
+          }
+        }
+      },
+      {
+        "character_count": 33,
+        "id": "chapter-011-line-069",
+        "order": 69,
+        "source_block_chunk": 1,
+        "source_block_order": 67,
+        "text": "今之人修其天爵，以要人爵；既得人爵，而棄其天爵，則惑之甚者也，終亦必亡而已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To be a gong, a qing, or a da fu; this constitutes the nobility of man. The men of antiquity cultivated their nobility of Heaven, and the nobility of man came to them in its train. The men of the present day cultivate their nobility of Heaven in order to seek for the nobility of man, and when they have obtained that, they throw away the other - their delusion is extreme. The issue is simply this, that they must lose that nobility of man as well.'"
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-011-line-070",
+        "order": 70,
+        "source_block_chunk": 1,
+        "source_block_order": 68,
+        "text": "孟子曰：「欲貴者，人之同心也。人人有貴於己者，弗思耳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'To desire to be honoured is the common mind of men."
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-011-line-071",
+        "order": 71,
+        "source_block_chunk": 1,
+        "source_block_order": 69,
+        "text": "人之所貴者，非良貴也。趙孟之所貴，趙孟能賤之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And all men have in themselves that which is truly honourable."
+          }
+        }
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-011-line-072",
+        "order": 72,
+        "source_block_chunk": 1,
+        "source_block_order": 70,
+        "text": "詩云：『既醉以酒，既飽以德。』言飽乎仁義也，所以不願人之膏粱之味也；令聞廣譽施於身，所以不願人之文繡也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Only they do not think of it. The honour which men confer is not good honour. Those whom Zhao the Great ennobles he can make mean again. It is said in the Book of Poetry, \"He has filled us with his wine, He has satiated us with his goodness.\" \"Satiated us with his goodness,\" that is, satiated us with benevolence and righteousness, and he who is so satiated, consequently, does not wish for the fat meat and fine millet of men. A good reputation and far-reaching praise fall to him, and he does not desire the elegant embroidered garments of men.'"
+          }
+        }
+      },
+      {
+        "character_count": 49,
+        "id": "chapter-011-line-073",
+        "order": 73,
+        "source_block_chunk": 1,
+        "source_block_order": 71,
+        "text": "孟子曰：「仁之勝不仁也，猶水勝火。今之為仁者，猶以一杯水，救一車薪之火也；不熄，則謂之水不勝火，此又與於不仁之甚者也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Benevolence subdues its opposite just as water subdues fire."
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-011-line-074",
+        "order": 74,
+        "source_block_chunk": 1,
+        "source_block_order": 72,
+        "text": "亦終必亡而已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Those, however, who now-a-days practise benevolence do it as if with one cup of water they could save a whole waggon-load of fuel which was on fire, and when the flames were not extinguished, were to say that water cannot subdue fire. This conduct, moreover, greatly encourages those who are not benevolent. The final issue will simply be this: the loss of that small amount of benevolence.'"
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-011-line-075",
+        "order": 75,
+        "source_block_chunk": 1,
+        "source_block_order": 73,
+        "text": "孟子曰：「五穀者，種之美者也；苟為不熟，不如荑稗。夫仁亦在乎熟之而已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Of all seeds the best are the five kinds of grain, yet if they be not ripe, they are not equal to the ti or the bai. So, the value of benevolence depends entirely on its being brought to maturity.'"
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-011-line-076",
+        "order": 76,
+        "source_block_chunk": 1,
+        "source_block_order": 74,
+        "text": "孟子曰：「羿之教人射，必志於彀；學者亦必志於彀。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Yi, in teaching men to shoot, made it a rule to draw the bow to the full, and his pupils also did the same."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-011-line-077",
+        "order": 77,
+        "source_block_chunk": 1,
+        "source_block_order": 75,
+        "text": "大匠誨人，必以規矩；學者亦必以規矩。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A master-workman, in teaching others, uses the compass and square, and his pupils do the same.'"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "凡二十章。\n桮，音杯。棬，丘圓反。性者，人生所岙之天理也。杞柳，柜柳。桮棬，屈木所為，若卮匜之屬。告子言人性本無仁義，必待矯揉而後成，如荀子性惡之說也。戕，音牆。與，平聲。夫，音扶。言如此，則天下之人皆以仁義為害性而不肯為，是因子之言而為仁義之禍也。\n湍，他端反。湍，波流瀠回之貌也。告子因前說而小變之，近於揚子善惡混之說。言水誠不分東西矣，然豈不分上下乎？性即天理，未有不善者也。夫，音扶。搏，補各反。搏，擊也。躍，跳也。顙，額也。水之過額在山，皆不就下也。然其本性未嘗不就下，但為博激所使而逆其性耳。此章言性本善，故順之而無不善；本無惡，故反之而後為惡，非本無定體，而可以無所不為也。\n生，指人物之所以知覺運動者而言。告子論性，前後四章，語雖不同，然其大指不外乎此，與近世佛氏所謂作用是性者略相似。與，平聲。下同。白之謂白，猶言凡物之白者，同謂之白，更無差別也。白羽以下，孟子再問而告子曰然，則是謂凡有生者同是一性矣。孟子又言若果如此，則犬牛與人皆有知覺，皆能運動，其性皆無以異矣，於是告子自知其說之非而不能對也。愚按：性者，人之所得於天之理也；生者，人之所得於天之氣也。性，形而上者也；氣，形而下者也。人物之生，莫不有是性，亦莫不有是氣。然以氣言之，則知覺運動，人與物若不異也；以理言之，則仁義禮智之岙豈物之所得而全哉？此人之性所以無不善，而為萬物之靈也。告子不知性之為理，而以所謂氣者當之，是以杞柳湍水之喻，食色無善無不善之說，縱橫繆戾，紛紜舛錯，而此章之誤乃其本根。所以然者，蓋徒知知覺運動之蠢然者，人與物同；而不知仁義禮智之粹然者，人與物異也。孟子以是折之，其義精矣。\n告子以人之知覺運動者為性，故言人之甘食悅色者即其性。故仁愛之心生於內，而事物之宜由乎外。學者但當用力於仁，而不必求合於義也。長，上聲，下同。我長之，我以彼為長也；我白之，我以彼為白也。與，平聲，下同。張氏曰：「上異於二字疑衍。」李氏曰：「或有闕文焉。」愚按：白馬白人，所謂彼白而我白之也；長馬長人，所謂彼長而我長之也。白馬白人不異，而長馬長人不同，是乃所謂義也。義不在彼之長，而在我長之之心，則義之非外明矣。言愛主於我，故仁在內；敬主於長，故義在外。耆，與嗜同。夫，音扶。言長之耆之，皆出於心也。林氏曰：「告子以食色為性，故因其所明者而通之。」自篇首至此四章，告子之辯屢屈，而屢變其說以求勝，卒不聞其能自反而有所疑也。此正其所謂不得於言勿求於心者，所以卒於鹵莽而不得其正也。\n孟季子，疑孟仲子之弟也。蓋聞孟子之言而未達，故私論之。所敬之人雖在外，然知其當敬而行吾心之敬以敬之，則不在外也。長，上聲。伯，長也。酌，酌酒也。此皆季子問、公都子答，而季子又言，如此則敬長之心，果不由中出也。惡，平聲。尸，祭祀所主以象神，雖子弟為之，然敬之當如祖考也。在位，弟在尸位，鄉人在賓客之位也。庸，常也。斯須，暫時也。言因時制宜，皆由中出也。此亦上章耆炙之意。范氏曰：「二章問答，大指略同，皆反覆譬喻以曉當世，使明仁義之在內，則知人之性善，而皆可以為堯舜矣。」\n此亦「生之謂性、食色性也」之意，近世蘇氏、胡氏之說蓋如此。好，去聲。此即湍水之說也。韓子性有三品之說蓋如此。按此文，則微子、比干皆紂之叔父，而書稱微子為商王元子，疑此或有誤字。與，平聲。乃若，發語辭。情者，性之動也。人之情，本但可以為善而不可以為惡，則性之本善可知矣。夫，音扶。才，猶材質，人之能也。人有是性，則有是才，性既善則才亦善。人之為不善，乃物欲陷溺而然，非其才之罪也。惡，去聲。舍，上聲。蓰，音師。恭者，敬之發於外者也；敬者，恭之主於中者也。鑠，以火銷金之名，自外以至內也。算，數也。言四者之心人所固有，但人自不思而求之耳，所以善惡相去之遠，由不思不求而不能擴充以盡其才也。前篇言是四者為仁義禮智之端，而此不言端者，彼欲其擴而充之，此直因用以著其本體，故言有不同耳。好，去聲。詩大雅烝民之篇。蒸，詩作烝，眾也。物，事也。則，法也。夷，詩作彝，常也。懿，美也。有物必有法：如有耳目，則有聰明之德；有父子，則有慈孝之心，是民所秉執之常性也，故人之情無不好此懿德者。以此觀之，則人性之善可見，而公都子所問之三說，皆不辯而自明矣。程子曰：「性即理也，理則堯舜至於塗人一也。才岙於氣，氣有清濁，岙其清者為賢，岙其濁者為愚。學而知之，則氣無清濁，皆可至於善而復性之本，湯武身之是也。孔子所言下愚不移者，則自暴自棄之人也。」又曰：「論性不論氣，不備；論氣不論性，不明，二之則不是。」張子曰：「形而後有氣質之性，善反之則天地之性存焉。故氣質之性，君子有弗性者焉。」愚按：程子此說才字，與孟子本文小異。蓋孟子專指其發於性者言之，故以為才無不善；程子兼指其岙於氣者言之，則人之才固有昏明強弱之不同矣，張子所謂氣質之性是也。二說雖殊，各有所當，然以事理考之，程子為密。蓋氣質所岙雖有不善，而不害性之本善；性雖本善，而不可以無省察矯揉之功，學者所當深玩也。\n富歲，豐年也。賴，藉也。豐年衣食饒足，故有所顧藉而為善；凶年衣食不足，故有以陷溺其心而為暴。夫，音扶。麰，音牟。耰，音憂。磽，苦交反。麰，大麥也。耰，覆種也。日至之時，謂當成熟之期也。磽，瘠薄也。聖人亦人耳，其性之善，無不同也。蕢，音匱。蕢，草器也。不知人足之大小而為之屨，雖未必適中，然必似足形，不至成蕢也。耆，與嗜同，下同。易牙，古之知味者。言易牙所調之味，則天下皆以為美也。師曠，能審音者也。言師曠所和之音，則天下皆以為美也。姣，古卯反。子都，古之美人也。妏，好也。然，猶可也。草食曰芻，牛羊是也；穀食曰豢，犬豕是也。程子曰：「在物為理，處物為義，體用之謂也。孟子言人心無不悅理義者，但聖人則先知先覺乎此耳，非有以異於人也。」程子又曰：「理義之悅我心，猶芻豢之悅我口，此語親切有味。須實體察得理義之悅心，真猶芻豢之悅口，始得。」\n櫱，五割反。牛山，齊之東南山也。邑外謂之郊，言牛山之木，前此固嘗美矣，今為大國之郊，伐之者眾，故失其美耳。息，生長也。日夜之所息，謂氣化流行未嘗間斷，故日夜之閒，凡物皆有所生長也，萌，芽也。櫱，芽之旁出者也。濯濯，光潔之貌。材，材木也。言山木雖伐，猶有萌櫱，而牛羊又從而害之，是以至於光潔而無草木也。好、惡，並去聲。良心者，本然之善心，即所謂仁義之心也。平旦之氣，謂未與物接之時，清明之氣也。好惡與人相近，言得人心之所同然也。幾希，不多也。梏，械也。反覆，展轉也。言人之良心雖已放失，然其日夜之間，亦必有所生長。故平旦未與物接，其氣清明之際，良心猶必有發見者。但其發見至微，而旦晝所為之不善，又已隨而梏亡之，如山木既伐，猶有萌櫱，而牛羊又牧之也。晝之所為，既有以害其夜之所息，又不能勝其晝之所為，是以展轉相害。至於夜氣之生，日以寖薄，而不足以存其仁義之良心，則平旦之氣亦不能清，而所好惡遂與人遠矣。長，上聲。山木人心，其理一也。舍，音捨。與，平聲。○孔子言心，操之則在此，舍之則失去，其出入無定時，亦無定處如此。孟子引之，以明心之神明不測，得失之易，而保守之難，不可頃刻失其養。學者當無時而不用其力，使神清氣定，常如平旦之時，則此心常存，無適而非仁義也。程子曰：「心豈有出入，亦以操舍而言耳。操之之道，敬以直內而已。」○愚聞之師曰：「人，理義之心未嘗無，惟持守之即在爾。若於旦晝之間，不至梏亡，則夜氣愈清。夜氣清，則平旦未與物接之時，湛然虛明氣象，自可見矣。」孟子發此夜氣之說，於學者極有利，宜熟玩而深省之也。\n或，與惑同，疑怪也。王，疑指齊王。易，去聲。暴，步卜反。見，音現。○暴，溫之也。我見王之時少，猶一日暴之也，我退則諂諛雜進之日多，是十日寒之也。雖有萌櫱之生，我亦安能如之何哉？ 夫，音扶。繳，音灼。射，食亦反。為是之為，去聲。若與之與，平聲。弈，圍棋也。數，技也。致，極也。弈秋，善弈者名秋也。繳，以繩繫矢而射也。程子為講官，言於上曰：「人主一日之閒，接賢士大夫之時多，親宦官宮妾之時少；則可以涵養氣質，而薰陶德性。」時不能用，識者恨之。范氏曰「人君之心，惟在所養。君子養之以善則智，小人養之以惡則愚。然賢人易疏，小人易親，是以寡不能勝眾，正不能勝邪。自古國家治日常少，而亂日常多，蓋以此也。」\n舍，上聲。魚與熊掌皆美味，而熊掌尤美也。惡、辟，皆去聲，下同。釋所以舍生取義之意。得，得生也。欲生惡死者，雖眾人利害之常情；而欲惡有甚於生死者，乃秉彝義理之良心，是以欲生而不為苟得，惡死而有所不避也。設使人無秉彝之良心，而但有利害之私情，則凡可以偷生免死者，皆將不顧禮義而為之矣。由其必有秉彝之良心，是以其能舍生取義如此。喪，去聲。羞惡之心，人皆有之，但眾人汨於利欲而忘之，惟賢者能存之而不喪耳。食，音嗣。咴，呼故反。蹴，子六反。豆，木器也。咴，咄啐之貌。行道之人，路中凡人也。蹴，踐踏也。乞人，丐乞之人也。不屑，不以為潔也。言雖欲食之急而猶惡無禮，有寧死而不食者。是其羞惡之本心，欲惡有甚於生死者，人皆有之也。為，去聲。與，平聲。萬鍾於我何加，言於我身無所增益也。所識窮乏者得我，謂所知識之窮乏者感我之惠也。上言人皆有羞惡之心，此言眾人所以喪之。由此三者，蓋理義之心雖曰固有，而物欲之蔽，亦人所易昏也。鄉、為，並去聲。為之之為，並如字。言三者身外之物，其得失比生死為甚輕。鄉為身死猶不肯受咴蹴之食，今乃為此三者而受無禮義之萬鍾，是豈不可以止乎？本心，謂羞惡之心。此章言羞惡之心，人所固有。或能決死生於危迫之際，而不免計豐約於宴安之時，是以君子不可頃刻而不省察於斯焉。\n仁者心之德，程子所謂心如穀種，仁則其生之性，是也。然但謂之仁，則人不知其切於己，故反而名之曰人心，則可以見其為此身酬酢萬變之主，而不可須臾失矣。義者行事之宜，謂之人路，則可以見其為出入往來必由之道，而不可須臾舍矣。舍，上聲。哀哉二字，最宜詳味，令人惕然有深省處。程子曰：「心至重，雞犬至輕。雞犬放則知求之，心放而不知求，豈愛其至輕而忘其至重哉？弗思而已矣。」愚謂上兼言仁義，而此下專論求放心者，能求放心，則不違於仁而義在其中矣。學問之事，固非一端，然其道則在於求其放心而已。蓋能如是則志氣清明，義理昭著，而可以上達；不然則昏昧放逸，雖曰從事於學，而終不能有所發明矣。故程子曰：「聖賢千言萬語，只是欲人將已放之心約之，使反復入身來，自能尋向上去，下學而上達也。」此乃孟子開示切要之言，程子又發明之，曲盡其指，學者宜服膺而勿失也。\n信，與伸同。為，去聲。無名指，手之第四指也。惡，去聲。不知類，言其不知輕重之等也。\n拱，兩手所圍也。把，一手所握也。桐梓，二木名。\n人於一身，固當兼養，然欲考其所養之善否者，惟在反之於身，以審其輕重而已矣。賤而小者，口腹也；貴而大者，心志也。舍，上聲。檟，音賈。樲，音貳。場師，治場圃者。梧，桐也；檟，梓也，皆美材也。樲棘，小棗，非美材也。狼善顧，疾則不能，故以為失肩背之喻。為，去聲。飲食之人，專養口腹者也。此言若使專養口腹，而能不失其大體，專口腹之養，軀命所關，不但為尺寸之膚而已。但養小之人，無不失其大者，故口腹雖所當養，而終不可以小害大，賤害貴也。\n鈞，同也。從，隨也。大體，心也。小體，耳目之類也。官之為言司也。耳司聽，目司視，各有所職而不能思，是以蔽於外物。既不能思而蔽於外物，則亦一物而已。又以外物交於此物，其引之而去不難矣。心則能思，而以思為職。凡事物之來，心得其職，則得其理，而物不能蔽；失其職，則不得其理，而物來蔽之。此三者，皆天之所以與我者，而心為大。若能有以立之，則事無不思，而耳目之欲不能奪之矣，此所以為大人也。然此天之此，舊本多作比，而趙注亦以比方釋之。今本既多作此，而注亦作此，乃未詳孰是。但作比字1，於義為短，故且從今本云。范浚心箴曰：「茫茫堪輿，俯仰無垠。人於其間，眇然有身。是身之微，大倉稊米，參為三才，曰惟心耳。往古來今，孰無此心？心為形役，乃獸乃禽。惟口耳目，手足動靜，投閒抵隙，為厥心病。一心之微，眾欲攻之，其與存者，嗚呼幾希！君子存誠，克念克敬，天君泰然，百體從令。」1. 字 : Originally read: \"方\". 據清仿宋大字本改。\n樂，音洛。天爵者，德義可尊，自然之貴也。修其天爵，以為吾分之所當然者耳。人爵從之，蓋不待求之而自至也。要，音邀。要，求也。修天爵以要人爵，其心固已惑矣；得人爵而棄天爵，則其惑又甚焉，終必并其所得之人爵而亡之也。\n貴於己者，謂天爵也。人之所貴，謂人以爵位加己而後貴也。良者，本然之善也。趙孟，晉卿也。能以爵祿與人而使之貴，則亦能奪之而使之賤矣。若良貴，則人安得而賤之哉？聞，去聲。詩大雅既醉之篇。飽，充足也。願，欲也。膏，肥肉。粱，美穀。令，善也。聞，亦譽也。文繡，衣之美者也。仁義充足而聞譽彰著，皆所謂良貴也。尹氏曰：「言在我者重，則外物輕。」\n與，猶助也。仁之能勝不仁，必然之理也。但為之不力，則無以勝不仁，而人遂以為真不能勝，是我之所為有以深助於不仁者也。言此人之心，亦且自怠於為仁，終必并與其所為而亡之。趙氏曰：「言為仁不至，而不反諸己也。」\n荑，音蹄。稗，蒲賣反。夫，音扶。荑稗，草之似穀者，其實亦可食，然不能如五穀之美也。但五穀不熟，則反不如荑稗之熟；猶為仁而不熟，則反不如為他道之有成。是以為仁必貴乎熟，而不可徒恃其種之美，又不可以仁之難熟，而甘為他道之有成也。尹氏曰：「日新而不已則熟。」\n彀，古候反。羿，善射者也。志，猶期也。彀，弓滿也。滿而後發，射之法也。學，謂學射。大匠，工師也。規矩，匠之法也。此章言事必有法，然後可成，師舍是則無以教，弟子舍是則無以學。曲藝且然，況聖人之道乎？",
+    "supplemental_unit_count": 60,
+    "supplemental_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-011-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "凡二十章。"
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-011-supp-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "桮，音杯。棬，丘圓反。性者，人生所岙之天理也。杞柳，柜柳。桮棬，屈木所為，若卮匜之屬。告子言人性本無仁義，必待矯揉而後成，如荀子性惡之說也。戕，音牆。與，平聲。夫，音扶。言如此，則天下之人皆以仁義為害性而不肯為，是因子之言而為仁義之禍也。"
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-011-supp-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "湍，他端反。湍，波流瀠回之貌也。告子因前說而小變之，近於揚子善惡混之說。言水誠不分東西矣，然豈不分上下乎？性即天理，未有不善者也。夫，音扶。搏，補各反。搏，擊也。躍，跳也。顙，額也。水之過額在山，皆不就下也。"
+      },
+      {
+        "character_count": 56,
+        "id": "chapter-011-supp-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "然其本性未嘗不就下，但為博激所使而逆其性耳。此章言性本善，故順之而無不善；本無惡，故反之而後為惡，非本無定體，而可以無所不為也。"
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-011-supp-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "生，指人物之所以知覺運動者而言。告子論性，前後四章，語雖不同，然其大指不外乎此，與近世佛氏所謂作用是性者略相似。與，平聲。下同。白之謂白，猶言凡物之白者，同謂之白，更無差別也。白羽以下，孟子再問而告子曰然，則是謂凡有生者同是一性矣。"
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-011-supp-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "孟子又言若果如此，則犬牛與人皆有知覺，皆能運動，其性皆無以異矣，於是告子自知其說之非而不能對也。愚按：性者，人之所得於天之理也；生者，人之所得於天之氣也。性，形而上者也；氣，形而下者也。人物之生，莫不有是性，亦莫不有是氣。"
+      },
+      {
+        "character_count": 102,
+        "id": "chapter-011-supp-007",
+        "order": 7,
+        "source_block_chunk": 3,
+        "source_block_order": 4,
+        "text": "然以氣言之，則知覺運動，人與物若不異也；以理言之，則仁義禮智之岙豈物之所得而全哉？此人之性所以無不善，而為萬物之靈也。告子不知性之為理，而以所謂氣者當之，是以杞柳湍水之喻，食色無善無不善之說，縱橫繆戾，紛紜舛錯，而此章之誤乃其本根。"
+      },
+      {
+        "character_count": 45,
+        "id": "chapter-011-supp-008",
+        "order": 8,
+        "source_block_chunk": 4,
+        "source_block_order": 4,
+        "text": "所以然者，蓋徒知知覺運動之蠢然者，人與物同；而不知仁義禮智之粹然者，人與物異也。孟子以是折之，其義精矣。"
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-011-supp-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "告子以人之知覺運動者為性，故言人之甘食悅色者即其性。故仁愛之心生於內，而事物之宜由乎外。學者但當用力於仁，而不必求合於義也。長，上聲，下同。我長之，我以彼為長也；我白之，我以彼為白也。與，平聲，下同。張氏曰：「上異於二字疑衍。"
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-011-supp-010",
+        "order": 10,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "」李氏曰：「或有闕文焉。」愚按：白馬白人，所謂彼白而我白之也；長馬長人，所謂彼長而我長之也。白馬白人不異，而長馬長人不同，是乃所謂義也。義不在彼之長，而在我長之之心，則義之非外明矣。言愛主於我，故仁在內；敬主於長，故義在外。耆，與嗜同。"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-011-supp-011",
+        "order": 11,
+        "source_block_chunk": 3,
+        "source_block_order": 5,
+        "text": "夫，音扶。言長之耆之，皆出於心也。林氏曰：「告子以食色為性，故因其所明者而通之。」自篇首至此四章，告子之辯屢屈，而屢變其說以求勝，卒不聞其能自反而有所疑也。此正其所謂不得於言勿求於心者，所以卒於鹵莽而不得其正也。"
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-011-supp-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "孟季子，疑孟仲子之弟也。蓋聞孟子之言而未達，故私論之。所敬之人雖在外，然知其當敬而行吾心之敬以敬之，則不在外也。長，上聲。伯，長也。酌，酌酒也。此皆季子問、公都子答，而季子又言，如此則敬長之心，果不由中出也。惡，平聲。"
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-011-supp-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "尸，祭祀所主以象神，雖子弟為之，然敬之當如祖考也。在位，弟在尸位，鄉人在賓客之位也。庸，常也。斯須，暫時也。言因時制宜，皆由中出也。此亦上章耆炙之意。"
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-011-supp-014",
+        "order": 14,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "范氏曰：「二章問答，大指略同，皆反覆譬喻以曉當世，使明仁義之在內，則知人之性善，而皆可以為堯舜矣。」"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-011-supp-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "此亦「生之謂性、食色性也」之意，近世蘇氏、胡氏之說蓋如此。好，去聲。此即湍水之說也。韓子性有三品之說蓋如此。按此文，則微子、比干皆紂之叔父，而書稱微子為商王元子，疑此或有誤字。與，平聲。乃若，發語辭。情者，性之動也。"
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-011-supp-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "人之情，本但可以為善而不可以為惡，則性之本善可知矣。夫，音扶。才，猶材質，人之能也。人有是性，則有是才，性既善則才亦善。人之為不善，乃物欲陷溺而然，非其才之罪也。惡，去聲。舍，上聲。蓰，音師。恭者，敬之發於外者也；敬者，恭之主於中者也。"
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-011-supp-017",
+        "order": 17,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "鑠，以火銷金之名，自外以至內也。算，數也。言四者之心人所固有，但人自不思而求之耳，所以善惡相去之遠，由不思不求而不能擴充以盡其才也。前篇言是四者為仁義禮智之端，而此不言端者，彼欲其擴而充之，此直因用以著其本體，故言有不同耳。好，去聲。"
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-011-supp-018",
+        "order": 18,
+        "source_block_chunk": 4,
+        "source_block_order": 7,
+        "text": "詩大雅烝民之篇。蒸，詩作烝，眾也。物，事也。則，法也。夷，詩作彝，常也。懿，美也。有物必有法：如有耳目，則有聰明之德；有父子，則有慈孝之心，是民所秉執之常性也，故人之情無不好此懿德者。"
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-011-supp-019",
+        "order": 19,
+        "source_block_chunk": 5,
+        "source_block_order": 7,
+        "text": "以此觀之，則人性之善可見，而公都子所問之三說，皆不辯而自明矣。程子曰：「性即理也，理則堯舜至於塗人一也。才岙於氣，氣有清濁，岙其清者為賢，岙其濁者為愚。學而知之，則氣無清濁，皆可至於善而復性之本，湯武身之是也。"
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-011-supp-020",
+        "order": 20,
+        "source_block_chunk": 6,
+        "source_block_order": 7,
+        "text": "孔子所言下愚不移者，則自暴自棄之人也。」又曰：「論性不論氣，不備；論氣不論性，不明，二之則不是。」張子曰：「形而後有氣質之性，善反之則天地之性存焉。故氣質之性，君子有弗性者焉。」愚按：程子此說才字，與孟子本文小異。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-011-supp-021",
+        "order": 21,
+        "source_block_chunk": 7,
+        "source_block_order": 7,
+        "text": "蓋孟子專指其發於性者言之，故以為才無不善；程子兼指其岙於氣者言之，則人之才固有昏明強弱之不同矣，張子所謂氣質之性是也。二說雖殊，各有所當，然以事理考之，程子為密。蓋氣質所岙雖有不善，而不害性之本善；"
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-011-supp-022",
+        "order": 22,
+        "source_block_chunk": 8,
+        "source_block_order": 7,
+        "text": "性雖本善，而不可以無省察矯揉之功，學者所當深玩也。"
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-011-supp-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "富歲，豐年也。賴，藉也。豐年衣食饒足，故有所顧藉而為善；凶年衣食不足，故有以陷溺其心而為暴。夫，音扶。麰，音牟。耰，音憂。磽，苦交反。麰，大麥也。耰，覆種也。日至之時，謂當成熟之期也。磽，瘠薄也。聖人亦人耳，其性之善，無不同也。蕢，音匱。"
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-011-supp-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "蕢，草器也。不知人足之大小而為之屨，雖未必適中，然必似足形，不至成蕢也。耆，與嗜同，下同。易牙，古之知味者。言易牙所調之味，則天下皆以為美也。師曠，能審音者也。言師曠所和之音，則天下皆以為美也。姣，古卯反。子都，古之美人也。妏，好也。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-011-supp-025",
+        "order": 25,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "然，猶可也。草食曰芻，牛羊是也；穀食曰豢，犬豕是也。程子曰：「在物為理，處物為義，體用之謂也。孟子言人心無不悅理義者，但聖人則先知先覺乎此耳，非有以異於人也。」程子又曰：「理義之悅我心，猶芻豢之悅我口，此語親切有味。"
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-011-supp-026",
+        "order": 26,
+        "source_block_chunk": 4,
+        "source_block_order": 8,
+        "text": "須實體察得理義之悅心，真猶芻豢之悅口，始得。」"
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-011-supp-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "櫱，五割反。牛山，齊之東南山也。邑外謂之郊，言牛山之木，前此固嘗美矣，今為大國之郊，伐之者眾，故失其美耳。息，生長也。日夜之所息，謂氣化流行未嘗間斷，故日夜之閒，凡物皆有所生長也，萌，芽也。櫱，芽之旁出者也。濯濯，光潔之貌。材，材木也。"
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-011-supp-028",
+        "order": 28,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "言山木雖伐，猶有萌櫱，而牛羊又從而害之，是以至於光潔而無草木也。好、惡，並去聲。良心者，本然之善心，即所謂仁義之心也。平旦之氣，謂未與物接之時，清明之氣也。好惡與人相近，言得人心之所同然也。幾希，不多也。梏，械也。反覆，展轉也。"
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-011-supp-029",
+        "order": 29,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "言人之良心雖已放失，然其日夜之間，亦必有所生長。故平旦未與物接，其氣清明之際，良心猶必有發見者。但其發見至微，而旦晝所為之不善，又已隨而梏亡之，如山木既伐，猶有萌櫱，而牛羊又牧之也。"
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-011-supp-030",
+        "order": 30,
+        "source_block_chunk": 4,
+        "source_block_order": 9,
+        "text": "晝之所為，既有以害其夜之所息，又不能勝其晝之所為，是以展轉相害。至於夜氣之生，日以寖薄，而不足以存其仁義之良心，則平旦之氣亦不能清，而所好惡遂與人遠矣。長，上聲。山木人心，其理一也。舍，音捨。與，平聲。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-011-supp-031",
+        "order": 31,
+        "source_block_chunk": 5,
+        "source_block_order": 9,
+        "text": "○孔子言心，操之則在此，舍之則失去，其出入無定時，亦無定處如此。孟子引之，以明心之神明不測，得失之易，而保守之難，不可頃刻失其養。學者當無時而不用其力，使神清氣定，常如平旦之時，則此心常存，無適而非仁義也。"
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-011-supp-032",
+        "order": 32,
+        "source_block_chunk": 6,
+        "source_block_order": 9,
+        "text": "程子曰：「心豈有出入，亦以操舍而言耳。操之之道，敬以直內而已。」○愚聞之師曰：「人，理義之心未嘗無，惟持守之即在爾。若於旦晝之間，不至梏亡，則夜氣愈清。夜氣清，則平旦未與物接之時，湛然虛明氣象，自可見矣。"
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-011-supp-033",
+        "order": 33,
+        "source_block_chunk": 7,
+        "source_block_order": 9,
+        "text": "」孟子發此夜氣之說，於學者極有利，宜熟玩而深省之也。"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-011-supp-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "或，與惑同，疑怪也。王，疑指齊王。易，去聲。暴，步卜反。見，音現。○暴，溫之也。我見王之時少，猶一日暴之也，我退則諂諛雜進之日多，是十日寒之也。雖有萌櫱之生，我亦安能如之何哉？夫，音扶。繳，音灼。射，食亦反。為是之為，去聲。若與之與，平聲。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-011-supp-035",
+        "order": 35,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "弈，圍棋也。數，技也。致，極也。弈秋，善弈者名秋也。繳，以繩繫矢而射也。程子為講官，言於上曰：「人主一日之閒，接賢士大夫之時多，親宦官宮妾之時少；則可以涵養氣質，而薰陶德性。」時不能用，識者恨之。范氏曰「人君之心，惟在所養。"
+      },
+      {
+        "character_count": 54,
+        "id": "chapter-011-supp-036",
+        "order": 36,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "君子養之以善則智，小人養之以惡則愚。然賢人易疏，小人易親，是以寡不能勝眾，正不能勝邪。自古國家治日常少，而亂日常多，蓋以此也。」"
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-011-supp-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "舍，上聲。魚與熊掌皆美味，而熊掌尤美也。惡、辟，皆去聲，下同。釋所以舍生取義之意。得，得生也。欲生惡死者，雖眾人利害之常情；而欲惡有甚於生死者，乃秉彝義理之良心，是以欲生而不為苟得，惡死而有所不避也。"
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-011-supp-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "設使人無秉彝之良心，而但有利害之私情，則凡可以偷生免死者，皆將不顧禮義而為之矣。由其必有秉彝之良心，是以其能舍生取義如此。喪，去聲。羞惡之心，人皆有之，但眾人汨於利欲而忘之，惟賢者能存之而不喪耳。食，音嗣。咴，呼故反。蹴，子六反。"
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-011-supp-039",
+        "order": 39,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "豆，木器也。咴，咄啐之貌。行道之人，路中凡人也。蹴，踐踏也。乞人，丐乞之人也。不屑，不以為潔也。言雖欲食之急而猶惡無禮，有寧死而不食者。是其羞惡之本心，欲惡有甚於生死者，人皆有之也。為，去聲。與，平聲。萬鍾於我何加，言於我身無所增益也。"
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-011-supp-040",
+        "order": 40,
+        "source_block_chunk": 4,
+        "source_block_order": 11,
+        "text": "所識窮乏者得我，謂所知識之窮乏者感我之惠也。上言人皆有羞惡之心，此言眾人所以喪之。由此三者，蓋理義之心雖曰固有，而物欲之蔽，亦人所易昏也。鄉、為，並去聲。為之之為，並如字。言三者身外之物，其得失比生死為甚輕。"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-011-supp-041",
+        "order": 41,
+        "source_block_chunk": 5,
+        "source_block_order": 11,
+        "text": "鄉為身死猶不肯受咴蹴之食，今乃為此三者而受無禮義之萬鍾，是豈不可以止乎？本心，謂羞惡之心。此章言羞惡之心，人所固有。或能決死生於危迫之際，而不免計豐約於宴安之時，是以君子不可頃刻而不省察於斯焉。"
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-011-supp-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "仁者心之德，程子所謂心如穀種，仁則其生之性，是也。然但謂之仁，則人不知其切於己，故反而名之曰人心，則可以見其為此身酬酢萬變之主，而不可須臾失矣。義者行事之宜，謂之人路，則可以見其為出入往來必由之道，而不可須臾舍矣。舍，上聲。"
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-011-supp-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "哀哉二字，最宜詳味，令人惕然有深省處。程子曰：「心至重，雞犬至輕。雞犬放則知求之，心放而不知求，豈愛其至輕而忘其至重哉？弗思而已矣。」愚謂上兼言仁義，而此下專論求放心者，能求放心，則不違於仁而義在其中矣。"
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-011-supp-044",
+        "order": 44,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "學問之事，固非一端，然其道則在於求其放心而已。蓋能如是則志氣清明，義理昭著，而可以上達；不然則昏昧放逸，雖曰從事於學，而終不能有所發明矣。故程子曰：「聖賢千言萬語，只是欲人將已放之心約之，使反復入身來，自能尋向上去，下學而上達也。"
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-011-supp-045",
+        "order": 45,
+        "source_block_chunk": 4,
+        "source_block_order": 12,
+        "text": "」此乃孟子開示切要之言，程子又發明之，曲盡其指，學者宜服膺而勿失也。"
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-011-supp-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "信，與伸同。為，去聲。無名指，手之第四指也。惡，去聲。不知類，言其不知輕重之等也。"
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-011-supp-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "拱，兩手所圍也。把，一手所握也。桐梓，二木名。"
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-011-supp-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "人於一身，固當兼養，然欲考其所養之善否者，惟在反之於身，以審其輕重而已矣。賤而小者，口腹也；貴而大者，心志也。舍，上聲。檟，音賈。樲，音貳。場師，治場圃者。梧，桐也；檟，梓也，皆美材也。樲棘，小棗，非美材也。"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-011-supp-049",
+        "order": 49,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "狼善顧，疾則不能，故以為失肩背之喻。為，去聲。飲食之人，專養口腹者也。此言若使專養口腹，而能不失其大體，專口腹之養，軀命所關，不但為尺寸之膚而已。但養小之人，無不失其大者，故口腹雖所當養，而終不可以小害大，賤害貴也。"
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-011-supp-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "鈞，同也。從，隨也。大體，心也。小體，耳目之類也。官之為言司也。耳司聽，目司視，各有所職而不能思，是以蔽於外物。既不能思而蔽於外物，則亦一物而已。又以外物交於此物，其引之而去不難矣。心則能思，而以思為職。"
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-011-supp-051",
+        "order": 51,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "凡事物之來，心得其職，則得其理，而物不能蔽；失其職，則不得其理，而物來蔽之。此三者，皆天之所以與我者，而心為大。若能有以立之，則事無不思，而耳目之欲不能奪之矣，此所以為大人也。然此天之此，舊本多作比，而趙注亦以比方釋之。"
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-011-supp-052",
+        "order": 52,
+        "source_block_chunk": 3,
+        "source_block_order": 16,
+        "text": "今本既多作此，而注亦作此，乃未詳孰是。但作比字1，於義為短，故且從今本云。范浚心箴曰：「茫茫堪輿，俯仰無垠。人於其間，眇然有身。是身之微，大倉稊米，參為三才，曰惟心耳。往古來今，孰無此心？心為形役，乃獸乃禽。"
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-011-supp-053",
+        "order": 53,
+        "source_block_chunk": 4,
+        "source_block_order": 16,
+        "text": "惟口耳目，手足動靜，投閒抵隙，為厥心病。一心之微，眾欲攻之，其與存者，嗚呼幾希！君子存誠，克念克敬，天君泰然，百體從令。」1. 字 : Originally read: \"方\". 據清仿宋大字本改。"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-011-supp-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "樂，音洛。天爵者，德義可尊，自然之貴也。修其天爵，以為吾分之所當然者耳。人爵從之，蓋不待求之而自至也。要，音邀。要，求也。修天爵以要人爵，其心固已惑矣；得人爵而棄天爵，則其惑又甚焉，終必并其所得之人爵而亡之也。"
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-011-supp-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "貴於己者，謂天爵也。人之所貴，謂人以爵位加己而後貴也。良者，本然之善也。趙孟，晉卿也。能以爵祿與人而使之貴，則亦能奪之而使之賤矣。若良貴，則人安得而賤之哉？聞，去聲。詩大雅既醉之篇。飽，充足也。願，欲也。膏，肥肉。粱，美穀。令，善也。"
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-011-supp-056",
+        "order": 56,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "聞，亦譽也。文繡，衣之美者也。仁義充足而聞譽彰著，皆所謂良貴也。尹氏曰：「言在我者重，則外物輕。」"
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-011-supp-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "與，猶助也。仁之能勝不仁，必然之理也。但為之不力，則無以勝不仁，而人遂以為真不能勝，是我之所為有以深助於不仁者也。言此人之心，亦且自怠於為仁，終必并與其所為而亡之。趙氏曰：「言為仁不至，而不反諸己也。」"
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-011-supp-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "荑，音蹄。稗，蒲賣反。夫，音扶。荑稗，草之似穀者，其實亦可食，然不能如五穀之美也。但五穀不熟，則反不如荑稗之熟；猶為仁而不熟，則反不如為他道之有成。是以為仁必貴乎熟，而不可徒恃其種之美，又不可以仁之難熟，而甘為他道之有成也。"
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-011-supp-059",
+        "order": 59,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "尹氏曰：「日新而不已則熟。」"
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-011-supp-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "彀，古候反。羿，善射者也。志，猶期也。彀，弓滿也。滿而後發，射之法也。學，謂學射。大匠，工師也。規矩，匠之法也。此章言事必有法，然後可成，師舍是則無以教，弟子舍是則無以學。曲藝且然，況聖人之道乎？"
+      }
+    ],
+    "text": "告子曰：「性，猶杞柳也；義，猶桮棬也。以人性為仁義，猶以杞柳為桮棬。」\n孟子曰：「子能順杞柳之性而以為桮棬乎？將戕賊杞柳而後以為桮棬也？如將戕賊杞柳而以為桮棬，則亦將戕賊人以為仁義與？率天下之人而禍仁義者，必子之言夫！」\n告子曰：「性猶湍水也，決諸東方則東流，袂諸西方則西流。人性之無分於善不善也，猶水之無分於東西也。」\n孟子曰：「水信無分於東西。無分於上下乎？人性之善也，猶水之就下也。人無有不善，水無有不下。\n今夫水，搏而躍之，可使過顙；激而行之，可使在山。是豈水之性哉？其勢則然也。人之可使為不善，其性亦猶是也。」\n告子曰：「生之謂性。」\n孟子曰：「生之謂性也，猶白之謂白與？」曰：「然。」「白羽之白也，猶白雪之白；白雪之白，猶白玉之白與？」曰：「然。」\n「然則犬之性，猶牛之性；牛之性，猶人之性與？」\n告子曰：「食色，性也。仁，內也，非外也；義，外也，非內也。」\n孟子曰：「何以謂仁內義外也？」曰：「彼長而我長之，非有長於我也；猶彼白而我白之，從其白於外也，故謂之外也。」\n曰：「異於白馬之白也，無以異於白人之白也；不識長馬之長也，無以異於長人之長與？且謂長者義乎？長之者義乎？」\n曰：「吾弟則愛之，秦人之弟則不愛也，是以我為悅者也，故謂之內。長楚人之長，亦長吾之長，是以長為悅者也，故謂之外也。」\n曰：「耆秦人之炙，無以異於耆吾炙。夫物則亦有然者也，然則耆炙亦有外與？」\n孟季子問公都子曰：「何以謂義內也？」\n曰：「行吾敬，故謂之內也。」\n「鄉人長於伯兄一歲，則誰敬？」曰：「敬兄。」「酌則誰先？」曰：「先酌鄉人。」「所敬在此，所長在彼，果在外，非由內也。」\n公都子不能答，以告孟子。孟子曰：「敬叔父乎？敬弟乎？彼將曰『敬叔父』。曰：『弟為尸，則誰敬？』彼將曰『敬弟。』子曰：『惡在其敬叔父也？』彼將曰『在位故也。』子亦曰：『在位故也。庸敬在兄，斯須之敬在鄉人。』」\n季子聞之曰：「敬叔父則敬，敬弟則敬，果在外，非由內也。」公都子曰：「冬日則飲湯，夏日則飲水，然則飲食亦在外也？」\n公都子曰：「告子曰：『性無善無不善也。』\n或曰：『性可以為善，可以為不善；是故文武興，則民好善；幽厲興，則民好暴。』\n或曰：『有性善，有性不善；是故以堯為君而有象，以瞽瞍為父而有舜；以紂為兄之子且以為君，而有微子啟、王子比干。』\n今曰『性善』，然則彼皆非與？」\n孟子曰：「乃若其情，則可以為善矣，乃所謂善也。\n若夫為不善，非才之罪也。\n惻隱之心，人皆有之；羞惡之心，人皆有之；恭敬之心，人皆有之；是非之心，人皆有之。惻隱之心，仁也；羞惡之心，義也；恭敬之心，禮也；是非之心，智也。仁義禮智，非由外鑠我也，我固有之也，弗思耳矣。故曰：『求則得之，舍則失之。』或相倍蓰而無算者，不能盡其才者也。\n詩曰：『天生蒸民，有物有則。民之秉夷，好是懿德。』孔子曰：『為此詩者，其知道乎！故有物必有則，民之秉夷也，故好是懿德。』」\n孟子曰：「富歲，子弟多賴；凶歲，子弟多暴，非天之降才爾殊也，其所以陷溺其心者然也。\n今夫麰麥，播種而耰之，其地同，樹之時又同，浡然而生，至於日至之時，皆熟矣。雖有不同，則地有肥磽，雨露之養，人事之不齊也。\n故凡同類者，舉相似也，何獨至於人而疑之？聖人與我同類者。\n故龍子曰：『不知足而為屨，我知其不為蕢也。』屨之相似，天下之足同也。\n口之於味，有同耆也。易牙先得我口之所耆者也。如使口之於味也，其性與人殊，若犬馬之與我不同類也，則天下何耆皆從易牙之於味也？至於味，天下期於易牙，是天下之口相似也\n惟耳亦然。至於聲，天下期於師曠，是天下之耳相似也。\n惟目亦然。至於子都，天下莫不知其姣也。不知子都之姣者，無目者也。\n故曰：口之於味也，有同耆焉；耳之於聲也，有同聽焉；目之於色也，有同美焉。至於心，獨無所同然乎？心之所同然者何也？謂理也，義也。聖人先得我心之所同然耳。故理義之悅我心，猶芻豢之悅我口。」\n孟子曰：「牛山之木嘗美矣，以其郊於大國也，斧斤伐之，可以為美乎？是其日夜之所息，雨露之所潤，非無萌櫱之生焉，牛羊又從而牧之，是以若彼濯濯也。人見其濯濯也，以為未嘗有材焉，此豈山之性也哉？\n雖存乎人者，豈無仁義之心哉？其所以放其良心者，亦猶斧斤之於木也，旦旦而伐之，可以為美乎？其日夜之所息，平旦之氣，其好惡與人相近也者幾希，則其旦晝之所為，有梏亡之矣。梏之反覆，則其夜氣不足以存；夜氣不足以存，則其違禽獸不遠矣。人見其禽獸也，而以為未嘗有才焉者，是豈人之情也哉？\n故苟得其養，無物不長；苟失其養，無物不消。\n孔子曰：『操則存，舍則亡；出入無時，莫知其鄉。』惟心之謂與？」\n孟子曰：「無或乎王之不智也。\n雖有天下易生之物也，一日暴之，十日寒之，未有能生者也。吾見亦罕矣，吾退而寒之者至矣，吾如有萌焉何哉？\n今夫弈之為數，小數也；不專心致志，則不得也。弈秋，通國之善弈者也。使弈秋誨二人弈，其一人專心致志，惟弈秋之為聽。一人雖聽之，一心以為有鴻鵠將至，思援弓繳而射之，雖與之俱學，弗若之矣。為是其智弗若與？曰：非然也。」\n孟子曰：「魚，我所欲也；熊掌，亦我所欲也，二者不可得兼，舍魚而取熊掌者也。生，亦我所欲也；義，亦我所欲也，二者不可得兼，舍生而取義者也。\n生亦我所欲，所欲有甚於生者，故不為苟得也；死亦我所惡，所惡有甚於死者，故患有所不辟也。\n如使人之所欲莫甚於生，則凡可以得生者，何不用也？使人之所惡莫甚於死者，則凡可以辟患者，何不為也？\n由是則生而有不用也，由是則可以辟患而有不為也。\n是故所欲有甚於生者，所惡有甚於死者，非獨賢者有是心也，人皆有之，賢者能勿喪耳。\n一簞食，一豆羹，得之則生，弗得則死。咴爾而與之，行道之人弗受；蹴爾而與之，乞人不屑也。\n萬鍾則不辨禮義而受之。萬鍾於我何加焉？為宮室之美、妻妾之奉、所識窮乏者得我與？\n鄉為身死而不受，今為宮室之美為之；鄉為身死而不受，今為妻妾之奉為之；鄉為身死而不受，今為所識窮乏者得我而為之，是亦不可以已乎？此之謂失其本心。」\n孟子曰：「仁，人心也；義，人路也。\n舍其路而弗由，放其心而不知求，哀哉！\n人有雞犬放，則知求之；有放心，而不知求。\n學問之道無他，求其放心而已矣。」\n孟子曰：「今有無名之指，屈而不信，非疾痛害事也，如有能信之者，則不遠秦楚之路，為指之不若人也。\n指不若人，則知惡之；心不若人，則不知惡，此之謂不知類也。」\n孟子曰：「拱把之桐梓，人苟欲生之，皆知所以養之者。至於身，而不知所以養之者，豈愛身不若桐梓哉？弗思甚也。」\n孟子曰：「人之於身也，兼所愛。兼所愛，則兼所養也。無尺寸之膚不愛焉，則無尺寸之膚不養也。所以考其善不善者，豈有他哉？於己取之而已矣。\n體有貴賤，有小大。無以小害大，無以賤害貴。養其小者為小人，養其大者為大人。\n今有場師，舍其梧檟，養其樲棘，則為賤場師焉。\n養其一指而失其肩背，而不知也，則為狼疾人也。\n飲食之人，則人賤之矣，為其養小以失大也。\n飲食之人無有失也，則口腹豈適為尺寸之膚哉？」\n公都子問曰：「鈞是人也，或為大人，或為小人，何也？」孟子曰：「從其大體為大人，從其小體為小人。」\n曰：「鈞是人也，或從其大體，或從其小體，何也？」曰：「耳目之官不思，而蔽於物，物交物，則引之而已矣。心之官則思，思則得之，不思則不得也。此天之所與我者，先立乎其大者，則其小者弗能奪也。此為大人而已矣。」\n孟子曰：「有天爵者，有人爵者。仁義忠信，樂善不倦，此天爵也；公卿大夫，此人爵也。\n古之人修其天爵，而人爵從之。\n今之人修其天爵，以要人爵；既得人爵，而棄其天爵，則惑之甚者也，終亦必亡而已矣。」\n孟子曰：「欲貴者，人之同心也。人人有貴於己者，弗思耳。\n人之所貴者，非良貴也。趙孟之所貴，趙孟能賤之。\n詩云：『既醉以酒，既飽以德。』言飽乎仁義也，所以不願人之膏粱之味也；令聞廣譽施於身，所以不願人之文繡也。」\n孟子曰：「仁之勝不仁也，猶水勝火。今之為仁者，猶以一杯水，救一車薪之火也；不熄，則謂之水不勝火，此又與於不仁之甚者也。\n亦終必亡而已矣。」\n孟子曰：「五穀者，種之美者也；苟為不熟，不如荑稗。夫仁亦在乎熟之而已矣。」\n孟子曰：「羿之教人射，必志於彀；學者亦必志於彀。\n大匠誨人，必以規矩；學者亦必以規矩。」",
+    "title": "告子章句上"
+  },
+  "chapter_path": "books/mengzi/chapters/chapter-011.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 孟子集注",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/meng-zi-ji-zhu?if=en"
+}

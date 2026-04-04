@@ -1,0 +1,86 @@
+{
+  "chapter": {
+    "character_count": 109,
+    "id": "chapter-001",
+    "order": 1,
+    "reading_unit_count": 5,
+    "reading_units": [
+      {
+        "character_count": 15,
+        "id": "chapter-001-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "天命之謂性，率性之謂道，脩道之謂教。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "What Heaven has conferred is called The Nature; an accordance with this nature is called The Path of duty; the regulation of this path is called Instruction."
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-001-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "道也者，不可須臾離也，可離非道也。是故君子戒慎乎其所不睹，恐懼乎其所不聞。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The path may not be left for an instant."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-001-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "莫見乎隱，莫顯乎微，故君子慎其獨也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If it could be left, it would not be the path."
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-001-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "喜怒哀樂之未發，謂之中；發而皆中節，謂之和。中也者，天下之大本也；和也者，天下之達道也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On this account, the superior man does not wait till he sees things, to be cautious, nor till he hears things, to be apprehensive."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-001-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "致中和，天地位焉，萬物育焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is nothing more visible than what is secret, and nothing more manifest than what is minute. Therefore the superior man is watchful over himself, when he is alone. While there are no stirrings of pleasure, anger, sorrow, or joy, the mind may be said to be in the state of Equilibrium. When those feelings have been stirred, and they act in their due degree, there ensues what may be called the state of Harmony. This Equilibrium is the great root from which grow all the human actings in the world, and this Harmony is the universal path which they all should pursue. Let the states of equilibrium and harmony exist in perfection, and a happy order will prevail throughout heaven and earth, and all things will be nourished and flourish."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "天命之謂性，率性之謂道，脩道之謂教。\n道也者，不可須臾離也，可離非道也。是故君子戒慎乎其所不睹，恐懼乎其所不聞。\n莫見乎隱，莫顯乎微，故君子慎其獨也。\n喜怒哀樂之未發，謂之中；發而皆中節，謂之和。中也者，天下之大本也；和也者，天下之達道也。\n致中和，天地位焉，萬物育焉。",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-001.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

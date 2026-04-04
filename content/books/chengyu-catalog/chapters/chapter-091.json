@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-091",
+    "order": 91,
+    "summary": "河山之德",
+    "text": "河山之德\n小手小脚\n道头知尾\n鼻息如雷\n除狼得虎\n好语如珠\n劫后余生\n信口开合\n淡水交情\n出何典记\n播弄是非\n百端交集\n文经武略\n口角生风\n立足之地\n一生九死\n止暴禁非\n草木愚夫\n济世安民\n朽木生花\n四海升平\n束手就擒\n生死攸关\n形影相附\n神道设教\n明来暗往\n断章取意\n积土成山\n察己知人\n各司其事",
+    "title": "2701-2730",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "河山之德",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describe the beauty of a woman's appearance"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "小手小脚",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "mean"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "道头知尾",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just say the beginning and you will know the result"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "鼻息如雷",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "snoring"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "除狼得虎",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor to remove one harm and then another harm comes."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "好语如珠",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the many aphorisms and witty sayings in poetry"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "劫后余生",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to be a survivor of a calamity"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "信口开合",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to speak without thinking (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "淡水交情",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Friendship is as clear as water"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "出何典记",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "meaning nonsense"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "播弄是非",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "stir up trouble"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "百端交集",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Countless thoughts and feelings are gathered together to express a myriad of emotions."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "文经武略",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Outstanding literary talent and military strategy"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "口角生风",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor for speaking fluently and being able to speak eloquently"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "立足之地",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A place to stand"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "一生九死",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to surviving many life-threatening dangers"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "止暴禁非",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "stop, forbid"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "草木愚夫",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The humble name of farmers in the old days"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "济世安民",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So that the country can be governed and the people can live and work in peace and contentment"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "朽木生花",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the transformation from dryness to prosperity, metaphorizing the rebirth of things."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "四海升平",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) the whole world is at peace"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "束手就擒",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. to submit to having one's hands tied and being taken prisoner (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "生死攸关",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "matter of life and death"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "形影相附",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Staying together in a lonely situation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "神道设教",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Shinto originally refers to the teachings of heaven, that is, the principles of gods, and later refers to the theory of disaster and blessing of ghosts and gods."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "明来暗往",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "communicate openly or secretly"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "断章取意",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "truncate"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "积土成山",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. piling up dirt eventually creates a mountain (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "察己知人",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to things that are reasonable. If you observe yourself, you can understand others."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-091-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "各司其事",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Division manager, operation"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-091.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

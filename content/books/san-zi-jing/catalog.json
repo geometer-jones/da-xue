@@ -1,0 +1,22 @@
+{
+  "cache_dir": "books/san-zi-jing",
+  "catalog_path": "books/san-zi-jing/catalog.json",
+  "chapter_count": 1,
+  "chapters": [
+    {
+      "chapter_path": "books/san-zi-jing/chapters/chapter-001.json",
+      "character_count": 1069,
+      "id": "chapter-001",
+      "order": 1,
+      "reading_unit_count": 86,
+      "summary": "人之初，性本善",
+      "supplemental_unit_count": 0,
+      "title": "全篇"
+    }
+  ],
+  "commentary_chapter_count": 0,
+  "commentary_chapters": [],
+  "provider": "ctext-html",
+  "source_url": "https://ctext.org/three-character-classic?if=en",
+  "title": "Three Character Classic"
+}

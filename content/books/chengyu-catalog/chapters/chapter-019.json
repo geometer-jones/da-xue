@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-019",
+    "order": 19,
+    "summary": "持之有故",
+    "text": "持之有故\n好梦不长\n风流人物\n春风风人\n一德一心\n人以群分\n起居无时\n一家一计\n出一头地\n比比皆是\n高高在上\n一孔之见\n何罪之有\n小家子气\n兵出无名\n爱人以德\n食指大动\n不解之缘\n无动为大\n水天一色\n是是非非\n无恶不造\n一心无二\n无声无息\n一来二去\n不名一钱\n一钱不名\n天各一方\n一之谓甚\n说是道非",
+    "title": "541-570",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "持之有故",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "one has a well-founded view or opinion; one's views can be supported by facts or evidence"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "好梦不长",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Good dreams don't last long"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "风流人物",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "romantic figure"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "春风风人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the benefits and virtues of education"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "一德一心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "of one heart and one mind"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "人以群分",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Divide people into groups"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "起居无时",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No time for daily life"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "一家一计",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One family, one plan"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "出一头地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "out of nowhere"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "比比皆是",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "able to be found anywhere; available everywhere"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "高高在上",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "set up on high; not in touch with reality; aloof and remote"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "一孔之见",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "partial view; limited outlook"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "何罪之有",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "what crime was committed?"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "小家子气",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "petty"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "兵出无名",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to start a military campaign without justification"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "爱人以德",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to love with virtue"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "食指大动",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to be excited to dig into the delicious food"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "不解之缘",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "destiny that cannot be avoided"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "无动为大",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Nothing is great"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "水天一色",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "water and sky merge in one color"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "是是非非",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "right and wrong; disputes; quarrel; argument"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "无恶不造",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Do no evil"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "一心无二",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "single-minded"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "无声无息",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "wordless and uncommunicative; without speaking; taciturn; not providing any news"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "一来二去",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "gradually"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "不名一钱",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be penniless"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "一钱不名",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "penniless"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "天各一方",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(of relatives or friends) to live far apart from each other"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "一之谓甚",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 一之為甚|一之为甚[yi1 zhi1 wei2 shen4]"
+          }
+        },
+        "category": "中高透明度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-019-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "说是道非",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "right and wrong"
+          }
+        },
+        "category": "中高透明度 I"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-019.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

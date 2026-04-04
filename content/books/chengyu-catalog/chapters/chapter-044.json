@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-044",
+    "order": 44,
+    "summary": "急功近名",
+    "text": "急功近名\n感情用事\n比物假事\n爽然若失\n求生害仁\n未卜先知\n建功立事\n腹心相照\n真心真意\n造因得果\n甘心情原\n家道小康\n鼎分三足\n口快心直\n去泰去甚\n出山泉水\n得手应心\n拔十失五\n得意门生\n心如刀割\n三心两意\n心如死灰\n南郭先生\n全心全意\n心如火焚\n意气用事\n回春妙手\n遇事生端\n富面百城\n寸利必得",
+    "title": "1291-1320",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "急功近名",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Eager for success, greedy for fame"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "感情用事",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to act impetuously (idiom); on an impulse"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "比物假事",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Under the guise of comparing and summarizing similar things"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "爽然若失",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "at a loss"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "求生害仁",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to seeking to survive and harming one's benevolence."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "未卜先知",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to foresee the future (without divination); to know beforehand through uncanny insight"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "建功立事",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still making great contributions"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "腹心相照",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heart to heart"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "真心真意",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sincerely"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "造因得果",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means that no matter what kind of causes and conditions are created, there will be corresponding consequences."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "甘心情原",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "means completely willing"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "家道小康",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "family background"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "鼎分三足",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor for the separation of three parties and competing against each other."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "口快心直",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 心直口快[xin1 zhi2 kou3 kuai4]"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "去泰去甚",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tai, too much"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "出山泉水",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Coming out of a mountain is a metaphor for becoming an official"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "得手应心",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor for being skilled in skills or doing things very smoothly"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "拔十失五",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refer to salt talents and lose half of them"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "得意门生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "favorite pupil"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "心如刀割",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to feel as if having one's heart cut out (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "三心两意",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Often refers to feeling uneasy and unfocused"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "心如死灰",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "dead ashes cooled ashes"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "南郭先生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor for a person who occupies his position without talent"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "全心全意",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) heart and soul; wholeheartedly"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "心如火焚",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "My heart feels like it's on fire"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "意气用事",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to let emotions affect one's decisions"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "回春妙手",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Rejuvenation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "遇事生端",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to those who do good things and use them to cause trouble whenever they have the opportunity."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "富面百城",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes a very rich collection of books"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-044-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "寸利必得",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "tiny profit"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-044.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

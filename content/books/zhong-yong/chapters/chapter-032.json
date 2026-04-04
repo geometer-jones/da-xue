@@ -1,0 +1,60 @@
+{
+  "chapter": {
+    "character_count": 59,
+    "id": "chapter-032",
+    "order": 32,
+    "reading_unit_count": 3,
+    "reading_units": [
+      {
+        "character_count": 31,
+        "id": "chapter-032-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "唯天下至誠，為能經綸天下之大經，立天下之大本，知天地之化育。夫焉有所倚？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is only the individual possessed of the most entire sincerity that can exist under Heaven, who can adjust the great invariable relations of mankind, establish the great fundamental virtues of humanity, and know the transforming and nurturing operations of Heaven and Earth;-shall this individual have any being or anything beyond himself on which he depends?"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-032-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "肫肫其仁！淵淵其淵！浩浩其天！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Call him man in his ideal, how earnest is he!"
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-032-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "苟不固聰明聖知達天德者，其孰能知之？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Call him an abyss, how deep is he! Call him Heaven, how vast is he! Who can know him, but he who is indeed quick in apprehension, clear in discernment, of far-reaching intelligence, and all-embracing knowledge, possessing all Heavenly virtue?"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "唯天下至誠，為能經綸天下之大經，立天下之大本，知天地之化育。夫焉有所倚？\n肫肫其仁！淵淵其淵！浩浩其天！\n苟不固聰明聖知達天德者，其孰能知之？",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-032.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

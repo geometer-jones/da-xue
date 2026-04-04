@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 64,
+    "id": "chapter-078",
+    "order": 78,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 64,
+        "id": "chapter-078-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "天下莫柔弱於水，而攻堅強者莫之能勝，其無以易之。弱之勝強，柔之勝剛，天下莫不知，莫能行。是以聖人云：受國之垢，是謂社稷主；受國不祥，是謂天下王。正言若反。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is nothing in the world more soft and weak than water, and yet for attacking things that are firm and strong there is nothing that can take precedence of it;--for there is nothing (so effectual) for which it can be changed. Every one in the world knows that the soft overcomes the hard, and the weak the strong, but no one is able to carry it out in practice. Therefore a sage has said, 'He who accepts his state's reproach, Is hailed therefore its altars' lord; To him who bears men's direful woes They all the name of King accord.' Words that are strictly true seem to be paradoxical."
+          }
+        }
+      }
+    ],
+    "summary": "天下莫柔弱於水，而攻堅強者莫之能勝，其無以易之",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "天下莫柔弱於水，而攻堅強者莫之能勝，其無以易之。弱之勝強，柔之勝剛，天下莫不知，莫能行。是以聖人云：受國之垢，是謂社稷主；受國不祥，是謂天下王。正言若反。",
+    "title": "第78章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-078.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

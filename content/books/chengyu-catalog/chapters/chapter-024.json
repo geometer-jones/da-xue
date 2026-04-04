@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-024",
+    "order": 24,
+    "summary": "不谋而同",
+    "text": "不谋而同\n不相上下\n两意三心\n二三其意\n日复一日\n时不我与\n三夫之对\n通无共有\n没世无称\n水清无鱼\n三人为众\n言人人殊\n多言或中\n一本正经\n见义当为\n极重不反\n人心归向\n万夫不当\n不食之地\n情理难容\n道义之交\n文不对题\n言过其实\n居心不良\n不经世故\n以己度人\n功成不居\n立人达人\n万世一时\n一席之地",
+    "title": "691-720",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "不谋而同",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "coincidentally"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "不相上下",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "equally matched; about the same"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "两意三心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Two minds and three minds"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "二三其意",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Two or three meanings"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "日复一日",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "day after day"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "时不我与",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have missed an opportunity"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "三夫之对",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Couple of three husbands"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "通无共有",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Common to all"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "没世无称",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Unknown in the world"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "水清无鱼",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "water that is too clean holds no fish; one who is too severe has no friends"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "三人为众",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Three people for a crowd"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "言人人殊",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "different people give different views; each person offers a different version"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "多言或中",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Too many words or too many words"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "一本正经",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "deadly serious"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "见义当为",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Do what is right"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "极重不反",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Extremely serious and will not rebel"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "人心归向",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "People's hearts turn towards"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "万夫不当",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. unbeatable by even 10,000 men (idiom)"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "不食之地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No food place"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "情理难容",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Intolerable"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "道义之交",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "moral friendship"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "文不对题",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "irrelevant"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "言过其实",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to exaggerate; to overstate the facts"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "居心不良",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to harbor evil intentions"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "不经世故",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Unsophisticated"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "以己度人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to measure others according to one's values; to measure other people's corn by one's own bushel"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "功成不居",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "not to claim personal credit for achievement"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "立人达人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Build people and masters"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "万世一时",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "forever"
+          }
+        },
+        "category": "中高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-024-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "一席之地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a place for a seat; proper place"
+          }
+        },
+        "category": "中高透明度 IV"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-024.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

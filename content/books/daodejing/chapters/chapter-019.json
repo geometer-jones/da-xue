@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 45,
+    "id": "chapter-019",
+    "order": 19,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 45,
+        "id": "chapter-019-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "絕 聖 棄 智 ， 民 利 百倍 ； 絕 仁 棄 義 ， 民 復 孝慈 ； 絕 巧 棄 利 ， 盜賊 無有 。 此 三 者 以為 文 不足 ， 故 令 有所 屬 ﹕ 見 素 抱 樸 ， 少 私 寡欲 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If we could renounce our sageness and discard our wisdom, it would be better for the people a hundredfold. If we could renounce our benevolence and discard our righteousness, the people would again become filial and kindly. If we could renounce our artful contrivances and discard our (scheming for) gain, there would be no thieves nor robbers. Those three methods (of government) Thought olden ways in elegance did fail And made these names their want of worth to veil; But simple views, and courses plain and true Would selfish ends and many lusts eschew."
+          }
+        }
+      }
+    ],
+    "summary": "絕聖棄智，民利百倍；絕仁棄義，民復孝慈；絕巧棄利，盜賊無有",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "絕聖棄智，民利百倍；絕仁棄義，民復孝慈；絕巧棄利，盜賊無有。此三者以為文不足。故令有所屬：見素抱樸，少私寡欲。",
+    "title": "第19章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-019.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

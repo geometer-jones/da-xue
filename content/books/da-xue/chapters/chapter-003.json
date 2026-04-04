@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 16,
+    "id": "chapter-003",
+    "order": 3,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 16,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Things have roots and branches; affairs have beginnings and endings. Knowing what comes first and what comes after, you come near the Way."
+          }
+        },
+        "id": "chapter-003-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "物有本末，事有終始，知所先後，則近道矣。"
+      }
+    ],
+    "summary": "事有終始，知所先後，則近道矣",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "物有本末，事有終始，知所先後，則近道矣。",
+    "title": "物有本末"
+  },
+  "chapter_path": "books/da-xue/chapters/chapter-003.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

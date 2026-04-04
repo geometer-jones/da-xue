@@ -1,0 +1,814 @@
+{
+  "chapter": {
+    "character_count": 4725,
+    "id": "chapter-002",
+    "order": 2,
+    "reading_unit_count": 61,
+    "reading_units": [
+      {
+        "character_count": 90,
+        "id": "chapter-002-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "且說董卓字仲穎，隴西臨洮人也。官拜河東太守，自來驕傲。當日怠慢了玄德，張飛性發，便欲殺之。玄德與關公急止之曰：「他是朝廷命官，豈可擅殺？」飛曰：「若不殺這廝，反要在他部下聽令，其實不甘！二兄要便住在此，我自投別處去也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now take a moment to talk about Dong Zhuo, whose style name was Zhongying, and was from Lintao in Longxi. His official title was governor of Hedong Commandery, and he had always been arrogant. On the day that he slighted Xuande, Zhang Fei flew into a rage, and wanted to kill him. Xuande and Lord Guan rushed to stop him, saying, \"He is an official appointed by the court, how can you take matters into your own hands and kill him?\" Fei replied, \"If I don't kill this scoundrel, I will end up under his command and have to take orders from him; in all honesty, I have no desire to do that! If you two brothers of mine would like to stay here, I will go it alone somewhere else!\""
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-002-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "」玄德曰：「我三人義同生死，豈可相離？不若都投別處去便了。」飛曰：「若如此，稍解吾恨。」於是三人連夜引軍來投朱儁。儁待之甚厚，合兵一處，進討張寶。是時曹操自跟皇甫嵩討張梁，大戰於曲陽。這裏朱儁進攻張寶。張寶引賊眾八九萬，屯於山後。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xuande said, \"We three are bound by oath to live and die together, how can we part from each other?"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-002-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "儁令玄德為其先鋒，與賊對敵。張寶遣副將高昇出馬搦戰。玄德使張飛擊之。飛縱馬挺矛，與昇交戰，不數合，刺昇落馬。玄德麾軍直衝過去。張寶就馬上披髮仗劍，作起妖法。只見風雷大作，一股黑氣，從天而降：黑氣中似有無限人馬殺來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It would be better for all three of us to go elsewhere.\" Fei replied, \"If that is the case, it would abate my anger somewhat.\" The three of them then led their troops night and day toward Zhu Jun's position. Jun was very gracious; he combined the two groups, and together they went after Zhang Bao. At this point in time, Cao Cao had joined Huangfu Song in going after Zhang Liang; they were engaged in a major battle in Quyang. Meanwhile, Zhu Jun launched an attack against Zhang Bao. Zhang Bao was in command of eighty to ninety thousand bandits. They were holed up in the mountains. Jun ordered Xuande to take point, and engage with the bandit rebel force. Zhang Bao sent his second in command, Gao Sheng, to ride out on horseback and pick a fight; Xuande directed Zhang Fei to attack him. Fei raced out on his horse, his long lance raised, and engaged Sheng in combat. After not more than a couple of passes, Sheng was skewered, and fell from his horse. Xuande commanded his troops to charge. Zhang Bao, with his hair disheveled and wielding a straight sword on horseback, began performing sorcery. All one could see was a large amount of wind and thunder, and then a black haze emerged from out of nowhere. Emerging out of the black haze was a countless number of soldiers on horseback, charging straight toward them with murderous intent."
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-002-line-004",
+        "order": 4,
+        "source_block_chunk": 4,
+        "source_block_order": 1,
+        "text": "玄德連忙回軍，軍中大亂，敗陣而歸，與朱儁計議。儁曰：「彼用妖術，我來日可宰豬羊狗血，令軍士伏於山頭；候賊趕來，從高坡上潑之，其法可解。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xuande quickly ordered his army to retreat, but the rank and file descended into chaos."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-002-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "玄德聽令，撥關公、張飛各引軍一千，伏於山後高岡之上，盛豬羊狗血並穢物準備。次日，張寶搖旗擂鼓，引軍搦戰，玄德出迎。交鋒之際，張寶作法，風雷大作，飛砂走石，黑氣漫天，滾滾人馬，自天而下。玄德撥馬便走，張寶驅兵趕來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Having been soundly beaten, he returned to confer with Zhu Jun."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-002-line-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "將過山頭，關、張伏軍放起號砲，將穢物齊潑。但見空中紙人草馬，紛紛墜地；風雷頓息，砂石不飛。張寶見解了法，急欲退軍。左關公，右張飛，兩軍都出，背後玄德、朱儁一齊趕上，賊兵大敗。玄德望見地公將軍旗號，飛馬趕來，張寶落荒而走。玄德發箭，中其左臂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Jun said, \"He is using sorcery; tomorrow I will slaughter pigs, rams and dogs for their blood."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-002-line-007",
+        "order": 7,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "張寶帶箭逃脫，走入陽城，堅守不出。朱儁引兵圍住陽城攻打，一面差人打探皇甫嵩消息。探子回報，具說：「皇甫嵩大獲勝捷，朝廷以董卓屢敗，命嵩代之。嵩到時，張角已死；張梁統其眾，與我軍相拒，被皇甫嵩連勝七陣，斬張梁於曲陽。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I will order my troops to hide on the hilltops. They will wait for the bandit rebels to rush in, then pour blood on them from above. This should nullify their magic.\" Xuande followed orders, and allocated 1,000 soldiers each to Lord Guan and Zhang Fei. They were both to hide their troops high up on a ridge, and prepare the contaminant made from the blood of pigs, rams and dogs. The following day, Zhang Bao led his men, waving their banners and beating their war drums, out to pick a fight. Xuande rode out to meet them. Just as the two armies began to cross swords, Zhang Bao performed his sorcery. The wind howled and the thunder roared; dust and debris was kicked up by the wind, and a black haze enveloped the sky. A steady stream of people and horses appeared from nowhere. Xuande wheeled his horse around and took off in a dead run. Zhang Bao ordered his soldiers to give chase. As soon as they passed by the hilltop, Guan and Zhang's hidden armies ignited their signal flares, and began pouring down the contaminant in unison. After that, all they could see were paper men and straw horses falling to the ground in great numbers. The wind and thunder stopped in an instant, and sand no longer flew all over the place. Zhang Bao saw that his magic spell had been broken and hurried to recall his troops. With Lord Guan on the left, and Zhang Fei on the right, both armies came out of hiding, while Xuande and Zhu Jun brought up the rear. The bandit rebel army suffered a major defeat. Xuande saw the general of the earth banners, and raced his horse in that direction. Zhang Bao fled the battlefield in great haste. Xuande shot an arrow at him, which pierced his left arm. Zhang Bao escaped with the arrow still in him; he entered the city of Yangcheng, and dug in. Zhu Jun had his army surround Yangcheng, and then launched an attack. He also sent someone to bring back news of Huangfu Song. The messenger reported back. According to the report, “Huangfu Song had won a major victory, and because of Dong Zhuo's numerous defeats, the court ordered that Song replace him.” “When Song arrived, Zhang Jue was already dead.” “Zhang Liang was now the leader, and was locked in battle with our forces. Zhang Liang lost seven straight battles to Huangfu Song, and was beheaded in Quyang.”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-002-line-008",
+        "order": 8,
+        "source_block_chunk": 4,
+        "source_block_order": 2,
+        "text": "發張角之棺，戮尸梟首，送往京師。餘眾俱降。朝廷加皇甫嵩為車騎將軍，領冀州牧。皇甫嵩又表奏盧植有功無罪，朝廷復盧植原官。曹操亦以有功，除濟南相，即日將班師赴任。」朱雋聽說，催促軍馬，悉力攻打陽城。賊勢危急，賊將嚴政，刺殺張寶，獻首投降。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“They recovered Zhang Jue's casket; then they mutilated his body, and sent the head back to the capital so that it could be posted high on a wooden pole for all to see. All of the remaining followers surrendered. The court granted Huangfu Song the title of general of chariots and cavalry, and made him overlord of Jizhou. Also, Huangfu Song submitted a petition to the emperor on behalf of Lu Zhi, emphasizing his innocence and his achievements. The court restored Lu Zhi to his original position.” “Cao Cao was awarded with a new post as well, thanks to his own achievements. He was made minister of Jinan.” “He departed for his new post that very day with his army.” After Zhu Jun listened to the report, he pressed his army to attack Yangcheng with all their might. The bandit rebels' situation was desperate. Consequently, the bandit general Yan Zheng assasinated Zhang Bao, and his head was offered as proof of his followers' sincerity in wanting to surrender."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-002-line-009",
+        "order": 9,
+        "source_block_chunk": 5,
+        "source_block_order": 2,
+        "text": "朱儁遂平數郡，上表獻捷。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thus, Zhu Jun pacified several commanderies; he submitted a report of his victory to the emperor."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-002-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "時又黃巾餘黨三人，─趙弘、韓忠、孫仲─，聚眾數萬，望風燒劫，稱與張角報讎。朝廷命朱儁即以得勝之師討之。儁奉詔，率軍前進。時賊據宛城，儁引兵攻之，趙弘遣韓忠出戰。儁遣玄德、關、張攻城西南角。韓忠盡率精銳之眾，來西南角抵敵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At that time, there were still three remaining Yellow Turban diehards."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-002-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "朱儁自縱鐵騎二千，逕取東北角。賊恐失城，急棄西南而回。玄德從背後掩殺，賊眾大敗，奔入宛城。朱儁分兵四面圍定，城中斷糧，韓忠使人出城投降。儁不許。玄德曰：「昔高祖之得天下，蓋為能招降納順；公何拒韓忠耶？」儁曰：「彼一時，此一時也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhao Hong, Han Zhong and Sun Zhong had gathered between twenty to thirty thousand troops."
+          }
+        }
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-002-line-012",
+        "order": 12,
+        "source_block_chunk": 3,
+        "source_block_order": 3,
+        "text": "昔秦項之際，天下大亂，民無定主，故招降賞附，以勸來耳。今海內一統，惟黃巾造反；若容其降，無以勸善。使賊得利恣意劫掠，失利便投降：此長寇之志，非良策也。」玄德曰：「不容寇降是矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Following in the footsteps laid out by their illustrious former leader, they burned and pillaged, saying that it was in the name of avenging Zhang Jue. The court ordered Zhu Jun to immediately prosecute, using his army which was now flush with victory. Jun obeyed the imperial edict, and led his army on an advance. At the time, the bandit rebels were occupying Wancheng. Jun led his army on an attack, while Zhao Hong sent Han Zhong out to fight. Jun sent Xuande, Guan and Zhang to attack the southwest corner of the city. Han Zhong gathered up all of his best troops, and deployed them to the southwest corner to defend against the enemy. In the meantime, Zhu Jun set loose a force of 2,000 armored cavalry, and made a direct play for the northeast corner. The bandit rebels feared that they would lose the city, and immediately abandoned the southwest corner so that they could regroup. Xuande took them by surprise from the rear; having suffered a major defeat, the bandit rebels now retreated into Wancheng as fast as possible. Zhu Jun divided his forces, and surrounded the city on all sides. The city was now cut off from any new food supplies, so Han Zhong sent someone out of the city to say that they were ready to surrender. However, Jun would not allow it. Xuande asked, \"In the days of old, when Gaozu took over the world, did he not entice his enemies to surrender and allow those who obeyed his governance to rejoin society; why do you refuse Han Zhong?\" Jun replied, \"That was then, this is now. In the days of old, during the time of Qin and Xiang, the world was in chaos, and the people had not chosen a leader. Therefore, enticing the enemy to surrender with the promise of a reward made sense. Nowadays, the country is united, with the exception of the Yellow Turbans who are in rebellion; if we were to allow them to surrender, nothing good would come from it. If we give the bandit rebels a leg up, they will rob and plunder at will; if we cause them to lose the advantage, they can simply surrender; this emboldens the will of the bandit rebels, so it is not a good strategy.\""
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-002-line-013",
+        "order": 13,
+        "source_block_chunk": 4,
+        "source_block_order": 3,
+        "text": "今四面圍如鐵桶，賊乞降不得，必然死戰，萬人一心，尚不可當，況城中有數萬死命之人乎？不若撤去東南，獨攻西北。賊必棄城而走，無心戀戰，可即擒也。」儁然之，遂撤東南二面軍馬，一齊攻打西北。韓忠果引軍棄城而奔。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xuande said, \"We will not allow the thugs to surrender, and that's that."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-002-line-014",
+        "order": 14,
+        "source_block_chunk": 5,
+        "source_block_order": 3,
+        "text": "儁與玄德、關、張率三軍掩殺，射死韓忠，餘皆四散奔走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We now have them surrounded as if they were in an iron barrel; even if they beg to surrender, they will receive no quarter, this will inevitably be a fight to the death."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-002-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "正追趕間，趙弘、孫仲引賊眾到，與儁交戰。儁見弘勢大，引軍暫退。弘乘勢復奪宛城。儁離十里下寨，方欲攻打，忽見正東一彪人馬到來。為首一將，生得廣額闊面，虎體熊腰；吳郡富春人也：姓孫，名堅，字文臺，乃孫武子之後。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ten thousand people are of the same mind; resistance is futile."
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-002-line-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "年十七歲，與父至錢塘，見海賊十餘人，劫取商人財物，於岸上分贓。堅謂父曰：「此賊可擒也。」遂奮力提刀上岸，揚聲大叫，東西指揮，如喚人狀。賊以為官兵至，盡棄財物奔走。堅趕上，殺一賊。由是郡縣知名，薦為校尉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At any rate, doesn't this mean that tens of thousands of city residents now have a death sentence? It would be better to withdraw our forces from the southeast, and focus our attack on the northwest. The bandit rebels will be forced to abandon the city and leave. They will unintentionally get caught up in the heat of battle, and then we can nab them.\" Jun concurred with him, and they withdrew the forces from the southeast; the two forces, now united, attacked the northwest in unison. As expected, Han Zhong abandoned the city and fled with his army. Jun, along with Xuande, Guan and Zhang, led the three armies on a surprise attack. Han Zhong was killed by an arrow. The rest scattered in all four directions. Just as they were catching up, Zhao Hong and Sun Zhong led their bandit army in an attack on Jun. Jun saw that Hong's army was powerful, and withdrew for the time being. Hong took advantage of the situation and again took control of Wancheng. Jun traveled about ten li, then made camp. Just as he was about to mount an attack, he suddenly saw a group of horses and men approaching from due east. 200px|thumb|right|w:Sun Jian|Sun Jian In the lead was a man with a wide forehead and broad face, a torso like a tiger's, and a waist like a bear's; he was from Fuchun in the Wu Commandery. His surname was Sun, his given name was Jian, and his style name was Wentai; he was a descendant of Sun Wuzi. When he was seventeen years old, he traveled with his father to Qiantang. Along the way, they spotted more than ten pirates who had robbed some merchants, and were now on shore dividing up the loot. Jian said to his father, \"I must arrest these pirates.\" He then took out his sword, and made his way onto shore with much bravado, screaming and shouting, and giving commands to his east and to his west, as if giving instructions to a bunch of men. The pirates assumed that government troops had arrived, ditched all of their loot, and fled the scene. Jian chased after them and killed one of the pirates."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-002-line-017",
+        "order": 17,
+        "source_block_chunk": 3,
+        "source_block_order": 4,
+        "text": "由是郡縣知名，薦為校尉。後會稽妖賊許昌造反，自稱陽明皇帝聚眾數萬；堅與郡司馬招募勇士千餘人，會合州郡破之，斬許昌并其子許韶。刺史臧旻，上表奏其功，除堅為鹽瀆丞；又除盱眙丞，下邳丞。今見黃巾寇起，聚集鄉中少年及諸商旅，并淮泗精兵一千五百餘人，前來接應。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Because of this, he became somewhat of a local celebrity, and was recommended for the position of captain. Later on, the evil bandit Xu Chang from Kuaiji started a rebellion, calling himself the Yangming Emperor, and had amassed a force of tens of thousands. Jian and the commandery's military clerk recruited a force of more than one thousand brave men. They came together from the various cities and counties in order to quash the rebels, and to behead Xu Chang and his son Xu Shao. Provincial governor Zang Min wrote a glowing letter of praise to the emperor; as a result, Jian was made an assistant governor of Yandu, Xuyi and Xiapi Counties. Recently, he saw that the Yellow Turban bandits had staged an uprising, so he gathered together all of the local youths and traveling merchants, along with more than 1,500 elite troops from the area around the Huai and Si Rivers, and set out to intercept them."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-002-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "朱儁大喜，便令堅攻打南門，玄德打北門，朱儁打西門，留東門與賊走。孫堅首先登城，斬賊二十餘人，賊眾奔潰。趙弘飛馬突槊，直取孫堅。堅從城上飛身奪弘槊，刺弘下馬；卻騎弘馬，飛身往來殺賊。孫仲引賊突出北門，正迎玄德，無心戀戰，只待奔逃。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhu Jun was overjoyed, and ordered Jian to attack the south gate; Xuande would attack the north gate, Zhu Jun would attack the west gate, and the east gate was given over to the bandits so that they could make their exit."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-002-line-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "玄德張弓一箭，正中孫仲，翻身落馬。朱儁大軍，隨後掩殺，斬首數萬級，降者不可勝計。南陽一路，十數郡皆平。儁班師回京，詔封為車騎将軍，河南尹。儁表奏孫堅、劉備等功。堅有人情，除別郡司馬上任去了；惟玄德聽候日久，不得除授。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Jian first climbed onto the city wall, then he slew more than twenty of the bandit rebels."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-002-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "三人鬱鬱不樂，上街閒行，正值郎中張鈞車到。玄德見之，自陳功績。鈞大驚，隨入朝見帝曰：「昔黃巾造反，其原皆由十常侍賣官鬻爵，非親不用，非讎不誅，以致天下大亂。今宜斬十常侍，懸首南郊，遣使者布告天下，有功者重加賞賜，則四海自清平也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The bandit rebels all scattered. Zhao Hong rode his horse forward, charging at Sun Jian with his lance. Jian leaped from the city wall and grabbed Hong's lance. He then stabbed Hong, who fell from his horse. He jumped onto Hong's horse and rode back and forth at high speeds, killing bandit rebels. Sun Zhong led his bandits out the north gate, directly toward Xuande. Unintentionally caught up in the heat of battle, all his men could think about was fleeing. Xuande drew back an arrow onto his bow, and shot at Sun Zhong, who fell over off of his horse when the arrow struck home. After that, Zhu Jun's vast army went on a killing rampage before anyone had time to react. They took tens of thousands of heads, and it became impossible to tally up all of the people who surrendered. Near Nanyang, more than ten commanderies had been pacified. Jun disbanded his army, and returned to the capital. In an imperial edict, he was granted the title of general of chariots and cavalry; he was also made commander of Henan. Zhu Jun submitted a petition to the emperor in which he praised the accomplishments of both Sun Jian and Liu Bei. Jian had connections, so he was made military clerk in another commandery, and left to take up his new post. However, Xuande still had not received an assignment, even after many days of waiting. The three of them were depressed, and were wandering aimlessly about the streets of town, when commander Zhang Jun's chariot arrived. Xuande paid him a visit, and recounted all of his accomplishments. Jun was shocked, and raised the issue with the emperor on his next visit to the palace. He said, \"When the Yellow Turbans rebelled, it was all because the ten regular attendants had accepted bribes from people that wanted to obtain an official post or title of nobility. They would not hire someone unless he was one of their cronies, and they would not punish anyone that was not their personal enemy. This led to chaos across the country. We should behead the ten regular attendants, and hang their heads on poles in the south area of the capital. Then, we should send emissaries to inform the entire country; the men who have made significant contributions should be given sizable rewards, which will pacify the nation.\""
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-002-line-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "」十常侍奏帝曰：「張鈞欺主。」帝令武士逐出張鈞。十常侍共議：「此必破黃巾有功者，不得除授，故生怨言。權且教省家銓註微名，待後卻再理會未晚。」因此玄德除授定州中山府安喜縣尉，剋日赴任。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The ten regular attendants submitted a written petition to the emperor which said that, \"Zhang Jun is bullying the emperor.\" The emperor commanded the armed guards to escort Zhang Jun out of the palace."
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-002-line-022",
+        "order": 22,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "玄德將兵散回鄉里，止帶親隨二十餘人，與關、張來安喜縣中到任。署縣事一月，與民秋毫無犯，民皆感化。到任之後，與關、張食則同桌，寢則同床。如玄德在稠人廣坐，關、張侍立，終日不倦。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The ten regular attendants consulted with each other, saying, \"This arrangement will certainly cause damage to the men who helped put down the Yellow Turbans. If these people do not obtain posts, it will stir up resentment among them. For the time being, we should instruct the relevant officials to register them for some minor positions. That way, it will not be too late if we need to deal with them later on.\" Because of this, Xuande was made magistrate of Anxi county, which was under the jurisdiction of the Zhongshan government seat at Dingzhou. A date was set for him to take up his post. Xuande led his troops back home and released them from service. He only brought a retinue of a little more than twenty men to Anxi, which included Guan and Zhang. He had been in his position for one month, and not a single infraction was committed against the people. Through his example, the people were all motivated to reform their errant ways. After taking up his post, he ate at the same table, and slept in the same bed, with Guan and Zhang. However, when Xuande was in a public venue, Guan and Zhang would stand beside him all day long in attendance, and not get tired."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-002-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "到縣未及四月，朝廷降詔，凡有軍功為長吏者當沙汰。玄德疑在遣中。適督郵行部至縣，玄德出墎迎接，見督郵施禮。督郵坐於馬上，惟微以鞭指回答。關、張二公俱怒。及到館驛，督郵南面高坐，玄德侍立階下。良久，督郵問曰：「劉縣尉是何出身？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They had not yet been in the county for four months, when the court issued an edict; civil officials with military experience were to be removed from their posts."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-002-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "玄德曰「備乃中山靖王之後自涿郡剿戮黃巾大小三十餘戰頗有微功因得除今職。」督郵大喝曰「汝詐稱皇親虛報功績目今朝廷降詔正要沙汰這等濫官汙吏」玄德喏喏連聲而退。歸到縣中與縣吏商議。吏曰「督郵入威無非要賄賂耳。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xuande suspected that he might also be relieved of his duties. Around that time, the county inspector was making his rounds to each county. When he arrived, Xuande went outside of the outer city walls to greet him. When he spotted the inspector, he gave him a salute. However, the inspector merely responded with a slight wave of his riding crop while still on his horse. Guan and Zhang were both incensed by the slight. After they all arrived at the inn, the inspector took his place on the raised platform on the south side of the room, with Xuande standing in attendance at the foot of the platform. After a while, the inspector asked, \"County magistrate Liu, what is your family background?\" Xuande replied, \"I am the descendant of Prince Jing of Zhongshan; I came from Zhuo Commandery to fight against the Yellow Turbans. I have probably been involved in more than thirty battles. I was moderately successful, so I was given my current post.\" The inspector shouted back, \"You're lying about being related to the imperial family, and you have made a false report about your exploits! The court has now issued an edict; we want to get rid of corrupt officials like you!\" Xuande could only to blurt out a steady stream of \"yes sirs\" as he was leaving; he then returned to the county seat to consult the county clerk. The clerk said, \"If the inspector is throwing about his weight, it can only be because he wants a bribe.\""
+          }
+        }
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-002-line-025",
+        "order": 25,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "」玄德曰：「我與民秋毫無犯，那得財物與他？」次日，督郵先提縣吏去，勒令指稱縣尉害民。玄德幾番自往求免，俱被門役阻住，不肯放參。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xuande replied, \"I have not committed even the slightest infraction against the people, where would I get the money to give to him?\" The following day, the inspector went to the county clerk, and forced him to testify that the county magistrate had caused harm to the people. Xuande personally went on multiple occasions to plead for leniency, but was intercepted by the gate guards on each occasion. The inspector was unwilling to grant him an audience."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-002-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "郤說張飛飲了數盃悶酒，乘馬從館驛前過，見五六十個老人，皆在門前痛哭。飛問其故。眾老人答曰：「督郵逼勒縣吏，欲害劉公；我等皆來苦告，不得放入，反遭把門人趕打！」張飛大怒，睜圓環眼，咬碎鋼牙，滾鞍下馬，逕入館驛，把門人那裏阻擋得住。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to Zhang Fei, who had been drowning his sorrows with multiple cups of wine."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-002-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "直奔後堂，見督郵正坐廳上，將縣吏綁倒在地。飛大喝：「害民賊！認得我麼？」督郵未及開言，早被張飛揪住頭髮，扯出館驛，直到縣前馬樁上縛住；扳下柳條，去督郵兩腿上著力鞭打，一連打折柳條十數枝。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He rode his horse past the inn. He spotted fifty or sixty old people, all standing in front of the gate weeping and sobbing. When Fei asked the reason, all of the old people responded, saying, \"The county inspector is forcing the county clerk to cause harm to Lord Liu; we have all come to lodge our strongest protests, but have not been allowed inside. Moreover, we were beaten back by the gate guards!\" Zhang Fei flew into a rage, his eyes grew wide as saucers, and his teeth clenched up like a steel vice. He scrambled off of his horse, and walked straight into the inn. Who among the gate guards would have even been able to block his way? He strode into the rear chamber, and saw that the county inspector was in the midst of holding court. The county clerk was tied up and lying prone on the floor. Fei screamed out, \"You rotten scoundrel. You are causing harm to the people! Do you know who I am?\" The county inspector had no time to respond before Zhang Fei grabbed him by his hair, and dragged him out of the inn. He took him to the front of the county seat, and bound him to the hitching post for horses. He then broke off a willow branch, and began to flog the inspector about the legs with great force. He broke more than ten willow branches in a row."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-002-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "玄德正納悶間聽得縣前喧鬧問左右答曰「張將軍綁一人在縣前痛打。」玄德忙去觀之見綁縛者乃督郵也。玄德驚問其故。飛曰「此等害民賊不打死等甚」督郵告曰「玄德公救我性命」玄德終是仁慈的人急喝張飛住手。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "While Xuande was sulking, he heard a loud noise from the county seat, and asked his attendants what was happening."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-002-line-029",
+        "order": 29,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "傍邊轉過關公來曰「兄長建許多大功僅得縣尉今反被督郵侮辱。吾思枳棘叢中非棲鸞鳳之所不如殺督郵棄官歸鄉別圖遠大之計。」玄德乃取印綬掛於督郵之頸責之曰「據汝害民本當殺卻今姑饒汝命。吾繳還印綬從此去矣」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They said, \"General Zhang has bound someone at the county seat, and is now viciously beating him.\" Xuande hurried over to see what was happening, and then he saw that it was the county inspector who had been bound. Startled, Xuande asked for the reason. Fei responded, \"People like this here scoundrel, who injure the people, need to be beaten to death, or what have we come to!\" The county inspector cried out, \" Xuande, save my life!\" After all, Xuande was a kind person, so he urgently yelled at Zhang Fei to stop. Lord Guan came over from the side, and said, \"Brother, you have done so many great things, but have only been granted the position of county magistrate. Now, you have been insulted by the county inspector. I think that a thorn bush is no place for a phoenix to roost; It would be better to kill the county inspector, resign from your post, and return home. Don't make such grandiose plans.\" Xuande then took his official seal, and hung it around the county inspector's neck. He then scolded him, saying, \"Since you have harmed the people, I should kill you and be done with it. However, I am going to spare your life."
+          }
+        }
+      },
+      {
+        "character_count": 45,
+        "id": "chapter-002-line-030",
+        "order": 30,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "」督郵歸告定州太守，太守申文省府，差人捕捉。玄德、關、張三人往代州投劉恢。恢見玄德乃漢室宗親，留匿在家不題。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I am returning my official seal, and am now leaving.\" The county inspector reported the matter to the governor of Dingzhou, who then submitted a written request to the provincial level government for an arrest warrant."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-002-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "卻說十常侍既握重權，互相商議：但有不從己者，誅之。趙忠，張讓，差人問破黃巾將士索金帛，不從者奏罷職。皇甫嵩、朱儁皆不肯與，趙忠等俱奏罷其官。帝又封趙忠等為車騎將軍，張讓等十三人皆封列侯。朝政愈壞，人民嗟怨。於是長沙賊區星作亂；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xuande, Guan and Zhang all headed for Daizhou to seek out Liu Hui."
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-002-line-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "漁陽張舉、張純反：舉稱天子，純稱大將軍。表章雪片告急，十常侍皆藏匿不奏。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Hui discovered that Xuande was a member of the house of Han, he hid him away at his residence and kept silent."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-002-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "一日，帝在後園與十常侍飲宴，諫議大夫劉陶，逕到帝前大慟。帝問其故。陶曰：「天下危在旦夕，陛下尚自與閹官共飲耶！」帝曰：「國家承平，有何危急？」陶曰：「四方盜賊並起，侵掠州郡。其禍皆由十常侍賣官害民，欺君罔上。朝廷正人皆去，禍在目前矣！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to the ten regular attendants; by now, they wielded a considerable amount of power. After discussing the issue with each other, they decided that anyone who did not comply with their demands should be eliminated. Zhao Zhong and Zhang Rang sent people to demand gifts of gold and cloth from the soldiers who fought the Yellow Turbans. Their plan was to petition the emperor to dismiss anyone who did not comply with their demands. Huangfu Song and Zhu Jun refused to give anything, so Zhao Zhong and his faction petitioned the emperor to have both of them removed from their posts. Moreover, the emperor gave the post of general of chariots and cavalry to Zhao Zhong. Thirteen others, including Zhang Rang, were given honorary marquis status. The government administration became increasingly corrupt, and the people began to complain. After that, a bandit from Changsha named Ou Xing began to wreak havoc. In Yuyang, Zhang Ju and Zhang Chun rose up in rebellion. Ju proclaimed himself Son of Heaven, and Chun declared himself supreme general. Dire reports came flooding into the capital, but the ten regular attendants hid them all, and did not report them to the emperor. One day, the emperor was enjoying food and drink in the rear courtyard with the ten regular attendants, when Advisor Liu Tao walked straight in front of the emperor and lost his composure. The emperor asked the reason, and Tao responded, \"The world is crashing down upon us, and yet Your Majesty is enjoying wine with the eunuchs!\" The emperor responded, \"The country has been in a state of continuous peace and prosperity, what crisis are you referring to?\" Tao said, \"Bandits have risen up in every corner of the empire, and are invading all of the cities and commanderies. The reason for this disaster can be traced to the ten regular attendants, who have taken bribes in exchange for granting positions within the government. They have caused great harm to the people, and have deceived their emperor. All of the honest people within the court have left, and disaster is upon us!\""
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-002-line-034",
+        "order": 34,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "十常侍皆免冠跪伏於帝前曰：「大臣不相容，臣等不能活矣。願乞性命歸田里，盡將家產以助軍資。」言罷痛哭。帝怒謂陶曰：「汝家亦有近侍之人，何獨不容朕耶？」呼武士推出斬之。劉陶大呼：「臣死不惜；可憐漢室天下，四百餘年，到此一旦休矣！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The ten regular attendants all removed their hats, and knelt down in prostration in front of the emperor, saying, \"If the head ministers do not like us, we will have no way of surviving! We beg for our lives; we would like to return to our home villages, and donate all of our personal wealth in order to help with army provisions.\" Their words now finished, they began to weep and cry. The emperor angrily addressed Tao, \"Your family has personal attendants, why is it that only I am not allowed this privilege?\" The emperor called for the guards to take him away and have him beheaded. Liu Tao yelled back, \"I do not care about dying! The true pity is that after more than 400 years of Han rule, it all now comes to an end!\""
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-002-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "武士擁陶出，方欲行刑，一大臣喝住曰：「勿得下手，待我諫去。」眾視之，乃司徒陳耽。逕入室中來諫帝曰：「劉諫議得何罪而受誅？」帝曰：「毀謗近臣，冒朕躬。」耽曰：「天下人民，欲食十常侍之肉，陛下敬之如父母，身無寸功，皆封列侯；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The guards forcibly led Tao out of the chamber."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-002-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "況封諝等結連黃巾，欲為內亂：陛下今不自省，社稷立見崩摧矣！」帝曰：「封諝作亂，其事不明。十常侍中，豈無一二忠臣？」陳耽以頭撞階而諫。帝怒，命牽出，與劉陶皆下獄。是夜，十常侍即於獄中謀殺之；假帝詔以孫堅為長沙太守，討區星。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They were about to carry out his sentence, when a senior official yelled at them to stop, saying, \"Take no further action, wait for me to advise the emperor.\" They all looked to see who it was. It was Minister over the Masses Chen Dan. He walked straight into the palace, and admonished the emperor, saying, \"What crime has Advisor Liu committed that he should receive a death sentence?\" The emperor replied, \"He has slandered my closest attendants, and insulted me personally.\" Dan said, \"The people of the nation want to eat the ten regular attendants for breakfast, yet Your Majesty reveres them like parents. They have done nothing of merit, and yet they have all been granted honorary marquis status. Not only that, Feng Xu was in cahoots with the Yellow Turbans, and was on the verge of wreaking havoc. If Your Majesty does not engage in some introspection right now, the country will be toppled for sure!\" The emperor responded, \"If Feng Xu was involved in wreaking havoc, I was not aware of it. Among the ten regular attendants, surely there must be at least one or two that are loyal ministers?\" Chen Dan reiterated his opinion while banging his head on the ground in subservience. The emperor was outraged, and ordered him removed. Both he and Liu Tao were thrown in prison. That night at the prison, the ten regular attendants had them both murdered. They forged an imperial decree which made Sun Jian the governor of Changsha, so that he could prosecute Ou Xing."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-002-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "不五十日，報捷，江夏平。詔封堅為烏程侯；封劉虞為幽州牧，領兵往漁陽征張舉、張純。代州劉恢以書薦玄德見虞。虞大喜，令玄德為都尉，引兵直抵賊巢，與賊大戰數日，挫動銳氣。張純專一兇暴，士卒心變，帳下頭目刺殺張純，將頭納獻，率眾來降。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Within less than fifty days, victory was reported, and Jiangxia was pacified."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-002-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "張舉見勢敗，亦自縊死。漁陽盡平。劉虞表奏劉備大功，朝廷赦免鞭督郵之罪，除下密丞，遷高堂尉。公孫瓚又表陳玄德前功，薦為別部司馬，守平原縣令。玄德在平原，頗有錢糧軍馬，重整舊日氣象。劉虞平寇有功，封太尉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "An imperial decree was issued which made Jian the marquis of Wucheng; Liu Yu was made overlord of Youzhou, and led his army toward Yuyang in order to go after Zhang Ju and Zhang Chun. Liu Hui of Daizhou wrote a letter of recommendation on behalf of Xuande, and sent it to Yu. Yu was overjoyed; he issued an order for Xuande to be made a captain, and to lead a force of men to make a direct assault on the bandits' lair. They engaged in heavy fighting with the bandits for several days, and remained steadfast despite several setbacks. Zhang Chun was especially cruel, which caused his soldiers to have a change of heart. Zhang Chun's chief underling stabbed him to death, and then he handed over the head. After that, he led the rebel army in surrender. Zhang Ju saw that the situation was hopeless, so he hanged himself. Yuyang was now completely pacified. Liu Yu reported Liu Bei's exploits to the emperor, so the court pardoned him for the beating of the county inspector. He was made minister of Xiami County, and he was later made a military commander in Gaotang County. Gongsun Zan also wrote a glowing report about Xuande's previous exploits, and recommended that he be made a military clerk in another region. He was then made governor of Pingyuan County. When Xuande was in Pingyuan, he was given a greater stipend and was put in charge of a large number of horses and men. In this way, he was able to restore things back to the way they were in the past. For his role in putting down the bandits, Liu Yu was made Grand Commandant."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-002-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "中平六年，夏四月，靈帝病篤，召大將軍何進入宮，商議後事。那何進起身屠家；因妹入宮為貴人，生皇子辯，遂立為皇后，進由是得權重任。帝又寵幸王美人，生皇子協。何后嫉妒，鴆殺王美人。皇子協養於董太后宮中。董太后乃靈帝之母，解瀆亭侯劉萇之妻也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the fourth lunar month of the sixth year of Zhongping, Emperor Ling became deathly ill."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-002-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "初因桓帝無子，迎立解瀆亭侯之子，是為靈帝。靈帝入繼大統，遂迎養母氏於宮中，尊為太后。董太后嘗勸帝立皇子協為太子。帝亦偏愛協，欲立之。當時病篤，中常侍蹇碩奏曰：「若欲立協，必先誅何進，以絕後患。」帝然其說，因宣進入宮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He summoned supreme general He Jin to the palace to discuss the matter of his successor. 200px|thumb|right|w:Emperor Xian of Han|Prince Xie He Jin originally came from a family of butchers."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-002-line-041",
+        "order": 41,
+        "source_block_chunk": 3,
+        "source_block_order": 14,
+        "text": "進至宮門，司馬潘隱謂進曰：「不可入宮：蹇碩欲謀殺公。」進大驚，急歸私宅，召諸大臣，欲盡誅宦官。座上一人挺身出曰：「宦官之勢，起自沖、質之時；朝廷滋蔓極廣，安能盡誅？倘機不密，必有滅族之禍：請細詳之。」進視之，乃典軍校尉曹操也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "However, his younger sister had become a consort within the palace, and had given birth to Prince Bian."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-002-line-042",
+        "order": 42,
+        "source_block_chunk": 4,
+        "source_block_order": 14,
+        "text": "進叱曰：「汝小輩安知朝廷大事！」正躊躇間，潘隱至，言：「帝已崩。今蹇碩與十常侍商議，秘不發喪，矯詔宣何國舅入宮，欲絕後患，冊立皇子協為帝。」說未了，使命至，宣進速入，以定後事。操曰：「今日之計，先宜正君位，然後圖賊。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As a result, she became an empress, and Jin was given an important and powerful post. Emperor Ling had a special fondness for Consort Wang, who gave birth to Prince Xie. Empress He became jealous, and killed Consort Wang by poisoning her. After that, Prince Xie was raised within the palace of Empress Dowager Dong. Empress Dowager Dong was the mother of Emperor Ling, and the wife of Liu Chang, Marquis of Jiedu Ting. Since Emperor Huan had no sons, the son of Marquis of Jiedu Ting was selected for the throne; this was Emperor Ling. Emperor Ling succeeded the throne, so his mother was also brought into the palace, and was given the title of empress dowager. Empress Dowager Dong had advised the emperor to make Prince Xie the crown prince. The emperor was also partial to Xie, and wanted to pick him as his successor. Jian Shuo, the emperor's personal attendant, addressed the emperor, saying, \"If Xie is chosen, He Jin must first be killed, in order to avoid any future repercussions.\" The emperor agreed, and summoned Jin to the palace. When Jin arrived at the gates to the palace, a military clerk named Pan Yin said to Jin, \"You must not enter the palace. Jian Shuo will have you murdered.\" Jin was shocked; he hurried back to his private residence, and summoned all of his ministers. He wanted to kill all of the eunuchs. A man on the dais defiantly stood up and said, \"The power of the eunuchs has been building ever since the time of Chong and Zhi. They have spread like a virus throughout the court; how can we possibly kill them all? If the plot is not kept secret, they could wipe us from the face of the earth.\" Jin looked at him, and saw that it was junior captain Cao Cao. Jin rebuked him, saying, \"What would a junior ranking officer like you know about important matters of the court!\" Just as they were pondering their next move, Pan Yin arrived, and said, \"The emperor is already dead. Today, Jian Shuo talked things over with the ten regular attendants; the death is to be kept secret so that they can forge an imperial edict which summons Uncle He to the palace. They would like to take care of any future repercussions, and they would like to hold a ceremony to make Prince Xie the new emperor.\" He had not even finished speaking, when the order arrived for Jin to enter the palace as soon as possible so that a successor could be chosen. Cao said, \"For now, the plan should be: first, choose the correct successor to the throne; next, deal with the traitors.\""
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-002-line-043",
+        "order": 43,
+        "source_block_chunk": 5,
+        "source_block_order": 14,
+        "text": "」進曰：「誰敢與吾正君討賊？」一人挺身出曰：「願借精兵五千，斬關入內，冊立新君，盡誅閹豎，掃清朝廷，以安天下！」進視之，乃司徒袁逢之子，袁隗之姪：名紹，字本初，見為司隸校尉。何進大喜，遂點御林軍五千。紹全身披掛。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Jin said, \"Who is daring enough to join with me in choosing the correct successor and in prosecuting the traitors?\" One man stood up and said, \"I would like to ready five thousand elite troops, and we will fight our way into the palace."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-002-line-044",
+        "order": 44,
+        "source_block_chunk": 6,
+        "source_block_order": 14,
+        "text": "何進引何顒、荀攸、鄭泰等大臣三十餘員，相繼而入，就靈帝柩前，扶立太子辯即皇帝位。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We will then put a new successor on the throne, and kill all of the wretched eunuchs."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-002-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "百官呼拜已畢，袁紹入宮收蹇碩。碩慌走入御花園花陰下，為中常侍郭勝所殺。碩所領禁軍，盡皆投順。紹謂何進曰：「中官結黨。今日可乘勢盡誅之。」張讓等知事急，慌入告何后曰：「始初設謀陷害大將軍者，止蹇碩一人，並不干臣等事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We shall sweep through the court until it is free of any impurities, and thus bring peace to the country!\" 200px|thumb|right|w:Yuan Shao|Yuan Shao Jin saw that it was the son of Minister over the Masses Yuan Feng, and the nephew of Yuan Wei."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-002-line-046",
+        "order": 46,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "今大將軍聽袁紹之言，欲盡誅臣等，乞娘娘憐憫！」何太后曰：「汝等勿憂，我當保汝。」傳旨宣何進入。太后密謂曰：「我與汝出身寒微，非張讓等，焉能享此富貴？今蹇碩不仁，既已伏誅，汝何信人言，欲盡誅宦官耶？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His surname was Yuan, and his given name was Shao; his style name was Benchu. He was currently serving as Colonel Director of Retainers. He Jin was overjoyed, and gave him five thousand men from the capital guard. Shao dressed himself in full-body armor. He Jin took more than thirty people with him, including such important ministers as He Yong, Xun You and Zheng Tai. They all filed into the palace, and in front of Emperor Ling's coffin, they helped Prince Bian onto the imperial throne. After all of the officials had finished paying their respects, Yuan Shao entered the palace to capture Jian Shuo. Shuo panicked and ran out into the courtyard, where he was killed in the shade of the bushes by the attendant Guo Sheng. The palace guards that Shuo was in charge of all surrendered. Shao said to He Jin, \"The eunuchs have formed a faction, and now we should seize the opportunity to kill them all.\" People like Zhang Rang understood the dire nature of the situation, and hurriedly ran into Empress He's chambers, saying, \"It was only ever Jian Shuo who plotted to set up the supreme general. It had nothing to do with us. Now the general has listened to Yuan Shao's advice and wants to kill all of us. We beg our empress for mercy!\" Empress He replied, \"Don't you worry, I will protect you.\" She then sent a decree which ordered He Jin to enter her chambers. The empress dowager confided in him, \"You and me, we're both from humble and lowly origins. If it weren't for Zhang Rang and the others, how could we possibly have attained this wealth and prestige? Jian Shuo has now acted ungraciously, and was killed for his misdeeds. How can you believe what people are saying, and want to kill all of the eunuchs?\""
+          }
+        }
+      },
+      {
+        "character_count": 57,
+        "id": "chapter-002-line-047",
+        "order": 47,
+        "source_block_chunk": 3,
+        "source_block_order": 15,
+        "text": "何進聽罷出謂眾官曰「蹇碩設謀害我可族滅其家。其餘不必妄加殘害。」袁紹曰「若不斬草除根必為喪身之本。」進曰「吾意已決汝勿多言。」眾官皆退。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After He Jin heard her explanation, he went out and told everyone, \"Jian Shuo has plotted my demise, and his entire family should be killed for it."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-002-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "次日，太后命何進參錄尚書事，其餘皆封官職。董太后宣張讓等入宮商議曰：「何進之妹，始初我抬舉他。今日他孩兒即皇帝位，內外臣僚，皆其心腹：威權太重，我將如何？」讓奏曰：「娘娘可臨朝，垂簾聽政；封皇子協為王；加國舅董重大官，掌握軍權；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is not necessary to cause additional harm to any of the others.\" Yuan Shao said, \"If you don't nip this in the bud, it will eventually be the death of you.\" Jin replied, \"I have already made up my mind, say nothing further.\" After that, they all dispersed. The following day, the empress dowager ordered that He Jin be made chief of staff. All of her other people were also given official posts. Empress Dowager Dong summoned Zhang Rang to her chambers to discuss the matter. She said, \"At first, I helped to advance He Jin's younger sister. Now that her son has become emperor, all of the ministers from inside and outside of the palace are her trusted confidents. She has too much power; what should I do?\" Rang addressed her, saying, \"You could personally take over the running of the government. You could make Prince Xie the emperor, and rule on his behalf from behind a curtain. You could then place your brother Dong Chong in a powerful post, and put him in charge of the military. If you assign me and my colleagues to important positions,"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-002-line-049",
+        "order": 49,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "重用臣等：大事可圖矣。」董太后大喜。次日設朝，董太后降旨，封皇子協為陳留王，董重為驃騎將軍，張讓等共預朝政。何太后見董太后專權，於宮中設一宴，請董太后赴席。酒至半酣，何太后起身捧盃再拜曰：「我等皆婦人也，參預朝政，非其所宜。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If you do that, you will be able to accomplish great things.\" Empress Dowager Dong was overjoyed."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-002-line-050",
+        "order": 50,
+        "source_block_chunk": 3,
+        "source_block_order": 16,
+        "text": "昔呂后因握重權，宗族千口皆被戮。今我等宜深居九重；朝廷大事，任大臣元老自行商議，此國家之幸也。願垂聽焉。」董太后大怒曰：「汝鴆死王美人，設心嫉妒。今倚汝子為君，與汝兄何進之勢，輒敢亂言！吾敕驃騎斷汝兄首，如反掌耳！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The following day at court, Empress Dowager Dong handed down a decree which made Prince Xie the Prince of Chenliu."
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-002-line-051",
+        "order": 51,
+        "source_block_chunk": 4,
+        "source_block_order": 16,
+        "text": "何后亦怒曰「吾以好言相勸何反怒耶」董后曰「汝家屠沽小輩有何見識」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dong Chong was made general of fast cavalry. Zhang Rang and his colleagues were all granted administrative powers to run the government. Empress Dowager He saw that Empress Dowager Dong was monopolizing power, so she organized a banquet within the palace, and requested that Empress Dowager Dong attend. After a few cups of wine, Empress Dowager He stood up, wine cup in hand, and bowed twice, saying, \"We're just women after all. It is not appropriate for us to participate in the running of the government. In the past, Empress Lü was given power and as a result, a thousand people of the same clan were killed. We should dwell behind the cloistered walls of the palace. Major affairs of state should be delegated to senior ministers, who consult with each other on their own. This is a good thing for the nation, do you really want to personally run things?\" Empress Dowager Dong flew into a rage, saying, \"It was you who poisoned Consort Wang out of spite and jealousy. It is only because your son is the emperor, and the mighty He Jin is your brother, that you dare speak such non-sense! I could command the general of fast cavalry to cut off your brother's head with a wave of my hand!\" Empress He also responded in anger, saying, \"I was using friendly words when I gave you advice, why do you respond with such anger?\" Empress Dong said, \"You come from a low-class family of meat butchers and wine sellers, what do you know about anything!\" As the two of them continued their war of words."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-002-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "兩宮互相爭競，張讓等各勸歸宮。何后連夜召何進入宮，告以前事。何進出，召三公共議：來早設朝，使廷臣奏董太后原係藩妃，不宜久居宮中，合仍遷於河間安置，限日下即出國門。一面遣人起送董后；一面點禁軍圍驃騎將軍董重府宅，追索印綬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhang Rang and his colleagues urged both of them to return to their chambers."
+          }
+        }
+      },
+      {
+        "character_count": 70,
+        "id": "chapter-002-line-053",
+        "order": 53,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "董重知事急，自刎於後堂。家人舉哀，軍士方散。張讓、段珪見董后一枝已廢，遂皆以金珠玩好結搆何進弟何曲並其母舞陽君，令早晚入何太后處，善言遮蔽：因此十常侍又得近幸。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Empress He sent word day and night for He Jin to come to the palace; when he arrived, she told him what had happened."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-002-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "六月，何進暗使人酖殺董后於河間驛庭，舉柩回京，葬於文陵。進託病不出，司隸校尉袁紹入見進曰：「張讓、段珪等流言於外，言公酖殺董后，欲謀大事。乘此時不誅閹宦，後必為大禍。昔竇武欲誅內豎，機謀不密，反受其殃。今公兄弟部曲將吏，皆英俊之士；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He Jin came out, and immediately convened a meeting with the three most senior ministers. He made them hold court in the early hours of the morning, and issue a statement saying that Empress Dowager Dong started out as the wife of a low-ranking noble, and hence should not permanently reside at the palace. It further stated that it would be best if she were relocated to Hejian, and that she would have a fixed number of days within which to leave the gates of the capital. They then sent someone to escort Empress Dong, while at the same time ordering the capital guards to surround general of fast cavalry Dong Chong's manor. They were to apprehend him, and take possession of his official government seal. Dong Chong understood the dire nature of the situation, and committed suicide in a rear hall. The military troops did not disperse until his family members held the funeral. When Zhang Rang and Duan Gui saw that Empress Dong's branch of the family had been nullified, they resorted to using bribes of gold and pearls to collude with He Jin's younger brother He Miao and his mother, the Lady of Wuyang. The stipulation was that sooner or later, they would meet with Empress Dowager He and put in a good word so that the eunuchs would be protected. Because of this, the ten regular attendants acquired a new benefactor. In the sixth lunar month, He Jin secretly sent someone to poison Empress Dong at her villa in Hejian. Her coffin was transported back to the capital, and laid to rest at the Wen Imperial tombs. Jin faked an illness, and did not attend the funeral. Colonel Director of Retainers Yuan Shao came in to see Jin, and said, \"Zhang Rang and Duan Gui are spreading rumors. They are saying that you poisoned Empress Dong, and that you are plotting something major. If we do not seize this opportunity to kill the eunuchs, there will be a major catastrophe later on. In the past, Dou Wu wanted to kill them, but his secret plot was revealed, which then brought about his downfall. Right now, your allies within the military and civil bureaucracy are all stout and able men."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-002-line-055",
+        "order": 55,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "若使盡力，事在掌握。此天贊之時，不可失也。」進曰：「且容商議。」左右密報張讓﹔讓等轉告何苗，又多送賄賂。苗入奏何后云：「大將軍輔佐新君，不行仁慈，專務殺伐。今無瑞又欲殺十常侍，此取亂之道也。」后納其言。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If you were to pull out all of the stops, you could take control."
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-002-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "少頃何進入白后欲誅中涓。何后曰「中官統領禁省漢家故事。先帝新棄天下爾欲誅殺舊臣非重宗廟也。」進本是沒決斷之人聽太后言唯唯而出。袁紹迎問曰「大事若何」進曰「太后不允如之奈何」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "You cannot let this opportune moment pass by.\" Jin replied, \"We should discuss this more.\" One of his attendants secretly reported the conversation to Zhang Rang."
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-002-line-057",
+        "order": 57,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "紹曰「可召四方英雄人士勒兵來京盡誅閹豎。此時事急不容太后不從。」進曰「此計大妙」便發檄至各鎮召赴京師。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Rang then relayed the information to He Miao, along with even more bribes. Miao went to Empress He, and said, \"The supreme general has helped to establish a new ruler, but he has not shown any leniency. He seems bent on killing. Now he wants to kill the ten regular attendants for no reason. This is the path to chaos.\" The empress took his words to heart. After a while, He Jin went to the empress to tell her about his desire to kill the eunuchs. Empress He said, \"The eunuchs are in charge of the imperial household. The house of Han has operated in this way for generations. The late emperor has only recently abandoned this world for the next, yet you want to kill all of his old ministers; this does not show proper respect to the temple of our ancestors.\" Jin was not a decisive man He listened to the empress dowager and murmured his compliance as he was leaving. Yuan Shao intercepted him and asked, \"What has become of our great undertaking?\" Jin replied, \"The empress dowager will not allow it, so what can I do?\" Shao said, \"You could recruit brave soldiers from all over, and bring them into the capital to kill all of the wretched eunuchs. At this point, the situation is desperate. The empress dowager must not be allowed to dissent.\" Jin said, \"That is a brilliant plan!\""
+          }
+        }
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-002-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "主簿陳琳曰：「不可！俗云：『掩目而捕燕雀』，是自欺也。微物尚不可欺以得志，況國家大事乎？今將軍仗皇威，掌兵要，龍驤虎步，高下在心：若欲誅宦官，如鼓洪爐燎毛髮耳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "200px|thumb|right|a w:brambling|brambling He then sent notices to every hamlet, calling on troops to come to the capital."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-002-line-059",
+        "order": 59,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "但當速發，行權立斷，則天人順之﹔卻反外檄大臣，臨犯京闕，英雄聚會，各懷一心：所謂倒持干戈，授人以柄，功必不成，反生亂矣。」何進笑曰：「此懦夫之見也！」傍邊一人鼓掌大笑曰：「此事易如反掌，何必多議！」視之，乃曹操也。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chief of records Chen Lin said, \"You must not!"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-002-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "欲除君側宵人亂，須聽朝中智士謀。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As the saying goes, 'to cover one's eyes while trying to catch a brambling,' this is to deceive oneself."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-002-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "不知曹操說出甚話來，且聽下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If you are still unable to assert your will over small things, what about important matters of state? You now rely on imperial might, and a command of the military, to throw your weight about and do as you please. Your wanting to kill the eunuchs is akin to lighting a large oven just to burn up a few hairs. You merely need to unleash your wrath quickly. If you exercise your powers in a decisive manner, then everyone will follow your lead. But instead, you have issued a call to arms to all of the important ministers. They are streaming into the capital. With all of these heroes gathered together, each with a mind of his own, you are essentially offering the butt of your spear to others. By relinquishing your authority, your endeavor will surely fail, and chaos will emerge.\" He Jin laughed and said, \"This is the view of a coward!\" A man standing to the side started to clap his hands as he burst out laughing, saying, \"This is as easy as turning over your hand, there is no need for excessive debate!\" They looked at the man; it was Cao Cao. It was a case of: If the king is taken away, then the mice will come out to play. One must listen to the plans of the wise and talented men at court. Are you wondering what Cao Cao was about to say? Keep listening, and all will be explained."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "且說董卓字仲穎，隴西臨洮人也。官拜河東太守，自來驕傲。當日怠慢了玄德，張飛性發，便欲殺之。玄德與關公急止之曰：「他是朝廷命官，豈可擅殺？」飛曰：「若不殺這廝，反要在他部下聽令，其實不甘！二兄要便住在此，我自投別處去也！」玄德曰：「我三人義同生死，豈可相離？不若都投別處去便了。」飛曰：「若如此，稍解吾恨。」於是三人連夜引軍來投朱儁。儁待之甚厚，合兵一處，進討張寶。是時曹操自跟皇甫嵩討張梁，大戰於曲陽。這裏朱儁進攻張寶。張寶引賊眾八九萬，屯於山後。儁令玄德為其先鋒，與賊對敵。張寶遣副將高昇出馬搦戰。玄德使張飛擊之。飛縱馬挺矛，與昇交戰，不數合，刺昇落馬。玄德麾軍直衝過去。張寶就馬上披髮仗劍，作起妖法。只見風雷大作，一股黑氣，從天而降：黑氣中似有無限人馬殺來。玄德連忙回軍，軍中大亂，敗陣而歸，與朱儁計議。儁曰：「彼用妖術，我來日可宰豬羊狗血，令軍士伏於山頭；候賊趕來，從高坡上潑之，其法可解。」\n玄德聽令，撥關公、張飛各引軍一千，伏於山後高岡之上，盛豬羊狗血並穢物準備。次日，張寶搖旗擂鼓，引軍搦戰，玄德出迎。交鋒之際，張寶作法，風雷大作，飛砂走石，黑氣漫天，滾滾人馬，自天而下。玄德撥馬便走，張寶驅兵趕來。將過山頭，關、張伏軍放起號砲，將穢物齊潑。但見空中紙人草馬，紛紛墜地；風雷頓息，砂石不飛。張寶見解了法，急欲退軍。左關公，右張飛，兩軍都出，背後玄德、朱儁一齊趕上，賊兵大敗。玄德望見地公將軍旗號，飛馬趕來，張寶落荒而走。玄德發箭，中其左臂。張寶帶箭逃脫，走入陽城，堅守不出。朱儁引兵圍住陽城攻打，一面差人打探皇甫嵩消息。探子回報，具說：「皇甫嵩大獲勝捷，朝廷以董卓屢敗，命嵩代之。嵩到時，張角已死；張梁統其眾，與我軍相拒，被皇甫嵩連勝七陣，斬張梁於曲陽。發張角之棺，戮屍梟首，送往京師。餘眾俱降。朝廷加皇甫嵩為車騎將軍，領冀州牧。皇甫嵩又表奏盧植有功無罪，朝廷復盧植原官。曹操亦以有功，除濟南相，即日將班師赴任。」朱儁聽說，催促軍馬，悉力攻打陽城。賊勢危急，賊將嚴政，刺殺張寶，獻首投降。朱儁遂平數郡，上表獻捷。\n時又黃巾餘黨三人，─趙弘、韓忠、孫仲─，聚眾數萬，望風燒劫，稱與張角報讎。朝廷命朱儁即以得勝之師討之。儁奉詔，率軍前進。時賊據宛城，儁引兵攻之，趙弘遣韓忠出戰。儁遣玄德、關、張攻城西南角。韓忠盡率精銳之眾，來西南角抵敵。朱儁自縱鐵騎二千，逕取東北角。賊恐失城，急棄西南而回。玄德從背後掩殺，賊眾大敗，奔入宛城。朱儁分兵四面圍定，城中斷糧，韓忠使人出城投降。儁不許。玄德曰：「昔高祖之得天下，蓋為能招降納順；公何拒韓忠耶？」儁曰：「彼一時，此一時也。昔秦項之際，天下大亂，民無定主，故招降賞附，以勸來耳。今海內一統，惟黃巾造反；若容其降，無以勸善。使賊得利恣意劫掠，失利便投降：此長寇之志，非良策也。」玄德曰：「不容寇降是矣。今四面圍如鐵桶，賊乞降不得，必然死戰，萬人一心，尚不可當，況城中有數萬死命之人乎？不若撤去東南，獨攻西北。賊必棄城而走，無心戀戰，可即擒也。」儁然之，遂撤東南二面軍馬，一齊攻打西北。韓忠果引軍棄城而奔。儁與玄德、關、張率三軍掩殺，射死韓忠，餘皆四散奔走。\n正追趕間，趙弘、孫仲引賊眾到，與儁交戰。儁見弘勢大，引軍暫退。弘乘勢復奪宛城。儁離十里下寨，方欲攻打，忽見正東一彪人馬到來。為首一將，生得廣額闊面，虎體熊腰；吳郡富春人也：姓孫，名堅，字文臺，乃孫武子之後。年十七歲，與父至錢塘，見海賊十餘人，劫取商人財物，於岸上分贓。堅謂父曰：「此賊可擒也。」遂奮力提刀上岸，揚聲大叫，東西指揮，如喚人狀。賊以為官兵至，盡棄財物奔走。堅趕上，殺一賊。由是郡縣知名，薦為校尉。後會稽妖賊許昌造反，自稱陽明皇帝，聚眾數萬；堅與郡司馬招募勇士千餘人，會合州郡破之，斬許昌並其子許韶。刺史臧旻上表奏其功，除堅為鹽瀆丞，又除盱眙丞、下邳丞。今見黃巾寇起，聚集鄉中少年及諸商旅，並淮泗精兵一千五百餘人，前來接應。\n朱儁大喜，便令堅攻打南門，玄德打北門，朱儁打西門，留東門與賊走。孫堅首先登城，斬賊二十餘人，賊眾奔潰。趙弘飛馬突槊，直取孫堅。堅從城上飛身奪弘槊，刺弘下馬；卻騎弘馬，飛身往來殺賊。孫仲引賊突出北門，正迎玄德，無心戀戰，只待奔逃。玄德張弓一箭，正中孫仲，翻身落馬。朱儁大軍，隨後掩殺，斬首數萬級，降者不可勝計。南陽一路，十數郡皆平。儁班師回京，詔封為車騎将軍，河南尹。儁表奏孫堅、劉備等功。堅有人情，除別郡司馬上任去了；惟玄德聽候日久，不得除授。\n三人鬱鬱不樂，上街閒行，正值郎中張鈞車到。玄德見之，自陳功績。鈞大驚，隨入朝見帝曰：「昔黃巾造反，其原皆由十常侍賣官鬻爵，非親不用，非讎不誅，以致天下大亂。今宜斬十常侍，懸首南郊，遣使者布告天下，有功者重加賞賜，則四海自清平也。」十常侍奏帝曰：「張鈞欺主。」帝令武士逐出張鈞。十常侍共議：「此必破黃巾有功者，不得除授，故生怨言。權且教省家銓註微名，待後卻再理會未晚。」因此玄德除授定州中山府安喜縣尉，剋日赴任。玄德將兵散回鄉里，止帶親隨二十餘人，與關、張來安喜縣中到任。署縣事一月，與民秋毫無犯，民皆感化。到任之後，與關、張食則同桌，寢則同床。如玄德在稠人廣坐，關、張侍立，終日不倦。\n到縣未及四月，朝廷降詔，凡有軍功為長吏者當沙汰。玄德疑在遣中。適督郵行部至縣，玄德出墎迎接，見督郵施禮。督郵坐於馬上，惟微以鞭指回答。關、張二公俱怒。及到館驛，督郵南面高坐，玄德侍立階下。良久，督郵問曰：「劉縣尉是何出身？」玄德曰：「備乃中山靖王之後；自涿郡剿戮黃巾，大小三十餘戰，頗有微功，因得除今職。」督郵大喝曰：「汝詐稱皇親，虛報功績！目今朝廷降詔，正要沙汰這等濫官汙吏！」玄德喏喏連聲而退。歸到縣中，與縣吏商議。吏曰：「督郵入威，無非要賄賂耳。」玄德曰：「我與民秋毫無犯，那得財物與他？」次日，督郵先提縣吏去，勒令指稱縣尉害民。玄德幾番自往求免，俱被門役阻住，不肯放參。\n郤說張飛飲了數盃悶酒，乘馬從館驛前過，見五六十個老人，皆在門前痛哭。飛問其故。眾老人答曰：「督郵逼勒縣吏，欲害劉公；我等皆來苦告，不得放入，反遭把門人趕打！」張飛大怒，睜圓環眼，咬碎鋼牙，滾鞍下馬，逕入館驛，把門人那裏阻擋得住。直奔後堂，見督郵正坐廳上，將縣吏綁倒在地。飛大喝：「害民賊！認得我麼？」督郵未及開言，早被張飛揪住頭髮，扯出館驛，直到縣前馬樁上縛住；扳下柳條，去督郵兩腿上著力鞭打，一連打折柳條十數枝。\n玄德正納悶間，聽得縣前喧鬧，問左右，答曰：「張將軍綁一人在縣前痛打。」玄德忙去觀之，見綁縛者乃督郵也。玄德驚問其故。飛曰：「此等害民賊，不打死等甚！」督郵告曰：「玄德公救我性命！」玄德終是仁慈的人，急喝張飛住手。傍邊轉過關公來，曰：「兄長建許多大功，僅得縣尉，今反被督郵侮辱。吾思枳棘叢中，非棲鸞鳳之所；不如殺督郵，棄官歸鄉，別圖遠大之計。」玄德乃取印綬，掛於督郵之頸，責之曰：「據汝害民，本當殺卻；今姑饒汝命。吾繳還印綬，從此去矣！」督郵歸告定州太守，太守申文省府，差人捕捉。玄德、關、張三人往代州投劉恢。恢見玄德乃漢室宗親，留匿在家不題。\n卻說十常侍既握重權，互相商議：但有不從己者，誅之。趙忠，張讓，差人問破黃巾將士索金帛，不從者奏罷職。皇甫嵩、朱儁皆不肯與，趙忠等俱奏罷其官。帝又封趙忠等為車騎將軍，張讓等十三人皆封列侯。朝政愈壞，人民嗟怨。於是長沙賊區星作亂；漁陽張舉、張純反：舉稱天子，純稱大將軍。表章雪片告急，十常侍皆藏匿不奏。\n一日，帝在後園與十常侍飲宴，諫議大夫劉陶，逕到帝前大慟。帝問其故。陶曰：「天下危在旦夕，陛下尚自與閹官共飲耶！」帝曰：「國家承平，有何危急？」陶曰：「四方盜賊並起，侵掠州郡。其禍皆由十常侍賣官害民，欺君罔上。朝廷正人皆去，禍在目前矣！」十常侍皆免冠跪伏於帝前曰：「大臣不相容，臣等不能活矣！願乞性命歸田里，盡將家產以助軍資。」言罷痛哭。帝怒謂陶曰：「汝亦有近侍之人，何獨不容朕耶？」呼武士推出斬之。劉陶大呼：「臣死不惜！可憐漢室天下，四百餘年，到此一旦休矣！」\n武士擁陶出，方欲行刑，一大臣喝住曰：「勿得下手，待我諫去。」眾視之，乃司徒陳耽。逕入室中來諫帝曰：「劉諫議得何罪而受誅？」帝曰：「毀謗近臣，冒朕躬。」耽曰：「天下人民，欲食十常侍之肉，陛下敬之如父母，身無寸功，皆封列侯；況封諝等結連黃巾，欲為內亂：陛下今不自省，社稷立見崩摧矣！」帝曰：「封諝作亂，其事不明。十常侍中，豈無一二忠臣？」陳耽以頭撞階而諫。帝怒，命牽出，與劉陶皆下獄。是夜，十常侍即於獄中謀殺之；假帝詔以孫堅為長沙太守，討區星。\n不五十日，報捷，江夏平。詔封堅為烏程侯；封劉虞為幽州牧，領兵往漁陽征張舉、張純。代州劉恢以書薦玄德見虞。虞大喜，令玄德為都尉，引兵直抵賊巢，與賊大戰數日，挫動銳氣。張純專一兇暴，士卒心變，帳下頭目刺殺張純，將頭納獻，率眾來降。張舉見勢敗，亦自縊死。漁陽盡平。劉虞表奏劉備大功，朝廷赦免鞭督郵之罪，除下密丞，遷高堂尉。公孫瓚又表陳玄德前功，薦為別部司馬，守平原縣令。玄德在平原，頗有錢糧軍馬，重整舊日氣象。劉虞平寇有功，封太尉。\n中平六年，夏四月，靈帝病篤，召大將軍何進入宮，商議後事。那何進起身屠家；因妹入宮為貴人，生皇子辯，遂立為皇后，進由是得權重任。帝又寵幸王美人，生皇子協。何后嫉妒，鴆殺王美人。皇子協養於董太后宮中。董太后乃靈帝之母，解瀆亭侯劉萇之妻也。初因桓帝無子，迎立解瀆亭侯之子，是為靈帝。靈帝入繼大統，遂迎養母氏於宮中，尊為太后。董太后嘗勸帝立皇子協為太子。帝亦偏愛協，欲立之。當時病篤，中常侍蹇碩奏曰：「若欲立協，必先誅何進，以絕後患。」帝然其說，因宣進入宮。進至宮門，司馬潘隱謂進曰：「不可入宮：蹇碩欲謀殺公。」進大驚，急歸私宅，召諸大臣，欲盡誅宦官。座上一人挺身出曰：「宦官之勢，起自沖、質之時；朝廷滋蔓極廣，安能盡誅？倘機不密，必有滅族之禍：請細詳之。」進視之，乃典軍校尉曹操也。進叱曰：「汝小輩安知朝廷大事！」正躊躇間，潘隱至，言：「帝已崩。今蹇碩與十常侍商議，秘不發喪，矯詔宣何國舅入宮，欲絕後患，冊立皇子協為帝。」說未了，使命至，宣進速入，以定後事。操曰：「今日之計，先宜正君位，然後圖賊。」進曰：「誰敢與吾正君討賊？」一人挺身出曰：「願借精兵五千，斬關入內，冊立新君，盡誅閹豎，掃清朝廷，以安天下！」進視之，乃司徒袁逢之子，袁隗之姪：名紹，字本初，見為司隸校尉。何進大喜，遂點御林軍五千。紹全身披掛。何進引何顒、荀攸、鄭泰等大臣三十餘員，相繼而入，就靈帝柩前，扶立太子辯即皇帝位。\n百官呼拜已畢，袁紹入宮收蹇碩。碩慌走入御花園花陰下，為中常侍郭勝所殺。碩所領禁軍，盡皆投順。紹謂何進曰：「中官結黨。今日可乘勢盡誅之。」張讓等知事急，慌入告何后曰：「始初設謀陷害大將軍者，止蹇碩一人，並不干臣等事。今大將軍聽袁紹之言，欲盡誅臣等，乞娘娘憐憫！」何太后曰：「汝等勿憂，我當保汝。」傳旨宣何進入。太后密謂曰：「我與汝出身寒微，非張讓等，焉能享此富貴？今蹇碩不仁，既已伏誅，汝何信人言，欲盡誅宦官耶？」何進聽罷，出謂眾官曰：「蹇碩設謀害我，可族滅其家。其餘不必妄加殘害。」袁紹曰：「若不斬草除根，必為喪身之本。」進曰：「吾意已決，汝勿多言。」眾官皆退。\n次日，太后命何進參錄尚書事，其餘皆封官職。董太后宣張讓等入宮商議曰：「何進之妹，始初我抬舉他。今日他孩兒即皇帝位，內外臣僚，皆其心腹：威權太重，我將如何？」讓奏曰：「娘娘可臨朝，垂簾聽政；封皇子協為王；加國舅董重大官，掌握軍權；重用臣等：大事可圖矣。」董太后大喜。次日設朝，董太后降旨，封皇子協為陳留王，董重為驃騎將軍，張讓等共預朝政。何太后見董太后專權，於宮中設一宴，請董太后赴席。酒至半酣，何太后起身捧盃再拜曰：「我等皆婦人也，參預朝政，非其所宜。昔呂后因握重權，宗族千口皆被戮。今我等宜深居九重；朝廷大事，任大臣元老自行商議，此國家之幸也。願垂聽焉。」董太后大怒曰：「汝鴆死王美人，設心嫉妒。今倚汝子為君，與汝兄何進之勢，輒敢亂言！吾敕驃騎斷汝兄首，如反掌耳！」何后亦怒曰：「吾以好言相勸，何反怒耶？」董后曰：「汝家屠沽小輩，有何見識！」\n兩宮互相爭競，張讓等各勸歸宮。何后連夜召何進入宮，告以前事。何進出，召三公共議：來早設朝，使廷臣奏董太后原係藩妃，不宜久居宮中，合仍遷於河間安置，限日下即出國門。一面遣人起送董后；一面點禁軍圍驃騎將軍董重府宅，追索印綬。董重知事急，自刎於後堂。家人舉哀，軍士方散。張讓、段珪見董后一枝已廢，遂皆以金珠玩好結搆何進弟何曲並其母舞陽君，令早晚入何太后處，善言遮蔽：因此十常侍又得近幸。\n六月，何進暗使人酖殺董后於河間驛庭，舉柩回京，葬於文陵。進託病不出，司隸校尉袁紹入見進曰：「張讓、段珪等流言於外，言公酖殺董后，欲謀大事。乘此時不誅閹宦，後必為大禍。昔竇武欲誅內豎，機謀不密，反受其殃。今公兄弟部曲將吏，皆英俊之士；若使盡力，事在掌握。此天贊之時，不可失也。」進曰：「且容商議。」左右密報張讓﹔讓等轉告何苗，又多送賄賂。苗入奏何后云：「大將軍輔佐新君，不行仁慈，專務殺伐。今無瑞又欲殺十常侍，此取亂之道也。」后納其言。\n少頃，何進入白后，欲誅中涓。何后曰：「中官統領禁省，漢家故事。先帝新棄天下，爾欲誅殺舊臣，非重宗廟也。」進本是沒決斷之人，聽太后言，唯唯而出。袁紹迎問曰：「大事若何？」進曰：「太后不允，如之奈何？」紹曰：「可召四方英雄人士，勒兵來京，盡誅閹豎。此時事急，不容太后不從。」進曰：「此計大妙！」便發檄至各鎮，召赴京師。\n主簿陳琳曰：「不可！俗云：『掩目而捕燕雀』，是自欺也。微物尚不可欺以得志，況國家大事乎？今將軍仗皇威，掌兵要，龍驤虎步，高下在心：若欲誅宦官，如鼓洪爐燎毛髮耳。但當速發，行權立斷，則天人順之﹔卻反外檄大臣，臨犯京闕，英雄聚會，各懷一心：所謂倒持干戈，授人以柄，功必不成，反生亂矣。」何進笑曰：「此懦夫之見也！」傍邊一人鼓掌大笑曰：「此事易如反掌，何必多議！」視之，乃曹操也。正是：\n欲除君側宵人亂，須聽朝中智士謀。\n不知曹操說出甚話來，且聽下文分解。",
+    "title": "第二回 張翼德怒鞭督郵　　　何國舅謀誅宦豎"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-002.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

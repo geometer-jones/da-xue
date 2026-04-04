@@ -1,0 +1,212 @@
+{
+  "cache_dir": "books/lunyu",
+  "catalog_path": "books/lunyu/catalog.json",
+  "chapter_count": 20,
+  "chapters": [
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-001.json",
+      "character_count": 493,
+      "id": "chapter-001",
+      "order": 1,
+      "reading_unit_count": 26,
+      "summary": "",
+      "supplemental_unit_count": 44,
+      "title": "學而第一"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-002.json",
+      "character_count": 579,
+      "id": "chapter-002",
+      "order": 2,
+      "reading_unit_count": 39,
+      "summary": "",
+      "supplemental_unit_count": 46,
+      "title": "為政第二"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-003.json",
+      "character_count": 689,
+      "id": "chapter-003",
+      "order": 3,
+      "reading_unit_count": 36,
+      "summary": "",
+      "supplemental_unit_count": 55,
+      "title": "八佾第三"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-004.json",
+      "character_count": 501,
+      "id": "chapter-004",
+      "order": 4,
+      "reading_unit_count": 31,
+      "summary": "",
+      "supplemental_unit_count": 40,
+      "title": "里仁第四"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-005.json",
+      "character_count": 869,
+      "id": "chapter-005",
+      "order": 5,
+      "reading_unit_count": 39,
+      "summary": "",
+      "supplemental_unit_count": 55,
+      "title": "公冶長第五"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-006.json",
+      "character_count": 816,
+      "id": "chapter-006",
+      "order": 6,
+      "reading_unit_count": 36,
+      "summary": "",
+      "supplemental_unit_count": 62,
+      "title": "雍也第六"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-007.json",
+      "character_count": 873,
+      "id": "chapter-007",
+      "order": 7,
+      "reading_unit_count": 50,
+      "summary": "",
+      "supplemental_unit_count": 62,
+      "title": "述而第七"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-008.json",
+      "character_count": 614,
+      "id": "chapter-008",
+      "order": 8,
+      "reading_unit_count": 33,
+      "summary": "",
+      "supplemental_unit_count": 43,
+      "title": "泰伯第八"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-009.json",
+      "character_count": 795,
+      "id": "chapter-009",
+      "order": 9,
+      "reading_unit_count": 44,
+      "summary": "",
+      "supplemental_unit_count": 54,
+      "title": "子罕第九"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-010.json",
+      "character_count": 641,
+      "id": "chapter-010",
+      "order": 10,
+      "reading_unit_count": 61,
+      "summary": "",
+      "supplemental_unit_count": 42,
+      "title": "鄉黨第十"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-011.json",
+      "character_count": 1053,
+      "id": "chapter-011",
+      "order": 11,
+      "reading_unit_count": 63,
+      "summary": "",
+      "supplemental_unit_count": 54,
+      "title": "先進第十一"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-012.json",
+      "character_count": 992,
+      "id": "chapter-012",
+      "order": 12,
+      "reading_unit_count": 55,
+      "summary": "",
+      "supplemental_unit_count": 54,
+      "title": "顏淵第十二"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-013.json",
+      "character_count": 1034,
+      "id": "chapter-013",
+      "order": 13,
+      "reading_unit_count": 54,
+      "summary": "",
+      "supplemental_unit_count": 46,
+      "title": "子路第十三"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-014.json",
+      "character_count": 1340,
+      "id": "chapter-014",
+      "order": 14,
+      "reading_unit_count": 75,
+      "summary": "",
+      "supplemental_unit_count": 79,
+      "title": "憲問第十四"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-015.json",
+      "character_count": 905,
+      "id": "chapter-015",
+      "order": 15,
+      "reading_unit_count": 61,
+      "summary": "",
+      "supplemental_unit_count": 58,
+      "title": "衛靈公第十五"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-016.json",
+      "character_count": 863,
+      "id": "chapter-016",
+      "order": 16,
+      "reading_unit_count": 35,
+      "summary": "",
+      "supplemental_unit_count": 26,
+      "title": "季氏第十六"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-017.json",
+      "character_count": 1019,
+      "id": "chapter-017",
+      "order": 17,
+      "reading_unit_count": 54,
+      "summary": "",
+      "supplemental_unit_count": 47,
+      "title": "陽貨第十七"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-018.json",
+      "character_count": 618,
+      "id": "chapter-018",
+      "order": 18,
+      "reading_unit_count": 28,
+      "summary": "",
+      "supplemental_unit_count": 30,
+      "title": "微子第十八"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-019.json",
+      "character_count": 842,
+      "id": "chapter-019",
+      "order": 19,
+      "reading_unit_count": 33,
+      "summary": "",
+      "supplemental_unit_count": 33,
+      "title": "子張第十九"
+    },
+    {
+      "chapter_path": "books/lunyu/chapters/chapter-020.json",
+      "character_count": 369,
+      "id": "chapter-020",
+      "order": 20,
+      "reading_unit_count": 15,
+      "summary": "",
+      "supplemental_unit_count": 11,
+      "title": "堯曰第二十"
+    }
+  ],
+  "commentary_chapter_count": 0,
+  "commentary_chapters": [],
+  "provider": "ctext-html",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/lun-yu-ji-zhu?if=en",
+  "title": "四書章句集注 : 論語集注"
+}

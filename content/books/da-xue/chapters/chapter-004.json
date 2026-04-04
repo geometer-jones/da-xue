@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 64,
+    "id": "chapter-004",
+    "order": 4,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 64,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Those of old who wished to make luminous virtue shine throughout the world first ordered their states; those who wished to order their states first regulated their families; those who wished to regulate their families first cultivated themselves; those who wished to cultivate themselves first rectified their hearts; those who wished to rectify their hearts first made their intentions sincere; those who wished to make their intentions sincere first extended their knowledge; extending knowledge lies in investigating things."
+          }
+        },
+        "id": "chapter-004-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "古之欲明明德於天下者，先治其國；欲治其國者，先齊其家；欲齊其家者，先脩其身；欲脩其身者，先正其心；欲正其心者，先誠其意；欲誠其意者，先致其知；致知在格物。"
+      }
+    ],
+    "summary": "先治其國；欲治其國者，先齊其家",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "古之欲明明德於天下者，先治其國；欲治其國者，先齊其家；欲齊其家者，先脩其身；欲脩其身者，先正其心；欲正其心者，先誠其意；欲誠其意者，先致其知；致知在格物。",
+    "title": "古之欲明明德於天下者"
+  },
+  "chapter_path": "books/da-xue/chapters/chapter-004.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

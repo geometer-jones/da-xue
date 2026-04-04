@@ -1,0 +1,60 @@
+{
+  "chapter": {
+    "character_count": 162,
+    "id": "chapter-018",
+    "order": 18,
+    "reading_unit_count": 3,
+    "reading_units": [
+      {
+        "character_count": 26,
+        "id": "chapter-018-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「無憂者其惟文王乎！以王季為父，以武王為子，父作之，子述之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"It is only King Wen of whom it can be said that he had no cause for grief!"
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-018-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "武王纘大王、王季、文王之緒。壹戎衣而有天下，身不失天下之顯名。尊為天子，富有四海之內。宗廟饗之，子孫保之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His father was King Ji, and his son was King Wu."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-018-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "武王末受命，周公成文武之德，追王大王、王季，上祀先公以天子之禮。斯禮也，達乎諸侯大夫，及士庶人。父為大夫，子為士；葬以大夫，祭以士。父為士，子為大夫；葬以士，祭以大夫。期之喪達乎大夫，三年之喪達乎天子，父母之喪無貴賤一也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His father laid the foundations of his dignity, and his son transmitted it. King Wu continued the enterprise of King Tai, King Ji, and King Wen. He once buckled on his armor, and got possession of the kingdom. He did not lose the distinguished personal reputation which he had throughout the kingdom. His dignity was the royal throne. His riches were the possession of all within the four seas. He offered his sacrifices in his ancestral temple, and his descendants maintained the sacrifices to himself. It was in his old age that King Wu received the appointment to the throne, and the duke of Zhou completed the virtuous course of Wen and Wu. He carried up the title of king to Tai and Ji, and sacrificed to all the former dukes above them with the royal ceremonies. And this rule he extended to the princes of the kingdom, the great officers, the scholars, and the common people. If the father were a great officer and the son a scholar, then the burial was that due to a great officer, and the sacrifice that due to a scholar. If the father were a scholar and the son a great officer, then the burial was that due to a scholar, and the sacrifice that due to a great officer. The one year's mourning was made to extend only to the great officers, but the three years' mourning extended to the Son of Heaven. In the mourning for a father or mother, he allowed no difference between the noble and the mean."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「無憂者其惟文王乎！以王季為父，以武王為子，父作之，子述之。\n武王纘大王、王季、文王之緒。壹戎衣而有天下，身不失天下之顯名。尊為天子，富有四海之內。宗廟饗之，子孫保之。\n武王末受命，周公成文武之德，追王大王、王季，上祀先公以天子之禮。斯禮也，達乎諸侯大夫，及士庶人。父為大夫，子為士；葬以大夫，祭以士。父為士，子為大夫；葬以士，祭以大夫。期之喪達乎大夫，三年之喪達乎天子，父母之喪無貴賤一也。」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-018.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

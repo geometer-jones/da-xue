@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-006",
+    "order": 6,
+    "summary": "同舟共济",
+    "text": "同舟共济\n群策群力\n同心协力\n开诚布公\n推心置腹\n将心比心\n和而不同\n相辅相成\n肝胆相照\n患难与共\n设身处地\n平易近人\n宽以待人\n与人为善\n成人之美\n先人后己\n舍己为人\n雪中送炭\n锦上添花\n礼尚往来\n相敬如宾\n心悦诚服\n情同手足\n朝夕相处\n志同道合\n同甘共苦\n通力合作\n各抒己见\n求同存异\n一团和气",
+    "title": "151-180",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "同舟共济",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "cross a river in the same boat; having common interests"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "群策群力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to act in concert; to pool ideas and efforts"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "同心协力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to work with a common purpose"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "开诚布公",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to talk frankly and sincerely"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "推心置腹",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to give one's bare heart into somebody else's keeping; somebody has one's absolute confidence; to trust completely"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "将心比心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have sympathy for"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "和而不同",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "harmonious even when there exists different opinions; unity in diversity"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "相辅相成",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to help each other; to complement one another"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "肝胆相照",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "utter devotion to each other; to show total devotion"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "患难与共",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to go through thick and thin together; to share hardships together"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "设身处地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to put oneself in somebody else's position"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "平易近人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "amiable and approachable; easy-going; modest and unassuming; (of writing) plain and simple; easy to understand"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "宽以待人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be lenient with others"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "与人为善",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be of service to others"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "成人之美",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the beauty of helping somebody else"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "先人后己",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Put others before yourself"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "舍己为人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to abandon self for others; to sacrifice one's own interest for other people"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "雪中送炭",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to provide help when it is most needed"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "锦上添花",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to make something even better"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "礼尚往来",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "proper behavior is based on reciprocity; to return politeness for politeness"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "相敬如宾",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to treat each other like honored guests"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "心悦诚服",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to submit cheerfully; to accept willingly"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "情同手足",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "as close as one's hands and feet; loving one another as brothers; deep friendship"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "朝夕相处",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to spend all one's time together (idiom)"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "志同道合",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "like-minded; fellow enthusiast; kindred spirit"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "同甘共苦",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "shared delights and common hardships; to share life's joys and sorrows; for better or for worse"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "通力合作",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to join forces"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "各抒己见",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "everyone gives their own view"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "求同存异",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to seek common ground while holding back differences"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-006-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "一团和气",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to keep on the right side of everyone; warm and affable"
+          }
+        },
+        "category": "人际与协作"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-006.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

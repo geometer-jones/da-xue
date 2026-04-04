@@ -1,0 +1,73 @@
+{
+  "chapter": {
+    "character_count": 114,
+    "id": "chapter-012",
+    "order": 12,
+    "reading_unit_count": 4,
+    "reading_units": [
+      {
+        "character_count": 7,
+        "id": "chapter-012-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "君子之道費而隱。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The way which the superior man pursues, reaches wide and far, and yet is secret."
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-012-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "夫婦之愚，可以與知焉，及其至也，雖聖人亦有所不知焉；夫婦之不肖，可以能行焉，及其至也，雖聖人亦有所不能焉。天地之大也，人猶有所憾。故君子語大，天下莫能載焉；語小，天下莫能破焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Common men and women, however ignorant, may intermeddle with the knowledge of it; yet in its utmost reaches, there is that which even the sage does not know."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-012-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "詩云：「鳶飛戾天，魚躍于淵。」言其上下察也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Common men and women, however much below the ordinary standard of character, can carry it into practice; yet in its utmost reaches, there is that which even the sage is not able to carry into practice."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-012-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "君子之道，造端乎夫婦；及其至也，察乎天地。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Great as heaven and earth are, men still find some things in them with which to be dissatisfied. Thus it is that, were the superior man to speak of his way in all its greatness, nothing in the world would be found able to embrace it, and were he to speak of it in its minuteness, nothing in the world would be found able to split it. It is said in the Book of Poetry, \"The hawk flies up to heaven; the fishes leap in the deep.\" This expresses how this way is seen above and below. The way of the superior man may be found, in its simple elements, in the intercourse of common men and women; but in its utmost reaches, it shines brightly through heaven and earth."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "君子之道費而隱。\n夫婦之愚，可以與知焉，及其至也，雖聖人亦有所不知焉；夫婦之不肖，可以能行焉，及其至也，雖聖人亦有所不能焉。天地之大也，人猶有所憾。故君子語大，天下莫能載焉；語小，天下莫能破焉。\n詩云：「鳶飛戾天，魚躍于淵。」言其上下察也。\n君子之道，造端乎夫婦；及其至也，察乎天地。",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-012.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

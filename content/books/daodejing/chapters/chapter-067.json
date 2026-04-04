@@ -1,0 +1,47 @@
+{
+  "chapter": {
+    "character_count": 99,
+    "id": "chapter-067",
+    "order": 67,
+    "reading_unit_count": 2,
+    "reading_units": [
+      {
+        "character_count": 91,
+        "id": "chapter-067-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "天下皆謂我道大，似不肖。夫唯大，故似不肖。若肖久矣。其細也夫！我有三寶，持而保之。一曰慈，二曰儉，三曰不敢為天下先。慈故能勇；儉故能廣；不敢為天下先，故能成器長。今舍慈且勇；舍儉且廣；舍後且先；死矣！夫慈以戰則勝，以守則固。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All the world says that, while my Tao is great, it yet appears to be inferior (to other systems of teaching)."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-067-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "天將救之，以慈衛之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now it is just its greatness that makes it seem to be inferior. If it were like any other (system), for long would its smallness have been known! But I have three precious things which I prize and hold fast. The first is gentleness; the second is economy; and the third is shrinking from taking precedence of others. With that gentleness I can be bold; with that economy I can be liberal; shrinking from taking precedence of others, I can become a vessel of the highest honour. Now-a-days they give up gentleness and are all for being bold; economy, and are all for being liberal; the hindmost place, and seek only to be foremost;--(of all which the end is) death. Gentleness is sure to be victorious even in battle, and firmly to maintain its ground. Heaven will save its possessor, by his (very) gentleness protecting him."
+          }
+        }
+      }
+    ],
+    "summary": "天下皆謂我道大，似不肖",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "天下皆謂我道大，似不肖。夫唯大，故似不肖。若肖久矣。其細也夫！我有三寶，持而保之。一曰慈，二曰儉，三曰不敢為天下先。慈故能勇；儉故能廣；不敢為天下先，故能成器長。今舍慈且勇；舍儉且廣；舍後且先；死矣！夫慈以戰則勝，以守則固。天將救之，以慈衛之。",
+    "title": "第67章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-067.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

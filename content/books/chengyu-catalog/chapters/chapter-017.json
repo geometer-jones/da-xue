@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-017",
+    "order": 17,
+    "summary": "三心二意",
+    "text": "三心二意\n风行一时\n一文如命\n三思而行\n万人之敌\n国将不国\n无所不包\n不省人事\n相安无事\n一家之辞\n不学无术\n一事不知\n不间不界\n分内之事\n存而不论\n小时了了\n回天之力\n人百其身\n百不失一\n生而知之\n无论如何\n不知不觉\n有气无力\n天下无敌\n时不我待\n间不容发\n无德而称\n一面之雅\n自不量力\n言不及义",
+    "title": "481-510",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "三心二意",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "in two minds about ; half-hearted; shilly-shallying"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "风行一时",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be popular for a while; to be all the rage for a time"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "一文如命",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A penny is like a life"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "三思而行",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "think three times then go; don't act before you've thought it through carefully"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "万人之敌",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a match for ten thousand enemies"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "国将不国",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The country will not be a country"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "无所不包",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have nothing lacking"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "不省人事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to lose consciousness"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "相安无事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to live together in harmony"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "一家之辞",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A family story"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "不学无术",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "without learning or skills; ignorant and incompetent"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "一事不知",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Don't know anything"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "不间不界",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Without boundaries"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "分内之事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Things within one's duty"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "存而不论",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Leave it alone"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "小时了了",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It's hour"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "回天之力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The power of restoration"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "人百其身",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A hundred people"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "百不失一",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Never lose one"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "生而知之",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Born to know"
+          }
+        },
+        "category": "高透明度 IV"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "无论如何",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "no matter how; anyhow; anyway; whatever"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "不知不觉",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unconsciously; unwittingly"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "有气无力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "weakly and without strength; dispirited"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "天下无敌",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unrivaled in the land"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "时不我待",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "time and tide wait for no man"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "间不容发",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a gap not even the width of a hair"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "无德而称",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Called without virtue"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "一面之雅",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One-sided elegance"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "自不量力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to overestimate one's capabilities"
+          }
+        },
+        "category": "高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-017-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "言不及义",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to talk nonsense; frivolous talk"
+          }
+        },
+        "category": "高透明度 V"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-017.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

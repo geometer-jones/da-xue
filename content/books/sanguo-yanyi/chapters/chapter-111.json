@@ -1,0 +1,567 @@
+{
+  "chapter": {
+    "character_count": 3203,
+    "id": "chapter-111",
+    "order": 111,
+    "reading_unit_count": 42,
+    "reading_units": [
+      {
+        "character_count": 80,
+        "id": "chapter-111-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說姜維退兵屯於鍾堤，魏兵屯於狄道城外。王經迎接陳泰、鄧艾入城，拜謝解圍之事，設宴相待，大賞三軍。泰將鄧艾之功，申奏魏主曹髦。髦封艾為安西將軍，假節領護東羌校尉，同陳泰屯兵於雍、涼等處。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After Têng Ai had rendered his thanks to the king, Ch‘ên T‘ai spread a great feast in his honour, and in congratulating his guest, said, “Chiang Wei slipped off in the night because he was broken, and he will never dare to return.” “I think he will,” replied Têng, smiling. “I can give five reasons why he should.” “What are they?”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-111-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "鄧艾上表謝恩畢，陳泰設宴與鄧艾拜賀曰：「姜維夜遁，其力已竭，不敢再出矣。」艾笑曰：「吾料蜀兵其必出有五。」泰問其故。艾曰：「蜀兵雖退，終有乘勝之勢；吾兵終有弱敗之實：其必出一也。蜀兵皆是孔明教演，精銳之兵，容易調遣；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Although the men of Shu have retired, they have the selfpossessed and confident look of holding the mastery; our men are really weak and broken. The men of Shu were trained and inspirited by K‘ung-ming and are mobile; our men are all of different periods of service and indifferently trained. The Shu soldiers often use boats for travelling; ours do all their journeys on land, so that while one army moves at leisure and the men arrive fresh, those of the other arrive fatigued with marching. Again, Titaoch'êng, Shênsi, Nanan and Ch‘ishan are all places suitable for defence or use as battle fields, and thus the men of Shu can conceal their intentions and strike where they will; we have to remain on guard at many points, thus dividing our forces. When they concentrate they have only to reckon with a part of our force. If they come out by way of Shênsi and Nanan, they have the grain of the Ch‘iang to depend upon, and if they choose Ch‘ishan, they have the wheat there. These are the five reasons why they should make another expedition.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-111-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "吾將不時更換，軍又訓練不熟：其必出二也。蜀人多以船行，吾軍皆在旱地，勞逸不同：其必出三也。狄道、隴西、南安、祁山四處，皆是守戰之地；蜀人或聲東擊西，指南攻北，吾兵必須分頭把守；蜀兵合為一處而來，以一分當我四分：其必出四也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ch'ên T‘ai was overcome with the clear vision of his new colleague. “Sir, your foresight is godlike. I think we need feel no anxiety about what the enemy can achieve.” ​ The two soldiers became the best of friends in spite of the difference of age. Têng spent his time in training the army, and garrisons were placed at all points where surprise attacks seemed possible."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-111-line-004",
+        "order": 4,
+        "source_block_chunk": 4,
+        "source_block_order": 1,
+        "text": "若蜀兵自南安、隴西，則可取羌人之穀為食；若出祁山，則有麥可就食：其必出五也。」陳泰歎服曰：「公料敵如神，蜀兵何足慮哉！」於是陳泰與鄧艾結為忘年之交。艾遂將雍、涼等處之兵，每日操練；各處隘口，皆立營寨，以防不測。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There was feasting also at Chungti, and the occasion was taken to discuss a new attack on Wei. But Fan Chien opposed. “General, your expeditions have partly failed many times; you have never scored a complete victory. But now on the T‘ao River the men of Wei recognise your superiority, and why should you try again? There is small chance of success, and you risk all you have gained.” The general replied, “You all regard only the extent and population of Wei and the time necessary for conquest, but you do not see five reasons for victory.” The assembly asked what these were."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-111-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "卻說姜維在鍾堤大設筵宴，會集諸將，商議伐魏之事。令史樊建諫曰：「將軍屢出，未獲全勝；今日洮西之戰，魏人既服威名，何故又欲出也？萬一不利，前功盡棄。」維曰：「汝等只知魏國地寬人廣，急不可得；卻不知攻魏者有五可勝。」眾問之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The fighting spirit of the men of Wei has been badly broken on the T‘ao River, while that of our men, although we retired, is unimpaired. If we attack we shall certainly succeed. Our men can travel in boats and so will not be wearied with marching; their men have to march to meet us. Our men are thoroughly trained; theirs are recruits, a mere flock of crows, quite undisciplined. When we go out by Ch‘ishan we can seize upon the autumn wheat for food. Finally they are scattered, having to defend various points, while we can concentrate on any point we wish and they will find it difficult to bring up reinforcements. If we miss this chance, can we hope for a better?”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-111-line-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "維答曰：「彼洮西一敗，挫盡銳氣，吾兵雖退，不曾損折，今若進兵，一可勝也。吾兵船載而進，不致勞困，彼兵從旱地來迎，二可勝也。吾兵久經訓練之眾，彼皆鳥合之徒，不曾有法度，三可勝也。吾兵自出祁山，抄掠秋穀為食，四可勝也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsiahou Pa said, “Têng Ai is young, but he is deep and crafty. He has certainly taken great pains to secure the district under his charge as 'Pacificator of the West.' Victory will not be so easy as it was before.” “Why should I fear him?” cried Chiang, angrily. “You should not laud the spirit of the enemy and belittle that of our own men. But in any case I have made up my mind and shall take Shênsi.” No one dared to offer any further opposition. Chiang himself led the first army; the others followed in due order, and thus the men of Shu marched out."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-111-line-007",
+        "order": 7,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "彼兵雖各守備，軍力分開，吾兵一處而去，彼安能救？五可勝也。不在此時伐魏，更待何時耶？」夏侯霸曰：「艾年雖幼，而機謀深遠；近封為安西將軍之職，必於各處準備，非同往日矣。」維厲聲曰：「吾何畏彼哉！公等休長他人銳氣，滅自己威風！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Before they could reach Ch‘ishan the scouts reported the hills already occupied by the armies of Wei. Chiang rode forward to verify this, and, surely enough, he saw the Wei camps, nine in number, stretching over the hills like a huge serpent, and all arranged to give each other support. “Hsiahou Pa spoke only too well,” said he. “The plan of those camps is excellent and only our K‘ung-ming could have laid them out with equal skill.” Returning to his own army, he said to his officers, “They must have known of my coming, and I think Têng Ai is here too. Now from this as base you are to send out daily small ​ reconnoitring parties showing my banner, but different flags and uniforms, blue, yellow, red, white and black, in turns. While you are thus distracting attention, I will lead the main army by a détour to attack Nanan.”"
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-111-line-008",
+        "order": 8,
+        "source_block_chunk": 4,
+        "source_block_order": 2,
+        "text": "吾意已決，必先取隴西。」眾不敢諫。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Pao Su was sent to camp at the mouth of the Ch‘ishan Valley while the main army marched."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-111-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "維自領前部，令眾將隨後而進。於是蜀兵盡離鍾提，殺奔祁山來。哨馬報說魏兵已先在祁山立下九個寨棚。維不信，引數騎憑高望之，果見祁山九寨勢如長蛇，首尾相顧。維回顧左右曰：「夏侯霸之言，信不誣矣。此寨形勢絕妙，止吾師諸葛丞相能之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As soon as Têng had heard that the enemy would come out at Ch‘ishan he had camped there with his colleague Ch'ên T‘ai. But when days had passed without anyone coming to fling a challenge he sent out spies to find out where the Shu army was lurking. They could find nothing, and so Têng went to the summit of a high hill to look around. He came to the conclusion that some other vulnerable point was threatened. Finally he thought it must be Nanan. In the daily reconnaissances he saw nothing but a feint, accentuated by the daily change of uniform. He returned to camp and spoke with his colleague."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-111-line-010",
+        "order": 10,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "今觀鄧艾所為，不在吾師之下。」遂回本寨，喚諸將曰：「魏人既有準備，必知吾來矣。吾料鄧艾必在此間。汝等可虛張吾旗號，據此谷口下寨，每日令百餘騎出哨。每出哨一回，換一番衣甲。旗號按青、黃、赤、白、黑五方旗幟更換。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“These men have been going to and fro for days and must be tired, and their leaders are certainly none of the ablest. Therefore, General, I advise an attack here. If that succeeds the Tungt‘ing road can be occupied, and Chiang Wei will be unable to retreat. I think I ought to try to relieve Nanan. I will go by Wuch'êngshan, and if I occupy that, the enemy will try to take Shangkuei. Near that place is a narrow and precipitous valley called Tuan Valley, just the place for an ambush, where I shall lie in wait till they come to take Wuch'êngshan.”"
+          }
+        }
+      },
+      {
+        "character_count": 35,
+        "id": "chapter-111-line-011",
+        "order": 11,
+        "source_block_chunk": 3,
+        "source_block_order": 3,
+        "text": "吾卻提大兵偷出董亭，逕襲南安去也。」遂令鮑素屯於祁山谷口。維盡率大兵，望南安進發。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ch'ên replied, “I have been here over a score of years and have never known so much of the military possibilities of the place. You are very wonderful and had better carry out your plan.”"
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-111-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "卻說鄧艾知蜀兵出祁山，早與陳泰下寨準備；見蜀兵連日不來搦戰，一日五番哨馬出寨，或十里或十五里而回。艾憑高望畢，慌入帳與陳泰曰：「姜維不在此間，必取董亭襲南安去了。出寨哨馬只是這幾匹，更換衣甲，往來哨探，其馬皆困乏，主將必無能者。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Têng marched toward Nanan by double marches. Soon they came to the hill, where they camped without opposition. He sent his son Chung and Shih Tsuan, each leading half a legion, to lie in wait in the Tuan Valley and not to betray their presence. In the meantime Chiang Wei was marching between Tungt‘ing and Nanan. Near Wuch'êngshan he turned to Hsiahou Pa and said, “That hill is our point, and Nanan is close. I fear lest the artful Têng Ai may seize and fortify it.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-111-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "陳將軍可引一軍攻之，其寨可破也。破了寨柵，便引兵襲董亭之路，先斷姜維之後。吾當先引一軍救南安，逕取武城山。若先占此山頭，姜維必取上邽。上邽有一谷，名曰段谷，地狹山險，正好埋伏。彼來爭武城山時，吾先伏兩軍於段谷，破維必矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They hastened, anxious to reach the hill before the enemy. But it was not to be. Presently they heard the roar of bombs and the beating of drums, and then flags and banners appeared, all of Wei. And among them fluttered the leader’s standard, bearing the name Têng. This was a sad disappointment. The men of Shu halted, and veteran soldiers of Wei came rushing down from various points on the hill, too many for the men of Shu to drive back. So the advance guard was defeated. Chiang went to their ​ help with his central body, but when he got near the soldiers of Wei were nowhere to be seen."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-111-line-014",
+        "order": 14,
+        "source_block_chunk": 3,
+        "source_block_order": 4,
+        "text": "」泰曰：「吾守隴西二三十年，未嘗如此明察地理。公之所言，真神算也。公可速去。吾自攻此處寨柵。」於是鄧艾引軍星夜倍道而行，逕到武城山；下寨已畢，蜀兵未到，即令子鄧忠，與帳前校尉師纂，各引五千兵，先去段谷埋伏，如此如此而行。二人受計而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chiang went on to the foot of the hill and challenged, but no one came out to accept. The men of Shu began to shout abuse, and kept it up till late in the day, but they failed to provoke a fight. As the men of Shu began to retire, the drums beat furiously, yet no one appeared. Chiang turned about to ascend the hill, but its defenders prevented that by stones thrown from cannon ( p‘ao ). He hung on till the third watch, when he tried again. But he failed."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-111-line-015",
+        "order": 15,
+        "source_block_chunk": 4,
+        "source_block_order": 4,
+        "text": "艾令偃旗息鼓，以待蜀兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thereupon he went down the hill and halted, bidding his men build a barricade of wood and boulders. The men of Wei came on again and stopped the work."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-111-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "卻說姜維從董亭望南安而來，至武城山前，謂夏侯霸曰：「近南安有一山，名武城山；若先得了，可奪南安之勢。只恐鄧艾多謀，必先隄防。」正疑慮間，忽然山上一聲砲響，喊聲大震，鼓角齊鳴，旌旗遍豎，皆是魏兵：中央風飄起一黃旗，大書「鄧艾」字樣。蜀兵大驚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Next day Chiang brought up many transport waggons and placed them on the slope as the nucleus of a camp. But in the night a number of men came down with torches and set fire to them. A fight ensued, which lasted till dawn. Seeing that a camp could not be made there Chiang retired to consider new plans with Hsiahou Pa. “Since we cannot take Nanan, our next best plan is to try for Shangkuei, which is the storehouse of Nanan.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-111-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "山上數處精兵殺下，勢不可當，前軍大敗。維急率中軍人馬去救時，魏兵已退。維直來武城山下搦鄧艾戰，山上魏兵並不下來。維令軍士辱罵，至晚，方欲退軍，山上鼓角齊鳴，卻又不見魏兵下來。維欲上山衝殺，山上砲石甚嚴，不能得進。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Leaving Hsiahou Pa on the hill, Chiang led a force of veteran soldiers and bold officers along the road toward Shangkuei. They marched all night, and dawn found them in a deep valley, which the guides said was Tuan Valley. “That sounds too much like 'Cut-off Valley,'” said Chiang. “And if a force held the mouth we should be in sorry straits.” While hesitating whether to advance farther or not, the leading men came back to say they had seen a cloud of dust beyond the hills, which seemed to indicate a body of men in hiding. So the order was given to retire."
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-111-line-018",
+        "order": 18,
+        "source_block_chunk": 3,
+        "source_block_order": 5,
+        "text": "守至三更，欲回，山上鼓角又鳴。維移兵下山屯紮。比及令軍搬運木石，方欲豎立為寨，山上鼓角又鳴，魏兵驟至。蜀兵大亂，自相踐踏，退回舊寨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At that moment the armies under Shih Tsuan and Têng Chung came out and attacked. Chiang Wei, alternately fighting and retreating, tried to get away. Then Têng himself appeared, and the Shu army had enemies on three sides. They were in grave danger, but Hsiahou Pa came to their rescue, and so Chiang escaped."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-111-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "次日，姜維令軍士運糧草車仗，至武城山，穿連排定，欲立起寨柵，以為屯兵之計。是夜二更，鄧艾令五百人，各執火把，分兩路下山，放火燒車仗。兩兵混殺了一夜，營寨又立不成。維復引兵退，再與夏侯霸商議曰：「南安未得，不如先取上邽。上邽乃南安屯糧之所；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chiang proposed to return to Ch‘ishan, but his rescuer said, “We cannot go thither, for Ch'ên T‘ai has destroyed the force under Pao Su, and he himself was killed. All that was left of that army has gone back into Hanchung.” It was no longer a question of taking Tungt‘ing. Chiang sought out by-roads to march along. Têng came in pursuit, and as he pressed hard on the rear, Chiang sent the others on ahead while he covered the retreat."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-111-line-020",
+        "order": 20,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "若得上邽，南安自危矣。」遂留霸屯於武城山。維盡引精兵猛將，逕取上邽。行了一宿，將及天明，見山勢狹峻，道路崎嶇，乃問鄉導官曰：「此處何名？」答曰：「段谷。」維大驚曰：「其名不美：『段谷』者，『斷谷』也。倘有人斷其谷口，如之奈何？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Soon Ch'ên T‘ai came out from the hills, and Chiang was surrounded by a shouting body of the enemy. He was very weary when Chang I, who had heard of his straits, came to his ​ rescue with a body of cavalry. Chang saved his general, but lost his own life. Finally Chiang Wei got back into Hanchung."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-111-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "正躊躇未決，忽報前軍來報：「山後塵頭大起，必有伏兵。」維急令退兵，師纂、鄧忠兩軍殺出。維且戰且走，前面喊聲大震，鄧艾引兵殺到：三路夾攻，蜀兵大敗。幸得夏侯霸引兵殺到，魏兵方退，救了姜維，欲再往祁山。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "From Hanchung the death of Chang I in battle was reported to the king and suitable honours requested. And seeing that there had been serious loss of life in the military operations that had just failed, Chiang, following the precedent of the late Marquis of Wu, asked that he himself should be degraded in rank, retaining, however, the command. He was put back to Junior Generalissimo."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-111-line-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "霸曰：「祁山寨已被陳泰打破，鮑素陣亡，全寨人馬皆退回漢中去了。」維不敢取董亭，急投山僻小路而回。後面鄧艾急追，維令諸軍前進，自為斷後。正行之際，忽然山中一軍突出，乃魏將陳泰也。魏兵一聲喊起，將姜維因在核心。維人馬困乏，左衝右突，不能得出。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The country being now cleared of the enemy, Ch'ên T‘ai and Têng Ai prepared a banquet in honour of victory and gave rewards to the men who had fought. A memorial was sent to the capital upon the services of Teng, and a special commission brought him higher rank; the title of “Marquis” was given to his son."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-111-line-023",
+        "order": 23,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "盪寇將軍張嶷，聞姜維受困，引數百騎殺入重圍，維因乘勢殺出。嶷被魏兵亂箭射死。維得脫重圍，復回漢中；因感張嶷忠勇，歿於王事，乃表贈其子孫。於是蜀中將士，多有陣亡者，皆歸罪於姜維。維照武侯街亭舊例，乃上表自貶為後將軍，行大將軍事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At this time the style of the reign in Wei was changed to Kan-Lu (Gentle Dew). Ssŭma Chao commanded all the military forces. He assumed great pomp, and whenever he moved outside his palace he was escorted by a guard of three thousand mail-clad men, beside squadrons of cavalry. All power lay in his hands, and he decided all questions so that the court was rather in his palace than in that of the king."
+          }
+        }
+      },
+      {
+        "character_count": 50,
+        "id": "chapter-111-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "卻說鄧艾見蜀兵退盡，乃與陳泰設宴相賀，大賞三軍。泰表鄧艾之功，司馬昭遣使持節，加艾官爵，賜印綬，並封其子鄧忠為亭侯。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Plans for taking the final step constantly occupied his thoughts. The question of mounting the throne was openly mooted by one Chia Yün, a confidant, who was descended from a family that had long held rank at court."
+          }
+        }
+      },
+      {
+        "character_count": 103,
+        "id": "chapter-111-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "時魏主曹髦，改正元三年為甘露元年。司馬昭自為天下兵馬大都督，出入常令三千鐵甲驍將前後簇擁，以為護衛；一應事務，不奏朝廷，就於相府裁處。自此常懷篡逆之心；只恐南北人心未順。有一心腹人姓賈，名充，字公閭，乃故建威將軍賈逵之子，為昭府下長史。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He said, “Sir, all real authority is in your hands, and the country is not tranquil. The only remedy is for you to become actual ruler, and you should find out who are your supporters.” Ssǔma replied, “This has been in my thoughts a long time. You might be my emissary to the east to find out the feeling there. You can pretend you go to thank the soldiers who took part in the late campaign. That would be a good pretext.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-111-line-026",
+        "order": 26,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "充語昭曰：「今主公掌握大柄，四方人心必然未安；且當暗訪，然後徐圖大事。」昭曰：「吾正欲如此。汝可為我東行，只推尉勞出征軍士為名，以探消息。」賈充領命，逕到淮南，入見鎮東大將軍諸葛誕。誕字公休，乃瑯琊南陽人，即武侯之族弟也；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Accordingly Chia travelled into Huainan, where he saw Chuko Tan, the “Guardian of the East.” This officer was of the same family as the late Marquis of Wu, Chuko Liang. He had gone to Wei for employment, but had received no office while his brother lived. On his brother’s death his promotion was rapid. He was also titular marquis."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-111-line-027",
+        "order": 27,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "向事於魏，因武侯在蜀為相，因此不得重用；後武侯身亡，誕在魏歷任重職，封高平侯，總攝兩淮軍馬。當日賈充託名勞軍，至淮南見諸葛誕。誕設宴待之。酒至半酣，充以言挑誕曰：「近來洛陽諸賢，皆以主上懦弱，不堪為君。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As he was in command of all the Huainan forces, Chia Yün went to him to ask him to convey to the army the appreciation of the soldiers' services. He was received courteously, and at a banquet, when host and guest were both mellow with wine, Chia set himself to discover Chuko’s feelings."
+          }
+        }
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-111-line-028",
+        "order": 28,
+        "source_block_chunk": 4,
+        "source_block_order": 9,
+        "text": "司馬大將軍三世輔國，功德彌天，可以禪代魏統。未審鈞意若何？」誕大怒曰：「汝乃賈豫州之子，世食魏祿，安敢出此亂言！」充謝曰：「某以他人之言告公耳。」誕曰：「朝廷有難，吾當以死報之。」充默然。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He said, “Lately in Loyang there has been much talk of the weakness and lack of ability of the king and his unfitness to rule. Now General Ssŭma comes of a family noted for state service for several generations. His own services and virtues ​ are high as the heavens, and he is the man best fitted to take the rulership of Wei. Is this not your opinion?”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-111-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "次曰辭歸，見司馬昭細言其事。昭大怒曰：「鼠輩安敢如此！」充曰：「誕在淮南，深得人心，久必為患，可速除之。」昭遂暗發密書與揚州刺史樂綝，一面遣使齎詔徵誕為司空。誕得了詔書，已知是賈充告變，遂捉來使拷問，使者曰：「此事樂綝知之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Chuko did not favour the suggestion. On the contrary, he broke out angrily, “If the state is in difficulty, then one ought to stand up for it even to the death.” Chia said no more. He soon returned and told his patron what had been said. “The rat!” cried Ssǔma, angrily. “He is exceedingly popular there in Huainan, but if he is left too long he will do harm.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-111-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "」誕曰：「他如何得知？」使者曰：「司馬將軍已令人到揚州送密書與樂綝矣。」誕大怒，叱左右斬了來使，遂起部下兵千人，殺奔揚州來。將至南門，城門已閉，弔橋拽起。誕在城下叫門，城上並無一人回答。誕大怒曰：「樂綝匹夫，安敢如此！」遂令將士打城。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ssǔma began to take measures. He wrote privately to Yüeh Lin, Governor of Yangchou, and sent a messenger to Chuko Tan with an edict making him President of the Board of Works. This meant that he had to come to the capital. But Chuko knew that his late guest had done him mischief, and he interrogated the messenger, who told him that Yüeh Lin knew all about the matter."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-111-line-031",
+        "order": 31,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "手下十餘驍騎，下馬渡河，飛身上城，殺散軍士，大開城門。於是諸葛誕引兵入城，乘風放火，殺至綝家。綝慌上樓避之。誕提劍上樓，大喝曰：「汝父樂進，昔日受魏國大恩！不思報本，反欲順司馬昭耶！」綝未及回言，為誕所殺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“How does he know?” “General Ssǔma sent him a private letter.” The messenger was condemned to death. Then Chuko placed himself at the head of his personal guard and marched to Yangchou. The city gates were closed and the drawbridge raised. He summoned the gate, but no one answered. “How dare this fellow treat me thus?” cried he."
+          }
+        }
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-111-line-032",
+        "order": 32,
+        "source_block_chunk": 4,
+        "source_block_order": 10,
+        "text": "一面具表數司馬昭之罪，使人申奏洛陽；一面大聚兩淮屯田戶口十餘萬，並揚州新降兵四萬餘人，積草屯糧，準備進兵。又令長史吳綱送子諸葛靚入吳為質求援，務要合兵誅討司馬昭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He ordered his men to force the gate. A few dismounted, crossed the moat and climbed the ramparts, where they slew all who opposed them and opened the gate. The others entered, set fire to the houses and began to fight their way toward the residence. The Governor sought refuge in a tower, but Chuko made his way up and, after reproaching his enemy for dishonouring his father, slew him."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-111-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "此時東吳丞相孫峻病亡，從弟孫綝輔政。綝字子通，為人強暴，殺大司馬滕胤、將軍呂據、王惇等：因此權柄皆歸於綝。吳主孫亮，雖然聰明，無可奈何。於是吳綱將諸葛靚至石頭城，入拜孫綝。綝問其故。綱曰：「諸葛誕乃蜀漢諸葛武侯之族弟也，向事魏國；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Chuko sent up a memorial detailing Ssǔma’s many faults, and made preparations for war. He called up all the militia and took over the four legions who had surrendered on the fall of Yüeh Lin and gathered supplies. He also sent to Wu for aid, offering his son Chuko Ching as a hostage for his good faith."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-111-line-034",
+        "order": 34,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "今見司馬昭欺君罔上，廢主弄權，欲興師討之，而力不及，故特來歸降。誠恐無憑，專送親子諸葛靚為質。伏望發兵相助。」綝從其請，便遣大將全懌、全端為主將，于詮為合後，朱異、唐咨為先鋒，文欽為鄉導，起兵七萬，分三隊而進。吳綱回壽春報知諸葛誕。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At this time Sun Hsün was dead and his brother, Sun Ch'ên, was Prime Minister. He was a man of cruel and violent temper and had put many officers to death on his way to power. The King of Wu, although no fool, was helpless in his hands. The messenger, Wu Kang, conducted the proposed hostage to the residence of this monster, who asked what he had come for. Wu Kang explained and asked for help. His request was received favourably, and Sun sent seven legions with a full complement of officers. They marched, and Chuko returned to report success. Chuko thought all was going well."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-111-line-035",
+        "order": 35,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "誕大喜，遂陳兵準備。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chuko’s memorial angered Ssŭma, who wished to set out to revenge the attack at once, but Chia Yün preached caution."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-111-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "卻說諸葛誕表文到洛陽，司馬昭見了大怒，欲自往討之。賈充諫曰：「主公乘父兄之基業，恩德未及四海，今棄天子而去，若一朝有變，悔之何及？不如奏請太后及天子一同出征，可保無虞。」昭喜曰：「此言正合吾意。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “My lord, you derived your power from your father and brother, and people have not had time to discover your own virtue. If you leave the court and there be a revulsion of feeling against you, you will lose all. Rather request the Empress Dowager and the Son of Heaven to go with you, and nothing is to be feared.”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-111-line-037",
+        "order": 37,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "」遂入奏太后曰：「諸葛誕謀反，臣興文武官僚，計議停當：請太后同天子御駕親征，以繼先帝之遺意。」太后畏懼，只得從之。次日，昭請魏主曹髦起程。髦曰：「大將軍都督天下軍馬，任從調遣，何必朕自行也？」昭曰：「不然。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The plan was accepted as excellent. He went into the palace and proposed it to Her Majesty, saying, “Chuko Tan is in revolt, and I and my colleagues intend to punish him. I beg that you will accompany the expedition as the late Emperor would have done.” She was afraid, but dared not refuse, and the next day was requested to set out with the king. The king said, “General, you command all the armies and dispose them as you will; why do you ask me to go?”"
+          }
+        }
+      },
+      {
+        "character_count": 57,
+        "id": "chapter-111-line-038",
+        "order": 38,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "昔日武祖縱橫四海，文帝、明帝有包括宇宙之志，併吞八荒之心，凡遇大敵，必須自行。陛下正宜追配先君，掃清故孽，何自畏也？」髦畏威權，只得從之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ssǔma replied, “Your Majesty is wrong to hesitate. Your ancestors travelled over the empire and wished to unite the whole under one ruler. Wherever there was a worthy opponent they went to face him. Your Majesty should follow their example and sweep the land clean. Why fear?”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-111-line-039",
+        "order": 39,
+        "source_block_chunk": 4,
+        "source_block_order": 12,
+        "text": "昭遂下詔，盡起兩都之兵二十六萬，命鎮南將軍王基為正先鋒，安東將軍陳騫為副先鋒，監軍石苞為左軍，兗州刺史州泰為右軍，保護車駕，浩浩蕩蕩，殺奔淮南而來。東吳先鋒朱異，引兵迎敵。兩軍對圓，魏軍中王基出馬，朱異來迎。戰不三合，朱異敗走；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The king, fearing his minister’s terrible power, consented, and an edict was issued for the commands to march. Wang Chi, a distinguished general, was in command of the van, while Shih Pao and Chou T‘ai led the imperial escort. The army moved into Huainan like a great flood. The van-leader of Wu encountered them, and both sides drew up for battle. Chu I, the leader on the Wu side, rode out and took the challenge, but was overcome in the third bout. P‘ang Tzu also followed, but was also beaten in the third encounter."
+          }
+        }
+      },
+      {
+        "character_count": 66,
+        "id": "chapter-111-line-040",
+        "order": 40,
+        "source_block_chunk": 5,
+        "source_block_order": 12,
+        "text": "唐咨出馬，戰不三合，亦大敗而走。王基驅兵掩殺，吳兵大敗，退五十里下寨，報入壽春城中。諸葛誕自引本部銳兵，會合文欽並二子文鴦、文虎，雄兵數萬，來敵司馬昭。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wang Chi ordered the Wei army to pursue. The men of Wu retired fifty li and camped. Thence they sent tidings of their ill-success to Shouch‘un and Chuko Tan; Wên Ch‘in and the two sons of Chuko set out with reinforcements. Thus Ssŭma was faced by many legions of valiant men."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-111-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "方見吳兵銳氣墮，又看魏將勁兵來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now here is a check to the armies of Wu, And Wei’s gallant men advance."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-111-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "未知勝負如何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The next chapter will tell how went victory."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說姜維退兵屯於鍾堤，魏兵屯於狄道城外。王經迎接陳泰、鄧艾入城，拜謝解圍之事，設宴相待，大賞三軍。泰將鄧艾之功，申奏魏主曹髦。髦封艾為安西將軍，假節領護東羌校尉，同陳泰屯兵於雍、涼等處。鄧艾上表謝恩畢，陳泰設宴與鄧艾拜賀曰：「姜維夜遁，其力已竭，不敢再出矣。」艾笑曰：「吾料蜀兵其必出有五。」泰問其故。艾曰：「蜀兵雖退，終有乘勝之勢；吾兵終有弱敗之實：其必出一也。蜀兵皆是孔明教演，精銳之兵，容易調遣；吾將不時更換，軍又訓練不熟：其必出二也。蜀人多以船行，吾軍皆在旱地，勞逸不同：其必出三也。狄道、隴西、南安、祁山四處，皆是守戰之地；蜀人或聲東擊西，指南攻北，吾兵必須分頭把守；蜀兵合為一處而來，以一分當我四分：其必出四也。若蜀兵自南安、隴西，則可取羌人之穀為食；若出祁山，則有麥可就食：其必出五也。」陳泰歎服曰：「公料敵如神，蜀兵何足慮哉！」於是陳泰與鄧艾結為忘年之交。艾遂將雍、涼等處之兵，每日操練；各處隘口，皆立營寨，以防不測。\n卻說姜維在鍾堤大設筵宴，會集諸將，商議伐魏之事。令史樊建諫曰：「將軍屢出，未獲全勝；今日洮西之戰，魏人既服威名，何故又欲出也？萬一不利，前功盡棄。」維曰：「汝等只知魏國地寬人廣，急不可得；卻不知攻魏者有五可勝。」眾問之。維答曰：「彼洮西一敗，挫盡銳氣，吾兵雖退，不曾損折，今若進兵，一可勝也。吾兵船載而進，不致勞困，彼兵從旱地來迎，二可勝也。吾兵久經訓練之眾，彼皆鳥合之徒，不曾有法度，三可勝也。吾兵自出祁山，抄掠秋穀為食，四可勝也。彼兵雖各守備，軍力分開，吾兵一處而去，彼安能救？五可勝也。不在此時伐魏，更待何時耶？」夏侯霸曰：「艾年雖幼，而機謀深遠；近封為安西將軍之職，必於各處準備，非同往日矣。」維厲聲曰：「吾何畏彼哉！公等休長他人銳氣，滅自己威風！吾意已決，必先取隴西。」眾不敢諫。\n維自領前部，令眾將隨後而進。於是蜀兵盡離鍾提，殺奔祁山來。哨馬報說魏兵已先在祁山立下九個寨棚。維不信，引數騎憑高望之，果見祁山九寨勢如長蛇，首尾相顧。維回顧左右曰：「夏侯霸之言，信不誣矣。此寨形勢絕妙，止吾師諸葛丞相能之。今觀鄧艾所為，不在吾師之下。」遂回本寨，喚諸將曰：「魏人既有準備，必知吾來矣。吾料鄧艾必在此間。汝等可虛張吾旗號，據此谷口下寨，每日令百餘騎出哨。每出哨一回，換一番衣甲。旗號按青、黃、赤、白、黑五方旗幟更換。吾卻提大兵偷出董亭，逕襲南安去也。」遂令鮑素屯於祁山谷口。維盡率大兵，望南安進發。\n卻說鄧艾知蜀兵出祁山，早與陳泰下寨準備；見蜀兵連日不來搦戰，一日五番哨馬出寨，或十里或十五里而回。艾憑高望畢，慌入帳與陳泰曰：「姜維不在此間，必取董亭襲南安去了。出寨哨馬只是這幾匹，更換衣甲，往來哨探，其馬皆困乏，主將必無能者。陳將軍可引一軍攻之，其寨可破也。破了寨柵，便引兵襲董亭之路，先斷姜維之後。吾當先引一軍救南安，逕取武城山。若先占此山頭，姜維必取上邽。上邽有一谷，名曰段谷，地狹山險，正好埋伏。彼來爭武城山時，吾先伏兩軍於段谷，破維必矣。」泰曰：「吾守隴西二三十年，未嘗如此明察地理。公之所言，真神算也。公可速去。吾自攻此處寨柵。」於是鄧艾引軍星夜倍道而行，逕到武城山；下寨已畢，蜀兵未到，即令子鄧忠，與帳前校尉師纂，各引五千兵，先去段谷埋伏，如此如此而行。二人受計而去。艾令偃旗息鼓，以待蜀兵。\n卻說姜維從董亭望南安而來，至武城山前，謂夏侯霸曰：「近南安有一山，名武城山；若先得了，可奪南安之勢。只恐鄧艾多謀，必先隄防。」正疑慮間，忽然山上一聲砲響，喊聲大震，鼓角齊鳴，旌旗遍豎，皆是魏兵：中央風飄起一黃旗，大書「鄧艾」字樣。蜀兵大驚。山上數處精兵殺下，勢不可當，前軍大敗。維急率中軍人馬去救時，魏兵已退。維直來武城山下搦鄧艾戰，山上魏兵並不下來。維令軍士辱罵，至晚，方欲退軍，山上鼓角齊鳴，卻又不見魏兵下來。維欲上山衝殺，山上砲石甚嚴，不能得進。守至三更，欲回，山上鼓角又鳴。維移兵下山屯紮。比及令軍搬運木石，方欲豎立為寨，山上鼓角又鳴，魏兵驟至。蜀兵大亂，自相踐踏，退回舊寨。\n次日，姜維令軍士運糧草車仗，至武城山，穿連排定，欲立起寨柵，以為屯兵之計。是夜二更，鄧艾令五百人，各執火把，分兩路下山，放火燒車仗。兩兵混殺了一夜，營寨又立不成。維復引兵退，再與夏侯霸商議曰：「南安未得，不如先取上邽。上邽乃南安屯糧之所；若得上邽，南安自危矣。」遂留霸屯於武城山。維盡引精兵猛將，逕取上邽。行了一宿，將及天明，見山勢狹峻，道路崎嶇，乃問鄉導官曰：「此處何名？」答曰：「段谷。」維大驚曰：「其名不美：『段谷』者，『斷谷』也。倘有人斷其谷口，如之奈何？」\n正躊躇未決，忽報前軍來報：「山後塵頭大起，必有伏兵。」維急令退兵，師纂、鄧忠兩軍殺出。維且戰且走，前面喊聲大震，鄧艾引兵殺到：三路夾攻，蜀兵大敗。幸得夏侯霸引兵殺到，魏兵方退，救了姜維，欲再往祁山。霸曰：「祁山寨已被陳泰打破，鮑素陣亡，全寨人馬皆退回漢中去了。」維不敢取董亭，急投山僻小路而回。後面鄧艾急追，維令諸軍前進，自為斷後。正行之際，忽然山中一軍突出，乃魏將陳泰也。魏兵一聲喊起，將姜維因在核心。維人馬困乏，左衝右突，不能得出。盪寇將軍張嶷，聞姜維受困，引數百騎殺入重圍，維因乘勢殺出。嶷被魏兵亂箭射死。維得脫重圍，復回漢中；因感張嶷忠勇，歿於王事，乃表贈其子孫。於是蜀中將士，多有陣亡者，皆歸罪於姜維。維照武侯街亭舊例，乃上表自貶為後將軍，行大將軍事。\n卻說鄧艾見蜀兵退盡，乃與陳泰設宴相賀，大賞三軍。泰表鄧艾之功，司馬昭遣使持節，加艾官爵，賜印綬，並封其子鄧忠為亭侯。\n時魏主曹髦，改正元三年為甘露元年。司馬昭自為天下兵馬大都督，出入常令三千鐵甲驍將前後簇擁，以為護衛；一應事務，不奏朝廷，就於相府裁處。自此常懷篡逆之心；只恐南北人心未順。有一心腹人姓賈，名充，字公閭，乃故建威將軍賈逵之子，為昭府下長史。充語昭曰：「今主公掌握大柄，四方人心必然未安；且當暗訪，然後徐圖大事。」昭曰：「吾正欲如此。汝可為我東行，只推尉勞出征軍士為名，以探消息。」賈充領命，逕到淮南，入見鎮東大將軍諸葛誕。誕字公休，乃瑯琊南陽人，即武侯之族弟也；向事於魏，因武侯在蜀為相，因此不得重用；後武侯身亡，誕在魏歷任重職，封高平侯，總攝兩淮軍馬。當日賈充託名勞軍，至淮南見諸葛誕。誕設宴待之。酒至半酣，充以言挑誕曰：「近來洛陽諸賢，皆以主上懦弱，不堪為君。司馬大將軍三世輔國，功德彌天，可以禪代魏統。未審鈞意若何？」誕大怒曰：「汝乃賈豫州之子，世食魏祿，安敢出此亂言！」充謝曰：「某以他人之言告公耳。」誕曰：「朝廷有難，吾當以死報之。」充默然。\n次曰辭歸，見司馬昭細言其事。昭大怒曰：「鼠輩安敢如此！」充曰：「誕在淮南，深得人心，久必為患，可速除之。」昭遂暗發密書與揚州刺史樂綝，一面遣使齎詔徵誕為司空。誕得了詔書，已知是賈充告變，遂捉來使拷問，使者曰：「此事樂綝知之。」誕曰：「他如何得知？」使者曰：「司馬將軍已令人到揚州送密書與樂綝矣。」誕大怒，叱左右斬了來使，遂起部下兵千人，殺奔揚州來。將至南門，城門已閉，弔橋拽起。誕在城下叫門，城上並無一人回答。誕大怒曰：「樂綝匹夫，安敢如此！」遂令將士打城。手下十餘驍騎，下馬渡河，飛身上城，殺散軍士，大開城門。於是諸葛誕引兵入城，乘風放火，殺至綝家。綝慌上樓避之。誕提劍上樓，大喝曰：「汝父樂進，昔日受魏國大恩！不思報本，反欲順司馬昭耶！」綝未及回言，為誕所殺。一面具表數司馬昭之罪，使人申奏洛陽；一面大聚兩淮屯田戶口十餘萬，並揚州新降兵四萬餘人，積草屯糧，準備進兵。又令長史吳綱送子諸葛靚入吳為質求援，務要合兵誅討司馬昭。\n此時東吳丞相孫峻病亡，從弟孫綝輔政。綝字子通，為人強暴，殺大司馬滕胤、將軍呂據、王惇等：因此權柄皆歸於綝。吳主孫亮，雖然聰明，無可奈何。於是吳綱將諸葛靚至石頭城，入拜孫綝。綝問其故。綱曰：「諸葛誕乃蜀漢諸葛武侯之族弟也，向事魏國；今見司馬昭欺君罔上，廢主弄權，欲興師討之，而力不及，故特來歸降。誠恐無憑，專送親子諸葛靚為質。伏望發兵相助。」綝從其請，便遣大將全懌、全端為主將，于詮為合後，朱異、唐咨為先鋒，文欽為鄉導，起兵七萬，分三隊而進。吳綱回壽春報知諸葛誕。誕大喜，遂陳兵準備。\n卻說諸葛誕表文到洛陽，司馬昭見了大怒，欲自往討之。賈充諫曰：「主公乘父兄之基業，恩德未及四海，今棄天子而去，若一朝有變，悔之何及？不如奏請太后及天子一同出征，可保無虞。」昭喜曰：「此言正合吾意。」遂入奏太后曰：「諸葛誕謀反，臣興文武官僚，計議停當：請太后同天子御駕親征，以繼先帝之遺意。」太后畏懼，只得從之。次日，昭請魏主曹髦起程。髦曰：「大將軍都督天下軍馬，任從調遣，何必朕自行也？」昭曰：「不然。昔日武祖縱橫四海，文帝、明帝有包括宇宙之志，併吞八荒之心，凡遇大敵，必須自行。陛下正宜追配先君，掃清故孽，何自畏也？」髦畏威權，只得從之。昭遂下詔，盡起兩都之兵二十六萬，命鎮南將軍王基為正先鋒，安東將軍陳騫為副先鋒，監軍石苞為左軍，兗州刺史州泰為右軍，保護車駕，浩浩蕩蕩，殺奔淮南而來。東吳先鋒朱異，引兵迎敵。兩軍對圓，魏軍中王基出馬，朱異來迎。戰不三合，朱異敗走；唐咨出馬，戰不三合，亦大敗而走。王基驅兵掩殺，吳兵大敗，退五十里下寨，報入壽春城中。諸葛誕自引本部銳兵，會合文欽並二子文鴦、文虎，雄兵數萬，來敵司馬昭。正是：\n方見吳兵銳氣墮，又看魏將勁兵來。\n未知勝負如何，且看下文分解。",
+    "title": "第一百十一回 鄧士載智取姜伯約　　諸葛誕義討司馬昭"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-111.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

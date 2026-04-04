@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 67,
+    "id": "chapter-016",
+    "order": 16,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 67,
+        "id": "chapter-016-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "致 虛 極 ， 守 靜 篤 。萬物 並 作 ，吾 以 觀 復 。夫 物 芸芸 ， 各 復歸 其 根 。歸根 曰 靜 ， 是 謂 復命 。 復命 曰 常 ，知 常 曰 明 。 不知 常 ， 妄作 凶 。知 常 容 ，容 乃 公 ，公 乃 王 ，王 乃 天 ，天 乃 道 ，道 乃 久 ，沒 身 不 殆 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The (state of) vacancy should be brought to the utmost degree, and that of stillness guarded with unwearying vigour. All things alike go through their processes of activity, and (then) we see them return (to their original state). When things (in the vegetable world) have displayed their luxuriant growth, we see each of them return to its root. This returning to their root is what we call the state of stillness; and that stillness may be called a reporting that they have fulfilled their appointed end. The report of that fulfilment is the regular, unchanging rule. To know that unchanging rule is to be intelligent; not to know it leads to wild movements and evil issues. The knowledge of that unchanging rule produces a (grand) capacity and forbearance, and that capacity and forbearance lead to a community (of feeling with all things). From this community of feeling comes a kingliness of character; and he who is king-like goes on to be heaven-like. In that likeness to heaven he possesses the Dao. Possessed of the Dao, he endures long; and to the end of his bodily life, is exempt from all danger of decay."
+          }
+        }
+      }
+    ],
+    "summary": "致虛極，守靜篤",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "致虛極，守靜篤。萬物並作，吾以觀復。夫物芸芸，各復歸其根。歸根曰靜，是謂復命。復命曰常，知常曰明。不知常，妄作凶。知常容，容乃公，公乃王，王乃天，天乃道，道乃久，沒身不殆。",
+    "title": "第16章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-016.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 90,
+    "id": "chapter-054",
+    "order": 54,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 90,
+        "id": "chapter-054-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "善建不拔，善抱者不脫，子孫以祭祀不輟。修之於身，其德乃真；修之於家，其德乃餘；修之於鄉，其德乃長；修之於國，其德乃豐；修之於天下，其德乃普。故以身觀身，以家觀家，以鄉觀鄉，以國觀國，以天下觀天下。吾何以知天下然哉？以此。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "What (Tao's) skilful planter plants Can never be uptorn; What his skilful arms enfold, From him can ne'er be borne. Sons shall bring in lengthening line, Sacrifices to his shrine. Tao when nursed within one's self, His vigour will make true; And where the family it rules What riches will accrue! The neighbourhood where it prevails In thriving will abound; And when 'tis seen throughout the state, Good fortune will be found. Employ it the kingdom o'er, And men thrive all around. In this way the effect will be seen in the person, by the observation of different cases; in the family; in the neighbourhood; in the state; and in the kingdom. How do I know that this effect is sure to hold thus all under the sky? By this (method of observation)."
+          }
+        }
+      }
+    ],
+    "summary": "善建不拔，善抱者不脫，子孫以祭祀不輟",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "善建不拔，善抱者不脫，子孫以祭祀不輟。修之於身，其德乃真；修之於家，其德乃餘；修之於鄉，其德乃長；修之於國，其德乃豐；修之於天下，其德乃普。故以身觀身，以家觀家，以鄉觀鄉，以國觀國，以天下觀天下。吾何以知天下然哉？以此。",
+    "title": "第54章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-054.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

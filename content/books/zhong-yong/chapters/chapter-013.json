@@ -1,0 +1,73 @@
+{
+  "chapter": {
+    "character_count": 153,
+    "id": "chapter-013",
+    "order": 13,
+    "reading_unit_count": 4,
+    "reading_units": [
+      {
+        "character_count": 18,
+        "id": "chapter-013-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「道不遠人。人之為道而遠人，不可以為道。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said \"The path is not far from man."
+          }
+        }
+      },
+      {
+        "character_count": 33,
+        "id": "chapter-013-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "詩云：『伐柯伐柯，其則不遠。』執柯以伐柯，睨而視之，猶以為遠。故君子以人治人，改而止。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When men try to pursue a course, which is far from the common indications of consciousness, this course cannot be considered The Path."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-013-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "忠恕違道不遠，施諸己而不願，亦勿施於人。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the Book of Poetry, it is said, 'In hewing an ax handle, in hewing an ax handle, the pattern is not far off."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-013-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "君子之道四，丘未能一焉：所求乎子，以事父未能也；所求乎臣，以事君未能也；所求乎弟，以事兄未能也；所求乎朋友，先施之未能也。庸德之行，庸言之謹，有所不足，不敢不勉，有餘不敢盡；言顧行，行顧言，君子胡不慥慥爾！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We grasp one ax handle to hew the other; and yet, if we look askance from the one to the other, we may consider them as apart. Therefore, the superior man governs men, according to their nature, with what is proper to them, and as soon as they change what is wrong, he stops. When one cultivates to the utmost the principles of his nature, and exercises them on the principle of reciprocity, he is not far from the path. What you do not like when done to yourself, do not do to others. In the way of the superior man there are four things, to not one of which have I as yet attained.-To serve my father, as I would require my son to serve me: to this I have not attained; to serve my prince as I would require my minister to serve me: to this I have not attained; to serve my elder brother as I would require my younger brother to serve me: to this I have not attained; to set the example in behaving to a friend, as I would require him to behave to me: to this I have not attained. Earnest in practicing the ordinary virtues, and careful in speaking about them, if, in his practice, he has anything defective, the superior man dares not but exert himself; and if, in his words, he has any excess, he dares not allow himself such license. Thus his words have respect to his actions, and his actions have respect to his words; is it not just an entire sincerity which marks the superior man?"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「道不遠人。人之為道而遠人，不可以為道。\n詩云：『伐柯伐柯，其則不遠。』執柯以伐柯，睨而視之，猶以為遠。故君子以人治人，改而止。\n忠恕違道不遠，施諸己而不願，亦勿施於人。\n君子之道四，丘未能一焉：所求乎子，以事父未能也；所求乎臣，以事君未能也；所求乎弟，以事兄未能也；所求乎朋友，先施之未能也。庸德之行，庸言之謹，有所不足，不敢不勉，有餘不敢盡；言顧行，行顧言，君子胡不慥慥爾！」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-013.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

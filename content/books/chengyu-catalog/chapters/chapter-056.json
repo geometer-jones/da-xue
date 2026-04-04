@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-056",
+    "order": 56,
+    "summary": "面壁功深",
+    "text": "面壁功深\n说三道四\n君辱臣死\n亡羊得牛\n邈若河山\n途途是道\n痛改前非\n精神百倍\n哀感中年\n同心合意\n四面出击\n白衣卿相\n身微力薄\n分工合作\n因人成事\n天公地道\n木心石腹\n重手累足\n成竹在胸\n相女配夫\n安堵如故\n你死我活\n同利相死\n出于意外\n墨守成法\n千生万死\n高城深池\n功成弗居\n心弛神往\n因公假私",
+    "title": "1651-1680",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "面壁功深",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Facing the wall is a Buddhist term that refers to facing the wall and sitting silently in meditation. If you meditate facing the wall, you will have a very deep path."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "说三道四",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to make thoughtless remarks (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "君辱臣死",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Feudal ethics believe that when the emperor suffers humiliation, his officials should die."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "亡羊得牛",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lose the sheep and get the cow"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "邈若河山",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describe as far away as across mountains and rivers"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "途途是道",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The finger is right"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "痛改前非",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "completely correcting one's former misdeeds (idiom); to repent past mistakes and turn over a new leaf"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "精神百倍",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. vitality a hundredfold (idiom); refreshed"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "哀感中年",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes the sad emotions of middle-aged people about the separation of relatives and friends"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "同心合意",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to being of one mind"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "四面出击",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes that work is in full swing without focus"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "白衣卿相",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to Jinshi in ancient times"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "身微力薄",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to low status and insufficient financial resources"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "分工合作",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Everyone performs their own duties and works together"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "因人成事",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to get things done relying on others (idiom); with a little help from his friends"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "天公地道",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "absolutely fair and reasonable (idiom); equitable"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "木心石腹",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Jew's Heart of Stone"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "重手累足",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Two hands are on top of each other, two feet are on top of each other, not daring to make any move"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "成竹在胸",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 胸有成竹[xiong1 you3 cheng2 zhu2]"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "相女配夫",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to weighing the daughter's situation and choosing a suitable son-in-law"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "安堵如故",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "wall, dwelling"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "你死我活",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. you die, I live (idiom); irreconcilable adversaries"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "同利相死",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means that if we have common interests, we will risk our lives to help each other."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "出于意外",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "refers to something unexpected"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "墨守成法",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to conservative thinking, sticking to old rules and refusing to change"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "千生万死",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to going through hardships and dangers"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "高城深池",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "high walls and deep moat (idiom); impenetrable defense"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "功成弗居",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describes making meritorious deeds without giving credit to oneself"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "心弛神往",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "longing for relaxation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-056-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "因公假私",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Using official duties for personal gain"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-056.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

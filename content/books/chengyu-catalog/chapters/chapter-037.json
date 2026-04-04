@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-037",
+    "order": 37,
+    "summary": "拔十得五",
+    "text": "拔十得五\n安分守已\n知我罪我\n赤心相待\n招是生非\n死里求生\n正己守道\n心如金石\n奉如神明\n四百四病\n面是背非\n明知故犯\n功成名遂\n果然如此\n面面皆到\n公道合理\n德高望重\n貌是心非\n家道中落\n五心六意\n面面相看\n安如泰山\n相得益章\n故作高深\n三求四告\n道德文章\n行古志今\n相去几何\n公平正直\n守分安常",
+    "title": "1081-1110",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "拔十得五",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Pull out the salt, recommended"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "安分守已",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Be honest, keep your duties, and don’t do anything illegal"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "知我罪我",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describe others' disgrace to oneself"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "赤心相待",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "sincere heart"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "招是生非",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "stir up trouble"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "死里求生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to seeking survival in an extremely dangerous situation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "正己守道",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "morality"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "心如金石",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heart as solid as stone"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "奉如神明",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Worship like a god"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "四百四病",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the four seasons of ailments in the limbs and body"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "面是背非",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Agree in person, oppose behind your back"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "明知故犯",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "deliberate violation (idiom); intentional crime"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "功成名遂",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "then accomplished"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "果然如此",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "That's true"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "面面皆到",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All aspects can be taken care of, very comprehensive"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "公道合理",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to handling things fairly and reasonably"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "德高望重",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) a person of virtue and prestige; a person of good moral standing and reputation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "貌是心非",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "What you do on the surface is completely different from what you think in your heart"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "家道中落",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to come down in the world (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "五心六意",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describe being unsettled"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "面面相看",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "looking at each other speechless"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "安如泰山",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "as secure as Mount Taishan"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "相得益章",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to mutual cooperation, complementation, and better showing of each other's strengths."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "故作高深",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I'm not really sophisticated at first, I deliberately pretend to be sophisticated."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "三求四告",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Referring to praying again and again"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "道德文章",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to ideology, moral character and knowledge"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "行古志今",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Act according to ancient ways and serve today"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "相去几何",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "go to distance"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "公平正直",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Fairness and equality, no favoritism, no selfishness"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-037-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "守分安常",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Keep one's duty and be content with one's old ways"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-037.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

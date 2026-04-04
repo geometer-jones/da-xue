@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 8,
+    "id": "chapter-005",
+    "order": 5,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 8,
+        "id": "chapter-005-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「道其不行矣夫！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Alas! How is the path of the Mean untrodden!\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「道其不行矣夫！」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-005.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

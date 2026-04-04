@@ -1,0 +1,1273 @@
+{
+  "chapter": {
+    "character_count": 1053,
+    "id": "chapter-011",
+    "order": 11,
+    "reading_unit_count": 63,
+    "reading_units": [
+      {
+        "character_count": 18,
+        "id": "chapter-011-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「先進於禮樂，野人也；後進於禮樂，君子也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"The men of former times in the matters of ceremonies and music were rustics, it is said, while the men of these latter times, in ceremonies and music, are accomplished gentlemen."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-011-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "如用之，則吾從先進。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If I have occasion to use those things, I follow the men of former times.\""
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-011-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "子曰：「從我於陳、蔡者，皆不及門也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Of those who were with me in Chen and Cai, there are none to be found to enter my door.\""
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-011-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "德行：顏淵，閔子騫，冉伯牛，仲弓。言語：宰我，子貢。政事：冉有，季路。文學：子游，子夏",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Distinguished for their virtuous principles and practice, there were Yan Yuan, Min Zi Qian, Ran Bo Niu, and Zhong Gong; for their ability in speech, Zai Wo and Zi Gong; for their administrative talents, Ran You and Ji Lu; for their literary acquirements, Zi You and Zi Xia."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-011-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "子曰：「回也非助我者也，於吾言無所不說。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Hui gives me no assistance. There is nothing that I say in which he does not delight.\""
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-011-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "子曰：「孝哉閔子騫！人不間於其父母昆弟之言。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Filial indeed is Min Zi Qian! Other people say nothing of him different from the report of his parents and brothers.\""
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-011-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "南容三復白圭，孔子以其兄之子妻之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Nan Rong was frequently repeating the lines about a white scepter stone. Confucius gave him the daughter of his elder brother to wife."
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-011-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "季康子問：「弟子孰為好學？」孔子對曰：「有顏回者好學，不幸短命死矣！今也則亡。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ji Kang asked which of the disciples loved to learn. Confucius replied to him, \"There was Yen Hui; he loved to learn. Unfortunately his appointed time was short, and he died. Now there is no one who loves to learn, as he did.\""
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-011-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "顏淵死，顏路請子之車以為之槨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Yan Yuan died, Yan Lu begged the carriage of the Master to sell and get an outer shell for his son's coffin."
+          }
+        }
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-011-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "子曰：「才不才，亦各言其子也。鯉也死，有棺而無槨。吾不徒行以為之槨。以吾從大夫之後，不可徒行也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Whether he has talents or has not talents, everyone calls his son his son. There was Li; when he died, he had a coffin but no outer shell. I would not walk on foot to get a shell for him, because, having followed in the rear of the great officers, it was not proper that I should walk on foot.\""
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-011-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "顏淵死。子曰：「噫！天喪予！天喪予！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Yan Yuan died, the Master said, \"Alas! Heaven is destroying me! Heaven is destroying me!\""
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-011-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "顏淵死，子哭之慟。從者曰：「子慟矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Yan Yuan died,"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-011-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "曰：「有慟乎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the Master bewailed him exceedingly,"
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-011-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "非夫人之為慟而誰為！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "and the disciples who were with him said, \"Master, your grief is excessive!\" \"Is it excessive?\" said he. \"If I am not to mourn bitterly for this man, for whom should I mourn?\""
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-011-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "顏淵死，門人欲厚葬之，子曰：「不可。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Yan Yuan died, the disciples wished to give him a great funeral, and the Master said, \"You may not do so.\" The disciples did bury him in great style."
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-011-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "門人厚葬之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Hui behaved towards me as his father."
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-011-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "子曰：「回也視予猶父也，予不得視猶子也。非我也，夫二三子也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I have not been able to treat him as my son. The fault is not mine; it belongs to you, O disciples.\""
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-011-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "季路問事鬼神。子曰：「未能事人，焉能事鬼？」敢問死。曰：「未知生，焉知死？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ji Lu asked about serving the spirits of the dead. The Master said, \"While you are not able to serve men, how can you serve their spirits?\" Ji Lu added, \"I venture to ask about death?\" He was answered, \"While you do not know life, how can you know about death?\""
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-011-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "閔子侍側，誾誾如也；子路，行行如也；冉有、子貢，侃侃如也。子樂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The disciple Min was standing by his side, looking bland and precise; Zi Lu, looking bold and soldierly; Ran You and Zi Gong, with a free and straightforward manner."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-011-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "「若由也，不得其死然。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master was pleased. He said, \"You there - he will not die a natural death.\""
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-011-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "魯人為長府。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Some parties in Lu were going to take down and rebuild the Long Treasury."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-011-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "閔子騫曰：「仍舊貫，如之何？何必改作？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Min Zi Qian said, \"Suppose it were to be repaired after its old style;"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-011-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "子曰：「夫人不言，言必有中。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "why must it be altered and made anew?\" The Master said, \"This man seldom speaks; when he does, he is sure to hit the point.\""
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-011-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "子曰：「由之瑟奚為於丘之門？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"What has the lute of You to do in my door?\" The other disciples began not to respect Zi Lu."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-011-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "門人不敬子路。子曰：「由也升堂矣，未入於室也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"You has ascended to the hall, though he has not yet passed into the inner apartments.\""
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-011-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "子貢問：「師與商也孰賢？」子曰：「師也過，商也不及。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi Gong asked which of the two,"
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-011-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "曰：「然則師愈與？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Shi or Shang,"
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-011-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "子曰：「過猶不及。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "was the superior. The Master said, \"Shi goes beyond the due mean, and Shang does not come up to it.\" \"Then,\" said Zi Gong, \"the superiority is with Shi, I suppose.\" The Master said, \"To go beyond is as wrong as to fall short.\""
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-011-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "季氏富於周公，而求也為之聚斂而附益之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The head of the Ji family was richer than the duke of Zhou had been, and yet Qiu collected his imposts for him, and increased his wealth."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-011-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "子曰：「非吾徒也。小子鳴鼓而攻之，可也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"He is no disciple of mine. My little children, beat the drum and assail him.\""
+          }
+        }
+      },
+      {
+        "character_count": 3,
+        "id": "chapter-011-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "柴也愚，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chai is simple."
+          }
+        }
+      },
+      {
+        "character_count": 3,
+        "id": "chapter-011-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "參也魯，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Shen is dull."
+          }
+        }
+      },
+      {
+        "character_count": 3,
+        "id": "chapter-011-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "師也辟，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Shi is specious."
+          }
+        }
+      },
+      {
+        "character_count": 3,
+        "id": "chapter-011-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "由也喭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "You is coarse."
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-011-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "子曰：「回也其庶乎，屢空。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"There is Hui!"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-011-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "賜不受命，而貨殖焉，億則屢中。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He has nearly attained to perfect virtue. He is often in want. Ci does not acquiesce in the appointments of Heaven, and his goods are increased by him. Yet his judgments are often correct.\""
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-011-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "子張問善人之道。子曰：「不踐跡，亦不入於室。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi Zhang asked what were the characteristics of the good man. The Master said, \"He does not tread in the footsteps of others, but moreover, he does not enter the chamber of the sage.\""
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-011-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "子曰：「論篤是與，君子者乎？色莊者乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"If, because a man's discourse appears solid and sincere, we allow him to be a good man, is he really a superior man? or is his gravity only in appearance?\""
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-011-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "子路問：「聞斯行諸？」子曰：「有父兄在，如之何其聞斯行之？」冉有問：「聞斯行諸？」子曰：「聞斯行之。」公西華曰：「由也問聞斯行諸，子曰『有父兄在』；求也問聞斯行諸，子曰『聞斯行之』。赤也惑，敢問。」子曰：「求也退，故進之；由也兼人，故退之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi Lu asked whether he should immediately carry into practice what he heard. The Master said, \"There are your father and elder brothers to be consulted - why should you act on that principle of immediately carrying into practice what you hear?\" Ran You asked the same, whether he should immediately carry into practice what he heard, and the Master answered, \"Immediately carry into practice what you hear.\" Gong Xi Hua said, \"You asked whether he should carry immediately into practice what he heard, and you said, 'There are your father and elder brothers to be consulted.' Qiu asked whether he should immediately carry into practice what he heard, and you said, 'Carry it immediately into practice.' I, Chi, am perplexed, and venture to ask you for an explanation.\" The Master said, \"Qiu is retiring and slow; therefore I urged him forward. You has more than his own share of energy; therefore I kept him back.\""
+          }
+        }
+      },
+      {
+        "character_count": 0,
+        "id": "chapter-011-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 39,
+        "text": "」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master was put in fear in Kuang and Yan Yuan fell behind."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-011-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "子畏於匡，顏淵後。子曰：「吾以女為死矣。」曰：「子在，回何敢死？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master, on his rejoining him, said, \"I thought you had died.\" Hui replied, \"While you were alive, how should I presume to die?\""
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-011-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "季子然問：「仲由、冉求可謂大臣與？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ji Zi Ran asked whether Zhong You and Ran Qiu could be called great ministers."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-011-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "子曰：「吾以子為異之問，曾由與求之問。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said,"
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-011-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "所謂大臣者：以道事君，不可則止。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "\"I thought you would ask about some extraordinary individuals,"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-011-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "今由與求也，可謂具臣矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "and you only ask about You and Qiu!"
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-011-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 45,
+        "text": "曰：「然則從之者與？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "What is called a great minister,"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-011-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 46,
+        "text": "子曰：「弒父與君，亦不從也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "is one who serves his prince according to what is right, and when he finds he cannot do so, retires. Now, as to You and Qiu, they may be called ordinary ministers.\" Zi Ran said, \"Then they will always follow their chief - will they?\" The Master said, \"In an act of parricide or regicide, they would not follow him.\""
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-011-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 47,
+        "text": "子路使子羔為費宰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi Lu got Zi Gao appointed governor of Fei."
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-011-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 48,
+        "text": "子曰：「賊夫人之子。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"You are injuring a man's son.\" Zi Lu said, \"There are (there) common people and officers;"
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-011-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 49,
+        "text": "子路曰：「有民人焉，有社稷焉。何必讀書，然後為學？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "there are the altars of the spirits of the land and grain."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-011-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 50,
+        "text": "子曰：「是故惡夫佞者。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Why must one read books before he can be considered to have learned?\" The Master said, \"It is on this account that I hate your glib-tongued people.\""
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-011-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 51,
+        "text": "子路、曾皙、冉有、公西華侍坐。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi Lu, Zeng Xi, Ran You, and Gong Xi Hua were sitting by the Master."
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-011-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 52,
+        "text": "子曰：「以吾一日長乎爾，毋吾以也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He said to them, \"Though I am a day or so older than you, do not think of that."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-011-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 53,
+        "text": "居則曰：『不吾知也！』如或知爾，則何以哉？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "From day to day you are saying, 'We are not known.' If some ruler were to know you, what would you like to do?\" Zi Lu hastily and lightly replied, \"Suppose the case of a state of ten thousand chariots;"
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-011-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 54,
+        "text": "子路率爾而對曰：「千乘之國，攝乎大國之間，加之以師旅，因之以饑饉；由也為之，比及三年，可使有勇，且知方也。」夫子哂之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "let it be straitened between other large states;"
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-011-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 55,
+        "text": "「求！爾何如？」對曰：「方六七十，如五六十，求也為之，比及三年，可使足民。如其禮樂，以俟君子。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "let it be suffering from invading armies;"
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-011-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 56,
+        "text": "「赤！爾何如？」對曰：「非曰能之，願學焉。宗廟之事，如會同，端章甫，願為小相焉。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "and to this let there be added a famine in corn and in all vegetables - if I were intrusted with the government of it, in three years' time I could make the people to be bold, and to recognize the rules of righteous conduct.\" The Master smiled at him."
+          }
+        }
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-011-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 57,
+        "text": "「點！爾何如？」鼓瑟希，鏗爾，舍瑟而作。對曰：「異乎三子者之撰。」子曰：「何傷乎？亦各言其志也。」曰：「莫春者，春服既成。冠者五六人，童子六七人，浴乎沂，風乎舞雩，詠而歸。」夫子喟然歎曰；「吾與點也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Turning to Ran You, he said, \"Qiu, what are your wishes?\" Qiu replied, \"Suppose a state of sixty or seventy li square, or one of fifty or sixty, and let me have the government of it - in three years' time, I could make plenty to abound among the people."
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-011-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 58,
+        "text": "三子者出，曾皙後。曾皙曰：「夫三子者之言何如？」子曰：「亦各言其志也已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As to teaching them the principles of propriety, and music, I must wait for the rise of a superior man to do that.\" \"What are your wishes, Chi,\" said the Master next to Gong Xi Hua."
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-011-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 59,
+        "text": "曰：「夫子何哂由也？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chi replied, \"I do not say that my ability extends to these things, but I should wish to learn them."
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-011-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 60,
+        "text": "曰：「為國以禮，其言不讓，是故哂之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At the services of the ancestral temple, and at the audiences of the princes with the sovereign, I should like, dressed in the dark square-made robe and the black linen cap, to act as a small assistant.\" Last of all, the Master asked Zeng Xi, \"Dian, what are your wishes?\" Dian, pausing as he was playing on his lute, while it was yet twanging, laid the instrument aside, and said, \"My wishes are different from the cherished purposes of these three gentlemen.\" Said the Master, \"What harm is there in that?"
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-011-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 61,
+        "text": "「唯求則非邦也與？」「安見方六七十如五六十而非邦也者？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Do you also, as well as they, speak out your wishes.\" Dian then said, \"In this, the last month of spring, with the dress of the season all complete, along with five or six young men who have assumed the cap, and six or seven boys, I would wash in the Yi, enjoy the breeze among the rain altars, and return home singing.\" The Master heaved a sigh and said, \"I give my approval to Dian.\" The three others having gone out, Zeng Xi remained behind, and said, \"What do you think of the words of these three friends?\" The Master replied, \"They simply told each one his wishes.\" Xi pursued, \"Master, why did you smile at You?\" He was answered, \"The management of a state demands the rules of propriety."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-011-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 62,
+        "text": "「唯赤則非邦也與？」「宗廟會同，非諸侯而何？赤也為之小，孰能為之大？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His words were not humble; therefore I smiled at him.\" Xi again said, \"But was it not a state which Qiu proposed for himself?\" The reply was, \"Yes; did you ever see a territory of sixty or seventy li or one of fifty or sixty, which was not a state?\" Once more, Xi inquired, \"And was it not a state which Chi proposed for himself?\" The Master again replied, \"Yes; who but princes have to do with ancestral temples, and with audiences but the sovereign? If Chi were to be a small assistant in these services, who could be a great one?\" Source: Chinese Text Project http://ctext.org/analects , from \"The Chinese Classics, volume 1\", James Legge, 1861 </div> Dictionary cache status: not loaded Glossary and Other Vocabulary"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "此篇多評弟子賢否。凡二十五1章。胡氏曰：「此篇記閔子騫言行者四，而其一直稱閔子，疑閔氏門人所記也。」1. 五 : Originally read: \"七\".\n先進後進，猶言前輩後輩。野人，謂郊外之民。君子，謂賢士大夫也。程子曰：「先進於禮樂，文質得宜，今反謂之質朴，而以為野人。後進之於禮樂，文過其質，今反謂之彬彬，而以為君子。蓋周末文勝，故時人之言如此，不自知其過於文也。」用之，謂用禮樂。孔子既述時人之言，又自言其如此，蓋欲損過以就中也。\n從，去聲。孔子嘗厄於陳、蔡之間，弟子多從之者，此時皆不在門。故孔子思之，蓋不忘其相從於患難之中也。行，去聲。弟子因孔子之言，記此十人，而并目其所長，分為四科。孔子教人各因其材，於此可見。程子曰：「四科乃從夫子於陳、蔡者爾，門人之賢者固不止此。曾子傳道而不與焉，故知十哲世俗論也。」\n說，音悅。助我，若子夏之起予，因疑問而有以相長也。顏子於聖人之言，默識心通，無所疑問。故夫子云然，其辭若有憾焉，其實乃深喜之。胡氏曰：「夫子之於回，豈真以助我望之。蓋聖人之謙德，又以深贊顏氏云爾。」\n閒，去聲。胡氏曰：「父母兄弟稱其孝友，人皆信之無異辭者，蓋其孝友之實，有以積於中而著於外，故夫子歎而美之。」\n三、妻，並去聲。詩大雅抑之篇曰：「白圭之玷，尚可磨也；斯言之玷，不可為也。」南容一日三復此言，事見家語，蓋深有意於謹言也。此邦有道所以不廢，邦無道所以免禍，故孔子以兄子妻之。范氏曰：「言者行之表，行者言之實，未有易其言而能謹於行者。南容欲謹其言如此，則必能謹其行矣。」\n好，去聲。范氏曰：「哀公、康子問同而對有詳略者，臣之告君，不可不盡。若康子者，必待其能問乃告之，此教誨之道也。」\n顏路，淵之父，名無繇。少孔子六歲，孔子始教而受學焉。槨，外棺也。請為槨，欲賣車以買槨也。鯉，孔子之子伯魚也，先孔子卒。言鯉之才雖不及顏淵，然己與顏路以父視之，則皆子也。孔子時已致仕，尚從大夫之列，言後，謙辭。胡氏曰：「孔子遇舊館人之喪，嘗脫驂以賻之矣。今乃不許顏路之請，何邪？葬可以無槨，驂可以脫而復求，大夫不可以徒行，命車不可以與人而鬻諸市也。且為所識窮乏者得我，而勉強以副其意，豈誠心與直道哉？或者以為君子行禮，視吾之有無而已。夫君子之用財，視義之可否豈獨視有無而已哉？\n喪，去聲。噫，傷痛聲。悼道無傳，若天喪己也。\n從，去聲。慟，哀過也。哀傷之至，不自知也。夫，音扶。為，去聲。夫人，謂顏淵。言其死可惜，哭之宜慟，非他人之比也。胡氏曰：「痛惜之至，施當其可，皆情性之正也。」\n喪具稱家之有無，貧而厚葬，不循理也。故夫子止之。蓋顏路聽之。歎不得如葬鯉之得宜，以責門人也。\n焉，於虔反。問事鬼神，蓋求所以奉祭祀之意。而死者人之所必有，不可不知，皆切問也。然非誠敬足以事人，則必不能事神；非原始而知所以生，則必不能反終而知所以死。蓋幽明始終，初無二理，但學之有序，不可躐等，故夫子告之如此。程子曰：「晝夜者，死生之道也。知生之道，則知死之道；盡事人之道，則盡事鬼之道。死生人鬼，一而二，二而一者也。或言夫子不告子路，不知此乃所以深告之也。」\n誾、侃，音義見前篇。行，胡浪反。樂，音洛。行行，剛強之貌。子樂者，樂得英材而教育之。尹氏曰：「子路剛強，有不得其死之理，故因以戒之。其後子路卒死於衛孔悝之難。」洪氏曰：「漢書引此句，上有曰字。」或云：「上文樂字，即曰字之誤。」\n長府，藏名。藏貨財曰府。為，蓋改作之。仍，因也。貫，事也。王氏曰：「改作，勞民傷財。在於得已，則不如仍舊貫之善。」夫，音扶。中，去聲。言不妄發，發必當理，惟有德者能之。\n程子曰：「言其聲之不和，與己不同也。」家語云：「子路鼓瑟，有北鄙殺伐之聲。」蓋其氣質剛勇，而不足於中和，故其發於聲者如此。門人以夫子之言，遂不敬子路，故夫子釋之。升堂入室，喻入道之次第。言子路之學，已造乎正大高明之域，特未深入精微之奧耳，未可以一事之失而遽忽之也。\n子張才高意廣，而好為苟難，故常過中。子夏篤信謹守，而規模狹隘，故常不及。與，平聲。愈，猶勝也。道以中庸為至。賢知之過，雖若勝於愚不肖之不及，然其失中則一也。尹氏曰：「中庸之為德也，其至矣乎！夫過與不及，均也。差之毫釐，繆以千里。故聖人之教，抑其過，引其不及，歸於中道而已。」\n為，去聲。周公以王室至親，有大功，位冢宰，其富宜矣。季氏以諸侯之卿，而富過之，非攘奪其君、刻剝其民，何以得此？冉有為季氏宰，又為之急賦稅以益其富。非吾徒，絕之也。小子鳴鼓而攻之，使門人聲其罪以責之也。聖人之惡黨惡而害民也如此。然師嚴而友親，故己絕之，而猶使門人正之，又見其愛人之無已也。范氏曰：「冉有以政事之才，施於季氏，故為不善至於如此。由其心術不明，不能反求諸身，而以仕為急故也。」\n柴，孔子弟子，姓高，字子羔。愚者，知不足而厚有餘。家語記其「足不履影，啟蟄不殺，方長不折。執親之喪，泣血三年，未嘗見齒。避難而行，不徑不竇」。可以見其為人矣。魯，鈍也。程子曰：「參也竟以魯得之。」又曰：「曾子之學，誠篤而已。聖門學者，聰明才辯，不為不多，而卒傳其道，乃質魯之人爾。故學以誠實為貴也。」尹氏曰：「曾子之才魯，故其學也確，所以能深造乎道也。」辟，婢亦反。辟，便辟也。謂習於容止，少誠實也。喭，五旦反。喭，粗俗也。傳稱喭者，謂俗論也。楊氏曰：「四者性之偏，語之使知自勵也。」吳氏曰：「此章之首，脫『子曰』二字。」或疑下章子曰，當在此章之首，而通為一章。\n庶，近也，言近道也。屢空，數至空匱也。不以貧窶動心而求富，故屢至於空匱也。言其近道，又能安貧也。中，去聲。命，謂天命。貨殖，貨財生殖也。億，意度也。言子貢不如顏子之安貧樂道，然其才識之明，亦能料事而多中也。程子曰：「子貢之貨殖，非若後人之豐財，但此心未忘耳。然此亦子貢少時事，至聞性與天道，則不為此矣。」范氏曰：「屢空者，簞食瓢飲屢絕而不改其樂也。天下之物，豈有可動其中者哉？貧富在天，而子貢以貨殖為心，則是不能安受天命矣。其言而多中者億而已，非窮理樂天者也。夫子嘗曰：『賜不幸言而中，是使賜多言也』，聖人之不貴言也如是。」\n善人，質美而未學者也。程子曰：「踐跡，如言循途守轍。善人雖不必踐舊跡而自不為惡，然亦不能入聖人之室也。」張子曰：「善人欲仁而未志於學者也。欲仁，故雖不踐成法，亦不蹈於惡，有諸己也。由不學，故無自而入聖人之室也。」\n與，如字。言但以其言論篤實而與之，則未知其為君子者乎？為色莊者乎？言不可以言貌取人也。\n兼人，謂勝人也。張敬夫曰：「聞義固當勇為，然有父兄在，則有不可得而專者。若不稟命而行，則反傷於義矣。子路有聞，未之能行，唯恐有聞。則於所當為，不患其不能為矣；特患為之之意或過，而於所當稟命者有闕耳。若冉求之資稟失之弱，不患其不稟命也；患其於所當為者逡巡畏縮，而為之不勇耳。聖人一進之，一退之，所以約之於義理之中，而使之無過不及之患也。」\n女，音汝。○後，謂相失在後。何敢死，謂不赴鬥而必死也。胡氏曰：「先王之制，民生於三，事之如一。惟其所在，則致死焉。況顏淵之於孔子，恩義兼盡，又非他人之為師弟子者而已。即夫子不幸而遇難，回必捐生以赴之矣。捐生以赴之，幸而不死，則必上告天子、下告方伯，請討以復讎，不但已也。夫子而在，則回何為而不愛其死，以犯匡人之鋒乎？」\n與，平聲。子然，季氏子弟。自多其家得臣二子，故問之。異，非常也。曾，猶乃也。輕二子以抑季然也。以道事君者，不從君之欲。不可則止者，必行己之志。具臣，謂備臣數而已。與，平聲。意二子既非大臣，則從季氏之所為而已。言二子雖不足於大臣之道，然君臣之義則聞之熟矣，弒逆大故必不從之。蓋深許二子以死難不可奪之節，而又以陰折季氏不臣之心也。尹氏曰：「季氏專權僭竊，二子仕其家而不能正也，知其不可而不能止也，可謂具臣矣。是時季氏已有無君之心，故自多其得人。意其可使從己也，故曰弒父與君亦不從也，其庶乎二子可免矣。」\n子路為季氏宰而舉之也。夫，音扶，下同。賊，害也。言子羔質美而未學，遽使治民，適以害之。言治民事神皆所以為學。惡，去聲。治民事神，固學者事，然必學之已成，然後可仕以行其學。若初未嘗學，而使之即仕以為學，其不至於慢神而虐民者幾希矣。子路之言，非其本意，但理屈辭窮，而取辨於口以禦人耳。故夫子不斥其非，而特惡其佞也。范氏曰：「古者學而後入政。未聞以政學者也。蓋道之本在於修身，而後及於治人，其說具於方冊。讀而知之，然後能行。何可以不讀書也？子路乃欲使子羔以政為學，失先後本末之序矣。不知其過而以口給禦人，故夫子惡其佞也。」\n坐，才臥反。皙，曾參父，名點。長，上聲。言我雖年少長於女，然女勿以我長而難言。蓋誘之盡言以觀其志，而聖人和氣謙德，於此亦可見矣。言女平居，則言人不知我。如或有人知女，則女將何以為用也？乘，去聲。饑，音機。饉，音僅。比，必二反，下同。哂，詩忍反。率爾，輕遽之貌。攝，管束也。二千五百人為師，五百人為旅。因，仍也。穀不熟曰饑，菜不熟曰饉。方，向也，謂向義也。民向義，則能親其上，死其長矣。哂，微笑也。求，爾何如，孔子問也，下放此。方六七十里，小國也。如，猶或也。五六十里，則又小矣。足，富足也。俟君子，言非己所能。冉有謙退，又以子路見哂，故其辭益遜。相，去聲。公西華志於禮樂之事，嫌以君子自居。故將言己志而先為遜辭，言未能而願學也。宗廟之事，謂祭祀。諸侯時見曰會，眾覜曰同。端，玄端服。章甫，禮冠。相，贊君之禮者。言小，亦謙辭。鏗，苦耕反。舍，上聲。撰，士免反。莫、冠，並去聲。沂，魚依反。雩音于。四子侍坐，以齒為序，則點當次對。以方鼓瑟，故孔子先問求、赤而後及點也。希，間歇也。作，起也。撰，具也。春服，單袷之衣。浴，盥濯也，今上巳祓除是也。沂，水名，在魯城南，地志以為有溫泉焉，理或然也。風，乘涼也。舞雩，祭天禱雨之處，有壇墠樹木也。詠，歌也。曾點之學，蓋有以見夫人欲盡處，天理流行，隨處充滿，無少欠闕。故其動靜之際，從容如此。而其言志，則又不過即其所居之位，樂其日用之常，初無舍己為人之意。而其胸次悠然，直與天地萬物上下同流，各得其所之妙，隱然自見於言外。視三子之規規於事為之末者，其氣象不侔矣，故夫子歎息而深許之。而門人記其本末獨加詳焉，蓋亦有以識此矣。夫，音扶。點以子路之志，乃所優為，而夫子哂之，故請其說。夫子蓋許其能，特哂其不遜。與，平聲，下同。曾點以冉求亦欲為國而不見哂，故微問之。而夫子之答無貶辭，蓋亦許之。此亦曾皙問而夫子答也。孰能為之大，言無能出其右者，亦許之之辭。程子曰：「古之學者，優柔厭飫，有先後之序。如子路、冉有、公西赤言志如此，夫子許之。亦以此自是實事。後之學者好高，如人游心千里之外，然自身卻只在此。」又曰：「孔子與點，蓋與聖人之志同，便是堯、舜氣象也。誠異三子者之撰，特行有不掩焉耳，此所謂狂也。子路等所見者小，子路只為不達為國以禮道理，是以哂之。若達，卻便是這氣象也。」又曰：「三子皆欲得國而治之，故夫子不取。曾點，狂者也，未必能為聖人之事，而能知夫子之志。故曰浴乎沂，風乎舞雩，詠而歸，言樂而得其所也。孔子之志，在於老者安之，朋友信之，少者懷之，使萬物莫不遂其性。曾點知之，故孔子喟然歎曰「吾與點也。」又曰：「曾點、漆雕開，已見大意。」",
+    "supplemental_unit_count": 54,
+    "supplemental_units": [
+      {
+        "character_count": 59,
+        "id": "chapter-011-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "此篇多評弟子賢否。凡二十五1章。胡氏曰：「此篇記閔子騫言行者四，而其一直稱閔子，疑閔氏門人所記也。」1. 五 : Originally read: \"七\"."
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-011-supp-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "先進後進，猶言前輩後輩。野人，謂郊外之民。君子，謂賢士大夫也。程子曰：「先進於禮樂，文質得宜，今反謂之質朴，而以為野人。後進之於禮樂，文過其質，今反謂之彬彬，而以為君子。蓋周末文勝，故時人之言如此，不自知其過於文也。」用之，謂用禮樂。"
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-011-supp-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "孔子既述時人之言，又自言其如此，蓋欲損過以就中也。"
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-011-supp-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "從，去聲。孔子嘗厄於陳、蔡之間，弟子多從之者，此時皆不在門。故孔子思之，蓋不忘其相從於患難之中也。行，去聲。弟子因孔子之言，記此十人，而并目其所長，分為四科。孔子教人各因其材，於此可見。"
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-011-supp-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "程子曰：「四科乃從夫子於陳、蔡者爾，門人之賢者固不止此。曾子傳道而不與焉，故知十哲世俗論也。」"
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-011-supp-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "說，音悅。助我，若子夏之起予，因疑問而有以相長也。顏子於聖人之言，默識心通，無所疑問。故夫子云然，其辭若有憾焉，其實乃深喜之。胡氏曰：「夫子之於回，豈真以助我望之。蓋聖人之謙德，又以深贊顏氏云爾。」"
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-011-supp-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "閒，去聲。胡氏曰：「父母兄弟稱其孝友，人皆信之無異辭者，蓋其孝友之實，有以積於中而著於外，故夫子歎而美之。」"
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-011-supp-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "三、妻，並去聲。詩大雅抑之篇曰：「白圭之玷，尚可磨也；斯言之玷，不可為也。」南容一日三復此言，事見家語，蓋深有意於謹言也。此邦有道所以不廢，邦無道所以免禍，故孔子以兄子妻之。范氏曰：「言者行之表，行者言之實，未有易其言而能謹於行者。"
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-011-supp-009",
+        "order": 9,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "南容欲謹其言如此，則必能謹其行矣。」"
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-011-supp-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "好，去聲。范氏曰：「哀公、康子問同而對有詳略者，臣之告君，不可不盡。若康子者，必待其能問乃告之，此教誨之道也。」"
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-011-supp-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "顏路，淵之父，名無繇。少孔子六歲，孔子始教而受學焉。槨，外棺也。請為槨，欲賣車以買槨也。鯉，孔子之子伯魚也，先孔子卒。言鯉之才雖不及顏淵，然己與顏路以父視之，則皆子也。孔子時已致仕，尚從大夫之列，言後，謙辭。"
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-011-supp-012",
+        "order": 12,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "胡氏曰：「孔子遇舊館人之喪，嘗脫驂以賻之矣。今乃不許顏路之請，何邪？葬可以無槨，驂可以脫而復求，大夫不可以徒行，命車不可以與人而鬻諸市也。且為所識窮乏者得我，而勉強以副其意，豈誠心與直道哉？或者以為君子行禮，視吾之有無而已。"
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-011-supp-013",
+        "order": 13,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "夫君子之用財，視義之可否豈獨視有無而已哉？"
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-011-supp-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "喪，去聲。噫，傷痛聲。悼道無傳，若天喪己也。"
+      },
+      {
+        "character_count": 58,
+        "id": "chapter-011-supp-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "從，去聲。慟，哀過也。哀傷之至，不自知也。夫，音扶。為，去聲。夫人，謂顏淵。言其死可惜，哭之宜慟，非他人之比也。胡氏曰：「痛惜之至，施當其可，皆情性之正也。」"
+      },
+      {
+        "character_count": 39,
+        "id": "chapter-011-supp-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "喪具稱家之有無，貧而厚葬，不循理也。故夫子止之。蓋顏路聽之。歎不得如葬鯉之得宜，以責門人也。"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-011-supp-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "焉，於虔反。問事鬼神，蓋求所以奉祭祀之意。而死者人之所必有，不可不知，皆切問也。然非誠敬足以事人，則必不能事神；非原始而知所以生，則必不能反終而知所以死。蓋幽明始終，初無二理，但學之有序，不可躐等，故夫子告之如此。"
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-011-supp-018",
+        "order": 18,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "程子曰：「晝夜者，死生之道也。知生之道，則知死之道；盡事人之道，則盡事鬼之道。死生人鬼，一而二，二而一者也。或言夫子不告子路，不知此乃所以深告之也。」"
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-011-supp-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "誾、侃，音義見前篇。行，胡浪反。樂，音洛。行行，剛強之貌。子樂者，樂得英材而教育之。尹氏曰：「子路剛強，有不得其死之理，故因以戒之。其後子路卒死於衛孔悝之難。」洪氏曰：「漢書引此句，上有曰字。」或云：「上文樂字，即曰字之誤。」"
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-011-supp-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "長府，藏名。藏貨財曰府。為，蓋改作之。仍，因也。貫，事也。王氏曰：「改作，勞民傷財。在於得已，則不如仍舊貫之善。」夫，音扶。中，去聲。言不妄發，發必當理，惟有德者能之。"
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-011-supp-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "程子曰：「言其聲之不和，與己不同也。」家語云：「子路鼓瑟，有北鄙殺伐之聲。」蓋其氣質剛勇，而不足於中和，故其發於聲者如此。門人以夫子之言，遂不敬子路，故夫子釋之。升堂入室，喻入道之次第。"
+      },
+      {
+        "character_count": 35,
+        "id": "chapter-011-supp-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "言子路之學，已造乎正大高明之域，特未深入精微之奧耳，未可以一事之失而遽忽之也。"
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-011-supp-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "子張才高意廣，而好為苟難，故常過中。子夏篤信謹守，而規模狹隘，故常不及。與，平聲。愈，猶勝也。道以中庸為至。賢知之過，雖若勝於愚不肖之不及，然其失中則一也。尹氏曰：「中庸之為德也，其至矣乎！夫過與不及，均也。差之毫釐，繆以千里。"
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-011-supp-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "故聖人之教，抑其過，引其不及，歸於中道而已。」"
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-011-supp-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "為，去聲。周公以王室至親，有大功，位冢宰，其富宜矣。季氏以諸侯之卿，而富過之，非攘奪其君、刻剝其民，何以得此？冉有為季氏宰，又為之急賦稅以益其富。非吾徒，絕之也。小子鳴鼓而攻之，使門人聲其罪以責之也。聖人之惡黨惡而害民也如此。"
+      },
+      {
+        "character_count": 67,
+        "id": "chapter-011-supp-026",
+        "order": 26,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "然師嚴而友親，故己絕之，而猶使門人正之，又見其愛人之無已也。范氏曰：「冉有以政事之才，施於季氏，故為不善至於如此。由其心術不明，不能反求諸身，而以仕為急故也。」"
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-011-supp-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "柴，孔子弟子，姓高，字子羔。愚者，知不足而厚有餘。家語記其「足不履影，啟蟄不殺，方長不折。執親之喪，泣血三年，未嘗見齒。避難而行，不徑不竇」。可以見其為人矣。魯，鈍也。程子曰：「參也竟以魯得之。」又曰：「曾子之學，誠篤而已。"
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-011-supp-028",
+        "order": 28,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "聖門學者，聰明才辯，不為不多，而卒傳其道，乃質魯之人爾。故學以誠實為貴也。」尹氏曰：「曾子之才魯，故其學也確，所以能深造乎道也。」辟，婢亦反。辟，便辟也。謂習於容止，少誠實也。喭，五旦反。喭，粗俗也。傳稱喭者，謂俗論也。"
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-011-supp-029",
+        "order": 29,
+        "source_block_chunk": 3,
+        "source_block_order": 18,
+        "text": "楊氏曰：「四者性之偏，語之使知自勵也。」吳氏曰：「此章之首，脫『子曰』二字。」或疑下章子曰，當在此章之首，而通為一章。"
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-011-supp-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "庶，近也，言近道也。屢空，數至空匱也。不以貧窶動心而求富，故屢至於空匱也。言其近道，又能安貧也。中，去聲。命，謂天命。貨殖，貨財生殖也。億，意度也。言子貢不如顏子之安貧樂道，然其才識之明，亦能料事而多中也。"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-011-supp-031",
+        "order": 31,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "程子曰：「子貢之貨殖，非若後人之豐財，但此心未忘耳。然此亦子貢少時事，至聞性與天道，則不為此矣。」范氏曰：「屢空者，簞食瓢飲屢絕而不改其樂也。天下之物，豈有可動其中者哉？貧富在天，而子貢以貨殖為心，則是不能安受天命矣。"
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-011-supp-032",
+        "order": 32,
+        "source_block_chunk": 3,
+        "source_block_order": 19,
+        "text": "其言而多中者億而已，非窮理樂天者也。夫子嘗曰：『賜不幸言而中，是使賜多言也』，聖人之不貴言也如是。」"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-011-supp-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "善人，質美而未學者也。程子曰：「踐跡，如言循途守轍。善人雖不必踐舊跡而自不為惡，然亦不能入聖人之室也。」張子曰：「善人欲仁而未志於學者也。欲仁，故雖不踐成法，亦不蹈於惡，有諸己也。由不學，故無自而入聖人之室也。」"
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-011-supp-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "與，如字。言但以其言論篤實而與之，則未知其為君子者乎？為色莊者乎？言不可以言貌取人也。"
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-011-supp-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "兼人，謂勝人也。張敬夫曰：「聞義固當勇為，然有父兄在，則有不可得而專者。若不稟命而行，則反傷於義矣。子路有聞，未之能行，唯恐有聞。則於所當為，不患其不能為矣；特患為之之意或過，而於所當稟命者有闕耳。若冉求之資稟失之弱，不患其不稟命也；"
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-011-supp-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "患其於所當為者逡巡畏縮，而為之不勇耳。聖人一進之，一退之，所以約之於義理之中，而使之無過不及之患也。」"
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-011-supp-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "女，音汝。○後，謂相失在後。何敢死，謂不赴鬥而必死也。胡氏曰：「先王之制，民生於三，事之如一。惟其所在，則致死焉。況顏淵之於孔子，恩義兼盡，又非他人之為師弟子者而已。即夫子不幸而遇難，回必捐生以赴之矣。"
+      },
+      {
+        "character_count": 48,
+        "id": "chapter-011-supp-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "捐生以赴之，幸而不死，則必上告天子、下告方伯，請討以復讎，不但已也。夫子而在，則回何為而不愛其死，以犯匡人之鋒乎？」"
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-011-supp-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "與，平聲。子然，季氏子弟。自多其家得臣二子，故問之。異，非常也。曾，猶乃也。輕二子以抑季然也。以道事君者，不從君之欲。不可則止者，必行己之志。具臣，謂備臣數而已。與，平聲。意二子既非大臣，則從季氏之所為而已。"
+      },
+      {
+        "character_count": 103,
+        "id": "chapter-011-supp-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "言二子雖不足於大臣之道，然君臣之義則聞之熟矣，弒逆大故必不從之。蓋深許二子以死難不可奪之節，而又以陰折季氏不臣之心也。尹氏曰：「季氏專權僭竊，二子仕其家而不能正也，知其不可而不能止也，可謂具臣矣。是時季氏已有無君之心，故自多其得人。"
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-011-supp-041",
+        "order": 41,
+        "source_block_chunk": 3,
+        "source_block_order": 24,
+        "text": "意其可使從己也，故曰弒父與君亦不從也，其庶乎二子可免矣。」"
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-011-supp-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "子路為季氏宰而舉之也。夫，音扶，下同。賊，害也。言子羔質美而未學，遽使治民，適以害之。言治民事神皆所以為學。惡，去聲。治民事神，固學者事，然必學之已成，然後可仕以行其學。若初未嘗學，而使之即仕以為學，其不至於慢神而虐民者幾希矣。"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-011-supp-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "子路之言，非其本意，但理屈辭窮，而取辨於口以禦人耳。故夫子不斥其非，而特惡其佞也。范氏曰：「古者學而後入政。未聞以政學者也。蓋道之本在於修身，而後及於治人，其說具於方冊。讀而知之，然後能行。何可以不讀書也？"
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-011-supp-044",
+        "order": 44,
+        "source_block_chunk": 3,
+        "source_block_order": 25,
+        "text": "子路乃欲使子羔以政為學，失先後本末之序矣。不知其過而以口給禦人，故夫子惡其佞也。」"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-011-supp-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "坐，才臥反。皙，曾參父，名點。長，上聲。言我雖年少長於女，然女勿以我長而難言。蓋誘之盡言以觀其志，而聖人和氣謙德，於此亦可見矣。言女平居，則言人不知我。如或有人知女，則女將何以為用也？乘，去聲。饑，音機。饉，音僅。比，必二反，下同。"
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-011-supp-046",
+        "order": 46,
+        "source_block_chunk": 2,
+        "source_block_order": 26,
+        "text": "哂，詩忍反。率爾，輕遽之貌。攝，管束也。二千五百人為師，五百人為旅。因，仍也。穀不熟曰饑，菜不熟曰饉。方，向也，謂向義也。民向義，則能親其上，死其長矣。哂，微笑也。求，爾何如，孔子問也，下放此。方六七十里，小國也。如，猶或也。"
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-011-supp-047",
+        "order": 47,
+        "source_block_chunk": 3,
+        "source_block_order": 26,
+        "text": "五六十里，則又小矣。足，富足也。俟君子，言非己所能。冉有謙退，又以子路見哂，故其辭益遜。相，去聲。公西華志於禮樂之事，嫌以君子自居。故將言己志而先為遜辭，言未能而願學也。宗廟之事，謂祭祀。諸侯時見曰會，眾覜曰同。端，玄端服。章甫，禮冠。"
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-011-supp-048",
+        "order": 48,
+        "source_block_chunk": 4,
+        "source_block_order": 26,
+        "text": "相，贊君之禮者。言小，亦謙辭。鏗，苦耕反。舍，上聲。撰，士免反。莫、冠，並去聲。沂，魚依反。雩音于。四子侍坐，以齒為序，則點當次對。以方鼓瑟，故孔子先問求、赤而後及點也。希，間歇也。作，起也。撰，具也。春服，單袷之衣。"
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-011-supp-049",
+        "order": 49,
+        "source_block_chunk": 5,
+        "source_block_order": 26,
+        "text": "浴，盥濯也，今上巳祓除是也。沂，水名，在魯城南，地志以為有溫泉焉，理或然也。風，乘涼也。舞雩，祭天禱雨之處，有壇墠樹木也。詠，歌也。曾點之學，蓋有以見夫人欲盡處，天理流行，隨處充滿，無少欠闕。故其動靜之際，從容如此。"
+      },
+      {
+        "character_count": 105,
+        "id": "chapter-011-supp-050",
+        "order": 50,
+        "source_block_chunk": 6,
+        "source_block_order": 26,
+        "text": "而其言志，則又不過即其所居之位，樂其日用之常，初無舍己為人之意。而其胸次悠然，直與天地萬物上下同流，各得其所之妙，隱然自見於言外。視三子之規規於事為之末者，其氣象不侔矣，故夫子歎息而深許之。而門人記其本末獨加詳焉，蓋亦有以識此矣。夫，音扶。"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-011-supp-051",
+        "order": 51,
+        "source_block_chunk": 7,
+        "source_block_order": 26,
+        "text": "點以子路之志，乃所優為，而夫子哂之，故請其說。夫子蓋許其能，特哂其不遜。與，平聲，下同。曾點以冉求亦欲為國而不見哂，故微問之。而夫子之答無貶辭，蓋亦許之。此亦曾皙問而夫子答也。孰能為之大，言無能出其右者，亦許之之辭。"
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-011-supp-052",
+        "order": 52,
+        "source_block_chunk": 8,
+        "source_block_order": 26,
+        "text": "程子曰：「古之學者，優柔厭飫，有先後之序。如子路、冉有、公西赤言志如此，夫子許之。亦以此自是實事。後之學者好高，如人游心千里之外，然自身卻只在此。」又曰：「孔子與點，蓋與聖人之志同，便是堯、舜氣象也。"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-011-supp-053",
+        "order": 53,
+        "source_block_chunk": 9,
+        "source_block_order": 26,
+        "text": "誠異三子者之撰，特行有不掩焉耳，此所謂狂也。子路等所見者小，子路只為不達為國以禮道理，是以哂之。若達，卻便是這氣象也。」又曰：「三子皆欲得國而治之，故夫子不取。曾點，狂者也，未必能為聖人之事，而能知夫子之志。"
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-011-supp-054",
+        "order": 54,
+        "source_block_chunk": 10,
+        "source_block_order": 26,
+        "text": "故曰浴乎沂，風乎舞雩，詠而歸，言樂而得其所也。孔子之志，在於老者安之，朋友信之，少者懷之，使萬物莫不遂其性。曾點知之，故孔子喟然歎曰「吾與點也。」又曰：「曾點、漆雕開，已見大意。」"
+      }
+    ],
+    "text": "子曰：「先進於禮樂，野人也；後進於禮樂，君子也。\n如用之，則吾從先進。」\n子曰：「從我於陳、蔡者，皆不及門也。」\n德行：顏淵，閔子騫，冉伯牛，仲弓。言語：宰我，子貢。政事：冉有，季路。文學：子游，子夏\n子曰：「回也非助我者也，於吾言無所不說。」\n子曰：「孝哉閔子騫！人不間於其父母昆弟之言。」\n南容三復白圭，孔子以其兄之子妻之。\n季康子問：「弟子孰為好學？」孔子對曰：「有顏回者好學，不幸短命死矣！今也則亡。」\n顏淵死，顏路請子之車以為之槨。\n子曰：「才不才，亦各言其子也。鯉也死，有棺而無槨。吾不徒行以為之槨。以吾從大夫之後，不可徒行也。」\n顏淵死。子曰：「噫！天喪予！天喪予！」\n顏淵死，子哭之慟。從者曰：「子慟矣。」\n曰：「有慟乎？\n非夫人之為慟而誰為！」\n顏淵死，門人欲厚葬之，子曰：「不可。」\n門人厚葬之。\n子曰：「回也視予猶父也，予不得視猶子也。非我也，夫二三子也。」\n季路問事鬼神。子曰：「未能事人，焉能事鬼？」敢問死。曰：「未知生，焉知死？」\n閔子侍側，誾誾如也；子路，行行如也；冉有、子貢，侃侃如也。子樂。\n「若由也，不得其死然。」\n魯人為長府。\n閔子騫曰：「仍舊貫，如之何？何必改作？」\n子曰：「夫人不言，言必有中。」\n子曰：「由之瑟奚為於丘之門？」\n門人不敬子路。子曰：「由也升堂矣，未入於室也。」\n子貢問：「師與商也孰賢？」子曰：「師也過，商也不及。」\n曰：「然則師愈與？」\n子曰：「過猶不及。」\n季氏富於周公，而求也為之聚斂而附益之。\n子曰：「非吾徒也。小子鳴鼓而攻之，可也。」\n柴也愚，\n參也魯，\n師也辟，\n由也喭。\n子曰：「回也其庶乎，屢空。\n賜不受命，而貨殖焉，億則屢中。」\n子張問善人之道。子曰：「不踐跡，亦不入於室。」\n子曰：「論篤是與，君子者乎？色莊者乎？」\n子路問：「聞斯行諸？」子曰：「有父兄在，如之何其聞斯行之？」冉有問：「聞斯行諸？」子曰：「聞斯行之。」公西華曰：「由也問聞斯行諸，子曰『有父兄在』；求也問聞斯行諸，子曰『聞斯行之』。赤也惑，敢問。」子曰：「求也退，故進之；由也兼人，故退之。」\n子畏於匡，顏淵後。子曰：「吾以女為死矣。」曰：「子在，回何敢死？」\n季子然問：「仲由、冉求可謂大臣與？」\n子曰：「吾以子為異之問，曾由與求之問。\n所謂大臣者：以道事君，不可則止。\n今由與求也，可謂具臣矣。」\n曰：「然則從之者與？」\n子曰：「弒父與君，亦不從也。」\n子路使子羔為費宰。\n子曰：「賊夫人之子。」\n子路曰：「有民人焉，有社稷焉。何必讀書，然後為學？」\n子曰：「是故惡夫佞者。」\n子路、曾皙、冉有、公西華侍坐。\n子曰：「以吾一日長乎爾，毋吾以也。\n居則曰：『不吾知也！』如或知爾，則何以哉？」\n子路率爾而對曰：「千乘之國，攝乎大國之間，加之以師旅，因之以饑饉；由也為之，比及三年，可使有勇，且知方也。」夫子哂之。\n「求！爾何如？」對曰：「方六七十，如五六十，求也為之，比及三年，可使足民。如其禮樂，以俟君子。」\n「赤！爾何如？」對曰：「非曰能之，願學焉。宗廟之事，如會同，端章甫，願為小相焉。」\n「點！爾何如？」鼓瑟希，鏗爾，舍瑟而作。對曰：「異乎三子者之撰。」子曰：「何傷乎？亦各言其志也。」曰：「莫春者，春服既成。冠者五六人，童子六七人，浴乎沂，風乎舞雩，詠而歸。」夫子喟然歎曰；「吾與點也！」\n三子者出，曾皙後。曾皙曰：「夫三子者之言何如？」子曰：「亦各言其志也已矣。」\n曰：「夫子何哂由也？」\n曰：「為國以禮，其言不讓，是故哂之。」\n「唯求則非邦也與？」「安見方六七十如五六十而非邦也者？」\n「唯赤則非邦也與？」「宗廟會同，非諸侯而何？赤也為之小，孰能為之大？」",
+    "title": "先進第十一"
+  },
+  "chapter_path": "books/lunyu/chapters/chapter-011.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 論語集注",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/lun-yu-ji-zhu?if=en"
+}

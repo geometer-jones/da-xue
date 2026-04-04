@@ -1,0 +1,99 @@
+{
+  "chapter": {
+    "character_count": 344,
+    "id": "chapter-002",
+    "order": 2,
+    "reading_unit_count": 6,
+    "reading_units": [
+      {
+        "character_count": 53,
+        "id": "chapter-002-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "孫子 曰 ： 凡 用兵 之 法 ， 馳車千駟 ， 革 車 千 乘 ，帶甲 十萬 ， 千里饋糧 ，則 內外 之 費 ， 賓客 之 用 ，膠漆 之 材 ， 車 甲 之 奉 ，日 費 千金 ， 然後 十萬 之 師 舉 矣 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Tzŭ said: In the operations of war, where there are in the field a thousand swift chariots, as many heavy chariots, and a hundred thousand mail-clad soldiers, with provisions enough to carry them a thousand li, the expenditure at home and at the front, including entertainment of guests, small items such as glue and paint, and sums spent on chariots and armour, will reach the total of a thousand ounces of silver per day. Such is the cost of raising an army of 100,000 men."
+          }
+        }
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-002-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "其 用 戰 也 貴 勝 ， 久 則 鈍 兵 挫 銳 ，攻城則力屈 ，久 暴 師 則 國 用 不足 。夫 鈍 兵 挫 銳 ， 屈 力 殫 貨 ， 則 諸侯 乘 其 弊 而 起 ， 雖 有 智者 ， 不能 善 其後 矣 。故 兵 聞 拙 速 ， 未 睹 巧 之 久 也 。夫 兵 久 而 國 利 者 ， 未 之 有 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When you engage in actual fighting, if victory is long in coming, then men's weapons will grow dull and their ardour will be damped. If you lay siege to a town, you will exhaust your strength. Again, if the campaign is protracted, the resources of the State will not be equal to the strain. Now, when your weapons are dulled, your ardour damped, your strength exhausted and your treasure spent, other chieftains will spring up to take advantage of your extremity. Then no man, however wise, will be able to avert the consequences that must ensue. Thus, though we have heard of stupid haste in war, cleverness has never been seen associated with long delays. There is no instance of a country having benefited from prolonged warfare."
+          }
+        }
+      },
+      {
+        "character_count": 45,
+        "id": "chapter-002-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "故 不盡 知 用兵 之 害 者 ， 則 不能 盡 知 用兵 之 利 也 。善用 兵 者 ， 役 不再 籍 ， 糧 不 三 載 ；取用 於 國 ， 因 糧 於 敵 ， 故 軍食 可 足 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is only one who is thoroughly acquainted with the evils of war that can thoroughly understand the profitable way of carrying it on. The skilful soldier does not raise a second levy, neither are his supply-wagons loaded more than twice. Bring war material with you from home, but forage on the enemy. Thus the army will have food enough for its needs."
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-002-line-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "國 之 貧 於 師 者 遠 輸 ， 遠 輸 則 百姓 貧 ；近 於 師 者 貴 賣 ， 貴 賣 則 百姓 財 竭 ，財 竭 則 急於 丘 役 。力 屈 財 殫 ， 中原 內 虛 於 家 。 百姓 之 費 ， 十 去 其 七 ；公家 之 費 ， 破 車 罷 馬 ， 甲胄 矢 弩 ， 戟 楯 蔽 櫓 ， 丘 牛 大車 ， 十 去 其 六 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Poverty of the State exchequer causes an army to be maintained by contributions from a distance. Contributing to maintain an army at a distance causes the people to be impoverished. On the other hand, the proximity of an army causes prices to go up; and high prices cause the people's substance to be drained away. When their substance is drained away, the peasantry will be afflicted by heavy exactions. With this loss of substance and exhaustion of strength, the homes of the people will be stripped bare, and three-tenths of their income will be dissipated; while Government expenses for broken chariots, worn-out horses, breast-plates and helmets, bows and arrows, spears and shields, protective mantles, draught-oxen and heavy wagons, will amount to four-tenths of its total revenue."
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-002-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "故 智將 務 食 於 敵 ， 食 敵 一 鍾 ，當 吾 二十 鍾 ； 𦮼 稈 一 石 ， 當 吾 二十 石 。故殺 敵 者 ， 怒 也 ； 取 敵 之 利 者 ， 貨 也 。故 車 戰 ， 得 車 十 乘以 上 ， 賞 其先 得 者 ，而 更 其 旌旗 。 車 雜 而 乘 之 ， 卒 善 而 養 之 ，是 謂 勝 敵 而 益 強 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hence a wise general makes a point of foraging on the enemy. One cartload of the enemy's provisions is equivalent to twenty of one's own, and likewise a single picul of his provender is equivalent to twenty from one's own store. Now in order to kill the enemy, our men must be roused to anger; that there may be advantage from defeating the enemy, they must have their rewards. Therefore in chariot fighting, when ten or more chariots have been taken, those should be rewarded who took the first. Our own flags should he substituted for those of the enemy, and the chariots mingled and used in conjunction with ours. The captured soldiers should be kindly treated and kept. This is called, using the conquered foe to augment one's own strength."
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-002-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "故 兵 貴 勝 ， 不 貴 久 。故知 兵 之 將 ， 生民 之 司命 ， 國家 安危 之 主 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In war, then, let your great object be victory, not lengthy campaigns. Thus it may be known that the leader of armies is the arbiter of the people's fate, the man on whom it depends whether the nation shall be in peace or in peril."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "孫子曰：凡用兵之法，馳車千駟，革車千乘，帶甲十萬；千里饋糧，則內外之費賓客之用，膠漆之材，車甲之奉，日費千金，然後十萬之師舉矣。\n其用戰也，勝久則鈍兵挫銳，攻城則力屈，久暴師則國用不足。夫鈍兵，挫銳，屈力，殫貨，則諸侯乘其弊而起，雖有智者，不能善其後矣！故兵聞拙速，未睹巧之久也；夫兵久而國利者，未之有也。\n故不盡知用兵之害者，則不能盡知用兵之利也。善用兵者，役不再籍，糧不三載，取用于國，因糧于敵，故軍食可足也。國之貧于師者遠輸，遠輸則百姓貧，近于師者貴賣，貴賣則百姓財竭，財竭則急于丘役，力屈財殫，中原內虛于家，百姓之費，十去其七，公家之費，破車罷馬，甲冑矢弩，戟楯蔽櫓，丘牛大車，十去其六。\n故智將務食於敵，食敵一鍾，當吾二十鍾，𦮼秆一石，當我二十石。故殺敵者怒也，取敵之利者貨也。故車戰，得車十乘以上，賞其先得者，而更其旌旗，車雜而乘之，卒善而養之，是謂勝敵而益強。\n故兵貴勝，不貴久；故知兵之將，民之司命，國家安危之主也。",
+    "title": "作戰"
+  },
+  "chapter_path": "books/sunzi-bingfa/chapters/chapter-002.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "The Art of War",
+  "source_url": "https://ctext.org/art-of-war?if=en"
+}

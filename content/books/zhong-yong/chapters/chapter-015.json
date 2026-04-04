@@ -1,0 +1,60 @@
+{
+  "chapter": {
+    "character_count": 52,
+    "id": "chapter-015",
+    "order": 15,
+    "reading_unit_count": 3,
+    "reading_units": [
+      {
+        "character_count": 18,
+        "id": "chapter-015-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "君子之道，辟如行遠必自邇，辟如登高必自卑。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the archer misses the center of the target, he turns round and seeks for the cause of his failure in himself."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-015-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "詩曰：「妻子好合，如鼓瑟琴；兄弟既翕，和樂且耽；宜爾室家；樂爾妻帑。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The way of the superior man may be compared to what takes place in traveling, when to go to a distance we must first traverse the space that is near, and in ascending a height, when we must begin from the lower ground."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-015-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "子曰：「父母其順矣乎！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said in the Book of Poetry, \"Happy union with wife and children is like the music of lutes and harps. When there is concord among brethren, the harmony is delightful and enduring. Thus may you regulate your family, and enjoy the pleasure of your wife and children.\" The Master said, \"In such a state of things, parents have entire complacence!\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "君子之道，辟如行遠必自邇，辟如登高必自卑。\n詩曰：「妻子好合，如鼓瑟琴；兄弟既翕，和樂且耽；宜爾室家；樂爾妻帑。」\n子曰：「父母其順矣乎！」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-015.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

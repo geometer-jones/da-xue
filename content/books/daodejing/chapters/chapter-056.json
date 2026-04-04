@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 66,
+    "id": "chapter-056",
+    "order": 56,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 66,
+        "id": "chapter-056-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "知者不言，言者不知。塞其兑，閉其門，挫其銳，解其分，和其光，同其塵，是謂玄同。故不可得而親，不可得而踈；不可得而利，不可得而害；不可得而貴，不可得而賤。故為天下貴。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He who knows (the Tao) does not (care to) speak (about it); he who is (ever ready to) speak about it does not know it. He (who knows it) will keep his mouth shut and close the portals (of his nostrils). He will blunt his sharp points and unravel the complications of things; he will attemper his brightness, and bring himself into agreement with the obscurity (of others). This is called 'the Mysterious Agreement.' (Such an one) cannot be treated familiarly or distantly; he is beyond all consideration of profit or injury; of nobility or meanness:--he is the noblest man under heaven."
+          }
+        }
+      }
+    ],
+    "summary": "知者不言，言者不知",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "知者不言，言者不知。塞其兑，閉其門，挫其銳，解其分，和其光，同其塵，是謂玄同。故不可得而親，不可得而踈；不可得而利，不可得而害；不可得而貴，不可得而賤。故為天下貴。",
+    "title": "第56章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-056.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

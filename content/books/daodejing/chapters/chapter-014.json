@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 94,
+    "id": "chapter-014",
+    "order": 14,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 94,
+        "id": "chapter-014-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "視 之 不見 名 曰 夷 ， 聽 之 不 聞名 曰 希 ， 搏 之 不得 名 曰 微 。 此 三 者 ， 不可 致 詰 ， 故 混 而 為 一 。其 上 不 皦 ， 其 下 不 昧 。 繩 繩 不可 名 ， 復歸 於 無物 。 是 謂 無狀 之 狀 ， 無物 之 象 ，是 謂 惚 恍 。迎 之 不見 其 首 ， 隨之 不見 其後 。 執 古 之 道 ， 以 御 今 之 有 。能 知 古 始 ， 是 謂 道 紀 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We look at it, and we do not see it, and we name it 'the Equable.' We listen to it, and we do not hear it, and we name it 'the Inaudible.' We try to grasp it, and do not get hold of it, and we name it 'the Subtle.' With these three qualities, it cannot be made the subject of description; and hence we blend them together and obtain The One. Its upper part is not bright, and its lower part is not obscure. Ceaseless in its action, it yet cannot be named, and then it again returns and becomes nothing. This is called the Form of the Formless, and the Semblance of the Invisible; this is called the Fleeting and Indeterminable. We meet it and do not see its Front; we follow it, and do not see its Back. When we can lay hold of the Dao of old to direct the things of the present day, and are able to know it as it was of old in the beginning, this is called (unwinding) the clue of Dao."
+          }
+        }
+      }
+    ],
+    "summary": "視之不見，名曰夷；聽之不聞，名曰希；搏之不得，名曰微",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "視之不見，名曰夷；聽之不聞，名曰希；搏之不得，名曰微。此三者不可致詰，故混而為一。其上不皦，其下不昧。繩繩不可名，復歸於無物。是謂無狀之狀，無物之象，是謂惚恍。迎之不見其首，隨之不見其後。執古之道，以御今之有。能知古始，是謂道紀。",
+    "title": "第14章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-014.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

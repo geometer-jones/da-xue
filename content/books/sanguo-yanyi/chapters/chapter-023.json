@@ -1,0 +1,918 @@
+{
+  "chapter": {
+    "character_count": 4483,
+    "id": "chapter-023",
+    "order": 23,
+    "reading_unit_count": 69,
+    "reading_units": [
+      {
+        "character_count": 95,
+        "id": "chapter-023-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說曹操欲斬劉岱、王忠。孔融諫曰：「二人本非劉備敵手，若斬之，恐失將士之心。」操乃免其死，黜罷爵祿，欲自起兵伐玄德。孔融曰：「方今隆冬盛寒，未可動兵；待來春未為晚也。可先使人招安張繡、劉表，然後再圖徐州。」操然其言，先遣劉曄往說張繡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wherefore the death sentence was not executed but they were deprived of rank and status. Tsʻao next proposed to lead an army himself to attack Liu Pei, but the weather was too inclement. So it was settled to await the return of spring. In the interval there would be time to arrange peace with Chang Hsiu and Liu Piao. Wherefore Liu Yeh was sent to the former of these and in due time reached Hsiangchʻêng. He first had an interview with Chia Hsü, whereat he dwelt upon Tsʻao’s virtues so that Hsü was impressed, kept him as a guest and undertook to smooth his way. Soon after he saw Chang Hsiu and spoke of the advantages of coming to terms with Tsʻao Tsʻao. While the discussion was in progress a messenger from Yüan Shao was announced and he was called in. He presented letters and, when they also proposed terms of peace, Chia Hsü asked what their success had been lately against Tsʻao."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-023-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "曄至襄城，先見賈詡，陳說曹公盛德。詡乃留曄於家中。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The war had ceased for the moment on account of the winter,” replied the messenger. “As you, General, and Liu Piao are both well reputed officers of the State, I have been sent to request your help.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-023-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "次日來見張繡說曹公遣劉曄招安之事。正議間忽報袁紹有使至。繡命入。使者呈上書信。繡覽之亦是招安之意。詡問來使曰「近日興兵破曹操勝負如何」使曰「隆冬寒月權且罷兵。今以將軍與荊州劉表俱有國士之風故來相請耳。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chia Hsü laughed, “You can return to your master and say that as he could not brook rivalry of his brother he certainly would be sorely put to it with that of all the officers of the State.” The letter was torn into fragments before the messenger’s face and he was angrily bidden begone. “But his master, Yüan Shao, is stronger than Tsʻao Tsʻao,” protested Chang Hsiu. “You have torn up his letter and are dismissing his man. What shall we say about such an insult should Yüan Shao come?” “Better join hands with Tsʻao Tsʻao,” said Chia Hsü. ​ “But there is still between us an unavenged enmity, we could not suffer each other.”"
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-023-line-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "詡大笑曰「汝可回見本初道『汝兄弟尚不能容何能容天下國士乎」』當面扯碎書叱退來使。張繡曰「方今袁強曹弱今毀書叱使袁紹若至當如之何」詡曰「不如去從曹操。繡曰「吾先與操有讎安得相容」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chia Hsü said, “There are three advantages in joining hands with Tsʻao. First, he has a command from the Emperor to restore peace. Secondly, as Yüan Shao is so strong our little help to him will be despised, while we shall loom large and be well treated by Tsʻao Tsʻao. Thirdly, Tsʻao is going to be Chief of the Feudal Lords and he will ignore all private feuds in order to show his magnanimity to all the world. I hope, General, you will see these things clearly and hesitate no longer.”"
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-023-line-005",
+        "order": 5,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "詡曰「從操其便有三夫曹公奉天子明詔征伐天下其宜從一也紹強盛我以少從之必不以我為重操雖弱得我必喜其宜從二也曹公王霸之志必釋私怨以明德於四海其宜從三也。願將軍無疑焉。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang Hsiu, now convinced, became more reasonable and recalled the messenger, who, at the interview, extolled the many virtues of his master. “If the Minister had any thought of the old quarrel he would hardly have sent me to make friendly engagements: would he?” said he at the last. So Chang and his adviser proceeded to the capital where formal submission was made. At the interview the visitor bowed low at the steps, but Tsʻao Tsʻao, hastening forward, took him by the hand and raised him saying, “Forget that little fault of mine, I pray you.” Chang Hsiu received the title of Yang-wu General (“Prowess-in-War” General) and Chia Hsü that of Chih Chin-wu (Controller of the Ways)."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-023-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "繡從其言請劉曄相見。曄盛稱操德且曰「丞相若記舊怨安肯使某來結好將軍乎」繡大喜即同賈詡等赴許都投降。繡見操拜於階下。操忙扶起執其手曰「有小過失勿記於心。」遂封繡為揚武將軍封賈詡為執金吾使。操即命繡作書招安劉表。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tsʻao then directed his secretaries to draft letters inviting the support of Liu Piao. Chia Hsü said, “Liu Ching-shêng loves to have to do with famous people. If some famous scholar should be sent to him he would submit forthwith.” So Tsʻao enquired of Hsün Yu who was the best man to go as a messenger and he recommended K‘ung Jung. Tsʻao agreed and sent him to speak with this officer. So he went to K‘ung, saying, “A scholar of reputation is required to act as a messenger of State; can you undertake this task?” Kʻung Jung replied, “I have a certain friend, Mi Hêng, whose talents are ten times mine. He ought to be constantly at the Court of the Emperor and not merely be sent as a State messenger. I will recommend him to the Emperor.” So he wrote the following memorial:—"
+          }
+        }
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-023-line-007",
+        "order": 7,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "賈詡進曰：「劉景升好結納名流，今必得一有文名之士往說之，方可降耳。」操問荀攸曰：「誰人可去？」攸曰：「孔文舉可當其任。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“In ancient days, when the great waters were abroad, the Emperor pondered over their regulation and he sought out men of talent from all directions. In old time, when the Emperor Wu of the Hans desired to enlarge his borders, crowds of scholars responded to his call. “Intelligent and holy, Your Majesty ascended the throne. You have fallen upon evil days, but have been diligent, modest and untiring in your efforts. Now the great mountains have sent forth spirits and men of genius appear."
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-023-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "操然之。攸出見孔融曰：「丞相欲得一有文名之士，以備行人之選。公可當此任否？」融曰：「吾友禰衡，字正平，其才十倍於我。此人宜在帝左右，不但可備行人而已。我當薦之天子。」於是遂上表奏帝。其文曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “I, your humble servant, know of a certain simple scholar, Mi Hêng by name, of P‘ingyüan, a young man of twenty-four. His moral character is excellent, his talents eminent. As a youth he took a high place in study and penetrated the most secret arcana of learning. What he glanced at he could repeat, what he heard once he never forgot. He is naturally high principled and his thoughts are divine. Hung-yang’s mental calculations and An-shih’s mnemonical feats compared with Mi Hêng’s powers are no longer wonderful. Loyal, sincere, correct and straight-forward, his ambition is unsullied. He regards the good with trembling respect, he detests the evil with uncompromising hatred. Jên Tso in unflinching candour, Shih Yü in severe rectitude, never surpassed him. “Hundreds of hawks are not worth one osprey. If Mi Hêng be given a Court appointment notable results must follow. Ready in debate, rapid in utterance, his overwhelming intelligence wells up in profusion; in the solution of doubts and the unravelling of difficulties he has no peer."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-023-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "臣聞洪水橫流，帝思俾乂；旁求四方，以招賢俊。昔世宗繼統，將弘基業；疇咨熙載，群士響臻。陛下叡聖，纂承基緒，遭遇厄運，勞謙日昃；維嶽降神，異人並出。竊見處士平原禰衡：年二十四，字正平，淑質貞亮，英才卓礫；初涉藝文，升堂睹奧。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“In former days Chia I begged to be sent on trial to a vassal State to be responsible for the arrest of Shan Yü; Chung Chün offered to bring the Prince of Nanyüeh as with a pair of long reins. The generous conduct of these youths has been much admired. In our day Lu Tsui and Yen Hsiang, remarkable for their talents, have been appointed among the secretaries. And Mi Hêng is no less capable. Should he be got, then all possibilities may be realised; the dragon may curvet through the celestial streets and soar along the Milky Way; fame will extend to the poles of the universe and hang in the firmament with rainbow glory. He would be the glory of all the present Ministers and enhance the majesty of the Palace itself. The air Chun-t‘ien will acquire new beauties and the Palace will contain an excellent treasure. Men like Mi Hêng are but few. As in the recitation of Chi-ch‘u and the singing of Yang-o the most skilful performers are sought, and such fleet horses as Fei-t‘u and Yao-miao were looked for by the famous judges of horses, Wang Liang and Pai Lo, so I, the humble one, dare not conceal this man. Your Majesty is careful in the selection of servants and should try him. Let him be summoned as he is, simply clad in his serge dress, and should he not appear worthy then may I be punished for the fault of deception.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-023-line-010",
+        "order": 10,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "目所一見，輒誦之口；耳所暫聞，不忘於心。性與道合，思若有神。弘羊潛計，安世默識，以衡準之，誠不足怪。忠果正直，志懷霜雪；見善若驚，嫉惡若讎。任座抗行，史魚厲節，殆無以過也。鷙鳥累百，不如一鶚。使衡立朝，必有可觀，飛辯聘詞，溢氣坌涌；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Emperor read the memorial and passed it to his Minister, who duly summoned Mi Hêng. He came, but after his formal salutations were over he was left standing and not invited to sit down. Looking up to heaven he sighed deeply, saying, “Wide as is the universe it cannot produce the man.” “Under my orders are scores of men whom the world call heroes. What do you mean by saying there is not the man?” said Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-023-line-011",
+        "order": 11,
+        "source_block_chunk": 3,
+        "source_block_order": 5,
+        "text": "解疑釋結，臨敵有餘。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I should be glad to hear who they are,” said Mi."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-023-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "昔賈誼求試屬國，詭係單于；終軍欲以長纓，牽制勁越；弱冠慷慨，前世美之；近日路粹、嚴象，亦用異才，擢拜臺郎：衡宜與為比。如龍躍天衢，振翼雲漢，揚聲紫微，垂光虹蜺，足以昭近署之多士，增四門之穆穆。鈞天廣樂，必有奇麗之觀；帝室王居，必蓄非常之寶。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “Hsün Yü and Hsün Yu, Kuo Chia and Ch‘êng Yü are all men of profound skill and long views, superior to Hsiao Ho and Ch‘ên P‘ing; Chang Liao and Hsü Chu, Li Tien and Yo Chin are bravest of the brave, better than Tsên P‘êng and Ma Wu. Lü Ch‘ien and Man Ch‘ung are my secretaries, Yü Chin and Hsü Huang are my van-leaders; Hsiahou Tun is one of the world’s marvels and Ts‘ao Tzŭ-hsiao is the most successful leader of the age. Now say you there are not the men?”"
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-023-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "若衡等輩，不可多得。《激楚》、《陽阿》，至妙之容，掌伎者之所貪；飛兔、騕褭，絕足奔放，良、樂之所急也。臣等區區，敢不以聞？陞下篤慎取士，必須效試，乞令衡以褐衣召見。如無可觀釆，臣等受面欺之罪。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Sir, you are quite mistaken,” said Mi Hêng with a smile. “I know all these things you call men. Hsün Yü is qualified to pose at a funeral or ask after a sick man. Hsün Yu is fit to be a tomb guardian. Ch‘êng Yü might be sent to shut doors and bolt windows, and Kuo Chia is a reciter of poems; Chang Liao might beat drums and clang gongs; Hsü Chu might lead cattle to pasture; Yo Chin would make a fair confidential clerk of the Court; Li Tien could carry despatches and notices; Lü Ch‘ien would be a fair armourer; Man Ch‘ung could be sent to drink wine and eat brewers’ grains; Yü Chin might be of use to carry planks and build walls; Hsü Huang might be employed to kill pigs and slay dogs; Hsiahou Tun should be styled ‘Whole Body’ General and Ts‘ao Tzŭ-hsiao should be called ‘Money-grubbing Prefect.’ As for the remainder, they are mere clothes-horses, rice-sacks, wine butts, flesh bags.”"
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-023-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "帝覽表，以付曹操。操遂使人召衡至。禮畢，操不命坐。禰衡仰天歎曰：「天地雖闊，何無一人也！」操曰：「吾手下有數十人，皆當世英雄，何謂無人？」衡曰：「願聞。」操曰：「荀彧、荀攸、郭嘉、程昱，機深智遠，雖蕭何、陳平不及也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“And what special gifts have you?” said Ts‘ao Ts‘ao angrily. “I know everything in heaven above and the earth beneath. I am conversant with the Three Religions and the Nine Systems of Philosophy. I could make my prince the rival of Yao and Shun and I myself could compare in virtue with K‘ung and Yen. Can I discuss on even terms with common people?” Now Chang Liao was present and he raised his sword to strike down the impudent visitor who spoke thus to his master, but Ts‘ao Ts‘ao said, “I want another drummer boy to play on occasions of congratulation in the Court. I will confer this office upon him.”"
+          }
+        }
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-023-line-015",
+        "order": 15,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "張遼、許褚、樂進、李典，勇不可當，雖岑彭、馬武不及也。呂虔、滿寵為從事；于禁、徐晃為先鋒。夏侯惇天下奇才，曹子孝世間福將。安得無人？」衡笑曰：「公言差矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Instead of indignantly declining this Mi Hêng accepted the position and went out. “He spoke very impertinently,” said Liao; “Why did you not put him to death?” “He has something of a reputation; empty, but people have heard of him and so, if I put him to death, they would say I was intolerant. As he thinks he has ability I have made him a drummer to mortify him.”"
+          }
+        }
+      },
+      {
+        "character_count": 104,
+        "id": "chapter-023-line-016",
+        "order": 16,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "此等人物，吾盡識之：荀彧可使弔喪問疾，荀攸可使看墳守墓，程昱可使關門閉戶，郭嘉可使白詞念賦，張遼可使擊鼓鳴金，許褚可使牧牛放馬，樂進可使取狀讀詔，李典可使傳書送檄，呂虔可使磨刀鑄劍，滿寵可使飲酒食糟，于禁可使負版築牆，徐晃可使屠豬殺狗。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Soon after Tsʻao instituted a banquet in the capital at which the guests were many. The drums were to be played and the old drummers were ordered to wear new clothes. But the new drummer took his place with the other musicians clad in old and worn garments. The piece chosen was Yü-yang ( or “Fishing”) and from the earliest taps on the drum the effect was exquisite, profound as the notes from metal and stone. ​ The performance stirred deeply the emotions of every guest, some even shed tears. Seeing all eyes turned on the shabby performer the attendants said, “Why did you not put on your new uniform?” Mi Hêng turned to them, slipped off his frayed and torn robe and stood there in full view, naked as he was born. The assembled guests covered their faces. Then the drummer composedly drew on his nether garments. “Why do you behave so rudely at Court?” said Ts‘ao Ts‘ao. “To flout one’s prince and insult one’s superiors is the real rudeness,” cried Mi Hêng. “I bare my natural body as an emblem of my purity.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-023-line-017",
+        "order": 17,
+        "source_block_chunk": 4,
+        "source_block_order": 7,
+        "text": "夏侯惇稱為『完體將軍』，曹子孝呼為『要錢太守』。其餘皆是衣架飯囊，酒桶肉袋耳！」操怒曰：「汝有何能？」衡曰：「天文地理，無一不通；三教九流，無一不曉；上可以致君為堯、舜，下可以配德於孔、顏。豈與俗子共論乎！」時止有張遼在側，掣劍欲斬之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“So you are pure! And who is foul?” “You do not distinguish between the wise and the foolish; which is to have foul vision; you have never read the Odes or the Histories, which is to have foul speech; you are deaf to honest words, which is to have foul ears; you are unable to reconcile antiquity with to-day, which is to be foul without; you cannot tolerate the nobles, which is to be foul within; you harbour thoughts of rebellion, which is to have a foul heart. I am the most famous scholar in the world and you make me a drummer boy, that is as Yang Huo belittling Chung-ni (Confucius) or Tsang Ts‘ang vilifying Mêng, the Philosopher (Mencius). You desire to be chief and arbitrator of the great nobles, yet you treat me thus!”"
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-023-line-018",
+        "order": 18,
+        "source_block_chunk": 5,
+        "source_block_order": 7,
+        "text": "操曰：「吾正少一鼓吏；早晚朝賀宴享，可令禰衡充此職。」衡不推辭，應聲而去。遼曰：「此人出言不遜，何不殺之？」操曰：「此人素有虛名，遠近所聞。今日殺之，天下必謂我不能容物，彼自以為能，故令為鼓吏以辱之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now K‘ung Jung who had recommended Mi Hêng for employment was among the guests and he feared for the life of his friend. Wherefore he tried to calm the storm. “Mi Hêng is only guilty of a misdemeanour like Hsü Mi’s,” cried he. “He is not a man likely to disturb your dreams, illustrious Prince.” Pointing to Mi Hêng the Minister said, “I will send you to Chingchou as my messenger and if Liu Piao surrender to me I will give you a post at Court.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-023-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "來日，操於省廳上大宴賓客，令鼓吏撾鼓。舊吏云：「撾鼓必換新衣。」衡穿舊衣而入，遂擊鼓為《漁陽三撾》，音節殊妙，淵淵有金石聲。坐客聽之，莫不慷慨流涕。左右喝曰：「何不更衣！」衡當面脫下舊破衣服，裸體而立，渾身盡露。坐客皆掩面。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Hêng was unwilling to go. So Ts‘ao Ts‘ao bade two of his men prepare three horses and they set Hêng on the middle one and dragged him along the road between them. It is also related that a great number of officers of all ranks assembled at the east gate to see the messenger start. Hsün Yü said, “When Mi Hêng comes we will not rise to salute him.” So when Hêng came, dismounted and entered the waiting room, they all sat stiff and silent. Mi Hêng uttered a loud cry. “What is that for?” said Hsün Yü. “Should not one cry out when one enters a coffin?” said Mi Hêng."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-023-line-020",
+        "order": 20,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "衡乃徐徐著褲，顏色不變。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“We may be corpses,” cried they altogether, “but you are a wandering ghost.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-023-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "操叱曰「廟堂之上何太無禮」衡曰「欺君罔上乃謂無禮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am a Minister of Han and not a partizan of Ts‘ao’s,” cried he. “You cannot say I have no head.”"
+          }
+        }
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-023-line-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "吾露父母之形以顯清白之體耳」操曰「汝為清白誰為汙濁」衡曰「汝不識賢愚是眼濁也不讀詩書是口濁也不納忠言是耳濁也不通古今是身濁也不容諸侯是腹濁也常懷篡逆是心濁也吾乃天下名士用為鼓吏是猶陽貨輕仲尼、臧倉毀孟子耳欲成霸王之業而如此輕人耶」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ They were angry enough to kill him, but Hsün Yü checked them. “He is a paltry fellow, it is not worth soiling your blades with his blood.” “I am paltry, am I? Yet I have the soul of a man and you are mere worms,” said Mi Hêng. They went their ways all very angry. Mi Hêng went on his journey and presently reached Chingchou, where he saw Liu Piao. After that, under pretence of extolling his virtue, he lampooned Piao, who was annoyed and sent him to Chianghsia to see Huang Tsu. “Why did you not put the fellow to death for lampooning you?” said one to Liu Piao. “You see he shamed Ts‘ao Ts‘ao, but Ts‘ao did not kill him as he feared to lose popular favour. So he sent him to me, thinking to borrow my hand to slay him and so suffer the loss of my good name. I have sent him on to Huang Tsu to let Ts‘ao see that I understood.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-023-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "時孔融在坐恐操殺衡乃從容進曰「禰衡罪同胥靡不足發明王之夢。」操指衡而言曰「令汝往荊州為使。如劉表來降便用汝作公卿。」衡不肯往。操備馬三匹令二人扶挾而行卻教手下文武整酒於東門外送之。荀彧曰「如禰衡來不可起身。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His clever caution met with general praise. At that time a messenger from Yüan Shao was also there with certain proposals for an alliance and it was necessary to decide which side to espouse. All the advisers came together to consider the question. Then the secretary, Han Sung, said, “As you have now two offers you can please yourself and choose your own way to destroy your enemies, for if one refuse you can follow the other. Now Ts‘ao Ts‘ao is an able general and has many capable men in his train. It looks as though he may destroy Yüan Shao and then move his armies across the river. I fear, General, you would be unable then to withstand him. That being so it would be wise to support Ts‘ao Ts‘ao, who will treat you with respect.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-023-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "衡至。下馬入見眾皆端坐。衡放聲大哭。荀彧問曰「何為而哭」衡曰「行於死柩之中如何不哭」眾皆曰「吾等是死屍汝乃無頭狂鬼耳」衡曰「吾乃漢朝之臣不作曹瞞之黨安得無頭」眾欲殺之。苟彧急止之曰「量鼠雀之輩何足汙刀」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Piao replied, “You go to the capital and see how things tend. That will help me to decide.” Han Sung said, “The positions of master and servant are clearly defined. Now I am your man prepared to go all lengths for you and obey you to the last, whether in serving the Emperor or in following Ts‘ao Ts‘ao. But lest there should be any doubt you must remember that if the Emperor gives me any office then I shall become his servant and shall not be ready to face death for you.”"
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-023-line-025",
+        "order": 25,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "」衡曰：「吾乃鼠雀，尚有人性；汝等只可謂之蜾蟲！」眾恨而散。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You go and find out what you can. I have ideas in my mind.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-023-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "衡至荊州，見劉表畢，雖頌德，實譏諷。表不喜，令去江夏見黃祖。或問表曰：「禰衡戲謔主公，何不殺之？」表曰：「禰衡數辱曹操，操不殺者，恐失人望；故令作使於我，欲借我手殺之，使我受害賢之名也。吾今遣去見黃祖，使曹操知我有識。」眾皆稱善。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Han Sung took his leave and went to the capital, where he saw Tsʻao. Ts‘ao gave him rank and made him Prefect of Lingling. The adviser Hsün Yü remonstrated, saying, “This man came to spy out how things were moving. He has done nothing to deserve reward and yet you give him an office like this. There were no such suspicious rumours connected with poor Mi Hêng and yet you sent him off and would never test his powers.” ​ “Mi Hêng shamed me too deeply before all the world. I am going to borrow Liu Piao’s hand to remove him. And you need say no more,” said Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-023-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "時袁紹亦遣使至。表問眾謀士曰：「袁本初又遣使來，曹孟德又差禰衡在此，當從何便？」從事中郎將韓嵩進曰：「今兩雄相持，將軍若欲有為，乘此破敵可也。如其不然，將擇其善者而從之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Ts‘ao sent Han Sung back to his former master to tell him what had happened. He came and was full of praise for the virtues of the Court and was keen on persuading Piao to espouse that side. Then Liu Piao suddenly turned angry, charged him with treachery and threatened him with death. “You turn your back on me;” cried Han Sung. “I did not betray you.”"
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-023-line-028",
+        "order": 28,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "今曹操善能用兵，賢俊多歸，其勢必先取袁紹，然後移兵向江東，恐將軍不能禦；莫若舉荊州以附操，操必重待將軍矣。」表曰：「汝且去許都，觀其動靜，再作商議。」嵩曰：「君臣各有定分。嵩今事將軍，雖赴湯蹈火，一唯所命。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘uai Liang remarked that Han Sung had foretold this possibility before he left, it was only what he expected. Liu Piao, who was just and reasonable, went no further. Presently came the news that Mi Hêng had been put to death by Huang Tsu on account of a quarrel begun over the wine cups. Both being worse for liquor they had begun to discuss the worth of people. “You were born in Hsütu,” said Huang. “Who was there of worth?” “The big boy was K‘ung Jung and the little on Yang Tê-tsu. There was no one else to count.”"
+          }
+        }
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-023-line-029",
+        "order": 29,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "將軍若能上順天子，下從曹公，使嵩可也；如持疑未定，嵩到京師，天子賜嵩一官，則嵩為天子之臣，不得復為將軍死矣。」表曰：「汝且先往觀之。吾別有主意。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What am I like?” said Huang. “You are like a god in a temple; you sit still and receive sacrifice, but the lack of intelligence is pitiful.” “Do you regard me as a mere image?” cried Huang Tsu, angry. So he put the impudent speaker to death. Even at the very point of death Mi never ceased his railing and abuse."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-023-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "嵩辭表，到許都見操。操遂拜嵩為侍中，領零陵太守。荀彧曰：「韓嵩來觀動靜，未有微功，重加此職。禰衡又無音耗，丞相遣而不問，何也？」操曰：「禰衡辱吾太甚，故借劉表手殺之，何必再問？」遂遣韓嵩回荊州說劉表。嵩回見表，稱頌朝廷盛德，勸表遣子入侍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Alas!” sighed Liu Piao, when he heard of his fate. He had the victim honourably interred near Yingwuchou. And a later poet wrote of him:— Huang Tsu could brook no rival; at his word Mi Hêng met death beneath the cruel sword. His grave on Parrot Isle may yet be seen, The river flowing past it, coldly green. Ts‘ao Ts‘ao heard of the young man’s death with pleasure. “The putrid bookwork has just cut himself up with his own sharp tongue,” said he. As there was no sign of Liu Piao coming to join him, Ts‘ao Ts‘ao began to think of coercion. The adviser, Hsün Yü, dissuaded him from this course."
+          }
+        }
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-023-line-031",
+        "order": 31,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "表大怒曰：「汝懷二心耶！」欲斬之。嵩大叫曰：「將軍負嵩，嵩不負將軍！」蒯良曰：「嵩未去之前，先有此言矣。」劉表遂赦之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Said he, “Yüan Shao is not subjugated, Liu Pei is not destroyed. To attack Liu Piao would be to neglect the vital to care for the immaterial. Destroy the two chief enemies first and Chiang-han is yours at one blow.” And Ts‘ao Ts‘ao took the advice."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-023-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "人報黃祖斬了禰衡表問其故。對曰「黃祖與禰衡共飲皆醉。祖問衡曰『君在許都有何人物』衡曰『大兒孔文舉小兒楊德祖除此二人別無人物。』祖曰『似我何如』衡曰『汝似廟中之神雖受祭祀恨無靈驗』祖大怒曰『汝以我為土木偶人耶』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After the departure of Yüan-tê, Tung Ch‘êng and his fellow conspirators did nothing else day or night but try to evolve ​ plans for the destruction of their enemy. But they could see no chance to attack. At the new year audience Ts‘ao Ts‘ao was odiously arrogant and overweening and the chief conspirator’s disgust was so intense that he fell ill. Hearing of his indisposition the Emperor sent the Court physician to see his “State Uncle.” The Court physician at this time was a native of Loyang, named Chi T‘ai, more commonly known as Chi P‘ing. He was very famous. He devoted himself wholly to the treatment of his Court patient. Living in his Palace and seeing him at all times he soon found that some secret grief was sorely troubling Tung Ch‘êng. But he dared not ask questions."
+          }
+        }
+      },
+      {
+        "character_count": 33,
+        "id": "chapter-023-line-033",
+        "order": 33,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "』遂斬之。衡至死罵不絕口。」劉表聞衡死，亦嗟呀不已，令葬於鸚鵡洲邊。後人有詩歎曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One evening, when the physician was just taking his leave, Tung Ch‘êng kept him and the two men had supper together. They sat talking for some time and Tung by and by dropped off to sleep dressed as he was."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-023-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "黃祖才非長者儔，禰衡喪首此江頭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Presently Wang Tzŭ-fu and the others were announced. As they were coming in Wang cried, “Our business is settled!”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-023-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "今來鸚鵡洲邊過，惟有無情碧水流。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I should be glad to hear how,” said Tung."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-023-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "卻說曹操知禰衡受害笑曰「腐儒舌劍反自殺矣」因不見劉表來降便欲興兵問罪。荀彧諫曰「袁紹未平劉備未滅而欲用兵江漢是猶舍心腹而顧手足也。可先滅袁紹後滅劉備江漢可一掃而平矣。」操從之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Liu Piao has joined Yüan Shao and fifty legions are on their way here by different routes. More than this, Ma T‘êng and Han Sui are coming from the north with seventy-two legions. Ts‘ao Ts‘ao has moved every soldier outside Hsütu to meet the combined armies. There is a great banquet in the Palace to night and if we get together our young men and slaves, we can muster more than a thousand, and we can surround the palace, while Ts‘ao Ts‘ao is at the banquet, and finish him off. We must not miss this.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-023-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "且說董承自劉玄德去後，日夜與王子服等商議，無計可施。建安五年，元旦朝賀，見曹操驕橫愈甚，感憤成疾。帝知國舅染病，令隨朝太醫前去醫治。此醫乃洛陽人：姓吉，名太，字稱平，人皆呼為吉平，當時名醫也。平到董承府用藥調治，旦夕不離；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tung Ch‘êng was more than delighted. He called his slaves and armed them, put on his own armour and mounted his horse. The conspirators met, as they had arranged, just at the inner gate. It was the first watch. The small army marched straight in, Tung Ch‘êng leading with his sword drawn. His intended victim was at table in one of the private rooms. Tung rushed in crying, “Tsʻao you rebel, stay!” and dashed at Ts‘ao Ts‘ao who fell at the first blow. And just then he woke up and found it was all a dream, a dream as unreal as that of life in the kingdom of the ants. But his mouth was still full of curses."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-023-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "常見董承長吁短歎，不敢動問。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Do you really wish to destroy Ts‘ao Ts‘ao?” said Chi P‘ing, going forward to his half awakened patient."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-023-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "時值元宵，吉平辭去，承留住，二人共飲。飲至更餘，承覺困倦，就和衣而睡。忽報王子服等四人至，承出接入。服曰：「大事諧矣！」承曰：「願聞其說。」服曰：「劉表結連袁紹，起兵五十萬，共分十路殺來。馬騰結連韓遂，起西涼軍七十二萬，從北殺來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This brought him to his senses. Tung stopped, terror stricken, and made no reply. “Do not be frightened, O Uncle,” said the doctor, “Although I am a physician I am also a man, and I never forget my Emperor. You have seemed sad for many days but I have never ventured to ask the reason. Now you have shown it in your dream and I know your real feelings. If I can be of any use I will help. Nothing can daunt me.” ​ Tung Ch‘êng covered his face and wept. “I fear you may not be true to me,” cried he."
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-023-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "曹操盡起許昌兵馬，分頭迎敵，城中空虛。若聚五家僮僕，可得千餘人。乘今夜府中大宴，慶賞元宵，將府圍住，突入殺之。不可失此機會！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chi P‘ing at once bit off a finger as a pledge of his faith. And then his host and patient brought forth the decree he had received in the girdle. “I am afraid our schemes will come to nought,” said he. “Liu Yüan-tê and Ma T‘êng are gone and there is nothing we can do. That was the real reason I fell ill.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-023-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "承大喜，隨即喚家奴各人收拾兵器，自己披挂綽槍上馬，約會都在內門前相會，同時進兵。夜至二鼓，眾兵皆到。董承手提寶劍，徒步直入，見操設宴後堂，大叫：「操賊休走！」一劍剁去，隨手而倒。霎時覺來，乃南柯一夢，口中猶罵操賊不止。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“It is not worth troubling you gentlemen with; for Ts‘ao’s life lies in these hands of mine,” said Chi P‘ing. “How can that be?” “Because he is often ill with deep-seated pain in his head. When this comes on he sends for me. When next he calls me I only have to give him one dose and he will certainly die. We do not want any weapons.” “If only you could do it! You would be the saviour of the Dynasty; it depends upon you.”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-023-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "吉平向前叫曰：「汝欲害曹公乎？」承驚懼不能答。吉平曰：「國舅休慌。某雖醫人，未嘗忘漢。某連日見國舅嗟歎，不敢動問。恰纔夢中之言，已見真情。幸勿相瞞。倘有用某之處，雖滅九族，亦無後悔。」承掩面而哭曰：「只恐汝非真心！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Chi P‘ing went away leaving his late patient a happy man. Tung strolled into the garden and there he saw one of his slaves, Tsʻin Ch‘ing-t‘ung, whispering with one of the waiting maids in a dark corner. This annoyed him and he called his attendants to seize them. He would have put them to death but for the intervention of his wife. At her request he spared their lives but both were beaten, and the lad was thrown into a dungeon. Sulky at his treatment the slave broke out of the cell in the night, climbed over the wall and went straight to Ts‘ao Ts‘ao’s palace, where he betrayed the conspiracy."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-023-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "平遂咬下一指為誓。承乃取出衣帶詔，令平視之；且曰：「今之謀望不成者，乃劉玄德、馬騰各自去了，無計可施，因此感而成疾。」平曰：「不消諸公用心。操賊性命，只在某手中。」承問其故。平曰：「操常患頭風，痛入骨髓；纔一舉發，便召某醫治。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao at once had him taken into a secret chamber and questioned him. He gave the names of the conspirators and told as much as he knew of their doings. He said his master had a piece of white silk, with writing on it, but he did not know what it meant. Lately Chi P‘ing had bitten off one of his fingers as a pledge of fidelity. He had seen that."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-023-line-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "如早晚有召，只用一服毒藥，必然死矣，何必舉刀兵乎？」承曰：「若得如此，救漢朝社稷者，皆賴君也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The runaway slave was kept in a secret part of the Palace while his late master, only knowing that he had run away, took no special means to find him. Soon after this Ts‘ao feigned a headache and sent for Chi P‘ing as usual."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-023-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "時吉平辭歸。承心中暗喜，步入後堂，忽見家奴秦慶童同侍妾雲英在暗處私語。承大怒，喚左右捉下，欲殺之。夫人勸免其死，各人人杖脊四十，將慶童鎖於冷房。慶童懷恨，夤夜將鐵鎖扭斷，跳墻而出，逕入曹操府中，告有機密事。操喚入密室問之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The rebel is done for,” thought Chi P‘ing, and he made a secret package of poison which he took with him to the palace of the Minister. He found Ts‘ao in bed. The patient bade the doctor prepare a potion for him. “One draught will cure this disease,” said P‘ing. He bade them bring him a pipkin and he prepared the potion in the room. When it had simmered for some time and was half finished the poison was added, and soon after the physician presented the draught. Ts‘ao Ts‘ao, knowing it was poisoned, made excuses and would not swallow it."
+          }
+        }
+      },
+      {
+        "character_count": 58,
+        "id": "chapter-023-line-046",
+        "order": 46,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "慶童云：「王子服、吳子蘭、种輯、吳碩、馬騰五人在家主府中商議機密，必然是謀丞相。家主將出白絹一段，不知寫著甚的。近日吉平咬指為誓，我也曾見。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “You should take it hot,” said the doctor. “Then there will be a gentle perspiration and you will be better.” “You are a scholar,” said Ts'ao, sitting up, “and know what is the correct thing to do. When the master is ill and takes drugs, the attendant first tastes them; when a man is ill, his son first tastes the medicine. You are my confidant and should drink first. Then I will swallow the remainder.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-023-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "曹操藏匿慶童於府中，董承只道逃往他方去了，也不追尋。次日，曹操詐患頭風，召吉平用藥。平自思曰：「此賊合休！」暗藏毒藥入府。操臥於床上，令平下藥。平曰：「此病可一服即愈。」教取藥罐，當面煎之。藥已半乾，平已暗下毒藥，親自送上。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Medicine is to treat disease; what is the use of any one’s tasting it?” said P‘ing. But he guessed now the conspiracy had been discovered so he dashed forward, seized Ts‘ao Ts‘ao by the ear and tried to pour the potion down his throat. Ts‘ao pushed it away and it spilt. The bricks upon which it fell were split asunder. Before Ts‘ao Ts‘ao could speak his servants had already seized his assailant. Said Ts‘ao, “I am not ill: I only wanted to test you. So you really thought to poison me.”"
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-023-line-048",
+        "order": 48,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "操知有毒，故意遲延不服。平曰：「乘熱服之，少汗即愈。」操起曰：「汝既讀儒書，必知禮義。『君有疾飲藥，臣先嘗之；父有疾飲藥，子先嘗之。』汝為我心腹之人，何不先嘗而後進？」平曰：「藥以治病，何用人嘗？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He sent for a score of sturdy gaolers who carried off the prisoner to the inner apartments to be interrogated. Ts‘ao took his seat in a pavilion and the hapless physician, tightly bound, was thrown to the ground before him. The prisoner maintained a bold front. Ts‘ao said, “I thought you were a physician; how dared you try to poison me? Some one incited you to this crime and if you tell me I will pardon you.” “You are a rebel; you flout your Prince and injure your betters. The whole world wishes to kill you. Do you think I am the only one?”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-023-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "平知事已泄，縱步向前，扯住操耳而灌之。操推藥潑地，磚皆迸裂。操未及言，左右已將吉平執下。操曰：「吾豈有疾，特試汝耳！汝果有害我之心！」遂喚二十個精壯獄卒，執平至後園拷問。操坐於亭上，將吉平縛倒於地。吉平面不改容，略無懼怯。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao again and again pressed the prisoner to tell what he knew, but he only replied that no one had sent him; it was his own desire. “And I have failed and I can but die,” added he. Ts‘ao angrily bade the gaolers give him a severe beating and they flogged him for two watches. His skin hung in tatters, the flesh was battered and the blood from his wounds ran down the steps. Then fearing he might die and his evidence be lost, Ts‘ao Ts‘ao bade them cease and remove him. They took him off to a quiet place where he might recover somewhat."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-023-line-050",
+        "order": 50,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "操笑曰：「量汝是個醫人，安敢下毒害我？必有人唆使你來。你說出那人，我便饒你。」平叱之曰：「汝乃欺君罔上之賊，天下皆欲殺汝，豈獨我乎！」操再三磨問。平怒曰：「我自欲殺汝，安有人使我來？今事不成，惟死而已！」操怒，教獄卒痛打。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Having issued orders to prepare a banquet for next day Ts‘ao invited all the conspirators thereto. Tung Ch‘êng was the only one who excused himself, saying he was unwell. The others dared not stay away as they felt they would be suspected. Tables were laid in the private apartments and after several courses the host said, “There is not much to amuse us to-day but I have a man to show you that will sober you.” “Bring him in,” he said, turning to the gaolers, and the hapless Chi P‘ing appeared, securely fastened in a wooden collar. He was placed where all could see him."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-023-line-051",
+        "order": 51,
+        "source_block_chunk": 3,
+        "source_block_order": 24,
+        "text": "打到兩個時辰，皮開肉裂，血流滿階。操恐打死，無可對證，今獄卒揪去靜處，權且將息。傳令次日設宴，請眾大臣飲酒。惟董承託病不來。王子服等皆恐操生疑，只得俱至。操於後堂設席。酒行數巡，曰：「筵中無可為樂，我有一人，可為眾官醒酒。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “You officials do not know that this man is connected with a gang of evil doers who desire to overturn the government and even injure me. However Heaven has defeated their plans, but I desire that you should hear his evidence.” Then Ts‘ao ordered the lictors to beat their prisoner. They did so till he lay unconscious, when they revived him by spraying water over his face. As soon as he came to he glared at his oppressor and ground his teeth. “Ts‘ao Ts‘ao you rebel! what are you waiting for? Why not kill me?” cried Chi."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-023-line-052",
+        "order": 52,
+        "source_block_chunk": 4,
+        "source_block_order": 24,
+        "text": "」教二十個獄卒：「與吾牽來！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao replied, “The conspirators were only six at first; you made the seventh.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-023-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "須臾，只見一長枷釘著吉平，拖至階下。操曰：「眾官不知：此人連結惡黨，欲反背朝廷，謀害曹某；今日天敗，請聽口詞。」操教先打一頓，昏絕於地，以水噴面。吉平甦醒，睜目切齒而罵曰：「操賊！不殺我，更待何時？」操曰：「同謀者先有六人，與汝共七人耶？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Here the prisoner broke in with more abuse, while Wang Tzŭ-fu and the others exchanged glances looking as though they were sitting on a rug full of needles. Ts‘ao continued his torture of the prisoner, beating him into unconsciousness and reviving him with cold water, the victim disdaining to ask mercy. Finally Ts‘ao realised he would incriminate none of his accomplices and so he told the gaolers to remove him. At the close of the banquet, when the guests were dispersing, four of them, the four conspirators, were invited to remain behind to supper. They were terrified so that their souls seemed no longer to inhabit their bodies, but there was no saying nay to the invitation. Presently Ts‘ao Ts‘ao said, “Still there is something I want to speak about so I have asked you to stay for a time longer. I do not know what you four have been arranging with Tung Ch‘êng.”"
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-023-line-054",
+        "order": 54,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "」平只是大罵。王子服等四人面面相覷，如坐鍼氈。操教一面打，一面噴，平並無求饒之意。操見不招，且教牽去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Nothing at all,” said Wang. “And what is written on the white silk?” asked Ts‘ao. They all said they knew nothing about it. Then Ts‘ao ordered the runaway slave to be brought in. As soon as he came Wang said, “Well, what have you seen and where?”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-023-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "眾官席散，操只留王子服等四人夜宴。四人魂不附體，只得留待。操曰：「本不相留，爭奈有事相問。汝四人不知與董承商議何事？」子服曰：「並未商議甚事。」操曰：「白絹中寫著何事？」子服等皆隱諱，操喚出慶童對証。子服曰：「汝於何處見來？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The slave Ch‘ing-t‘ung replied, “You six very carefully chose retired places to talk in and you secretly signed a white roll. You cannot deny that.” Wang replied, “This miserable creature was punished for misbehaviour with one of Uncle Tung’s maids and now because of that he slanders his master. You must not listen to him.” “Chi P‘ing tried to pour poison down my throat. Who told him to do that if it was not Tung?” They all said they knew nothing about who it was. “So far,” said Ts‘ao, “matters are only beginning and there is a chance of forgiveness. But if the thing grows, it will be difficult not to take notice of it.”"
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-023-line-056",
+        "order": 56,
+        "source_block_chunk": 2,
+        "source_block_order": 26,
+        "text": "」慶童曰：「你迴避了眾人，六人在一處畫字，如何賴得？」子服曰：「此賊與國舅侍妾通姦，被責誣主，不可聽也。」操曰：「吉平下毒，非董承所使而誰？」子服等皆言不知。操曰：「今晚自首，尚猶可恕；若待事發，其實難容！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The whole four vigorously denied that any plot existed. However Ts‘ao called up his henchmen and the four men were put into confinement. ​ Next day Ts‘ao Ts‘ao with a large following went to the State Uncle’s Palace to ask after his health. Ch‘êng came out to receive his visitor, who at once said, “Why did you not come last night?” “I am not quite well yet and have to be very careful about going out,” replied Ch‘êng. “One might say you were suffering from national sorrow, eh?” said Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-023-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "子服等皆言並無此事。操叱左右將四人拏住監禁。次日，帶領眾人逕投董承家探病。承只得出迎。操曰：「緣何夜來不赴宴？」承曰：「微疾未痊，不敢輕出。」操曰：「此是憂國家病耳。」承愕然。操曰：「國舅知吉平事乎？」承曰：「不知。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ch‘êng started. Ts‘ao continued, “Have you heard of the Chi P‘ing affair?” “No; what is it?” Ts‘ao smiled coldly. “How can it be you do not know?” Ts‘ao turned to his attendants and told them to bring in the prisoner while he went on talking to his host about his illness. Tung Ch‘êng was much put about and knew not what to do. Soon the gaolers led in the physician to the steps of the hall. At once the bound man began to rail at Ts‘ao as rebel and traitor."
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-023-line-058",
+        "order": 58,
+        "source_block_chunk": 2,
+        "source_block_order": 27,
+        "text": "」操冷笑曰：「國舅如何不知？」喚左右：「牽來與國舅起病。」承舉措無地。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“This man,” said Ts‘ao, pointing to Chi P‘ing, “has implicated Wang Tzŭ-fu and three others, all of whom are now under arrest. There is one more whom I have not caught yet.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-023-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "須臾，二十獄卒推吉平至階下。吉平大罵：「曹操逆賊！」操指謂承曰：「此人曾攀下王子服等四人，吾已拏下廷尉。尚有一人，未曾捉獲。」因問平曰：「誰使汝來藥我？可速招出！」平曰：「天使我來殺逆賊！」操怒教打。身上無容刑之處。承在座觀之，心如刀割。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who sent you to poison me?” continued he, turning toward the physician. “Quick, tell me.” “Heaven sent me to slay a traitor.” Ts‘ao angrily ordered them to beat him again, but there was no part of his body that could be beaten. Tung Ch‘êng sat looking at him, his heart feeling as if transfixed with a dagger. “You were born with ten fingers; how is it you have now only nine?” Chi P‘ing replied, “I bit off one as a pledge when I swore to slay a traitor.” Ts‘ao told them to bring a knife and they lopped off his other nine fingers."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-023-line-060",
+        "order": 60,
+        "source_block_chunk": 2,
+        "source_block_order": 28,
+        "text": "操又問平曰：「你原有十指，今如何只有九指？」平曰：「嚼以為誓，誓殺國賊！」操教取刀來，就階下截去其九指，曰：「一發截了，教你為誓！」平曰：「尚有口可以吞賊，有舌可以罵賊！」操令割其舌。平曰：「且勿動手。吾今刑不過，只得供招。可釋吾縛。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Now they are all off; that will teach you to make pledges.” “Still I have a mouth that can swallow a traitor and a tongue that can curse him,” said Chi P‘ing. Ts‘ao told them to cut out his tongue. Chi P‘ing said, “Do not. I cannot endure any more punishment I shall have to speak out. Loosen my bonds.” “Loose them. There is no reason why not,” said Ts‘ao. They loosed him. As soon as he was free Chi P‘ing stood up, turned his face toward the Emperor’s Palace and bowed, saying, “It is Heaven’s will that thy servant has been unable to remove the evil,” then he turned and fell dead on the steps."
+          }
+        }
+      },
+      {
+        "character_count": 57,
+        "id": "chapter-023-line-061",
+        "order": 61,
+        "source_block_chunk": 3,
+        "source_block_order": 28,
+        "text": "」操曰：「釋之何礙？」遂命解其縛。平起身望闕拜曰：「臣不能為國家除賊，乃天數也！」拜畢，撞階而死。操令分其肢體號令。時建安五年正月也。史官有詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His body was quartered and exposed. ​ This happened in the first month of the fifth year of “Established Tranquillity” and a certain historian wrote a poem:— There lived in Han a simple leech. No warrior, yet brave Enough to risk his very life His Emperor to save. Alas! he failed; but lasting fame Is his; he feared not death; He cursed the traitorous Minister Unto his latest breath."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-023-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "漢朝無起色，醫國有稱平。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Seeing his victim had passed beyond the realm of punishment Ts‘ao had the slave led in."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-023-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "立誓除姦黨，捐軀報聖明。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Do you know this man, Uncle?”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-023-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "極刑詞愈烈，慘死氣如生。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Yes,” cried Tung Ch‘êng. “So the runaway slave is here; he ought to be put to death.”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-023-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "十指淋漓處，千秋仰異名。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“He just told me of your treachery; he is my witness,” said Ts‘ao. “Who would dare kill him?”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-023-line-066",
+        "order": 66,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "操見吉平已死，教左右牽過秦慶童至面前。操曰：「國舅認得此人否？」承大怒曰：「逃奴在此！即當誅之！」操曰：「他首告謀反，今來對證，誰敢誅之？」承曰：「丞相何故聽逃奴一面之說？」操曰：「王子服等吾已擒下，皆招證明白，汝尚抵賴乎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“How can you, the first Minister of State, heed the unsupported tale of an absconding slave?” “But I have Wang and the others in prison,” said Ts‘ao Ts‘ao. “And how can you rebut their evidence?” He then called in the remainder of his followers and ordered them to search Tung Ch‘êng’s bedroom. They did so and found the decree that had been given him in the girdle and the pledge signed by the conspirators."
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-023-line-067",
+        "order": 67,
+        "source_block_chunk": 2,
+        "source_block_order": 33,
+        "text": "」即喚左右拏下，命從人直入董承臥房內，搜出衣帶詔並義狀。操看了，笑曰：「鼠輩安敢如此！」遂命：「將董承全家良賤，盡皆監禁，休教走脫一個。」操回府以詔狀示眾謀士商議，要廢獻帝，更立新君。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You mean rat!” cried Ts‘ao, “you dared do this?” He gave orders to arrest the whole household without exception. Then he returned to his Palace with the incriminating documents and called all his advisers together to discuss the dethronement of the Emperor and the setting up of a successor."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-023-line-068",
+        "order": 68,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "數行丹詔成虛望，一紙盟書惹禍殃。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Many decrees, blood written, have issued, accomplishing nothing One inscribed pledge was fraught with mountains of sorrow."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-023-line-069",
+        "order": 69,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "未知獻帝性命如何，且聽下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The reader who wishes to know the fate of the Emperor must read the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說曹操欲斬劉岱、王忠。孔融諫曰：「二人本非劉備敵手，若斬之，恐失將士之心。」操乃免其死，黜罷爵祿，欲自起兵伐玄德。孔融曰：「方今隆冬盛寒，未可動兵；待來春未為晚也。可先使人招安張繡、劉表，然後再圖徐州。」操然其言，先遣劉曄往說張繡。曄至襄城，先見賈詡，陳說曹公盛德。詡乃留曄於家中。\n次日來見張繡，說曹公遣劉曄招安之事。正議間，忽報袁紹有使至。繡命入。使者呈上書信。繡覽之，亦是招安之意。詡問來使曰：「近日興兵破曹操，勝負如何？」使曰：「隆冬寒月，權且罷兵。今以將軍與荊州劉表俱有國士之風，故來相請耳。」詡大笑曰：「汝可回見本初，道：『汝兄弟尚不能容，何能容天下國士乎！』」當面扯碎書，叱退來使。張繡曰：「方今袁強曹弱；今毀書叱使，袁紹若至，當如之何？」詡曰：「不如去從曹操。」繡曰：「吾先與操有讎，安得相容？」詡曰：「從操其便有三：夫曹公奉天子明詔，征伐天下，其宜從一也；紹強盛，我以少從之，必不以我為重，操雖弱，得我必喜，其宜從二也；曹公王霸之志，必釋私怨，以明德於四海，其宜從三也。願將軍無疑焉。」\n繡從其言，請劉曄相見。曄盛稱操德，且曰：「丞相若記舊怨，安肯使某來結好將軍乎？」繡大喜，即同賈詡等赴許都投降。繡見操，拜於階下。操忙扶起，執其手曰：「有小過失，勿記於心。」遂封繡為揚武將軍，封賈詡為執金吾使。操即命繡作書招安劉表。賈詡進曰：「劉景升好結納名流，今必得一有文名之士往說之，方可降耳。」操問荀攸曰：「誰人可去？」攸曰：「孔文舉可當其任。」\n操然之。攸出見孔融曰：「丞相欲得一有文名之士，以備行人之選。公可當此任否？」融曰：「吾友禰衡，字正平，其才十倍於我。此人宜在帝左右，不但可備行人而已。我當薦之天子。」於是遂上表奏帝。其文曰：\n臣聞洪水橫流，帝思俾乂；旁求四方，以招賢俊。昔世宗繼統，將弘基業；疇咨熙載，群士響臻。陛下叡聖，纂承基緒，遭遇厄運，勞謙日昃；維嶽降神，異人並出。竊見處士平原禰衡：年二十四，字正平，淑質貞亮，英才卓礫；初涉藝文，升堂睹奧。目所一見，輒誦之口；耳所暫聞，不忘於心。性與道合，思若有神。弘羊潛計，安世默識，以衡準之，誠不足怪。忠果正直，志懷霜雪；見善若驚，嫉惡若讎。任座抗行，史魚厲節，殆無以過也。鷙鳥累百，不如一鶚。使衡立朝，必有可觀，飛辯聘詞，溢氣坌涌；解疑釋結，臨敵有餘。\n昔賈誼求試屬國，詭係單于；終軍欲以長纓，牽制勁越；弱冠慷慨，前世美之；近日路粹、嚴象，亦用異才，擢拜臺郎：衡宜與為比。如龍躍天衢，振翼雲漢，揚聲紫微，垂光虹蜺，足以昭近署之多士，增四門之穆穆。鈞天廣樂，必有奇麗之觀；帝室王居，必蓄非常之寶。若衡等輩，不可多得。《激楚》、《陽阿》，至妙之容，掌伎者之所貪；飛兔、騕褭，絕足奔放，良、樂之所急也。臣等區區，敢不以聞？陞下篤慎取士，必須效試，乞令衡以褐衣召見。如無可觀釆，臣等受面欺之罪。\n帝覽表，以付曹操。操遂使人召衡至。禮畢，操不命坐。禰衡仰天歎曰：「天地雖闊，何無一人也！」操曰：「吾手下有數十人，皆當世英雄，何謂無人？」衡曰：「願聞。」操曰：「荀彧、荀攸、郭嘉、程昱，機深智遠，雖蕭何、陳平不及也。張遼、許褚、樂進、李典，勇不可當，雖岑彭、馬武不及也。呂虔、滿寵為從事；于禁、徐晃為先鋒。夏侯惇天下奇才，曹子孝世間福將。安得無人？」衡笑曰：「公言差矣。此等人物，吾盡識之：荀彧可使弔喪問疾，荀攸可使看墳守墓，程昱可使關門閉戶，郭嘉可使白詞念賦，張遼可使擊鼓鳴金，許褚可使牧牛放馬，樂進可使取狀讀詔，李典可使傳書送檄，呂虔可使磨刀鑄劍，滿寵可使飲酒食糟，于禁可使負版築牆，徐晃可使屠豬殺狗。夏侯惇稱為『完體將軍』，曹子孝呼為『要錢太守』。其餘皆是衣架飯囊，酒桶肉袋耳！」操怒曰：「汝有何能？」衡曰：「天文地理，無一不通；三教九流，無一不曉；上可以致君為堯、舜，下可以配德於孔、顏。豈與俗子共論乎！」時止有張遼在側，掣劍欲斬之。操曰：「吾正少一鼓吏；早晚朝賀宴享，可令禰衡充此職。」衡不推辭，應聲而去。遼曰：「此人出言不遜，何不殺之？」操曰：「此人素有虛名，遠近所聞。今日殺之，天下必謂我不能容物，彼自以為能，故令為鼓吏以辱之。」\n來日，操於省廳上大宴賓客，令鼓吏撾鼓。舊吏云：「撾鼓必換新衣。」衡穿舊衣而入，遂擊鼓為《漁陽三撾》，音節殊妙，淵淵有金石聲。坐客聽之，莫不慷慨流涕。左右喝曰：「何不更衣！」衡當面脫下舊破衣服，裸體而立，渾身盡露。坐客皆掩面。衡乃徐徐著褲，顏色不變。\n操叱曰：「廟堂之上，何太無禮？」衡曰：「欺君罔上乃謂無禮。吾露父母之形，以顯清白之體耳！」操曰：「汝為清白，誰為汙濁？」衡曰：「汝不識賢愚，是眼濁也；不讀詩書，是口濁也；不納忠言，是耳濁也；不通古今，是身濁也；不容諸侯，是腹濁也；常懷篡逆，是心濁也！吾乃天下名士，用為鼓吏，是猶陽貨輕仲尼、臧倉毀孟子耳！欲成霸王之業，而如此輕人耶？」\n時孔融在坐，恐操殺衡，乃從容進曰：「禰衡罪同胥靡，不足發明王之夢。」操指衡而言曰：「令汝往荊州為使。如劉表來降，便用汝作公卿。」衡不肯往。操備馬三匹，令二人扶挾而行；卻教手下文武，整酒於東門外送之。荀彧曰：「如禰衡來，不可起身。」衡至，下馬入見，眾皆端坐。衡放聲大哭。荀彧問曰：「何為而哭？」衡曰：「行於死柩之中，如何不哭？」眾皆曰：「吾等是死屍，汝乃無頭狂鬼耳！」衡曰：「吾乃漢朝之臣，不作曹瞞之黨，安得無頭？」眾欲殺之。苟彧急止之曰：「量鼠雀之輩，何足汙刀！」衡曰：「吾乃鼠雀，尚有人性；汝等只可謂之蜾蟲！」眾恨而散。\n衡至荊州，見劉表畢，雖頌德，實譏諷。表不喜，令去江夏見黃祖。或問表曰：「禰衡戲謔主公，何不殺之？」表曰：「禰衡數辱曹操，操不殺者，恐失人望；故令作使於我，欲借我手殺之，使我受害賢之名也。吾今遣去見黃祖，使曹操知我有識。」眾皆稱善。\n時袁紹亦遣使至。表問眾謀士曰：「袁本初又遣使來，曹孟德又差禰衡在此，當從何便？」從事中郎將韓嵩進曰：「今兩雄相持，將軍若欲有為，乘此破敵可也。如其不然，將擇其善者而從之。今曹操善能用兵，賢俊多歸，其勢必先取袁紹，然後移兵向江東，恐將軍不能禦；莫若舉荊州以附操，操必重待將軍矣。」表曰：「汝且去許都，觀其動靜，再作商議。」嵩曰：「君臣各有定分。嵩今事將軍，雖赴湯蹈火，一唯所命。將軍若能上順天子，下從曹公，使嵩可也；如持疑未定，嵩到京師，天子賜嵩一官，則嵩為天子之臣，不得復為將軍死矣。」表曰：「汝且先往觀之。吾別有主意。」\n嵩辭表，到許都見操。操遂拜嵩為侍中，領零陵太守。荀彧曰：「韓嵩來觀動靜，未有微功，重加此職。禰衡又無音耗，丞相遣而不問，何也？」操曰：「禰衡辱吾太甚，故借劉表手殺之，何必再問？」遂遣韓嵩回荊州說劉表。嵩回見表，稱頌朝廷盛德，勸表遣子入侍。表大怒曰：「汝懷二心耶！」欲斬之。嵩大叫曰：「將軍負嵩，嵩不負將軍！」蒯良曰：「嵩未去之前，先有此言矣。」劉表遂赦之。\n人報黃祖斬了禰衡，表問其故。對曰：「黃祖與禰衡共飲，皆醉。祖問衡曰：『君在許都有何人物？』衡曰：『大兒孔文舉，小兒楊德祖，除此二人，別無人物。』祖曰：『似我何如？』衡曰：『汝似廟中之神，雖受祭祀，恨無靈驗！』祖大怒曰：『汝以我為土木偶人耶！』遂斬之。衡至死罵不絕口。」劉表聞衡死，亦嗟呀不已，令葬於鸚鵡洲邊。後人有詩歎曰：\n黃祖才非長者儔，禰衡喪首此江頭。\n今來鸚鵡洲邊過，惟有無情碧水流。\n卻說曹操知禰衡受害，笑曰：「腐儒舌劍，反自殺矣！」因不見劉表來降，便欲興兵問罪。荀彧諫曰：「袁紹未平，劉備未滅，而欲用兵江漢，是猶舍心腹而顧手足也。可先滅袁紹，後滅劉備，江漢可一掃而平矣。」操從之。\n且說董承自劉玄德去後，日夜與王子服等商議，無計可施。建安五年，元旦朝賀，見曹操驕橫愈甚，感憤成疾。帝知國舅染病，令隨朝太醫前去醫治。此醫乃洛陽人：姓吉，名太，字稱平，人皆呼為吉平，當時名醫也。平到董承府用藥調治，旦夕不離；常見董承長吁短歎，不敢動問。\n時值元宵，吉平辭去，承留住，二人共飲。飲至更餘，承覺困倦，就和衣而睡。忽報王子服等四人至，承出接入。服曰：「大事諧矣！」承曰：「願聞其說。」服曰：「劉表結連袁紹，起兵五十萬，共分十路殺來。馬騰結連韓遂，起西涼軍七十二萬，從北殺來。曹操盡起許昌兵馬，分頭迎敵，城中空虛。若聚五家僮僕，可得千餘人。乘今夜府中大宴，慶賞元宵，將府圍住，突入殺之。不可失此機會！」\n承大喜，隨即喚家奴各人收拾兵器，自己披挂綽槍上馬，約會都在內門前相會，同時進兵。夜至二鼓，眾兵皆到。董承手提寶劍，徒步直入，見操設宴後堂，大叫：「操賊休走！」一劍剁去，隨手而倒。霎時覺來，乃南柯一夢，口中猶罵操賊不止。吉平向前叫曰：「汝欲害曹公乎？」承驚懼不能答。吉平曰：「國舅休慌。某雖醫人，未嘗忘漢。某連日見國舅嗟歎，不敢動問。恰纔夢中之言，已見真情。幸勿相瞞。倘有用某之處，雖滅九族，亦無後悔。」承掩面而哭曰：「只恐汝非真心！」\n平遂咬下一指為誓。承乃取出衣帶詔，令平視之；且曰：「今之謀望不成者，乃劉玄德、馬騰各自去了，無計可施，因此感而成疾。」平曰：「不消諸公用心。操賊性命，只在某手中。」承問其故。平曰：「操常患頭風，痛入骨髓；纔一舉發，便召某醫治。如早晚有召，只用一服毒藥，必然死矣，何必舉刀兵乎？」承曰：「若得如此，救漢朝社稷者，皆賴君也！」\n時吉平辭歸。承心中暗喜，步入後堂，忽見家奴秦慶童同侍妾雲英在暗處私語。承大怒，喚左右捉下，欲殺之。夫人勸免其死，各人人杖脊四十，將慶童鎖於冷房。慶童懷恨，夤夜將鐵鎖扭斷，跳墻而出，逕入曹操府中，告有機密事。操喚入密室問之。慶童云：「王子服、吳子蘭、种輯、吳碩、馬騰五人在家主府中商議機密，必然是謀丞相。家主將出白絹一段，不知寫著甚的。近日吉平咬指為誓，我也曾見。」\n曹操藏匿慶童於府中，董承只道逃往他方去了，也不追尋。次日，曹操詐患頭風，召吉平用藥。平自思曰：「此賊合休！」暗藏毒藥入府。操臥於床上，令平下藥。平曰：「此病可一服即愈。」教取藥罐，當面煎之。藥已半乾，平已暗下毒藥，親自送上。操知有毒，故意遲延不服。平曰：「乘熱服之，少汗即愈。」操起曰：「汝既讀儒書，必知禮義。『君有疾飲藥，臣先嘗之；父有疾飲藥，子先嘗之。』汝為我心腹之人，何不先嘗而後進？」平曰：「藥以治病，何用人嘗？」\n平知事已泄，縱步向前，扯住操耳而灌之。操推藥潑地，磚皆迸裂。操未及言，左右已將吉平執下。操曰：「吾豈有疾，特試汝耳！汝果有害我之心！」遂喚二十個精壯獄卒，執平至後園拷問。操坐於亭上，將吉平縛倒於地。吉平面不改容，略無懼怯。操笑曰：「量汝是個醫人，安敢下毒害我？必有人唆使你來。你說出那人，我便饒你。」平叱之曰：「汝乃欺君罔上之賊，天下皆欲殺汝，豈獨我乎！」操再三磨問。平怒曰：「我自欲殺汝，安有人使我來？今事不成，惟死而已！」操怒，教獄卒痛打。打到兩個時辰，皮開肉裂，血流滿階。操恐打死，無可對證，今獄卒揪去靜處，權且將息。傳令次日設宴，請眾大臣飲酒。惟董承託病不來。王子服等皆恐操生疑，只得俱至。操於後堂設席。酒行數巡，曰：「筵中無可為樂，我有一人，可為眾官醒酒。」教二十個獄卒：「與吾牽來！」\n須臾，只見一長枷釘著吉平，拖至階下。操曰：「眾官不知：此人連結惡黨，欲反背朝廷，謀害曹某；今日天敗，請聽口詞。」操教先打一頓，昏絕於地，以水噴面。吉平甦醒，睜目切齒而罵曰：「操賊！不殺我，更待何時？」操曰：「同謀者先有六人，與汝共七人耶？」平只是大罵。王子服等四人面面相覷，如坐鍼氈。操教一面打，一面噴，平並無求饒之意。操見不招，且教牽去。\n眾官席散，操只留王子服等四人夜宴。四人魂不附體，只得留待。操曰：「本不相留，爭奈有事相問。汝四人不知與董承商議何事？」子服曰：「並未商議甚事。」操曰：「白絹中寫著何事？」子服等皆隱諱，操喚出慶童對証。子服曰：「汝於何處見來？」慶童曰：「你迴避了眾人，六人在一處畫字，如何賴得？」子服曰：「此賊與國舅侍妾通姦，被責誣主，不可聽也。」操曰：「吉平下毒，非董承所使而誰？」子服等皆言不知。操曰：「今晚自首，尚猶可恕；若待事發，其實難容！」\n子服等皆言並無此事。操叱左右將四人拏住監禁。次日，帶領眾人逕投董承家探病。承只得出迎。操曰：「緣何夜來不赴宴？」承曰：「微疾未痊，不敢輕出。」操曰：「此是憂國家病耳。」承愕然。操曰：「國舅知吉平事乎？」承曰：「不知。」操冷笑曰：「國舅如何不知？」喚左右：「牽來與國舅起病。」承舉措無地。\n須臾，二十獄卒推吉平至階下。吉平大罵：「曹操逆賊！」操指謂承曰：「此人曾攀下王子服等四人，吾已拏下廷尉。尚有一人，未曾捉獲。」因問平曰：「誰使汝來藥我？可速招出！」平曰：「天使我來殺逆賊！」操怒教打。身上無容刑之處。承在座觀之，心如刀割。操又問平曰：「你原有十指，今如何只有九指？」平曰：「嚼以為誓，誓殺國賊！」操教取刀來，就階下截去其九指，曰：「一發截了，教你為誓！」平曰：「尚有口可以吞賊，有舌可以罵賊！」操令割其舌。平曰：「且勿動手。吾今刑不過，只得供招。可釋吾縛。」操曰：「釋之何礙？」遂命解其縛。平起身望闕拜曰：「臣不能為國家除賊，乃天數也！」拜畢，撞階而死。操令分其肢體號令。時建安五年正月也。史官有詩曰：\n漢朝無起色，醫國有稱平。\n立誓除姦黨，捐軀報聖明。\n極刑詞愈烈，慘死氣如生。\n十指淋漓處，千秋仰異名。\n操見吉平已死，教左右牽過秦慶童至面前。操曰：「國舅認得此人否？」承大怒曰：「逃奴在此！即當誅之！」操曰：「他首告謀反，今來對證，誰敢誅之？」承曰：「丞相何故聽逃奴一面之說？」操曰：「王子服等吾已擒下，皆招證明白，汝尚抵賴乎？」即喚左右拏下，命從人直入董承臥房內，搜出衣帶詔並義狀。操看了，笑曰：「鼠輩安敢如此！」遂命：「將董承全家良賤，盡皆監禁，休教走脫一個。」操回府以詔狀示眾謀士商議，要廢獻帝，更立新君。正是：\n數行丹詔成虛望，一紙盟書惹禍殃。\n未知獻帝性命如何，且聽下文分解。",
+    "title": "第二十三回 禰正平裸衣罵賊　　　吉太醫下毒遭刑"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-023.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

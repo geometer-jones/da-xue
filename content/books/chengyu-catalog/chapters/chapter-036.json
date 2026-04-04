@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-036",
+    "order": 36,
+    "summary": "奉公如法",
+    "text": "奉公如法\n小己得失\n古是今非\n今生今世\n公才公望\n平地起家\n身退功成\n得道多助\n改是成非\n道高德重\n事半功百\n出神入定\n至再至三\n名德重望\n出口成章\n千了百了\n立身行己\n三三四四\n死心踏地\n百二山河\n丹心如故\n安心定志\n行家里手\n立命安身\n半路出家\n入木三分\n安如太山\n成算在心\n正名定分\n恩德如山",
+    "title": "1051-1080",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "奉公如法",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Perform official duties and abide by laws"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "小己得失",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xiaoji personally"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "古是今非",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Right and wrong in ancient times and now"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "今生今世",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This life"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "公才公望",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Talent and knowledge"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "平地起家",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to start from scratch (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "身退功成",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to achievements in one’s career and retreat to one’s homeland."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "得道多助",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a just cause enjoys abundant support (idiom); those upholding justice will find help all around"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "改是成非",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "is correct, right"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "道高德重",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "High moral character and very prestigious"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "事半功百",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to doing things the right way, so the effort is small and the results are great."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "出神入定",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "describe concentration"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "至再至三",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Point again and again and again and again"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "名德重望",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Jude was highly respected"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "出口成章",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) (of one's speech) eloquent"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "千了百了",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It's over, it's over"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "立身行己",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Be self-reliant and behave in a moderate manner"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "三三四四",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still three or three"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "死心踏地",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 死心塌地[si3 xin1 ta1 di4]"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "百二山河",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Two against one hundred"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "丹心如故",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Loyal and loyal"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "安心定志",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Means to feel at ease"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "行家里手",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "connoisseur"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "立命安身",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Destiny to be mentally stable"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "半路出家",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. to enter monastic life at a mature age (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "入木三分",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "written in a forceful hand"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "安如太山",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describe extremely safe and stable"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "成算在心",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I have already made plans in my mind on how to deal with it."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "正名定分",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Correct names and make them consistent with reality"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-036-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "恩德如山",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor of extremely profound kindness"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-036.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

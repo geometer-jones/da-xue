@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 26,
+    "id": "chapter-002",
+    "order": 2,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 26,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Once you know where to stop, you can be settled; once settled, you can be calm; once calm, you can be at ease; once at ease, you can deliberate; once you deliberate, you can attain."
+          }
+        },
+        "id": "chapter-002-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "知止而后有定，定而后能靜，靜而后能安，安而后能慮，慮而后能得。"
+      }
+    ],
+    "summary": "定而后能靜，靜而后能安，安而后能慮，慮而后能得",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "知止而后有定，定而后能靜，靜而后能安，安而后能慮，慮而后能得。",
+    "title": "知止而后有定"
+  },
+  "chapter_path": "books/da-xue/chapters/chapter-002.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-030",
+    "order": 30,
+    "summary": "一之已甚",
+    "text": "一之已甚\n不直一钱\n解人难得\n不入时宜\n法出一门\n无可厚非\n同明相照\n却之不恭\n天下大乱\n明如指掌\n一日三秋\n积不相能\n大做文章\n流言风语\n为人作嫁\n无与比伦\n无与伦比\n千人一面\n百不获一\n不因人热\n作如是观\n见几而作\n贵在知心\n春风得意\n何所不为\n政通人和\n起死回生\n回生起死\n遇事生风\n身无长物",
+    "title": "871-900",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "一之已甚",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One is too much"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "不直一钱",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not straight money"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "解人难得",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Understanding people is rare"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "不入时宜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "out of step with current thinking"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "法出一门",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One method of teaching"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "无可厚非",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 未可厚非[wei4 ke3 hou4 fei1]"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "同明相照",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Take pictures with the same light"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "却之不恭",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to refuse would be impolite"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "天下大乱",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the whole country in rebellion"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "明如指掌",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "as clear as the palm of your hand"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "一日三秋",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a single day apart seems like three seasons"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "积不相能",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "always at loggerheads; never able to agree with sb; unable to get on with"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "大做文章",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to make a big thing out of a certain matter to escalate the situation and achieve one's own goals"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "流言风语",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gossip"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "为人作嫁",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to work for the advantage of someone else"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "无与比伦",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Unparalleled"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "无与伦比",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "incomparable"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "千人一面",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thousands of people are alike"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "百不获一",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not getting one out of a hundred"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "不因人热",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not because of people's heat"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "作如是观",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to view the matter in this way"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "见几而作",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Made according to the situation"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "贵在知心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The most important thing is understanding"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "春风得意",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "flushed with success"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "何所不为",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "What not to do"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "政通人和",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "efficient government, people at peace; all is well with the state and the people"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "起死回生",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to rise from the dead; an unexpected recovery"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "回生起死",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Resurrection and death"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "遇事生风",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to stir up trouble at every opportunity"
+          }
+        },
+        "category": "中透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-030-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "身无长物",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to possess nothing except bare necessities; to live a frugal life"
+          }
+        },
+        "category": "中透明度 II"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-030.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

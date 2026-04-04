@@ -1,0 +1,102 @@
+{
+  "commentary": {
+    "character_count": 118,
+    "id": "commentary-chapter-006",
+    "order": 6,
+    "reading_unit_count": 4,
+    "reading_units": [
+      {
+        "character_count": 31,
+        "id": "commentary-chapter-006-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "所謂誠其意者：毋自欺也，如惡惡臭，如好好色，此之謂自謙，故君子必慎其獨也！"
+      },
+      {
+        "character_count": 56,
+        "id": "commentary-chapter-006-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "小人閒居為不善，無所不至，見君子而后厭然，揜其不善，而著其善。人之視己，如見其肺肝然，則何益矣。此謂誠於中，形於外，故君子必慎其獨也。"
+      },
+      {
+        "character_count": 14,
+        "id": "commentary-chapter-006-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "曾子曰：「十目所視，十手所指，其嚴乎！」"
+      },
+      {
+        "character_count": 17,
+        "id": "commentary-chapter-006-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "富潤屋，德潤身，心廣體胖，故君子必誠其意。"
+      }
+    ],
+    "summary": "釋誠意",
+    "supplemental_text": "惡、好上字，皆去聲。謙讀為慊，苦劫反。誠其意者，自脩之首也。毋者，禁止之辭。自欺云者，知為善以去惡，而心之所發有未實也。謙，快也，足也。獨者，人所不知而己所獨知之地也。言欲自脩者知為善以去其惡，則當實用其力，而禁止其自欺。使其惡惡則如惡惡臭，好善則如好好色，皆務決去，而求必得之，以自快足於己，不可徒苟且以殉1外而為人也。然其實與不實，蓋有他人所不及知而己獨知之者，故必謹之於此以審其幾焉。閒，音閑。厭，鄭氏讀為黶。閒居，獨處也。厭然，消沮閉藏之貌。此言小人陰為不善，而陽欲揜之，則是非不知善之當為與惡之當去也；但不能實用其力以至此耳。然欲揜其惡而卒不可揜，欲詐為善而卒不可詐，則亦何益之有哉！此君子所以重以為戒，而必謹其獨也。引此以明上文之意。言雖幽獨之中，而其善惡之不可揜如此。可畏之甚也。胖，步丹反。胖，安舒也。言富則能潤屋矣，德則能潤身矣，故心無愧怍，則廣大寬平，而體常舒泰，德之潤身者然也。蓋善之實於中而形於外者如此，故又言此以結之。\n右傳之六章。釋誠意。經曰：「欲誠其意，先致其知。」又曰：「知至而后意誠。」蓋心體之明有所未盡，則其所發必有不能實用其力，而苟焉以自欺者。然或己明而不謹乎此，則其所明又非己有，而無以為進德之基。故此章之指，必承上章而通考之，然後有以見其用力之始終，其序不可亂而功不可闕如此云。1. 殉 : Another version reads: \"徇\". 《摛藻堂四庫全書薈要》本作「徇」",
+    "supplemental_unit_count": 6,
+    "supplemental_units": [
+      {
+        "character_count": 91,
+        "id": "commentary-chapter-006-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "惡、好上字，皆去聲。謙讀為慊，苦劫反。誠其意者，自脩之首也。毋者，禁止之辭。自欺云者，知為善以去惡，而心之所發有未實也。謙，快也，足也。獨者，人所不知而己所獨知之地也。言欲自脩者知為善以去其惡，則當實用其力，而禁止其自欺。"
+      },
+      {
+        "character_count": 97,
+        "id": "commentary-chapter-006-supp-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "使其惡惡則如惡惡臭，好善則如好好色，皆務決去，而求必得之，以自快足於己，不可徒苟且以殉1外而為人也。然其實與不實，蓋有他人所不及知而己獨知之者，故必謹之於此以審其幾焉。閒，音閑。厭，鄭氏讀為黶。閒居，獨處也。厭然，消沮閉藏之貌。"
+      },
+      {
+        "character_count": 104,
+        "id": "commentary-chapter-006-supp-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "此言小人陰為不善，而陽欲揜之，則是非不知善之當為與惡之當去也；但不能實用其力以至此耳。然欲揜其惡而卒不可揜，欲詐為善而卒不可詐，則亦何益之有哉！此君子所以重以為戒，而必謹其獨也。引此以明上文之意。言雖幽獨之中，而其善惡之不可揜如此。"
+      },
+      {
+        "character_count": 68,
+        "id": "commentary-chapter-006-supp-004",
+        "order": 4,
+        "source_block_chunk": 4,
+        "source_block_order": 1,
+        "text": "可畏之甚也。胖，步丹反。胖，安舒也。言富則能潤屋矣，德則能潤身矣，故心無愧怍，則廣大寬平，而體常舒泰，德之潤身者然也。蓋善之實於中而形於外者如此，故又言此以結之。"
+      },
+      {
+        "character_count": 79,
+        "id": "commentary-chapter-006-supp-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "右傳之六章。釋誠意。經曰：「欲誠其意，先致其知。」又曰：「知至而后意誠。」蓋心體之明有所未盡，則其所發必有不能實用其力，而苟焉以自欺者。然或己明而不謹乎此，則其所明又非己有，而無以為進德之基。"
+      },
+      {
+        "character_count": 71,
+        "id": "commentary-chapter-006-supp-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "故此章之指，必承上章而通考之，然後有以見其用力之始終，其序不可亂而功不可闕如此云。1. 殉 : Another version reads: \"徇\". 《摛藻堂四庫全書薈要》本作「徇」"
+      }
+    ],
+    "text": "所謂誠其意者：毋自欺也，如惡惡臭，如好好色，此之謂自謙，故君子必慎其獨也！\n小人閒居為不善，無所不至，見君子而后厭然，揜其不善，而著其善。人之視己，如見其肺肝然，則何益矣。此謂誠於中，形於外，故君子必慎其獨也。\n曾子曰：「十目所視，十手所指，其嚴乎！」\n富潤屋，德潤身，心廣體胖，故君子必誠其意。",
+    "title": "右傳之六章"
+  },
+  "commentary_path": "books/da-xue/commentary/commentary-chapter-006.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

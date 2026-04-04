@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 81,
+    "id": "chapter-055",
+    "order": 55,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 81,
+        "id": "chapter-055-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "含德之厚，比於赤子。蜂蠆虺蛇不螫，猛獸不據，攫鳥不搏。骨弱筋柔而握固。未知牝牡之合而全作，精之至也。終日號而不嗄，和之至也。知和曰常，知常曰明，益生曰祥。心使氣曰強。物壯則老，謂之不道，不道早已。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He who has in himself abundantly the attributes (of the Tao) is like an infant. Poisonous insects will not sting him; fierce beasts will not seize him; birds of prey will not strike him. (The infant's) bones are weak and its sinews soft, but yet its grasp is firm. It knows not yet the union of male and female, and yet its virile member may be excited;--showing the perfection of its physical essence. All day long it will cry without its throat becoming hoarse;--showing the harmony (in its constitution). To him by whom this harmony is known, (The secret of) the unchanging (Tao) is shown, And in the knowledge wisdom finds its throne. All life-increasing arts to evil turn; Where the mind makes the vital breath to burn, (False) is the strength, (and o'er it we should mourn.) When things have become strong, they (then) become old, which may be said to be contrary to the Tao. Whatever is contrary to the Tao soon ends."
+          }
+        }
+      }
+    ],
+    "summary": "含德之厚，比於赤子",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "含德之厚，比於赤子。蜂蠆虺蛇不螫，猛獸不據，攫鳥不搏。骨弱筋柔而握固。未知牝牡之合而全作，精之至也。終日號而不嗄，和之至也。知和曰常，知常曰明，益生曰祥。心使氣曰強。物壯則老，謂之不道，不道早已。",
+    "title": "第55章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-055.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

@@ -1,0 +1,853 @@
+{
+  "chapter": {
+    "character_count": 4891,
+    "id": "chapter-095",
+    "order": 95,
+    "reading_unit_count": 64,
+    "reading_units": [
+      {
+        "character_count": 43,
+        "id": "chapter-095-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說魏主曹叡令張郃為先鋒，與司馬懿一同征進；一面令辛毗、孫禮二人領兵五萬，往助曹真。二人奉詔而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When encamped, the Commander-in-chief summoned the leader of the van to his tent and admonished him, saying, “A characteristic of Chuko Liang is his most diligent carefulness; he is never hasty. If I were in his place I should advance through the Tzuwu Valley to capture Ch‘angan and so save much time. It is not that he is unskilful, but he fears lest that plan might miscarry, and he will not sport with risk. Therefore he will certainly come through the Hsieh Valley, taking Meich'êng on the way. That place captured, he will divide his force into two, one part to take Chi Valley. I have sent orders to guard Meich'êng strictly and on no account to let its garrison go out to battle. The captains Sun Li and Hsin P‘i are to command the Chi Valley entrance, and should the enemy come they are to make a sudden attack.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-095-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "且說司馬懿引二十萬軍，出關下寨，請先鋒張郃至帳下曰：「諸葛亮生平謹慎，未敢造次行事。若吾用兵，先從子午谷逕取長安，早得多時矣。他非無謀，但恐有失，不肯弄險。今必出軍斜谷，來取郿城。若取郿城，必分兵兩路，一軍取箕谷矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“By what road will you advance?” asked Chang. “I know a road west of Ts‘inling valley called Chieht‘ing, on which stands the city Liehliuch'êng. These two places are the throat of Hanchung. Chuko Liang will take advantage of the unpreparedness of Ts‘ao Chên and will certainly come in by this way. I and you will go to Chieht‘ing, whence it is a short distance to Yenp‘ing Pass, and when K‘ung-ming hears that the road through Chieht‘ing is blocked and his supplies cut off, he will know that Shênsi is in danger, and will retire without losing a moment into Hanchung. I shall smite him on the march, and I ought to gain a complete victory. If he should not retire, then I shall block all the smaller roads and so stop his supplies. A month’s starvation will kill off the men of Shu, and Chuko will be my prisoner.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-095-line-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "吾已發檄文，令子丹拒守郿城，若兵來不可出戰；令孫禮、辛毗截住箕谷道口，若兵來則出奇兵擊之。」郃曰：「今將軍當於何處進兵？」懿曰：「吾素知秦嶺之西，有一條路，地名街亭，傍有一城，名列柳城；此二處皆是漢中咽喉。諸葛亮欺子丹無備，定從此進。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang Ho took in the scheme and expressed his admiration of the prescience of his chief. Ssǔma continued, “However, it is not to be forgotten that Chuko is quite different from Mêng, and you, as leader of the van, will have to advance with the utmost care. You must impress upon your captains the importance of reconnoitring a long way ahead and only advancing when they are sure there ​ is no ambush. The least remissness will make you the victim of some ruse of the enemy.” Chang Ho, having received his instructions, marched away. Meanwhile a spy had come to K‘ung-ming in Ch‘ishan with news of the destruction of Mêng Ta and the failure of his conspiracy. Ssuma, having succeeded there, had gone to Ch‘angan when he had marched through the pass."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-095-line-004",
+        "order": 4,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "吾與汝逕取街亭，望陽平關不遠矣。亮若知吾斷其街亭要路，絕其糧道，則隴西一境，不能安守，必然連夜奔回漢中去也。彼若回動，吾提兵於小路擊之，可得全勝；若不歸時，吾卻將諸處小路，盡皆壘斷，俱以兵守之。一月無糧，蜀兵皆餓死，亮必被吾擒矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming was distressed. “Mêng’s destruction was certain,” said he. “Such a scheme could not remain secret. Now Ssuma will try for Chieht‘ing and block the one road essential to us.” So Chieht‘ing had to be defended, and K‘ung-ming asked who would go. Ma Su offered himself instantly. K‘ungming urged upon him the importance of his task. “The place is small, but of very great importance, for its loss would involve the loss of the whole army. You are deeply read in all the rules of strategy, but the defence of this place is difficult, since it has no wall and no natural defences.”"
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-095-line-005",
+        "order": 5,
+        "source_block_chunk": 4,
+        "source_block_order": 2,
+        "text": "」張郃大悟，拜伏於地曰：「都督神算也！」懿曰：「雖然如此，諸葛亮不比孟達。將軍為先鋒，不可輕進。當傳與諸將：循山西路，遠遠哨探。如無伏兵，方可前進。若是怠忽，必中諸葛亮之計。」張郃受計引軍而行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have studied the books of war since I was a boy, and I may say I know a little of the art of war,” Ma replied. “Why alone is Chieht‘ing so difficult to hold?” “Because Ssǔma I is an exceptional man, and also he has a famous second in Chang Ho as leader of the van. I fear you may not be a match for him.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-095-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "卻說孔明在祁山寨中，忽報新城探細人來到。孔明急喚入問之。細作告曰：「司馬懿倍道而行，八日已到新城，孟達措手不及；又被申耽、申儀、李輔、鄧賢為內應，孟達被亂軍所殺。今司馬懿撤兵到長安，見了魏主，同張郃引兵出關，來拒我師也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ma replied, “To say nothing of these two, I would not mind if Ts‘ao Jui himself came against me. If I fail, then I beg you to behead my whole family.” “There is no jesting in war,” said K‘ung-ming. “I will give a written pledge.” The general agreed, and a written pledge was given and placed on record. K‘ung-ming continued, “I shall give you two legions and a half of veterans and also send an officer of rank to assist you.”"
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-095-line-007",
+        "order": 7,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "」孔明大驚曰：「孟達作事不密，死固當然。今司馬懿出關，必取街亭，斷吾咽喉之路。」便問：「誰敢引兵去守街亭？」言未畢，參軍馬謖曰：「某願往。」孔明曰：「街亭雖小，干係甚重：倘街亭有失，吾大軍皆休矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Next he summoned Wang P‘ing and said to him, “As you are a careful and cautious man I am giving you a very responsible position. You are to hold Chieht‘ing with the utmost tenacity. Camp there in the most commanding position so that the enemy cannot steal by. When your arrangements are complete, draw a plan of them and a map of the local topography and let me see it. All my dispositions have been carefully thought out and are not to be changed. If you can hold this successfully it will be of the first service in the capture of Ch‘angan. So be very, very careful.”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-095-line-008",
+        "order": 8,
+        "source_block_chunk": 3,
+        "source_block_order": 3,
+        "text": "汝雖深通謀略，此地奈無城郭，又無險阻，守之極難。」謖曰：「某自幼熟讀兵書，頗知兵法。豈一街亭不能守耶？」孔明曰：「司馬懿非等閒之輩；更有先鋒張郃，乃魏之名將：恐汝不能敵之。」謖曰：「休道司馬懿、張郃，便是曹叡親來，有何懼哉！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After these two had gone and K‘ung-ming had reflected for a long time, it occurred to him that there might be some slip between his two leaders, so he called Kao Hsiang to him and said, “North-east of Chieht‘ing is a city named Liehliuch‘êng and near it an unfrequented hill path. There you are to camp and make a stockade. I will give you a legion for this task, ​ and if Chieht‘ing should be threatened you may go to the rescue.”"
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-095-line-009",
+        "order": 9,
+        "source_block_chunk": 4,
+        "source_block_order": 3,
+        "text": "若有差失，乞斬全家。」孔明曰：「軍中無戲言。」謖曰：「願立軍令狀。」孔明從之。謖遂寫了軍令狀呈上。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After Kao Hsiang had left, and as K‘ung-ming knew his man was not a match for his opponent Chang Ho, he decided there ought to be additional strength on the west in order to make Chieht‘ing safe. So he summoned Wei Yen and bade him lead his troop to the rear of Chieht‘ing and camp there."
+          }
+        }
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-095-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "孔明曰：「吾與汝二萬五千精兵，再撥一員上將，相助你去。」即喚王平分付曰：「吾素知汝平生謹慎，故特以此重任相託。汝可小心謹慎。此地下寨必當要道之處，使賊兵急切不能偷過。安營既畢，便畫四至八道地理形狀圖本來我看。凡事商議停當而行，不可輕易。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Wei Yen thought this rather a slight, and said, “As leader of the van I should go first against the enemy; why am I sent to a place where there is nothing to do?” “The leadership of the van is really a second-rate task. Now I am sending you to support Chieht‘ing and take post on the most dangerous road to Yenp‘ing Pass. You are the chief keeper of the throat of Hanchung. It is a very responsible post and not at all an idle one. Do not so regard it and spoil my whole plan. Be particularly careful.” Wei Yen, satisfied now that he was not being slighted, went his way."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-095-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "如所守無危，則是取長安第一功也。戒之！戒之！」二人拜辭引兵而去。孔明尋思，恐二人有失，又喚高翔曰：「街亭東北上有一城，名列柳城，乃山僻小路：此可以屯兵紮寨。與汝一萬兵，去此城屯紮。但街亭危，可引兵救之。」高翔引兵而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming’s mind was at rest, and he called up Chao Yün and Têng Chih, to whom he said, “Now that Ssŭma I is in command of the army the whole outlook is different. Each of you will lead a force out by Chi Valley and move about so as to mislead the enemy. Whether you meet and engage them or not you will certainly cause them uneasiness. I am going to lead the main army through Hsieh Valley to Meich'êng. If I can capture that, Ch‘'angan will fall.”"
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-095-line-012",
+        "order": 12,
+        "source_block_chunk": 3,
+        "source_block_order": 4,
+        "text": "孔明又思高翔非張郃對手，必得一員大將，屯兵於街亭之右，方可防之！遂喚魏延引本部兵去街亭之後屯紮。延曰：「某為前部，理合當先破敵，何故置某於安閒之地？」孔明曰：「前鋒破敵，乃偏裨之事耳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "For this march Chiang Wei was appointed leader of the van. When Ma Su and Wang P‘ing had reached Chieht‘ing and saw what manner of place it was, Ma Su smiled, saying, “Why was the minister so extremely anxious? How would the Wei armies dare to come to such a hilly place as this?” Wang P‘ing replied, “Though they might not dare to come, we should set our camp at this meeting of many roads.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-095-line-013",
+        "order": 13,
+        "source_block_chunk": 4,
+        "source_block_order": 4,
+        "text": "今令汝接應街亭，當陽平關衝要道路，總守漢中咽喉，此乃大任也。何為安閒乎？汝勿以等閒視之，失吾大事。切宜小心在意！」魏延大喜，引兵而去。孔明恰纔心安，乃喚趙雲、鄧芝分付曰：「今司馬懿出兵，與往日不同。汝二人各引一軍出箕谷，以為疑兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Wang ordered his men to fell trees and build a strong stockade as for a permanent stay. But Ma Su had a different idea. “What sort of a place is a road to make a camp in? Here is a hill standing solitary and well wooded. It is a heaven-created point of vantage, and we will camp on it.” “You are wrong, Sir,” replied Wang. “If we camp on the road and build a strong wall the enemy cannot possibly get past. If we abandon this for the hill, and the men of Wei come in force, we shall be surrounded, and how then be safe?”"
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-095-line-014",
+        "order": 14,
+        "source_block_chunk": 5,
+        "source_block_order": 4,
+        "text": "如逢魏兵，或戰、或不戰，以驚其心。吾自統大軍，由斜谷逕取郿城：若得郿城，長安可破矣。」二人受命而去。孔明令姜維作先鋒，兵出斜谷。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You look at the thing like a woman,” said Ma Su, laughing. “The rules of war say that when one looks down from a superior position one easily overcomes the enemy. If they come I will see to it that not a breastplate ever goes back again.”"
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-095-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "卻說馬謖、王平二人兵到街亭，看了地勢。馬謖笑曰：「丞相何故多心也？量此山僻之處，魏兵如何敢來！」王平曰：「雖然魏兵不敢來，可就此五路總口下寨；即令軍士伐木為柵，以圖久計。」謖曰：「當道豈是下寨之地？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “I have followed our general in many a campaign, and always he has carefully thought out his orders. Now I have studied this hill carefully, and it is a critical point. If we camp thereon and the enemy cut off our water supply we shall have a mutiny.” “No such thing,” said Ma Su. “Sun Wu says that victory lies in desperate positions. If they cut off our water will not our men be desperate and fight to the death? Then everyone of them will be worth a hundred. I have studied the books, and the minister has always asked my advice. Why do you presume to oppose me?”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-095-line-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "此處側邊一山，四面皆不相連，且樹木極廣，此乃天賜之險也。可就山上屯軍。」平曰：「參軍差矣：若屯兵當道，築起城垣，賊兵縱有十萬，不能偷過；今若棄此要路，屯兵於山上，倘魏兵驟至，四面圍定，將何策保之？」謖大笑曰：「汝真女子之見！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If you are determined to camp on the hill, then give me part of the force to camp there on the west so that I can support you in case the enemy come.” But Ma Su refused. Just then a lot of the inhabitants of the hills came running along saying that the Wei soldiers had come. Wang was still bent on going his own way, and so Ma said to him, “Since you will not obey me, I will give you half a legion and you can go and make your own camp, but when I report my success to the minister you shall have no share of the merit.”"
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-095-line-017",
+        "order": 17,
+        "source_block_chunk": 3,
+        "source_block_order": 5,
+        "text": "兵法云：『憑高視下，勢如劈竹。』若魏兵到來，吾教他片甲不回！」平曰：「吾累隨丞相經陣，每到之處，丞相盡意指教。今觀此山，乃絕地也。若魏兵斷我汲水之道，軍士不戰自亂矣。」謖曰：「汝莫亂道！孫子云：『置之死地而後生。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wang P‘ing marched about ten li from the hill and made his camp. He drew a plan of the place and sent it quickly to K‘ung-ming with a report that Ma Su had camped on the hill. Before Ssǔma marched, he sent his younger son to reconnoitre the road and to find out whether Chieht‘ing had a garrison. He had returned with the information that there was a garrison. “Chuko Liang is rather more than human,” said his father regretfully when the son gave in his report. “He is too much for me.”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-095-line-018",
+        "order": 18,
+        "source_block_chunk": 4,
+        "source_block_order": 5,
+        "text": "』若魏兵絕我汲水之道，蜀兵豈不死戰？以一可當百也。吾素讀兵書，丞相諸事尚問於我，汝奈何相阻耶？」平曰：「若參軍欲在山上下寨，可分兵與我，自於山西下一小寨，為犄角之勢。倘魏兵至，可以相應。」馬謖不從。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Why are you despondent, father? I think Chieht‘ing is not so difficult to take.” “How dare you utter such bold words?” “Because I have seen. There is no camp on the road, but the enemy are camped on the hill.” This was glad news. “If they are on the hill then Heaven means a victory for me,” said his father. Ssŭma changed into another dress, took a small escort and rode out to see for himself. The moon shone brilliantly, and he rode to the hill whereon was the camp and looked all round it, thoroughly reconnoitring the neighbourhood. Ma Su saw him, but only laughed."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-095-line-019",
+        "order": 19,
+        "source_block_chunk": 5,
+        "source_block_order": 5,
+        "text": "忽然山中居民，成群結隊，飛奔而來，報說魏兵已到。王平欲辭去。馬謖曰：「汝既不聽吾令，與汝五千兵自去下寨。待吾破了魏兵，到丞相面前須分不得功！」王平引兵離山十里下寨，畫成圖本，星夜差人去稟孔明，具說馬謖自於山上下寨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“If he has any luck he will not try to surround this hill,” said Ma. He issued an order to his captains that in case the enemy came they were to look to the summit for a signal with a red flag, when they should rush down on all sides. ​ Ssŭma I returned to his camp and sent out to enquire who commanded in Chieht‘ing. They told him Ma Su, brother of Ma Liang. “A man of false reputation and very ordinary ability,” said Ssǔma. “If K‘ung-ming uses such as he, he will fail.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-095-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "卻說司馬懿在城中，令次子司馬昭去探前路；若街亭有兵把守，即當按兵不行。司馬昭奉令探了一遍，回見父曰：「街亭有兵守把。」懿嘆曰：「諸葛亮真乃神人，吾不如也！」昭笑曰：「父親何故自隳志氣耶？男料街亭易取。」懿問曰：「汝安敢出此大言？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then he asked if there were any other camps near the place, and they told him Wang P‘ing was about ten li off. Wherefore Chang Ho was ordered to go and check Wang P‘ing. This done, the hill was surrounded and the road to the water supply was blocked. Lack of water would cause a mutiny, and when that occurred it would be time to attack. Chang Ho marched out and placed himself between Wang P‘ing and the hill. Then Ssǔma led the main body to attack the hill on all sides."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-095-line-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "」昭曰：「男親自哨見，當道並無寨柵，軍皆屯於山上，故知可破也。」懿大喜曰：「若兵果在山上，乃天使吾成功矣！」遂更換衣服，引百餘騎親自來看。是夜天晴月朗，直至山下，周圍巡哨了一遍，方回。馬謖在山上見之，大笑曰：「彼若有命，不來圍山。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "From the summit of his hill Ma Su could see the banners of his enemy all round, and the country about was full of men. Presently the hemming in was complete, and the men of Shu became dejected. They dared not descend to attack although the red flag signalled for them to move. The captains stood huddled together, no one daring to go first. Ma Su was furious. He cut down two officers, which frightened the others to the point of descending and making one desperate rush. But the men of Wei would not fight with them, and they're-ascended the hill."
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-095-line-022",
+        "order": 22,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "」傳令與諸將：「倘兵來，只見山頂上紅旗招動，即四面皆下。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ma Su saw that matters were going ill, so he issued orders to bar the gates and defend till help should come."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-095-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "卻說司馬懿回到寨中，使人打聽是何將引兵守街亭。回報曰：「乃馬良之弟馬謖也。」懿笑曰：「徒有虛名，乃庸才耳！孔明用如此人物，如何不誤事！」又問：「街亭左右別有軍否？」探馬報曰：「離山十里有王平安營。」懿乃命張郃引一軍，當住王平來路。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Wang P‘ing saw the hill surrounded he started to go to the rescue, but Chang Ho checked him, and after exchanging a half score encounters Wang was compelled to retire whence he had come."
+          }
+        }
+      },
+      {
+        "character_count": 102,
+        "id": "chapter-095-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "又令申耽、申儀引兩路兵圍山，先斷了汲水道路；待蜀兵自亂，然後乘勢擊之。當夜調度已定。次日天明，張郃引兵先往背後去了。司馬懿大驅軍馬，一擁而進，把山四面圍定。馬謖在山上看時，只見魏兵漫山遍野，旌旗隊伍，甚是嚴整。蜀兵見之，盡皆喪膽，不敢下山。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Wei men kept a close siege. The men in the hill camp, having no water, were unable to prepare food, and disorder broke out. The shouting was audible at the foot of the hill and went on far into the night. The men on the south face got out of hand, opened the gates and surrendered. The men of Wei went round the hill setting fire to the wood, which led to still greater confusion in the beleaguered garrison. At last Ma Su decided to make a dash for safety toward the west."
+          }
+        }
+      },
+      {
+        "character_count": 68,
+        "id": "chapter-095-line-025",
+        "order": 25,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "馬謖將紅旗招動，軍將你我相推，無一人敢動。謖大怒，自殺二將。眾軍驚懼，只得努力下山來衝魏兵。魏兵端然不動。蜀兵又退上山去。馬謖見事不諧，教軍緊守寨門，只等外應。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ssuma allowed him to pass, but Chang Ho was sent to pursue and chased him for thirty li . But then there came an unexpected roll of drums. Chang Ho was stopped by Wei Yen while Ma Su got past. Whirling up his sword, Wei Yen dashed toward Chang, who retired within his ranks and fled. Wei followed and drove Chang backward toward Chieht‘ing."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-095-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "卻說王平見魏兵到，引軍殺來，正遇張郃；戰有數十餘合，平力窮勢孤，只得退去。魏兵自辰時困至戌時，山上無水，軍不得食，寨中大亂。嚷到半夜時分，山南蜀兵大開寨門，下山降魏。馬謖禁止不住。司馬懿又令人於沿山放火，山上蜀兵愈亂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The pursuit continued for fifty li , and then Wang found himself in an ambush, Ssŭma I on one side and his son on the other. They closed in behind Wei Yen, and he was surrounded. Chang Ho then turned back, and the attack was now on three sides. Wei Yen lost many men, and all his efforts failed to ​ get him clear of the press. Then help appeared in the person of Wang P‘ing."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-095-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "馬謖料守不住，只得驅殘兵殺下山西逃奔。司馬懿放條大路，讓過馬謖。背後張郃引兵趕來。趕到三十餘里，前面鼓角齊鳴，一彪軍出，放過馬謖，攔住張郃；視之，乃魏延也：揮刀縱馬，直取張郃。郃回軍便走。延驅兵趕來，復奪街亭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“This is life for me,” said Wei Yen as he saw Wang coming up, and the two forces joined in a new attack on the men of Wei. So the men of Wei drew off, while Wei Yen and Wang P‘ing made all haste back to their own camps—only to find them in the hands of the enemy."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-095-line-028",
+        "order": 28,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "趕到五十餘里，一聲喊起，兩邊伏兵齊出：左邊司馬懿，右邊司馬昭，卻抄在魏延背後，把延困在垓心。張郃復來，三路兵合在一處。魏延左衝右突，不得脫身，折兵大半。正危急間，忽一彪軍殺入，乃王平也。延大喜曰：「吾得生矣！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Shên I and Shên Tan then rushed out and drove Wei and Wang toward Liehliuch'êng. There they were received by Kao Hsiang, who had come out to meet his unfortunate colleagues. When Kao Hsiang heard their story, he at once proposed a night attack on the Wei camp and the recovery of Chieht‘ing. They talked this over on the hillside and arranged their plans, after which they set themselves to wait till it was dark enough to start."
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-095-line-029",
+        "order": 29,
+        "source_block_chunk": 4,
+        "source_block_order": 8,
+        "text": "」二將合兵一處，大殺一陣，魏兵方退。二將慌忙奔回寨時，營中皆是魏兵旌旗。申耽、申儀從營中殺出。王平、魏延逕奔列柳城，來投高翔。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They set out along three roads; and Wei Yen was the first to reach Chieht‘ing. Not a soldier was visible, which looked suspicious. He decided to await the arrival of Kao Hsiang and they both speculated as to the whereabouts of their enemy. They could find no trace, and the third army had not yet come up."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-095-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "此時高翔聞知街亭有失，盡起列柳城之兵，前來救應，正遇延、平二人，訴說前事。高翔曰：「不如今晚去劫魏寨，再復街亭。」當時三人在山坡下商議已定。待天色將晚，兵分三路。魏延引兵先進，逕到街亭，不見一人，心中大疑，不敢輕進，且伏在路口等候。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Suddenly a bomb exploded, and a brilliant flash lit up the sky; drums rolled as though the earth was rending, and the enemy appeared. In a trice the armies of Shu found themselves hemmed in. Both leaders pushed here and shoved there, but could find no way out. Then most opportunely from behind a hill rolled out a thunder of drums, and there was Wang P‘ing coming to their rescue. Then the three forced their way to Liehliuch'êng. But just as they drew near to the rampart another body of men came up, which, from the writing on their flags, they recognised as Kuo Huai’s army."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-095-line-031",
+        "order": 31,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "忽見高翔兵到，二人共說魏兵不知在何處。正沒理會，又不見王平兵到。忽然一聲砲響，火光沖天，鼓聲震地。魏兵齊出，把魏延、高翔圍在垓心。二人盡力衝突，不得脫身。忽聽得山坡後喊聲若雷，一彪軍殺入，乃是王平，救了高、魏二人，逕奔列柳城來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now Kuo was here from unworthy motives. He had talked over Ssuma’s recall with his colleague Ts‘ao Chên, and, fearing lest the recalled general should acquire too great glory, Kuo had set out to anticipate him in the capture of Chieht‘ing. Disappointed when he heard of his rival’s success there, he had decided to try a similar exploit at Liehliuch'êng. So he had diverted his march thither. He engaged the three Shu armies at once and slew so many of them that at Wei Yen’s suggestion they all left for Yangp‘ing Pass, which might be in danger."
+          }
+        }
+      },
+      {
+        "character_count": 102,
+        "id": "chapter-095-line-032",
+        "order": 32,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "比及奔到城下時，城邊早有一軍殺到，旗上大書「魏都督郭淮」字樣。原來郭淮與曹真商議，恐司馬懿得了全功，乃分淮來取街亭；聞知司馬懿、張郃成了此功，遂引兵逕襲列柳城。正遇三將，大殺一陣。蜀兵傷者極多。魏延恐陽平關有失，慌與王平、高翔望陽平關來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuo Huai, pleased with his success, gathered in his army after the victory and said to his officers, “I was disappointed at Chieht‘ing, but we have taken this place, and that is merit of high order.” Thereupon he proceeded to the city gates. Just as he arrived, a bomb exploded on the wall, and, looking up, he saw ​ the rampart bedecked with flags. On the largest banner he read the name of the general, Ssŭma I. At that moment Ssǔma himself lifted a board that hung in front of him and looked over the breast-high rail. He looked down and smiled, saying, “How late you are, friend Kuo!”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-095-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "卻說郭淮收了軍馬，乃謂左右曰：「吾雖不得街亭，卻取了列柳城，亦是大功。」引兵逕到城下叫門，只見城上一聲砲響，旗幟皆豎，當頭一面大旗，上書「平西都督司馬懿」。懿撐起懸空板，倚定護心木欄干，大笑曰：「郭伯濟來何遲也？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuo was amazed. “He is too much for me,” said he. So he resignedly entered the city and went to pay his respects to his successful rival. Ssǔma was gracious, and said, “K‘ung-ming must retire now that Chieht‘ing is lost. You join forces with Ts‘ao Chen and follow up quickly.”"
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-095-line-034",
+        "order": 34,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "」淮大驚曰：「仲達神機，吾不及也！」遂入城。相見已畢，懿曰：「今街亭已失，諸葛亮必走。公可速與子丹星夜追之。」郭淮從其言，出城而去。懿喚張郃曰：「子丹、伯濟，恐吾全獲大功，故來取此城池。吾非獨欲成功，乃僥倖而已。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ssǔma called to him his van-leader, and said, “Those two thought we should win too great merit, so they tried to get ahead of us here. We are not the only ones who desire to achieve good service and acquire merit, but we had the good fortune to succeed. I thought the enemy would first try to occupy Yangp‘ing Pass, and if I went to take it then Chuko would fall on our rear. It says in the books on war that one should crush a retreating enemy not pursue broken rebels, so you may go along the by-roads and smite those withdrawing down the Chi Valley, while I oppose the Hsieh Valley army. If they flee, do not fight, but just hold them up on the road and capture the baggage train.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-095-line-035",
+        "order": 35,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "吾料魏延、王平、馬謖、高翔等輩，必先去據陽平關。吾若去取此關，諸葛亮必隨後掩殺，中其計矣。兵法云：『歸師勿掩，窮寇莫追。』汝可從小路抄箕谷退兵。吾自引兵當斜谷之兵。若彼敗走，不可相拒，只宜中途截住，蜀兵輜重，可盡得也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang marched away with half the force to carry out his part of this plan, while Ssŭma gave orders to go to Hsieh Valley by way of Hsich'êng, which though a small place, was important as a dépôt of stores for the Shu army, beside commanding the road to the three districts of Nanan, T‘ienshui and Anting. If this place could be captured the other three could be recaptured. Ssǔma left Shên Tan and Shên I to guard Liehliuch'êng and marched his army toward the Hsieh Valley."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-095-line-036",
+        "order": 36,
+        "source_block_chunk": 4,
+        "source_block_order": 10,
+        "text": "」張郃受計，引兵一半去了。懿下令：「逕取斜谷：由西城而進。西城雖山僻小縣，乃蜀兵屯糧之所，又南安、天水、安定三郡總路。若得此城，三郡可復矣。」於是司馬懿留申耽、申儀守列柳城，自領大軍斜谷進發。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After K‘ung-ming had sent Ma Su to guard Chieht‘ing he was undecided what to do next. Then arrived the messenger with the plan prepared by Wang P‘ing. K‘ung-ming went over to his table and opened the letter. As he read it he smote the table in wrath. “Ma Su’s foolishness has destroyed the army,” he cried. “Why are you so disturbed, O Minister?” asked those near."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-095-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "卻說孔明自令馬謖等守街亭去後，猶豫不定。忽王平使人送圖本至。孔明喚入，左右呈上圖本。孔明就文几上拆開視之，拍案大驚曰：「馬謖無知，坑陷吾軍矣！」左右問曰：「丞相何故失驚？」孔明曰：「吾觀此圖本，失卻要路，占山為寨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“By this plan I see that we have lost command of an important road. The camp has been made on the hill, and if the Wei men come in force our army will be surrounded and their water supply interrupted. In two days the men will be in a state of mutiny, and if Chieht‘ing shall be lost how shall we be able to retire?” Here the Chang-shih Yang I said, “I am none too clever I know, but let me go to replace Ma Su.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-095-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "倘魏兵大至，四面圍合，斷汲水道路，不須二日，軍自亂矣。若街亭有失，吾等安歸？」長史楊儀進曰：「某雖不才，願替馬幼常回。」孔明將安營之法，一一分付與楊儀。正待要行，忽報馬到來，說街亭、列柳城，盡皆失了。孔明跌足長嘆曰：「大事去矣！此吾之過也！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "K‘ung-ming explained to him how and where to camp, but before he could start a horseman brought the news of the loss ​ of Chieht‘ing and Liehliuch'êng. This made K‘ung-ming very sad, and he sighed, saying, “The whole scheme has come to nought, and it is my fault.” He sent for Kuan and Chang, and said, “You two take three companies of good men and go along the road to Wukungshan. If you fall in with the enemy do not fight, but beat drums and raise a hubbub and make them hesitate and be doubtful, so that they may retire. Do not pursue, but when they retire make for Yangp‘ing Pass.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-095-line-039",
+        "order": 39,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "」急喚關興、張苞分付曰：「汝二人各引三千精兵，投武功山小路而行。如遇魏兵，不可大擊，只鼓譟吶喊，為疑兵驚之。彼當自走，亦不可追。待軍退盡，便投陽平關去。」又令張翼先引軍去修理劍閣，以備歸路。又密傳號令，教大軍暗暗收拾行裝，以備起程。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He also sent Chang I to put Chienko in order for retreat and issued instructions for making ready to march. Ma Tai and Chiang Wei were told to guard the rear, but they were to go into ambush in the valleys till the army was on the march. Trusty men were sent with the news to T‘ienshui, Nanan and Anting that the officers, army and people might go away into Hanchung. He also sent to remove to a place of safety the aged mother of Chiang Wei."
+          }
+        }
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-095-line-040",
+        "order": 40,
+        "source_block_chunk": 4,
+        "source_block_order": 11,
+        "text": "又令馬岱、姜維斷後，先伏於山谷中，待諸軍退盡，方始收兵。又令心腹人，分路與天水、南安、安定三郡官吏軍民，皆入漢中。又令心腹人到冀縣搬取姜維老母，送入漢中。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All these arrangements made, K‘ung-ming took five companies and set out for Hsich'êng to remove the stores. But messenger after messenger came to say that Ssǔma I was advancing rapidly on Hsich'êng with a large army. No leader of rank was left to K‘ung-ming; he had only the civil officials and the five companies, and as half this force had started to remove the stores, he had only two and a half companies left."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-095-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "孔明分撥已定，先引五千兵去西城縣搬運糧草。忽然十餘次飛馬報到，說司馬懿引大軍十五萬，望西城蜂擁而來。時孔明身邊並無大將，止有一班文官，所引五千軍，已分一半先運糧草去了，只剩二千五百軍在城中。眾官聽得這個消息，盡皆失色。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His officers were all frightened at the news of near approach of the enemy. K‘ung-ming himself went up on the rampart to look around. He saw clouds of dust rising into the sky. The Wei armies were nearing Hsich'êng along two roads. Then he ordered all the banners to be removed and concealed, and said if any officer in command of soldiers in the city moved or made any noise he would be instantly put to death. Next he threw open all the gates and set a score of soldiers dressed as ordinary people cleaning the streets at each gate. When all these preparations were complete, he donned the simple Taoist dress he affected on occasions and, attended by a couple of lads, sat down on the wall by one of the towers with his lute before him and a stick of incense burning."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-095-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "孔明登城望之，果然塵土沖天，魏兵分兩路望西城縣殺來。孔明傳令，教將旌旗盡皆藏匿；諸將各守城鋪，如有妄行出入，及高聲言語者，立斬；大開四門，每一門上用二十軍士，扮作百姓，灑掃街道，如魏兵到時，不可擅動，吾自有計。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ssǔma’s scouts came near the city gate and saw all this. They did not enter the city, but went back and reported what they had seen. Ssǔma I smiled incredulously. But he halted his army and rode ahead himself. Lo! it was exactly as the scouts had reported; K‘ung-ming sat there, his face all smiles. A lad stood on one side of him bearing a sword and on the other a boy with the ordinary symbol of authority, a yak’s tail. Just inside the gates a score of persons with their heads down were sweeping as if no one was about."
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-095-line-043",
+        "order": 43,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "孔明乃披鶴氅，戴綸巾，引二小童攜琴一張，於城上敵樓前，憑欄而坐，焚香操琴。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ssǔma hardly believed his eyes and thought this meant some peculiarly subtle ruse. So he went back to his armies, faced them about and moved toward the hills on the north."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-095-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "卻說司馬懿前軍哨到城下，見了如此模樣，皆不敢進，急報與司馬懿，懿笑而不信，遂止住三軍，自飛馬遠遠望之。果見孔明坐於城樓之上，笑容可掬，焚香操琴。左有一童子，手捧寶劍；右有一童子，手執麈尾。城門內外有二十餘名百姓，低頭洒掃，旁若無人。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “I am certain there are no soldiers behind this foolery,” said his second son. “What do you retire for, father?” “Chuko is always most careful and runs no risks. Those open gates undoubtedly mean an ambush, and if our men enter the city they will fall victims to his guile. How can you know? No; our course is to retire.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-095-line-045",
+        "order": 45,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "懿看畢大疑，便到中軍，教後軍作前軍，前軍作後軍，望北山路而退。次子司馬昭曰：「莫非諸葛亮無軍，故作此態？父親何便退兵？」懿曰：「亮平生謹慎，不曾弄險。今大開城門，必有埋伏。我兵若進，中其計也。汝輩豈知？宜速退。」於是兩路兵盡退去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thus were the two armies turned back from the city, much to the joy of K‘ung-ming, who laughed and clapped his hands as he saw them hastening away. The officials gasped with astonishment, and they asked K‘ung-ming to explain the phenomenon of a great army marching off at the sight of a single man. So he told them."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-095-line-046",
+        "order": 46,
+        "source_block_chunk": 3,
+        "source_block_order": 13,
+        "text": "孔明見魏軍遠去，撫掌而笑。眾官無不駭然。乃問孔明曰：「司馬懿乃魏之名將，今統十五萬精兵到此，見了丞相，便速退去，何也？」孔明曰：「此人料吾平生謹慎，必不弄險；見如此模樣，疑有伏兵，所以退去。吾非行險，蓋因不得已而用之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“He knows my reputation for carefulness and that I play not with danger. Seeing things as they were made him suspect an ambush, and so he turned away. I do not run risks, but this time there was no help for it. Now he will meet with Kuan and Chang, whom I sent away into the hills to wait for him.” They were still in the grip of fear, but they praised the depth of insight of their chief and his mysterious schemes and unfathomable plans."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-095-line-047",
+        "order": 47,
+        "source_block_chunk": 4,
+        "source_block_order": 13,
+        "text": "此人必引軍投山北小路去也。吾已令興、苞二人在彼等候。」眾皆驚服曰：「丞相之玄機，神鬼莫測。若某等之見，必棄城而走矣。」孔明曰：「吾兵止有二千五百，若棄城而走，必不能遠遁。得不為司馬懿所擒乎？」後人有詩讚曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“We should simply have run away,” said they. “What could we have done with two companies and a half even if we had run? We should not have gone far before being caught,” said K‘ung-ming. Quite open lay the city to the foe, But Chuko’s lute of jasper wonders wrought; It turned aside the legions' onward march For both the leaders guessed the other’s thought."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-095-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "瑤琴三尺勝雄師，諸葛西城退敵時。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“But if I had been in his place I should not have turned away,” said K‘ung-ming, smiling and clapping his hands."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-095-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "十五萬人回馬處，後人指點到今疑。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He gave orders that the people of the place should follow the army into Hanchung, for Ssǔma would assuredly return."
+          }
+        }
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-095-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "言訖，拍手大笑曰：「吾若為司馬懿，必不便退也。」遂下令，教西城百姓，隨軍入漢中；司馬懿必將復來。於是孔明離西城望漢中而走。天水、安定、南安三郡官吏軍，陸續而來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They abandoned Hsich'êng and returned into Hanchung. In due course the officials and soldiers and people out of the three districts also came in. It has been said that Ssŭma I turned aside from the city. He went to Wukungshan. Presently there came the sounds of an army from behind the hills. The leader turned to his sons, saying, “If we do not retire we shall yet somehow fall victims to this Chuko Liang.”"
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-095-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "卻說司馬懿望武功山小路而走。忽然山坡後喊殺連天，鼓聲震地。懿回顧二子曰：「吾若不走，必中諸葛亮之計矣。」只見大路上一軍殺來，旗上大書「右護衛使虎翼將軍張苞」。魏兵皆棄甲拋戈而走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then appeared a force advancing rapidly, the banners bearing the name of Chang Pao. The men of Wei were seized with sudden panic and ran, flinging off their armour and throwing away their weapons. But before they had fled very far they heard other terrible sounds in the valley and soon saw another force, with banners inscribed “Kuan Hsing.” The roar of armed men echoing up and down the valley was ​ terrifying, and as no one could tell how many men there were bearing down on them the panic increased. The Wei army abandoned all the baggage and took to flight. But having orders not to pursue, the two Shu generals let their enemies run in peace, while they gathered up the spoils. Then they returned."
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-095-line-052",
+        "order": 52,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "行不到一程，山谷中喊聲震地，鼓角喧天，前面一杆大旗，上書「左護衛使龍驤將軍關興」。山谷應聲，不知蜀兵多少；更兼魏軍心疑，不敢久停，只得盡棄輜重而去。興、苞二人皆遵將令，不敢追襲，多得軍器糧草而歸。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Seeing the valley apparently full of men of Shu, Ssǔma dared not leave the main road. He hurried back to Chieht‘ing. At this time Ts‘ao Chên, hearing that the army of Shu was retreating, went in pursuit. But at a certain point he encountered a strong force under Ma Tai and Chiang Wei. Valley and hill seemed to swarm with enemies, and Ts‘ao became alarmed. Then his van-leader was slain by Ma Tai, and the soldiers were panic-sticken and fled in disorder."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-095-line-053",
+        "order": 53,
+        "source_block_chunk": 3,
+        "source_block_order": 17,
+        "text": "司馬懿見山谷中皆是蜀兵，不敢出大路，遂回街亭。此時曹真聽知孔明退兵，急引兵追趕。山背後一聲砲響，蜀兵漫山遍野而來；為首大將，乃是姜維、馬岱。真大驚，急退軍時，先鋒陳造已被馬岱所斬。真引兵鼠竄而還，蜀兵連夜皆奔回漢中。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Meanwhile the men of Shu were hastening night and day along the road into Hanchung. Chao Yün and Têng Chi, who had been lying in ambush in Chi Valley, heard that their comrades were retreating. Then said Chao Yün, “The men of Wei will surely come to smite us while we are retreating. Wherefore let me first take up a position in their rear, and then you lead off your men and part of mine, showing my ensigns. I will follow, keeping at the same distance behind you, and thus I shall be able to protect the retreat.”"
+          }
+        }
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-095-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "卻說趙雲、鄧芝伏兵於箕谷道中。聞孔明傳令退軍，雲謂芝曰：「魏軍知吾兵退，必然來追。吾先引一軍伏於其後，公卻引兵打吾旗號，徐徐而退，吾一步步自有護送也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now Kuo Huai was leading his army through the Chi Valley. He called up his van-leader Su Yung and said to him, “Chao Yün is a warrior whom no one can withstand. You must keep a most careful guard lest you fall into some trap while they are retreating.”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-095-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "卻說郭淮提兵再回箕谷道中，喚先鋒蘇顒分付曰：「蜀將趙雲，英勇無敵，汝可小心隄防。彼軍若退，必有計也。」蘇顒欣然曰：「都督若肯接應，某當生擒趙雲。」遂引前部三千兵，奔入箕谷。看看趕上蜀兵，只見山坡後閃出紅旗白字，上書「趙雲」。蘇顒急收兵退走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Su Yung replied, smiling, “If you will help me, O Commander, we shall be able to capture this Chao Yün. So Su Yung, with three companies, hastened on ahead and entered the valley in the wake of the Shu army. He saw upon a slope in the distance a large red banner bearing the name of Chao Yün. This frightened him, and he retired. But before he had gone far a great uproar arose about him, and a mighty warrior came bounding forth on a swift steed, crying, “Do you recognise Chao Yün?”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-095-line-056",
+        "order": 56,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "行不到數里，喊聲大震，一彪軍撞出；為首大將，挺槍躍馬，大喝曰：「汝識趙子龍否！」蘇顒大驚曰：「如何這裏又有趙雲？」措手不及，被趙雲一槍刺死於馬下，餘軍潰散。雲迤邐前進，背後又一軍到，乃郭淮部將萬政也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Su Yung was terrified. “Whence came you?” he cried. “Is there another Chao Yün here.” He could make no stand, and soon fell victim to the spear of the veteran. His men scattered, and Chao Yün hurried on after the main body."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-095-line-057",
+        "order": 57,
+        "source_block_chunk": 3,
+        "source_block_order": 19,
+        "text": "雲見魏兵追急，乃勒馬挺槍，立於路口，待來將交鋒。蜀兵已去三十餘里。萬政認得是趙雲，不敢前進。雲等得天色黃昏，方纔撥回馬緩緩而退。郭淮兵到，萬政言趙雲英勇如舊，因此不敢近前。淮傳令教軍急趕，政令壯士數百騎趕來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But soon another company came in pursuit, this time led by one Wan Chêng. As they came along Chao Yün halted in the middle of the road. By the time Wan had come close the other Shu soldiers had gone about thirty li along the road. However, when Wan drew nearer still and saw who it was standing in his path, he hesitated and finally halted. Presently ​ he turned back and retired altogether, confessing on his return that he had not dared to face the old warrior, who seemed as terrible as ever."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-095-line-058",
+        "order": 58,
+        "source_block_chunk": 4,
+        "source_block_order": 19,
+        "text": "行至一大林，忽聽得背後大喝一聲曰：「趙子龍在此！」驚得魏兵落馬者百餘人，餘者皆越嶺而去。萬政勉強來敵，被雲一箭射中盔纓，驚跌於澗中。雲以槍指之曰：「吾饒汝性命回去！快教郭淮趕來！」萬政脫命而回。雲護送車仗人馬，望漢中而去，沿途並無遺失。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "However, Kuo Huai was not content and ordered him to return to the pursuit of the retreating army. This time he had many horsemen with him. Presently they came to a wood, and, as they entered, a loud shout arose in the rear, “Chao Yün is here!” Terror seized upon the pursuers, and many fell from their horses. The others scattered among the hills. Wan Chêng braced himself for the encounter and went on. Chao shot an arrow which struck the plume on his helmet. Startled, he tumbled into a water-course. Then Chao pointed his spear at him and said, “Be off! I will not kill you. Go and tell your chief to come quickly, if he is coming.”"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-095-line-059",
+        "order": 59,
+        "source_block_chunk": 5,
+        "source_block_order": 19,
+        "text": "曹真、郭淮復奪三郡，以為己功。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wan fled for his life, while Chao continued his march as rear-guard, and the retreat into Hanchung steadily continued. There were no other episodes by the way. Ts‘ao Chen and Kuo Huai took to themselves all the credit of having recovered the three districts."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-095-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "卻說司馬懿分兵而進，此時蜀兵盡回漢中去了。懿引一軍復到西城，因問遺下居民及山僻隱者，皆言孔明止有二千五百軍在城中，又無武將，只有幾個文官，別無埋伏。武功山小民告曰：「關興、張苞，只各有三千軍，轉山吶喊，鼓譟驚追，又無別軍，並不敢廝殺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Before the cautious Ssǔma was ready to pursue the army of Shu it had already reached Hanchung. He took a troop of horse and rode to Hsich‘êng and there heard from the few people who had formerly sought refuge in the hills, and now returned, that K‘ung-ming really had had no men in the city, with the exception of the two and a half companies, that he had not a single military commander, but only a few civil officers. He also heard that Kuan and Chang had had only a few men whom they led about among the hills making as much noise as they could. Ssŭma felt sad at having been tricked. “K‘ung-ming is a cleverer man than I am,” said he with a sigh of resignation."
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-095-line-061",
+        "order": 61,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "」懿悔之不及，仰天嘆曰：「吾不如孔明也！」遂安撫了官民，引兵逕還長安，朝見魏主。叡曰：「今日復得隴西諸郡，皆卿之功也。」懿奏曰：「今蜀兵皆在漢中，未盡剿滅。臣乞大兵併力收川，以報陛下。」叡大喜，令懿即便興兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He set about restoring order, and presently marched back to Ch‘angan. He saw his master Ts‘ao Jui, who was pleased with his success and said, “It is by your good service that Shênsi is again mine.” Ssǔma replied, “But the army of Shu is in Hanchung undestroyed; wherefore I pray for authority to go against them that you may recover Shu also. Ts‘ao Jui rejoiced and approved, and authorised the raising of an army."
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-095-line-062",
+        "order": 62,
+        "source_block_chunk": 3,
+        "source_block_order": 20,
+        "text": "忽班內一人出奏曰：「臣有一計，足可定蜀降吳。」正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But then one of the courtiers suddenly said, “Your servant can propose a plan by which Shu will be overcome and Wu submit.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-095-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "蜀中將相方歸國，魏地君臣又逞謀。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The captains lead their beaten soldiers home, The victors plan new deeds for days to come."
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-095-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "未知獻計者是誰，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Who offered this plan? Succeeding chapters will tell."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說魏主曹叡令張郃為先鋒，與司馬懿一同征進；一面令辛毗、孫禮二人領兵五萬，往助曹真。二人奉詔而去。\n且說司馬懿引二十萬軍，出關下寨，請先鋒張郃至帳下曰：「諸葛亮生平謹慎，未敢造次行事。若吾用兵，先從子午谷逕取長安，早得多時矣。他非無謀，但恐有失，不肯弄險。今必出軍斜谷，來取郿城。若取郿城，必分兵兩路，一軍取箕谷矣。吾已發檄文，令子丹拒守郿城，若兵來不可出戰；令孫禮、辛毗截住箕谷道口，若兵來則出奇兵擊之。」郃曰：「今將軍當於何處進兵？」懿曰：「吾素知秦嶺之西，有一條路，地名街亭，傍有一城，名列柳城；此二處皆是漢中咽喉。諸葛亮欺子丹無備，定從此進。吾與汝逕取街亭，望陽平關不遠矣。亮若知吾斷其街亭要路，絕其糧道，則隴西一境，不能安守，必然連夜奔回漢中去也。彼若回動，吾提兵於小路擊之，可得全勝；若不歸時，吾卻將諸處小路，盡皆壘斷，俱以兵守之。一月無糧，蜀兵皆餓死，亮必被吾擒矣。」張郃大悟，拜伏於地曰：「都督神算也！」懿曰：「雖然如此，諸葛亮不比孟達。將軍為先鋒，不可輕進。當傳與諸將：循山西路，遠遠哨探。如無伏兵，方可前進。若是怠忽，必中諸葛亮之計。」張郃受計引軍而行。\n卻說孔明在祁山寨中，忽報新城探細人來到。孔明急喚入問之。細作告曰：「司馬懿倍道而行，八日已到新城，孟達措手不及；又被申耽、申儀、李輔、鄧賢為內應，孟達被亂軍所殺。今司馬懿撤兵到長安，見了魏主，同張郃引兵出關，來拒我師也。」孔明大驚曰：「孟達作事不密，死固當然。今司馬懿出關，必取街亭，斷吾咽喉之路。」便問：「誰敢引兵去守街亭？」言未畢，參軍馬謖曰：「某願往。」孔明曰：「街亭雖小，干係甚重：倘街亭有失，吾大軍皆休矣。汝雖深通謀略，此地奈無城郭，又無險阻，守之極難。」謖曰：「某自幼熟讀兵書，頗知兵法。豈一街亭不能守耶？」孔明曰：「司馬懿非等閒之輩；更有先鋒張郃，乃魏之名將：恐汝不能敵之。」謖曰：「休道司馬懿、張郃，便是曹叡親來，有何懼哉！若有差失，乞斬全家。」孔明曰：「軍中無戲言。」謖曰：「願立軍令狀。」孔明從之。謖遂寫了軍令狀呈上。\n孔明曰：「吾與汝二萬五千精兵，再撥一員上將，相助你去。」即喚王平分付曰：「吾素知汝平生謹慎，故特以此重任相託。汝可小心謹慎。此地下寨必當要道之處，使賊兵急切不能偷過。安營既畢，便畫四至八道地理形狀圖本來我看。凡事商議停當而行，不可輕易。如所守無危，則是取長安第一功也。戒之！戒之！」二人拜辭引兵而去。孔明尋思，恐二人有失，又喚高翔曰：「街亭東北上有一城，名列柳城，乃山僻小路：此可以屯兵紮寨。與汝一萬兵，去此城屯紮。但街亭危，可引兵救之。」高翔引兵而去。孔明又思高翔非張郃對手，必得一員大將，屯兵於街亭之右，方可防之！遂喚魏延引本部兵去街亭之後屯紮。延曰：「某為前部，理合當先破敵，何故置某於安閒之地？」孔明曰：「前鋒破敵，乃偏裨之事耳。今令汝接應街亭，當陽平關衝要道路，總守漢中咽喉，此乃大任也。何為安閒乎？汝勿以等閒視之，失吾大事。切宜小心在意！」魏延大喜，引兵而去。孔明恰纔心安，乃喚趙雲、鄧芝分付曰：「今司馬懿出兵，與往日不同。汝二人各引一軍出箕谷，以為疑兵。如逢魏兵，或戰、或不戰，以驚其心。吾自統大軍，由斜谷逕取郿城：若得郿城，長安可破矣。」二人受命而去。孔明令姜維作先鋒，兵出斜谷。\n卻說馬謖、王平二人兵到街亭，看了地勢。馬謖笑曰：「丞相何故多心也？量此山僻之處，魏兵如何敢來！」王平曰：「雖然魏兵不敢來，可就此五路總口下寨；即令軍士伐木為柵，以圖久計。」謖曰：「當道豈是下寨之地？此處側邊一山，四面皆不相連，且樹木極廣，此乃天賜之險也。可就山上屯軍。」平曰：「參軍差矣：若屯兵當道，築起城垣，賊兵縱有十萬，不能偷過；今若棄此要路，屯兵於山上，倘魏兵驟至，四面圍定，將何策保之？」謖大笑曰：「汝真女子之見！兵法云：『憑高視下，勢如劈竹。』若魏兵到來，吾教他片甲不回！」平曰：「吾累隨丞相經陣，每到之處，丞相盡意指教。今觀此山，乃絕地也。若魏兵斷我汲水之道，軍士不戰自亂矣。」謖曰：「汝莫亂道！孫子云：『置之死地而後生。』若魏兵絕我汲水之道，蜀兵豈不死戰？以一可當百也。吾素讀兵書，丞相諸事尚問於我，汝奈何相阻耶？」平曰：「若參軍欲在山上下寨，可分兵與我，自於山西下一小寨，為犄角之勢。倘魏兵至，可以相應。」馬謖不從。忽然山中居民，成群結隊，飛奔而來，報說魏兵已到。王平欲辭去。馬謖曰：「汝既不聽吾令，與汝五千兵自去下寨。待吾破了魏兵，到丞相面前須分不得功！」王平引兵離山十里下寨，畫成圖本，星夜差人去稟孔明，具說馬謖自於山上下寨。\n卻說司馬懿在城中，令次子司馬昭去探前路；若街亭有兵把守，即當按兵不行。司馬昭奉令探了一遍，回見父曰：「街亭有兵守把。」懿嘆曰：「諸葛亮真乃神人，吾不如也！」昭笑曰：「父親何故自隳志氣耶？男料街亭易取。」懿問曰：「汝安敢出此大言？」昭曰：「男親自哨見，當道並無寨柵，軍皆屯於山上，故知可破也。」懿大喜曰：「若兵果在山上，乃天使吾成功矣！」遂更換衣服，引百餘騎親自來看。是夜天晴月朗，直至山下，周圍巡哨了一遍，方回。馬謖在山上見之，大笑曰：「彼若有命，不來圍山。」傳令與諸將：「倘兵來，只見山頂上紅旗招動，即四面皆下。」\n卻說司馬懿回到寨中，使人打聽是何將引兵守街亭。回報曰：「乃馬良之弟馬謖也。」懿笑曰：「徒有虛名，乃庸才耳！孔明用如此人物，如何不誤事！」又問：「街亭左右別有軍否？」探馬報曰：「離山十里有王平安營。」懿乃命張郃引一軍，當住王平來路。又令申耽、申儀引兩路兵圍山，先斷了汲水道路；待蜀兵自亂，然後乘勢擊之。當夜調度已定。次日天明，張郃引兵先往背後去了。司馬懿大驅軍馬，一擁而進，把山四面圍定。馬謖在山上看時，只見魏兵漫山遍野，旌旗隊伍，甚是嚴整。蜀兵見之，盡皆喪膽，不敢下山。馬謖將紅旗招動，軍將你我相推，無一人敢動。謖大怒，自殺二將。眾軍驚懼，只得努力下山來衝魏兵。魏兵端然不動。蜀兵又退上山去。馬謖見事不諧，教軍緊守寨門，只等外應。\n卻說王平見魏兵到，引軍殺來，正遇張郃；戰有數十餘合，平力窮勢孤，只得退去。魏兵自辰時困至戌時，山上無水，軍不得食，寨中大亂。嚷到半夜時分，山南蜀兵大開寨門，下山降魏。馬謖禁止不住。司馬懿又令人於沿山放火，山上蜀兵愈亂。馬謖料守不住，只得驅殘兵殺下山西逃奔。司馬懿放條大路，讓過馬謖。背後張郃引兵趕來。趕到三十餘里，前面鼓角齊鳴，一彪軍出，放過馬謖，攔住張郃；視之，乃魏延也：揮刀縱馬，直取張郃。郃回軍便走。延驅兵趕來，復奪街亭。趕到五十餘里，一聲喊起，兩邊伏兵齊出：左邊司馬懿，右邊司馬昭，卻抄在魏延背後，把延困在垓心。張郃復來，三路兵合在一處。魏延左衝右突，不得脫身，折兵大半。正危急間，忽一彪軍殺入，乃王平也。延大喜曰：「吾得生矣！」二將合兵一處，大殺一陣，魏兵方退。二將慌忙奔回寨時，營中皆是魏兵旌旗。申耽、申儀從營中殺出。王平、魏延逕奔列柳城，來投高翔。\n此時高翔聞知街亭有失，盡起列柳城之兵，前來救應，正遇延、平二人，訴說前事。高翔曰：「不如今晚去劫魏寨，再復街亭。」當時三人在山坡下商議已定。待天色將晚，兵分三路。魏延引兵先進，逕到街亭，不見一人，心中大疑，不敢輕進，且伏在路口等候。忽見高翔兵到，二人共說魏兵不知在何處。正沒理會，又不見王平兵到。忽然一聲砲響，火光沖天，鼓聲震地。魏兵齊出，把魏延、高翔圍在垓心。二人盡力衝突，不得脫身。忽聽得山坡後喊聲若雷，一彪軍殺入，乃是王平，救了高、魏二人，逕奔列柳城來。比及奔到城下時，城邊早有一軍殺到，旗上大書「魏都督郭淮」字樣。原來郭淮與曹真商議，恐司馬懿得了全功，乃分淮來取街亭；聞知司馬懿、張郃成了此功，遂引兵逕襲列柳城。正遇三將，大殺一陣。蜀兵傷者極多。魏延恐陽平關有失，慌與王平、高翔望陽平關來。\n卻說郭淮收了軍馬，乃謂左右曰：「吾雖不得街亭，卻取了列柳城，亦是大功。」引兵逕到城下叫門，只見城上一聲砲響，旗幟皆豎，當頭一面大旗，上書「平西都督司馬懿」。懿撐起懸空板，倚定護心木欄干，大笑曰：「郭伯濟來何遲也？」淮大驚曰：「仲達神機，吾不及也！」遂入城。相見已畢，懿曰：「今街亭已失，諸葛亮必走。公可速與子丹星夜追之。」郭淮從其言，出城而去。懿喚張郃曰：「子丹、伯濟，恐吾全獲大功，故來取此城池。吾非獨欲成功，乃僥倖而已。吾料魏延、王平、馬謖、高翔等輩，必先去據陽平關。吾若去取此關，諸葛亮必隨後掩殺，中其計矣。兵法云：『歸師勿掩，窮寇莫追。』汝可從小路抄箕谷退兵。吾自引兵當斜谷之兵。若彼敗走，不可相拒，只宜中途截住，蜀兵輜重，可盡得也。」張郃受計，引兵一半去了。懿下令：「逕取斜谷：由西城而進。西城雖山僻小縣，乃蜀兵屯糧之所，又南安、天水、安定三郡總路。若得此城，三郡可復矣。」於是司馬懿留申耽、申儀守列柳城，自領大軍斜谷進發。\n卻說孔明自令馬謖等守街亭去後，猶豫不定。忽王平使人送圖本至。孔明喚入，左右呈上圖本。孔明就文几上拆開視之，拍案大驚曰：「馬謖無知，坑陷吾軍矣！」左右問曰：「丞相何故失驚？」孔明曰：「吾觀此圖本，失卻要路，占山為寨。倘魏兵大至，四面圍合，斷汲水道路，不須二日，軍自亂矣。若街亭有失，吾等安歸？」長史楊儀進曰：「某雖不才，願替馬幼常回。」孔明將安營之法，一一分付與楊儀。正待要行，忽報馬到來，說街亭、列柳城，盡皆失了。孔明跌足長嘆曰：「大事去矣！此吾之過也！」急喚關興、張苞分付曰：「汝二人各引三千精兵，投武功山小路而行。如遇魏兵，不可大擊，只鼓譟吶喊，為疑兵驚之。彼當自走，亦不可追。待軍退盡，便投陽平關去。」又令張翼先引軍去修理劍閣，以備歸路。又密傳號令，教大軍暗暗收拾行裝，以備起程。又令馬岱、姜維斷後，先伏於山谷中，待諸軍退盡，方始收兵。又令心腹人，分路與天水、南安、安定三郡官吏軍民，皆入漢中。又令心腹人到冀縣搬取姜維老母，送入漢中。\n孔明分撥已定，先引五千兵去西城縣搬運糧草。忽然十餘次飛馬報到，說司馬懿引大軍十五萬，望西城蜂擁而來。時孔明身邊並無大將，止有一班文官，所引五千軍，已分一半先運糧草去了，只剩二千五百軍在城中。眾官聽得這個消息，盡皆失色。孔明登城望之，果然塵土沖天，魏兵分兩路望西城縣殺來。孔明傳令，教將旌旗盡皆藏匿；諸將各守城鋪，如有妄行出入，及高聲言語者，立斬；大開四門，每一門上用二十軍士，扮作百姓，灑掃街道，如魏兵到時，不可擅動，吾自有計。孔明乃披鶴氅，戴綸巾，引二小童攜琴一張，於城上敵樓前，憑欄而坐，焚香操琴。\n卻說司馬懿前軍哨到城下，見了如此模樣，皆不敢進，急報與司馬懿，懿笑而不信，遂止住三軍，自飛馬遠遠望之。果見孔明坐於城樓之上，笑容可掬，焚香操琴。左有一童子，手捧寶劍；右有一童子，手執麈尾。城門內外有二十餘名百姓，低頭洒掃，旁若無人。懿看畢大疑，便到中軍，教後軍作前軍，前軍作後軍，望北山路而退。次子司馬昭曰：「莫非諸葛亮無軍，故作此態？父親何便退兵？」懿曰：「亮平生謹慎，不曾弄險。今大開城門，必有埋伏。我兵若進，中其計也。汝輩豈知？宜速退。」於是兩路兵盡退去。孔明見魏軍遠去，撫掌而笑。眾官無不駭然。乃問孔明曰：「司馬懿乃魏之名將，今統十五萬精兵到此，見了丞相，便速退去，何也？」孔明曰：「此人料吾平生謹慎，必不弄險；見如此模樣，疑有伏兵，所以退去。吾非行險，蓋因不得已而用之。此人必引軍投山北小路去也。吾已令興、苞二人在彼等候。」眾皆驚服曰：「丞相之玄機，神鬼莫測。若某等之見，必棄城而走矣。」孔明曰：「吾兵止有二千五百，若棄城而走，必不能遠遁。得不為司馬懿所擒乎？」後人有詩讚曰：\n瑤琴三尺勝雄師，諸葛西城退敵時。\n十五萬人回馬處，後人指點到今疑。\n言訖，拍手大笑曰：「吾若為司馬懿，必不便退也。」遂下令，教西城百姓，隨軍入漢中；司馬懿必將復來。於是孔明離西城望漢中而走。天水、安定、南安三郡官吏軍，陸續而來。\n卻說司馬懿望武功山小路而走。忽然山坡後喊殺連天，鼓聲震地。懿回顧二子曰：「吾若不走，必中諸葛亮之計矣。」只見大路上一軍殺來，旗上大書「右護衛使虎翼將軍張苞」。魏兵皆棄甲拋戈而走。行不到一程，山谷中喊聲震地，鼓角喧天，前面一杆大旗，上書「左護衛使龍驤將軍關興」。山谷應聲，不知蜀兵多少；更兼魏軍心疑，不敢久停，只得盡棄輜重而去。興、苞二人皆遵將令，不敢追襲，多得軍器糧草而歸。司馬懿見山谷中皆是蜀兵，不敢出大路，遂回街亭。此時曹真聽知孔明退兵，急引兵追趕。山背後一聲砲響，蜀兵漫山遍野而來；為首大將，乃是姜維、馬岱。真大驚，急退軍時，先鋒陳造已被馬岱所斬。真引兵鼠竄而還，蜀兵連夜皆奔回漢中。\n卻說趙雲、鄧芝伏兵於箕谷道中。聞孔明傳令退軍，雲謂芝曰：「魏軍知吾兵退，必然來追。吾先引一軍伏於其後，公卻引兵打吾旗號，徐徐而退，吾一步步自有護送也。」\n卻說郭淮提兵再回箕谷道中，喚先鋒蘇顒分付曰：「蜀將趙雲，英勇無敵，汝可小心隄防。彼軍若退，必有計也。」蘇顒欣然曰：「都督若肯接應，某當生擒趙雲。」遂引前部三千兵，奔入箕谷。看看趕上蜀兵，只見山坡後閃出紅旗白字，上書「趙雲」。蘇顒急收兵退走。行不到數里，喊聲大震，一彪軍撞出；為首大將，挺槍躍馬，大喝曰：「汝識趙子龍否！」蘇顒大驚曰：「如何這裏又有趙雲？」措手不及，被趙雲一槍刺死於馬下，餘軍潰散。雲迤邐前進，背後又一軍到，乃郭淮部將萬政也。雲見魏兵追急，乃勒馬挺槍，立於路口，待來將交鋒。蜀兵已去三十餘里。萬政認得是趙雲，不敢前進。雲等得天色黃昏，方纔撥回馬緩緩而退。郭淮兵到，萬政言趙雲英勇如舊，因此不敢近前。淮傳令教軍急趕，政令壯士數百騎趕來。行至一大林，忽聽得背後大喝一聲曰：「趙子龍在此！」驚得魏兵落馬者百餘人，餘者皆越嶺而去。萬政勉強來敵，被雲一箭射中盔纓，驚跌於澗中。雲以槍指之曰：「吾饒汝性命回去！快教郭淮趕來！」萬政脫命而回。雲護送車仗人馬，望漢中而去，沿途並無遺失。曹真、郭淮復奪三郡，以為己功。\n卻說司馬懿分兵而進，此時蜀兵盡回漢中去了。懿引一軍復到西城，因問遺下居民及山僻隱者，皆言孔明止有二千五百軍在城中，又無武將，只有幾個文官，別無埋伏。武功山小民告曰：「關興、張苞，只各有三千軍，轉山吶喊，鼓譟驚追，又無別軍，並不敢廝殺。」懿悔之不及，仰天嘆曰：「吾不如孔明也！」遂安撫了官民，引兵逕還長安，朝見魏主。叡曰：「今日復得隴西諸郡，皆卿之功也。」懿奏曰：「今蜀兵皆在漢中，未盡剿滅。臣乞大兵併力收川，以報陛下。」叡大喜，令懿即便興兵。忽班內一人出奏曰：「臣有一計，足可定蜀降吳。」正是：\n蜀中將相方歸國，魏地君臣又逞謀。\n未知獻計者是誰，且看下文分解。",
+    "title": "第九十五回 馬謖拒諫失街亭　　　武侯彈琴退仲達"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-095.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

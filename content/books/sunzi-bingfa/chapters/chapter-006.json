@@ -1,0 +1,125 @@
+{
+  "chapter": {
+    "character_count": 602,
+    "id": "chapter-006",
+    "order": 6,
+    "reading_unit_count": 8,
+    "reading_units": [
+      {
+        "character_count": 67,
+        "id": "chapter-006-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "孫子曰：凡先處戰地而待敵者佚，後處戰地而趨戰者勞。故善戰者，致人而不致于人。能使敵人自至者，利之也；能使敵不得至者，害之也。故敵佚能勞之，飽能飢之，安能動之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hence his ability to pick out the right men and utilize combined energy. When he utilizes combined energy, his fighting men become as it were like unto rolling logs or stones. For it is the nature of a log or stone to remain motionless on level ground, and to move when on a slope; if four-cornered, to come to a standstill, but if round-shaped, to go rolling down. Thus the energy developed by good fighting men is as the momentum of a round stone rolled down a mountain thousands of feet in height. So much on the subject of energy. Sun Tzŭ said: Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle will arrive exhausted. Therefore the clever combatant imposes his will on the enemy, but does not allow the enemy's will to be imposed on him. By holding out advantages to him, he can cause the enemy to approach of his own accord; or, by inflicting damage, he can make it impossible for the enemy to draw near. If the enemy is taking his ease, he can harass him; if well supplied with food, he can starve him out; if quietly encamped, he can force him to move."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-006-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "出其所不趨，趨其所不意；行千里而不勞者，行于無人之地也；攻而必取者，攻其所不守也；守而必固者，守其所不攻也。故善攻者，敵不知其所守；善守者，敵不知其所攻。微乎微乎！至于無形；神乎神乎！至于無聲，故能為敵之司命。進而不可禦者，衝其虛也；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Appear at points which the enemy must hasten to defend; march swiftly to places where you are not expected."
+          }
+        }
+      },
+      {
+        "character_count": 57,
+        "id": "chapter-006-line-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "退而不可追者，速而不可及也。故我欲戰，敵雖高壘深溝，不得不與我戰者，攻其所必救也；我不欲戰，雖劃地而守之，敵不得與我戰者，乖其所之也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "An army may march great distances without distress, if it marches through country where the enemy is not. You can be sure of succeeding in your attacks if you only attack places which are undefended. You can ensure the safety of your defence if you only hold positions that cannot be attacked. Hence that general is skilful in attack whose opponent does not know what to defend; and he is skilful in defence whose opponent does not know what to attack. O divine art of subtlety and secrecy! Through you we learn to be invisible, through you inaudible; and hence we can hold the enemy's fate in our hands. You may advance and be absolutely irresistible, if you make for the enemy's weak points; you may retire and be safe from pursuit if your movements are more rapid than those of the enemy. If we wish to fight, the enemy can be forced to an engagement even though he be sheltered behind a high rampart and a deep ditch. All we need do is attack some other place that he will be obliged to relieve. If we do not wish to fight, we can prevent the enemy from engaging us even though the lines of our encampment be merely traced out on the ground. All we need do is to throw something odd and unaccountable in his way."
+          }
+        }
+      },
+      {
+        "character_count": 48,
+        "id": "chapter-006-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "故形人而我無形，則我專而敵分，我專為一，敵分為十，是以十攻其一也。則我眾而敵寡，能以眾擊寡，則我之所與戰者，約矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "By discovering the enemy’s dispositions and remaining invisible ourselves, we can keep our forces concentrated, while the enemy’s must be divided."
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-006-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "吾所與戰之地不可知，不可知，則敵所備者多，敵所備者多，則我所與戰者寡矣。故備前則後寡，備後則前寡，備左則右寡，備右則左寡，無所不備，則無所不寡。寡者，備人者也；眾者，使人備己者也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We can form a single united body, while the enemy must split up into fractions. Hence there will be a whole pitted against separate parts of a whole, which means that we shall be many to the enemy’s few. And if we are able thus to attack an inferior force with a superior one, our opponents will be in dire straits. The spot where we intend to fight must not be made known; for then the enemy will have to prepare against a possible attack at several different points; and his forces being thus distributed in many directions, the numbers we shall have to face at any given point will be proportionately few. For should the enemy strengthen his van, he will weaken his rear; should he strengthen his rear, he will weaken his van; should he strengthen his left, he will weaken his right; should he strengthen his right, he will weaken his left. If he sends reinforcements everywhere, he will everywhere be weak. Numerical weakness comes from having to prepare against possible attacks; numerical strength, from compelling our adversary to make these preparations against us."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-006-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "故知戰之地，知戰之日，則可千里而會戰。不知戰地，不知戰日，則左不能救右，右不能救左，前不能救後，後不能救前，而況遠者數十里，近者數里乎？以吾度之，越人之兵雖多，亦奚益于勝哉？故曰：勝可為也，敵雖眾，可使無鬥。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Knowing the place and the time of the coming battle, we may concentrate from the greatest distances in order to fight."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-006-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "故策之而知得失之計，作之而知動靜之理，形之而知死生之地，角之而知有餘不足之處。故形兵之極，至于無形；無形，則深間不能窺，智者不能謀。因形而措勝于眾，眾不能知，人皆知我所以勝之形，而莫知吾所以制勝之形；故其戰勝不復，而應形於無窮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But if neither time nor place be known, then the left wing will be impotent to succour the right, the right equally impotent to succour the left, the van unable to relieve the rear, or the rear to support the van. How much more so if the furthest portions of the army are anything under a hundred li apart, and even the nearest are separated by several li! Though according to my estimate the soldiers of Yüeh exceed our own in number, that shall advantage them nothing in the matter of victory. I say then that victory can be achieved. Though the enemy be stronger in numbers, we may prevent him from fighting. Scheme so as to discover his plans and the likelihood of their success. Rouse him, and learn the principle of his activity or inactivity. Force him to reveal himself, so as to find out his vulnerable spots. Carefully compare the opposing army with your own, In making tactical dispositions, the highest pitch you can attain is to conceal them; conceal your dispositions, and you will be safe from the prying of the subtlest spies, from the machinations of the wisest brains. How victory may be produced for them out of the enemy’s own tactics — that is what the multitude cannot comprehend. All men can see the tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved. Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances."
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-006-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "夫兵形象水，水之形，避高而趨下：兵之形，避實而擊虛；水因地而制流，兵因敵而制勝。故兵無常勢，水無常形；能因敵變化而取勝，謂之神。故五行無常勝，四時無常位，日有短長，月有死生。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Military tactics are like unto water; for water in its natural course runs away from high places and hastens downwards."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "孫子曰：凡先處戰地而待敵者佚，後處戰地而趨戰者勞。故善戰者，致人而不致于人。能使敵人自至者，利之也；能使敵不得至者，害之也。故敵佚能勞之，飽能飢之，安能動之。\n出其所不趨，趨其所不意；行千里而不勞者，行于無人之地也；攻而必取者，攻其所不守也；守而必固者，守其所不攻也。故善攻者，敵不知其所守；善守者，敵不知其所攻。微乎微乎！至于無形；神乎神乎！至于無聲，故能為敵之司命。進而不可禦者，衝其虛也；退而不可追者，速而不可及也。故我欲戰，敵雖高壘深溝，不得不與我戰者，攻其所必救也；我不欲戰，雖劃地而守之，敵不得與我戰者，乖其所之也。\n故形人而我無形，則我專而敵分，我專為一，敵分為十，是以十攻其一也。則我眾而敵寡，能以眾擊寡，則我之所與戰者，約矣。\n吾所與戰之地不可知，不可知，則敵所備者多，敵所備者多，則我所與戰者寡矣。故備前則後寡，備後則前寡，備左則右寡，備右則左寡，無所不備，則無所不寡。寡者，備人者也；眾者，使人備己者也。\n故知戰之地，知戰之日，則可千里而會戰。不知戰地，不知戰日，則左不能救右，右不能救左，前不能救後，後不能救前，而況遠者數十里，近者數里乎？以吾度之，越人之兵雖多，亦奚益于勝哉？故曰：勝可為也，敵雖眾，可使無鬥。\n故策之而知得失之計，作之而知動靜之理，形之而知死生之地，角之而知有餘不足之處。故形兵之極，至于無形；無形，則深間不能窺，智者不能謀。因形而措勝于眾，眾不能知，人皆知我所以勝之形，而莫知吾所以制勝之形；故其戰勝不復，而應形於無窮。\n夫兵形象水，水之形，避高而趨下：兵之形，避實而擊虛；水因地而制流，兵因敵而制勝。故兵無常勢，水無常形；能因敵變化而取勝，謂之神。故五行無常勝，四時無常位，日有短長，月有死生。",
+    "title": "虛實"
+  },
+  "chapter_path": "books/sunzi-bingfa/chapters/chapter-006.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "The Art of War",
+  "source_url": "https://ctext.org/art-of-war?if=en"
+}

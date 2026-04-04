@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 73,
+    "id": "chapter-042",
+    "order": 42,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 73,
+        "id": "chapter-042-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "道生一，一生二，二生三，三生萬物。萬物負陰而抱陽，沖氣以為和。人之所惡，唯孤、寡、不穀，而王公以為稱。故物或損之而益，或益之而損。人之所教，我亦教之。強梁者不得其死，吾將以為教父。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Tao produced One; One produced Two; Two produced Three; Three produced All things. All things leave behind them the Obscurity (out of which they have come), and go forward to embrace the Brightness (into which they have emerged), while they are harmonised by the Breath of Vacancy. What men dislike is to be orphans, to have little virtue, to be as carriages without naves; and yet these are the designations which kings and princes use for themselves. So it is that some things are increased by being diminished, and others are diminished by being increased. What other men (thus) teach, I also teach. The violent and strong do not die their natural death. I will make this the basis of my teaching."
+          }
+        }
+      }
+    ],
+    "summary": "道生一，一生二，二生三，三生萬物",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "道生一，一生二，二生三，三生萬物。萬物負陰而抱陽，沖氣以為和。人之所惡，唯孤、寡、不穀，而王公以為稱。故物或損之而益，或益之而損。人之所教，我亦教之。強梁者不得其死，吾將以為教父。",
+    "title": "第42章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-042.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

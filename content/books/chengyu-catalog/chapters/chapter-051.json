@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-051",
+    "order": 51,
+    "summary": "求忠出孝",
+    "text": "求忠出孝\n百发百中\n若明若昧\n志在四海\n急流勇退\n心慕手追\n如此而已\n耳提面命\n聚少成多\n是非曲直\n清心寡欲\n北郭先生\n似水流年\n回邪入正\n今非昔比\n恍然若失\n引手投足\n百口难分\n未了公案\n恩怨分明\n事出有因\n借水行舟\n分心挂腹\n急痛攻心\n推己及物\n倍道兼行\n割地求和\n推心致腹\n心满意足\n前因后果",
+    "title": "1501-1530",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "求忠出孝",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means that seeking loyal ministers must come to the door of filial sons"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "百发百中",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. one hundred shots, one hundred hits (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "若明若昧",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor for unclear understanding of a situation or unclear understanding of a problem"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "志在四海",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still ambitious in all directions"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "急流勇退",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Retreat bravely and immediately in the rapids"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "心慕手追",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "envy"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "如此而已",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "so like this"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "耳提面命",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to give sincere advice (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "聚少成多",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "gather together, rendezvous"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "是非曲直",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. right and wrong, crooked and straight (idiom); fig. merits and demerits"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "清心寡欲",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) uninterested in self-indulgence"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "北郭先生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Used to refer to a person who lives in seclusion and is not an official"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "似水流年",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "fleeting time"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "回邪入正",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still talking about correcting evil and returning to the right path"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "今非昔比",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) things are very different now; times have changed"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "恍然若失",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Feeling as if I've lost something"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "引手投足",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor that you can save others with little effort."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "百口难分",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Even if there are a hundred mouths, it will be difficult to distinguish clearly"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "未了公案",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Public case, problem"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "恩怨分明",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "favor"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "事出有因",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Things happen for a reason"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "借水行舟",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to taking advantage of the situation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "分心挂腹",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describe being very concerned about"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "急痛攻心",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Feeling extremely anxious and sad"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "推己及物",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Use your own thoughts to infer the thoughts of others"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "倍道兼行",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "double, double"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "割地求和",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cede land and seek peace"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "推心致腹",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Give your sincere heart to others"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "心满意足",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "perfectly contented (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-051-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "前因后果",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "cause and effects (idiom); entire process of development"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-051.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-022",
+    "order": 22,
+    "summary": "金石之言",
+    "text": "金石之言\n不知纪极\n一病不起\n不教而杀\n言中事隐\n以不济可\n风言风语\n书不尽言\n不为已甚\n妙处不传\n意气自如\n秀而不实\n百里之才\n物在人亡\n人亡物在\n面是心非\n天随人原\n不知所出\n为人说项\n似有如无\n一目十行\n命世之才\n天年不齐\n浮而不实\n在此一举\n史不绝书\n天下无双\n高下在心\n六神不安\n无人之地",
+    "title": "631-660",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "金石之言",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "words of gold and stone"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "不知纪极",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I don’t know Ji Ji"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "一病不起",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to fall gravely ill, never to recover"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "不教而杀",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kill without teaching"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "言中事隐",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hidden in words"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "以不济可",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It’s better to be in vain"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "风言风语",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "groundless talk; slanderous gossip"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "书不尽言",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I have much more to say than can be written in this letter (conventional letter ending)"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "不为已甚",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "refrain from going to extremes in meting out punishment"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "妙处不传",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The beauty is not passed on"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "意气自如",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Feel at ease"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "秀而不实",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Showy but not real"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "百里之才",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Talented people"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "物在人亡",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Things die and people die"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "人亡物在",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "People are dead and things are still there"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "面是心非",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Duplicity"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "天随人原",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heaven follows man"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "不知所出",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Don't know where it came from"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "为人说项",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Speaking for others"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "似有如无",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As if there is nothing"
+          }
+        },
+        "category": "中高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "一目十行",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "ten lines at a glance ; to read very rapidly"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "命世之才",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a well known individual who has outstanding abilities"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "天年不齐",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Different ages"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "浮而不实",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Floating but unrealistic"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "在此一举",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In one fell swoop"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "史不绝书",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "continuously documented throughout history"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "天下无双",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "there is only one under heaven; unique"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "高下在心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to wield a great amount of power, and to reward or punish subordinates at one's whim"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "六神不安",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Uneasy"
+          }
+        },
+        "category": "中高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-022-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "无人之地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "no man's land"
+          }
+        },
+        "category": "中高透明度 III"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-022.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

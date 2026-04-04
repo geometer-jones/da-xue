@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 47,
+    "id": "chapter-024",
+    "order": 24,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 47,
+        "id": "chapter-024-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "企者不立；跨者不行；自見者不明；自是者不彰；自伐者無功；自矜者不長。其在道也，曰：餘食贅行。物或惡之，故有道者不處。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He who stands on his tiptoes does not stand firm; he who stretches his legs does not walk (easily). (So), he who displays himself does not shine; he who asserts his own views is not distinguished; he who vaunts himself does not find his merit acknowledged; he who is self-conceited has no superiority allowed to him. Such conditions, viewed from the standpoint of the Tao, are like remnants of food, or a tumour on the body, which all dislike. Hence those who pursue (the course) of the Tao do not adopt and allow them."
+          }
+        }
+      }
+    ],
+    "summary": "企者不立；跨者不行；自見者不明；自是者不彰；自伐者無功；自矜者不長",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "企者不立；跨者不行；自見者不明；自是者不彰；自伐者無功；自矜者不長。其在道也，曰：餘食贅行。物或惡之，故有道者不處。",
+    "title": "第24章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-024.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

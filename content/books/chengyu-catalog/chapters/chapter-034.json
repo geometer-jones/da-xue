@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-034",
+    "order": 34,
+    "summary": "不虚此行",
+    "text": "不虚此行\n为期不远\n天不假年\n众人国士\n自生自灭\n不夷不惠\n达人知命\n哀而不伤\n有来无回\n战无不克\n入死出生\n相生相成\n公是公非\n先得我心\n小德出入\n是非分明\n相因相生\n事在必行\n是非得失\n口是心非\n正明公道\n情非得已\n令行如流\n臣心如水\n心安理得\n入文出武\n遂心如意\n用兵如神\n死心落地\n意出望外",
+    "title": "991-1020",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "不虚此行",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) it's been a worthwhile trip"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "为期不远",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not far away"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "天不假年",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(someone) did not have a long life"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "众人国士",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All the national scholars"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "自生自灭",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to emerge and perish on its own; to run its course"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "不夷不惠",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not unfavorable"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "达人知命",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Experts know fate"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "哀而不伤",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "deeply felt but not excessively grieving"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "有来无回",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is no return"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "战无不克",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "invincible"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "入死出生",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "risk one's life"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "相生相成",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Transform each other, promote each other"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "公是公非",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "generally accepted right and wrong"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "先得我心",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to fit, to fit"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "小德出入",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Small virtue section"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "是非分明",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to distinguish right from wrong (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "相因相生",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Inherit and promote each other"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "事在必行",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Things must be done"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "是非得失",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Right and wrong, gained and lost"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "口是心非",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "duplicity"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "正明公道",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "correct the situation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "情非得已",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "compelled by the circumstances (to do sth)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "令行如流",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the execution of orders as quickly and smoothly as water flowing downwards"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "臣心如水",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heart as pure as water"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "心安理得",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have a clear conscience"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "入文出武",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said that a person has both civil and military talents. He will be a civil servant when he enters the court, and he will be a general when he leaves the court."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "遂心如意",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "totally satisfying"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "用兵如神",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to lead military operations with extraordinary skill"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "死心落地",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Still dead-set"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-034-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "意出望外",
+        "category": "较高难度 II",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Unexpectedly"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-034.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

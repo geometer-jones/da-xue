@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-002",
+    "order": 2,
+    "summary": "博学多才",
+    "text": "博学多才\n学富五车\n才高八斗\n自强不息\n学而不厌\n温文尔雅\n闻一知十\n博古通今\n博大精深\n追本溯源\n融汇贯通\n手不释卷\n日积月累\n废寝忘食\n勤学苦练\n水滴石穿\n博学多闻\n孜孜以求\n触类而长\n精耕细作\n深思熟虑\n明辨是非\n当机立断\n审时度势\n见机行事\n权衡轻重\n高瞻远瞩\n未雨绸缪\n见微知著\n深谋远虑",
+    "title": "31-60",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "博学多才",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "erudite and multi-talented; versatile and able"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "学富五车",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "of great erudition and scholarship"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "才高八斗",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "of great talent"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "自强不息",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to strenghen oneself without stopping; to strive unremittingly"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "学而不厌",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "study tirelessly"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "温文尔雅",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "cultured and refined; gentle and cultivated"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "闻一知十",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to hear one and know ten; explain one thing and (he) understands everything; a word to the wise"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "博古通今",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "conversant with things past and present"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "博大精深",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "wide-ranging and profound; broad and deep"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "追本溯源",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to trace sth back to its origin"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "融汇贯通",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to integrate knowledge from various sources into a deep and coherent understanding of a subject"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "手不释卷",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "always with a book in hand; (of a student or scholar) diligent and hardworking"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "日积月累",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to accumulate over a long period of time"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "废寝忘食",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to neglect sleep and forget about food; to skip one's sleep and meals"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "勤学苦练",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to study diligently"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "水滴石穿",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "dripping water penetrates the stone; constant perseverance yields success; You can achieve your aim if you try hard without giving up."
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "博学多闻",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "extensively educated"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "孜孜以求",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "diligent and tireless"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "触类而长",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Learn by analogy"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "精耕细作",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "intensive farming"
+          }
+        },
+        "category": "学习与积累"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "深思熟虑",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "mature reflection; after careful deliberations"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "明辨是非",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to distinguish right and wrong (idiom)"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "当机立断",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to make prompt decisions"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "审时度势",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to evaluate the current situation and plan accordingly; to size up the situation"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "见机行事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to act according to circumstances"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "权衡轻重",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "weigh the importance"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "高瞻远瞩",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to stand tall and look afar; to be farsighted; forward looking and ambitious"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "未雨绸缪",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "before it rains, bind around with silk; to plan ahead; to prepare for a rainy day"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "见微知著",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "one tiny clue reveals the general trend; small beginnings show how things will develop"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-002-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "深谋远虑",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "deep plans and distant thoughts; to plan far ahead"
+          }
+        },
+        "category": "思考与判断"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-002.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

@@ -1,0 +1,112 @@
+{
+  "chapter": {
+    "character_count": 336,
+    "id": "chapter-001",
+    "order": 1,
+    "reading_unit_count": 7,
+    "reading_units": [
+      {
+        "character_count": 22,
+        "id": "chapter-001-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "孫子 曰 ： 兵 者 ， 國之大事 ，死生 之 地 ， 存亡之道 ， 不可不察 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Tzŭ said: The art of war is of vital importance to the State. It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected."
+          }
+        }
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-001-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "故 經 之 以 五 事 ， 校 之 以 計 ， 而 索 其 情 ：一 曰 道 ， 二 曰 天 ， 三 曰 地 ， 四 曰 将 ， 五 曰 法 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The art of war, then, is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field. These are: (1) The Moral Law; (2) Heaven; (3) Earth; (4) The Commander; (5) Method and discipline."
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-001-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "道者 ， 令 民 與 上 同意 ， 可 與 之 死 ， 可 與 之 生 ， 而 不畏危 也 。天 者 ， 陰陽 、 寒暑 、 時 制 也 。地 者 ， 高下 、 遠近 、 險易 、 廣 狹 、 死生 也 。將 者 ， 智 、 信 、 仁 、 勇 、 嚴 也 。法 者 ， 曲 制 、 官 道 、 主 用 也 。凡 此 五者 ， 將 莫不聞 ， 知之者勝 ， 不知 者 不勝 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Moral Law causes the people to be in complete accord with their ruler, so that they will follow him regardless of their lives, undismayed by any danger. Heaven signifies night and day, cold and heat, times and seasons. Earth comprises distances, great and small; danger and security; open ground and narrow passes; the chances of life and death. The Commander stands for the virtues of wisdom, sincerity, benevolence, courage and strictness. By Method and discipline are to be understood the marshalling of the army in its proper subdivisions, the graduations of rank among the officers, the maintenance of roads by which supplies may reach the army, and the control of military expenditure. These five heads should be familiar to every general: he who knows them will be victorious; he who knows them not will fail."
+          }
+        }
+      },
+      {
+        "character_count": 66,
+        "id": "chapter-001-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "故 校 之 以 計 而 索 其 情 ，曰 ： 主 孰 有道 ？ 將 孰 有 能 ？ 天地 孰 得 ？ 法令 孰 行 ？ 兵 眾 孰 強 ？ 士卒 孰 練 ？ 賞罰 孰 明 ？吾 以此 知勝負 矣 。將 聽 吾 計 ， 用 之 必勝 ， 留 之 ； 將 不 聽 吾 計 ， 用 之 必 敗 ， 去 之 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Therefore, in your deliberations, when seeking to determine the military conditions, let them be made the basis of a comparison, in this wise:— Which of the two sovereigns is imbued with the Moral law? Which of the two generals has most ability? With whom lie the advantages derived from Heaven and Earth? On which side is discipline most rigorously enforced? Which army is stronger? On which side are officers and men more highly trained? In which army is there the greater constancy both in reward and punishment? By means of these seven considerations I can forecast victory or defeat. The general that hearkens to my counsel and acts upon it, will conquer: — let such a one be retained in command! The general that hearkens not to my counsel nor acts upon it, will suffer defeat: — let such a one be dismissed!"
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-001-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "計 利 以 聽 ， 乃 為 之 勢 ， 以 佐 其外 。勢 者 ， 因 利 而 制 權 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "While heeding the profit of my counsel, avail yourself also of any helpful circumstances over and beyond the ordinary rules. According as circumstances are favourable, one should modify one’s plans."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-001-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "兵 者 ， 詭 道 也 。故 能 而 示 之 不能 ， 用 而 示 之 不用 ， 近 而 示 之 遠 ， 遠 而 示 之 近 。利而誘之 ， 亂 而 取 之 ，實 而 備 之 ， 強 而 避 之 ，怒而撓之 ， 卑 而 驕 之 ，佚 而 勞 之 ， 親 而 離 之 。攻其無備 ， 出其不意 。此 兵家 之 勝 ， 不可 先 傳 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All warfare is based on deception. Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near. Hold out baits to entice the enemy. Feign disorder, and crush him. If he is secure at all points, be prepared for him. If he is in superior strength, evade him. If your opponent is of choleric temper, seek to irritate him. Pretend to be weak, that he may grow arrogant. If he is taking his ease, give him no rest. Attack him where he is unprepared, appear where you are not expected. These military devices, leading to victory, must not be divulged beforehand."
+          }
+        }
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-001-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "夫 未 戰 而 廟 算 勝 者 ， 得 算 多 也 ； 未 戰 而 廟 算 不勝 者 ， 得 算 少 也 。 多 算 勝 ， 少 算 不勝 ， 而 況 於 無 算 乎 ？ 吾 以此 觀 之 ， 勝負 見 矣 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now the general who wins a battle makes many calculations in his temple where the battle is fought."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "孫子曰：兵者，國之大事，死生之地，存亡之道，不可不察也。\n故經之以五事，校之以計，而索其情，一曰道，二曰天，三曰地，四曰將，五曰法。\n道者，令民與上同意也，可與之死，可與之生，而不畏危。天者，陰陽，寒暑，時制也。地者，遠近，險易，廣狹，死生也。將者，智，信，仁，勇，嚴也。法者，曲制，官道，主用也。凡此五者，將莫不聞，知之者勝，不知者不勝。\n故校之以計，而索其情。曰：主孰有道，將孰有能，天地孰得，法令孰行，兵眾孰強，士卒孰練，賞罰孰明，吾以此知勝負矣。將聽吾計，用之必勝，留之；將不聽吾計，用之必敗，去之。\n計利以聽，乃為之勢，以佐其外；勢者，因利而制權也。\n兵者，詭道也。故能而示之不能，用而示之不用，近而示之遠，遠而示之近。利而誘之，亂而取之，實而備之，強而避之，怒而撓之，卑而驕之，佚而勞之，親而離之。攻其無備，出其不意，此兵家之勝，不可先傳也。\n夫未戰而廟算勝者，得算多也；未戰而廟算不勝者，得算少也；多算勝，少算不勝，而況於無算乎？吾以此觀之，勝負見矣。",
+    "title": "始計"
+  },
+  "chapter_path": "books/sunzi-bingfa/chapters/chapter-001.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "The Art of War",
+  "source_url": "https://ctext.org/art-of-war?if=en"
+}

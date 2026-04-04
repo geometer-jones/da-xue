@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-005",
+    "order": 5,
+    "summary": "游刃有余",
+    "text": "游刃有余\n立竿见影\n一劳永逸\n事必躬亲\n开源节流\n拨乱反正\n拨云见日\n乘胜追击\n过犹不及\n迎刃而解\n以退为进\n量入为出\n精打细算\n快马加鞭\n按部就班\n由浅入深\n按图索骥\n顺藤摸瓜\n顺水推舟\n抽丝剥茧\n改弦更张\n脱胎换骨\n推波助澜\n勇往直前\n斩钉截铁\n一气呵成\n势如破竹\n披荆斩棘\n身先士卒\n因事制宜",
+    "title": "121-150",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "游刃有余",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "handling a butcher's cleaver with ease; to do something skillfully and easily"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "立竿见影",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "set up a pole and see the shadow; instant effect; quick results"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "一劳永逸",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to get sth done once and for all"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "事必躬亲",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to attend to everything personally"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "开源节流",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to open a water source and reduce outflow"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "拨乱反正",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "bring order out of chaos"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "拨云见日",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to dispel the clouds and see the sun; to restore justice"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "乘胜追击",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to follow up a victory and press home the attack; to pursue retreating enemy"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "过犹不及",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "too far is as bad as not enough (idiom, from the Analects)"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "迎刃而解",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "bamboo splits when it meets the edge of a knife"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "以退为进",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to retreat for the sake of advancing"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "量入为出",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to assess one's income and spend accordingly; to live within one's means"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "精打细算",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "meticulous planning and careful accounting"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "快马加鞭",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to spur the horse to full speed; to go as fast as possible"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "按部就班",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to work according to order; be well behaved"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "由浅入深",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "from the shallower to the deeper; from the elementary to the profound"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "按图索骥",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "search for a horse using a picture; search based on clues"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "顺藤摸瓜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. to follow the vine to get to the melon"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "顺水推舟",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. to push the boat with the current"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "抽丝剥茧",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to spin silk from cocoons; to make a painstaking investigation"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "改弦更张",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to reform or revamp"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "脱胎换骨",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to shed one's mortal body and exchange one's bones; to change wholly"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "推波助澜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to make a stormy sea stormier; to add fuel to the flames; to incite"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "勇往直前",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "bravely advance directly forward"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "斩钉截铁",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "resolute and decisive"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "一气呵成",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to do something in one breath; to do something in one attempt"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "势如破竹",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "like a hot knife through butter; with irresistible force"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "披荆斩棘",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to cut one's way through thistles and thorns; to overcome all obstacles on the way; to break through hardships"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "身先士卒",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to fight at the head of one's troops"
+          }
+        },
+        "category": "行动与方法"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-005-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "因事制宜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "according to the situation, establish appropriate regulations"
+          }
+        },
+        "category": "行动与方法"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-005.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

@@ -1,0 +1,126 @@
+{
+  "commentary": {
+    "character_count": 271,
+    "id": "commentary-chapter-009",
+    "order": 9,
+    "reading_unit_count": 9,
+    "reading_units": [
+      {
+        "character_count": 54,
+        "id": "commentary-chapter-009-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "所謂治國必先齊其家者，其家不可教而能教人者，無之。故君子不出家而成教於國：孝者，所以事君也；弟者，所以事長也；慈者，所以使眾也。"
+      },
+      {
+        "character_count": 27,
+        "id": "commentary-chapter-009-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "康誥曰「如保赤子」，心誠求之，雖不中不遠矣。未有學養子而后嫁者也！"
+      },
+      {
+        "character_count": 36,
+        "id": "commentary-chapter-009-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "一家仁，一國興仁；一家讓，一國興讓；一人貪戾，一國作亂；其機如此。此謂一言僨事，一人定國。"
+      },
+      {
+        "character_count": 69,
+        "id": "commentary-chapter-009-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "堯舜帥天下以仁，而民從之；桀紂帥天下以暴，而民從之；其所令反其所好，而民不從。是故君子有諸己而后求諸人，無諸己而后非諸人。所藏乎身不恕，而能喻諸人者，未之有也。"
+      },
+      {
+        "character_count": 7,
+        "id": "commentary-chapter-009-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "故治國在齊其家。"
+      },
+      {
+        "character_count": 29,
+        "id": "commentary-chapter-009-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "詩云：「桃之夭夭，其葉蓁蓁；之子于歸，宜其家人。」宜其家人，而后可以教國人。"
+      },
+      {
+        "character_count": 17,
+        "id": "commentary-chapter-009-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "詩云：「宜兄宜弟。」宜兄宜弟，而后可以教國人。"
+      },
+      {
+        "character_count": 24,
+        "id": "commentary-chapter-009-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "詩云：「其儀不忒，正是四國。」其為父子兄弟足法，而后民法之也。"
+      },
+      {
+        "character_count": 8,
+        "id": "commentary-chapter-009-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "此謂治國在齊其家。"
+      }
+    ],
+    "summary": "釋齊家治國",
+    "supplemental_text": "弟，去聲。長，上聲。身脩，則家可教矣；孝、弟、慈，所以脩身而教於家者也；然而國之所以事君事長使眾之道不外乎此。此所以家齊於上，而教成於下也。中，去聲。此引書而釋之，又明立教之本不假強為，在識其端而推廣之耳。僨，音奮。一人，謂君也。機，發動所由也。僨，覆敗也。此言教成於國之效。好，去聲。此又承上文一人定國而言。有善於己，然後可以責人之善；無惡於己，然後可以正人之惡。皆推己以及人，所謂恕也，不如是，則所令反其所好，而民不從矣。喻，曉也。通結上文。夭，平聲。蓁，音臻。詩周南桃夭之篇。夭夭，少好貌。蓁蓁，美盛貌。興也。之子，猶言是子，此指女子之嫁者而言也。婦人謂嫁曰歸。宜，猶善也。詩小雅蓼蕭篇。詩曹風鳴鳩篇。忒，差也。此三引詩，皆以詠歎上文之事，而又結之如此。其味深長，最宜潛玩。\n右傳之九章。釋齊家治國。",
+    "supplemental_unit_count": 4,
+    "supplemental_units": [
+      {
+        "character_count": 93,
+        "id": "commentary-chapter-009-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "弟，去聲。長，上聲。身脩，則家可教矣；孝、弟、慈，所以脩身而教於家者也；然而國之所以事君事長使眾之道不外乎此。此所以家齊於上，而教成於下也。中，去聲。此引書而釋之，又明立教之本不假強為，在識其端而推廣之耳。僨，音奮。一人，謂君也。"
+      },
+      {
+        "character_count": 94,
+        "id": "commentary-chapter-009-supp-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "機，發動所由也。僨，覆敗也。此言教成於國之效。好，去聲。此又承上文一人定國而言。有善於己，然後可以責人之善；無惡於己，然後可以正人之惡。皆推己以及人，所謂恕也，不如是，則所令反其所好，而民不從矣。喻，曉也。通結上文。夭，平聲。蓁，音臻。"
+      },
+      {
+        "character_count": 86,
+        "id": "commentary-chapter-009-supp-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "詩周南桃夭之篇。夭夭，少好貌。蓁蓁，美盛貌。興也。之子，猶言是子，此指女子之嫁者而言也。婦人謂嫁曰歸。宜，猶善也。詩小雅蓼蕭篇。詩曹風鳴鳩篇。忒，差也。此三引詩，皆以詠歎上文之事，而又結之如此。其味深長，最宜潛玩。"
+      },
+      {
+        "character_count": 10,
+        "id": "commentary-chapter-009-supp-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "右傳之九章。釋齊家治國。"
+      }
+    ],
+    "text": "所謂治國必先齊其家者，其家不可教而能教人者，無之。故君子不出家而成教於國：孝者，所以事君也；弟者，所以事長也；慈者，所以使眾也。\n康誥曰「如保赤子」，心誠求之，雖不中不遠矣。未有學養子而后嫁者也！\n一家仁，一國興仁；一家讓，一國興讓；一人貪戾，一國作亂；其機如此。此謂一言僨事，一人定國。\n堯舜帥天下以仁，而民從之；桀紂帥天下以暴，而民從之；其所令反其所好，而民不從。是故君子有諸己而后求諸人，無諸己而后非諸人。所藏乎身不恕，而能喻諸人者，未之有也。\n故治國在齊其家。\n詩云：「桃之夭夭，其葉蓁蓁；之子于歸，宜其家人。」宜其家人，而后可以教國人。\n詩云：「宜兄宜弟。」宜兄宜弟，而后可以教國人。\n詩云：「其儀不忒，正是四國。」其為父子兄弟足法，而后民法之也。\n此謂治國在齊其家。",
+    "title": "右傳之九章"
+  },
+  "commentary_path": "books/da-xue/commentary/commentary-chapter-009.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

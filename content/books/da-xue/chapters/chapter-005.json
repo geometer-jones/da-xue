@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 43,
+    "id": "chapter-005",
+    "order": 5,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 43,
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Only after things are investigated is knowledge brought to completion; only after knowledge is brought to completion are intentions made sincere; only after intentions are made sincere is the heart rectified; only after the heart is rectified is the person cultivated; only after the person is cultivated is the family regulated; only after the family is regulated is the state ordered; only after the state is ordered is the world at peace."
+          }
+        },
+        "id": "chapter-005-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "物格而后知至，知至而后意誠，意誠而后心正，心正而后身脩，身脩而后家齊，家齊而后國治，國治而后天下平。"
+      }
+    ],
+    "summary": "知至而后意誠，意誠而后心正",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "物格而后知至，知至而后意誠，意誠而后心正，心正而后身脩，身脩而后家齊，家齊而后國治，國治而后天下平。",
+    "title": "物格而后知至"
+  },
+  "chapter_path": "books/da-xue/chapters/chapter-005.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

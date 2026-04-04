@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 47,
+    "id": "chapter-026",
+    "order": 26,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 47,
+        "id": "chapter-026-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "重為輕根，靜為躁君。是以聖人終日行不離輜重。雖有榮觀，燕處超然。奈何萬乘之主，而以身輕天下？輕則失本，躁則失君。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gravity is the root of lightness; stillness, the ruler of movement. Therefore a wise prince, marching the whole day, does not go far from his baggage waggons. Although he may have brilliant prospects to look at, he quietly remains (in his proper place), indifferent to them. How should the lord of a myriad chariots carry himself lightly before the kingdom? If he do act lightly, he has lost his root (of gravity); if he proceed to active movement, he will lose his throne."
+          }
+        }
+      }
+    ],
+    "summary": "重為輕根，靜為躁君",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "重為輕根，靜為躁君。是以聖人終日行不離輜重。雖有榮觀，燕處超然。奈何萬乘之主，而以身輕天下？輕則失本，躁則失君。",
+    "title": "第26章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-026.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

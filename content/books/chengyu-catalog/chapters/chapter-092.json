@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-092",
+    "order": 92,
+    "summary": "惜墨如金",
+    "text": "惜墨如金\n命辞遣意\n望眼欲穿\n道殣相望\n取青妃白\n汤去三面\n国破家亡\n雪操冰心\n男女老小\n齐心戮力\n名高难副\n十步芳草\n道路以目\n理所必然\n超然远引\n甘冒虎口\n灭此朝食\n行步如飞\n神色自若\n半解一知\n不知死活\n引狼拒虎\n四清六活\n小家碧玉\n只身孤影\n火烛小心\n军令如山\n移山造海\n望文生训\n得未曾有",
+    "title": "2731-2760",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "惜墨如金",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cherish, cherish"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "命辞遣意",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Use words to express thoughts"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "望眼欲穿",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to anxiously await"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "道殣相望",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Starve to death"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "取青妃白",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Take green to compare with white"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "汤去三面",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "universal benevolence"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "国破家亡",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the country ruined and the people starving (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "雪操冰心",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhixing is noble and pure in character"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "男女老小",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "refers to all people"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "齐心戮力",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Fight together"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "名高难副",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "proportionate"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "十步芳草",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Herb Vanilla"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "道路以目",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I didn’t dare to talk to each other when I met them on the road, so I just signaled with my eyes."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "理所必然",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means that it must be so logically"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "超然远引",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To transcend worldly affairs, go far away"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "甘冒虎口",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to willingness to risk one's life"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "灭此朝食",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. not to have breakfast until the enemy is destroyed"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "行步如飞",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The walking steps are as brisk as flying"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "神色自若",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Be as usual, as you were before"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "半解一知",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to not understanding deeply, knowing very little"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "不知死活",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to act recklessly (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "引狼拒虎",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is a metaphor for introducing another evil force to resist the original evil force, and the disaster will be even worse."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "四清六活",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Describe clever and capable"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "小家碧玉",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "pretty daughter in a humble family"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "只身孤影",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "only alone"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "火烛小心",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A fire candle generally refers to something that can start a fire"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "军令如山",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "military orders are like mountains (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "移山造海",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Move the mountains and create the sea"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "望文生训",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Not understanding the exact meaning of a certain word or phrase, taking the literal meaning far-fetched and giving an inaccurate interpretation"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-092-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "得未曾有",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It means it has never been seen before, and it can only be obtained now"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-092.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

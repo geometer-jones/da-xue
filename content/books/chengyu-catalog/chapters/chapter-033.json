@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-033",
+    "order": 33,
+    "summary": "万死一生",
+    "text": "万死一生\n易地而处\n不臣之心\n有口难分\n以毛相马\n同声同气\n年复一年\n独异于人\n上天入地\n见景生情\n知己之遇\n人地生疏\n不辞而别\n相反相成\n思不出位\n耳食之论\n不失时机\n九死一生\n公诸同好\n五谷不分\n喜不自胜\n出于无奈\n春回大地\n大地春回\n大地回春\n大节不夺\n一以贯之\n一技之长\n变化无常\n低回不已",
+    "title": "961-990",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "万死一生",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A life of death"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "易地而处",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to put oneself in someone's shoes"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "不臣之心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a heart that is not loyal"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "有口难分",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to find it hard to vindicate oneself"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "以毛相马",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Use hair to look at horse"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "同声同气",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to speak the same language"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "年复一年",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) over the years; year after year"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "独异于人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unique from others"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "上天入地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to go up to heaven or down to Hades; to go to great lengths; to search heaven and earth"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "见景生情",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be touched by a scene"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "知己之遇",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Encounter with a bosom friend"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "人地生疏",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be unfamiliar with the place and the people; to be a stranger in a strange place"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "不辞而别",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to leave without saying good-bye"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "相反相成",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be both opposite and complementary; to oppose each other and yet also complement each other"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "思不出位",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Can't think clearly"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "耳食之论",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Theory of Ear Eating"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "不失时机",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to seize the opportune moment"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "九死一生",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "nine deaths and still alive; a narrow escape"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "公诸同好",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to share for the benefit of all"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "五谷不分",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No distinction between grains"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "喜不自胜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unable to contain one's joy"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "出于无奈",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Out of helplessness"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "春回大地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "spring returns to the earth; spring is here again"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "大地春回",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Spring returns to the earth"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "大地回春",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "spring returns to the earth; spring is here again"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "大节不夺",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Don’t take away important events"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "一以贯之",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) (of a principle, purpose etc) consistently upheld; adhered to from beginning to end"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "一技之长",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "professional skill"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "变化无常",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) changeable; fickle"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-033-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "低回不已",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Feeling depressed"
+          }
+        },
+        "category": "较高难度 II"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-033.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

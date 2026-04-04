@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-013",
+    "order": 13,
+    "summary": "不可言传",
+    "text": "不可言传\n人事不醒\n无影无形\n无形无影\n百无一成\n前无古人\n不近人情\n有口无心\n不时之须\n自出一家\n千人所指\n大而化之\n来之不易\n不得其所\n无地可容\n无法无天\n一五一十\n一分为二\n如无其事\n老而不死\n一言为定\n心口不一\n天无二日\n出人头地\n书不尽意\n自以为是\n同心一德\n人心如面\n自成一家\n行若无事",
+    "title": "361-390",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "不可言传",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "indescribable"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "人事不醒",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "People are not awake"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "无影无形",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Invisible"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "无形无影",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Invisible and shadowless"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "百无一成",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No chance"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "前无古人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) unprecedented"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "不近人情",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) not amenable to reason; unreasonable"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "有口无心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to speak harshly but without any bad intent"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "不时之须",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "emergencies"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "自出一家",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Become a family"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "千人所指",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thousands of people pointed out"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "大而化之",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "careless"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "来之不易",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "not easy to obtain; hard won"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "不得其所",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "out of place"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "无地可容",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No place to accommodate"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "无法无天",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "without regard to the law or heaven"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "一五一十",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "count by fives and tens; to narrate systematically and in full detail"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "一分为二",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to divide one into two; there are two sides to everything"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "如无其事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As if nothing happened"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "老而不死",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "old but not dead"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "一言为定",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "it is a deal; it is settled then"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "心口不一",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "heart and mouth at variance; keeping one's real intentions to oneself"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "天无二日",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "there cannot be two monarchs or chiefs at the same time"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "出人头地",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to stand out among one's peers ; to excel"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "书不尽意",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The book is not satisfactory"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "自以为是",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to believe oneself infallible; always right; opinionated"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "同心一德",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One heart and one virtue"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "人心如面",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "People's hearts are like faces"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "自成一家",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have a style of one's own"
+          }
+        },
+        "category": "高透明度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-013-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "行若无事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to behave as if nothing had happened"
+          }
+        },
+        "category": "高透明度 II"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-013.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

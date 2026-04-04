@@ -1,0 +1,710 @@
+{
+  "chapter": {
+    "character_count": 3694,
+    "id": "chapter-012",
+    "order": 12,
+    "reading_unit_count": 53,
+    "reading_units": [
+      {
+        "character_count": 57,
+        "id": "chapter-012-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "曹操正慌走間，正南上一彪軍到，乃夏侯惇引軍來救援，截住呂布大戰。鬥到黃昏時分，大雨如注，各自引軍分散。操回寨，重賞典韋，加為領軍都尉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "While Cao Cao was making his frantic escape, a group of soldiers arrived from the south. It was Xiahou Dun, arriving with a rescue force. Dun intercepted Lü Bu, then engaged him in a major battle. They fought until dusk, when it began to pour down rain, and everyone dispersed. Cao returned to camp. He generously rewarded Dian Wei, promoting him to captain of the army."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-012-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "卻說呂布到寨，與陳宮商議。宮曰：「濮陽城中有富戶田氏，家僮千百，為一郡之巨室；可令彼密使人往操寨中下書，言呂溫侯殘暴不仁，民心大怨，今欲移兵黎陽，止有高順在城內，可連夜進兵，我為內應。操若來，誘之入城，四門放火，外設伏兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to Lü Bu, who had returned to camp and consulted with Chen Gong."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-012-line-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "曹操雖有經天緯地之才，到此安能得脫也？」呂布從其計，密諭田氏使人逕到操寨。操因新敗，正在躊躇，忽報田氏人到，呈上密書云：「呂布已往黎陽，城中空虛。萬望速來，當為內應。城上插白旗，大書『義』字，便是暗號。」操大喜曰：「天使吾得濮陽也！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gong said, \"There is a wealthy family, the Tian family, within the city of Puyang."
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-012-line-004",
+        "order": 4,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "重賞來人一面收拾起兵。劉曄曰「布雖無謀陳宮多計。只恐其中有詐不可不防。明公欲去當分三軍為三隊兩隊伏城外接應一隊入城方可。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They have a thousand servants; they are a prominent family within the Commandery. We could order them to secretly send someone to deliver a letter to Cao's camp. The letter would explain that Marquis of Wen Lü was cruel and heartless, and that the people hated him. The letter would go on to say that Lü had now moved his troops to Liyang, and that only Gao Shun remained within the city. Finally, the letter would advise Cao to advance on the city that evening, and that the author of the letter would act as an inside man for Cao. If Cao comes, and can be enticed into the city, we will set all four city gates on fire. Furthermore, we will hide soldiers on the outside of the city so that Cao will be trapped inside. Even though Cao Cao is a man of extraordinary talent, how could he possibly escape from such a predicament?\" Lü Bu went along with this plan, secretly ordering someone from the Tian family to go straight to Cao's camp. Having recently suffered a defeat, Cao was now hesitant. Suddenly, it was reported that someone from the Tian family had arrived, and had delivered a secret letter that read, \"Lü Bu has already departed for Liyang, and the city is empty. I really hope that you will come quickly. I will be your inside man. I will place a white flag on top of the city wall. I will write the character for 'righteousness' in large script. That will be the secret signal.\" Cao was overjoyed, saying, \"Heaven has allowed me to take Puyang!\" He rewarded the visitor, while simultaneously gathering his forces. Liu Ye said, \"Even though Bu lacks a strategic mind, Chen Gong is a man of many tricks. I'm afraid that this may be a ruse. We cannot afford to be careless. If Your Excellency wants to go, then we should divide our three armies into three units: two units will hide outside of the city and respond if needed, while one unit enters the city. This is the only way.\""
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-012-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "操從其言，分軍三隊，來至濮陽城下。操先往觀之，見城上遍豎旗旛，西門角上，有一「義」字白旗，心中暗喜。是日午牌，城門開處，兩員將引軍出戰：前軍侯成，後軍高順。操即使典韋出馬，直取侯成。侯成抵敵不過，回馬望城中走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao went along with this suggestion, dividing his armies into three units after they arrived at the city walls of Puyang."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-012-line-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "韋趕到弔橋邊，高順亦攔擋不住，都退入城中去了。數內有軍人乘勢混過陣來見操，說是田氏之使，呈上密書。約云：「今夜初更時分，城上鳴鑼為號，便可進兵。某當獻門。」操撥夏侯惇引軍在左，曹洪引軍在右，自己引夏侯淵，李典，樂進，典韋四將，率兵入城。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The first thing that Cao did was to take a look around."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-012-line-007",
+        "order": 7,
+        "source_block_chunk": 3,
+        "source_block_order": 3,
+        "text": "李典曰：「主公且在城外，容某等先入城去。」操喝曰：「我不自往，誰肯向前！」遂當先領兵直入。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he saw that flags and banners had been erected on top of the city walls, and that there was a white banner with the character for 'righteousness' on top of a corner of the western gate, he was secretly delighted. At noon of the same day, two generals, along with their armies, emerged from the gates in order to engage in battle. The forward army was commanded by Hou Cheng and the rear army was commanded by Gao Shun. Cao immediately dispatched Dian Wei to ride out on his horse and challenge Hou Cheng. Hou Cheng was unable to withstand the onslaught, so he wheeled his horse around and headed back into the city. Several soldiers took advantage of the confusion to cross the battlefield and see Cao. Saying that they were messengers from the Tian family, they presented Cao with a secret letter. The letter said something to the effect of, \"Tonight, at the first watch, I will sound the gongs from on top of the city walls. That will be your signal to advance. I will make sure that the gate is open.\" Cao placed Xiahou Dun in charge of the forces on the left flank and Cao Hong in charge of the forces on the right flank. Cao personally took command of Xiahou Yuan, Li Dian, Yue Jin and Dian Wei, along with their forces, and prepared to enter the city. Li Dian said, \"Your Excellency, you should remain outside of the city, and allow us to enter the city first.\" Cao rebuked him, saying, \"If I don't go in, nobody will want to advance!\" He then took the initiative to lead his troops straight into the city."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-012-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "時約初更，月光未上。只聽得西門上吹蠃殼聲，喊聲忽起，門上火把燎亂，城門大開，弔橋放落。曹操爭先拍馬而入。直到州衙，路上不見一人。操知是計，忙撥回馬，大叫：「退兵！」州衙中一聲砲響，四門烈火，轟天而起；金鼓齊鳴，喊聲如江翻海沸。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It was around the time of the first watch; the light of the moon had not yet come out."
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-012-line-009",
+        "order": 9,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "東巷內轉出張遼，西巷內轉出臧霸，夾攻掩殺。操走北門，道傍轉出郝萌、曹性，又殺一陣。操急走南門，高順、侯成攔住。典韋怒目咬牙，衝殺出去。高順、侯成倒走出城。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The only thing that could be heard was the sound of someone blowing a conch shell from the top of the city's western gate. All of the sudden, people began shouting, while flames from torches darted back and forth from the top of the gate. The city gate was opened wide, and the drawbridge was lowered. Cao Cao eagerly rode his horse inside at a gallop. He headed straight for the provincial government compound, but did not see anybody in the streets. Cao realized that it was a ruse, and quickly wheeled his horse around, shouting, \"Retreat!\" But while he was still inside the compound, a deafening explosion rang out, as all four gates caught fire. The gongs and drums of war sounded out in unison; the sound of people shouting reminded one of the loud rapids of a river or the crashing waves in the ocean. Zhang Liao charged out from the eastern alley, while Zang Ba charged out from the western alley, staging a surprise pincer attack. Cao headed for the northern gate of the city, but Hao Meng and Cao Xing rushed out from the side of the road, killing some of Cao's men. Cao hurriedly made his way to the southern gate of the city, but Gao Shun and Hou Cheng blocked his way. Dian Wei flew into a rage, and drove them both back. Gao Shun and Hou Cheng ended up being driven outside of the city."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-012-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "典韋殺到弔橋，回頭不見了曹操，翻身復殺入城來，門下撞著李典。典韋問：「主公何在？」典曰：「吾亦尋不見。」韋曰：「汝在城外催救軍，我入去尋主公。」李典去了。典韋殺入城中，尋覓不見；再殺出城壕邊，撞著樂進。進曰：「主公何在？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dian Wei fought his way to the drawbridge; when he looked behind him, he did not see Cao Cao, so he turned around and fought his way back into the city."
+          }
+        }
+      },
+      {
+        "character_count": 50,
+        "id": "chapter-012-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "」韋曰：「我往復兩遭，尋覓不見。」進曰：「同殺入去救主！」兩人到門邊，城上火砲滾下，樂進馬不能入，典韋冒煙突火，又殺入去，到處尋覓。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Inside the city gates, he ran into Li Dian. Dian Wei asked, \"Where is His Excellency?\" Dian answered, \"I have not seen him either.\" Wei said, \"Go outside of the city walls, and help our armies there. I will enter the city and look for His Excellency.\" Li Dian left. Dian Wei fought his way inside the city, but could not find Cao, so he once again fought his way back to the city's moat, where he ran into Yue Jin. Jin asked, \"Where is His Excellency?\" Wei replied, \"I went back into the city twice, but could not find him.\" Jin said, \"Let's charge in together and rescue our lord!\" The two of them made their way to the city gate, but firebombs were being dropped from the top of the city wall. Yue Jin's horse was unable to enter, but Dian Wei fought his way through the flames. Back in the city once again, he looked everywhere for Cao."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-012-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "卻說曹操見典韋殺出去了，四下裏人馬截來，不得出南門；再轉北門，火光裏正撞見呂布挺戟躍馬而來。操以手掩面，加鞭縱馬竟過。呂布從後拍馬趕來，將戟於操盔上一擊，問曰：「曹操何在？」操反指曰：「前面騎黃馬者是他。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to Cao Cao who, after Dian Wei had fought his way out, became surrounded on all sides by the enemy."
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-012-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "呂布聽說，棄了曹操，縱馬向前追趕。曹操撥轉馬頭，望東門而走，正逢典韋。韋擁護曹操，殺條血路，到城門邊，火燄甚盛，城下推下柴草，遍地都是火。韋用戟撥開，飛馬冒煙突火先出。曹操隨後亦出。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He was not able to exit via the southern gate, so he headed back toward the northern gate."
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-012-line-014",
+        "order": 14,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "方到門道邊，城門上崩下一條火梁來，正打著曹操戰馬後胯，那馬撲地倒了。操用手托梁推放地上，手臂鬚髮，盡被燒傷。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "By the light of the torches, he could make out the figure of Lü Bu rapidly approaching on horseback, halberd in hand. Cao covered his face with his hand, whipping his horse with his riding crop so that he could quickly make his way past Bu. Lü Bu urged his horse to go faster so that he could catch up with Cao from behind. Bu tapped his halberd on the top of Cao's helmet, asking, \"Where is Cao Cao?\" Cao pointed, saying, \"He is the one riding the blonde horse, just ahead.\" When Lü Bu heard this, he abandoned Cao Cao and galloped ahead in order to give chase. Cao Cao wheeled the head of his horse around, and began heading toward the eastern gate, when he ran into Dian Wei. Wei protected Cao Cao, while fighting his way through the enemy ranks. By the time they arrived at the gates of the city, the flames were everywhere. Kindling wood and straw had been dropped from the top of the city walls, and the ground was a sea of fire. Wei used his halberd to push aside the burning timbers, then dashed through the flames on his horse. Cao Cao followed him out of the city. Just as they were approaching the road outside of the city gate, a burning beam fell from the top of the gate. The beam struck Cao Cao's war horse in the hind quarters, causing the horse to fall with a thud. Cao pushed the beam off of the horse with his bare hands, and set it on the ground. His arms, beard and hair were badly burned."
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-012-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "典韋回馬來救恰好夏侯淵亦到。兩個同救起曹操突火而出。操乘淵馬典韋殺條大路而走。直混戰到天明操方回寨。眾將拜伏問安操仰面笑曰「誤中匹夫之計吾必當報之」郭嘉曰「計可速發。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just when Dian Wei wheeled his horse around to help out, Xiahou Yuan also arrived."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-012-line-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "」操曰：「今只將計就計：詐言我被火傷，火毒攻發，五更已經身死。布必引兵來攻。我伏兵於馬陵山中，候其兵半渡而擊之，布可擒矣。」嘉曰：「真良策也！」於是令軍士挂孝發喪，詐言操死。早有人來濮陽報呂布，說曹操被火燒傷肢體，到寨身死。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Together, the two of them rescued Cao Cao from the flames."
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-012-line-017",
+        "order": 17,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "布隨點起軍馬，殺奔馬陵山來。將到操寨，一聲鼓響，伏兵四起。呂布死戰得脫，折了好些人馬；敗回濮陽，堅守不出。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao mounted Yuan's horse, while Dian Wei slaughtered enough of the enemy to create a wide pathway for Cao to go through. They fought wildly until dawn, before Cao finally returned to camp. All of his generals bowed down in obeisance and paid their respects. Cao looked up at them and smiled, saying, \"I fell for the trick of a simpleton, and now I must exact my revenge!\" Guo Jia said, \"We must come up with a plan quickly.\" Cao said, \"We will now beat them at their own game. Spread a false story that as a result of my burns, I succumbed to a toxic infection, and died at the time of the fifth watch. Bu will surely lead his men in an attack on us.\" I will have soldiers lie in ambush at Malingshan, and will attack once his men are halfway through the area. This is how we can capture Bu.\" Jia said, \"That is a truly brilliant plan!\" Cao thereupon ordered his troops to don mourning clothing. He further ordered them to hold a funeral, and to spread a false story that Cao had died. In the morning, someone came to Puyang to report to Lü Bu that Cao Cao had been badly burned and had returned to camp, where he died. Accordingly, Bu called up his troops, and advanced toward Malingshan. As he neared Cao's camp, the sound of war drums rang out. Hidden soldiers sprang up from all sides. Lü Bu fought for his life in order to escape, sacrificing a number of men and horses in the process. He returned in defeat to Puyang; he holed up in the city, and did not come out."
+          }
+        }
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-012-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "是年蝗蟲忽起食盡禾稻。關東一境每榖一斛值錢五十貫人民相食。曹操因軍中糧盡引回鄄城暫往。呂布亦引兵出屯山陽就食。因此二處權且罷兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "That year, the locusts suddenly appeared, eating all of the unhusked rice."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-012-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "卻說陶謙在徐州時年已六十三歲忽然染病看看沈重請糜竺、陳登議事。竺曰「曹兵之去止為呂布襲兗州故也。今因歲荒罷兵來春又必至矣。府君兩番欲讓位於劉玄德時府君尚強健故玄德不肯受今病已沈重正可就此面與之玄德必不辭矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the area to the east of the pass, a single hu of grain cost 50 strings."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-012-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "謙大喜使人來小沛請劉玄德議軍務。玄德引關、張帶數十騎到徐州陶謙教請入臥內。玄德問安畢謙曰「請玄德公來不為別事止因老夫病已危篤朝夕難保萬望明公可憐漢家城池為重受取徐州牌印老夫死亦瞑目矣」玄德曰「君有二子何不傳之」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The people resorted to cannibalism."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-012-line-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "謙曰「長子商次子應其才皆不堪任。老夫死後猶望明公教誨切勿令掌州事。」玄德曰「備一身安能當此大任」謙曰「某舉一人可為公輔係北海人姓孫名乾字公祐。此人可使為從事。」又謂糜竺曰「劉公當世人傑汝當善事之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Because his army had exhausted its supply of grain, Cao Cao led his men back to Juancheng County, where they stayed for the time being. Lü Bu also led his troops away, pitching camp at Shanyang so that they could eat their fill. For this reason, the two sides temporarily ceased hostilities. Let us now turn to Tao Qian, who was in Xuzhou. At the time, he was 63 years old. He suddenly came down with an illness, which appeared to be serious. He summoned Mi Zhu and Chen Deng in order to discuss the matter. Zhu said, \"Cao's army only left because Lü Bu had attacked Yanzhou. They have stopped fighting for now, because of the famine. However, they will be back again next spring for sure. Your Excellency, you have tried twice to yield your position to Liu Xuande. At that time, you were still healthy, so Xuande was unwilling to accept your offer. Now that your illness has become dire, it is the perfect time to offer your position to him. Xuande will certainly not decline.\" 200px|thumb|right|w:Sun Qian|Sun Qian Qian was overjoyed. He sent someone to Xiaopei in order to invite over Liu Xuande to discuss military affairs. Xuande brought along with him to Xuzhou Guan, Zhang and a dozen or so cavalrymen. Tao Qian had him brought inside his sleeping quarters. After Xuande had finished with the initial pleasantries, Qian said, \"I have invited you to come here for only one reason, I am gravely ill and am not long for this world. My fervent hope is that you think it important to take pity on the lands of the house of Han. Were you to accept the official tablet and seal of Xuzhou, I would be able to die without any regrets!\" Xuande said, \"You have two sons. Why not pass down the tablet and seal to one of them?\" Qian said, \"My oldest son Shang, and my second son Ying, are not suited for such an important position. After I die, my hope is that you would instruct them, but under no circumstances should you allow them to take charge of Xuzhou. Xuande said, \"How I could I ever take on such an important position?\" Qian said, \"I will recommend someone to be your second in command. He is from Beihai. His surname is Sun, his given name is Qian, and his style name is Gongyou. You could make this person your aide.\" He then said to Mi Zhu, \"Lord Liu is an outstanding man of our time. You must serve him well.\""
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-012-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "玄德終是推託，陶謙以手指心而死。眾軍舉哀畢，即捧牌印交送玄德。玄德固辭。次日，徐州百姓，擁擠府前哭拜曰：「劉使君若不領此郡，我等皆不能安生矣！」關、張二公亦再三相勸。玄德乃許權領徐州事；使孫乾、糜竺為輔，陳登為幕官；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xuande made excuses until the very end."
+          }
+        }
+      },
+      {
+        "character_count": 50,
+        "id": "chapter-012-line-023",
+        "order": 23,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "盡取小沛軍馬入城，出榜安民；一面安排喪事。玄德與大小軍士，盡皆挂孝，大設祭奠。祭畢，葬於黃河之原。將陶謙遺表，申奏朝廷。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tao Qian clutched his heart, and then died. After the troops dried their initial tears of grief, they took the tablet and seal of Xuzhou and tried to give it to Xuande. Xuande adamantly refused. The following day, the citizens of Xuzhou formed a crowd outside of the government offices. Pleading with him, they said, \"Governor Liu, if you do not take charge of this commandery, we will not be able to live in peace!\" Guan and Zhang both repeatedly advised Liu to accept the position. Consequently, Xuande agreed to govern the affairs of Xuzhou; he made Sun Qian and Mi Zhu his deputies, and placed Chen Deng on his staff. He then moved all of the troops at Xiaopei into the city. He also posted an announcement in order to placate the people. Next, he made arrangements for the funeral. Xuande held a grand memorial for Tao. Everyone in attendance, from the most senior officer to the most junior soldier, was attired in mourning garb. When the ceremony was over, Tao was buried along the banks of the Yellow River. Tao Qian's last will and testament was delivered to the imperial court."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-012-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "操在鄄城，知陶謙已死，劉玄德領徐州牧，大怒曰：「我讎未報，汝不費半箭之功，坐得徐州！吾必先殺劉備，後戮謙屍，以雪先君之怨！」即傳號令，剋日起兵去打徐州。荀彧入諫曰：「昔高祖保關中，光武據河內，皆深根固本，以正天下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao was in Juancheng when he found out that Tao Qian had died and that Liu Xuande had become governor of Xuzhou."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-012-line-025",
+        "order": 25,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "進足以勝敵，退足以堅守，故雖有困，終濟大業。明公本首事兗州，且河、濟乃天下之要地，是亦昔之關中、河內也。今若取徐州，多留兵則不足用，少留兵則呂布乘虛寇之，是無兗州也。若徐州不得，明公安所歸乎？今陶謙雖死，已有劉備守之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Angrily, he said, \"I have not yet exacted my revenge, and yet you, this neophyte, saw fit to preside over Xuzhou?"
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-012-line-026",
+        "order": 26,
+        "source_block_chunk": 3,
+        "source_block_order": 13,
+        "text": "徐州之民，既已服備，必助備死戰。明公棄兗州面取徐州，是棄大而就小，去本而求末，以安而易危也：願熟思之。」操曰：「今歲荒乏糧，軍士坐守於此，終非良策。」彧曰：「不如東略陳地，使軍就食；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I must first kill Liu Bei, and then defile Qian's corpse, in order to assuage my hatred!\" He then passed down orders for the army to be called up, so that he might attack Xuzhou."
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-012-line-027",
+        "order": 27,
+        "source_block_chunk": 4,
+        "source_block_order": 13,
+        "text": "汝南、潁川，黃巾餘黨何儀、黃劭等，劫掠州郡，多有金帛、糧食。此等賊徒，又容易破。破而取其糧，以養三軍，朝廷喜，百姓悅，乃順天之事也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xun Yu came in to advise him, saying, \"In the past, both Gaozu and Guangwu occupied Guanzhong and Henei, respectively, as solid bases from where they could bring order to the nation. If they advanced, they had sufficient forces to defeat the enemy. If they retreated, they had sufficient forces to defend their stronghold. That is why, despite the difficulties they encountered, they were able to accomplish great things in the end. Your Excellency should make Yanzhou your priority. The lands near the Yellow River and the Jishui River are the most important in the empire. They are the equivalent of Guanzhong and Henei of old. If you try to take Xuzhou now, you will not have sufficient forces for your assault, if you leave too many troops behind. Similarly, if you leave too few troops behind, then Lü Bu will take advantage of the situation and invade. If that happens, you will lose Yanzhou. Then, if you fail to capture Xuzhou, where shall you return? Although Tao Qian is now dead, Liu Bei is still guarding the city. The citizens of Xuzhou are all supporting Bei, and will fight to the death for him. If Your Excellency abandons Yanzhou in order to take Xuzhou, it would be throwing away something major for something minor. It would be discarding the beginning in order to seek out the end. It will be taking peace and stability and turning it into peril. I wish for you to think carefully about this.\" Cao said, \"This has been a bad year for crops, and we are short on grain. It would not be a wise plan of action to stay here and hunker down.\" Yu said, \"It would be better to make a play for the eastern lands of Chen, allowing your army to obtain food supplies from both Ru'nan and Yingchuan. The area is now controlled by remnants of the Yellow Turbans, people like He Yi and Huang Shao. They had robbed and plundered the surrounding states and commanderies, and have an abundance of money, cloth goods, and grain. These kinds of bandit rebels are easy to break. After we break them, we can seize their grain so that we can feed our three armies. The imperial court will be pleased, the citizens will be happy. Our undertaking will be in accord with the ways of heaven.\""
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-012-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "操喜，從之，乃留夏侯惇、曹仁守鄄城等處，自引兵略陳地，次及汝、潁。黃巾何儀、黃劭知曹兵到，引眾來迎，會於羊山。時賊兵雖眾，都是狐群狗黨，並無隊伍行列。操令強弓硬弩射住，令典韋出馬。何儀令副元師出戰，不三合，被典韋一戟剌於馬下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao happily went along with this advice."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-012-line-029",
+        "order": 29,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "操引眾乘勢趕過羊山下寨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He left Xiahou Dun and Cao Ren in charge of places like Juancheng, while he personally led troops, first to the lands of Chen, then to Ru'nan and Yingchuan. Having learned that Cao's army had arrived, He Yi and Huang Shao led out their own troops to intercept them. The two armies met at Yang Mountain. Although the entire bandit army had shown up, it was a ragtag group of thugs, without any formations or battle ranks. Cao ordered the shooting of a barrage of arrows in order to stop the bandits in their tracks. He then ordered Dian Wei to take to the field on horseback. He Yi ordered his deputy commander to respond. They had not gone more than three bouts, before the deputy commander fell from his horse, having been stabbed by Dian Wei's halberd. Cao seized the initiative to quickly lead his troops over Yang Mountain and set up camp."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-012-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "次日，黃劭自引軍來。陣圓處，一將步行出戰，頭裏黃巾，身披綠襖，手提鐵棒，大叫：「我乃截天夜叉何曼也！誰敢與我廝鬥？」曹洪見了，大喝一聲，飛身下馬，提刀步出。兩下向陣前廝殺，四五十合，勝負不分。曹洪詐敗而走，何曼趕來；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The following day, Huang Shao personally led in his forces."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-012-line-031",
+        "order": 31,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "洪用拖刀背砍計，轉身一跳，砍中何曼，再復一刀殺死。李典乘勢飛馬直入賊陣。黃劭不及隄備，被李典生擒活捉過來。曹兵掩殺賊眾，奪其金帛糧食無數。何儀勢孤，引數百騎奔走葛陂。正行之間，山背後撞出一軍。為頭一個壯士，身長八尺，腰大十圍；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A general marched out from the spot where Huang's army had gathered."
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-012-line-032",
+        "order": 32,
+        "source_block_chunk": 3,
+        "source_block_order": 15,
+        "text": "手提大刀，截住去路。何儀挺槍出迎，只一合，被那壯士活挾過去。餘眾著忙，皆下馬受縳，被壯士盡驅入葛陂塢中。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The general wore a yellow turban on his head and had on a green padded jacket. Holding an iron bar in his hand, he shouted, \"I am He Man, the yaksha demon that streaks across the heavens! Who dares to fight with me?\" Cao Hong looked at him, then let out a yell and leaped off of his horse. broadsword in hand, he strode out onto the field. In a flash, he charged at the enemy. They fought forty or fifty rounds with no clear victor. Cao Hong feigned defeat and began to leave. He Man chased after him. Hong was using the classic \"drop your guard and turn your back\" trick. Hong suddenly turned and leaped, then sliced into He Man. Hong then followed up with another slash, killing him instantly. Li Dian took advantage of the situation to ride his horse into the enemy lines. Huang Shao was caught off guard and was captured alive by Li Dian. Cao's army slaughtered the bandit forces, making off with countless amounts of gold, cloth goods and grain. He Yi was now cut off and alone. Leading several hundred cavalrymen, he fled toward Gebei. As he was making his way there, an army stormed out from behind a hill. Leading the army was an imposing warrior, who stood at a height of eight chi, and had a waist the thickness of a tree trunk. In his hand, he brandished a large broadsword, and was blocking the way. He Yi raised his spear and went out to meet him in battle. After only one round, He was captured alive by the warrior. The remaining men quickly dismounted from their horses. They were then bound and forced by the warrior into the lowlands of Gebei."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-012-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "卻說典韋追襲何儀到葛陂，壯士引軍迎住。典韋曰：「汝亦黃巾賊耶？」壯士曰：「黃巾數百騎，盡被我擒在塢內！」韋曰：「何不獻出？」壯士曰：「你若贏得手中寶刀，我便獻出！」韋大怒，挺雙戟向前來戰。兩個從辰至午，不分勝負，各自少歇。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to Dian Wei, who had chased He Yi all the way to Gebei."
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-012-line-034",
+        "order": 34,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "不一時，那壯士又出搦戰，典韋亦出。直戰到黃昏，各因馬乏暫止。典韋手下軍士，飛報曹操。操大驚，忙引眾將來看。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The warrior led out his army to intercept Wei. Dian Wei said, \"Are you one of the Yellow Turban bandits?\" The warrior said, \"Several hundred Yellow Turban cavalrymen have been captured by me. They are now in the lowlands!\" Wei said, \"Why don't you hand them over?\" The warrior said, \"If you can manage to take away the broadsword that is in my hand, I will hand them over to you!\" Wei was furious. He raised his twin long-handle halberds and charged. The two of them fought from the hours of the dragon until the hours of the horse; there was no clear victor, so they both rested. Before long, the warrior came back out to challenge Dian Wei, who obliged him. They fought straight through to dusk. By that point, their horses were exhausted, so they temporarily stopped for the night. One of Dian Wei's men rushed back to Cao Cao in order to report the incident. Cao was shocked, and quickly brought his generals along so that they could all see the action."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-012-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "次日，出壯士又出搦戰。操見其人威風凜凜，心中暗喜，分付典韋，今日且詐敗。韋領命出戰；戰到三十合，敗走回陣。壯士趕到陣門中，弓弩射回。操急引軍退五里，密使人掘下陷坑，暗伏鉤手。次日，再令典韋引百餘騎出。壯士笑曰：「敗將何敢復來！」便縱馬接戰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "200px|thumb|right|w:hook sword|hook swords The next day, the warrior again came out to challenge Dian Wei."
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-012-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "典韋略戰數合，便回馬走。壯士只顧望前趕來，不隄防連人帶馬，都落於坑之內，被鉤手縳來見曹操。操下帳叱退軍士，親解其縳，急取衣衣之，命坐，問其鄉貫姓名。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Cao saw how imposing the warrior was, he was secretly delighted."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-012-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "壯士曰：「我乃譙國譙縣人也：姓許，名褚，字仲康。向遭寇亂，聚宗族數百人，築堅於塢中以禦之。一日寇至，吾令眾人多取石子準備，吾親自飛石擊之，無不中者，寇乃退去。又一日寇至，塢中無糧，遂與賊和，約以耕牛換米。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He instructed Dian Wei to fake defeat."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-012-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "米已送到，賊驅牛至塢外，牛皆奔走回還，被我雙手掣二牛尾，倒行百餘步。賊大驚，不敢取牛而走：因此保守此處無事。」操曰：「吾聞大名久矣，還肯降否？」褚曰：「固所願也。」遂招宗族數百人俱降。操拜許褚為都尉，賞勞甚厚。隨將何儀、黃劭斬訖。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wei followed orders and went out to do battle. After 30 rounds, he fled in defeat back to his side's battle lines. The warrior chased Wei all the way to the entrance of Wei's camp, but was forced to retreat amid a hail of arrows. Cao swiftly pulled his army back by five li. Cao secretly ordered some of his men to dig a pit, then had soldiers armed with hook swords lie in ambush. The next day, Cao again ordered Dian Wei to lead several hundred cavalrymen out to battle. The warrior laughed and said, \"Why would a defeated general dare to come out again!\" He then raced his horse into battle. Dian Wei fought for several rounds, then wheeled his horse around and fled. The warrior only focused on charging forward, so he was caught off guard. He ended up riding into the pit, horse and all. The warrior was bound by the soldiers armed with hook swords and then brought before Cao Cao. Cao came out from his tent and dismissed his soldiers. Cao personally untied the warrior and gave him clothes to wear. Cao then ordered him to sit, and asked the warrior his name and where he was from. 200px|thumb|right|w:Xu Chu|Xu Chu The warrior said, \"I am from Qiao County in the Kingdom of Pei. My surname is Xu, my given name is Chu, and my style name is Zhongkang. We have been met with a number of bandit incursions recently, so I gathered several hundred of my kin and built within the lowlands a stronghold that could protect them. One day, the bandits arrived. I ordered everyone to gather rocks in preparation. I personally launched an assault on the bandits, using a rock catapult. I struck everyone at whom I fired. The bandits then retreated. On another day when the bandits arrived, our lowland stronghold was out of grain, so I made peace with the bandits and made a deal with them to trade farm cattle for rice. After they delivered the rice, the bandits drove the cattle out of the lowlands, but the cattle all ran off and returned to us. I caught two of the cattle by their tails and dragged them more than one hundred paces back toward the bandits. The bandits were shocked and left without daring to take the cattle. Because of this, I have been able to defend this area without incident.\" Cao said, \"I have heard your name for some time now. Are you now willing to surrender to me?\" Chu said, \"That is absolutely my desire.\" He then led out several hundred of his kin, who all surrendered. Cao honored Xu Chu by promoting him to the rank of captain. He also rewarded Chu with gifts, in recognition of his service. Cao then executed He Yi and Huang Shao. With that, Ru'nan and Yingchuan were pacified."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-012-line-039",
+        "order": 39,
+        "source_block_chunk": 3,
+        "source_block_order": 18,
+        "text": "汝、潁悉平。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao Cao was in the process of recalling his troops, when Cao Ren and Xiahou Dun paid him a visit."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-012-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "曹操班師，曹仁、夏侯惇接見，言近日細作報說：兗州薛蘭、李封軍士皆出擄掠，城邑空虛，可引得勝之兵攻之，一鼓可下。操遂引軍逕奔兗州。薛蘭、李封出其不意，只得引兵出城迎戰。許褚曰：「吾願取此二人，以為贄見之禮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They told him that a spy had recently informed them that the army of Xue Lan and Li Feng had left Yanzhou on a looting excursion, and the city was now empty."
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-012-line-041",
+        "order": 41,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "」操大喜，遂令出戰，李封使畫戟，向前來迎。交馬兩合，許褚斬李封於馬下。薛蘭急走回陣，弔橋邊李典攔住；薛蘭不敢回城，引軍投鉅野而去；卻被呂虔飛馬趕來，一箭射於馬下，軍皆潰散。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A winning army could be led there to attack them, taking the city in one fell swoop. Cao accordingly led his army straight toward Yanzhou. Xue Lan and Li Feng were caught unawares, but had no choice but to lead their reserve forces out of the city in order to meet the enemy in battle. Xu Chu said, \"I am willing to take these two and offer them to you as a gift in order to commemorate my first meeting with you.\" Cao was overjoyed, and ordered him into battle. Li Feng raised his halberd and charged. The two horses engaged for two rounds, then Xu Chu cut Li Feng down from his horse. Xue Lan made a hasty retreat to his own lines, but was blocked at the drawbridge by Li Dian. Xue Lan did not dare to return to the city, so he headed his army toward Juye. However, Lü Qian chased after him on horseback. With one arrow, Qian felled Lan from his horse. The army of Xue Lan and Li Feng scattered in defeat."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-012-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "曹操復得兗州，程昱便請進兵取濮陽。操令許褚、典韋為先鋒，夏侯惇、夏侯淵為左軍，李典、樂進為右軍，操自領中軍，于禁、呂虔為合後。兵至濮陽，呂布欲自將出迎，陳宮諫：「不可出戰。待眾將聚會後方可。」呂布曰：「吾怕誰來？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After Cao Cao reacquired Yanzhou, Cheng Yu requested permission to advance on Puyang."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-012-line-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "」遂不聽宮言，引兵出陣，橫戟大罵。許褚便出。鬥二十合，不分勝負。操曰：「呂布非一人可勝。」便差典韋助戰，兩將夾攻。左邊夏侯惇、夏侯淵，右邊李典、樂進齊到，六員將共攻呂布。布遮攔不住，撥馬回城。城上田氏，見布敗回，急令人拽起弔橋。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Cao ordered Dian Wei and Xu Chu to be in the lead force."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-012-line-044",
+        "order": 44,
+        "source_block_chunk": 3,
+        "source_block_order": 20,
+        "text": "布大叫：「開門！」田氏曰：「吾已降曹將軍。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Xiahou Dun and Xiahou Yuan were placed in charge of the Army of the Left, Li Dian and Yue Jin were placed in charge of the Army of the Right, Cao personally took command of the Army of the Center, and Yu Jin and Lü Qian brought up the rear. When Cao's armies arrived at Puyang, Lü Bu wanted to personally go out to meet them, but Chen Gong admonished, \"You must not engage them in battle. Wait for all of your generals to gather, before doing anything.\" Lü Bu said, \"I'm not afraid of anyone.\" And so, he did not heed Gong's advice, but rather led a force out of his encampment, cursing and brandishing his halberd all the while. Xu Chu likewise took to the field. They fought for twenty rounds without a winner. Cao said, \"Lü Bu is not someone that can be beaten by one person alone.\" With that, he sent Dian Wei into battle. The two of them engaged in a pincer attack against Bu. At the same time, Xiahou Dun and Xiahou Yuan moved in from the left, while Li Dian and Yue Jin moved in from the right. The six generals attacked Lü Bu in unison. Bu was unable to fend them off, so he wheeled his horse around and returned to the city. When the man from the Tian family saw from the top of the city walls that Bu was returning in defeat, he hastily ordered someone to raise the drawbridge. Bu shouted, \"Open the gates!\" The man from the Tian family said, \"I have already surrendered to General Cao.\""
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-012-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "布大罵，引軍奔定陶而去。陳宮急開東門，保護呂布老小出城。操遂得濮陽，恕田氏舊日之罪。劉曄曰：「呂布乃猛虎也，今日困乏，不可少容。」操令劉曄等守濮陽，自己引軍趕至定陶。時呂布與張邈、張超盡在城中，高順、張遼、臧霸、侯成巡海打糧未回。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Bu swore and cursed, then led his army to Dingtao."
+          }
+        }
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-012-line-046",
+        "order": 46,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "操軍至定陶，連日不戰，引軍退四十里下寨。正值濟郡麥熟，操即令軍割麥為食。細作報知呂布，布引軍趕來。將近操寨，見左邊一望林木茂盛，恐有伏兵而回。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Meanwhile, Chen Gong hastily opened the eastern gate of Puyang, and escorted Lü Bu's family out of the city. When Cao subsequently seized control of Puyang, he forgave the past sins of the Tian family. Liu Ye said, \"Lü Bu is a ferocious tiger who is fatigued for the time being. We must not let up on him.\" Cao ordered Liu Ye to guard Puyang, while Cao personally led a force toward Dingtao. Lü Bu was in the city at the time, along with Zhang Miao and Zhang Chao; Gao Shun, Zhang Liao, Zang Ba and Hou Cheng were scouring the coastline in search of grain, and had not yet returned. After Cao's army arrived in Dingtao, they did not engage in battle for many days. Instead, Cao retreated his forces, setting up camp 40 li away. It just so happened that the wheat crop in Jiyang Commandery was ripe for harvesting. Cao accordingly ordered his army to reap the wheat crop in order to feed his troops. When a spy reported this to Lü Bu, Bu led his army there. As he approached Cao's camp, he observed that there was a thick forest to his left. Fearing an ambush, he withdrew."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-012-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "操知布軍回去，乃謂諸將曰：「布疑林中有伏兵耳，可多插旌旗於林中以疑之。寨西一帶，長堤無水，可盡伏精兵。明日呂布必來燒林，堤中軍斷其後，布可擒矣。」於是止留鼓手五十人於寨中擂鼓；將村中擄來男女在寨內吶喊。精兵多伏堤中。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After Cao learned that Bu had withdrawn, he said to his generals, \"Bu suspected that there were soldiers hiding in ambush in the forest."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-012-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "卻說呂布回報陳宮。宮曰：「操多詭計，不可輕敵。」布曰：「吾用火攻，可破伏兵。」乃留陳宮、高順守城。布次日引大軍來，遙見林中有旗，驅兵大進，四面放火，竟無一人；欲投寨中，卻聞鼓聲大震。正自疑惑不定，忽然寨後一彪軍出，呂布縱馬趕來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We could plant a few more banners and flags in the forest in order to make him more suspicious."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-012-line-049",
+        "order": 49,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "砲聲響處，堤內伏兵盡出：夏侯惇、夏侯淵、許褚、典韋、李典、樂進，驟馬殺來。呂布料敵不過，落荒而走。從將成廉，被樂進一箭射死。布軍三停去了二停，敗卒回報陳宮。宮曰：「空城難守，不若急去。」遂與高順保著呂布老小，棄定陶而走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is a dry dike in the area along the western side of camp."
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-012-line-050",
+        "order": 50,
+        "source_block_chunk": 3,
+        "source_block_order": 23,
+        "text": "曹操將得勝之兵，殺入城中，勢如破竹。張超自焚，張邈投袁術去了。山東一境，盡被曹操所得。安民修城，不在話下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "We could have our elite troops hide there in ambush. Tomorrow, Lü Bu is bound to come to burn down the forest. If we block his rear, we can capture Bu.\" He then left fifty of his drummers behind in camp, along with men and women that had been captured from nearby villages. He planned on making the villagers yell and holler from inside the camp, while his elite troops hid in ambush in the dike. Let us now turn to Lü Bu, who had returned and told Chen Gong what had happened. Gong said, \"Cao has many tricks up his sleeve, and should not be underestimated.\" Bu said, \"If I attack them using fire, I could defeat Cao's ambush troops. With that, he left Chen Gong and Gao Shun behind to guard the city. The next day, Bu led out a large force. When he saw the banners in the forest in the distance, he ordered his troops to charge forward. They set fire to everything, but nobody was there. They were about to head into Cao's camp, when they heard the thunderous sound of war drums. In that moment of hesitation, a group of soldiers suddenly emerged from behind the camp. Lü Bu raced on his horse to catch up with them. The ambush troops emerged from the dike, the area from whence the cannons had thundered to life. Xiahou Dun, Xiahou Yuan, Xu Chu, Dian Wei, Li Dian and Yue Jin all charged out on their horses. Lü Bu was unable to outfox the enemy, and fled the scene, carefully avoiding the main roads. One of his generals named Cheng Lian was killed with a single arrow from Yue Jin's bow. Two thirds of Bu's army had been decimated. The remaining defeated troops reported back to Chen Gong. Gong said, \"It will be impossible to protect an empty city. It would be better to leave right away.\" Accordingly, he and Gao Shun secured Lü Bu's family and abandoned Dingtao. Cao Cao swept his victorious army into the city without resistance. It was as easy as splitting bamboo. Zhang Chao set himself afire, while Zhang Miao made his way toward Yuan Shu. The entire region to the east of the mountains had been conquered by Cao Cao. It goes without saying that he pacified the locals and rebuilt the cities."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-012-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "卻說呂布正走，逢諸將皆回。陳宮亦已尋著。布曰：「吾軍雖少，尚可破曹。」遂再引軍來。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Let us now turn to Lü Bu, who had once again regrouped with his generals."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-012-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "兵家勝敗真常事，捲甲重來未可知。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chen Gong had also already managed to find Bu."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-012-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "不知呂布勝負如何且聽下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Bu said, \"Our army is small, but it can still defeat Cao.\" With that, he once again led out his army. It was a case of: A military man has many victories and many defeats; who can know whether he will return again after having been routed. Don't know whether Lü Bu won or lost? Keep reading, and all will be explained."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "曹操正慌走間，正南上一彪軍到，乃夏侯惇引軍來救援，截住呂布大戰。鬥到黃昏時分，大雨如注，各自引軍分散。操回寨，重賞典韋，加為領軍都尉。\n卻說呂布到寨，與陳宮商議。宮曰：「濮陽城中有富戶田氏，家僮千百，為一郡之巨室；可令彼密使人往操寨中下書，言呂溫侯殘暴不仁，民心大怨，今欲移兵黎陽，止有高順在城內，可連夜進兵，我為內應。操若來，誘之入城，四門放火，外設伏兵。曹操雖有經天緯地之才，到此安能得脫也？」呂布從其計，密諭田氏使人逕到操寨。操因新敗，正在躊躇，忽報田氏人到，呈上密書云：「呂布已往黎陽，城中空虛。萬望速來，當為內應。城上插白旗，大書『義』字，便是暗號。」操大喜曰：「天使吾得濮陽也！」重賞來人，一面收拾起兵。劉曄曰：「布雖無謀，陳宮多計。只恐其中有詐，不可不防。明公欲去，當分三軍為三隊：兩隊伏城外接應，一隊入城方可。」\n操從其言，分軍三隊，來至濮陽城下。操先往觀之，見城上遍豎旗旛，西門角上，有一「義」字白旗，心中暗喜。是日午牌，城門開處，兩員將引軍出戰：前軍侯成，後軍高順。操即使典韋出馬，直取侯成。侯成抵敵不過，回馬望城中走。韋趕到弔橋邊，高順亦攔擋不住，都退入城中去了。數內有軍人乘勢混過陣來見操，說是田氏之使，呈上密書。約云：「今夜初更時分，城上鳴鑼為號，便可進兵。某當獻門。」操撥夏侯惇引軍在左，曹洪引軍在右，自己引夏侯淵，李典，樂進，典韋四將，率兵入城。李典曰：「主公且在城外，容某等先入城去。」操喝曰：「我不自往，誰肯向前！」遂當先領兵直入。\n時約初更，月光未上。只聽得西門上吹蠃殼聲，喊聲忽起，門上火把燎亂，城門大開，弔橋放落。曹操爭先拍馬而入。直到州衙，路上不見一人。操知是計，忙撥回馬，大叫：「退兵！」州衙中一聲砲響，四門烈火，轟天而起；金鼓齊鳴，喊聲如江翻海沸。東巷內轉出張遼，西巷內轉出臧霸，夾攻掩殺。操走北門，道傍轉出郝萌、曹性，又殺一陣。操急走南門，高順、侯成攔住。典韋怒目咬牙，衝殺出去。高順、侯成倒走出城。\n典韋殺到弔橋，回頭不見了曹操，翻身復殺入城來，門下撞著李典。典韋問：「主公何在？」典曰：「吾亦尋不見。」韋曰：「汝在城外催救軍，我入去尋主公。」李典去了。典韋殺入城中，尋覓不見；再殺出城壕邊，撞著樂進。進曰：「主公何在？」韋曰：「我往復兩遭，尋覓不見。」進曰：「同殺入去救主！」兩人到門邊，城上火砲滾下，樂進馬不能入，典韋冒煙突火，又殺入去，到處尋覓。\n卻說曹操見典韋殺出去了，四下裏人馬截來，不得出南門；再轉北門，火光裏正撞見呂布挺戟躍馬而來。操以手掩面，加鞭縱馬竟過。呂布從後拍馬趕來，將戟於操盔上一擊，問曰：「曹操何在？」操反指曰：「前面騎黃馬者是他。」\n呂布聽說，棄了曹操，縱馬向前追趕。曹操撥轉馬頭，望東門而走，正逢典韋。韋擁護曹操，殺條血路，到城門邊，火燄甚盛，城下推下柴草，遍地都是火。韋用戟撥開，飛馬冒煙突火先出。曹操隨後亦出。方到門道邊，城門上崩下一條火梁來，正打著曹操戰馬後胯，那馬撲地倒了。操用手托梁推放地上，手臂鬚髮，盡被燒傷。\n典韋回馬來救，恰好夏侯淵亦到。兩個同救起曹操，突火而出。操乘淵馬，典韋殺條大路而走。直混戰到天明，操方回寨。眾將拜伏問安，操仰面笑曰：「誤中匹夫之計，吾必當報之！」郭嘉曰：「計可速發。」操曰：「今只將計就計：詐言我被火傷，火毒攻發，五更已經身死。布必引兵來攻。我伏兵於馬陵山中，候其兵半渡而擊之，布可擒矣。」嘉曰：「真良策也！」於是令軍士挂孝發喪，詐言操死。早有人來濮陽報呂布，說曹操被火燒傷肢體，到寨身死。布隨點起軍馬，殺奔馬陵山來。將到操寨，一聲鼓響，伏兵四起。呂布死戰得脫，折了好些人馬；敗回濮陽，堅守不出。\n是年蝗蟲忽起，食盡禾稻。關東一境，每榖一斛，值錢五十貫，人民相食。曹操因軍中糧盡，引回鄄城暫往。呂布亦引兵出屯山陽就食。因此二處權且罷兵。\n卻說陶謙在徐州，時年已六十三歲，忽然染病，看看沈重，請糜竺、陳登議事。竺曰：「曹兵之去，止為呂布襲兗州故也。今因歲荒罷兵，來春又必至矣。府君兩番欲讓位於劉玄德，時府君尚強健，故玄德不肯受；今病已沈重，正可就此面與之，玄德必不辭矣。」\n謙大喜使人來小沛，請劉玄德議軍務。玄德引關、張帶數十騎到徐州，陶謙教請入臥內。玄德問安畢，謙曰：「請玄德公來，不為別事：止因老夫病已危篤，朝夕難保；萬望明公可憐漢家城池為重，受取徐州牌印，老夫死亦瞑目矣！」玄德曰：「君有二子，何不傳之？」謙曰：「長子商，次子應，其才皆不堪任。老夫死後，猶望明公教誨，切勿令掌州事。」玄德曰：「備一身安能當此大任？」謙曰：「某舉一人，可為公輔：係北海人，姓孫，名乾，字公祐。此人可使為從事。」又謂糜竺曰：「劉公當世人傑，汝當善事之。」\n玄德終是推託，陶謙以手指心而死。眾軍舉哀畢，即捧牌印交送玄德。玄德固辭。次日，徐州百姓，擁擠府前哭拜曰：「劉使君若不領此郡，我等皆不能安生矣！」關、張二公亦再三相勸。玄德乃許權領徐州事；使孫乾、糜竺為輔，陳登為幕官；盡取小沛軍馬入城，出榜安民；一面安排喪事。玄德與大小軍士，盡皆挂孝，大設祭奠。祭畢，葬於黃河之原。將陶謙遺表，申奏朝廷。\n操在鄄城，知陶謙已死，劉玄德領徐州牧，大怒曰：「我讎未報，汝不費半箭之功，坐得徐州！吾必先殺劉備，後戮謙屍，以雪先君之怨！」即傳號令，剋日起兵去打徐州。荀彧入諫曰：「昔高祖保關中，光武據河內，皆深根固本，以正天下。進足以勝敵，退足以堅守，故雖有困，終濟大業。明公本首事兗州，且河、濟乃天下之要地，是亦昔之關中、河內也。今若取徐州，多留兵則不足用，少留兵則呂布乘虛寇之，是無兗州也。若徐州不得，明公安所歸乎？今陶謙雖死，已有劉備守之。徐州之民，既已服備，必助備死戰。明公棄兗州面取徐州，是棄大而就小，去本而求末，以安而易危也：願熟思之。」操曰：「今歲荒乏糧，軍士坐守於此，終非良策。」彧曰：「不如東略陳地，使軍就食；汝南、潁川，黃巾餘黨何儀、黃劭等，劫掠州郡，多有金帛、糧食。此等賊徒，又容易破。破而取其糧，以養三軍，朝廷喜，百姓悅，乃順天之事也。」\n操喜，從之，乃留夏侯惇、曹仁守鄄城等處，自引兵略陳地，次及汝、潁。黃巾何儀、黃劭知曹兵到，引眾來迎，會於羊山。時賊兵雖眾，都是狐群狗黨，並無隊伍行列。操令強弓硬弩射住，令典韋出馬。何儀令副元師出戰，不三合，被典韋一戟剌於馬下。操引眾乘勢趕過羊山下寨。\n次日，黃劭自引軍來。陣圓處，一將步行出戰，頭裏黃巾，身披綠襖，手提鐵棒，大叫：「我乃截天夜叉何曼也！誰敢與我廝鬥？」曹洪見了，大喝一聲，飛身下馬，提刀步出。兩下向陣前廝殺，四五十合，勝負不分。曹洪詐敗而走，何曼趕來；洪用拖刀背砍計，轉身一跳，砍中何曼，再復一刀殺死。李典乘勢飛馬直入賊陣。黃劭不及隄備，被李典生擒活捉過來。曹兵掩殺賊眾，奪其金帛糧食無數。何儀勢孤，引數百騎奔走葛陂。正行之間，山背後撞出一軍。為頭一個壯士，身長八尺，腰大十圍；手提大刀，截住去路。何儀挺槍出迎，只一合，被那壯士活挾過去。餘眾著忙，皆下馬受縳，被壯士盡驅入葛陂塢中。\n卻說典韋追襲何儀到葛陂，壯士引軍迎住。典韋曰：「汝亦黃巾賊耶？」壯士曰：「黃巾數百騎，盡被我擒在塢內！」韋曰：「何不獻出？」壯士曰：「你若贏得手中寶刀，我便獻出！」韋大怒，挺雙戟向前來戰。兩個從辰至午，不分勝負，各自少歇。不一時，那壯士又出搦戰，典韋亦出。直戰到黃昏，各因馬乏暫止。典韋手下軍士，飛報曹操。操大驚，忙引眾將來看。\n次日，出壯士又出搦戰。操見其人威風凜凜，心中暗喜，分付典韋，今日且詐敗。韋領命出戰；戰到三十合，敗走回陣。壯士趕到陣門中，弓弩射回。操急引軍退五里，密使人掘下陷坑，暗伏鉤手。次日，再令典韋引百餘騎出。壯士笑曰：「敗將何敢復來！」便縱馬接戰。典韋略戰數合，便回馬走。壯士只顧望前趕來，不隄防連人帶馬，都落於坑之內，被鉤手縳來見曹操。操下帳叱退軍士，親解其縳，急取衣衣之，命坐，問其鄉貫姓名。\n壯士曰：「我乃譙國譙縣人也：姓許，名褚，字仲康。向遭寇亂，聚宗族數百人，築堅於塢中以禦之。一日寇至，吾令眾人多取石子準備，吾親自飛石擊之，無不中者，寇乃退去。又一日寇至，塢中無糧，遂與賊和，約以耕牛換米。米已送到，賊驅牛至塢外，牛皆奔走回還，被我雙手掣二牛尾，倒行百餘步。賊大驚，不敢取牛而走：因此保守此處無事。」操曰：「吾聞大名久矣，還肯降否？」褚曰：「固所願也。」遂招宗族數百人俱降。操拜許褚為都尉，賞勞甚厚。隨將何儀、黃劭斬訖。汝、潁悉平。\n曹操班師，曹仁、夏侯惇接見，言近日細作報說：兗州薛蘭、李封軍士皆出擄掠，城邑空虛，可引得勝之兵攻之，一鼓可下。操遂引軍逕奔兗州。薛蘭、李封出其不意，只得引兵出城迎戰。許褚曰：「吾願取此二人，以為贄見之禮。」操大喜，遂令出戰，李封使畫戟，向前來迎。交馬兩合，許褚斬李封於馬下。薛蘭急走回陣，弔橋邊李典攔住；薛蘭不敢回城，引軍投鉅野而去；卻被呂虔飛馬趕來，一箭射於馬下，軍皆潰散。\n曹操復得兗州，程昱便請進兵取濮陽。操令許褚、典韋為先鋒，夏侯惇、夏侯淵為左軍，李典、樂進為右軍，操自領中軍，于禁、呂虔為合後。兵至濮陽，呂布欲自將出迎，陳宮諫：「不可出戰。待眾將聚會後方可。」呂布曰：「吾怕誰來？」遂不聽宮言，引兵出陣，橫戟大罵。許褚便出。鬥二十合，不分勝負。操曰：「呂布非一人可勝。」便差典韋助戰，兩將夾攻。左邊夏侯惇、夏侯淵，右邊李典、樂進齊到，六員將共攻呂布。布遮攔不住，撥馬回城。城上田氏，見布敗回，急令人拽起弔橋。布大叫：「開門！」田氏曰：「吾已降曹將軍。」\n布大罵，引軍奔定陶而去。陳宮急開東門，保護呂布老小出城。操遂得濮陽，恕田氏舊日之罪。劉曄曰：「呂布乃猛虎也，今日困乏，不可少容。」操令劉曄等守濮陽，自己引軍趕至定陶。時呂布與張邈、張超盡在城中，高順、張遼、臧霸、侯成巡海打糧未回。操軍至定陶，連日不戰，引軍退四十里下寨。正值濟郡麥熟，操即令軍割麥為食。細作報知呂布，布引軍趕來。將近操寨，見左邊一望林木茂盛，恐有伏兵而回。\n操知布軍回去，乃謂諸將曰：「布疑林中有伏兵耳，可多插旌旗於林中以疑之。寨西一帶，長堤無水，可盡伏精兵。明日呂布必來燒林，堤中軍斷其後，布可擒矣。」於是止留鼓手五十人於寨中擂鼓；將村中擄來男女在寨內吶喊。精兵多伏堤中。\n卻說呂布回報陳宮。宮曰：「操多詭計，不可輕敵。」布曰：「吾用火攻，可破伏兵。」乃留陳宮、高順守城。布次日引大軍來，遙見林中有旗，驅兵大進，四面放火，竟無一人；欲投寨中，卻聞鼓聲大震。正自疑惑不定，忽然寨後一彪軍出，呂布縱馬趕來。砲聲響處，堤內伏兵盡出：夏侯惇、夏侯淵、許褚、典韋、李典、樂進，驟馬殺來。呂布料敵不過，落荒而走。從將成廉，被樂進一箭射死。布軍三停去了二停，敗卒回報陳宮。宮曰：「空城難守，不若急去。」遂與高順保著呂布老小，棄定陶而走。曹操將得勝之兵，殺入城中，勢如破竹。張超自焚，張邈投袁術去了。山東一境，盡被曹操所得。安民修城，不在話下。\n卻說呂布正走，逢諸將皆回。陳宮亦已尋著。布曰：「吾軍雖少，尚可破曹。」遂再引軍來。正是：\n兵家勝敗真常事，捲甲重來未可知。\n不知呂布勝負如何，且聽下文分解。",
+    "title": "第十二回 陶恭祖三讓徐州　　　曹孟德大戰呂布"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-012.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

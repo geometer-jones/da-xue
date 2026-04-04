@@ -1,0 +1,47 @@
+{
+  "chapter": {
+    "character_count": 50,
+    "id": "chapter-004",
+    "order": 4,
+    "reading_unit_count": 2,
+    "reading_units": [
+      {
+        "character_count": 39,
+        "id": "chapter-004-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「道之不行也，我知之矣，知者過之，愚者不及也；道之不明也，我知之矣，賢者過之，不肖者不及也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"I know how it is that the path of the Mean is not walked in: The knowing go beyond it, and the stupid do not come up to it."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-004-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "人莫不飲食也，鮮能知味也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I know how it is that the path of the Mean is not understood: The men of talents and virtue go beyond it, and the worthless do not come up to it. There is no body but eats and drinks. But they are few who can distinguish flavors.\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「道之不行也，我知之矣，知者過之，愚者不及也；道之不明也，我知之矣，賢者過之，不肖者不及也。\n人莫不飲食也，鮮能知味也。」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-004.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

@@ -1,0 +1,142 @@
+{
+  "cache_dir": "books/sunzi-bingfa",
+  "catalog_path": "books/sunzi-bingfa/catalog.json",
+  "chapter_count": 13,
+  "chapters": [
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-001.json",
+      "character_count": 336,
+      "id": "chapter-001",
+      "order": 1,
+      "reading_unit_count": 7,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "始計"
+    },
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-002.json",
+      "character_count": 344,
+      "id": "chapter-002",
+      "order": 2,
+      "reading_unit_count": 6,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "作戰"
+    },
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-003.json",
+      "character_count": 422,
+      "id": "chapter-003",
+      "order": 3,
+      "reading_unit_count": 7,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "謀攻"
+    },
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-004.json",
+      "character_count": 304,
+      "id": "chapter-004",
+      "order": 4,
+      "reading_unit_count": 5,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "軍形"
+    },
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-005.json",
+      "character_count": 337,
+      "id": "chapter-005",
+      "order": 5,
+      "reading_unit_count": 6,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "兵勢"
+    },
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-006.json",
+      "character_count": 602,
+      "id": "chapter-006",
+      "order": 6,
+      "reading_unit_count": 8,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "虛實"
+    },
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-007.json",
+      "character_count": 476,
+      "id": "chapter-007",
+      "order": 7,
+      "reading_unit_count": 7,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "軍爭"
+    },
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-008.json",
+      "character_count": 242,
+      "id": "chapter-008",
+      "order": 8,
+      "reading_unit_count": 5,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "九變"
+    },
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-009.json",
+      "character_count": 609,
+      "id": "chapter-009",
+      "order": 9,
+      "reading_unit_count": 9,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "行軍"
+    },
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-010.json",
+      "character_count": 546,
+      "id": "chapter-010",
+      "order": 10,
+      "reading_unit_count": 8,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "地形"
+    },
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-011.json",
+      "character_count": 1066,
+      "id": "chapter-011",
+      "order": 11,
+      "reading_unit_count": 16,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "九地"
+    },
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-012.json",
+      "character_count": 284,
+      "id": "chapter-012",
+      "order": 12,
+      "reading_unit_count": 5,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "火攻"
+    },
+    {
+      "chapter_path": "books/sunzi-bingfa/chapters/chapter-013.json",
+      "character_count": 465,
+      "id": "chapter-013",
+      "order": 13,
+      "reading_unit_count": 7,
+      "summary": "",
+      "supplemental_unit_count": 0,
+      "title": "用間"
+    }
+  ],
+  "commentary_chapter_count": 0,
+  "commentary_chapters": [],
+  "provider": "ctext-html",
+  "source_url": "https://ctext.org/art-of-war?if=en",
+  "title": "The Art of War"
+}

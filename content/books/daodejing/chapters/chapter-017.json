@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 44,
+    "id": "chapter-017",
+    "order": 17,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 44,
+        "id": "chapter-017-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "大 上 ， 下 知 有 之 ，其次 親 而 譽 之 ，其次 畏 之 ，其次 侮 之 。信 不足 焉 ， 有 不信 焉 。悠 兮 其 貴 言 ， 功成 事 遂 ， 百姓 皆 謂 我 自然 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In the highest antiquity, (the people) did not know that there were (their rulers). In the next age they loved them and praised them. In the next they feared them; in the next they despised them. Thus it was that when faith (in the Dao) was deficient (in the rulers) a want of faith in them ensued (in the people). How irresolute did those (earliest rulers) appear, showing (by their reticence) the importance which they set upon their words! Their work was done and their undertakings were successful, while the people all said, 'We are as we are, of ourselves!'"
+          }
+        }
+      }
+    ],
+    "summary": "太上，下知有之；其次，親而譽之；其次，畏之；其次，侮之",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "太上，下知有之；其次，親而譽之；其次，畏之；其次，侮之。信不足，焉有不信焉。悠兮，其貴言。功成事遂，百姓皆謂我自然。",
+    "title": "第17章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-017.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

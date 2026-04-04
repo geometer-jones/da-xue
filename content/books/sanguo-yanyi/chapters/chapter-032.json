@@ -1,0 +1,931 @@
+{
+  "chapter": {
+    "character_count": 4528,
+    "id": "chapter-032",
+    "order": 32,
+    "reading_unit_count": 70,
+    "reading_units": [
+      {
+        "character_count": 81,
+        "id": "chapter-032-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說袁尚自斬史渙之後，自負其勇，不待袁譚等兵至，自引兵數萬出黎陽，與曹軍前隊相迎。張遼當先出馬，袁尚挺槍來戰，不三合，架隔遮攔不住，大敗而走。張遼乘勢掩殺，袁尚不能主張，急急引軍奔回冀州。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Lady Liu, his wife, got him to bed as quickly as possible, but he did not rally and she soon saw it was necessary to prepare for the end. So she sent for Shên P‘ei and Fêng Chi that the succession might be settled. They came and stood by the sick man’s bed, but by this time he could no longer speak; he only made motions with his hands. When his wife put the formal question, whether Shang was to succeed, he nodded his head. Shên P‘ei at the bedside wrote out the dying man’s testament. Presently he uttered a loud moan, a fresh fit of bleeding followed and he passed away."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-032-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "袁紹聞袁尚敗回，又受了一驚，舊病復發，吐血數斗，昏倒在地。劉夫人慌救入臥內，病勢漸危。劉夫人急請審配、逢紀，直至袁紹榻前，商議後事。紹但以手指而不能言。劉夫人曰：「尚可繼後嗣否？」紹點頭。審配便就榻前寫了遺囑。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Born of a line of nobles famous for generations, He himself in his youth was wayward always and headstrong, Vainly he called to his side captains skilled and courageous, Gathered beneath his banner countless legions of soldiers, For he was timid at heart, a lambkin dressed as a tiger, Merely a cowardly chicken, phoenix-feathered but spurless. Pitiful was the fate of his house; for when he departed Brother with brother strove and quarrels arose in the household. Shên P‘ei and some others set about themourning ceremonies for the dead man. His wife, the Lady Liu, put to death five of his favourite concubines, and such was the bitterness of her jealousy that, not content with this, she shaved off the hair and slashed the faces of their poor corpses lest their spirits should meet and rejoin her late husband in the land of shades beneath the Nine Springs. Her son followed up this piece of cruelty by slaying all the relatives of the unhappy concubines lest they should avenge their death."
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-032-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "紹翻身大叫一聲，又吐血斗餘而死。後人有詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Shên P‘ei and Fêng Chi declared Yüan Shang successor with the titles of Minister of War and General Governor of the four ​ prefectures of Ch‘i, Ch‘ing, Yu and Ping and sent in a report of the death of the late governor."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-032-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "累世公卿立大名，少年意氣自縱橫。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At this time Yüan T‘an, the eldest son, had already marched out his army to oppose Ts‘ao Ts‘ao, but hearing of his father’s death he called in Kuo T‘u and Hsin P‘ing to consult as to his course of action."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-032-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "空招俊傑三千客，漫有英雄百萬兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“In your absence, my lord,” said Kuo T‘u, “the two advisers of your younger brother will certainly set him up as lord, wherefore you must act quickly.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-032-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "羊質虎皮功不就，鳳毛雞膽事難成。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Those two, Shên and Fêng, have already laid their plans,” said Hsin P‘ing. “If you go you will meet with some misfortune.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-032-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "更憐一種傷心處，家難徒延兩弟兄。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Then what should I do?” asked Tan."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-032-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "袁紹既死，審配等主持喪事。劉夫人便將袁紹所愛寵妾五人，盡行殺害；又恐其陰魂於九泉之下再與紹相見，乃髡其髮，刺其面，毀其屍：其妒惡如此。袁尚恐寵妾家屬為害，並收而殺之。審配、逢紀立袁尚為大司馬將軍，領冀、青、幽、并四州牧，遣使報喪。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuo T‘u replied, “Go and camp near the city and watch what is taking place while I enter and enquire.” Accordingly Kuo T‘u entered the city and sought an interview with the young governor. “Why did not my brother come?” asked Shang after the usual salutes. Kuo T‘u said, “He cannot come as he is in the camp unwell.” “By the command of my late father I take the lordship. Now I confer upon my brother the rank of General of Cavalry and I wish him to go at once to attack Ts‘ao Ts‘ao, who is pressing on the borders. I will follow as soon as my army is in order.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-032-line-009",
+        "order": 9,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "此時袁譚已發兵離青州；知父死，便與郭圖、辛評商議。圖曰：「主公不在冀州，審配、逢紀必立顯甫為主矣。當速行。」辛評曰：「審、逢二人，必預定機謀。今若速往，必遭其禍。」袁譚曰：「若當此如何？」郭圖曰：「可屯兵城外，觀其動靜。某當親往察之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“There is no one in our camp to give advice,” said Kuo T‘u. “I wish to have the services of Shên P‘ei and Fêng Chi.” “I also need the help of these two,” said Shang. “And as I am always working at schemes I do not see how I can do without them.” “Then let one of these two go,” replied T‘u."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-032-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "譚依言。郭圖遂入冀州，見袁尚。禮畢，尚問：「兄何不至？」圖曰：「因抱病在軍中，不能相見。」尚曰：「吾受父親遺命，立我為主，加兄為車騎將軍。目下曹軍壓境，請兄為前部，吾隨後便調兵接應也。」圖曰：「軍中無人商議良策，願乞審正南、逢元圖二人為輔。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Shang could do no other than accede to this request so he bade the two men cast lots who should go. Fêng Chi drew the lot and was appointed, receiving a seal of office. Then he accompanied Kuo T‘u to the camp. But when he arrived and found T‘an in perfect health he grew suspicious and resigned. T‘an angrily refused to accept his resignation and was disposed to put him to death, but Kuo T‘u privately dissuaded him saying, “Ts‘ao Ts‘ao is on the borders and he must be kept here to allay your brother’s suspicions. After we have beaten Ts‘ao we can at once make an attempt on Ch‘ichou.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-032-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "」尚曰：「吾亦欲仗此二人早晚畫策，如何離得？」圖曰：「然則於二人內遣一人去，何如？」尚不得已，乃令二人拈鬮，拈著者便去。逢紀拈著，尚即命逢紀齎印緩，同郭圖赴袁譚軍中。紀隨圖至譚軍，見譚無病，心中不安，獻上印綬。譚大怒，欲斬逢紀。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan T‘an agreed and forthwith broke up his camp to march against the enemy. He reached Liyang and lost no time in offering battle. He chose for his champion Wang Chao and, when he rode out, Ts‘ao Tsʻao sent Hsü Huang to meet him. These two had fought but a few bouts when Wang Chao was slain. At once Ts‘ao’s army pressed forward and T‘an suffered a severe defeat. He drew off his army and retired into Liyang, whence he sent to his brother for reinforcements."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-032-line-012",
+        "order": 12,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "郭圖密諫曰：「今曹軍壓境，且只款留逢紀在此，以安尚心。待破曹之後，卻來爭冀州不遲。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Shang and his adviser Shên P‘ei discussed the matter and half a legion only was sent. Ts‘ao hearing of the despatch of this meagre force sent two generals to waylay them and the half legion was destroyed. When T‘an heard of the inadequate force sent and their destruction he was very wrath and roundly abused Fêng Chi. Fêng replied, “Let me write to my lord and pray him to come himself.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-032-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "譚從其言。即時拔寨起行，前至黎陽，與曹軍相抵。譚遣大將汪昭出戰，操遣徐晃迎敵。二將戰不數合，徐晃一刀斬汪昭於馬下。曹軍乘勢掩殺，譚軍大敗。譚收敗軍入黎陽，遣人求救於尚。尚與審配計議，只發兵五千餘人相助。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Fêng Chi wrote and the letter was sent. When it arrived Shang again consulted Shên P‘ei who said, “Kuo T‘u, your elder brother’s adviser, is very guileful. Formerly he left without discussion because Ts‘ao was on the border. If Ts‘ao be defeated there will certainly be an attempt on you. The better plan is to withhold assistance and use Ts‘ao’s hand to destroy your rival.”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-032-line-014",
+        "order": 14,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "曹操探知救軍已到，遣樂進、李典引兵於半路接著，兩頭圍住盡殺之。袁譚知尚止撥兵五千，又被半路坑殺，大怒，乃喚逢紀責罵。紀曰：「容某作書致主公，求其親自來救。」譚即令紀作書，遣人到冀州致袁尚。尚與審配共議。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Shang took his advice and no help was sent. When the messenger returned without success T‘an was very angry and showed it by putting Fêng Chi to death. He also began to talk of surrendering to Ts‘ao. Soon spies brought news of this to Shang and again Shên P‘ei was called in. Said he, “If he goes over to Ts‘ao they will both attack Ch‘ichou and we shall be in great danger.” Finally Shên P‘ei and Su Yu were left to take care of the defence of the city and Yüan Shang marched his army to the rescue of his brother."
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-032-line-015",
+        "order": 15,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "配曰：「郭圖多謀，前次不爭而去者，為曹軍在境也。今若破曹，必來爭冀州矣。不如不發救兵，借操之力以除之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who dares lead the van?” said Yüan Shang. Two brothers named Lü volunteered and three legions were given them. They were the first to reach Liyang."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-032-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "尚從其言，不肯發兵。使者回報，譚大怒，立斬逢紀，議欲降曹。早有細作密報袁尚。尚與審配議曰：「使譚降曹，並力來攻，則冀州危矣。」乃留審配並大將蘇由固守冀州，自領大軍來黎陽救譚。尚問軍中誰敢為前部，大將呂曠、呂翔兄弟二人願去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "T‘an was pleased that his brother had made up his mind to play a brotherly part and come to his aid, so he at once abandoned all thought of going over to the enemy. He being in the city, Yüan Shang camped outside, making that an angle of their strategic position. Before long Yüan Hsi, the second brother, and their cousin, Kao Kan, arrived with their legions and also camped outside the city."
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-032-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "尚點兵三萬，使為先鋒，先至黎陽。譚聞尚自來，大喜，遂罷降曹之議。譚屯兵城中，尚屯兵城外，為犄角之勢。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Engagements took place daily and Shang suffered many defeats. On the other hand Ts‘ao was victorious and elated. In the second month of the eighth year, Tsʻao made separate attacks on all four armies and won the day against each. Then they abandoned Liyang and Ts‘ao pursued them to Ch‘ichou, where T‘an and Shang went into the city to defend it, while their brother and cousin camped about thirty li away making a show of great force. When Ts‘ao had made many attacks without success Kuo Chia proffered the following plan."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-032-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "不一日，袁熙、高幹皆領軍到城外，屯兵三處，每日出兵與操相持。尚屢敗，操兵屢勝。至建安八年春三月，操分路攻打，袁譚、袁熙、袁尚、高幹皆大敗，棄黎陽而走。操引兵迫至冀州。譚與尚入城堅守，熙與幹離城三十里下寨，虛張聲勢。操兵連日攻打不下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He said, “There is dissension among the Yüans because the elder has been superseded in the succession. The brothers are about equally strong and each has his party. If we oppose them they unite to assist each other, but if we have patience they will be weakened by family strife. Wherefore send first a force to reduce Liu Piao in Chingchou and let the fraternal ​ quarrels develop. When they have fully developed we can smite them and settle the matter.”"
+          }
+        }
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-032-line-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "郭嘉進曰：「袁氏廢長立幼，而兄弟之間，權力相併，各自樹黨，急之則相救，緩之則相爭，不如舉兵南向荊州，征討劉表，以候袁氏兄弟之變；變成而後擊之，可一舉而定也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao approved of the plan. So leaving Chia Hsü as Prefect of Liyang and Ts‘ao Hung as guard at Kuantu the army went away toward Chingchou. The two brothers T‘an and Shang congratulated each other on the withdrawal of their enemy, and their brother Hsi and cousin marched their armies back to their own districts."
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-032-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "操善其言，命賈詡為太守，守黎陽；曹洪引兵守官渡。操引大軍向荊州進兵。譚、尚聽知曹軍自退，遂相慶賀。袁熙、高幹各自辭去。袁譚與郭圖、辛評議曰：「我為長子，反不能承父業；尚乃繼母所生，反承大爵；心實不甘。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then the quarrels began. T‘an said to his confidants, “I, the eldest, have been prevented from succeeding my father, while the youngest son, born of a second wife, received the main heritage. My heart is bitter.” Said Kuo T‘u, “Camp your men outside, invite your brother and Shên P‘ei to a banquet and assassinate them. The whole matter is easily settled.”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-032-line-021",
+        "order": 21,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "」圖曰：「主公可勒兵城外，只做請顯甫、審配飲酒，伏刀斧手殺之，大事定矣。」譚從其言。適別駕王修自青州來，譚將此計告之。修曰：「兄弟者，左右手也。今與他人爭鬥，自斷其手，而曰我必勝，安可得乎？夫棄兄弟而不親，天下其誰親之？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And T‘an agreed. It happened that a certain Wang Hsiu came just then from Ch‘ingchou whom T‘an took into his confidence. Wang opposed the murder plan saying, “Brothers are as one’s limbs. How can you possibly succeed if at a moment of conflict with an enemy you cut off one of your hands? If you abandon your brother and sever relationship, whom will you take in all the world as a relation? That fellow Kuo is a dangerous mischief-maker, who would sow dissension between brothers for a momentary advantage, and I beg you to shut your ears and not listen to his persuasions.”"
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-032-line-022",
+        "order": 22,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "彼讒人離間骨肉，以求一朝之利，願塞耳勿聽也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This was displeasing to T‘an and he angrily dismissed Wang, while he sent the treacherous invitation to his brother."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-032-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "譚怒，叱退王修，使人去請袁尚。尚與審配商議。配曰：「此必郭圖之計也。主公若往，必遭奸計；不如乘勢攻之。」袁尚依言，便披挂上馬，引兵五萬出城。袁譚見袁尚引軍來，情知事泄，亦即披挂上馬，與尚交鋒。尚見譚大罵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His brother and Shên P‘ei talked over the matter. Shên P‘ei said, “I recognise one of Kuo T‘u’s stratagems and if you go, my lord, you will be the victim of their plot. Rather strike at them at once.” Whereupon Shang rode out to battle. His brother T‘an, seeing him come with five legions, knew that his treachery had been discovered, so he also took the field, and when the forces were near enough T‘an opened on Shang with a volley of abuse."
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-032-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "譚亦罵曰：「汝藥死父親，篡奪爵位，今又來殺兄耶！」二人親自交鋒，袁譚大敗。尚親冒矢石，衝突掩殺。譚引敗軍奔平原，尚收兵還。袁譚與郭圖再議進兵，令岑璧為將，領兵前來。尚自引兵出冀州。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You poisoned my father and usurped the succession; now you come out to slay your elder brother?” The battle went against T‘an. Shang himself took part in the fight, risking the arrows and the stones. He urged on his men and drove his brother off the field. He took refuge in P‘ingyüan. Yüan Shang drew off his men to his own city."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-032-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "兩陣對圓，旗鼓相望。璧出罵陣，尚欲自戰。大將呂曠，拍馬舞刀，來戰岑璧；二將戰無數合，曠斬岑璧於馬下。譚兵又敗，再奔平原。審配勸尚進兵，追至平原。譚抵當不住，退入平原，堅守不出。尚三面圍城攻打。譚與郭圖計議。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan T‘an and Kuo T‘u decided upon a new attack and this time they chose Ts‘ên Pi as leader. Yüan Shang went to meet him. When both sides had been arrayed and the banners were flying and the drums beating, Ts‘ên Pi rode out to challenge and railed at his opponent. At first Shang was going to answer the challenge himself but Lü K‘uang actually went out. Lü and Ts‘ên met but had fought only a few bouts when the latter ​ fell. T‘an’s men were once more defeated and ran away to P‘ingyüan. Shên P‘ei urged his master to press home the advantage and T‘an was driven into the city, where he fortified himself and would not go out. So the city was besieged on three sides."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-032-line-026",
+        "order": 26,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "圖曰：「今城中糧少，彼軍方銳，勢不相敵。愚意可遣人投降曹操，使操將兵攻冀州，尚必還救。將軍引兵夾擊之，尚可擒矣。若操擊破尚軍，我因而斂其軍實以拒操。操軍遠來，糧食不繼，必自退去；我可以仍據冀州，以圖進取也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "T‘an asked his strategist what should be done next and he said, “The city is short of food, the enemy is flushed with victory and we cannot stand against them. My idea is to send some one to offer surrender to Ts‘ao Tsʻao and thus get him to attack Ch‘ichou. Your brother will be forced to return thither, which will leave you free to join in the attack. We may capture Shang. Should Ts‘ao begin to get the better of your brother’s army we will lend our force to help him against Ts‘ao Ts‘ao, and as Ts‘ao’s base of supply is distant we shall drive him off. And we can seize on Ch‘ichou and begin our real career.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-032-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "譚從其言，問曰：「何人可為使？」圖曰：「辛評之弟辛毗，字佐治，見為平原令。此人乃能言之士，可命為使。」譚即召辛毗。毗欣然而至。譚修書付毗，使三千軍送毗出境。毗星夜齎書往見曹操。時操屯軍西平伐劉表，表遣玄德引兵為前部以迎之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Supposing this scheme be attempted, who is the man for a messenger?” “I have one, Hsin P‘i, Hsin P‘ing’s younger brother; he is magistrate here in this very place. He is a fluent speaker and good scholar and suited to your purpose.” So Hsin P‘i was summoned and came readily enough. Letters were given him and an escort of three companies took him beyond the border. He travelled as quickly as possible. At that time Ts‘ao’s camp was at Hsip‘ing and he was attacking Liu Piao, who had sent Yüan-tê out to offer the first resistance. No battle had yet taken place."
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-032-line-028",
+        "order": 28,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "未及交鋒，辛毗到操寨。見操禮畢，操問其來意，毗具言袁譚相求之意，呈上書信。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Soon after his arrival Hsin P‘i was admitted to the Minister’s presence, and after the ceremonies of greeting Ts‘ao asked the object of the visit. Hsin Pʻi explained that Yüan T‘an wanted assistance and presented his despatches. Ts‘ao read them and told the messenger to wait in his camp while he called his officers to a council."
+          }
+        }
+      },
+      {
+        "character_count": 67,
+        "id": "chapter-032-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "操看書畢，留辛毗於寨中，聚文武計議。程昱曰：「袁譚被袁尚攻擊太急，不得已而來降，不可准信。」呂虔、滿寵亦曰：「丞相既引兵至此，安可復舍表而助譚？」荀攸曰：「三公之言未善。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The council met. Ch‘êng Yu said, “Yüan T‘an has been forced into making this offer because of the pressure of his brother’s attack. Put no trust in him.” Lü Ch‘ien and Man Ch‘ung said, “You have led your armies here for a special purpose; how can you abandon that and go to assist Yüan T‘an?”"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-032-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "以愚意度之：天下方有事，而劉表坐保江、漢之間，不敢展足，其無四方之志可知矣；袁氏據四州之地，帶甲數十萬，若二子和睦，共守成業，天下事未可知也。今其兄弟相攻，勢窮而投我；我提兵先除袁尚，後觀其變，並滅袁譚，天下定矣。此機會不可失也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Gentlemen, not one of you is giving good advice,” interposed Hsün Yu. “This is how I regard it. Since there is universal trouble, in the midst of which Liu Piao remains quietly content with his position between Chiang and Han, it is evident that he has no ambition to enlarge his borders. The Yüans hold four Chou and have many legions of soldiers. Harmony between the two brothers means success for the family and none can foresee what will happen in the Empire. Now take advantage of this fraternal conflict and let them fight till they are weakened and have to yield to our Minister. ​ Then Yüan Shang can be removed, and when the times are suitable, Yüan T‘an can be destroyed in his turn. Thus peace will ensue. This present combination of circumstances is to be taken advantage of to full measure.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-032-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "操大喜，便邀辛毗飲酒，謂之曰：「袁譚之降，真耶詐耶？袁尚之兵，果可必勝耶？」毗對曰：「明公勿問真與詐也，只論其勢可耳。袁氏連年喪敗，兵革疲於外，謀臣誅於內；兄弟讒隙，國分為二；加之饑饉並臻，天災人困；無問智愚，皆知土崩瓦解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao realised the truth of this and treated the messenger well. At a banquet he said, “But is this surrender of Yuan T‘an real or false? Do you really think that Shang’s army is sure to overcome him?”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-032-line-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "此乃天滅袁氏之時也。今明公提兵攻鄴，袁尚不還救，則失巢穴；若還救，則譚踵襲其後。以明公之威，擊疲憊之眾，如迅風之掃秋葉也。舍此之圖，而伐荊州，荊州豐樂之地，國和民順，未可搖動。況四方之患，莫大於河北。河北既平，則霸業成矣。願明公詳之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsin P‘i replied, “Illustrious one, do not enquire into the degree of sincerity; rather regard the situation. The Yüans have been suffering military losses for years and are powerless without, while their strategists are put to death within. The brothers seize every chance to speak evil of each other and their country is divided. Add to this famine, supplemented by calamities and general exhaustion, and everybody, wise as well as simple, can see that the catastrophe is near, the time ordained of Heaven for the destruction of the Yüans is at hand. Now you have a force attacking Yeh, and if Yüan Shang will not return to give aid the place of refuge is lost. If he help, then T‘an will follow up and smite him, making use of your power to destroy the remnant of his brother’s army, just as the autumn gale sweeps away the fallen leaves. If he do not, then he will attack Chingchou. Now Chingchou is rich, the government peaceful, the people submissive and it cannot be shaken. Moreover, there is no greater threat to it than Hopei. If that be reduced then the task is complete. I pray you, Sir, think of it.”"
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-032-line-033",
+        "order": 33,
+        "source_block_chunk": 3,
+        "source_block_order": 16,
+        "text": "」操大喜曰：「恨與辛佐治相見之晚也！」即日督軍還取冀州。玄德恐操有謀，不敢追襲，引兵自回荊州。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am sorry that I did not meet you earlier,” said Ts‘ao, much gratified with this speech. Forthwith orders were given to return and attack Ch‘ichou. Yüan-tê, fearing this retirement was only a ruse, allowed it to proceed without interference and himself returned to Chingchou."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-032-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "卻說袁尚知曹軍渡河，急急引軍還鄴，命呂曠、呂翔斷後。袁譚見尚退軍，乃大起平原軍馬，隨後趕來。行不到數十里，一聲砲響，兩軍齊出：左邊呂曠，右邊呂翔，兄弟二人截住袁譚。譚勒馬告二將曰：「吾父在日，吾並未慢待二將軍，今何從吾弟而見迫耶？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Yüan Shang heard that Ts‘ao had crossed the river he hastily led his army back to Yeh, ordering the two Lüs to guard the rear. His brother T‘an started from P‘ingyüan with a force in pursuit. He had not proceeded far when he heard a bomb and two bodies of men came out in front of him and checked his progress. Their leaders were Lü K‘uang and Lü Hsiang. T‘an reined in and addressed them, saying, “While my father lived I never treated you badly; why do you support my brother and try to injure me?” The two men had no reply to make, but they dismounted and bowed before him yielding submission."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-032-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "二將聞言，乃下馬降譚。譚曰：「勿降我，可降曹丞相。」二將因隨譚歸營。譚候操軍至，引二將見操。操大喜，以女許譚為妻，即令呂曠、呂翔為媒。譚請操攻取冀州。操曰：「方今糧草不接，搬運勞苦，我由濟河遏淇水入白溝，以通糧道，然後進兵。」令譚且居平原。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "T‘an said, “Do not surrender to me but to the Minister,” and he led them back to camp, where he waited the arrival of Ts‘ao and then presented the pair. Ts‘ao received them well. He promised his daughter to T‘an to wife and he appointed the two brothers as advisers. ​ When T‘an asked Ts‘ao to attack Chʻichou the reply was “Supplies are short and difficult to transport. I must turn the waters of the Chishui into the Paiho from Chiho whereby to convey my grain and afterwards I can advance.” Ordering T‘an to remain in P‘ingyüan, Ts‘ao retired into camp at Liyang. The two brothers Lü, who were renegades from Yüan Shang, were now raised to noble rank and followed the army as supernumeraries."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-032-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "操引軍退屯黎陽，封呂曠、呂翔為列侯，隨軍聽用。郭圖謂袁譚曰：「曹操以女許婚，恐非真意。今又封賞呂曠、呂翔，帶去軍中，此乃牢籠河北人心。後必終為我禍。主公可刻將軍印二顆，暗使人送與二呂，令作內應。待操破了袁尚，可乘便圖之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuo T‘u noted this advancement and said to T‘an, “He has promised you a daughter to wife. I fear that bodes no good. Now he has given titles of nobility to the two Lüs and taken them with him. This is a trap for the northern people but he intends evil toward us. You, my lord, should have two generals’ seals engraved and send them secretly to the brothers so that you may have friends at court ready for the day when Ts‘ao shall have broken your brother’s power and we can begin to work against him.”"
+          }
+        }
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-032-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "譚依言，遂刻將軍印二顆，暗送與二呂。二呂受訖，逕將印來稟曹操。操大笑曰：「譚暗送印者，欲汝等為內助，待我破袁尚之後，就中取事耳。汝等權且受之，我自有主張。」自此曹操便有殺譚之心。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The seals were engraved and sent. As soon as the brothers received them they informed Tsʻao Ts‘ao, who smiled saying, “He wants your support so he sends you seals as officers. I will consider it as soon as Yüan Shang has been dealt with. In the meantime you may accept the seals till I shall decide what to do.” Thenceforward T‘an was doomed. Shên P‘ei and his master also discussed the situation."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-032-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "且說袁尚與審配商議：「今曹兵運糧入白溝，必來攻冀州，如之奈何？」配曰：「可發檄使武安長尹楷屯毛城，通上黨運糧道；令沮授之子沮鵠守邯鄲，遙為聲援。主公可進兵平原，急攻袁譚。先絕袁譚，然後破曹。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Ts‘ao is getting grain into Paikou, which means an attack on Ch‘ichou; what is to be done?” asked Shang. Shên P‘ei replied, “Send letters to Yin Kai, Chief of Wuan, bidding him camp at Maoch‘êng to secure the road to Shangtang and direct Chu Ku to maintain Hantan as a distant auxiliary. Then you may advance on P‘ingyüan and attack Ts‘ao Ts‘ao.”"
+          }
+        }
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-032-line-039",
+        "order": 39,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "」袁尚大喜，留審配與陳琳守冀州，使馬延、張顗二將為先鋒，連夜起兵攻打平原。譚知尚兵來近，告急於操。操曰：「吾今番必得冀州矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The plan seemed good. Yüan Shang left Shên P‘ei and Ch‘ên Lin in charge of Ch‘ichou, appointed two captains Ma Yen and Chang K‘ai as van leaders, and set out hastily for P‘ingyüan."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-032-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "正說間，適許攸自許昌來；聞尚又攻譚，入見操曰：「丞相坐守於此，豈欲待天雷擊殺二袁乎？」操笑曰：「吾已料定矣。」遂令曹洪先進兵攻鄴，操自引一軍來攻尹楷。兵臨本境，楷引軍來迎。楷出馬，操曰：「許仲康安在？」許褚應聲而出，縱馬直取尹楷。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When T‘an heard of the approach of his brother’s army he sent urgent messages to Ts‘ao, who said to himself, “I am going to get Ch‘ichou this time.” Just at this time it happened that Hsü Yu came down from the capital. When he heard that Yüan Shang was attacking his brother T‘an he sought Ts‘ao and said, “You, Sir Minister, sit here on guard; are you waiting till Heaven’s thunder shall strike the two Yüans?” “I have thought it all out,” said Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-032-line-041",
+        "order": 41,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "楷措手不及，被許褚一刀斬於馬下，餘眾奔潰。操盡招降之，即勒兵取邯鄲。沮鵠進兵來迎。張遼出馬，與鵠交鋒，戰不三合，鵠大敗，遼從後追趕。兩馬相離不遠，遼急取弓射之，應弦落馬。操指揮軍馬掩殺，眾皆奔散。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then he ordered Ts‘ao Hung to go and fight against Yeh, while he led another army against Yin Kai. Kai could make no adequate defence and was killed by Hsü Ch‘u. His men ran away and presently joined Ts‘ao’s army. Next he led the ​ army to Hantan and Chu Ku came out to fight him. Chang Liao advanced to fight with Chu and after the third encounter the latter was defeated and fled. Liao went after him and when their two horses were not far apart, Liao took his bow and shot. The fleeing soldier fell as the bowstring twanged. Ts‘ao sent Ma Yen to complete the rout and Chu Ku’s force was broken up."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-032-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "於是操引大軍前抵冀州。曹洪已近城下。操令三軍遶城築起土山，又暗掘地道以攻之。審配設守堅固，法令甚嚴，東門守將馮禮，因酒醉有誤巡警，配痛責之。馮禮懷恨，潛地出城降操。操問破城之策，禮曰：「突門內土厚，可掘地道而入。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now Ts‘ao led his armies to an attack on Ch‘ichou. Ts‘ao Hung went close to the city and a regular siege began. The army encompassed the city and began by throwing up great mounds. They also tunnelled subterranean ways. Within the city Shên P‘ei turned his whole care to the defence and issued the severest commands. The captain of the east gate, one Fêng Li, got intoxicated and failed to keep his watch for which he was severely punished. He resented this, sneaked out of the city, went over to the besiegers and told them how the place could be attacked. “The earth within the T‘umên is solid enough to be tunnelled and entrance can be effected there,” said the traitor."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-032-line-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 22,
+        "text": "」操便命馮禮引三百壯士，夤夜掘地道而入。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Fêng Li was sent with three hundred men to carry out his plan under cover of darkness."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-032-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "卻說審配自馮禮出降之後，每夜親自登城點視軍馬。當夜在突門閣上，望見城外無燈火。配曰：「馮禮必引兵從地道而入也。」急喚精兵運石擊突閘門，門閉，馮禮及三百壯士，皆死於土內。操折了這一場，遂罷地道之計，退軍於洹水之上，以候袁尚回兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After Fêng Li had deserted to the enemy Shên P‘ei went every night to the wall to inspect the men on duty. The night of the sapping he went there as usual and saw that there were no lights outside the city and all was perfectly quiet. So he said to himself, “Fêng is certain to try to come into the city by an underground road.” Whereupon he ordered his men to bring up stones and pile them on the cover of the tunnel opening. The opening was stopped up and the attacking party perished in the tunnel they had excavated. Ts‘ao having failed in this attempt abandoned the scheme of underground attack. He drew off the army to a place above the Hêngshui to await till Yüan Shang should return to relieve the city."
+          }
+        }
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-032-line-045",
+        "order": 45,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "袁尚攻平原，聞曹操已破尹楷、沮鵠，大軍圍困冀州，乃掣兵回救。部將馬延曰：「從大路去，曹操必有伏兵；可取小路，從西山出滏水口去劫曹營，必解圍也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yüan Shang heard of the defeat of Yin Kai and Chu Ku, and the siege of his own city, and bethought himself of relieving it. One of his captains, Ma Yen, said, “The high road will surely be ambushed; we must find some other way. We can take a bye-road from the Western Hills and get through at Fushuik‘ou, whence we can fall upon Ts‘ao’s camp.”"
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-032-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "尚從其言，自領大軍先行，令馬延與張顗斷後。早有細作去報曹操。操曰：「彼若從大路上來，吾當避之；若從西山小路而來，一戰可擒也。吾料袁尚必舉火為號，令城中接應。吾可分兵擊之。」於是分撥已定。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The plan was acceptable and Shang started off with the main body, Ma Yen and Chang K‘ai being rear guard. Ts‘ao’s spies soon found out this move and when they reported it he said, “If he comes by the high road I shall have to keep out of the way; if by the Western Hills bye-road I can settle him in one battle. And I think he will show a blaze as a signal to the besieged that they may make a sortie. I shall prepare to attack both.” So he made his preparations."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-032-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "卻說袁尚出滏水界口，東至陽平，屯軍陽平亭，離冀州十七里，一邊靠著滏水。尚令軍士堆積柴薪乾草，至夜焚燒為號，遣主簿李孚扮作曹軍都督，直至城下，大叫：「開門！」審配認得是李孚聲音，於入城中，說：「袁尚已陳兵在陽平亭，等候接應；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now Yüan Shang went out by the Fushui Pass east toward Yangp‘ing and near this he camped. Thence to his own city ​ was seventeen li . The Fushui stream ran beside the camp. He ordered his men to collect firewood and grass ready for the blaze he intended to make at night as his signal. He also sent Li Fu, a civil officer, disguised as an officer of Ts‘ao Ts‘ao’s army, to inform Shên P‘ei of his intentions. Fu reached the city wall safely and called out to the guards to open. Shên P‘ei recognised his voice and let him in. Thus Shën P‘ei knew of the arrangements for his relief and it was agreed that a blaze should be raised within the city so that the sortie could be simultaneous with Shang’s attack. Orders were given to collect inflammables."
+          }
+        }
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-032-line-048",
+        "order": 48,
+        "source_block_chunk": 2,
+        "source_block_order": 25,
+        "text": "若城中兵出，亦舉火為號。」配教城中堆草放火，以通音信。孚曰：「城中無糧，可發老弱殘兵並婦人出降；彼必不為備，我即以兵繼百姓之後出攻之。」配從其論。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then said Fu, “As your food supply is short it would be well for the old men, the feeble soldiers and the women to surrender. This will come upon them as a surprise and we will send the soldiers out behind them.” Shên P‘ei promised to do all this and next day they hoisted on the wall a white flag with the words “The populace of Ch‘ichou surrender” on it. “Ho ho! This means no food,” said Ts‘ao. “They are sending away the non-combatants to escape feeding them. And the soldiers will follow behind them.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-032-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "次日，城上豎起白旗，上寫「冀州百姓投降」。操曰：「此是城中無糧，教老弱百姓投降；後必有兵出也。」操教張遼、徐晃各引三千軍馬，伏於兩邊。操自乘馬、張麾蓋至城下。果見城門開處，百姓扶老攜幼，手持白旛而出。百姓纔出盡，城中兵突出。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So on two sides he laid an ambush of three companies while he went near the wall in full state. Presently the gates were opened and out came the people supporting their aged folk and leading their little ones by the hand. Each carried a white flag. As soon as the people had passed the gate the soldiers followed with a rush. Then Ts‘ao Ts‘ao showed a red flag and the ambushed soldiers fell upon the sortie. The men tried to return and Ts‘ao’s men made a direct attack. The chase continued to the drawbridge, but there they met with a tremendous shower of arrows and crossbow bolts which checked the advance. Ts‘ao’s helmet was struck and the crest carried away."
+          }
+        }
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-032-line-050",
+        "order": 50,
+        "source_block_chunk": 2,
+        "source_block_order": 26,
+        "text": "操教將紅旗一招，張遼、徐晃兩路兵齊出亂殺，城中兵只得復回。操自飛馬趕來，到弔橋邊，城中弩箭如雨，射中操盔，險透其頂。眾將急救回陣。操更衣換馬，引眾將來攻尚寨。尚自迎敵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So the men retired. As soon as Ts‘ao had changed his dress and mounted a fresh horse he set out at the head of the army to attack Yüan Shang’s camp. Yüan Shang led the defence. The attack came simultaneously from many directions, the defenders were quite disorganised and presently defeated. Shang led his men back by the hills and made a camp under their shelter. Thence he sent messengers to urge Ma Yen and Chang K‘ai to bring up the supports. He did not know that Ts‘ao had sent the two Lüs to persuade these two into surrender and that they had already passed under Ts‘ao’s banner, and he had made them marquises."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-032-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "時各路軍馬一齊殺至，兩軍混戰，袁尚大敗。尚引兵退往西山下寨，令人催取馬延、張顗軍來。不知曹操已使呂曠、呂翔去招安二將。二將隨二呂來降，操亦封為列侯。即日進兵攻打西山，先使二呂、馬延、張顗截斷袁尚糧道。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just before going to attack the Western Hills he sent the two Lüs with Ma Yen and Chang K‘ai to seize the source of Yüan Shang’s supplies. Shang had realised he could not hold the hills so he went by night to Ik‘ou. Before he could get camped he saw flaring lights springing up all around him and ​ soon an attack began. He was taken aback and had to oppose the enemy with his men half armed, his steeds unsaddled. His army suffered and he had to retreat another fifty li . By that time his force was too enfeebled to show any resistance and as no other course was possible he sent to ask that he might surrender. Ts‘ao feigned to consent, but that night he sent a force to raid Shang’s camp. Then it became flight, abandoning everything, seals, emblems of office and even personal clothing. He made for the hills."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-032-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "尚情知西山守不住，夜走溢口。安營未定，四下火光並起，伏兵齊出，人不及甲，馬不及鞍。尚軍大潰，退走五十里，勢窮力極，只得遣豫州刺史陰夔至操營請降。操佯許之，卻連夜使張遼、徐晃去劫寨。尚盡棄印綬節鉞，衣甲輜重，望中山而逃。操回軍攻冀州。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then came an attack on Ch‘ichou and to help out this Hsü Yu suggested drowning the city by turning the course of the River Chang. Ts‘ao adopted the suggestion and at once sent a small number of men to dig a channel to lead the water to the city. All told, it was forty li . Shên P‘ei saw the diggers from the city wall and noticed that they made only a shallow channel. He chuckled, saying to himself, “What is the use of such a channel to drown out the city from a deep river?”"
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-032-line-053",
+        "order": 53,
+        "source_block_chunk": 2,
+        "source_block_order": 28,
+        "text": "許攸獻計曰：「何不決漳河之水以渰之？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So he made no preparations to keep out the water."
+          }
+        }
+      },
+      {
+        "character_count": 67,
+        "id": "chapter-032-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "操然其計，先差軍於城外掘河塹，周圍四十里。審配在城上見操軍在城外掘塹，卻掘得甚淺。配暗笑曰：「此欲決漳河之水以灌城耳。河深可灌，如此之淺，有何用哉？」遂不為備。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But as soon as night came on Ts‘ao increased his army of diggers tenfold and by daylight the channel was deepened to twenty feet and the water was flowing in a great stream into the city where it already stood some feet deep. So this misfortune was added to the lack of food."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-032-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "當夜曹操添十倍軍士，並力發掘，比及天明，廣深二丈，引漳水灌入城中，水深數尺。更兼糧絕，軍士皆餓死。辛毗在城外，用槍挑袁尚印綬衣服，招安城內之人。審配大怒，將辛毗家屬老小八十餘口，就於城上斬之，將頭擲下。辛毗號哭不已。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsin Pʻi now displayed the captured seal and garments of Yüan Shang hung out on spears, to the great shame of their late owner, and called upon the people of the city to surrender. This angered Shên P‘ei, who avenged the insult by putting to death on the city wall the whole of the Hsin family who were within the city. There were nearly a hundred of them and their severed heads were cast down from the walls. Hsin P‘i wept exceedingly. Shên P‘ei’s nephew Shên Yung, one of the gate wardens, was a dear friend of Hsin P‘i and the murder of P‘i’s family greatly distressed him. He wrote a secret letter offering to betray the city and tied it to an arrow, which he shot out among the besiegers. The soldiers found it, gave it to Hsin P‘i and he took it to his chief."
+          }
+        }
+      },
+      {
+        "character_count": 73,
+        "id": "chapter-032-line-056",
+        "order": 56,
+        "source_block_chunk": 2,
+        "source_block_order": 30,
+        "text": "審配之姪審榮，素與辛毗相厚；見辛毗家屬被害，心中懷恨，乃密寫獻門之書，拴於箭上，射下城來。軍士拾獻辛毗，毗將書獻操。操先下令：如入冀州，休得殺害袁氏一門老小；軍民降者免死。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao issued an order that the family of the Yüans should be spared when the city should be taken and that no one who surrendered should be put to death. The next day the soldiers entered by the west gate, opened for them by Shên’s nephew. Hsin P‘i was the first to prance in on horseback and the men followed."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-032-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "次日天明，審榮大開西門，放曹兵入。辛毗躍馬先入，軍將隨後殺入冀州。審配在東南城樓上，見操軍已入城中，引數騎下城死戰，正迎徐晃交馬。徐晃生擒審配，綁出城來，路逢辛毗。毗咬牙切齒，以鞭指配首曰：「賊殺才！今日死矣！」配大罵辛毗：「賊徒！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Shên, who was on the southeast of the city, saw the enemy within the gates he placed himself at the head of some horsemen and dashed toward them. He was met and captured by Hsü Huang who bound him and led him outside the city. On the road they met Hsin Pʻi, who ground his teeth with rage ​ at the murderer of his relatives and then struck the prisoner over the head with his whip and abused him as a murderer. Shên retorted by calling him traitor and saying how sorry he was not to have slain him before."
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-032-line-058",
+        "order": 58,
+        "source_block_chunk": 2,
+        "source_block_order": 31,
+        "text": "引曹操破我冀州，我恨不殺汝也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the captive was taken into Ts‘ao’s presence Ts‘ao said, “Do you know who opened the gate to let me in?”"
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-032-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "徐晃解配見操。操曰：「汝知獻門接我者乎？」配曰：「不知。」操曰：「此汝姪審榮所獻也。」配怒曰：「小兒不行，乃至於此！」操曰：「昨孤至城下，何城中弩箭之多耶？」配曰：「恨少！恨少！」操曰：「卿忠於袁氏，不容不如此。今肯降吾否？」配曰：「不降！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“No; I know not.” “It was your nephew Shên Yung who gave up the gate,” said Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-032-line-060",
+        "order": 60,
+        "source_block_chunk": 2,
+        "source_block_order": 32,
+        "text": "不降！」辛毗哭拜於地曰：「家屬八十餘口，盡遭此賊殺害。願丞相戮之，以雪此恨！」配曰：「吾生為袁氏臣，死為袁氏鬼，不似汝輩讒諂阿諛之賊！可速斬我！」操教牽出。臨受刑，叱行刑者曰：「吾主在北，不可使我面南而死！」乃向北跪，引頸就刃。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“He was always unprincipled; and it has come to this!” said Shên. “The other day when I approached the city why did you shoot so hard at me?”"
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-032-line-061",
+        "order": 61,
+        "source_block_chunk": 3,
+        "source_block_order": 32,
+        "text": "後人有詩歎曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am sorry we shot too little.”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-032-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "河北多名士，誰如審正南？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“As a faithful adherent of the Yüans you could do no otherwise. Now will you come over to me?”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-032-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "命因昏主喪，心與古人參。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Never; I will never surrender.”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-032-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "忠直言無隱，廉能志不貪。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsin P‘i threw himself on the ground with lamentations, saying, “Eighty of my people murdered by this ruffian; I pray you slay him, O Minister!”"
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-032-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "臨亡猶北面，降者盡羞慚。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Alive, I have served the Yüans,” said Shên, “dead, I will be their ghost. I am no flattering time-server as you are. Kill me!”"
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-032-line-066",
+        "order": 66,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "審配既死，操憐其忠義，命葬於城北。眾將請曹操入城。操方欲起行，只見刀斧手擁一人至，操視之，乃陳琳也。操謂之曰：「汝前為本初作檄，但罪狀孤可也；何乃辱及祖、父耶？」琳答曰：「箭在弦上，不得不發耳。」左右勸操殺之。操憐其才，乃赦之，命為從事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao gave the order; they led him away to put him to death. On the execution ground he said to the executioners, “My lord is in the north, I pray you not to make me face the south.” So he knelt facing the north and extended his neck for the fatal stroke. Who of all th’ official throng In Hopei was true like Shên? Sad his fate! he served a fool, But faithful, as the ancient men. Straight and true was every word, Never from the road he swerved. Faithful unto death, he died Gazing toward the lord he’d served. Thus died Shên P‘ei and from respect for his character Ts‘ao ordered that he be buried honourably on the north of the city. Ts‘ao Ts‘ao then entered the city. As he was starting he saw the executioners hurrying forward a prisoner who proved to be Ch‘ên Lin."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-032-line-067",
+        "order": 67,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "卻說操長子曹丕，字子桓，時年十八歲。丕初生時，有雲氣一片，其色青紫，圓如車蓋，覆於其室，終日不散。有望氣者，密謂操曰：「此天子氣也。令嗣貴不可言。」丕八歲能屬文，有逸才，博古通今，善騎射，好擊劍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You wrote that manifesto for Yüan Shao. If you had only directed your diatribe against me, it would not have mattered. But why did you shame my forefathers?” said Ts‘ao. “When the arrow is on the string, it must fly,” replied Lin. Those about Ts‘ao urged him to put Ch‘ên Lin to death, but he was spared on account of his genius and given a small civil post. ​ Now Ts‘ao’s eldest son was named P‘ei, otherwise Tzŭ-hêng. At the taking of the city he was eighteen years of age. When he was born a dark purplish halo hung over the house for a whole day. One who understood the meaning of such manifestations had secretly told Ts‘ao that the halo belonged to the Imperial class and portended honours which could not be put into words."
+          }
+        }
+      },
+      {
+        "character_count": 68,
+        "id": "chapter-032-line-068",
+        "order": 68,
+        "source_block_chunk": 2,
+        "source_block_order": 38,
+        "text": "時操破冀州，丕隨父在軍中，先領隨身軍，逕投袁紹家，下馬拔劍而入。有一將當之曰：「丞相有命，諸人不許入紹府。」丕叱退，提劍入後堂。見兩個婦人相抱而哭，向前欲殺之。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At eight the lad could compose very skilfully and he was well read in ancient history. Now he was an adept at all military arts and very fond of fencing. He had gone with his father on the expedition to Ch‘ichou. He led his escort in the direction of the Yüan family dwelling, and when he reached it he strode in sword in hand. When some one would have stayed him, saying that by order of the Minister no one was to enter the house, he bade them begone. The guards fell back and he made his way into the private rooms, where he saw two women weeping in each other’s arms. He went forward to slay them."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-032-line-069",
+        "order": 69,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "四世公侯已成夢，一家骨肉又遭殃。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Four generations of honours, gone like a dream, Fate follows on ever surely, though slow she seem."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-032-line-070",
+        "order": 70,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "未知性命如何，且聽下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The fate of the two women will be told in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說袁尚自斬史渙之後，自負其勇，不待袁譚等兵至，自引兵數萬出黎陽，與曹軍前隊相迎。張遼當先出馬，袁尚挺槍來戰，不三合，架隔遮攔不住，大敗而走。張遼乘勢掩殺，袁尚不能主張，急急引軍奔回冀州。袁紹聞袁尚敗回，又受了一驚，舊病復發，吐血數斗，昏倒在地。劉夫人慌救入臥內，病勢漸危。劉夫人急請審配、逢紀，直至袁紹榻前，商議後事。紹但以手指而不能言。劉夫人曰：「尚可繼後嗣否？」紹點頭。審配便就榻前寫了遺囑。紹翻身大叫一聲，又吐血斗餘而死。後人有詩曰：\n累世公卿立大名，少年意氣自縱橫。\n空招俊傑三千客，漫有英雄百萬兵。\n羊質虎皮功不就，鳳毛雞膽事難成。\n更憐一種傷心處，家難徒延兩弟兄。\n袁紹既死，審配等主持喪事。劉夫人便將袁紹所愛寵妾五人，盡行殺害；又恐其陰魂於九泉之下再與紹相見，乃髡其髮，刺其面，毀其屍：其妒惡如此。袁尚恐寵妾家屬為害，並收而殺之。審配、逢紀立袁尚為大司馬將軍，領冀、青、幽、并四州牧，遣使報喪。此時袁譚已發兵離青州；知父死，便與郭圖、辛評商議。圖曰：「主公不在冀州，審配、逢紀必立顯甫為主矣。當速行。」辛評曰：「審、逢二人，必預定機謀。今若速往，必遭其禍。」袁譚曰：「若當此如何？」郭圖曰：「可屯兵城外，觀其動靜。某當親往察之。」\n譚依言。郭圖遂入冀州，見袁尚。禮畢，尚問：「兄何不至？」圖曰：「因抱病在軍中，不能相見。」尚曰：「吾受父親遺命，立我為主，加兄為車騎將軍。目下曹軍壓境，請兄為前部，吾隨後便調兵接應也。」圖曰：「軍中無人商議良策，願乞審正南、逢元圖二人為輔。」尚曰：「吾亦欲仗此二人早晚畫策，如何離得？」圖曰：「然則於二人內遣一人去，何如？」尚不得已，乃令二人拈鬮，拈著者便去。逢紀拈著，尚即命逢紀齎印緩，同郭圖赴袁譚軍中。紀隨圖至譚軍，見譚無病，心中不安，獻上印綬。譚大怒，欲斬逢紀。郭圖密諫曰：「今曹軍壓境，且只款留逢紀在此，以安尚心。待破曹之後，卻來爭冀州不遲。」\n譚從其言。即時拔寨起行，前至黎陽，與曹軍相抵。譚遣大將汪昭出戰，操遣徐晃迎敵。二將戰不數合，徐晃一刀斬汪昭於馬下。曹軍乘勢掩殺，譚軍大敗。譚收敗軍入黎陽，遣人求救於尚。尚與審配計議，只發兵五千餘人相助。曹操探知救軍已到，遣樂進、李典引兵於半路接著，兩頭圍住盡殺之。袁譚知尚止撥兵五千，又被半路坑殺，大怒，乃喚逢紀責罵。紀曰：「容某作書致主公，求其親自來救。」譚即令紀作書，遣人到冀州致袁尚。尚與審配共議。配曰：「郭圖多謀，前次不爭而去者，為曹軍在境也。今若破曹，必來爭冀州矣。不如不發救兵，借操之力以除之。」\n尚從其言，不肯發兵。使者回報，譚大怒，立斬逢紀，議欲降曹。早有細作密報袁尚。尚與審配議曰：「使譚降曹，並力來攻，則冀州危矣。」乃留審配並大將蘇由固守冀州，自領大軍來黎陽救譚。尚問軍中誰敢為前部，大將呂曠、呂翔兄弟二人願去。尚點兵三萬，使為先鋒，先至黎陽。譚聞尚自來，大喜，遂罷降曹之議。譚屯兵城中，尚屯兵城外，為犄角之勢。\n不一日，袁熙、高幹皆領軍到城外，屯兵三處，每日出兵與操相持。尚屢敗，操兵屢勝。至建安八年春三月，操分路攻打，袁譚、袁熙、袁尚、高幹皆大敗，棄黎陽而走。操引兵迫至冀州。譚與尚入城堅守，熙與幹離城三十里下寨，虛張聲勢。操兵連日攻打不下。郭嘉進曰：「袁氏廢長立幼，而兄弟之間，權力相併，各自樹黨，急之則相救，緩之則相爭，不如舉兵南向荊州，征討劉表，以候袁氏兄弟之變；變成而後擊之，可一舉而定也。」\n操善其言，命賈詡為太守，守黎陽；曹洪引兵守官渡。操引大軍向荊州進兵。譚、尚聽知曹軍自退，遂相慶賀。袁熙、高幹各自辭去。袁譚與郭圖、辛評議曰：「我為長子，反不能承父業；尚乃繼母所生，反承大爵；心實不甘。」圖曰：「主公可勒兵城外，只做請顯甫、審配飲酒，伏刀斧手殺之，大事定矣。」譚從其言。適別駕王修自青州來，譚將此計告之。修曰：「兄弟者，左右手也。今與他人爭鬥，自斷其手，而曰我必勝，安可得乎？夫棄兄弟而不親，天下其誰親之？彼讒人離間骨肉，以求一朝之利，願塞耳勿聽也。」\n譚怒，叱退王修，使人去請袁尚。尚與審配商議。配曰：「此必郭圖之計也。主公若往，必遭奸計；不如乘勢攻之。」袁尚依言，便披挂上馬，引兵五萬出城。袁譚見袁尚引軍來，情知事泄，亦即披挂上馬，與尚交鋒。尚見譚大罵。譚亦罵曰：「汝藥死父親，篡奪爵位，今又來殺兄耶！」二人親自交鋒，袁譚大敗。尚親冒矢石，衝突掩殺。譚引敗軍奔平原，尚收兵還。袁譚與郭圖再議進兵，令岑璧為將，領兵前來。尚自引兵出冀州。\n兩陣對圓，旗鼓相望。璧出罵陣，尚欲自戰。大將呂曠，拍馬舞刀，來戰岑璧；二將戰無數合，曠斬岑璧於馬下。譚兵又敗，再奔平原。審配勸尚進兵，追至平原。譚抵當不住，退入平原，堅守不出。尚三面圍城攻打。譚與郭圖計議。圖曰：「今城中糧少，彼軍方銳，勢不相敵。愚意可遣人投降曹操，使操將兵攻冀州，尚必還救。將軍引兵夾擊之，尚可擒矣。若操擊破尚軍，我因而斂其軍實以拒操。操軍遠來，糧食不繼，必自退去；我可以仍據冀州，以圖進取也。」\n譚從其言，問曰：「何人可為使？」圖曰：「辛評之弟辛毗，字佐治，見為平原令。此人乃能言之士，可命為使。」譚即召辛毗。毗欣然而至。譚修書付毗，使三千軍送毗出境。毗星夜齎書往見曹操。時操屯軍西平伐劉表，表遣玄德引兵為前部以迎之。未及交鋒，辛毗到操寨。見操禮畢，操問其來意，毗具言袁譚相求之意，呈上書信。\n操看書畢，留辛毗於寨中，聚文武計議。程昱曰：「袁譚被袁尚攻擊太急，不得已而來降，不可准信。」呂虔、滿寵亦曰：「丞相既引兵至此，安可復舍表而助譚？」荀攸曰：「三公之言未善。以愚意度之：天下方有事，而劉表坐保江、漢之間，不敢展足，其無四方之志可知矣；袁氏據四州之地，帶甲數十萬，若二子和睦，共守成業，天下事未可知也。今其兄弟相攻，勢窮而投我；我提兵先除袁尚，後觀其變，並滅袁譚，天下定矣。此機會不可失也。」\n操大喜，便邀辛毗飲酒，謂之曰：「袁譚之降，真耶詐耶？袁尚之兵，果可必勝耶？」毗對曰：「明公勿問真與詐也，只論其勢可耳。袁氏連年喪敗，兵革疲於外，謀臣誅於內；兄弟讒隙，國分為二；加之饑饉並臻，天災人困；無問智愚，皆知土崩瓦解。此乃天滅袁氏之時也。今明公提兵攻鄴，袁尚不還救，則失巢穴；若還救，則譚踵襲其後。以明公之威，擊疲憊之眾，如迅風之掃秋葉也。舍此之圖，而伐荊州，荊州豐樂之地，國和民順，未可搖動。況四方之患，莫大於河北。河北既平，則霸業成矣。願明公詳之。」操大喜曰：「恨與辛佐治相見之晚也！」即日督軍還取冀州。玄德恐操有謀，不敢追襲，引兵自回荊州。\n卻說袁尚知曹軍渡河，急急引軍還鄴，命呂曠、呂翔斷後。袁譚見尚退軍，乃大起平原軍馬，隨後趕來。行不到數十里，一聲砲響，兩軍齊出：左邊呂曠，右邊呂翔，兄弟二人截住袁譚。譚勒馬告二將曰：「吾父在日，吾並未慢待二將軍，今何從吾弟而見迫耶？」\n二將聞言，乃下馬降譚。譚曰：「勿降我，可降曹丞相。」二將因隨譚歸營。譚候操軍至，引二將見操。操大喜，以女許譚為妻，即令呂曠、呂翔為媒。譚請操攻取冀州。操曰：「方今糧草不接，搬運勞苦，我由濟河遏淇水入白溝，以通糧道，然後進兵。」令譚且居平原。操引軍退屯黎陽，封呂曠、呂翔為列侯，隨軍聽用。郭圖謂袁譚曰：「曹操以女許婚，恐非真意。今又封賞呂曠、呂翔，帶去軍中，此乃牢籠河北人心。後必終為我禍。主公可刻將軍印二顆，暗使人送與二呂，令作內應。待操破了袁尚，可乘便圖之。」\n譚依言，遂刻將軍印二顆，暗送與二呂。二呂受訖，逕將印來稟曹操。操大笑曰：「譚暗送印者，欲汝等為內助，待我破袁尚之後，就中取事耳。汝等權且受之，我自有主張。」自此曹操便有殺譚之心。\n且說袁尚與審配商議：「今曹兵運糧入白溝，必來攻冀州，如之奈何？」配曰：「可發檄使武安長尹楷屯毛城，通上黨運糧道；令沮授之子沮鵠守邯鄲，遙為聲援。主公可進兵平原，急攻袁譚。先絕袁譚，然後破曹。」袁尚大喜，留審配與陳琳守冀州，使馬延、張顗二將為先鋒，連夜起兵攻打平原。譚知尚兵來近，告急於操。操曰：「吾今番必得冀州矣。」\n正說間，適許攸自許昌來；聞尚又攻譚，入見操曰：「丞相坐守於此，豈欲待天雷擊殺二袁乎？」操笑曰：「吾已料定矣。」遂令曹洪先進兵攻鄴，操自引一軍來攻尹楷。兵臨本境，楷引軍來迎。楷出馬，操曰：「許仲康安在？」許褚應聲而出，縱馬直取尹楷。楷措手不及，被許褚一刀斬於馬下，餘眾奔潰。操盡招降之，即勒兵取邯鄲。沮鵠進兵來迎。張遼出馬，與鵠交鋒，戰不三合，鵠大敗，遼從後追趕。兩馬相離不遠，遼急取弓射之，應弦落馬。操指揮軍馬掩殺，眾皆奔散。\n於是操引大軍前抵冀州。曹洪已近城下。操令三軍遶城築起土山，又暗掘地道以攻之。審配設守堅固，法令甚嚴，東門守將馮禮，因酒醉有誤巡警，配痛責之。馮禮懷恨，潛地出城降操。操問破城之策，禮曰：「突門內土厚，可掘地道而入。」操便命馮禮引三百壯士，夤夜掘地道而入。\n卻說審配自馮禮出降之後，每夜親自登城點視軍馬。當夜在突門閣上，望見城外無燈火。配曰：「馮禮必引兵從地道而入也。」急喚精兵運石擊突閘門，門閉，馮禮及三百壯士，皆死於土內。操折了這一場，遂罷地道之計，退軍於洹水之上，以候袁尚回兵。袁尚攻平原，聞曹操已破尹楷、沮鵠，大軍圍困冀州，乃掣兵回救。部將馬延曰：「從大路去，曹操必有伏兵；可取小路，從西山出滏水口去劫曹營，必解圍也。」\n尚從其言，自領大軍先行，令馬延與張顗斷後。早有細作去報曹操。操曰：「彼若從大路上來，吾當避之；若從西山小路而來，一戰可擒也。吾料袁尚必舉火為號，令城中接應。吾可分兵擊之。」於是分撥已定。\n卻說袁尚出滏水界口，東至陽平，屯軍陽平亭，離冀州十七里，一邊靠著滏水。尚令軍士堆積柴薪乾草，至夜焚燒為號，遣主簿李孚扮作曹軍都督，直至城下，大叫：「開門！」審配認得是李孚聲音，於入城中，說：「袁尚已陳兵在陽平亭，等候接應；若城中兵出，亦舉火為號。」配教城中堆草放火，以通音信。孚曰：「城中無糧，可發老弱殘兵並婦人出降；彼必不為備，我即以兵繼百姓之後出攻之。」配從其論。\n次日，城上豎起白旗，上寫「冀州百姓投降」。操曰：「此是城中無糧，教老弱百姓投降；後必有兵出也。」操教張遼、徐晃各引三千軍馬，伏於兩邊。操自乘馬、張麾蓋至城下。果見城門開處，百姓扶老攜幼，手持白旛而出。百姓纔出盡，城中兵突出。操教將紅旗一招，張遼、徐晃兩路兵齊出亂殺，城中兵只得復回。操自飛馬趕來，到弔橋邊，城中弩箭如雨，射中操盔，險透其頂。眾將急救回陣。操更衣換馬，引眾將來攻尚寨。尚自迎敵。\n時各路軍馬一齊殺至，兩軍混戰，袁尚大敗。尚引兵退往西山下寨，令人催取馬延、張顗軍來。不知曹操已使呂曠、呂翔去招安二將。二將隨二呂來降，操亦封為列侯。即日進兵攻打西山，先使二呂、馬延、張顗截斷袁尚糧道。\n尚情知西山守不住，夜走溢口。安營未定，四下火光並起，伏兵齊出，人不及甲，馬不及鞍。尚軍大潰，退走五十里，勢窮力極，只得遣豫州刺史陰夔至操營請降。操佯許之，卻連夜使張遼、徐晃去劫寨。尚盡棄印綬節鉞，衣甲輜重，望中山而逃。操回軍攻冀州。許攸獻計曰：「何不決漳河之水以渰之？」\n操然其計，先差軍於城外掘河塹，周圍四十里。審配在城上見操軍在城外掘塹，卻掘得甚淺。配暗笑曰：「此欲決漳河之水以灌城耳。河深可灌，如此之淺，有何用哉？」遂不為備。\n當夜曹操添十倍軍士，並力發掘，比及天明，廣深二丈，引漳水灌入城中，水深數尺。更兼糧絕，軍士皆餓死。辛毗在城外，用槍挑袁尚印綬衣服，招安城內之人。審配大怒，將辛毗家屬老小八十餘口，就於城上斬之，將頭擲下。辛毗號哭不已。審配之姪審榮，素與辛毗相厚；見辛毗家屬被害，心中懷恨，乃密寫獻門之書，拴於箭上，射下城來。軍士拾獻辛毗，毗將書獻操。操先下令：如入冀州，休得殺害袁氏一門老小；軍民降者免死。\n次日天明，審榮大開西門，放曹兵入。辛毗躍馬先入，軍將隨後殺入冀州。審配在東南城樓上，見操軍已入城中，引數騎下城死戰，正迎徐晃交馬。徐晃生擒審配，綁出城來，路逢辛毗。毗咬牙切齒，以鞭指配首曰：「賊殺才！今日死矣！」配大罵辛毗：「賊徒！引曹操破我冀州，我恨不殺汝也！」\n徐晃解配見操。操曰：「汝知獻門接我者乎？」配曰：「不知。」操曰：「此汝姪審榮所獻也。」配怒曰：「小兒不行，乃至於此！」操曰：「昨孤至城下，何城中弩箭之多耶？」配曰：「恨少！恨少！」操曰：「卿忠於袁氏，不容不如此。今肯降吾否？」配曰：「不降！不降！」辛毗哭拜於地曰：「家屬八十餘口，盡遭此賊殺害。願丞相戮之，以雪此恨！」配曰：「吾生為袁氏臣，死為袁氏鬼，不似汝輩讒諂阿諛之賊！可速斬我！」操教牽出。臨受刑，叱行刑者曰：「吾主在北，不可使我面南而死！」乃向北跪，引頸就刃。後人有詩歎曰：\n河北多名士，誰如審正南？\n命因昏主喪，心與古人參。\n忠直言無隱，廉能志不貪。\n臨亡猶北面，降者盡羞慚。\n審配既死，操憐其忠義，命葬於城北。眾將請曹操入城。操方欲起行，只見刀斧手擁一人至，操視之，乃陳琳也。操謂之曰：「汝前為本初作檄，但罪狀孤可也；何乃辱及祖、父耶？」琳答曰：「箭在弦上，不得不發耳。」左右勸操殺之。操憐其才，乃赦之，命為從事。\n卻說操長子曹丕，字子桓，時年十八歲。丕初生時，有雲氣一片，其色青紫，圓如車蓋，覆於其室，終日不散。有望氣者，密謂操曰：「此天子氣也。令嗣貴不可言。」丕八歲能屬文，有逸才，博古通今，善騎射，好擊劍。時操破冀州，丕隨父在軍中，先領隨身軍，逕投袁紹家，下馬拔劍而入。有一將當之曰：「丞相有命，諸人不許入紹府。」丕叱退，提劍入後堂。見兩個婦人相抱而哭，向前欲殺之。正是：\n四世公侯已成夢，一家骨肉又遭殃。\n未知性命如何，且聽下文分解。",
+    "title": "第三十二回 奪冀州袁尚爭鋒　　　決漳河許攸獻計"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-032.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

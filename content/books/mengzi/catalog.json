@@ -1,0 +1,152 @@
+{
+  "cache_dir": "books/mengzi",
+  "catalog_path": "books/mengzi/catalog.json",
+  "chapter_count": 14,
+  "chapters": [
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-001.json",
+      "character_count": 2442,
+      "id": "chapter-001",
+      "order": 1,
+      "reading_unit_count": 61,
+      "summary": "",
+      "supplemental_unit_count": 51,
+      "title": "梁惠王章句上"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-002.json",
+      "character_count": 3042,
+      "id": "chapter-002",
+      "order": 2,
+      "reading_unit_count": 75,
+      "summary": "",
+      "supplemental_unit_count": 59,
+      "title": "梁惠王章句下"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-003.json",
+      "character_count": 2687,
+      "id": "chapter-003",
+      "order": 3,
+      "reading_unit_count": 76,
+      "summary": "",
+      "supplemental_unit_count": 64,
+      "title": "公孫丑章句上"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-004.json",
+      "character_count": 2442,
+      "id": "chapter-004",
+      "order": 4,
+      "reading_unit_count": 70,
+      "summary": "",
+      "supplemental_unit_count": 42,
+      "title": "公孫丑章句下"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-005.json",
+      "character_count": 2547,
+      "id": "chapter-005",
+      "order": 5,
+      "reading_unit_count": 58,
+      "summary": "",
+      "supplemental_unit_count": 60,
+      "title": "滕文公章句上"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-006.json",
+      "character_count": 2598,
+      "id": "chapter-006",
+      "order": 6,
+      "reading_unit_count": 60,
+      "summary": "",
+      "supplemental_unit_count": 45,
+      "title": "滕文公章句下"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-007.json",
+      "character_count": 2394,
+      "id": "chapter-007",
+      "order": 7,
+      "reading_unit_count": 85,
+      "summary": "",
+      "supplemental_unit_count": 70,
+      "title": "離婁章句上"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-008.json",
+      "character_count": 2389,
+      "id": "chapter-008",
+      "order": 8,
+      "reading_unit_count": 82,
+      "summary": "",
+      "supplemental_unit_count": 66,
+      "title": "離婁章句下"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-009.json",
+      "character_count": 2675,
+      "id": "chapter-009",
+      "order": 9,
+      "reading_unit_count": 56,
+      "summary": "",
+      "supplemental_unit_count": 47,
+      "title": "萬章章句上"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-010.json",
+      "character_count": 2454,
+      "id": "chapter-010",
+      "order": 10,
+      "reading_unit_count": 57,
+      "summary": "",
+      "supplemental_unit_count": 47,
+      "title": "萬章章句下"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-011.json",
+      "character_count": 2641,
+      "id": "chapter-011",
+      "order": 11,
+      "reading_unit_count": 77,
+      "summary": "",
+      "supplemental_unit_count": 60,
+      "title": "告子章句上"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-012.json",
+      "character_count": 2633,
+      "id": "chapter-012",
+      "order": 12,
+      "reading_unit_count": 86,
+      "summary": "",
+      "supplemental_unit_count": 47,
+      "title": "告子章句下"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-013.json",
+      "character_count": 2419,
+      "id": "chapter-013",
+      "order": 13,
+      "reading_unit_count": 119,
+      "summary": "",
+      "supplemental_unit_count": 83,
+      "title": "盡心章句上"
+    },
+    {
+      "chapter_path": "books/mengzi/chapters/chapter-014.json",
+      "character_count": 2273,
+      "id": "chapter-014",
+      "order": 14,
+      "reading_unit_count": 93,
+      "summary": "",
+      "supplemental_unit_count": 77,
+      "title": "盡心章句下"
+    }
+  ],
+  "commentary_chapter_count": 0,
+  "commentary_chapters": [],
+  "provider": "ctext-html",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/meng-zi-ji-zhu?if=en",
+  "title": "四書章句集注 : 孟子集注"
+}

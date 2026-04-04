@@ -1,0 +1,645 @@
+{
+  "chapter": {
+    "character_count": 3541,
+    "id": "chapter-082",
+    "order": 82,
+    "reading_unit_count": 48,
+    "reading_units": [
+      {
+        "character_count": 99,
+        "id": "chapter-082-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說章武元年秋八月，先主起大軍至夔關，駕屯白帝城。前隊軍馬已至川口。近臣奉曰：「吳使諸葛瑾至。」先主傳旨教休放入。黃權奏曰：「謹弟在蜀為相，必有事而來，陛下何故絕之？當召入，看他言語。可從則從；如不可，則就借彼口說與孫權，令知問罪有名也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then the First Ruler gave way, and the messenger was brought in. He bowed down to the earth. “Sir, you have come a long journey; what is its object?” said the First Ruler. “My brother has long served Your Majesty; I have come at the risk of my life to discuss Chingchou affairs. When Kuan the Noble was at Chingchou my master repeatedly sought to ally the two families by marriage, but was refused. When he attacked Hsiangyang, Ts‘ao Ts‘ao wrote again and again urging my master to attack Chingchou. But he was unwilling, and it was the enmity between your brother and Lü Mêng that led to the attack and the unfortunate success. My master is now very sorry for it, but it was Lü Mêng’s doing. However, Lü Mêng is now dead and his enmity has died with him Moreover, the Lady Sun is always thinking over returning to you. My master now proposes to send back the lady, to hand over to you those officers who surrendered and to restore Chingchou. If the two houses swear perpetual amity then they may join forces against Ts‘ao P‘ei and punish his usurpation.”"
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-082-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "」先主從之，召謹入城。謹拜伏於地。先主問曰：「子瑜遠來，有何事故？」謹曰：「臣弟久事陛下，臣故不避斧鉞，特來奏荊州之事。前者，關公在荊州時，吳侯數次求親，關公不允。後關公取襄陽，曹操屢次致書吳侯，使襲荊州；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To this harangue the First Ruler only replied, “You of East Wu killed my brother; yet you dare to come with your artful talk!”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-082-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "吳侯本不肯許，因呂蒙與關公不睦，故擅自興兵，誤成大事。今吳侯悔之不及。此乃呂蒙之罪，非吳侯之過也。今呂蒙已死，冤讎已息。孫夫人一向思歸。今吳侯令臣為使，願送歸夫人，縛還降將，並將荊州仍舊交還，永結盟好，共滅曹丕，以正篡逆之罪。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chuko Chin said, “I only wish to discuss the relative importance of the issues. Your Majesty is an Imperial Uncle, and Ts‘ao P‘ei has seized the throne of your House. Yet you ​ do not think of destroying the usurper, but on the other hand you disregard the most honourable position in the world for the sake of a so-called brother, a connection of another name. Surely this is rejecting the chief for the subordinate, the main issue for a detail. The country concerned is a part of the empire, and the two capitals, Loyang and Ch‘angan, are both famous as places whence the two, one the founder, the other the restorer, of the Hans, initiated their mighty task. Your Majesty takes no thought of these, but would dispute over Chingchou; in other words, the important is adandoned for the worthless. All the world knows of your assumption of the dignity of Emperor and that you will assuredly restore the Hans and rescue their territory; only now you do not try to deal with Ts‘ao, you only desire to attack Wu. I venture to think you have made a bad choice.”"
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-082-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "先主怒曰：「汝東吳害了朕弟，今日敢以巧言來說乎！」瑾曰：「臣請以輕重大小之事，與陛下論之。陛下乃漢朝皇叔，今漢帝已被曹丕篡奪，不思剿除，卻為異姓之親，而屈萬乘之尊，是舍大義而就小義也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "All this argument only added fuel to the fire. “The slayer of my brother shall not live in the same world as I. You ask me not to fight. I will cease when I have slain your master. Were it not for the sake of your brother I would behead you at once. As it is, you may go; and you may tell your master to cleanse his neck ready for the blade of the executioner.”"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-082-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "中原乃海內之地，兩都皆大漢創業之方，陛下不取，而但爭荊州，是棄重而取輕也。天下皆知陛下即位，必興漢室，恢復山河；今陛下置魏不問，反欲伐吳，竊為陛下不取。」先主大怒曰：「殺吾弟之讎，不共戴天！欲朕罷兵，除死方休！不看丞相之面，先斬汝首！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chuko Chin saw that the position was hopeless and took his leave. But while he had been absent, calumny had not been idle. Chang Chao, one day when he was with Sun Ch'üan, insinuated doubts of Chuko’s honesty."
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-082-line-006",
+        "order": 6,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "今且放汝回去，說與孫權，洗頸就戮！」諸葛瑾見先主不聽，只得自回江南。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“He knows something of the strength of the armies of Shu, and he made this mission of his an excuse to get out of danger. He will not return.' ”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-082-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "卻說張昭見孫權曰：「諸葛子瑜知蜀兵勢大，故假以請使為辭，欲背吳入蜀。此去必不回矣。」權曰：「孤與子瑜，有生死不易之盟。孤不負子瑜，子瑜亦不負孤。昔子瑜在柴桑時，孔明來吳，孤欲使子瑜留之。子瑜曰：『弟已事玄德，義無二心；弟之不留，猶瑾之不往。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The marquis replied, “I and he are sworn friends; friends to the death. I shall not wrong him nor will he betray me. When he was at Ch‘aisang and his famous brother paid him a visit, I wanted my friend Chuko to persuade his brother to remain with me. His reply was that his brother would not remain any more than he himself would go: each would be faithful to his salt. That was quite clear enough. How could he desert me after that? Our friendship has something of the divine in it, and no talk from outside can sow dissension between us.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-082-line-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "』其言足貫神明。今日豈肯降蜀乎？孤與子瑜可謂神交，非外言所得間也。」正言間，忽報諸葛瑾回。權曰：「孤言若何？」張昭滿面羞慚而退。瑾見孫權，言先主不肯通和之意。權大驚曰：「若如此，則江南危矣！」階下一人進曰：「某有一計，可解此危。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Even as he spoke the servants told him that Chuko Chin had returned. “What do you think now?” said Sun Ch‘üan. Chang Chao retired overwhelmed with shame. The luckless messenger unfolded his tale of failure. “Then the south is in great danger,” said Sun Ch'üan, as he heard the story. But a certain man here interposed saying he could find a way out of the difficulty. He was Chao Tsu. ​ “What good scheme do you propose, friend Chao?” said Sun Ch'üan."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-082-line-009",
+        "order": 9,
+        "source_block_chunk": 3,
+        "source_block_order": 3,
+        "text": "」視之，乃中大夫趙咨也。權曰：「德度有何良策？」咨曰：「主公可作一表，某願為使，往見魏帝曹丕陳說利害，使襲漢中，則蜀兵自危矣。」權曰：「此計最善。但卿此去，休失了東吳氣象。」咨曰：「若有些小差失，即投江而死。安有面目見江南人物乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Let my lord draw up a document, which I will take to Ts‘ao P‘ei in Wei, making a full statement of the case, and get him to attack Hanchung and so draw off the danger from our land.” “Though the suggestion is good, yet shall we not lose something of our dignity by that?” said Sun Ch'üan. “If there is any such thing I will simply jump into the river: I could not look our people in the face again.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-082-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "權大喜，即寫表稱臣，令趙咨為使。星夜到了許都，先見太尉賈詡等，並大小官僚。次日早朝，賈詡出班奏曰：「東吳遣中大夫趙咨上表。」曹丕笑曰：「此欲退蜀兵故也。」即令召入。咨拜伏於丹墀。丕覽表畢，遂問咨曰：「吳侯乃何如主也？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Ch'üan was satisfied and composed the memorial, styling himself “Minister.” Therein Chao was duly appointed messenger. He took the document and soon reached the capital, where he first sought out the T‘ai-yü, Chia Hsü, and then saw certain others. Soon after, Chia Hsü stood forth one day at court and said, “Eastern Wu has sent a high officer, Chao Tzŭ, with a memorial.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-082-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "」咨曰：「聰明仁智雄略之主也。」丕笑曰：「卿褒獎毋乃太甚？」咨曰：「臣非過譽也。吳侯納魯肅於凡品，是其聰也；拔呂蒙於行陣，是其明也；獲于禁而不害，是其仁也；取荊州兵不血刃，是其智也；據三江虎視天下，是其雄也；屈身於陛下，是其略也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Because he wants the Shu armies driven off,” said Ts‘ao P‘ei, smiling, and as if completing the sentence. But he summoned Chao, who, having prostrated himself in the outer court, handed in his memorial. After reading it, P‘ei said, “What sort of an over-lord is the marquis?” “Intelligent, clear-sighted, wise, brave and perspicacious,” was the reply. P‘ei laughed, “Your praise is none too enthusiastic.”"
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-082-line-012",
+        "order": 12,
+        "source_block_chunk": 3,
+        "source_block_order": 4,
+        "text": "以此論之，豈不為聰明仁智雄略之主乎？」丕又問曰：「吳主頗知學乎？」咨曰：「吳主浮江萬艘，帶甲百萬，任賢使能，志存經略；少有餘閒，博覽書傳，歷觀史籍，採其大旨：不效書生尋章摘句而已。」丕曰：「朕欲伐吳，可乎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I do not wish to overstate,” replied Chao Tzu, “but my master has shown various qualities at different times. He made use of Lu Su at all times, which shows he is intelligent. He chose Lü Mêng as leader of an army, which showed his clear-sightedness. He captured Yü Chin but did not hurt him, which shows his kindliness. He took Chingchou without slaughter, which shows his wisdom. He maintains the three Chiangs so as to command the respect of the world, which shows his boldness. Lastly, he bows before Your Majesty, which shows his perspicacity. You see now that my epithets are justifiable.”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-082-line-013",
+        "order": 13,
+        "source_block_chunk": 4,
+        "source_block_order": 4,
+        "text": "」咨曰：「大國有征伐之兵，小國有禦備之策。」丕曰：「吳畏魏乎？」咨曰：「帶甲百萬，江漢為池，何畏之有？」丕曰：「東吳如大夫者幾人？」咨曰：「聰明特達者八九十人；如臣之輩，車載斗量，不可勝數。」丕歎曰：「『使於四方，不辱君命』，卿可以當之矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Is he at all learned?” “Sire, remember he commands a large fleet and a huge army. He endeavours to find wise and capable men to help him, and his mind is full of plans and projects. When he has a little leisure he reads the histories and the annals, for the sake of the general lessons to be learned therefrom. He is no dryasdust pedant seeking remarkable passages and culling model sentences.” “Do you think I could overcome Wu?” “If a large state has military force to attack, a small one has also preparations for defence.”"
+          }
+        }
+      },
+      {
+        "character_count": 0,
+        "id": "chapter-082-line-014",
+        "order": 14,
+        "source_block_chunk": 5,
+        "source_block_order": 4,
+        "text": "」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Does Wu fear me?”"
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-082-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "於是即降詔，命太常卿邢貞，齎冊封孫權為吳王，加九錫。趙咨謝恩出城。大夫劉曄諫曰：「今孫權懼蜀兵之勢，故來請降。以臣愚見，蜀、吳交兵，乃天亡之也。今若遣上將提數萬之兵，渡江襲之，蜀攻其外，魏攻其內，吳國之亡，不出旬日。吳亡則蜀孤矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “How can you think so, considering our army and the defensive moat we have in the river?” “How many such persons as yourself does Wu possess?” “Nearly a hundred, intelligent and specially qualified ministers like your servant; of 'one cart' or 'one bushel' capacity there are too many to reckon up.” Ts‘ao P‘ei sighed, saying, “You would do credit to your mission wherever you were sent. That is the sort of man you are.” Thereupon he issued the mandate ordering the T‘ai-ch‘ang , Hsing Chên, to be his ambassador to Sun Ch'üan, bearing for him the title of “Prince of Wu” and the “Nine Gifts.”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-082-line-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "陛下何不早圖之？」丕曰：「孫權既已禮服朕，朕若攻之，是沮天下欲降者之心；不若納之為是。」劉曄又曰：「孫權雖有雄才，乃殘漢驃騎將軍南昌侯之職。官輕則勢微，尚有畏中原之心；若加以王位，則去陛下一階耳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But when the messenger had gone out of the city, Liu Yeh went to remonstrate, saying, “Sun Ch'üan has done this for fear of the armies of Shu. In my opinion, if Shu and Wu fight, heaven will make an end of him. If you will send an army across the river to attack, and Shu attack at the same time, Wu as a state will disappear. If Wu goes, then Shu will be left alone and can be dealt with when you will.”"
+          }
+        }
+      },
+      {
+        "character_count": 81,
+        "id": "chapter-082-line-017",
+        "order": 17,
+        "source_block_chunk": 3,
+        "source_block_order": 5,
+        "text": "今陛下信其詐降，崇其位號，以封殖之，是與虎添翼也。」丕曰：「不然。朕不助吳，亦不助蜀。待看吳、蜀交兵，若滅一國，止存一國，那時除之，有何難哉？朕意已決，卿勿復言。」遂命太常卿邢貞，同趙咨捧執冊錫，逕至東吳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“But I cannot attack him now that he has come over to my side. It would prevent anyone else from doing so. No; I will really accept his submission. It is the best course.\" Liu Yeh said, “After all, though talented, he is but P‘iao-chi Chiang-chün and a marquis of the decadent days of Han. His rank is low and his influence small, and he still fears the central government. If you promote him to princely rank he is only one step below yourself. While doubting the reality of his submission, you give him an exalted rank and increase his influence. Surely this is only giving wings to a tiger.”"
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-082-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "卻說孫權聚集百官，商議禦蜀之策，忽報魏帝封主公為王，禮當遠接。顧雍諫曰：「主公宜自稱上將軍九州伯之位，不當受魏帝封爵。」權曰：「當日沛公受項羽之封，蓋因時也；何故卻之？」遂率百官出城迎接。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Not at all; I am helping neither Wu nor Shu. I am waiting till they are at grips, and if one goes under there will be only one left to destroy. That will be easy. However, say no more, for I have decided.” Whereupon Hsing Chên was bidden to take the mandate with the “Gifts” and accompany Chao Tzu to Wu. Sun Ch'üan assembled his officers to discuss how the armies of Shu could be driven off. Then came the news of princely rank conferred by Wei, and by the rules of courtesy the messenger bearing the edict should be met at a great distance from the capital. Ku Yung was opposed to accepting the rank."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-082-line-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "邢貞自恃上國天使，入門不下車，張昭大怒，厲聲曰：「禮無不敬，法無不肅，而君敢自尊大，豈以江南無方寸之刃耶？」邢貞慌忙下車，與孫權相見，並車入城。忽車後一人放聲哭曰：「吾等不能奮身捨命，為主併魏吞蜀，乃令主公受人封爵，不亦辱乎！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My lord, you should style yourself 'Superior Chiang-chün' and earl of this country; you should not receive any rank from Wei.” “But on one occasion Duke P‘ei received rank from Hsiang Yü; it depends upon the times. Why refuse?” He discussed the matter no more, but went out at the head of a great gathering of officers to welcome the messenger. ​ Hsing Chên, the bearer of the mandate from Wei, on first arrival comported himself haughtily as the representative of a superior country and an imperial ambassador. And when he entered the city he did not descend from his carriage. Wherefore Chang Chao ventured to rebuke him."
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-082-line-020",
+        "order": 20,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "」眾視之，乃徐盛也。邢貞聞之。嘆曰：「江東將相如此，終非久在人下者也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Everyone must obey the rules of courtesy as everyone must respect the laws. You, Sir, are behaving proudly as if there was no such thing as a sword in the country.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-082-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "卻說孫權受了封爵，眾文武官僚，拜賀已畢，命收拾美玉明珠等物，遣人齎進謝恩。早有細作報說：「蜀主引本國大兵，及蠻王沙摩柯番兵數萬，又有洞溪漢將杜路、劉寧二枝兵，水陸並進，聲勢震天。水路軍已出巫口，旱路軍已到秭歸。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Immediately the messenger descended from his chariot and was presented to Sun Ch'üan. Afterwards they went in side by side. As the cavalcade proceeded, a loud voice was heard in the rear of the two carriages, crying, “Here we are prevented from risking our lives in smashing Wei and swallowing Shu; and our lord receives a title from another man. Are not such things shameful?” The man was Hsü Shêng. And the messenger sighed, saying, “If all the leaders and ministers of Chiangtung are like this, the lord of the country will not long be content to obey another.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-082-line-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "」時孫權雖登王位，奈魏主不肯接應，乃問文武曰：「蜀兵勢大，當復如何？」眾皆默然。權嘆曰：「周郎之後有魯肅；魯肅之後有呂蒙；今呂蒙已死，無人與孤分憂也！」言未畢，忽班部中一少年將，奮然而出，伏地奏曰：「臣雖年幼，頗習兵書。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "However, the title was accepted. And when he had received the felicitations of his officers, Sun gave orders to collect beautiful works in jade and brilliant pearls, which were sent as return gifts. Not long after came tidings of the forces under the ruler of Shu. He led his own army and a large number of barbarians from the east and south, Mankuo and Samoko, and the Han Dynasty generals of Tunghsi. Tulu and Liu Ning, with their cohorts. They advanced both by land and by water, a mighty host, of which the shouting shook the heavens. The naval force had already come out at Wuk‘ou and the land force had reached Tzŭkuei."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-082-line-023",
+        "order": 23,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "願乞數萬之兵，已破蜀兵。」權視之，乃孫桓也。桓字叔武，其父名河，本姓俞氏，孫策愛之，賜姓孫；因此亦係吳王宗族。河生四子。桓居其長，弓馬熟嫻，常從吳王征討，累立奇功，官授武衛都尉；時年二十五歲。權曰：「汝有何策勝之？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Although Sun Ch'üan had been created a prince, yet the King of Wei would not help him. And when the news came he asked present advice from his officers, but there was none to help him; they only muttered and were silent. “Ah!” sighed he. “After Chou Yü I had Lu Su, and Lü Mêng succeeded him. But now they have all three gone and there’s no one to share my troubles!” But just then a very youthful captain stepped out from the ranks of the officials and said, with a lowly obeisance, “Though I am young I am not a little versed in the books of war, and with a few legions I could destroy the power of Shu.”"
+          }
+        }
+      },
+      {
+        "character_count": 69,
+        "id": "chapter-082-line-024",
+        "order": 24,
+        "source_block_chunk": 4,
+        "source_block_order": 7,
+        "text": "」桓曰：「臣有大將二員，一名李異，一名謝旌，俱有萬夫不當之勇。乞數萬之眾，往擒劉備。」權曰：「姪雖英勇，爭奈年幼；必得一人相助，方可。」虎威將軍朱然出曰：「臣願與小將軍同擒劉備。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Ch'üan recognised Sun Huan, the son of Yü Ho. Sun Ch'üan loved the youth and gave him his own family name of Sun and so made him a member of his own clan. Yü Ho had four sons, of whom Sun Huan was the eldest. He was an expert archer and horseman and had accompanied his protector ​ in several campaigns, where he had distinguished himself right well and had been given a rank. At this time he was twenty-five. “How do you think you can overcome them?”"
+          }
+        }
+      },
+      {
+        "character_count": 64,
+        "id": "chapter-082-line-025",
+        "order": 25,
+        "source_block_chunk": 5,
+        "source_block_order": 7,
+        "text": "」權許之，遂點水陸軍五萬，封孫桓為左都督，朱然為右都督，即日起兵。哨馬探得蜀兵已至宜都下寨，孫桓引二萬五千軍馬，屯於宜都界口，前後分作三營，以拒蜀兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“There are two able captains under my command named Li I and Hsieh Ching, both very brave. With a few legions I will capture Liu Pei.” “Though you are brave, nephew, yet you are young and ought to have an assistant.” Thereupon the Hu-wei Chiang-chün , Chu Jan, stepped forward with, “Let me go.” Sun Ch'üan consented, and he told off five legions of soldiers and marines, over whom he placed Sun Huan and Chu Jan as joint commanders. They were to start as soon as possible."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-082-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "卻說蜀將吳班領先鋒之印，自出川以來，所到之處，望風而降；兵不血刃，直到宜都；探知孫桓在彼下寨，飛奏先主。時先主已到秭歸，聞奏怒曰：「量此小兒，安敢與朕抗耶！」關興奏曰：「既孫權令此子為將，不勞陛下遣大將，臣願往擒之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The scouts reported that the army of Shu was camped at Itu, and Sun Huan led half his men to the borders of that district and camped. Now Wu Pan had received his seal as leader of the van. From the day he left the borders of Shuch‘uan he had had uninterrupted success. Everyone had submitted at the mere rumour of his coming. He had conducted his campaign with unstained swords as far as Itu. When he heard that Sun Huan was camped there to oppose his progress he sent back rapid messengers to the First Ruler, who was then at Tzŭkuei. He was angry that so young a captain should be sent against him."
+          }
+        }
+      },
+      {
+        "character_count": 53,
+        "id": "chapter-082-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "」先主曰：「朕正欲觀汝壯氣。」即命關興前往。興拜辭欲行，張苞出曰：「既關興前去討賊，臣願同行。」先主曰：「二姪同去甚妙；但須謹慎，不可造次。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Do they think this youth able to withstand me?” “Since this son of his has been made a leader,” said Kuan Hsing, “it is unnecessary to send a leader of high rank; let me go.” “I was just wishing to see what you could do.” said the First Ruler, and he gave him orders to go. Just as he was leaving, Chang Pao stepped forth and asked permission to go too."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-082-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "二人拜辭先主，會合先鋒，一同進兵，列成陣勢。孫桓聽知蜀兵大至，合寨多起。兩陣對圓，孫桓領李異、謝旌立馬於門旗之下，見蜀營中，擁出二員大將，皆銀盔銀鎧，白馬白旗；上首張苞挺丈八點鋼矛，下首關興橫著大砍刀。苞大罵曰：「孫桓豎子！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Then both go, my nephews,” said the king. “But you must be prudent and not hasty.” So they took leave, collected their men and advanced. Sun Huan, hearing of the coming of a large army, called out all his men and drew up his array. His two famous captains were placed by the great standard. They watched the men of Shu filing out and noted two leaders in silver helmets and silver mail, riding on white horses. And the flags were white. First came Chang Pao with a long spear, and then Kuan Hsing carrying a great sword."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-082-line-029",
+        "order": 29,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "死在臨時，尚敢抗拒天兵乎！」桓亦罵曰：「汝父已作無頭之鬼，今汝又來討死，好生不智！」張苞大怒，挺槍直取孫桓。桓背後謝旌，驟馬來迎。兩將戰三十餘合，旌敗走，苞乘勝趕來。李異見謝旌敗了，慌忙拍馬掄蘸金斧接戰。張苞與戰二十餘合，不分勝負。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Sun Huan, you stupid, your time has come,” cried Chang Pao abusively. “How dare you stand against the forces of the Emperor?” “Your father is a headless devil,” cried Sun Huan, no way backward in reviling, “and you are going just now to join him; don‘t you see?” ​ Then Chang Pao rode at Sun Huan. From behind his chief, Hsieh Ching dashed out to meet him. They fought nearly two score bouts, and then Hsieh Ching ran away with Chang Pao in pursuit. When Li I saw his comrade overcome he whipped up his steed and came into the fray, whirling his silvered battle-axe. Chang Pao fought a score of bouts with him, but neither got the better."
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-082-line-030",
+        "order": 30,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "吳軍中裨將譚雄，見張苞英勇，李異不能勝，卻放一冷箭，正射中張苞所騎之馬。那馬負痛奔回本陣，未到門旗邊，撲地便倒，將張苞掀在地上。李異急向前掄起大斧，望張苞腦袋便砍。忽一道紅光閃處，李異頭早落地。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then a certain minor captain named T‘an Hsiung, seeing that his two comrades could not overcome Chang Pao, shot a treacherous arrow from the ranks and wounded Chang Pao’s steed. Feeling the pang of the wound, the horse bolted back to his own side, but fell before he reached it, throwing his rider sprawling on the ground. Seeing this, Li I turned and rode toward the prostrate leader to slay him with his battleaxe. But just as he was about to deliver his blow, lo! a red flash came between, and his head rolled along the earth."
+          }
+        }
+      },
+      {
+        "character_count": 52,
+        "id": "chapter-082-line-031",
+        "order": 31,
+        "source_block_chunk": 4,
+        "source_block_order": 9,
+        "text": "原來關興見張苞馬回，正待接應，忽見張苞馬倒，李異趕來；興大喝一聲，劈李異於馬下，救了張苞，乘勢掩殺。孫桓大敗。各自鳴金收軍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The red flash was Kuan Hsing’s great sword. Seeing the horse fall and Li I coming up, he had rushed in and dealt that fatal blow. And he had saved Chang Pao from death. Then they attacked and lay on so that Sun Huan suffered a great defeat. Then each side beat the retreat and drew off."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-082-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "次日，孫桓又引軍來。張苞、關興齊出。關興立馬於陣前，單搦孫桓交鋒。桓大怒，拍馬揮刀，與關興戰三十餘合，氣力不加，大敗回陣。二小將追殺入營，吳班引著張南、馮習驅兵掩殺。張苞奮勇當先，殺入吳軍，正遇謝旌，被苞一矛刺死。吳軍四散奔走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Next day Sun Huan came out to offer battle again, and the two cousins went forth together. Kuan Hsing, from horseback by the main standard, challenged his enemy. Sun Huan rode out fiercely, and they two fought near two score bouts. But he was not strong enough and drew off. The two youths followed and reached his camp. Wu Pan and two others fought well. Chang Pao helped them with all his force and was the first to force his way into the ranks of Wu. He came across Hsieh Ching, whom he slew with a spear thrust. The men of Wu scattered and fled, and the victory was on the side of Shu."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-082-line-033",
+        "order": 33,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "蜀將得勝收兵，只不見了關興。張苞大驚曰：「安國有失，吾不獨生！」言訖，綽鎗上馬。尋不數里，只見關興左手提刀，右手活挾一將。苞問曰：「此是何人？」興笑答曰：「吾在亂軍中，正遇讎人，故生擒來。」苞視之，乃昨日放冷箭的譚雄也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Kuan Hsing was missing. Chang Pao was desperate, saying he would not survive his cousin. So he girded on his huge spear and rode far and wide seeking him. Presently he met Kuan Hsing, bearing his sword in his left hand, while his right held a captive. “Who is this?” asked Chang Pao."
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-082-line-034",
+        "order": 34,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "苞大喜，同回本營，斬首瀝血，祭了死馬，逐寫表差人先主處報捷。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“In the mêlée I met an enemy,” cried Kuan Hsing, “and I took him prisoner.”"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-082-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "孫桓折了李異、謝旌、譚雄等許多將士，力窮勢孤，不能抵敵，及差人回吳求救。蜀將張南、馮習謂吳班曰：「目今吳兵勢敗，正好乘虛劫寨。」班曰：「孫桓雖然折了許多將士，朱然水軍，見今結營江上，未曾損折。今日若去劫寨，倘水軍上岸，斷我歸路，如之奈何？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then Chang Pao recognised the man who had let fly the treacherous arrow that had brought down his horse. The two returned to camp, where they slew their prisoner and poured a libation of his blood to the dead horse. After this they drew up a report of the victory for the First Ruler. Sun Huan had lost his two famous captains as well as many other officers and many men. His army was too weakened to continue the campaign, so he halted and sent back to Wu for reinforcements. ​ Then Chang Nan and Fêng Hsi said to Wu Pan, “The power of Wu is broken; let us raid their encampment.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-082-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "」南曰：「此事至易。可教關、張二將軍，各引五千軍伏於山谷中；如朱然來救，左右兩軍齊出夾攻，必然取勝。」班曰：「不如先使小卒，詐作降兵，卻將劫寨事告知朱然；然見火起，必來救應，卻令伏兵擊之，則大事濟矣。」馮習等大喜，遂依計而行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Wu Pan said, “Though so many have been lost, there are many left. Chu Jan’s marine force is in a strong position on the river and is untouched. If you carry out your plan and the marines land in force and cut off our retreat we shall be in difficulties.” “That is easily met,” said Chang Nan. “Let each of the two leaders Kuan and Chang take five companies and go into ambush in the valleys to guard against any such move.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-082-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "卻說朱然聽知孫桓損兵折將，正欲來救，忽伏路軍引幾個小卒上船投降。然問之，小卒曰：「我等是馮習帳下士卒，因賞罰不明，特來投降，就報機密。」然曰：「所報何事？」小卒曰：「今晚馮習乘虛要劫孫將軍營寨，約定舉火為號。」朱然聽畢，即使人報知孫桓。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I think it better to send some persons to pretend to be deserters. Let them tell Chu Jan of the plan to raid the camp, and Chu Jan will come to the rescue as soon as he sees fire. Then the ambushed men can attack him.” They thought this a fine plan, and they made the necessary arrangements. Hearing of the ill success and losses of his colleague, Chu Jan was already thinking of going to his help, when a few deserters appeared and boarded his ship and boarded his ship. He questioned them, and they said they were Fêng Hsi’s men, who had deserted because of unfair treatment. They had a secret to tell."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-082-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "報事人行至半途，被關興殺了。朱然一面商議，欲引兵去救應孫桓。部將崔禹曰：「小卒之言，未可深信，倘有疏虞，水陸二軍，盡皆休矣。將軍只宜穩守水寨，某願替將軍一行。」然從之，遂令崔禹引一萬軍前去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“What secret can you betray?” “To-night Fêng is going to make an attack upon General Sun’s camp; he thinks it is a good chance. They are going to raise a fire as a signal.” Chu Jan saw no reason to doubt the men, and he sent off at once to tell Sun Huan. But the messenger never arrived, as Kuan Hsing intercepted and slew him. Then he deliberated upon going to help."
+          }
+        }
+      },
+      {
+        "character_count": 31,
+        "id": "chapter-082-line-039",
+        "order": 39,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "是夜馮習、張南、吳班分兵三路，直殺入孫桓寨中，四面火起。吳兵大亂，尋路奔走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You cannot trust what those soldiers said,” said Ts‘ui Yü, one of the captains. “Both army and navy will be lost if anything goes agley. No, General; rather keep careful watch and let me go.”"
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-082-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "且說崔禹正行之間，忽見火起，急催兵前進。剛纔轉過山來，忽山谷鼓聲大震；左邊關興，右邊張苞，兩路夾攻。崔禹大驚，方欲奔走，正遇張苞；交馬只一合，被苞生擒而回。朱然聽知危急，將船往下水退五六十里去了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chu Jan saw this was the wiser plan, so he gave Ts‘ui a legion and he left. But that night an attack was made on Sun Huan’s camp, and the men were scattered and fled. Ts‘ui Yü saw the flames as he marched and pressed on. Then just as he was passing some hills he came upon the ambush, and the two cousins appeared, one on either side. Taken by surprise, Ts‘ui could only try to flee, but he met Chang Pao, who made him prisoner. When Chu Jan heard it he was panic-stricken and dropped down-river some distance."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-082-line-041",
+        "order": 41,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "孫桓引敗軍逃走，問部將曰：「前去何處城堅糧廣？」部將曰：「此去正北彝陵城，可以屯兵。」桓引敗軍急望彝陵而走。方進得城，吳班等追至，將城四面圍定。關興、張苞等解崔禹到秭歸來。先主大喜，就將崔禹斬卻，大賞三軍。自此威風震動，江南諸將，無不膽寒。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The remnant of Sun Huan’s men ran away. As they went he enquired what places lay on their road. They told him that if he went north he would come to Illing, where they could camp. So they went thither. Just as they reached the wall, their pursuers came up and the city was besieged. Kuan Hsing and Chang Pao went back ​ to Tzŭkuei and saw the First Ruler, who rejoiced at their success. The prisoner was put to death, and the soldiers were rewarded. The effect of these victories spread far, so that the captains in Wu had no inclination to fight."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-082-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "卻說孫桓令人求救於吳王，吳王大驚，即召文武商議曰：「今孫桓受困於彝陵，朱然大敗於江中，蜀兵勢大，如之奈何？」張昭奏曰：「今諸將雖多物故，然尚有十餘人，何慮於劉備？可命韓當為正將，周泰為副將，潘璋為先鋒，凌統為合後，甘寧為救應，起兵十萬拒之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the Prince of Wu received Sun Huan’s call for help he was frightened and knew not what to do. So he called a great council, and he said, “Sun Huan is besieged in Illing and Chu Jan has been defeated on the river; what can be done?” Then Chang Chao said, “Though several of your captains are dead, yet have you some left. Half a score is enough to relieve your anxiety. Send Han Tang, with Chou T‘ai as his second, P‘an Chang as van-leader, Ling T‘ung as rear-guard; Kan Ning in reserve. You want ten legions.”"
+          }
+        }
+      },
+      {
+        "character_count": 22,
+        "id": "chapter-082-line-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "」權依所奏，即命諸將速行。此時甘寧正患痢疾，帶病從征。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Ch'üan made the appointments as proposed. Kan Ning was very seriously ill just then, but he accepted the task."
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-082-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "卻說先主從巫峽建平起，直接彝陵界分，七十餘里，連結四十餘寨；見關興、張苞屢立大功，歎曰：「昔日從朕諸將，皆老邁無用矣；復有二姪如此英雄，朕何慮孫權乎！」正言間，忽報韓當、周泰領兵到來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now the First Ruler had made a line of forty camps from Wuhsia and Chien-p‘ing to Iling, at distances of seventy li apart. He was exceedingly pleased with his two nephews, who had distinguished themselves again and again, and thought how fortunate it was that they could help him at the time his old captains were failing. When he heard of the coming of Sun Ch'üan’s army under newly appointed leaders, he wished to select a captain to oppose the Wu army. Then those near him told him that Huang Chung and a half dozen other officers had run off to Wu."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-082-line-045",
+        "order": 45,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "先主方欲遣將迎敵，近臣奏曰：「老將黃忠，引五六人投東吳去了。」先主笑曰：「黃漢升非反叛之人也；因朕失口誤言老者無用，彼必不服老，故奮力去相持矣。」即召關興、張苞曰：「黃漢升此去必然有失。賢姪休辭勞苦，可去相助。略有微功。便可令回，勿使有失。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Huang is no traitor,” said the ruler, smiling; “it is only that he heard what I happened to say about old and useless leaders. He will not confess he is old and wants to prove he is not.” Then he called his two nephews and said to them, “Huang Chung may fail in this enterprise of his, so I hope you two will not mind going to his assistance. As soon as there is some success to report get him to return and do not let him come to grief.”"
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-082-line-046",
+        "order": 46,
+        "source_block_chunk": 3,
+        "source_block_order": 15,
+        "text": "」二小將拜辭先生，引本部軍來助黃忠。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So the two got their men together and went off to assist the aged warrior."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-082-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "老臣素矢忠君志，年少能成報國功。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When young, success is easy, thine at will, The aged servant fails, though willing still."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-082-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "未知黃忠此去如何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The next chapter will relate the outcome of Huang Chung’s expedition."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說章武元年秋八月，先主起大軍至夔關，駕屯白帝城。前隊軍馬已至川口。近臣奉曰：「吳使諸葛瑾至。」先主傳旨教休放入。黃權奏曰：「謹弟在蜀為相，必有事而來，陛下何故絕之？當召入，看他言語。可從則從；如不可，則就借彼口說與孫權，令知問罪有名也。」先主從之，召謹入城。謹拜伏於地。先主問曰：「子瑜遠來，有何事故？」謹曰：「臣弟久事陛下，臣故不避斧鉞，特來奏荊州之事。前者，關公在荊州時，吳侯數次求親，關公不允。後關公取襄陽，曹操屢次致書吳侯，使襲荊州；吳侯本不肯許，因呂蒙與關公不睦，故擅自興兵，誤成大事。今吳侯悔之不及。此乃呂蒙之罪，非吳侯之過也。今呂蒙已死，冤讎已息。孫夫人一向思歸。今吳侯令臣為使，願送歸夫人，縛還降將，並將荊州仍舊交還，永結盟好，共滅曹丕，以正篡逆之罪。」\n先主怒曰：「汝東吳害了朕弟，今日敢以巧言來說乎！」瑾曰：「臣請以輕重大小之事，與陛下論之。陛下乃漢朝皇叔，今漢帝已被曹丕篡奪，不思剿除，卻為異姓之親，而屈萬乘之尊，是舍大義而就小義也。中原乃海內之地，兩都皆大漢創業之方，陛下不取，而但爭荊州，是棄重而取輕也。天下皆知陛下即位，必興漢室，恢復山河；今陛下置魏不問，反欲伐吳，竊為陛下不取。」先主大怒曰：「殺吾弟之讎，不共戴天！欲朕罷兵，除死方休！不看丞相之面，先斬汝首！今且放汝回去，說與孫權，洗頸就戮！」諸葛瑾見先主不聽，只得自回江南。\n卻說張昭見孫權曰：「諸葛子瑜知蜀兵勢大，故假以請使為辭，欲背吳入蜀。此去必不回矣。」權曰：「孤與子瑜，有生死不易之盟。孤不負子瑜，子瑜亦不負孤。昔子瑜在柴桑時，孔明來吳，孤欲使子瑜留之。子瑜曰：『弟已事玄德，義無二心；弟之不留，猶瑾之不往。』其言足貫神明。今日豈肯降蜀乎？孤與子瑜可謂神交，非外言所得間也。」正言間，忽報諸葛瑾回。權曰：「孤言若何？」張昭滿面羞慚而退。瑾見孫權，言先主不肯通和之意。權大驚曰：「若如此，則江南危矣！」階下一人進曰：「某有一計，可解此危。」視之，乃中大夫趙咨也。權曰：「德度有何良策？」咨曰：「主公可作一表，某願為使，往見魏帝曹丕陳說利害，使襲漢中，則蜀兵自危矣。」權曰：「此計最善。但卿此去，休失了東吳氣象。」咨曰：「若有些小差失，即投江而死。安有面目見江南人物乎？」\n權大喜，即寫表稱臣，令趙咨為使。星夜到了許都，先見太尉賈詡等，並大小官僚。次日早朝，賈詡出班奏曰：「東吳遣中大夫趙咨上表。」曹丕笑曰：「此欲退蜀兵故也。」即令召入。咨拜伏於丹墀。丕覽表畢，遂問咨曰：「吳侯乃何如主也？」咨曰：「聰明仁智雄略之主也。」丕笑曰：「卿褒獎毋乃太甚？」咨曰：「臣非過譽也。吳侯納魯肅於凡品，是其聰也；拔呂蒙於行陣，是其明也；獲于禁而不害，是其仁也；取荊州兵不血刃，是其智也；據三江虎視天下，是其雄也；屈身於陛下，是其略也。以此論之，豈不為聰明仁智雄略之主乎？」丕又問曰：「吳主頗知學乎？」咨曰：「吳主浮江萬艘，帶甲百萬，任賢使能，志存經略；少有餘閒，博覽書傳，歷觀史籍，採其大旨：不效書生尋章摘句而已。」丕曰：「朕欲伐吳，可乎？」咨曰：「大國有征伐之兵，小國有禦備之策。」丕曰：「吳畏魏乎？」咨曰：「帶甲百萬，江漢為池，何畏之有？」丕曰：「東吳如大夫者幾人？」咨曰：「聰明特達者八九十人；如臣之輩，車載斗量，不可勝數。」丕歎曰：「『使於四方，不辱君命』，卿可以當之矣。」\n於是即降詔，命太常卿邢貞，齎冊封孫權為吳王，加九錫。趙咨謝恩出城。大夫劉曄諫曰：「今孫權懼蜀兵之勢，故來請降。以臣愚見，蜀、吳交兵，乃天亡之也。今若遣上將提數萬之兵，渡江襲之，蜀攻其外，魏攻其內，吳國之亡，不出旬日。吳亡則蜀孤矣。陛下何不早圖之？」丕曰：「孫權既已禮服朕，朕若攻之，是沮天下欲降者之心；不若納之為是。」劉曄又曰：「孫權雖有雄才，乃殘漢驃騎將軍南昌侯之職。官輕則勢微，尚有畏中原之心；若加以王位，則去陛下一階耳。今陛下信其詐降，崇其位號，以封殖之，是與虎添翼也。」丕曰：「不然。朕不助吳，亦不助蜀。待看吳、蜀交兵，若滅一國，止存一國，那時除之，有何難哉？朕意已決，卿勿復言。」遂命太常卿邢貞，同趙咨捧執冊錫，逕至東吳。\n卻說孫權聚集百官，商議禦蜀之策，忽報魏帝封主公為王，禮當遠接。顧雍諫曰：「主公宜自稱上將軍九州伯之位，不當受魏帝封爵。」權曰：「當日沛公受項羽之封，蓋因時也；何故卻之？」遂率百官出城迎接。邢貞自恃上國天使，入門不下車，張昭大怒，厲聲曰：「禮無不敬，法無不肅，而君敢自尊大，豈以江南無方寸之刃耶？」邢貞慌忙下車，與孫權相見，並車入城。忽車後一人放聲哭曰：「吾等不能奮身捨命，為主併魏吞蜀，乃令主公受人封爵，不亦辱乎！」眾視之，乃徐盛也。邢貞聞之。嘆曰：「江東將相如此，終非久在人下者也！」\n卻說孫權受了封爵，眾文武官僚，拜賀已畢，命收拾美玉明珠等物，遣人齎進謝恩。早有細作報說：「蜀主引本國大兵，及蠻王沙摩柯番兵數萬，又有洞溪漢將杜路、劉寧二枝兵，水陸並進，聲勢震天。水路軍已出巫口，旱路軍已到秭歸。」時孫權雖登王位，奈魏主不肯接應，乃問文武曰：「蜀兵勢大，當復如何？」眾皆默然。權嘆曰：「周郎之後有魯肅；魯肅之後有呂蒙；今呂蒙已死，無人與孤分憂也！」言未畢，忽班部中一少年將，奮然而出，伏地奏曰：「臣雖年幼，頗習兵書。願乞數萬之兵，已破蜀兵。」權視之，乃孫桓也。桓字叔武，其父名河，本姓俞氏，孫策愛之，賜姓孫；因此亦係吳王宗族。河生四子。桓居其長，弓馬熟嫻，常從吳王征討，累立奇功，官授武衛都尉；時年二十五歲。權曰：「汝有何策勝之？」桓曰：「臣有大將二員，一名李異，一名謝旌，俱有萬夫不當之勇。乞數萬之眾，往擒劉備。」權曰：「姪雖英勇，爭奈年幼；必得一人相助，方可。」虎威將軍朱然出曰：「臣願與小將軍同擒劉備。」權許之，遂點水陸軍五萬，封孫桓為左都督，朱然為右都督，即日起兵。哨馬探得蜀兵已至宜都下寨，孫桓引二萬五千軍馬，屯於宜都界口，前後分作三營，以拒蜀兵。\n卻說蜀將吳班領先鋒之印，自出川以來，所到之處，望風而降；兵不血刃，直到宜都；探知孫桓在彼下寨，飛奏先主。時先主已到秭歸，聞奏怒曰：「量此小兒，安敢與朕抗耶！」關興奏曰：「既孫權令此子為將，不勞陛下遣大將，臣願往擒之。」先主曰：「朕正欲觀汝壯氣。」即命關興前往。興拜辭欲行，張苞出曰：「既關興前去討賊，臣願同行。」先主曰：「二姪同去甚妙；但須謹慎，不可造次。」\n二人拜辭先主，會合先鋒，一同進兵，列成陣勢。孫桓聽知蜀兵大至，合寨多起。兩陣對圓，孫桓領李異、謝旌立馬於門旗之下，見蜀營中，擁出二員大將，皆銀盔銀鎧，白馬白旗；上首張苞挺丈八點鋼矛，下首關興橫著大砍刀。苞大罵曰：「孫桓豎子！死在臨時，尚敢抗拒天兵乎！」桓亦罵曰：「汝父已作無頭之鬼，今汝又來討死，好生不智！」張苞大怒，挺槍直取孫桓。桓背後謝旌，驟馬來迎。兩將戰三十餘合，旌敗走，苞乘勝趕來。李異見謝旌敗了，慌忙拍馬掄蘸金斧接戰。張苞與戰二十餘合，不分勝負。吳軍中裨將譚雄，見張苞英勇，李異不能勝，卻放一冷箭，正射中張苞所騎之馬。那馬負痛奔回本陣，未到門旗邊，撲地便倒，將張苞掀在地上。李異急向前掄起大斧，望張苞腦袋便砍。忽一道紅光閃處，李異頭早落地。原來關興見張苞馬回，正待接應，忽見張苞馬倒，李異趕來；興大喝一聲，劈李異於馬下，救了張苞，乘勢掩殺。孫桓大敗。各自鳴金收軍。\n次日，孫桓又引軍來。張苞、關興齊出。關興立馬於陣前，單搦孫桓交鋒。桓大怒，拍馬揮刀，與關興戰三十餘合，氣力不加，大敗回陣。二小將追殺入營，吳班引著張南、馮習驅兵掩殺。張苞奮勇當先，殺入吳軍，正遇謝旌，被苞一矛刺死。吳軍四散奔走。蜀將得勝收兵，只不見了關興。張苞大驚曰：「安國有失，吾不獨生！」言訖，綽鎗上馬。尋不數里，只見關興左手提刀，右手活挾一將。苞問曰：「此是何人？」興笑答曰：「吾在亂軍中，正遇讎人，故生擒來。」苞視之，乃昨日放冷箭的譚雄也。苞大喜，同回本營，斬首瀝血，祭了死馬，逐寫表差人先主處報捷。\n孫桓折了李異、謝旌、譚雄等許多將士，力窮勢孤，不能抵敵，及差人回吳求救。蜀將張南、馮習謂吳班曰：「目今吳兵勢敗，正好乘虛劫寨。」班曰：「孫桓雖然折了許多將士，朱然水軍，見今結營江上，未曾損折。今日若去劫寨，倘水軍上岸，斷我歸路，如之奈何？」南曰：「此事至易。可教關、張二將軍，各引五千軍伏於山谷中；如朱然來救，左右兩軍齊出夾攻，必然取勝。」班曰：「不如先使小卒，詐作降兵，卻將劫寨事告知朱然；然見火起，必來救應，卻令伏兵擊之，則大事濟矣。」馮習等大喜，遂依計而行。\n卻說朱然聽知孫桓損兵折將，正欲來救，忽伏路軍引幾個小卒上船投降。然問之，小卒曰：「我等是馮習帳下士卒，因賞罰不明，特來投降，就報機密。」然曰：「所報何事？」小卒曰：「今晚馮習乘虛要劫孫將軍營寨，約定舉火為號。」朱然聽畢，即使人報知孫桓。報事人行至半途，被關興殺了。朱然一面商議，欲引兵去救應孫桓。部將崔禹曰：「小卒之言，未可深信，倘有疏虞，水陸二軍，盡皆休矣。將軍只宜穩守水寨，某願替將軍一行。」然從之，遂令崔禹引一萬軍前去。是夜馮習、張南、吳班分兵三路，直殺入孫桓寨中，四面火起。吳兵大亂，尋路奔走。\n且說崔禹正行之間，忽見火起，急催兵前進。剛纔轉過山來，忽山谷鼓聲大震；左邊關興，右邊張苞，兩路夾攻。崔禹大驚，方欲奔走，正遇張苞；交馬只一合，被苞生擒而回。朱然聽知危急，將船往下水退五六十里去了。孫桓引敗軍逃走，問部將曰：「前去何處城堅糧廣？」部將曰：「此去正北彝陵城，可以屯兵。」桓引敗軍急望彝陵而走。方進得城，吳班等追至，將城四面圍定。關興、張苞等解崔禹到秭歸來。先主大喜，就將崔禹斬卻，大賞三軍。自此威風震動，江南諸將，無不膽寒。\n卻說孫桓令人求救於吳王，吳王大驚，即召文武商議曰：「今孫桓受困於彝陵，朱然大敗於江中，蜀兵勢大，如之奈何？」張昭奏曰：「今諸將雖多物故，然尚有十餘人，何慮於劉備？可命韓當為正將，周泰為副將，潘璋為先鋒，凌統為合後，甘寧為救應，起兵十萬拒之。」權依所奏，即命諸將速行。此時甘寧正患痢疾，帶病從征。\n卻說先主從巫峽建平起，直接彝陵界分，七十餘里，連結四十餘寨；見關興、張苞屢立大功，歎曰：「昔日從朕諸將，皆老邁無用矣；復有二姪如此英雄，朕何慮孫權乎！」正言間，忽報韓當、周泰領兵到來。先主方欲遣將迎敵，近臣奏曰：「老將黃忠，引五六人投東吳去了。」先主笑曰：「黃漢升非反叛之人也；因朕失口誤言老者無用，彼必不服老，故奮力去相持矣。」即召關興、張苞曰：「黃漢升此去必然有失。賢姪休辭勞苦，可去相助。略有微功。便可令回，勿使有失。」二小將拜辭先生，引本部軍來助黃忠。正是：\n老臣素矢忠君志，年少能成報國功。\n未知黃忠此去如何，且看下文分解。",
+    "title": "第八十二回 孫權降魏受九錫　　　先主征吳賞六軍"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-082.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

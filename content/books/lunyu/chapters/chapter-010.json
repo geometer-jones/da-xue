@@ -1,0 +1,1151 @@
+{
+  "chapter": {
+    "character_count": 641,
+    "id": "chapter-010",
+    "order": 10,
+    "reading_unit_count": 61,
+    "reading_units": [
+      {
+        "character_count": 14,
+        "id": "chapter-010-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "孔子於鄉黨，恂恂如也，似不能言者。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Confucius, in his village, looked simple and sincere, and as if he were not able to speak."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-010-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "其在宗廟朝廷，便便言，唯謹爾。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he was in the prince's ancestral temple, or in the court, he spoke minutely on every point, but cautiously."
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-010-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "朝，與下大夫言，侃侃如也；與上大夫言，誾誾如也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he was waiting at court, in speaking with the great officers of the lower grade, he spoke freely, but in a straightforward manner; in speaking with those of the higher grade, he did so blandly, but precisely."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-010-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "君在，踧踖如也。與與如也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the ruler was present, his manner displayed respectful uneasiness; it was grave, but self-possessed."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-010-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "君召使擯，色勃如也，足躩如也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the prince called him to employ him in the reception of a visitor, his countenance appeared to change, and his legs to move forward with difficulty."
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-010-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "揖所與立，左右手。衣前後，襜如也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He inclined himself to the other officers among whom he stood, moving his left or right arm, as their position required, but keeping the skirts of his robe before and behind evenly adjusted."
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-010-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "趨進，翼如也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He hastened forward, with his arms like the wings of a bird."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-010-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "賓退，必復命曰：「賓不顧矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the guest had retired, he would report to the prince, \"The visitor is not turning round any more.\""
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-010-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "入公門，鞠躬如也，如不容。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he entered the palace gate, he seemed to bend his body, as if it were not sufficient to admit him."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-010-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "立不中門，行不履閾。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he was standing, he did not occupy the middle of the gateway; when he passed in or out, he did not tread upon the threshold."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-010-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "過位，色勃如也，足躩如也，其言似不足者。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he was passing the vacant place of the prince, his countenance appeared to change, and his legs to bend under him, and his words came as if he hardly had breath to utter them."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-010-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "攝齊升堂，鞠躬如也，屏氣似不息者。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He ascended the reception hall, holding up his robe with both his hands, and his body bent; holding in his breath also, as if he dared not breathe."
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-010-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "出，降一等，逞顏色，怡怡如也。沒階趨，翼如也。復其位，踧踖如也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he came out from the audience, as soon as he had descended one step, he began to relax his countenance, and had a satisfied look. When he had got the bottom of the steps, he advanced rapidly to his place, with his arms like wings, and on occupying it, his manner still showed respectful uneasiness."
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-010-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "執圭，鞠躬如也，如不勝。上如揖，下如授。勃如戰色，足縮縮，如有循。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he was carrying the scepter of his ruler, he seemed to bend his body, as if he were not able to bear its weight."
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-010-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "享禮，有容色。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He did not hold it higher than the position of the hands in making a bow, nor lower than their position in giving anything to another."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-010-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "私覿，愉愉如也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His countenance seemed to change, and look apprehensive, and he dragged his feet along as if they were held by something to the ground. In presenting the presents with which he was charged, he wore a placid appearance. At his private audience, he looked highly pleased."
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-010-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "君子不以紺緅飾。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The superior man did not use a deep purple, or a puce color, in the ornaments of his dress."
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-010-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "紅紫不以為褻服。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Even in his undress, he did not wear anything of a red or reddish color."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-010-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "當暑，袗絺綌，必表而出之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In warm weather, he had a single garment either of coarse or fine texture, but he wore it displayed over an inner garment."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-010-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "緇衣羔裘，素衣麑裘，黃衣狐裘。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Over lamb's fur he wore a garment of black; over fawn's fur one of white; and over fox's fur one of yellow."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-010-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "褻裘長。短右袂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The fur robe of his undress was long, with the right sleeve short."
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-010-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "必有寢衣，長一身有半。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He required his sleeping dress to be half as long again as his body."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-010-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "狐貉之厚以居。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When staying at home, he used thick furs of the fox or the badger."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-010-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "去喪，無所不佩。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he put off mourning, he wore all the appendages of the girdle."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-010-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "非帷裳，必殺之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "His undergarment, except when it was required to be of the curtain shape, was made of silk cut narrow above and wide below."
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-010-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "羔裘玄冠不以弔。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He did not wear lamb's fur or a black cap on a visit of condolence."
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-010-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "吉月，必朝服而朝。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On the first day of the month he put on his court robes, and presented himself at court."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-010-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "齊，必有明衣，布。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When fasting, he thought it necessary to have his clothes brightly clean and made of linen cloth."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-010-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "齊，必變食，居必遷坐。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When fasting, he thought it necessary to change his food, and also to change the place where he commonly sat in the apartment."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-010-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "食不厭精，膾不厭細。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He did not dislike to have his rice finely cleaned, nor to have his mince meat cut quite small."
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-010-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "食饐而餲，魚餒而肉敗，不食。色惡，不食。臭惡，不食。失飪，不食。不時，不食。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He did not eat rice which had been injured by heat or damp and turned sour, nor fish or flesh which was gone."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-010-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "割不正，不食。不得其醬，不食。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He did not eat what was discolored, or what was of a bad flavor, nor anything which was ill-cooked, or was not in season."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-010-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "肉雖多，不使勝食氣。惟酒無量，不及亂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He did not eat meat which was not cut properly, nor what was served without its proper sauce."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-010-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "沽酒市脯不食。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Though there might be a large quantity of meat, he would not allow what he took to exceed the due proportion for the rice."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "不撤薑食。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It was only in wine that he laid down no limit for himself, but he did not allow himself to be confused by it."
+          }
+        }
+      },
+      {
+        "character_count": 3,
+        "id": "chapter-010-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "不多食。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He did not partake of wine and dried meat bought in the market."
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-010-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "祭於公，不宿肉。祭肉不出三日。出三日，不食之矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He was never without ginger when he ate."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-010-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "食不語，寢不言。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He did not eat much."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-010-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "雖疏食菜羹，瓜祭，必齊如也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he had been assisting at the prince's sacrifice, he did not keep the flesh which he received overnight. The flesh of his family sacrifice he did not keep over three days. If kept over three days, people could not eat it. When eating, he did not converse. When in bed, he did not speak. Although his food might be coarse rice and vegetable soup, he would offer a little of it in sacrifice with a grave, respectful air."
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-010-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "席不正，不坐。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If his mat was not straight, he did not sit on it."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-010-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "鄉人飲酒，杖者出，斯出矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the villagers were drinking together, upon those who carried staffs going out, he went out immediately after."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-010-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "鄉人儺，朝服而立於阼階。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the villagers were going through their ceremonies to drive away pestilential influences, he put on his court robes and stood on the eastern steps."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-010-line-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "問人於他邦，再拜而送之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he was sending complimentary inquiries to any one in another state, he bowed twice as he escorted the messenger away."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-010-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "康子饋藥，拜而受之。曰：「丘未達，不敢嘗。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ji Kang having sent him a present of physic, he bowed and received it, saying, \"I do not know it. I dare not taste it.\""
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-010-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 45,
+        "text": "廄焚。子退朝，曰：「傷人乎？」不問馬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The stable being burned down, when he was at court, on his return he said, \"Has any man been hurt?\" He did not ask about the horses."
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-010-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 46,
+        "text": "君賜食，必正席先嘗之；君賜腥，必熟而薦之；君賜生，必畜之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the prince sent him a gift of cooked meat, he would adjust his mat, first taste it, and then give it away to others."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-010-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 47,
+        "text": "侍食於君，君祭，先飯。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the prince sent him a gift of undressed meat, he would have it cooked, and offer it to the spirits of his ancestors."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-010-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 48,
+        "text": "疾，君視之，東首，加朝服，拖紳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When the prince sent him a gift of a living animal, he would keep it alive."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-010-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 49,
+        "text": "君命召，不俟駕行矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he was in attendance on the prince and joining in the entertainment, the prince only sacrificed. He first tasted everything. When he was ill and the prince came to visit him, he had his head to the east, made his court robes be spread over him, and drew his girdle across them. When the prince's order called him, without waiting for his carriage to be yoked, he went at once."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-010-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 50,
+        "text": "入太廟，每事問。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he entered the ancestral temple of the state, he asked about everything."
+          }
+        }
+      },
+      {
+        "character_count": 10,
+        "id": "chapter-010-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 51,
+        "text": "朋友死，無所歸。曰：「於我殯。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When any of his friends died, if he had no relations who could be depended on for the necessary offices, he would say, \"I will bury him.\" When a friend sent him a present, though it might be a carriage and horses, he did not bow."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-010-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 52,
+        "text": "朋友之饋，雖車馬，非祭肉，不拜。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The only present for which he bowed was that of the flesh of sacrifice."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-010-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 53,
+        "text": "寢不尸，居不容。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In bed, he did not lie like a corpse."
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-010-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 54,
+        "text": "見齊衰者，雖狎，必變。見冕者與瞽者，雖褻，必以貌。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At home, he did not put on any formal deportment."
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-010-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 55,
+        "text": "凶服者式之。式負版者。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he saw any one in a mourning dress, though it might be an acquaintance, he would change countenance; when he saw any one wearing the cap of full dress, or a blind person, though he might be in his undress, he would salute him in a ceremonious manner."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-010-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 56,
+        "text": "有盛饌，必變色而作。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To any person in mourning he bowed forward to the crossbar of his carriage; he bowed in the same way to any one bearing the tables of population."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-010-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 57,
+        "text": "迅雷風烈，必變。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he was at an entertainment where there was an abundance of provisions set before him, he would change countenance and rise up. On a sudden clap of thunder, or a violent wind, he would change countenance."
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-010-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 58,
+        "text": "升車，必正立執綏。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he was about to mount his carriage, he would stand straight, holding the cord."
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-010-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 59,
+        "text": "車中，不內顧，不疾言，不親指。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he was in the carriage, he did not turn his head quite round, he did not talk hastily, he did not point with his hands."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-010-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 60,
+        "text": "色斯舉矣，翔而後集。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Seeing the countenance, it instantly rises."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-010-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 61,
+        "text": "曰：「山梁雌雉，時哉！時哉！」子路共之，三嗅而作。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It flies round, and by and by settles. The Master said, \"There is the hen-pheasant on the hill bridge. At its season! At its season!\" Zi Lu made a motion to it. Thrice it smelled him and then rose. Source: Chinese Text Project http://ctext.org/analects , from \"The Chinese Classics, volume 1\", James Legge, 1861 </div> Dictionary cache status: not loaded Glossary and Other Vocabulary"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "楊氏曰：「聖人之所謂道者，不離乎日用之間也。故夫子之平日，一動一靜，門人皆審視而詳記之。」尹氏曰：「甚矣孔門諸子之嗜學也！於聖人之容色言動，無不謹書而備錄之，以貽後世。今讀其書，即其事，宛然如聖人之在目也。雖然，聖人豈拘拘而為之者哉？蓋盛德之至，動容周旋，自中乎禮耳。學者欲潛心於聖人，宜於此求焉。」舊說凡一章，今分為十七節。\n恂，相倫反。恂恂，信實之貌。似不能言者，謙卑遜順。不以賢知先人也。鄉黨，父兄宗族之所在，故孔子居之，其容貌辭氣如此。\n朝，直遙反，下同。便，旁連反。便便，辯也。宗廟，禮法之所在；朝廷，政事之所出；言不可以不明辨。故必詳問而極言之，但謹而不放爾。此一節，記孔子在鄉黨、宗廟、朝廷言貌之不同。\n侃，苦旦反。誾，魚巾反。此君未視朝時也。王制，諸侯上大夫卿，下大夫五人。許氏說文：「侃侃，剛直也。誾誾，和悅而諍也。」踧，子六反。踖，子亦反。與，平聲，或如字。君在，視朝也。踧踖，恭敬不寧之貌。與與，威儀中適之貌。張子曰：「與與，不忘向君也。」亦通。此一節，記孔子在朝廷事上接下之不同也。\n擯，必刃反。躩，驅若反。擯，主國之君所使出接賓者。勃，變色貌。躩，盤辟貌。皆敬君命故也。襜，亦占反。所與立，謂同為擯者也。擯用命數之半，如上公九命，則用五人，以次傳命。揖左人，則左其手；揖右人，則右其手。襜，整貌。疾趨而進，張拱端好，如鳥舒翼。紓君敬也。此一節，記孔子為君擯相之容。\n鞠躬，曲身也。公門高大而若不容，敬之至也。閾，于逼反。中門，中於門也。謂當棖闑之間，君出入處也。閾，門限也。禮：士大夫出入君門，由闑右，不踐閾。謝氏曰：「立中門則當尊，行履閾則不恪。」位，君之虛位。謂門屏之間，人君宁立之處，所謂宁也。君雖不在，過之必敬，不敢以虛位而慢之也。言似不足，不敢肆也。齊，音咨。攝，摳也。齊，衣下縫也。禮：將升堂，兩手摳衣，使去地尺，恐躡之而傾跌失容也。屏，藏也。息，鼻息出入者也。近至尊，氣容肅也。陸氏曰：「趨下本無進字，俗本有之，誤也。」等，階之級也。逞，放也。漸遠所尊，舒氣解顏。怡怡，和悅也。沒階，下盡階也。趨，走就位也。復位踧踖，敬之餘也。此一節，記孔子在朝之容。\n勝，平聲。縮，色六反。圭，諸侯命圭。聘問鄰國，則使大夫執以通信。如不勝，執主器，執輕如不克，敬謹之至也。上如揖，下如授，謂執圭平衡，手與心齊，高不過揖，卑不過授也。戰色，戰而色懼也。蹜蹜，舉足促狹也。如有循，記所謂舉前曳踵。言行不離地，如緣物也。享，獻也。既聘而享，用圭璧，有庭實。有容色，和也。儀禮曰：「發氣滿容。」私覿，以私禮見也。愉愉，則又和矣。此一節，記孔子為君聘於鄰國之禮也。晁氏曰：「孔子，定公九年仕魯，至十三年適齊，其間絕無朝聘往來之事。疑使擯執圭兩條，但孔子嘗言其禮當如此爾。」\n紺，古暗反。緅，側由反。君子，謂孔子。紺，深青揚赤色，齊服也。緅，絳色。三年之喪，以飾練服也。飾，領緣也。紅紫，間色不正，且近於婦人女子之服也。褻服，私居服也。言此則不以為朝祭之服可知。袗，單也。葛之精者曰絺，麤者曰綌。表而出之，謂先著裏衣，表絺綌而出之於外，欲其不見體也。詩所謂「蒙彼縐絺」是也。麑，研奚反。緇，黑色。羔裘，用黑羊皮。麑，鹿子，色白。狐，色黃。衣以裼裘，欲其相稱。長，欲其溫。短右袂，所以便作事。長，去聲。齊主於敬，不可解衣而寢，又不可著明衣而寢，故別有寢衣，其半蓋以覆足。程子曰：「此錯簡，當在齊必有明衣布之下。」愚謂如此，則此條與明衣變食，既得以類相從；而褻裘狐貉，亦得以類相從矣。狐貉，毛深溫厚，私居取其適體。去，上聲。君子無故，玉不去身。觿礪之屬，亦皆佩也。殺，去聲。朝祭之服，裳用正幅如帷，要有襞積，而旁無殺縫。其餘若深衣，要半下，齊倍要，則無襞積而有殺縫矣。喪主素，吉主玄。弔必變服，所以哀死。吉月，月朔也。孔子在魯致仕時如此。此一節，記孔子衣服之制。蘇氏曰：「此孔氏遺書，雜記曲禮，非特孔子事也。」\n齊，側皆反。齊，必沐浴，浴竟，即著明衣，所以明潔其體也，以布為之。此下脫前章寢衣一簡。變食，謂不飲酒、不茹葷。遷坐，易常處也。此一節，記孔子謹齊之事。楊氏曰：「齊所以交神，故致潔變常以盡敬。」\n食，音嗣。食，飯也。精，鑿也。牛羊與魚之腥，聶而切之為膾。食精則能養人，膾麤則能害人。不厭，言以是為善，非謂必欲如是也。食饐之食，音嗣。饐，於冀反。餲，烏邁反。飪，而甚反。饐，飯傷熱濕也。餲，味變也。魚爛曰餒。肉腐曰敗。色惡臭惡，未敗而色臭變也。飪，烹調生熟之節也。不時，五穀不成，果實未熟之類。此數者皆足以傷人，故不食。割肉不方正者不食，造次不離於正也。漢陸續之母，切肉未嘗不方，斷蔥以寸為度，蓋其質美，與此暗合也。食肉用醬，各有所宜，不得則不食，惡其不備也。此二者，無害於人，但不以嗜味而苟食耳。食，音嗣。量，去聲。食以穀為主，故不使肉勝食氣。酒以為人合歡，故不為量，但以醉為節而不及亂耳。程子曰：「不及亂者，非惟不使亂志，雖血氣亦不可使亂，但浹洽而已可也。」沽、市，皆買也。恐不精潔，或傷人也。與不嘗康子之藥同意。薑，通神明，去穢惡，故不撤。適可而止，無貪心也。助祭於公，所得胙肉，歸即頒賜。不俟經宿者，不留神惠也。家之祭肉，則不過三日，皆以分賜。蓋過三日，則肉必敗，而人不食之，是褻鬼神之餘也。但比君所賜胙，可少緩耳。答述曰語。自言曰言。范氏曰：「聖人存心不他，當食而食，當寢而寢，言語非其時也。」楊氏曰：「肺為氣主而聲出焉，寢食則氣窒而不通，語言恐傷之也。」亦通。食，音嗣。陸氏曰：「魯論瓜作必。」古人飲食，每種各出少許，置之豆閒之地，以祭先代始為飲食之人，不忘本也。齊，嚴敬貌。孔子雖薄物必祭，其祭必敬，聖人之誠也。此一節，記孔子飲食之節。謝氏曰：「聖人飲食如此，非極口腹之欲，蓋養氣體，不以傷生，當如此。然聖人之所不食，窮口腹者或反食之，欲心勝而不暇擇也。」\n謝氏曰：「聖人心安於正，故於位之不正者，雖小不處。」\n杖者，老人也。六十杖於鄉，未出不敢先，既出不敢後。儺，乃多反。儺，所以逐疫，周禮方相氏掌之。阼階，東階也。儺雖古禮而近於戲，亦必朝服而臨之者，無所不用其誠敬也。或曰：「恐其驚先祖五祀之神，欲其依己而安也。」此一節，記孔子居鄉之事。\n拜送使者，如親見之，敬也。范氏曰：「凡賜食，必嘗以拜。藥未達則不敢嘗。受而不飲，則虛人之賜，故告之如此。然則可飲而飲，不可飲而不飲，皆在其中矣。楊氏曰：「大夫有賜，拜而受之，禮也。未達不敢嘗，謹疾也。必告之，直也。」此一節，記孔子與人交之誠意。\n非不愛馬，然恐傷人之意多，故未暇問。蓋貴人賤畜，理當如此。\n食恐或餕餘，故不以薦。正席先嘗，如對君也。言先嘗，則餘當以頒賜矣。腥，生肉。熟而薦之祖考，榮君賜也。畜之者，仁君之惠，無故不敢殺也。飯，扶晚反。周禮，「王日一舉，膳夫授祭，品嘗食，王乃食」。故侍食者，君祭，則己不祭而先飯。若為君嘗食然，不敢當客禮也。首，去聲。拖，徒我反。東首，以受生氣也。病臥不能著衣束帶，又不可以褻服見君，故加朝服於身，又引大帶於上也。急趨君命，行出而駕車隨之。此一節，記孔子事君之禮。\n重出。\n朋友以義合，死無所歸，不得不殯。朋友有通財之義，故雖車馬之重不拜。祭肉則拜者，敬其祖考，同於己親也。此一節，記孔子交朋友之義。\n尸，謂偃臥似死人也。居，居家。容，容儀。范氏曰：「寢不尸，非惡其類於死也。惰慢之氣不設於身體，雖舒布其四體，而亦未嘗肆耳。居不容，非惰也。但不若奉祭祀、見賓客而已，申申夭夭是也。」狎，謂素親狎。褻，謂燕見。貌，謂禮貌。餘見前篇。式，車前橫木。有所敬，則俯而憑之。負版，持邦國圖籍者。式此二者，哀有喪，重民數也。人惟萬物之靈，而王者之所天也，故周禮「獻民數於王，王拜受之」。況其下者，敢不敬乎？敬主人之禮，非以其饌也。迅，疾也。烈，猛也。必變者，所以敬天之怒。記曰：「若有疾風、迅雷、甚雨則必變，雖夜必興，衣服冠而坐。」此一節，記孔子容貌之變。綏，挽以上車之索也。范氏曰「正立執綏，則心體無不正，而誠意肅恭矣。蓋君子莊敬無所不在，升車則見於此也。」內顧，回視也。禮曰：「顧不過轂。」三者皆失容，且惑人。此一節，記孔子升車之容。\n言鳥見人之顏色不善，則飛去，回翔審視而後下止。人之見幾而作，審擇所處，亦當如此。然此上下，必有闕文矣。共，九用反，又居勇反。嗅，許又反。○邢氏曰：「梁，橋也。時哉，言雉之飲啄得其時。子路不達，以為時物而共具之。孔子不食，三嗅其氣而起。」晁氏曰：「石經『嗅』作戛，謂雉鳴也。」劉聘君曰「嗅，當作狊，古闃反。張兩翅也。見爾雅。」愚按：如後兩說，則共字當為拱執之義。然此必有闕文，不可強為之說。姑記所聞，以俟知者。",
+    "supplemental_unit_count": 42,
+    "supplemental_units": [
+      {
+        "character_count": 98,
+        "id": "chapter-010-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "楊氏曰：「聖人之所謂道者，不離乎日用之間也。故夫子之平日，一動一靜，門人皆審視而詳記之。」尹氏曰：「甚矣孔門諸子之嗜學也！於聖人之容色言動，無不謹書而備錄之，以貽後世。今讀其書，即其事，宛然如聖人之在目也。雖然，聖人豈拘拘而為之者哉？"
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-010-supp-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "蓋盛德之至，動容周旋，自中乎禮耳。學者欲潛心於聖人，宜於此求焉。」舊說凡一章，今分為十七節。"
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-010-supp-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "恂，相倫反。恂恂，信實之貌。似不能言者，謙卑遜順。不以賢知先人也。鄉黨，父兄宗族之所在，故孔子居之，其容貌辭氣如此。"
+      },
+      {
+        "character_count": 67,
+        "id": "chapter-010-supp-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "朝，直遙反，下同。便，旁連反。便便，辯也。宗廟，禮法之所在；朝廷，政事之所出；言不可以不明辨。故必詳問而極言之，但謹而不放爾。此一節，記孔子在鄉黨、宗廟、朝廷言貌之不同。"
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-010-supp-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "侃，苦旦反。誾，魚巾反。此君未視朝時也。王制，諸侯上大夫卿，下大夫五人。許氏說文：「侃侃，剛直也。誾誾，和悅而諍也。」踧，子六反。踖，子亦反。與，平聲，或如字。君在，視朝也。踧踖，恭敬不寧之貌。與與，威儀中適之貌。"
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-010-supp-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "張子曰：「與與，不忘向君也。」亦通。此一節，記孔子在朝廷事上接下之不同也。"
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-010-supp-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "擯，必刃反。躩，驅若反。擯，主國之君所使出接賓者。勃，變色貌。躩，盤辟貌。皆敬君命故也。襜，亦占反。所與立，謂同為擯者也。擯用命數之半，如上公九命，則用五人，以次傳命。揖左人，則左其手；揖右人，則右其手。襜，整貌。"
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-010-supp-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "疾趨而進，張拱端好，如鳥舒翼。紓君敬也。此一節，記孔子為君擯相之容。"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-010-supp-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "鞠躬，曲身也。公門高大而若不容，敬之至也。閾，于逼反。中門，中於門也。謂當棖闑之間，君出入處也。閾，門限也。禮：士大夫出入君門，由闑右，不踐閾。謝氏曰：「立中門則當尊，行履閾則不恪。」位，君之虛位。謂門屏之間，人君宁立之處，所謂宁也。"
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-010-supp-010",
+        "order": 10,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "君雖不在，過之必敬，不敢以虛位而慢之也。言似不足，不敢肆也。齊，音咨。攝，摳也。齊，衣下縫也。禮：將升堂，兩手摳衣，使去地尺，恐躡之而傾跌失容也。屏，藏也。息，鼻息出入者也。近至尊，氣容肅也。陸氏曰：「趨下本無進字，俗本有之，誤也。"
+      },
+      {
+        "character_count": 50,
+        "id": "chapter-010-supp-011",
+        "order": 11,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "」等，階之級也。逞，放也。漸遠所尊，舒氣解顏。怡怡，和悅也。沒階，下盡階也。趨，走就位也。復位踧踖，敬之餘也。此一節，記孔子在朝之容。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-010-supp-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "勝，平聲。縮，色六反。圭，諸侯命圭。聘問鄰國，則使大夫執以通信。如不勝，執主器，執輕如不克，敬謹之至也。上如揖，下如授，謂執圭平衡，手與心齊，高不過揖，卑不過授也。戰色，戰而色懼也。蹜蹜，舉足促狹也。如有循，記所謂舉前曳踵。"
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-010-supp-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "言行不離地，如緣物也。享，獻也。既聘而享，用圭璧，有庭實。有容色，和也。儀禮曰：「發氣滿容。」私覿，以私禮見也。愉愉，則又和矣。此一節，記孔子為君聘於鄰國之禮也。晁氏曰：「孔子，定公九年仕魯，至十三年適齊，其間絕無朝聘往來之事。"
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-010-supp-014",
+        "order": 14,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "疑使擯執圭兩條，但孔子嘗言其禮當如此爾。」"
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-010-supp-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "紺，古暗反。緅，側由反。君子，謂孔子。紺，深青揚赤色，齊服也。緅，絳色。三年之喪，以飾練服也。飾，領緣也。紅紫，間色不正，且近於婦人女子之服也。褻服，私居服也。言此則不以為朝祭之服可知。袗，單也。葛之精者曰絺，麤者曰綌。"
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-010-supp-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "表而出之，謂先著裏衣，表絺綌而出之於外，欲其不見體也。詩所謂「蒙彼縐絺」是也。麑，研奚反。緇，黑色。羔裘，用黑羊皮。麑，鹿子，色白。狐，色黃。衣以裼裘，欲其相稱。長，欲其溫。短右袂，所以便作事。長，去聲。"
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-010-supp-017",
+        "order": 17,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "齊主於敬，不可解衣而寢，又不可著明衣而寢，故別有寢衣，其半蓋以覆足。程子曰：「此錯簡，當在齊必有明衣布之下。」愚謂如此，則此條與明衣變食，既得以類相從；而褻裘狐貉，亦得以類相從矣。狐貉，毛深溫厚，私居取其適體。去，上聲。君子無故，玉不去身。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-010-supp-018",
+        "order": 18,
+        "source_block_chunk": 4,
+        "source_block_order": 8,
+        "text": "觿礪之屬，亦皆佩也。殺，去聲。朝祭之服，裳用正幅如帷，要有襞積，而旁無殺縫。其餘若深衣，要半下，齊倍要，則無襞積而有殺縫矣。喪主素，吉主玄。弔必變服，所以哀死。吉月，月朔也。孔子在魯致仕時如此。此一節，記孔子衣服之制。"
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-010-supp-019",
+        "order": 19,
+        "source_block_chunk": 5,
+        "source_block_order": 8,
+        "text": "蘇氏曰：「此孔氏遺書，雜記曲禮，非特孔子事也。」"
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-010-supp-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "齊，側皆反。齊，必沐浴，浴竟，即著明衣，所以明潔其體也，以布為之。此下脫前章寢衣一簡。變食，謂不飲酒、不茹葷。遷坐，易常處也。此一節，記孔子謹齊之事。楊氏曰：「齊所以交神，故致潔變常以盡敬。」"
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-010-supp-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "食，音嗣。食，飯也。精，鑿也。牛羊與魚之腥，聶而切之為膾。食精則能養人，膾麤則能害人。不厭，言以是為善，非謂必欲如是也。食饐之食，音嗣。饐，於冀反。餲，烏邁反。飪，而甚反。饐，飯傷熱濕也。餲，味變也。魚爛曰餒。肉腐曰敗。"
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-010-supp-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "色惡臭惡，未敗而色臭變也。飪，烹調生熟之節也。不時，五穀不成，果實未熟之類。此數者皆足以傷人，故不食。割肉不方正者不食，造次不離於正也。漢陸續之母，切肉未嘗不方，斷蔥以寸為度，蓋其質美，與此暗合也。"
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-010-supp-023",
+        "order": 23,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "食肉用醬，各有所宜，不得則不食，惡其不備也。此二者，無害於人，但不以嗜味而苟食耳。食，音嗣。量，去聲。食以穀為主，故不使肉勝食氣。酒以為人合歡，故不為量，但以醉為節而不及亂耳。"
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-010-supp-024",
+        "order": 24,
+        "source_block_chunk": 4,
+        "source_block_order": 10,
+        "text": "程子曰：「不及亂者，非惟不使亂志，雖血氣亦不可使亂，但浹洽而已可也。」沽、市，皆買也。恐不精潔，或傷人也。與不嘗康子之藥同意。薑，通神明，去穢惡，故不撤。適可而止，無貪心也。助祭於公，所得胙肉，歸即頒賜。不俟經宿者，不留神惠也。"
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-010-supp-025",
+        "order": 25,
+        "source_block_chunk": 5,
+        "source_block_order": 10,
+        "text": "家之祭肉，則不過三日，皆以分賜。蓋過三日，則肉必敗，而人不食之，是褻鬼神之餘也。但比君所賜胙，可少緩耳。答述曰語。自言曰言。范氏曰：「聖人存心不他，當食而食，當寢而寢，言語非其時也。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-010-supp-026",
+        "order": 26,
+        "source_block_chunk": 6,
+        "source_block_order": 10,
+        "text": "」楊氏曰：「肺為氣主而聲出焉，寢食則氣窒而不通，語言恐傷之也。」亦通。食，音嗣。陸氏曰：「魯論瓜作必。」古人飲食，每種各出少許，置之豆閒之地，以祭先代始為飲食之人，不忘本也。齊，嚴敬貌。孔子雖薄物必祭，其祭必敬，聖人之誠也。"
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-010-supp-027",
+        "order": 27,
+        "source_block_chunk": 7,
+        "source_block_order": 10,
+        "text": "此一節，記孔子飲食之節。謝氏曰：「聖人飲食如此，非極口腹之欲，蓋養氣體，不以傷生，當如此。然聖人之所不食，窮口腹者或反食之，欲心勝而不暇擇也。」"
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-010-supp-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "謝氏曰：「聖人心安於正，故於位之不正者，雖小不處。」"
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-010-supp-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "杖者，老人也。六十杖於鄉，未出不敢先，既出不敢後。儺，乃多反。儺，所以逐疫，周禮方相氏掌之。阼階，東階也。儺雖古禮而近於戲，亦必朝服而臨之者，無所不用其誠敬也。或曰：「恐其驚先祖五祀之神，欲其依己而安也。」此一節，記孔子居鄉之事。"
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-010-supp-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "拜送使者，如親見之，敬也。范氏曰：「凡賜食，必嘗以拜。藥未達則不敢嘗。受而不飲，則虛人之賜，故告之如此。然則可飲而飲，不可飲而不飲，皆在其中矣。楊氏曰：「大夫有賜，拜而受之，禮也。未達不敢嘗，謹疾也。必告之，直也。"
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-010-supp-031",
+        "order": 31,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "」此一節，記孔子與人交之誠意。"
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-010-supp-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "非不愛馬，然恐傷人之意多，故未暇問。蓋貴人賤畜，理當如此。"
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-010-supp-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "食恐或餕餘，故不以薦。正席先嘗，如對君也。言先嘗，則餘當以頒賜矣。腥，生肉。熟而薦之祖考，榮君賜也。畜之者，仁君之惠，無故不敢殺也。飯，扶晚反。周禮，「王日一舉，膳夫授祭，品嘗食，王乃食」。故侍食者，君祭，則己不祭而先飯。"
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-010-supp-034",
+        "order": 34,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "若為君嘗食然，不敢當客禮也。首，去聲。拖，徒我反。東首，以受生氣也。病臥不能著衣束帶，又不可以褻服見君，故加朝服於身，又引大帶於上也。急趨君命，行出而駕車隨之。此一節，記孔子事君之禮。"
+      },
+      {
+        "character_count": 2,
+        "id": "chapter-010-supp-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "重出。"
+      },
+      {
+        "character_count": 53,
+        "id": "chapter-010-supp-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "朋友以義合，死無所歸，不得不殯。朋友有通財之義，故雖車馬之重不拜。祭肉則拜者，敬其祖考，同於己親也。此一節，記孔子交朋友之義。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-010-supp-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "尸，謂偃臥似死人也。居，居家。容，容儀。范氏曰：「寢不尸，非惡其類於死也。惰慢之氣不設於身體，雖舒布其四體，而亦未嘗肆耳。居不容，非惰也。但不若奉祭祀、見賓客而已，申申夭夭是也。」狎，謂素親狎。褻，謂燕見。貌，謂禮貌。餘見前篇。"
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-010-supp-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "式，車前橫木。有所敬，則俯而憑之。負版，持邦國圖籍者。式此二者，哀有喪，重民數也。人惟萬物之靈，而王者之所天也，故周禮「獻民數於王，王拜受之」。況其下者，敢不敬乎？敬主人之禮，非以其饌也。迅，疾也。烈，猛也。必變者，所以敬天之怒。"
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-010-supp-039",
+        "order": 39,
+        "source_block_chunk": 3,
+        "source_block_order": 18,
+        "text": "記曰：「若有疾風、迅雷、甚雨則必變，雖夜必興，衣服冠而坐。」此一節，記孔子容貌之變。綏，挽以上車之索也。范氏曰「正立執綏，則心體無不正，而誠意肅恭矣。蓋君子莊敬無所不在，升車則見於此也。」內顧，回視也。禮曰：「顧不過轂。"
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-010-supp-040",
+        "order": 40,
+        "source_block_chunk": 4,
+        "source_block_order": 18,
+        "text": "」三者皆失容，且惑人。此一節，記孔子升車之容。"
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-010-supp-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "言鳥見人之顏色不善，則飛去，回翔審視而後下止。人之見幾而作，審擇所處，亦當如此。然此上下，必有闕文矣。共，九用反，又居勇反。嗅，許又反。○邢氏曰：「梁，橋也。時哉，言雉之飲啄得其時。子路不達，以為時物而共具之。孔子不食，三嗅其氣而起。"
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-010-supp-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "」晁氏曰：「石經『嗅』作戛，謂雉鳴也。」劉聘君曰「嗅，當作狊，古闃反。張兩翅也。見爾雅。」愚按：如後兩說，則共字當為拱執之義。然此必有闕文，不可強為之說。姑記所聞，以俟知者。"
+      }
+    ],
+    "text": "孔子於鄉黨，恂恂如也，似不能言者。\n其在宗廟朝廷，便便言，唯謹爾。\n朝，與下大夫言，侃侃如也；與上大夫言，誾誾如也。\n君在，踧踖如也。與與如也。\n君召使擯，色勃如也，足躩如也。\n揖所與立，左右手。衣前後，襜如也。\n趨進，翼如也。\n賓退，必復命曰：「賓不顧矣。」\n入公門，鞠躬如也，如不容。\n立不中門，行不履閾。\n過位，色勃如也，足躩如也，其言似不足者。\n攝齊升堂，鞠躬如也，屏氣似不息者。\n出，降一等，逞顏色，怡怡如也。沒階趨，翼如也。復其位，踧踖如也。\n執圭，鞠躬如也，如不勝。上如揖，下如授。勃如戰色，足縮縮，如有循。\n享禮，有容色。\n私覿，愉愉如也。\n君子不以紺緅飾。\n紅紫不以為褻服。\n當暑，袗絺綌，必表而出之。\n緇衣羔裘，素衣麑裘，黃衣狐裘。\n褻裘長。短右袂。\n必有寢衣，長一身有半。\n狐貉之厚以居。\n去喪，無所不佩。\n非帷裳，必殺之。\n羔裘玄冠不以弔。\n吉月，必朝服而朝。\n齊，必有明衣，布。\n齊，必變食，居必遷坐。\n食不厭精，膾不厭細。\n食饐而餲，魚餒而肉敗，不食。色惡，不食。臭惡，不食。失飪，不食。不時，不食。\n割不正，不食。不得其醬，不食。\n肉雖多，不使勝食氣。惟酒無量，不及亂。\n沽酒市脯不食。\n不撤薑食。\n不多食。\n祭於公，不宿肉。祭肉不出三日。出三日，不食之矣。\n食不語，寢不言。\n雖疏食菜羹，瓜祭，必齊如也。\n席不正，不坐。\n鄉人飲酒，杖者出，斯出矣。\n鄉人儺，朝服而立於阼階。\n問人於他邦，再拜而送之。\n康子饋藥，拜而受之。曰：「丘未達，不敢嘗。」\n廄焚。子退朝，曰：「傷人乎？」不問馬。\n君賜食，必正席先嘗之；君賜腥，必熟而薦之；君賜生，必畜之。\n侍食於君，君祭，先飯。\n疾，君視之，東首，加朝服，拖紳。\n君命召，不俟駕行矣。\n入太廟，每事問。\n朋友死，無所歸。曰：「於我殯。」\n朋友之饋，雖車馬，非祭肉，不拜。\n寢不尸，居不容。\n見齊衰者，雖狎，必變。見冕者與瞽者，雖褻，必以貌。\n凶服者式之。式負版者。\n有盛饌，必變色而作。\n迅雷風烈，必變。\n升車，必正立執綏。\n車中，不內顧，不疾言，不親指。\n色斯舉矣，翔而後集。\n曰：「山梁雌雉，時哉！時哉！」子路共之，三嗅而作。",
+    "title": "鄉黨第十"
+  },
+  "chapter_path": "books/lunyu/chapters/chapter-010.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 論語集注",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/lun-yu-ji-zhu?if=en"
+}

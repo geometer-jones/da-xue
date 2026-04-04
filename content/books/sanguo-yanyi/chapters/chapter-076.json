@@ -1,0 +1,697 @@
+{
+  "chapter": {
+    "character_count": 3844,
+    "id": "chapter-076",
+    "order": 76,
+    "reading_unit_count": 52,
+    "reading_units": [
+      {
+        "character_count": 87,
+        "id": "chapter-076-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說糜芳聞荊州已失，正無計可施。忽報公安守將傅士仁至，芳忙接入城，問其事故。士仁曰：「吾非不忠，勢危力困，不能支持。我今已降東吳，將軍亦不如早降。」芳曰：「吾等受漢中王厚恩，安忍背之？」士仁曰：「關公去日，痛恨吾二人；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I am faithful enough, but I got into difficulties and danger and could not hold on, so I have surrendered to Wu. And I advise you to do the same.” “You and I have both fed on the bounty of the Prince of Hanchung, and I cannot understand how you can turn against him.” “Kuan Yü went away hating both of us intensely, and even if he comes back victorious I do not think he will forgive us. Just think it over.' ”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-076-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "倘一日得勝而回，必無輕恕。公細察之。」芳曰：「吾兄弟久事漢中王，豈可一朝相背？」正猶豫間，忽報關公遣使至，接入廳上。使者曰：「關公軍中缺糧，特來南郡、公安二處取白米十萬石，令二將軍星夜去解，軍前交割。如遲立斬。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My brother and I have followed the prince these many years, and I do not like leaving him like this.” Mi Fang hesitated. Before he could make up his mind, there came a messenger to say that the army was short of grain and he had been sent to demand white rice for the soldiers. Nanchün and Kungan were to send ten myriad tan at once. Delay would be most severely punished."
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-076-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "」芳大驚，顧謂傅士仁曰：「今荊州已被東吳所取，此糧怎得過去？」士仁厲聲曰：「不必多疑！」遂拔劍斬來使於堂上。芳驚曰：「公如何？」士仁曰：「關公此意，正要斬我二人。我等安可束手受死？公今不早降東吳，必被關公所殺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This sudden demand was a shock to Mi Fang. “Where am I to get the rice?” said he despairingly to his friend and tempter. “Chingchou is now in the hands of Wu.” “Do not dilly-dally,” said Fu Shih-jên. Thereupon he drew his sword and slew the messenger as he stood in the hall. “What have you done?” cried Mi Fang."
+          }
+        }
+      },
+      {
+        "character_count": 45,
+        "id": "chapter-076-line-004",
+        "order": 4,
+        "source_block_chunk": 4,
+        "source_block_order": 1,
+        "text": "」正說間，忽報呂蒙引兵殺至城下。芳大驚，乃同傅士仁出城投降。蒙大喜，引見孫權。權重賞二人。安民已畢，大犒三軍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Kuan wanted to slay us two and has forced me to this. Are we to fold our hands and await death? Either you give in at once and go over to Wu, or you will be put to death by Kuan Yü.”"
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-076-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "時曹操在許都，正與眾謀士議荊州之事，忽報東吳遣使奉書至。操召入，使者呈上書信。操拆視之，書中具言吳兵將襲荊州，求操夾攻雲長；且囑勿洩漏，使雲長有備也。操與眾謀士商議。主簿董昭曰：「今樊城被困，引頸望救，不如令人將書射入樊城，以寬軍心；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just then they heard that Lü Mêng’s men had actually reached the city wall. Mi Fang saw that nothing could save his life but desertion, so he went out with Fu and gave in his allegiance to Lü Mêng, by whom he was led to Sun Ch'üan. Sun Ch'üan gave both of them presents, after which he proceeded to restore order and to reward his army for their services."
+          }
+        }
+      },
+      {
+        "character_count": 67,
+        "id": "chapter-076-line-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "且使關公知東吳將襲荊州。彼恐荊州有失，必速退兵，卻令徐晃乘勢掩殺，可獲全功。」操從其謀，一面差人催徐晃急戰；一面親統大兵，逕往雒陽之南陽陵陂駐紮，以救曹仁。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ At the time that great discussion about Chingchou was going on in the capital, a messenger arrived with a letter from Sun Ch'üan. It told the tale of the acquisition of Chingchou and begged Ts‘ao Ts‘ao to send an army to attack Kuan Yü in the rear, enjoining the utmost secrecy."
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-076-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "卻說徐晃正坐帳中，忽報魏王使至。晃接入問之。使曰：「今魏王引兵，已過雒陽；令將軍急戰關公，以解樊城之困。」正說間，探馬報說：「關平屯兵在偃城，廖化屯兵在四冢。前後一十二個寨柵，連絡不絕。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At the meeting of advisers that Ts‘ao Ts‘ao summoned to consultation, Tung Chao said, “Now that the relief of Fanch'êng is contemplated it would be well to let the besieged know, so that they may not yield to depression. Moreover, if Kuan Yü hears that Chingchou is in the hands of Wu he will come back to try to recover it. Then let Hsü Huang take the chance to attack, and our victory will be complete.”"
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-076-line-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "」晃即差副將徐商、呂建假著徐晃旗號，前赴偃城與關平交戰。晃卻自引精兵五百，循沔水去襲偃城之後。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao agreed that the plan was good, and so he sent a messenger to urge Hsü Huang to attack. Ts‘ao himself led a large force to Yanglup‘o, south of Loyang, to rescue Tsao Jên."
+          }
+        }
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-076-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "且說關平聞徐晃自引兵至，遂提本部兵迎敵。兩陣對圓，關平出馬，與徐商交鋒，只三合，商大敗而走；呂建出戰，五六合亦敗走。平乘勝追殺二十餘里，忽報城中火起。平知中計，急勒兵回救偃城，正遇一彪軍擺開。徐晃立馬在門旗下，高叫曰：「關平賢姪，好不知死！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsü Huang was sitting in his tent when they told him that a messenger from the Prince of Wei had arrived. The messenger was called in and said. “The prince has led an army to Loyang, and he wishes you to hasten to attack Kuan Yü in order to relieve Fanch'êng.” Just then the scouts came to report that Kuan Yü had encamped at Yench'êng and Liao Hua at Ssuchung. The enemy had built a line of twelve stockades. Hsü Huang ordered two of his lieutenants to Yench'êng to masquerade as if he himself was in command, by showing his ensigns. Hsü himself, at the head of a few veterans, went along the Mien River to attack Yench'êng in the rear."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-076-line-010",
+        "order": 10,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "汝荊州己被東吳奪了，猶然在此狂為！」平大怒，縱馬掄刀，直取徐晃；不三四合，三軍喊叫，偃城中火光大起。平不敢戀戰，殺條大路，逕奔四冢寨來。廖化接著。化曰：「人言荊州已被呂蒙襲了，軍心驚慌，如之奈何？」平曰：「此必訛言也。軍士再言者斬之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Kuan P‘ing heard of the approach of Hsü Huang he prepared his own division to meet him. When both sides were arrayed, Kuan P‘ing rode out and engaged one Hsü Shang. After three encounters Hsü Shang had the worst of it and fled. Then the other lieutenant, Lü Chien, went out. He fought half a dozen bouts and also ran away. Thereupon Kuan P‘ing went in pursuit and smote the flying enemy for twenty li . But then there was an alarm of fire within the city, and Kuan P‘ing knew that he had been inveigled into the pursuit and was a victim. So he turned and set out for the city again. On his way he met a body of troops, and standing under the great standard was Hsü Huang."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-076-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "忽流星馬到，報說正北第一屯被徐晃領兵攻打。平曰：「若第一屯有失，諸營豈得安寧？此間皆靠沔水，賊兵不敢到此。吾與汝同去救第一屯。」廖化喚部將分付曰：「汝等堅守營寨，如有賊到，即便舉火。」部將曰：「四冢寨鹿角十重，雖飛鳥亦不能入，何慮賊兵？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hsü Huang shouted out, “Kuan P‘ing, my worthy nephew, it is strange that you do not recognise death when it stares you in the face. Your Chingchou has fallen into the hands of Wu and yet you act so madly.” Kuan P‘ing, whirling his sword, just rode hard at Hsü Huang, and they engaged. But after the third bout there was a tremendous shouting among the soldiers, for the flames within the city burst up higher than before. Kuan P‘ing could not follow up his desire to continue the fight, but cut ​ his way out and made a dash for Ssuchung, where Liao Hua received him with the news of the disaster to Chingchou."
+          }
+        }
+      },
+      {
+        "character_count": 68,
+        "id": "chapter-076-line-012",
+        "order": 12,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "」於是關平、廖化盡起四冢寨精兵，奔至第一屯駐紮。關平看見魏兵屯於淺山之上，謂廖化曰：「徐晃屯兵，不得地利，今夜可引兵劫寨。」化曰：「將軍可分兵一半前去，某當謹守本寨。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“People say that Chingchou has fallen to Lü Mêng, and the news has frightened the whole army; what is to be done?” said he. “It is only a malicious rumour; do not let it spread. If any one repeats it, put him to death.” Just then a man came running in to say that Hsü Huang was attacking the first stockade on the north. “If that goes,” said Kuan P‘ing, “the remainder will follow. But as we have the river at our back, they will not dare attack this. Let us go to the rescue.”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-076-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "是夜，關平引一枝兵殺入魏寨，不見一人。平知是計，火速退時，左邊徐商，右邊呂建，兩下夾攻。平大敗回營，魏兵乘勢追殺前來，四面圍住。關平、廖化支持不住，棄了第一屯，逕投四冢寨來。早望見寨中火起。急到寨前，只見皆是魏兵旗號。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Liao Hua summoned his subordinate leaders and gave them orders to hold the camp and make a signal if the enemy came. “There is no danger here,” said they. “The camp is defended by a tenfold line of 'deer-horns' ( chevaux de frise ): even a bird could not get in.” Kuan P‘ing and Liao Hua mustered all the veterans they had and went away to the first stockade. Seeing the Wei soldiers camped on a low hill, Kuan P‘ing said to his colleague, “Those men are stationed in an unsafe place; let us raid their camp to-night.” “You take half the force, General, and I will remain to keep the camp,” said Liao Hua."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-076-line-014",
+        "order": 14,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "關平等退兵，忙奔樊城大路而走。前面一軍攔住，為首大將，乃徐晃也。平、化二人奮力死戰，奪路而走，回到大寨，來見關公曰：「今徐晃奪了偃城等處；又兼曹操自引大軍，分三路來救樊城；多有人言荊州已被呂蒙襲了。」關公喝曰：「此敵人訛言，以亂我軍心耳！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When night fell, the attacking force went out. But on reaching the camp not a man opposed them. The camp was empty. Then Kuan P‘ing knew he had been deceived, and turned to retreat. He was at once attacked on two sides by Hsü Shang and Lü Chien. Unable to stand, his men ran for the camp. The men of Wei followed, and presently the camp was surrounded. They were compelled to abandon the position and set off for Ssuchung. As they drew near they saw torches, and presently knew by the ensigns displayed that the camp had also fallen to the enemy. Retiring, they hastened along the high road toward Fanch'êng, but presently their way was barred by a force under Hsü Huang himself. By dint of hard fighting they got away and returned to their main camp, and Kuan P‘ing went to his father."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-076-line-015",
+        "order": 15,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "東吳呂蒙病危，孺子陸遜代之，不足為慮！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Hsü Huang has got possession of Yench'êng. Ts‘ao’s main army is on the way in three divisions, and many say that Chingchou is in the enemy’s hands.”"
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-076-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "言未畢，忽報徐晃兵至，公令備馬。平諫曰：「父體未痊，不可與敵。」公曰：「徐晃與我有舊，深知其能；若彼不退，吾先斬之，以警魏將。」遂披挂提刀上馬，奮然而出。魏軍見之，無不驚懼。公勒馬問曰：「徐公明安在？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü bade him be silent. “This is a fabrication of the enemy, said he, “but it may dishearten the soldiers. We know Lü Mêng is ill, and they have appointed that impractical fellow Lu Hsün to succeed him at Luk‘ou. There is nothing to fear.”"
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-076-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "」魏營門旗開處，徐晃出馬，欠身而言曰：「自別君侯，倏忽數載。不想君侯鬚髮已蒼白矣。憶昔壯年相從，多蒙教誨，感謝不忘。今君侯英風震於華夏，使故人聞之，不勝歎羨！茲幸得一見，深慰渴懷。」公曰：「吾與公明交契深厚，非比他人；今何故數窮吾兒耶？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He was soon undeceived. The news came that Hsü Huang had arrived. At once Kuan Yü bade them saddle his charger. ​ “Father, you are not strong enough to go into the battle,” said Kuan P‘ing. “Hsü Huang and I were once friends, and I know what he can do and not do. I will give him the chance to retire, and if he does not take it then I shall just slay him as a warning to the others.”"
+          }
+        }
+      },
+      {
+        "character_count": 47,
+        "id": "chapter-076-line-018",
+        "order": 18,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "」晃回顧眾將，厲聲大叫曰：「若取得雲長首級者，重賞千金！」公驚曰：「公明何出此言？」晃曰：「今日乃國家之事，某不敢以私廢公。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mounting his charger, Kuan Yü rode out as impetuously as of yore, and the sight of the old warrior made to quake the hearts of the men of Wei. When he came close enough to his enemy, Kuan checked his steed and said, “Where is my friend Hsü?”"
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-076-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "言訖，揮大斧直取關公。公大怒，亦揮刀迎之，戰八十餘合。公雖武藝絕倫，終是右臂少力。關平恐公有失，火急鳴金。公撥馬回寨，忽聞四下裏喊聲大震。原來是樊城曹仁聞曹操救兵至，引軍殺出城來，與徐晃會合，兩下夾攻。荊州兵大亂。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As a reply, the gate of the camp opened and Hsü Huang appeared under the standard. With a low bow he said, “Some years have passed since I met you, most excellent Marquis, but I had not expected to see you so grey. I have not forgotten the old brave days, when we were together and you taught me so much, and I am very grateful. New your fame has spread throughout the whole of China, and your old friends cannot but praise you. I am indeed glad that I have the happiness to see you.”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-076-line-020",
+        "order": 20,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "關公上馬，引眾將急奔襄江上流頭。背後魏兵追至。關公急渡過襄江，望襄陽而奔。忽流星馬到，報說：「荊州已被呂蒙所奪，家眷被陷。」關公大驚，不敢奔襄陽，提兵投公安來。探馬又報：「公安傅士仁已降東吳了。」關公大怒。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü replied, “We have been excellent friends, Mingkung; better than most. But why have you pressed my son so hardly of late?” Hsü Huang suddenly turned to the officers about him and cried fiercely, “I would give a thousand for this Yün-ch‘ang’s head.” Kuan Yü, greatly shocked, said, “What did you say that for?”"
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-076-line-021",
+        "order": 21,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "忽催糧人到，報說：「公安傅士仁往南郡，殺了使命，招糜芳都降東吳去了。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Because to-day I am on state business, and I have no inclination to let private friendship over-ride my public duty.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-076-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "關公聞言，怒氣沖塞，瘡口迸裂，昏絕於地。眾將救醒。公顧謂司馬王甫曰：「悔不聽足下之言，今日果有此事！」因問：「沿江上下，何不舉火？」探馬答曰：「呂蒙使水手盡穿白衣，扮作客商渡江，將精兵伏於𦩷𦪇之中，先擒了守臺士卒，因此不得舉火。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As he said this, he whirled his battle-axe and rode at Kuan Yü, who, greatly enraged, threw up his great sword to strike. They fought a half score bouts, but although his skill lacked nothing of its pristine vigour and excelled all the world, the old warrior’s right arm was still weak from the wound. Kuan P‘ing saw that his father failed somewhat, and so hastily beat the gong for retreat. Kuan Yü rode back."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-076-line-023",
+        "order": 23,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "」公跌足歎曰：「吾中奸賊之謀矣！有何面目見兄長耶！」管糧都督趙累曰：「今事急矣，可一面差人往成都求救，一面從旱路去取荊州。」關公依言，差馬良、伊籍齎文三道，星夜赴成都求救；一面引兵來取荊州；自領前隊先行，留廖化、關平斷後。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Suddenly the noise of a great shouting was heard; it came from the troops of the city, for Ts‘ao Jên, having heard of the arrival of men of his own side, had made a sortie and was about to attack to help Hsü Huang. His men fell on, and the army of Chingchou were routed. Kuan Yü, with as many of his officers as could, fled away along the banks of the Hsiang River, hotly pursued by the army of Wei. Crossing the river, he made for Hsiangyang. Thence he marched for Kungan. But the scouts told him that that city was in the hands of Wu. Then some of the men he had despatched for supplies came in and reported the murder of their officer and the further treachery of Mi Fang. The story ​ filled him with boundless rage. It was too much. The wound re-opened, and he fell in a swoon."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-076-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "卻說樊城圍解，曹仁引眾將來見曹操，泣拜請罪。操曰：「此乃天數，非汝等之罪也。」操重賞三軍，親至四冢寨，周圍閱視，顧謂諸將曰：「荊州兵圍塹鹿角數重，徐公明深入其中，竟獲全功。孤用兵三十餘年，未敢長驅逕入敵圍。公明真膽識兼優者也！」眾皆歎服。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Wang Fu, you were right,” said he when he recovered con sciousness. “How I regret that I did not heed what you said! And now —— —.” “But why were the beacon fires not lighted?” continued he presently. “Lü Mêng’s men in the guise of traders came over the river. There were soldiers hidden in the koulu ships, and they seized the beacon guards, so preventing them from kindling the fires.” Kuan Yü sighed. Beating the ground with his foot, he said, “Indeed I have fallen into their trap. How shall I look my brother in the face?” Then outspake the commissariat officer Chao Lei, saying, “We are in straits. Send to Ch'êngtu for help, and let us take the land road to Chingchou to try to recover it.”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-076-line-025",
+        "order": 25,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "操班師還於摩陂駐紮。徐晃兵至，操親出寨迎之。見晃軍皆按隊伍而行，並無差亂。操大喜曰：「徐將軍真有周亞夫之風矣！」遂封徐晃為平南將軍，同夏侯尚守襄陽，以遏關公之師。操因荊州未定，就屯兵於摩陂，以候消息。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So three messengers were sent by different routes to ask for help, while the army set out to return to Chingchou, Kuan Yü leading and Liao Hua with Kuan P‘ing keeping the rear. The siege of Fanch'êng being thus raised, Ts‘ao Jên went to see his master. With tears he acknowledged his fault and asked pardon. “It was the will of heaven, and no fault of yours,” said Ts‘ao Ts‘ao; and he rewarded the armies. When he visited Ssuchung and had inspected the captured stockades, he remarked on the defences. “Hsü Huang was very clever to overcome these. With my thirty years of war I should not have dared to penetrate such opposition. He is valiant and wise, and both in a high degree.”"
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-076-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "卻說關公在荊州路上，進退無路，謂趙累曰：「目今前有吳兵，後有魏兵，吾在其中，救兵不至，如之奈何？」累曰：「昔呂蒙在陸口時，嘗致書君侯，兩家約好，共誅操賊；今卻助曹而襲我，是背盟也。君侯暫駐軍於此，可差人遺書呂蒙責之，看彼如何對答。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Aye,” said they with him, for they could not but agree. Ts‘ao’s army marched back to Mop‘o and there camped. When Hsü Huang returned, Ts‘ao went out of the stockade to meet him, and noted with joy the excellent order and discipline that his army showed. Every man was in his place, the ranks perfectly kept, all without a trace of disorder. “He has the spirit of Chou A-fu,” said Ts‘ao, and on the spot conferred on his captain the title of “Pacificator of the South.” Hsü was sent soon after to share in the defence of Hsiangyang to meet Kuan Yü's army."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-076-line-027",
+        "order": 27,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "」關公從其言，遂修書遣使赴荊州來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chingchou being still in turmoil, Ts‘ao remained at Mop‘o waiting for news."
+          }
+        }
+      },
+      {
+        "character_count": 83,
+        "id": "chapter-076-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "卻說呂蒙在荊州，傳下號令：凡荊州諸郡，有隨關公出征將士之家，不許吳兵攪擾，按月給與糧米；有患病者，遣醫治療。將士之家，感其恩惠，安堵不動。忽報關公使至，呂蒙出郭迎接入城，以賓禮相待。使者呈書與蒙。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü found himself at a standstill on the road to Chingchou with the army of Wu in front and the men of Wei coming up behind. What was to be done? He discussed the position with Chao Lei, who proposed a halt to try to shame Lü Mêng into aiding him. Said he, “When Lü Mêng was at Luk‘ou he used to write to you often, and you agreed to join hands in the destruction of Ts‘ao Ts‘ao. Now he is a traitor and fighting on the other ​ side. Send a letter and reproach him. Perhaps we may get a satisfactory reply.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-076-line-029",
+        "order": 29,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "蒙看畢，謂來使曰：「蒙昔日與關將軍結好，乃一己之私見；今日之事，乃上命差遣，不得自主。煩使者回報將軍，善言致意。」遂設宴款待，送歸館驛安歇。於是隨征將士之家，皆來問信。有附家書者，有口傳音信者，皆言家門無恙，衣食不缺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So the letter was written and sent. Meanwhile, by Lü Mêng’s special command, the most complete protection was given to the families of all the officers who were serving under Kuan Yü, and they were kept supplied with all they required. Even the ailing members of their households were treated by physicians free of charge. The result was that they were quite won over to the new order of things, and there was no attempt to disturb it. When Kuan Yü's letter came, the messenger was led into the city and well treated. When Lü read the letter, he said to the bearer thereof, “You must understand the different circumstances. When your general and I were leagued together it was a personal matter between us two. Now things have changed. I am sent here with certain orders and am not my own master. I would trouble you, O Messenger, to return and explain thus to your master and in good words.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-076-line-030",
+        "order": 30,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "使者辭別呂蒙，蒙親送出城。使者回見關公，具道呂蒙之語，並說荊州城中，君侯寶眷並諸將家屬，俱各無恙，供給不缺。公大怒曰：「此奸賊之計也！我生不能殺此賊，死必殺之，以雪我恨！」喝退使者。使者出寨，眾將皆來探問家中之事。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The bearer of the letter was entertained at a banquet and sent to repose himself in the guest-house, where the families of the absent officers sought him to have news of their husbands and fathers. Moreover, they brought him letters and gave him messages for the officers, and the whole tenor of these letters and messages was that they were all in good health, all their needs were supplied and they lacked nothing. When he left the city, Lü Mêng himself escorted him to the outskirts and set him on his way."
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-076-line-031",
+        "order": 31,
+        "source_block_chunk": 4,
+        "source_block_order": 12,
+        "text": "使者具言各家安好，呂蒙極其恩恤，並將書信傳送各將。各將欣喜，皆無戰心。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On his return to the army, he gave to Kuan Yü the message of Lü Mêng and told him that the family were all well and safe and well cared for. This, however, did not greatly please Kuan Yü, for he saw in this merely a plan to gain favour and popularity."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-076-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "關公率兵取荊州，軍行之次，將士多有逃回荊州者。關公愈加恨怒，遂催軍前進。忽然喊聲大震，一彪軍攔住；為首大將，乃蔣欽也，勒馬挺鎗大叫曰：「雲長何不早降！」關公罵曰：「吾乃漢將，豈降賊乎！」拍馬舞刀，直取蔣欽。不三合，欽敗走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The brigand! If I cannot slay him while I live, I will after I am dead. My hate shall not go unappeased.” He roughly dismissed the messenger, who went out and was at once surrounded by those whose families were in the city and who desired to have news of them. And when he gave them the letters and messages and told them all were well, there was great rejoicing among the men in the camp, and kindly feelings for Lü Mêng prevailed. And therewith died down the spirit of fighting."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-076-line-033",
+        "order": 33,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "關公提刀追殺二十餘里，喊聲忽起，左邊山谷中，韓當領兵衝出；右邊山谷中，周泰引軍衝出；蔣欽回馬復戰：三路夾攻。關公急撤軍回走。行無數里，只見南山岡上人煙聚集，一面白旗招颭，上寫「荊州土人」四字，眾人都叫：「本處人速速投降！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü led the army to attack Chingchou, but day by day the men deserted and ran away to the very city they were moving to attack. So day by day Kuan’s bitterness and anger increased, and he advanced in angry haste. One day there was a great shouting and the noise of drums, and he found his way blocked. “Why do you not surrender, friend Kuan?” said the leader of this body, Chiang Ch‘in by name. ​ “Could I give in to a rebel, I, a servant of the Hans and a leader of their troops?” roared Kuan Yü in a passion."
+          }
+        }
+      },
+      {
+        "character_count": 58,
+        "id": "chapter-076-line-034",
+        "order": 34,
+        "source_block_chunk": 3,
+        "source_block_order": 13,
+        "text": "」關公大怒，欲上岡殺之。山崦內又有兩軍撞出，左邊丁奉，右邊徐盛，并合蔣欽等三路軍馬，喊聲震地，鼓角喧天，將關公困在垓心。手下將士，漸漸離散。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thereupon he whipped his horse forward and swung up his sword to strike. However, Chiang Ch‘in would not fight. The two exchanged a few blows, and Chiang fled. Kuan Yü followed. When he had gone a long way, there suddenly appeared from a gully near him Han Tang, while Chou T‘ai came out from the other side. Thereupon Chiang Ch‘in wheeled round and once more came to do battle, so that three forces were opposed to Kuan Yü. Unable to withstand these, he retreated."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-076-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "比及殺到黃昏，關公遙望四山之上，皆是荊州士兵，呼兄喚弟，覓子尋爺，喊聲不住。軍心盡變，皆應聲而去。關公止喝不住。部從止有三百餘人。殺至三更，正東上喊聲連天，乃是關平、廖化分為兩路兵殺入重圍，救出關公。關平告曰：「軍心亂矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Before he had gone very far he saw signs of many people bivouacking among the hills, and presently made out, on a huge white banner that flapped in the breeze, the words, “Natives of Chingchou,” and the people about were calling out, “All the inhabitants of this place have surrendered.” Kuan Yü felt like rushing up and cutting these people to pieces, but just then two other cohorts appeared led by Ting Fêng and Hsü Shêng, who supported Chiang Ch‘in. The three bodies of men then set on with shouting and loud beating of drums that seemed to make the very earth tremble. And Kuan Yü was like the kernel in a nut, quite surrounded."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-076-line-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "必得城池暫屯，以待援兵。麥城雖小，足可屯紮。」關公從之，催促殘軍前至麥城，分兵緊守四門，聚將士商議。趙累曰：「此處相近上庸，現有劉封、孟達在彼把守，可速差人往求救兵。若得這枝軍馬接濟，以待川兵大至，軍心自安矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This was not all. He saw the number of his followers diminishing every moment. He fought on till dusk, and looking about him he saw all the hills crowded with Chingchou folk and heard them calling brother for brother and son for father, till his soldiers' hearts had melted within them. One by one they ran to their relatives, heedless of their leader and his voice. Presently he had but three hundred left, but with them he kept up the battle till the third watch. Then there was another shouting in another note, for his faithful leaders, Kuan P‘ing, his son, and Liao Hua, came to his help. And they rescued him. “The soldiers' hearts are all melted,” said Kuan P‘ing."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-076-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "正議間，忽報吳兵已至，將城四面圍定。公問曰：「誰敢突圍而出，往上庸求救？」廖化曰：「某願往。」關平曰：「我護送汝出重圍。」關公即修書付廖化藏於身畔，飽食上馬，開門出城。正遇吳將丁奉截住，被關平奮力衝殺。奉敗走。廖化乘勢殺出重圍，投上庸去了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“We must find some place wherein to camp till help can arrive. There is Maich‘êng, small, but sufficient; let us camp there.” Kuan Yü consented, and the exhausted army hurried thither as quickly as they could. The small force was divided among the four gates. Here it seemed as though they could find safety till help could be obtained from Shangyung, which was near. But disappointments dogged them. Very soon the army of Wu came up and laid siege to the city. “Who will try to break through and go away to Shangyung for assistance?” asked Kuan Yü. “I will go,” said Liao Hua."
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-076-line-038",
+        "order": 38,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "關平入城，堅守不出。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“And I will escort you past the danger zone,” said Kuan P‘ing."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-076-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "且說劉封、孟達自取上庸，太守申耽率眾歸降，因此漢中王加劉封為副將軍，與孟達同守上庸。當日探知關公兵敗，二人正議間，忽報廖化至。封令請入問之。化曰：「關公兵敗，見困於麥城，被圍至急。蜀中援兵，不能旦夕即至。特令某突圍而出，來此求救。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Kuan Yü wrote his letter, which Liao Hua concealed next his skin, and having eaten a full meal, he rode out at the gate. A certain leader of the enemy, Ting Fêng, tried to check him, but Kuan P‘ing fought vigorously and drove him away. So Liao reached the city, while Kuan P‘ing returned. Then they barred the gates and went not forth again. Now, having captured Shangyung, Liu Fêng and Mêng Ta had remained to guard it, and the Prefect had surrendered. Liu Fêng had been created an assistant general with Mêng Ta to aid him. When they heard of the defeat of Kuan Yü they took counsel what to do. When Liao Hua came, he was admitted into the city. He told the tale of Kuan Yü's straits, and asked for help."
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-076-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "望二將軍速起上庸之兵，以救此危。倘稍遲延，公必陷矣。」封曰：「將軍且歇，容某計議。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Kuan Yü is closely besieged in Maich'êng. Help from the west will be a long time in coming, so I have been sent to beg your assistance. I hope you will march the Shangyung troops thither as quickly as possible, for any delay will be fatal.”"
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-076-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "化乃至館驛安歇，耑候發兵。劉封謂孟達曰：「叔父被困，如之奈何？」達曰：「東吳兵精將勇；且荊州九郡，俱已屬彼，止有麥城，乃彈丸之地；又聞曹操親督大軍四五十萬，屯於摩陂；量我等山城之眾，安能敵得兩家之強兵？不可輕敵。」封曰：「吾亦知之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liu Fêng replied, “Sir, go to the rest-house for a time till we can decide.” So he went, and the two leaders talked over the matter. Liu Fêng said, “This is bad news; what is to be done?” “Wu is very powerful,” replied his colleague. “Now they have control over the whole district save this small clod of earth called Maich'êng. Ts‘ao Ts‘ao is at hand with half a hundred legions, and we cannot stand against the two mighty houses. I say we must not move.” “I know all this. But Kuan Yü is my uncle, and I cannot bear to sit still and not try to save him. ”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-076-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "奈關公是吾叔父，安忍坐視而不救乎？」達笑曰：「將軍以關公為叔，恐關公未必以將軍為姪也。某聞漢中王初嗣將軍之時，關公即不悅。後漢中王登位之後，欲立後嗣，問於孔明。孔明曰：『此家事也，問關、張可矣。』漢中王遂遣人至荊州問關公。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“So you hold him as an uncle!” said Mêng Ta with a smile. “Yet I do not think he holds you much as a nephew. When the Prince of Hanchung created him a generalissimo he was greatly annoyed. And after the prince had accepted his new dignity and was nominating his heir, I hear he consulted K‘ung-ming, who said the affair was one to be decided within the family and declined to advise. Then the prince sent to ask Kuan Yü's advice. Did he name you? Not at all. You were only a son by adoption and could have no place in the succession. Further, he advised that you be sent to a distance lest you might cause trouble. This is common knowledge, and I am surprised that you are ignorant of it. Yet to-day you make capital out of the relationship and are willing to run a great risk to support it.”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-076-line-043",
+        "order": 43,
+        "source_block_chunk": 3,
+        "source_block_order": 17,
+        "text": "關公以將軍乃螟蛉之子，不可僭立，勸漢中王遠置將軍於上庸山城之地，以杜後患。此事人人知之，將軍豈反不知耶？何今日猶沾沾以叔姪之義，而欲冒險輕動乎？」封曰：「君言雖是，但以何詞卻之？」達曰：「但言山城初附，民心未定，不敢造次興兵，恐失所守。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Granted that what you say is true, still what reply can we give?” “Simply say that this city is still unsettled and you dare not move lest it be lost.” Liu Fêng took his colleague’s view, sent for the messenger and told him. Liao Hua was greatly disappointed. He threw ​ himself on the ground and knocked his head, imploring assistance. “If you act thus, there is an end of Kuan Yü,” cried he. “Will a cup of water extinguish a waggon load of blazing wood?” said Mêng Ta. “Hasten back and await patiently for the coming of help from the west.”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-076-line-044",
+        "order": 44,
+        "source_block_chunk": 4,
+        "source_block_order": 17,
+        "text": "」封從其言；次日請廖化至，言：「此山城初附之所，未能分兵相救。」化大驚，以頭叩地曰：「若如此，則關公休矣！」達曰：「我今即往，一盃之水，安能救一車薪之火乎？將軍速回，靜候蜀兵至可也。」化大慟告求。劉封、孟達皆拂袖而入。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Liao Hua renewed his entreaties. The two commanders simply rose, shook out their sleeves and left him. Liao Hua saw that things had gone against him and thought his best course would be to go at once to Ch'êngtu. He rode out of the city cursing its defenders and went away west. Kuan Yü from his fortress looked anxiously, but vainly, for the coming of the expected aid. He was in a sorry plight. His men numbered but a few hundred, many wounded; there was no food."
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-076-line-045",
+        "order": 45,
+        "source_block_chunk": 5,
+        "source_block_order": 17,
+        "text": "廖化知事不諧，尋思須告漢中王求救，遂上馬大罵出城，望成都而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The someone came to the foot of the wall and, calling out to the men on the wall not to shoot, said he had a message for the commander. He was allowed to enter; it was Chuko Chin. When he had made his salutations and taken tea, he began his harangue."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-076-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "卻說關公在麥城盼望上庸兵到，卻不見動靜；手下止有五六百人，多半帶傷；城中無糧，甚是苦楚。忽報城下一人教休放箭，有話來見君侯。公令放入，問之，乃諸葛瑾也。禮畢茶罷，瑾曰：「今奉吳侯命，特來勸諭將軍。自古道：『識時務者為俊傑。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I come at the command of my master, Marquis Wu, to persuade you to a wise course. From of old it has always been recognised that the hero must bow to circumstances. The districts that you ruled have come under another, with the exception of this single city. Within, there is no food, without, no help, so that it must fall quickly. Wherefore, O General, why not hear me and join your fortunes to those of Wu? You shall be restored to your governorship and you will preserve your family. If haply, Sir, you would reflect thereon.”"
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-076-line-047",
+        "order": 47,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "』今將軍所統漢上九郡，皆已屬他人矣；止有孤城一區，內無糧草，外無救兵，危在旦夕。將軍何不從瑾之言，歸順吳侯，復鎮荊襄，可以保全家眷。幸君侯熟思之。」關公正色而言曰：「吾乃解良一武夫，蒙吾主以手足相待，安肯背義投敵國乎？城若破，有死而已。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü replied, quite calmly, “I am a simple soldier of Chiehliang. I am the ‘hands and feet' of my lord, his brother. How can I betray him? The city may fall, and then I can but die. Jade may be shattered, but its whiteness remains; bamboo may be burned, but its joints stand out. My body may be broken, but my fame shall live in history. Say no more, but leave the city, I beg. I will fight Sun Ch'üan to the death.”"
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-076-line-048",
+        "order": 48,
+        "source_block_chunk": 3,
+        "source_block_order": 18,
+        "text": "玉可碎而不可改其白，竹可焚而不可毀其節。身雖殞，名可垂於竹帛也。汝勿多言，速請出城。吾欲與孫權決一死戰！」瑾曰：「吳侯欲與君侯結秦晉之好，同力破曹，共扶漢室，別無他意。君侯何執迷如是？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“My master desires to enter into such a league with you as did Ts‘in and Chin in former days, that you may mutually assist to destroy Ts‘ao Ts‘ao and restore the Hans. That is his idea, and why do you persist in this wrong course?” As he finished this speech, Kuan P‘ing, who was by, drew his sword to slay him. But his father checked him."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-076-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "言未畢，關平拔劍而前，欲斬諸葛瑾。公止之曰：「彼弟孔明在蜀，佐汝伯父，今若殺彼，傷其兄弟之情也。」遂令左右逐出諸葛瑾。瑾滿面羞慚，上馬出城，回見吳侯曰：「關公心如鐵石，不可說也。」孫權曰：「真忠臣也！似此如之奈何？」呂範曰：「某請卜其休咎。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Remember his brother is in Shu, helping your uncle. If you hurt him you will injure the principle of fraternity.” He then bade his servants lead Chuko Chin away. He went, his face covered with shame, and left the city. When he reached his master he told of Kuan Yü's obduracy and rejection of all argument. ​ “He is indeed a loyal servant!” said Sun Ch'üan. “Still, what is to be done next?” “Take the sortes ,” said Lü Fan."
+          }
+        }
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-076-line-050",
+        "order": 50,
+        "source_block_chunk": 2,
+        "source_block_order": 19,
+        "text": "」權即令卜之。範揲蓍成象，乃「地水師卦」，更有玄武臨應，主敵人遠奔。權問呂蒙曰：「卦主敵人遠奔，卿以何策擒之？」蒙笑曰：「卦象正合某之機也。關公雖有沖天之翼，飛不出吾羅網矣！」正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So the lots were taken and explained to mean that the lord’s enemies should flee to a distance. Then Sun Ch‘üan asked Lü Mêng, saying, “If he fly to a distance, how can he be captured?” “The divination exactly fits in with my schemes,” replied he, “and though Kuan had wings to soar to the skies he would not escape my net.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-076-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "龍游溝壑遭蝦戲，鳳入牢籠被鳥欺。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The dragon in a puddle is the sport of shrimps, The phoenix in a cage is mocked of small birds."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-076-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "畢竟呂蒙之計若何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The scheme of Lü Mêng will be unfolded in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說糜芳聞荊州已失，正無計可施。忽報公安守將傅士仁至，芳忙接入城，問其事故。士仁曰：「吾非不忠，勢危力困，不能支持。我今已降東吳，將軍亦不如早降。」芳曰：「吾等受漢中王厚恩，安忍背之？」士仁曰：「關公去日，痛恨吾二人；倘一日得勝而回，必無輕恕。公細察之。」芳曰：「吾兄弟久事漢中王，豈可一朝相背？」正猶豫間，忽報關公遣使至，接入廳上。使者曰：「關公軍中缺糧，特來南郡、公安二處取白米十萬石，令二將軍星夜去解，軍前交割。如遲立斬。」芳大驚，顧謂傅士仁曰：「今荊州已被東吳所取，此糧怎得過去？」士仁厲聲曰：「不必多疑！」遂拔劍斬來使於堂上。芳驚曰：「公如何？」士仁曰：「關公此意，正要斬我二人。我等安可束手受死？公今不早降東吳，必被關公所殺。」正說間，忽報呂蒙引兵殺至城下。芳大驚，乃同傅士仁出城投降。蒙大喜，引見孫權。權重賞二人。安民已畢，大犒三軍。\n時曹操在許都，正與眾謀士議荊州之事，忽報東吳遣使奉書至。操召入，使者呈上書信。操拆視之，書中具言吳兵將襲荊州，求操夾攻雲長；且囑勿洩漏，使雲長有備也。操與眾謀士商議。主簿董昭曰：「今樊城被困，引頸望救，不如令人將書射入樊城，以寬軍心；且使關公知東吳將襲荊州。彼恐荊州有失，必速退兵，卻令徐晃乘勢掩殺，可獲全功。」操從其謀，一面差人催徐晃急戰；一面親統大兵，逕往雒陽之南陽陵陂駐紮，以救曹仁。\n卻說徐晃正坐帳中，忽報魏王使至。晃接入問之。使曰：「今魏王引兵，已過雒陽；令將軍急戰關公，以解樊城之困。」正說間，探馬報說：「關平屯兵在偃城，廖化屯兵在四冢。前後一十二個寨柵，連絡不絕。」晃即差副將徐商、呂建假著徐晃旗號，前赴偃城與關平交戰。晃卻自引精兵五百，循沔水去襲偃城之後。\n且說關平聞徐晃自引兵至，遂提本部兵迎敵。兩陣對圓，關平出馬，與徐商交鋒，只三合，商大敗而走；呂建出戰，五六合亦敗走。平乘勝追殺二十餘里，忽報城中火起。平知中計，急勒兵回救偃城，正遇一彪軍擺開。徐晃立馬在門旗下，高叫曰：「關平賢姪，好不知死！汝荊州己被東吳奪了，猶然在此狂為！」平大怒，縱馬掄刀，直取徐晃；不三四合，三軍喊叫，偃城中火光大起。平不敢戀戰，殺條大路，逕奔四冢寨來。廖化接著。化曰：「人言荊州已被呂蒙襲了，軍心驚慌，如之奈何？」平曰：「此必訛言也。軍士再言者斬之。」\n忽流星馬到，報說正北第一屯被徐晃領兵攻打。平曰：「若第一屯有失，諸營豈得安寧？此間皆靠沔水，賊兵不敢到此。吾與汝同去救第一屯。」廖化喚部將分付曰：「汝等堅守營寨，如有賊到，即便舉火。」部將曰：「四冢寨鹿角十重，雖飛鳥亦不能入，何慮賊兵？」於是關平、廖化盡起四冢寨精兵，奔至第一屯駐紮。關平看見魏兵屯於淺山之上，謂廖化曰：「徐晃屯兵，不得地利，今夜可引兵劫寨。」化曰：「將軍可分兵一半前去，某當謹守本寨。」\n是夜，關平引一枝兵殺入魏寨，不見一人。平知是計，火速退時，左邊徐商，右邊呂建，兩下夾攻。平大敗回營，魏兵乘勢追殺前來，四面圍住。關平、廖化支持不住，棄了第一屯，逕投四冢寨來。早望見寨中火起。急到寨前，只見皆是魏兵旗號。關平等退兵，忙奔樊城大路而走。前面一軍攔住，為首大將，乃徐晃也。平、化二人奮力死戰，奪路而走，回到大寨，來見關公曰：「今徐晃奪了偃城等處；又兼曹操自引大軍，分三路來救樊城；多有人言荊州已被呂蒙襲了。」關公喝曰：「此敵人訛言，以亂我軍心耳！東吳呂蒙病危，孺子陸遜代之，不足為慮！」\n言未畢，忽報徐晃兵至，公令備馬。平諫曰：「父體未痊，不可與敵。」公曰：「徐晃與我有舊，深知其能；若彼不退，吾先斬之，以警魏將。」遂披挂提刀上馬，奮然而出。魏軍見之，無不驚懼。公勒馬問曰：「徐公明安在？」魏營門旗開處，徐晃出馬，欠身而言曰：「自別君侯，倏忽數載。不想君侯鬚髮已蒼白矣。憶昔壯年相從，多蒙教誨，感謝不忘。今君侯英風震於華夏，使故人聞之，不勝歎羨！茲幸得一見，深慰渴懷。」公曰：「吾與公明交契深厚，非比他人；今何故數窮吾兒耶？」晃回顧眾將，厲聲大叫曰：「若取得雲長首級者，重賞千金！」公驚曰：「公明何出此言？」晃曰：「今日乃國家之事，某不敢以私廢公。」\n言訖，揮大斧直取關公。公大怒，亦揮刀迎之，戰八十餘合。公雖武藝絕倫，終是右臂少力。關平恐公有失，火急鳴金。公撥馬回寨，忽聞四下裏喊聲大震。原來是樊城曹仁聞曹操救兵至，引軍殺出城來，與徐晃會合，兩下夾攻。荊州兵大亂。關公上馬，引眾將急奔襄江上流頭。背後魏兵追至。關公急渡過襄江，望襄陽而奔。忽流星馬到，報說：「荊州已被呂蒙所奪，家眷被陷。」關公大驚，不敢奔襄陽，提兵投公安來。探馬又報：「公安傅士仁已降東吳了。」關公大怒。忽催糧人到，報說：「公安傅士仁往南郡，殺了使命，招糜芳都降東吳去了。」\n關公聞言，怒氣沖塞，瘡口迸裂，昏絕於地。眾將救醒。公顧謂司馬王甫曰：「悔不聽足下之言，今日果有此事！」因問：「沿江上下，何不舉火？」探馬答曰：「呂蒙使水手盡穿白衣，扮作客商渡江，將精兵伏於𦩷𦪇之中，先擒了守臺士卒，因此不得舉火。」公跌足歎曰：「吾中奸賊之謀矣！有何面目見兄長耶！」管糧都督趙累曰：「今事急矣，可一面差人往成都求救，一面從旱路去取荊州。」關公依言，差馬良、伊籍齎文三道，星夜赴成都求救；一面引兵來取荊州；自領前隊先行，留廖化、關平斷後。\n卻說樊城圍解，曹仁引眾將來見曹操，泣拜請罪。操曰：「此乃天數，非汝等之罪也。」操重賞三軍，親至四冢寨，周圍閱視，顧謂諸將曰：「荊州兵圍塹鹿角數重，徐公明深入其中，竟獲全功。孤用兵三十餘年，未敢長驅逕入敵圍。公明真膽識兼優者也！」眾皆歎服。操班師還於摩陂駐紮。徐晃兵至，操親出寨迎之。見晃軍皆按隊伍而行，並無差亂。操大喜曰：「徐將軍真有周亞夫之風矣！」遂封徐晃為平南將軍，同夏侯尚守襄陽，以遏關公之師。操因荊州未定，就屯兵於摩陂，以候消息。\n卻說關公在荊州路上，進退無路，謂趙累曰：「目今前有吳兵，後有魏兵，吾在其中，救兵不至，如之奈何？」累曰：「昔呂蒙在陸口時，嘗致書君侯，兩家約好，共誅操賊；今卻助曹而襲我，是背盟也。君侯暫駐軍於此，可差人遺書呂蒙責之，看彼如何對答。」關公從其言，遂修書遣使赴荊州來。\n卻說呂蒙在荊州，傳下號令：凡荊州諸郡，有隨關公出征將士之家，不許吳兵攪擾，按月給與糧米；有患病者，遣醫治療。將士之家，感其恩惠，安堵不動。忽報關公使至，呂蒙出郭迎接入城，以賓禮相待。使者呈書與蒙。蒙看畢，謂來使曰：「蒙昔日與關將軍結好，乃一己之私見；今日之事，乃上命差遣，不得自主。煩使者回報將軍，善言致意。」遂設宴款待，送歸館驛安歇。於是隨征將士之家，皆來問信。有附家書者，有口傳音信者，皆言家門無恙，衣食不缺。使者辭別呂蒙，蒙親送出城。使者回見關公，具道呂蒙之語，並說荊州城中，君侯寶眷並諸將家屬，俱各無恙，供給不缺。公大怒曰：「此奸賊之計也！我生不能殺此賊，死必殺之，以雪我恨！」喝退使者。使者出寨，眾將皆來探問家中之事。使者具言各家安好，呂蒙極其恩恤，並將書信傳送各將。各將欣喜，皆無戰心。\n關公率兵取荊州，軍行之次，將士多有逃回荊州者。關公愈加恨怒，遂催軍前進。忽然喊聲大震，一彪軍攔住；為首大將，乃蔣欽也，勒馬挺鎗大叫曰：「雲長何不早降！」關公罵曰：「吾乃漢將，豈降賊乎！」拍馬舞刀，直取蔣欽。不三合，欽敗走。關公提刀追殺二十餘里，喊聲忽起，左邊山谷中，韓當領兵衝出；右邊山谷中，周泰引軍衝出；蔣欽回馬復戰：三路夾攻。關公急撤軍回走。行無數里，只見南山岡上人煙聚集，一面白旗招颭，上寫「荊州土人」四字，眾人都叫：「本處人速速投降！」關公大怒，欲上岡殺之。山崦內又有兩軍撞出，左邊丁奉，右邊徐盛，并合蔣欽等三路軍馬，喊聲震地，鼓角喧天，將關公困在垓心。手下將士，漸漸離散。\n比及殺到黃昏，關公遙望四山之上，皆是荊州士兵，呼兄喚弟，覓子尋爺，喊聲不住。軍心盡變，皆應聲而去。關公止喝不住。部從止有三百餘人。殺至三更，正東上喊聲連天，乃是關平、廖化分為兩路兵殺入重圍，救出關公。關平告曰：「軍心亂矣。必得城池暫屯，以待援兵。麥城雖小，足可屯紮。」關公從之，催促殘軍前至麥城，分兵緊守四門，聚將士商議。趙累曰：「此處相近上庸，現有劉封、孟達在彼把守，可速差人往求救兵。若得這枝軍馬接濟，以待川兵大至，軍心自安矣。」\n正議間，忽報吳兵已至，將城四面圍定。公問曰：「誰敢突圍而出，往上庸求救？」廖化曰：「某願往。」關平曰：「我護送汝出重圍。」關公即修書付廖化藏於身畔，飽食上馬，開門出城。正遇吳將丁奉截住，被關平奮力衝殺。奉敗走。廖化乘勢殺出重圍，投上庸去了。關平入城，堅守不出。\n且說劉封、孟達自取上庸，太守申耽率眾歸降，因此漢中王加劉封為副將軍，與孟達同守上庸。當日探知關公兵敗，二人正議間，忽報廖化至。封令請入問之。化曰：「關公兵敗，見困於麥城，被圍至急。蜀中援兵，不能旦夕即至。特令某突圍而出，來此求救。望二將軍速起上庸之兵，以救此危。倘稍遲延，公必陷矣。」封曰：「將軍且歇，容某計議。」\n化乃至館驛安歇，耑候發兵。劉封謂孟達曰：「叔父被困，如之奈何？」達曰：「東吳兵精將勇；且荊州九郡，俱已屬彼，止有麥城，乃彈丸之地；又聞曹操親督大軍四五十萬，屯於摩陂；量我等山城之眾，安能敵得兩家之強兵？不可輕敵。」封曰：「吾亦知之。奈關公是吾叔父，安忍坐視而不救乎？」達笑曰：「將軍以關公為叔，恐關公未必以將軍為姪也。某聞漢中王初嗣將軍之時，關公即不悅。後漢中王登位之後，欲立後嗣，問於孔明。孔明曰：『此家事也，問關、張可矣。』漢中王遂遣人至荊州問關公。關公以將軍乃螟蛉之子，不可僭立，勸漢中王遠置將軍於上庸山城之地，以杜後患。此事人人知之，將軍豈反不知耶？何今日猶沾沾以叔姪之義，而欲冒險輕動乎？」封曰：「君言雖是，但以何詞卻之？」達曰：「但言山城初附，民心未定，不敢造次興兵，恐失所守。」封從其言；次日請廖化至，言：「此山城初附之所，未能分兵相救。」化大驚，以頭叩地曰：「若如此，則關公休矣！」達曰：「我今即往，一盃之水，安能救一車薪之火乎？將軍速回，靜候蜀兵至可也。」化大慟告求。劉封、孟達皆拂袖而入。廖化知事不諧，尋思須告漢中王求救，遂上馬大罵出城，望成都而去。\n卻說關公在麥城盼望上庸兵到，卻不見動靜；手下止有五六百人，多半帶傷；城中無糧，甚是苦楚。忽報城下一人教休放箭，有話來見君侯。公令放入，問之，乃諸葛瑾也。禮畢茶罷，瑾曰：「今奉吳侯命，特來勸諭將軍。自古道：『識時務者為俊傑。』今將軍所統漢上九郡，皆已屬他人矣；止有孤城一區，內無糧草，外無救兵，危在旦夕。將軍何不從瑾之言，歸順吳侯，復鎮荊襄，可以保全家眷。幸君侯熟思之。」關公正色而言曰：「吾乃解良一武夫，蒙吾主以手足相待，安肯背義投敵國乎？城若破，有死而已。玉可碎而不可改其白，竹可焚而不可毀其節。身雖殞，名可垂於竹帛也。汝勿多言，速請出城。吾欲與孫權決一死戰！」瑾曰：「吳侯欲與君侯結秦晉之好，同力破曹，共扶漢室，別無他意。君侯何執迷如是？」\n言未畢，關平拔劍而前，欲斬諸葛瑾。公止之曰：「彼弟孔明在蜀，佐汝伯父，今若殺彼，傷其兄弟之情也。」遂令左右逐出諸葛瑾。瑾滿面羞慚，上馬出城，回見吳侯曰：「關公心如鐵石，不可說也。」孫權曰：「真忠臣也！似此如之奈何？」呂範曰：「某請卜其休咎。」權即令卜之。範揲蓍成象，乃「地水師卦」，更有玄武臨應，主敵人遠奔。權問呂蒙曰：「卦主敵人遠奔，卿以何策擒之？」蒙笑曰：「卦象正合某之機也。關公雖有沖天之翼，飛不出吾羅網矣！」正是：\n龍游溝壑遭蝦戲，鳳入牢籠被鳥欺。\n畢竟呂蒙之計若何，且看下文分解。",
+    "title": "第七十六回 徐公明大戰沔水　　　關雲長敗走麥城"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-076.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

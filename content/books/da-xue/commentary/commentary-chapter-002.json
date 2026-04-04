@@ -1,0 +1,78 @@
+{
+  "commentary": {
+    "character_count": 40,
+    "id": "commentary-chapter-002",
+    "order": 2,
+    "reading_unit_count": 4,
+    "reading_units": [
+      {
+        "character_count": 14,
+        "id": "commentary-chapter-002-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "湯之盤銘曰：「苟日新，日日新，又日新。」"
+      },
+      {
+        "character_count": 6,
+        "id": "commentary-chapter-002-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "康誥曰：「作新民。」"
+      },
+      {
+        "character_count": 10,
+        "id": "commentary-chapter-002-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "詩曰：「周雖舊邦，其命惟新。」"
+      },
+      {
+        "character_count": 10,
+        "id": "commentary-chapter-002-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "是故君子無所不用其極。"
+      }
+    ],
+    "summary": "釋新民",
+    "supplemental_text": "盤，沐浴之盤也。銘，名其器以自警之辭也。苟，誠也。湯以人之洗濯其心以去惡，如沐浴其身以去垢。故銘其盤，言誠能一日有以滌其舊染之汙而自新，則當因其已新者，而日日新之，又日新之，不可略有間斷也。鼓之舞之之謂作，言振起其自新之民也。詩大雅文王之篇。言周國雖舊，至於文王，能新其德以及於民，而始受天命也。自新新民，皆欲止於至善也。\n右傳之二章。釋新民。",
+    "supplemental_unit_count": 3,
+    "supplemental_units": [
+      {
+        "character_count": 97,
+        "id": "commentary-chapter-002-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "盤，沐浴之盤也。銘，名其器以自警之辭也。苟，誠也。湯以人之洗濯其心以去惡，如沐浴其身以去垢。故銘其盤，言誠能一日有以滌其舊染之汙而自新，則當因其已新者，而日日新之，又日新之，不可略有間斷也。鼓之舞之之謂作，言振起其自新之民也。"
+      },
+      {
+        "character_count": 41,
+        "id": "commentary-chapter-002-supp-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "詩大雅文王之篇。言周國雖舊，至於文王，能新其德以及於民，而始受天命也。自新新民，皆欲止於至善也。"
+      },
+      {
+        "character_count": 8,
+        "id": "commentary-chapter-002-supp-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "右傳之二章。釋新民。"
+      }
+    ],
+    "text": "湯之盤銘曰：「苟日新，日日新，又日新。」\n康誥曰：「作新民。」\n詩曰：「周雖舊邦，其命惟新。」\n是故君子無所不用其極。",
+    "title": "右傳之二章"
+  },
+  "commentary_path": "books/da-xue/commentary/commentary-chapter-002.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

@@ -1,0 +1,1516 @@
+{
+  "chapter": {
+    "character_count": 2633,
+    "id": "chapter-012",
+    "order": 12,
+    "reading_unit_count": 86,
+    "reading_units": [
+      {
+        "character_count": 16,
+        "id": "chapter-012-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "任人有問屋廬子曰：「禮與食孰重？」曰：「禮重。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A man of Ren asked the disciple Wu Lu, saying, 'Is an observance of the rules of propriety in regard to eating, or eating merely, the more important?' The answer was, 'The observance of the rules of propriety is the more important.'"
+          }
+        }
+      },
+      {
+        "character_count": 5,
+        "id": "chapter-012-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "「色與禮孰重？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The man pursued, 'If the result of eating only according to the rules of propriety will be death by starvation, while by disregarding those rules we may get food, must they still be observed in such a case?"
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-012-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "「色與禮孰重？」曰：「禮重。」曰：「以禮食，則飢而死；不以禮食，則得食，必以禮乎？親迎，則不得妻；不親迎，則得妻，必親迎乎！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If according to the rule that he shall go in person to meet his wife a man cannot get married, while by disregarding that rule he may get married, must he still observe the rule in such a case?'"
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-012-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "屋廬子不能對，明日之鄒以告孟子。孟子曰：「於答是也何有？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wu Lu was unable to reply to these questions, and the next day he went to Zou, and told them to Mencius."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-012-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "不揣其本而齊其末，方寸之木可使高於岑樓。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'What difficulty is there in answering these inquiries?"
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-012-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "金重於羽者，豈謂一鉤金與一輿羽之謂哉？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If you do not adjust them at their lower extremities, but only put their tops on a level, a piece of wood an inch square may be made to be higher than the pointed peak of a high building."
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-012-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "取食之重者，與禮之輕者而比之，奚翅食重？取色之重者，與禮之輕者而比之，奚翅色重？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gold is heavier than feathers; but does that saying have reference, on the one hand, to a single clasp of gold, and, on the other, to a waggon-load of feathers?"
+          }
+        }
+      },
+      {
+        "character_count": 49,
+        "id": "chapter-012-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "往應之曰：『紾兄之臂而奪之食，則得食；不紾，則不得食，則將紾之乎？踰東家牆而摟其處子，則得妻；不摟，則不得妻，則將摟之乎？』」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If you take a case where the eating is of the utmost importance and the observing the rules of propriety is of little importance, and compare the things together, why stop with saying merely that the eating is more important? So, taking the case where the gratifying the appetite of sex is of the utmost importance and the observing the rules of propriety is of little importance, why stop with merely saying that the gratifying the appetite is the more important? Go and answer him thus, \"If, by twisting your elder brother's arm, and snatching from him what he is eating, you can get food for yourself, while, if you do not do so, you will not get anything to eat, will you so twist his arm? If by getting over your neighbour's wall, and dragging away his virgin daughter, you can get a wife, while if you do not do so, you will not be able to get a wife, will you so drag her away?\"'"
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-012-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "曹交問曰：「人皆可以為堯舜，有諸？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Jiao of Cao asked Mencius, saying, 'It is said, \"All men may be Yaos and Shuns;\"-- is it so?'"
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-012-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "交聞文王十尺，湯九尺，今交九尺四寸以長，食粟而已，如何則可？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Jiao went on, 'I have heard that king Wen was ten cubits high, and Tang nine. Now I am nine cubits four inches in height. But I can do nothing but eat my millet. What am I to do to realize that saying?'"
+          }
+        }
+      },
+      {
+        "character_count": 66,
+        "id": "chapter-012-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "曰：「奚有於是？亦為之而已矣。有人於此，力不能勝一匹雛，則為無力人矣；今曰舉百鈞，則為有力人矣。然則舉烏獲之任，是亦為烏獲而已矣。夫人豈以不勝為患哉？弗為耳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius answered him, 'What has this - the question of size - to do with the matter?"
+          }
+        }
+      },
+      {
+        "character_count": 40,
+        "id": "chapter-012-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "徐行後長者謂之弟，疾行先長者謂之不弟。夫徐行者，豈人所不能哉？所不為也。堯舜之道，孝弟而已矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It all lies simply in acting as such."
+          }
+        }
+      },
+      {
+        "character_count": 36,
+        "id": "chapter-012-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "子服堯之服，誦堯之言，行堯之行，是堯而已矣；子服桀之服，誦桀之言，行桀之行，是桀而已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Here is a man, whose strength was not equal to lift a duckling - he was then a man of no strength. But to-day he says, \"I can lift 3,000 catties' weight,\" and he is a man of strength. And so, he who can lift the weight which Wu Huo lifted is just another Wu Huo. Why should a man make a want of ability the subject of his grief? It is only that he will not do the thing. To walk slowly, keeping behind his elders, is to perform the part of a younger. To walk quickly and precede his elders, is to violate the duty of a younger brother. Now, is it what a man cannot do - to walk slowly? It is what he does not do. The course of Yao and Shun was simply that of filial piety and fraternal duty. Wear the clothes of Yao, repeat the words of Yao, and do the actions of Yao, and you will just be a Yao. And, if you wear the clothes of Jie, repeat the words of Jie, and do the actions of Jie, you will just be a Jie."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-012-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "曰：「交得見於鄒君，可以假館，願留而受業於門。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Jiao said, 'I shall be having an interview with the prince of Zou, and can ask him to let me have a house to lodge in. I wish to remain here, and receive instruction at your gate.'"
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-012-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "曰：「夫道，若大路然，豈難知哉？人病不求耳。子歸而求之，有餘師。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius replied, 'The way of truth is like a great road. It is not difficult to know it. The evil is only that men will not seek it. Do you go home and search for it, and you will have abundance of teachers.'"
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-012-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "公孫丑問曰：「高子曰：『小弁，小人之詩也。』」孟子曰：「何以言之？」曰：「怨。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gong Sun Chou asked about an opinion of the scholar Gao, saying, 'Gao observed, \"The Xiao Pan is the ode of a little man.\"' Mencius asked, 'Why did he say so?' 'Because of the murmuring which it expresses,' was the reply."
+          }
+        }
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-012-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "曰：「固哉，高叟之為《詩》也！有人於此，越人關弓而射之，則己談笑而道之；無他，疏之也。其兄關弓而射之，則己垂涕泣而道之；無他，戚之也。小弁之怨，親親也。親親，仁也。固矣夫，高叟之為《詩》也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius answered, 'How stupid was that old Gao in dealing with the ode! There is a man here, and a native of Yue bends his bow to shoot him. I will advise him not to do so, but speaking calmly and smilingly; for no other reason but that he is not related to me. But if my own brother be bending his bow to shoot the man, then I will advise him not to do so, weeping and crying the while; for no other reason than that he is related to me. The dissatisfaction expressed in the Xiao Pan is the working of relative affection, and that affection shows benevolence. Stupid indeed was old Gao's criticism on the ode.'"
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-012-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "曰：「《凱風》何以不怨？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chou then said, 'How is it that there is no dissatisfaction expressed in the Kai Feng?'"
+          }
+        }
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-012-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "曰：「凱風，親之過小者也；小弁，親之過大者也。親之過大而不怨，是愈疏也；親之過小而怨，是不可磯也。愈疏，不孝也；不可磯，亦不孝也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius replied, 'The parent's fault referred to in the Kai Feng is small; that referred to in the Xiao Pan is great."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-012-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "孔子曰：『舜其至孝矣，五十而慕。』」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Where the parent's fault was great, not to have murmured on account of it would have increased the want of natural affection. Where the parent's fault was small, to have murmured on account of it would have been to act like water which frets and foams about a stone that interrupts its course. To increase the want of natural affection would have been unfilial, and to fret and foam in such a manner would also have been unfilial. Confucius said, \"Shun was indeed perfectly filial! And yet, when he was fifty, he was full of longing desire about his parents.\"'"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-012-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "宋牼將之楚，孟子遇於石丘。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Song Keng being about to go to Chu, Mencius met him in Shi Qiu."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-012-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "曰：「先生將何之？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'Master, where are you going?' asked Mencius."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-012-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "曰：「吾聞秦楚構兵，我將見楚王說而罷之。楚王不悅，我將見秦王說而罷之，二王我將有所遇焉。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Keng replied, 'I have heard that Qin and Chu are fighting together, and I am going to see the king of Chu and persuade him to cease hostilities. If he shall not be pleased with my advice, I shall go to see the king of Qin, and persuade him in the same way. Of the two kings I shall surely find that I can succeed with one of them.'"
+          }
+        }
+      },
+      {
+        "character_count": 40,
+        "id": "chapter-012-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "曰：「軻也請無問其詳，願聞其指。說之將何如？」曰：「我將言其不利也。」曰：「先生之志則大矣，先生之號則不可。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'I will not venture to ask about the particulars, but I should like to hear the scope of your plan."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-012-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "先生以利說秦楚之王，秦楚之王悅於利，以罷三軍之師，是三軍之士樂罷而悅於利也。為人臣者懷利以事其君，為人子者懷利以事其父，為人弟者懷利以事其兄。是君臣、父子、兄弟終去仁義，懷利以相接，然而不亡者，未之有也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "What course will you take to try to persuade them?' Keng answered, 'I will tell them how unprofitable their course is to them.' 'Master,' said Mencius, 'your aim is great, but your argument is not good."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-012-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "先生以仁義說秦楚之王，秦楚之王悅於仁義，而罷三軍之師，是三軍之士樂罷而悅於仁義也。為人臣者懷仁義以事其君，為人子者懷仁義以事其父，為人弟者懷仁義以事其兄，是君臣、父子、兄弟去利，懷仁義以相接也。然而不王者，未之有也。何必曰利？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If you, starting from the point of profit, offer your persuasive counsels to the kings of Qin and Chu, and if those kings are pleased with the consideration of profit so as to stop the movements of their armies, then all belonging to those armies will rejoice in the cessation of war, and find their pleasure in the pursuit of profit. Ministers will serve their sovereign for the profit of which they cherish the thought; sons will serve their fathers, and younger brothers will serve their elder brothers, from the same consideration - and the issue will be, that, abandoning benevolence and righteousness, sovereign and minister, father and son, younger brother and elder, will carry on all their intercourse with this thought of profit cherished in their breasts. But never has there been such a state of society, without ruin being the result of it. If you, starting from the ground of benevolence and righteousness, offer your counsels to the kings of Qin and Chu, and if those kings are pleased with the consideration of benevolence and righteousness so as to stop the operations of their armies, then all belonging to those armies will rejoice in the stopping from war, and find their pleasure in benevolence and righteousness. Ministers will serve their sovereign, cherishing the principles of benevolence and righteousness; sons will serve their fathers, and younger brothers will serve their elder brothers, in the same way - and so, sovereign and minister, father and son, elder brother and younger, abandoning the thought of profit, will cherish the principles of benevolence and righteousness, and carry on all their intercourse upon them. But never has there been such a state of society, without the State where it prevailed rising to the royal sway. Why must you use that word \"profit.\"'"
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-012-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "孟子居鄒，季任為任處守，以幣交，受之而不報。處於平陸，儲子為相，以幣交，受之而不報。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Mencius was residing in Zou, the younger brother of the chief of Ren, who was guardian of Ren at the time, paid his respects to him by a present of silks, which Mencius received, not going to acknowledge it."
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-012-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "他日由鄒之任，見季子；由平陸之齊，不見儲子。屋廬子喜曰：「連得閒矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When he was sojourning in Ping Lu, Chu, who was prime minister of the State, sent him a similar present, which he received in the same way."
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-012-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "問曰：「夫子之任見季子，之齊不見儲子，為其為相與？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Subsequently, going from Zou to Ren, he visited the guardian; but when he went from Ping Lu to the capital of Qi, he did not visit the minister Chu. The disciple Wu Lu was glad, and said, 'I have got an opportunity to obtain some instruction.' He asked accordingly, 'Master, when you went to Ren, you visited the chief's brother; and when you went to Qi, you did not visit Chu. Was it not because he is only the minister?'"
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-012-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "曰：「非也。書曰：『享多儀，儀不及物曰不享，惟不役志于享。』",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius replied, 'No."
+          }
+        }
+      },
+      {
+        "character_count": 6,
+        "id": "chapter-012-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 31,
+        "text": "為其不成享也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is said in the Book of History, \"In presenting an offering to a superior, most depends on the demonstrations of respect. If those demonstrations are not equal to the things offeredred, we say there is no offering, that is, there is no act of the will presenting the offering.\" This is because the things so offered do not constitute an offering to a superior.'"
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-012-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 32,
+        "text": "屋廬子悅。或問之。屋廬子曰：「季子不得之鄒，儲子得之平陸。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wu Lu was pleased, and when some one asked him what Mencius meant, he said, 'The younger of Ren could not go to Zou, but the minister Chu might have gone to Ping Lu.'"
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-012-line-033",
+        "order": 33,
+        "source_block_chunk": 1,
+        "source_block_order": 33,
+        "text": "淳于髡曰：「先名實者，為人也；後名實者，自為也。夫子在三卿之中，名實未加於上下而去之，仁者固如此乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chun Yu Kun said, 'He who makes fame and meritorious services his first objects, acts with a regard to others. He who makes them only secondary objects, acts with a regard to himself. You, master, were ranked among the three chief ministers of the State, but before your fame and services had reached either to the prince or the people, you have left your place. Is this indeed the way of the benevolent?'"
+          }
+        }
+      },
+      {
+        "character_count": 66,
+        "id": "chapter-012-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 34,
+        "text": "孟子曰：「居下位，不以賢事不肖者，伯夷也；五就湯，五就桀者，伊尹也；不惡汙君，不辭小官者，柳下惠也。三子者不同道，其趨一也。一者何也？曰：仁也。君子亦仁而已矣，何必同？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius replied, 'There was Bo Yi - he abode in an inferior situation, and would not, with his virtue, serve a degenerate prince. There was Yi Yin - he five times went to Tang, and five times went to Jie. There was Hui of Liu Xia - he did not disdain to serve a vile prince, nor did he decline a small office. The courses pursued by those three worthies were different, but their aim was one. And what was their one aim? We must answer \"To be perfectly virtuous.\" And so it is simply after this that superior men strive. Why must they all pursue the same course?'"
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-012-line-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 35,
+        "text": "曰：「魯繆公之時，公儀子為政，子柳、子思為臣，魯之削也滋甚。若是乎賢者之無益於國也！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kun pursued, 'In the time of the duke Mu of Lu, the government was in the hands of Gong Yi, while Zi Liu and Zi Si were ministers."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-012-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 36,
+        "text": "曰：「虞不用百里奚而亡，秦穆公用之而霸。不用賢則亡，削何可得與？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And yet, the dismemberment of Lu then increased exceedingly. Such was the case, a specimen how your men of virtue are of no advantage to a kingdom!' Mencius said, 'The prince of Yu did not use Bai Li Xi, and thereby lost his State. The duke Mu of Qin used him, and became chief of all the princes. Ruin is the consequence of not employing men of virtue and talents - how can it rest with dismemberment merely?'"
+          }
+        }
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-012-line-037",
+        "order": 37,
+        "source_block_chunk": 1,
+        "source_block_order": 37,
+        "text": "曰：「昔者王豹處於淇，而河西善謳；綿駒處於高唐，而齊右善歌；華周、杞梁之妻善哭其夫，而變國俗。有諸內必形諸外。為其事而無其功者，髡未嘗睹之也。是故無賢者也，有則髡必識之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kun urged again, 'Formerly, when Wang Bao dwelt on the Qi, the people on the west of the Yellow River all became skilful at singing in his abrupt manner."
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-012-line-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 38,
+        "text": "曰：「孔子為魯司寇，不用，從而祭，燔肉不至，不稅冕而行。不知者以為為肉也。其知者以為為無禮也。乃孔子則欲以微罪行，不欲為苟去。君子之所為，眾人固不識也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Mian Ju lived in Gao Tang, the people in the parts of Qi on the west became skilful at singing in his prolonged manner. The wives of Hua Zhou and Qi Liang bewailed their husbands so skilfully, that they changed the manners of the State. When there is the gift within, it manifests itself without. I have never seen the man who could do the deeds of a worthy, and did not realize the work of one. Therefore there are now no men of talents and virtue. If there were, I should know them.' Mencius answered, 'When Confucius was chief minister of Justice in Lu, the prince came not to follow his counsels. Soon after there was the solstitial sacrifice, and when a part of the flesh presented in sacrifice was not sent to him, he went away even without taking off his cap of ceremony. Those who did not know him supposed it was on account of the flesh. Those who knew him supposed that it was on account of the neglect of the usual ceremony. The fact was, that Confucius wanted to go away on occasion of some small offence, not wishing to do so without some apparent cause. All men cannot be expected to understand the conduct of a superior man.'"
+          }
+        }
+      },
+      {
+        "character_count": 34,
+        "id": "chapter-012-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 39,
+        "text": "孟子曰：「五霸者，三王之罪人也；今之諸侯，五霸之罪人也；今之大夫，今之諸侯之罪人也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'The five chiefs of the princes were sinners against the three kings."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-012-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 40,
+        "text": "天子適諸侯曰巡狩，諸侯朝於天子曰述職。春省耕而補不足，秋省斂而助不給。入其疆，土地辟，田野治，養老尊賢，俊傑在位，則有慶，慶以地。入其疆，土地荒蕪，遺老失賢，掊克在位，則有讓。一不朝，則貶其爵；再不朝，則削其地；三不朝，則六師移之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The princes of the present day are sinners against the five chiefs."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-012-line-041",
+        "order": 41,
+        "source_block_chunk": 2,
+        "source_block_order": 40,
+        "text": "是故天子討而不伐，諸侯伐而不討。五霸者，摟諸侯以伐諸侯者也，故曰：五霸者，三王之罪人也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Great officers of the present day are sinners against the princes. The sovereign visited the princes, which was called \"A tour of Inspection.\" The princes attended at the court of the sovereign, which was called \"Giving a report of office.\" It was a custom in the spring to examine the ploughing, and supply any deficiency of seed; and in autumn to examine the reaping, and assist where there was a deficiency of the crop. When the sovereign entered the boundaries of a State, if the new ground was being reclaimed, and the old fields well cultivated; if the old were nourished and the worthy honoured; and if men of distinguished talents were placed in office: then the prince was rewarded - rewarded with an addition to his territory. On the other hand, if, on entering a State, the ground was found left wild or overrun with weeds; if the old were neglected and the worthy unhonoured; and if the offices were filled with hard taxgatherers: then the prince was reprimanded. If a prince once omitted his attendance at court, he was punished by degradation of rank; if he did so a second time, he was deprived of a portion of his territory; if he did so a third time, the royal forces were set in motion, and he was removed from his government. Thus the sovereign commanded the punishment, but did not himself inflict it, while the princes inflicted the punishment, but did not command it. The five chiefs, however, dragged the princes to punish other princes, and hence I say that they were sinners against the three kings."
+          }
+        }
+      },
+      {
+        "character_count": 77,
+        "id": "chapter-012-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 41,
+        "text": "五霸，桓公為盛。葵丘之會諸侯，束牲、載書而不歃血。初命曰：『誅不孝，無易樹子，無以妾為妻。』再命曰：『尊賢育才，以彰有德。』三命曰：『敬老慈幼，無忘賓旅。』四命曰：『士無世官，官事無攝，取士必得，無專殺大夫。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'Of the five chiefs the most powerful was the duke Huan."
+          }
+        }
+      },
+      {
+        "character_count": 51,
+        "id": "chapter-012-line-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 41,
+        "text": "』五命曰：『無曲防，無遏糴，無有封而不告。』曰：『凡我同盟之人，既盟之後，言歸于好。』今之諸侯，皆犯此五禁，故曰：今之諸侯，五霸之罪人也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At the assembly of the princes in Kui Qiu, he bound the victim and placed the writing upon it, but did not slay it to smear their mouths with the blood. The first injunction in their agreement was, \"Slay the unfilial; change not the son who has been appointed heir; exalt not a concubine to be the wife.\" The second was, \"Honour the worthy, and maintain the talented, to give distinction to the virtuous.\" The third was, \"Respect the old, and be kind to the young. Be not forgetful of strangers and travellers.\" The fourth was, \"Let not offices be hereditary, nor let officers be pluralists. In the selection of officers let the object be to get the proper men. Let not a ruler take it on himself to put to death a Great officer.\" The fifth was, \"Follow no crooked policy in making embankments. Impose no restrictions on the sale of grain. Let there be no promotions without first announcing them to the sovereign.\" It was then said, \"All we who have united in this agreement shall hereafter maintain amicable relations.\" The princes of the present day all violate these five prohibitions, and therefore I say that the princes of the present day are sinners against the five chiefs."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-012-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 42,
+        "text": "長君之惡其罪小，逢君之惡其罪大。今之大夫，皆逢君之惡，故曰：今之大夫，今之諸侯之罪人也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'The crime of him who connives at, and aids, the wickedness of his prince is small, but the crime of him who anticipates and excites that wickedness is great. The officers of the present day all go to meet their sovereigns' wickedness, and therefore I say that the Great officers of the present day are sinners against the princes.'"
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-012-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 43,
+        "text": "魯欲使慎子為將軍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The prince of Lu wanted to make the minister Shen commander of his army."
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-012-line-046",
+        "order": 46,
+        "source_block_chunk": 1,
+        "source_block_order": 44,
+        "text": "孟子曰：「不教民而用之，謂之殃民。殃民者，不容於堯舜之世。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'To employ an uninstructed people in war may be said to be destroying the people."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-012-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 45,
+        "text": "一戰勝齊，遂有南陽，然且不可。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A destroyer of the people would not have been tolerated in the times of Yao and Shun. Though by a single battle you should subdue Qi, and get possession of Nan Yang, the thing ought not to be done.'"
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-012-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 46,
+        "text": "慎子勃然不悅曰：「此則滑釐所不識也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Shen changed countenance, and said in displeasure, 'This is what I, Gu Li, do not understand.'"
+          }
+        }
+      },
+      {
+        "character_count": 40,
+        "id": "chapter-012-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 47,
+        "text": "曰：「吾明告子。天子之地方千里；不千里，不足以待諸侯。諸侯之地方百里；不百里，不足以守宗廟之典籍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'I will lay the case plainly before you."
+          }
+        }
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-012-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 48,
+        "text": "周公之封於魯，為方百里也；地非不足，而儉於百里。太公之封於齊也，亦為方百里也；地非不足也，而儉於百里。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The territory appropriated to the sovereign is 1,000 li square."
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-012-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 49,
+        "text": "今魯方百里者五，子以為有王者作，則魯在所損乎？在所益乎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Without a thousand li, he would not have sufficient for his entertainment of the princes."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-012-line-052",
+        "order": 52,
+        "source_block_chunk": 1,
+        "source_block_order": 50,
+        "text": "徒取諸彼以與此，然且仁者不為，況於殺人以求之乎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The territory appropriated to a Hou is 100 li square. Without 100 li, he would not have sufficient wherewith to observe the statutes kept in his ancestral temple. When Zhou Gong was invested with the principality of Lu, it was a hundred li square. The territory was indeed enough, but it was not more than 100 li. When Tai Gong was invested with the principality of Qi, it was 100 li square. The territory was indeed enough, but it was not more than 100 li. Now Lu is five times 100 li square. If a true royal ruler were to arise, whether do you think that Lu would be diminished or increased by him? If it were merely taking the place from the one State to give it to the other, a benevolent man would not do it; how much less will he do so, when the end is to be sought by the slaughter of men! The way in which a superior man serves his prince contemplates simply the leading him in the right path, and directing his mind to benevolence.'"
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-012-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 51,
+        "text": "君子之事君也，務引其君以當道，志於仁而已。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said,"
+          }
+        }
+      },
+      {
+        "character_count": 48,
+        "id": "chapter-012-line-054",
+        "order": 54,
+        "source_block_chunk": 1,
+        "source_block_order": 52,
+        "text": "孟子曰：「今之事君者曰：『我能為君辟土地，充府庫。』今之所謂良臣，古之所謂民賊也。君不鄉道，不志於仁，而求富之，是富桀也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'Those who now-a-days serve their sovereigns say,"
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-012-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 53,
+        "text": "『我能為君約與國，戰必克。』今之所謂良臣，古之所謂民賊也。君不鄉道，不志於仁，而求為之強戰，是輔桀也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "\"We can for our sovereign enlarge the limits of the cultivated ground,"
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-012-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 54,
+        "text": "由今之道，無變今之俗，雖與之天下，不能一朝居也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "and fill his treasuries and arsenals.\" Such persons are now-a-days called \"Good ministers,\" but anciently they were called \"Robbers of the people.\" If a sovereign follows not the right way, nor has his mind bent on benevolence, to seek to enrich him is to enrich a Jie. Or they will say, \"We can for our sovereign form alliances with other States, so that our battles must be successful.\" Such persons are now-a-days called \"Good ministers,\" but anciently they were called \"Robbers of the people.\" If a sovereign follows not the right way, nor has his mind directed to benevolence, to seek to enrich him is to enrich a Jie. Although a prince, pursuing the path of the present day, and not changing its practices, were to have the throne given to him, he could not retain it for a single morning.'"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-012-line-057",
+        "order": 57,
+        "source_block_chunk": 1,
+        "source_block_order": 55,
+        "text": "白圭曰：「吾欲二十而取一，何如？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Bai Gui said, 'I want to take a twentieth of the produce only as the tax. What do you think of it?'"
+          }
+        }
+      },
+      {
+        "character_count": 9,
+        "id": "chapter-012-line-058",
+        "order": 58,
+        "source_block_chunk": 1,
+        "source_block_order": 56,
+        "text": "孟子曰：「子之道，貉道也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Your way would be that of the Mo."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-012-line-059",
+        "order": 59,
+        "source_block_chunk": 1,
+        "source_block_order": 57,
+        "text": "萬室之國，一人陶，則可乎？」曰：「不可，器不足用也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In a country of ten thousand families, would it do to have only one potter?' Gui replied, 'No. The vessels would not be enough to use.'"
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-012-line-060",
+        "order": 60,
+        "source_block_chunk": 1,
+        "source_block_order": 58,
+        "text": "曰：「夫貉，五穀不生，惟黍生之。無城郭、宮室、宗廟、祭祀之禮，無諸侯幣帛饔飧，無百官有司，故二十取一而足也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius went on, 'In Mo all the five kinds of grain are not grown; it only produces the millet."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-012-line-061",
+        "order": 61,
+        "source_block_chunk": 1,
+        "source_block_order": 59,
+        "text": "今居中國，去人倫，無君子，如之何其可也？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There are no fortified cities, no edifices, no ancestral temples, no ceremonies of sacrifice; there are no princes requiring presents and entertainments; there is no system of officers with their various subordinates."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-012-line-062",
+        "order": 62,
+        "source_block_chunk": 1,
+        "source_block_order": 60,
+        "text": "陶以寡，且不可以為國，況無君子乎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On these accounts a tax of one-twentieth of the produce is sufficient there."
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-012-line-063",
+        "order": 63,
+        "source_block_chunk": 1,
+        "source_block_order": 61,
+        "text": "欲輕之於堯舜之道者，大貉小貉也；欲重之於堯舜之道者，大桀小桀也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But now it is the Middle Kingdom that we live in. To banish the relationships of men, and have no superior men - how can such a state of things be thought of? With but few potters a kingdom cannot subsist; how much less can it subsist without men of a higher rank than others? If we wish to make the taxation lighter than the system of Yao and Shun, we shall just have a great Mo and a small Mo. If we wish to make it heavier, we shall just have the great Jie and the small Jie.'"
+          }
+        }
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-012-line-064",
+        "order": 64,
+        "source_block_chunk": 1,
+        "source_block_order": 62,
+        "text": "白圭曰：「丹之治水也愈於禹。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Bai Gui said, 'My management of the waters is superior to that of Yu.'"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-012-line-065",
+        "order": 65,
+        "source_block_chunk": 1,
+        "source_block_order": 63,
+        "text": "孟子曰：「子過矣。禹之治水，水之道也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius replied, 'You are wrong, Sir."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-012-line-066",
+        "order": 66,
+        "source_block_chunk": 1,
+        "source_block_order": 64,
+        "text": "是故禹以四海為壑，今吾子以鄰國為壑。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yu's regulation of the waters was according to the laws of water."
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-012-line-067",
+        "order": 67,
+        "source_block_chunk": 1,
+        "source_block_order": 65,
+        "text": "水逆行，謂之洚水。洚水者，洪水也，仁人之所惡也。吾子過矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He therefore made the four seas their receptacle, while you make the neighbouring States their receptacle. Water flowing out of its channels is called an inundation. Inundating waters are a vast waste of water, and what a benevolent man detests. You are wrong, my good Sir.'"
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-012-line-068",
+        "order": 68,
+        "source_block_chunk": 1,
+        "source_block_order": 66,
+        "text": "孟子曰：「君子不亮，惡乎執？」惡，平聲。亮，信也，與諒同。惡乎執，言凡事苟且，無所執持也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said: \"If a gentleman is not trustworthy, what can he hold fast to?\" E is read in the level tone. Liang means trustworthiness, the same as liang. 'What can he hold fast to' means that if in every matter one is careless and makes do, there is nothing one can firmly hold to."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-012-line-069",
+        "order": 69,
+        "source_block_chunk": 1,
+        "source_block_order": 67,
+        "text": "魯欲使樂正子為政。孟子曰：「吾聞之，喜而不寐。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lu wanted to employ Yue Zhengzi in government. Mencius said: \"When I heard it, I was so pleased that I could not sleep.\""
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-012-line-070",
+        "order": 70,
+        "source_block_chunk": 1,
+        "source_block_order": 68,
+        "text": "公孫丑曰：「樂正子強乎？」曰：「否。」「有知慮乎？」曰：「否。」「多聞識乎？」曰：「否。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Gongsun Chou said: \"Is Yue Zhengzi forceful?\" Mencius said: \"No.\" \"Does he have wisdom and foresight?\" \"No.\" \"Is he widely learned and broadly informed?\" \"No.\""
+          }
+        }
+      },
+      {
+        "character_count": 8,
+        "id": "chapter-012-line-071",
+        "order": 71,
+        "source_block_chunk": 1,
+        "source_block_order": 69,
+        "text": "「然則奚為喜而不寐？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'Is the love of what is good sufficient?' 'The love of what is good is more than a sufficient qualification for the government of the kingdom; how much more is it so for the State of Lu!"
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-012-line-072",
+        "order": 72,
+        "source_block_chunk": 1,
+        "source_block_order": 70,
+        "text": "曰：「其為人也好善。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If a minister love what is good, all within the four seas will count 1000 li but a small distance, and will come and lay their good thoughts before him."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-012-line-073",
+        "order": 73,
+        "source_block_chunk": 1,
+        "source_block_order": 71,
+        "text": "「好善足乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "'Is the love of what is good sufficient?' 'The love of what is good is more than a sufficient qualification for the government of the kingdom; how much more is it so for the State of Lu!"
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-012-line-074",
+        "order": 74,
+        "source_block_chunk": 1,
+        "source_block_order": 72,
+        "text": "曰：「好善優於天下，而況魯國乎？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If a minister love what is good, all within the four seas will count 1000 li but a small distance, and will come and lay their good thoughts before him."
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-012-line-075",
+        "order": 75,
+        "source_block_chunk": 1,
+        "source_block_order": 73,
+        "text": "夫苟好善，則四海之內，皆將輕千里而來告之以善。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If he do not love what is good, men will say, \"How self-conceited he looks?"
+          }
+        }
+      },
+      {
+        "character_count": 61,
+        "id": "chapter-012-line-076",
+        "order": 76,
+        "source_block_chunk": 1,
+        "source_block_order": 74,
+        "text": "夫苟不好善，則人將曰：『訑訑，予既已知之矣。』訑訑之聲音顏色，距人於千里之外。士止於千里之外，則讒諂面諛之人至矣。與讒諂面諛之人居，國欲治，可得乎？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He is saying to himself, I know it.\" The language and looks of that self-conceit will keep men off at a distance of 1,000 li. When good men stop 1,000 li off, calumniators, flatterers, and sycophants will make their appearance. When a minister lives among calumniators, flatterers, and sycophants, though he may wish the State to be well governed, is it possible for it to be so?'"
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-012-line-077",
+        "order": 77,
+        "source_block_chunk": 1,
+        "source_block_order": 75,
+        "text": "陳子曰：「古之君子何如則仕？」孟子曰：「所就三，所去三。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The disciple Chen said, 'What were the principles on which superior men of old took office?' Mencius replied, 'There were three cases in which they accepted office, and three in which they left it."
+          }
+        }
+      },
+      {
+        "character_count": 27,
+        "id": "chapter-012-line-078",
+        "order": 78,
+        "source_block_chunk": 1,
+        "source_block_order": 76,
+        "text": "迎之致敬以有禮，言將行其言也，則就之；禮貌未衰，言弗行也，則去之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If received with the utmost respect and all polite observances, and they could say to themselves that the prince would carry their words into practice, then they took office with him."
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-012-line-079",
+        "order": 79,
+        "source_block_chunk": 1,
+        "source_block_order": 77,
+        "text": "其次，雖未行其言也，迎之致敬以有禮，則就之；禮貌衰，則去之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Afterwards, although there might be no remission in the polite demeanour of the prince, if their words were not carried into practice, they would leave him."
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-012-line-080",
+        "order": 80,
+        "source_block_chunk": 1,
+        "source_block_order": 78,
+        "text": "其下，朝不食，夕不食，飢餓不能出門戶。君聞之曰：『吾大者不能行其道，又不能從其言也，使飢餓於我土地，吾恥之。』周之，亦可受也，免死而已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The second case was that in which, though the prince could not be expected at once to carry their words into practice, yet being received by him with the utmost respect, they took office with him. But afterwards, if there was a remission in his polite demeanour, they would leave him. The last case was that of the superior man who had nothing to eat, either morning or evening, and was so famished that he could not move out of his door. If the prince, on hearing of his state, said, \"I must fail in the great point, that of carrying his doctrines into practice, neither am I able to follow his words, but I am ashamed to allow him to die of want in my country;\" the assistance offered in such a case might be received, but not beyond what was sufficient to avert death.'"
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-012-line-081",
+        "order": 81,
+        "source_block_chunk": 1,
+        "source_block_order": 79,
+        "text": "孟子曰：「舜發於畎畝之中，傅說舉於版築之閒，膠鬲舉於魚鹽之中，管夷吾舉於士，孫叔敖舉於海，百里奚舉於市。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'Shun rose from among the channelled fields."
+          }
+        }
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-012-line-082",
+        "order": 82,
+        "source_block_chunk": 1,
+        "source_block_order": 80,
+        "text": "故天將降大任於是人也，必先苦其心志，勞其筋骨，餓其體膚，空乏其身，行拂亂其所為，所以動心忍性，曾益其所不能。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Fu Yue was called to office from the midst of his building frames; Jiao Ge from his fish and salt; Guan Yi Wu from the hands of his gaoler; Sun Shu Ao from his hiding by the sea-shore; and Bai Li Xi from the market-place."
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-012-line-083",
+        "order": 83,
+        "source_block_chunk": 1,
+        "source_block_order": 81,
+        "text": "人恒過，然後能改；困於心，衡於慮，而後作；徵於色，發於聲，而後喻。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thus, when Heaven is about to confer a great office on any man, it first exercises his mind with suffering, and his sinews and bones with toil."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-012-line-084",
+        "order": 84,
+        "source_block_chunk": 1,
+        "source_block_order": 82,
+        "text": "入則無法家拂士，出則無敵國外患者，國恒亡。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It exposes his body to hunger, and subjects him to extreme poverty. It confounds his undertakings. By all these methods it stimulates his mind, hardens his nature, and supplies his incompetencies. Men for the most part err, and are afterwards able to reform. They are distressed in mind and perplexed in their thoughts, and then they arise to vigorous reformation. When things have been evidenced in men's looks, and set forth in their words, then they understand them. If a prince have not about his court families attached to the laws and worthy counsellors, and if abroad there are not hostile States or other external calamities, his kingdom will generally come to ruin. From these things we see how life springs from sorrow and calamity, and death from ease and pleasure.'"
+          }
+        }
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-012-line-085",
+        "order": 85,
+        "source_block_chunk": 1,
+        "source_block_order": 83,
+        "text": "然後知生於憂患而死於安樂也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It confounds his undertakings. By all these methods it stimulates his mind, hardens his nature, and supplies his incompetencies. Men for the most part err, and are afterwards able to reform. They are distressed in mind and perplexed in their thoughts, and then they arise to vigorous reformation. When things have been evidenced in men's looks, and set forth in their words, then they understand them. If a prince have not about his court families attached to the laws and worthy counsellors, and if abroad there are not hostile States or other external calamities, his kingdom will generally come to ruin. From these things we see how life springs from sorrow and calamity, and death from ease and pleasure.'"
+          }
+        }
+      },
+      {
+        "character_count": 24,
+        "id": "chapter-012-line-086",
+        "order": 86,
+        "source_block_chunk": 1,
+        "source_block_order": 84,
+        "text": "孟子曰：「教亦多術矣，予不屑之教誨也者，是亦教誨之而已矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mencius said, 'There are many arts in teaching. I refuse, as inconsistent with my character, to teach a man, but I am only thereby still teaching him.'"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "凡十六章。\n任，平聲。任，國名。屋廬子，名連，孟子弟子也。任人復問也。迎，去聲。於，如字。何有，不難也。揣，初委反。本，謂下。末，謂上。方寸之木至卑，喻食色。岑樓，樓之高銳似山者，至高，喻禮。若不取其下之平，而升寸木於岑樓之上，則寸木反高，岑樓反卑矣。鉤，帶鉤也。金木重而帶鉤小，故輕，喻禮有輕於食色者；羽本輕而一輿多，故重，喻食色有重於禮者。翅，與啻同，古字通用，施智反。禮食親迎，禮之輕者也。飢而死以滅其性，不得妻而廢人倫，食色之重者也。奚翅，猶言何但。言其相去懸絕，不但有輕重之差而已。紾，音軫。摟，音婁。紾，戾也。摟，牽也。處子，處女也。此二者，禮與食色皆其重者，而以之相較，則禮為尤重也。此章言義理事物，其輕重固有大分，然於其中，又各自有輕重之別。聖賢於此，錯綜斟酌，毫髮不差，固不肯枉尺而直尋，亦未嘗膠柱而調瑟，所以斷之，一視於理之當然而已矣。\n趙氏曰：「曹交，曹君之弟也。」人皆可以為堯舜，疑古語，或孟子所嘗言也。曹交問也。食粟而已，言無他材能也。勝，平聲。匹，字本作鴄，鴨也，從省作匹。禮記說「匹為鶩」是也。烏獲，古之有力人也，能舉移千鈞。後，去聲。長，上聲。先，去聲。夫，音扶。陳氏曰：「孝弟者，人之良知良能，自然之性也。堯舜人倫之至，亦率是性而已。豈能加毫末於是哉？」楊氏曰：「堯舜之道大矣，而所以為之，乃在夫行止疾徐之閒，非有甚高難行之事也，百姓蓋日用而不知耳。」之、行，並去聲。言為善為惡，皆在我而已。詳曹交之問。淺陋麤率，必其進見之時，禮貌衣冠言動之閒，多不循理，故孟子告之如此兩節云見，音現。假館而後受業，又可見其求道之不篤。夫，音扶。言道不難知，若歸而求之事親敬長之閒，則性分之內，萬理皆備，隨處發見，無不可師，不必留此而受業也。曹交事長之禮既不至，求道之心又不篤，故孟子教之以孝弟，而不容其受業。蓋孔子餘力學文之意，亦不屑之教誨也。\n弁，音盤。高子，齊人也。小弁，小雅篇名。周幽王娶申后，生太子宜臼；又得褒姒，生伯服，而黜申后、廢宜臼。於是宜臼之傅為作此詩，以敘其哀痛迫切之情也。關，與彎同。射，食亦反。夫，音扶。固，謂執滯不通也。為，猶治也。越，蠻夷國名。道，語也。親親之心，仁之發也。凱風，邶風篇名。衛有七子之母，不能安其室，七子作此以自責也。磯，音機。磯，水激石也。不可磯，言微激之而遽怒也。言舜猶怨慕，小弁之怨，不為不孝也。趙氏曰：「生之膝下，一體而分。喘息呼吸，氣通於親。當親而疏，怨慕號天。是以小弁之怨，未足為愆也。」\n牼，口莖反。宋，姓；牼，名。石丘，地名。趙氏曰：「學士年長者，故謂之先生。」說，音稅。時宋牼方欲見楚王，恐其不悅，則將見秦王也。遇，合也。按莊子書：「有宋鈃者，禁攻寢兵，救世之戰。上說下教，強聒不舍。」疏云：「齊宣王時人。」以事考之，疑即此人也。徐氏曰：「能於戰國擾攘之中，而以罷兵息民為說，其志可謂大矣；然以利為名，則不可也。」樂，音洛，下同。王，去聲。此章言休兵息民，為事則一，然其心有義利之殊，而其效有興亡之異，學者所當深察而明辨之也。\n任，平聲。相，去聲，下同。趙氏曰：「季任，任君之弟。任君朝會於鄰國，季任為之居守其國也。儲子，齊相也。」不報者，來見則當報之，但以幣交，則不必報也。屋廬子知孟子之處此必有義理，故喜得其閒隙而問之。為其之為，去聲，下同。與，平聲。言儲子但為齊相，不若季子攝守君位，故輕之邪？書周書洛誥之篇。享，奉上也。儀，禮也。物，幣也。役，用也。言雖享而禮意不及其幣，則是不享矣，以其不用志於享故也。孟子釋書意如此。徐氏曰：「季子為君居守，不得往他國以見孟子，則以幣交而禮意已備。儲子為齊相，可以至齊之境內而不來見，則雖以幣交，而禮意不及其物也。」\n先、後、為，皆去聲。名，聲譽也。實，事功也。言以名實為先而為之者，是有志於救民也；以名實為後而不為者，是欲獨善其身者也。名實未加於上下，言上未能正其君，下未能濟其民也。惡、趨，並去聲。仁者，無私心而合天理之謂。楊氏曰：「伊尹之就湯，以三聘之勤也。其就桀也，湯進之也。湯豈有伐桀之意哉？其進伊尹以事之也，欲其悔過遷善而已。伊尹既就湯，則以湯之心為心矣；及其終也，人歸之，天命之，不得已而伐之耳。若湯初求伊尹，即有伐桀之心，而伊尹遂相之以伐桀，是以取天下為心也。以取天下為心，豈聖人之心哉？」公儀子，名休，為魯相。子柳，泄柳也。削，地見侵奪也。髡譏孟子雖不去，亦未必能有為也。與，平聲。百里奚，事見前篇。華，去聲。王豹，衛人，善謳。淇，水名。綿駒，齊人，善歌。高唐，齊西邑。華周、杞梁，二人皆齊臣，戰死於莒。其妻哭之哀，國俗化之皆善哭。髡以此譏孟子仕齊無功，未足為賢也。稅，音脫。為肉、為無之為，並去聲。按史記：「孔子為魯司寇，攝行相事。齊人聞而懼，於是以女樂遺魯君。季桓子與魯君往觀之，怠於政事。子路曰：『夫子可以行矣。』孔子曰：『魯今且郊，如致膰于大夫，則吾猶可以止。』桓子卒受齊女樂，郊又不致膰俎于大夫，孔子遂行。」孟子言以為為肉者，固不足道；以為為無禮，則亦未為深知孔子者。蓋聖人於父母之國，不欲顯其君相之失，又不欲為無故而苟去，故不以女樂去，而以膰肉行。其見幾明決，而用意忠厚，固非眾人所能識也。然則孟子之所為，豈髡之所能識哉？尹氏曰：「淳于髡未嘗知仁，亦1未嘗識賢也，宜乎其言若是。」1. 亦 : Originally read: \"而\". 據清仿宋大字本改。\n趙氏曰：「五霸：齊桓、晉文、秦穆、宋襄、楚莊也。三王，夏禹、商湯、周文、武也。」丁氏曰：「夏昆吾，商大彭、豕韋，周齊桓、晉文，謂之五霸。」朝，音潮。辟，與闢同。治，去聲。慶，賞也，益其地以賞之也。掊克，聚斂也。讓，責也。移之者，誅其人而變置之也。討者，出命以討其罪，而使方伯連帥帥諸侯以伐之也。伐者奉天子之命，聲其罪而伐之也。摟，牽也。五霸牽諸侯以伐諸侯，不用天子之命也。自入其疆至則有讓，言巡狩之事；自一不朝至六師移之，言述職之事。歃，所洽反。糴，音狄。好，去聲。按春秋傳：「僖公九年，葵丘之會，陳牲而不殺。讀書加於牲上，壹明天子之禁。」樹，立也。已立世子，不得擅易。初命三事，所以修身正家之要也。賓，賓客也。旅，行旅也。皆當有以待之，不可忽忘也。士世祿而不世官，恐其未必賢也。官事無攝，當廣求賢才以充之，不可以闕人廢事也。取士必得，必得其人也。無專殺大夫，有罪則請命於天子而後殺之也。無曲防，不得曲為隄防，壅泉1激水，以專小利，病鄰國也。無遏糴，鄰國凶荒，不得閉糴也。無有封而不告者，不得專封國邑而不告天子也。長，上聲。君有過不能諫，又順之者，長君之惡也。君之過未萌，而先意導之者，逢君之惡也。林氏曰：「邵子有言：『治春秋者，不先治五霸之功罪，則事無統理，而不得聖人之心。春秋之閒，有功者未有大於五霸，有過者亦未有大於五霸。故五霸者，功之首，罪之魁也。』孟子此章之義，其若此也與？然五霸得罪於三王，今之諸侯得罪於五霸，皆出於異世，故得以逃其罪。至於今之大夫，其得罪於今之諸侯，則同時矣；而諸侯非惟莫之罪也，乃反以為良臣而厚禮之。不以為罪而反以為功，何其謬哉！」1. 泉 : Originally read: \"水\". 據清仿宋大字本改。\n慎子，魯臣。教民者，教之禮義，使知入事父兄，出事長上也。用之，使之戰也。是時魯蓋欲使慎子伐齊，取南陽也。故孟子言就使慎子善戰有功如此，且猶不可。滑，音骨。滑釐，慎子名。待諸侯，謂待其朝覲聘問之禮。宗廟典籍，祭祀會同之常制也。二公有大勳勞於天下，而其封國不過百里。儉，止而不過之意也。魯地之大，皆并吞小國而得之。有王者作，則必在所損矣。徒，空也，言不殺人而取之也。當道，謂事合於理，志仁，謂心在於仁。\n為，去聲。辟，與闢同。鄉，與向同，下皆同。辟，開墾也。約，要結也。與國，和好相與之國也。言必爭奪而至於危亡也。\n白圭，名丹，周人也。欲更稅法，二十分而取其一分。林氏曰：「按史記：白圭能薄飲食，忍嗜欲，與童僕同苦樂。樂觀時變，人棄我取，人取我與，以此居積致富。其為此論，蓋欲以其術施之國家也。」貉，音陌。貉，北方夷狄之國名也。孟子設喻以詰圭，而圭亦知其不可也。夫，音扶。北方地寒，不生五穀，黍早熟，故生之。饔飧，以飲食饋客之禮也。無君臣、祭祀、交際之禮，是去人倫；無百官有司，是無君子。因其辭以折之。什一而稅，堯舜之道也。多則桀，寡則貉。今欲輕重之，則是小貉、小桀而已。\n趙氏曰：「當時諸侯有小水，白圭為之築隄，壅而注之他國。」順水之性也。壑，受水處也。惡，去聲。水逆行者，下流壅塞，故水逆流，今乃壅水以害人，則與洪水之災無異矣。\n喜其道之得行。知，去聲。此三者，皆當世之所尚，而樂正子之所短，故丑疑而歷問之。丑問也。好，去聲，下同。丑問也。優，有餘裕也。言雖治天下，尚有餘力也。夫，音扶，下同。輕，易也，言不以千里為難也。訑，音移。治，去聲。訑訑，自足其智，不嗜善言之貌。君子小人，迭為消長。直諒多聞之士遠，則讒諂面諛之人至，理勢然也。此章言為政，不在於用一己之長，而貴於有以來天下之善。\n其目在下。所謂見行可之仕，若孔子於季桓子是也。受女樂而不朝，則去之矣。所謂際可之仕，若孔子於衛靈公是也。故與公遊於囿，公仰視蜚鴈而後去之。所謂公養之仕也。君之於民，固有周之之義，況此又有悔過之言，所以可受。然未至於飢餓不能出門戶，則猶不受也。其曰免死而已，則其所受亦有節矣。\n說，音悅。舜耕歷山，三十登庸。說築傅嚴，武丁舉之。膠鬲遭亂，鬻販魚鹽，文王舉之。管仲囚於士官，桓公舉以相國。孫叔敖隱處海濱，楚莊王舉之為令尹。百里奚事見前篇。曾，與增同。降大任，使之任大事也，若舜以下是也。空，窮也。乏，絕也。拂，戾也，言使之所為不遂，多背戾也。動心忍性，謂竦動其心，堅忍其性也。然所謂性，亦指氣稟食色而言耳。程子曰：「若要熟，也須從這裏過。」衡，與橫同。恒，常也。猶言大率也。橫，不順也。作，奮起也。徵，驗也。喻，曉也。此又言中人之性，常必有過，然後能改。蓋不能謹於平日，故必事勢窮蹙，以至困於心，橫於慮，然後能奮發而興起；不能燭於幾微，故必事理暴著，以至驗於人之色，發於人之聲，然後能警悟而通曉也。拂，與弼同。此言國亦然也。法家，法度之世臣也。拂士，輔弼之賢士也。樂，音洛。以上文觀之，則知人之生全，出於憂患，而死亡由於安樂矣。尹氏曰：「言困窮拂鬱，能堅人之志，而熟人之仁，以安樂失之者多矣。」\n多術，言非一端。屑，潔也。不以其人為潔而拒絕之，所謂不屑之教誨也。其人若能感此，退自修省，則是亦我教誨之也。尹氏曰：「言或抑或揚，或與或不與，各因其材而篤之，無非教也。」",
+    "supplemental_unit_count": 47,
+    "supplemental_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-012-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "凡十六章。"
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-012-supp-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "任，平聲。任，國名。屋廬子，名連，孟子弟子也。任人復問也。迎，去聲。於，如字。何有，不難也。揣，初委反。本，謂下。末，謂上。方寸之木至卑，喻食色。岑樓，樓之高銳似山者，至高，喻禮。若不取其下之平，而升寸木於岑樓之上，則寸木反高，岑樓反卑矣。"
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-012-supp-003",
+        "order": 3,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "鉤，帶鉤也。金木重而帶鉤小，故輕，喻禮有輕於食色者；羽本輕而一輿多，故重，喻食色有重於禮者。翅，與啻同，古字通用，施智反。禮食親迎，禮之輕者也。飢而死以滅其性，不得妻而廢人倫，食色之重者也。奚翅，猶言何但。言其相去懸絕，不但有輕重之差而已。"
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-012-supp-004",
+        "order": 4,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "紾，音軫。摟，音婁。紾，戾也。摟，牽也。處子，處女也。此二者，禮與食色皆其重者，而以之相較，則禮為尤重也。此章言義理事物，其輕重固有大分，然於其中，又各自有輕重之別。"
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-012-supp-005",
+        "order": 5,
+        "source_block_chunk": 4,
+        "source_block_order": 2,
+        "text": "聖賢於此，錯綜斟酌，毫髮不差，固不肯枉尺而直尋，亦未嘗膠柱而調瑟，所以斷之，一視於理之當然而已矣。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-012-supp-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "趙氏曰：「曹交，曹君之弟也。」人皆可以為堯舜，疑古語，或孟子所嘗言也。曹交問也。食粟而已，言無他材能也。勝，平聲。匹，字本作鴄，鴨也，從省作匹。禮記說「匹為鶩」是也。烏獲，古之有力人也，能舉移千鈞。後，去聲。長，上聲。先，去聲。夫，音扶。"
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-012-supp-007",
+        "order": 7,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "陳氏曰：「孝弟者，人之良知良能，自然之性也。堯舜人倫之至，亦率是性而已。豈能加毫末於是哉？」楊氏曰：「堯舜之道大矣，而所以為之，乃在夫行止疾徐之閒，非有甚高難行之事也，百姓蓋日用而不知耳。」之、行，並去聲。言為善為惡，皆在我而已。"
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-012-supp-008",
+        "order": 8,
+        "source_block_chunk": 3,
+        "source_block_order": 3,
+        "text": "詳曹交之問。淺陋麤率，必其進見之時，禮貌衣冠言動之閒，多不循理，故孟子告之如此兩節云見，音現。假館而後受業，又可見其求道之不篤。夫，音扶。言道不難知，若歸而求之事親敬長之閒，則性分之內，萬理皆備，隨處發見，無不可師，不必留此而受業也。"
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-012-supp-009",
+        "order": 9,
+        "source_block_chunk": 4,
+        "source_block_order": 3,
+        "text": "曹交事長之禮既不至，求道之心又不篤，故孟子教之以孝弟，而不容其受業。蓋孔子餘力學文之意，亦不屑之教誨也。"
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-012-supp-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "弁，音盤。高子，齊人也。小弁，小雅篇名。周幽王娶申后，生太子宜臼；又得褒姒，生伯服，而黜申后、廢宜臼。於是宜臼之傅為作此詩，以敘其哀痛迫切之情也。關，與彎同。射，食亦反。夫，音扶。固，謂執滯不通也。為，猶治也。越，蠻夷國名。道，語也。"
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-012-supp-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "親親之心，仁之發也。凱風，邶風篇名。衛有七子之母，不能安其室，七子作此以自責也。磯，音機。磯，水激石也。不可磯，言微激之而遽怒也。言舜猶怨慕，小弁之怨，不為不孝也。趙氏曰：「生之膝下，一體而分。喘息呼吸，氣通於親。當親而疏，怨慕號天。"
+      },
+      {
+        "character_count": 11,
+        "id": "chapter-012-supp-012",
+        "order": 12,
+        "source_block_chunk": 3,
+        "source_block_order": 4,
+        "text": "是以小弁之怨，未足為愆也。」"
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-012-supp-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "牼，口莖反。宋，姓；牼，名。石丘，地名。趙氏曰：「學士年長者，故謂之先生。」說，音稅。時宋牼方欲見楚王，恐其不悅，則將見秦王也。遇，合也。按莊子書：「有宋鈃者，禁攻寢兵，救世之戰。上說下教，強聒不舍。」疏云：「齊宣王時人。"
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-012-supp-014",
+        "order": 14,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "」以事考之，疑即此人也。徐氏曰：「能於戰國擾攘之中，而以罷兵息民為說，其志可謂大矣；然以利為名，則不可也。」樂，音洛，下同。王，去聲。此章言休兵息民，為事則一，然其心有義利之殊，而其效有興亡之異，學者所當深察而明辨之也。"
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-012-supp-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "任，平聲。相，去聲，下同。趙氏曰：「季任，任君之弟。任君朝會於鄰國，季任為之居守其國也。儲子，齊相也。」不報者，來見則當報之，但以幣交，則不必報也。屋廬子知孟子之處此必有義理，故喜得其閒隙而問之。為其之為，去聲，下同。與，平聲。"
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-012-supp-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "言儲子但為齊相，不若季子攝守君位，故輕之邪？書周書洛誥之篇。享，奉上也。儀，禮也。物，幣也。役，用也。言雖享而禮意不及其幣，則是不享矣，以其不用志於享故也。孟子釋書意如此。徐氏曰：「季子為君居守，不得往他國以見孟子，則以幣交而禮意已備。"
+      },
+      {
+        "character_count": 29,
+        "id": "chapter-012-supp-017",
+        "order": 17,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "儲子為齊相，可以至齊之境內而不來見，則雖以幣交，而禮意不及其物也。」"
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-012-supp-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "先、後、為，皆去聲。名，聲譽也。實，事功也。言以名實為先而為之者，是有志於救民也；以名實為後而不為者，是欲獨善其身者也。名實未加於上下，言上未能正其君，下未能濟其民也。惡、趨，並去聲。仁者，無私心而合天理之謂。"
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-012-supp-019",
+        "order": 19,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "楊氏曰：「伊尹之就湯，以三聘之勤也。其就桀也，湯進之也。湯豈有伐桀之意哉？其進伊尹以事之也，欲其悔過遷善而已。伊尹既就湯，則以湯之心為心矣；及其終也，人歸之，天命之，不得已而伐之耳。"
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-012-supp-020",
+        "order": 20,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "若湯初求伊尹，即有伐桀之心，而伊尹遂相之以伐桀，是以取天下為心也。以取天下為心，豈聖人之心哉？」公儀子，名休，為魯相。子柳，泄柳也。削，地見侵奪也。髡譏孟子雖不去，亦未必能有為也。與，平聲。百里奚，事見前篇。華，去聲。王豹，衛人，善謳。"
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-012-supp-021",
+        "order": 21,
+        "source_block_chunk": 4,
+        "source_block_order": 7,
+        "text": "淇，水名。綿駒，齊人，善歌。高唐，齊西邑。華周、杞梁，二人皆齊臣，戰死於莒。其妻哭之哀，國俗化之皆善哭。髡以此譏孟子仕齊無功，未足為賢也。稅，音脫。為肉、為無之為，並去聲。按史記：「孔子為魯司寇，攝行相事。齊人聞而懼，於是以女樂遺魯君。"
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-012-supp-022",
+        "order": 22,
+        "source_block_chunk": 5,
+        "source_block_order": 7,
+        "text": "季桓子與魯君往觀之，怠於政事。子路曰：『夫子可以行矣。』孔子曰：『魯今且郊，如致膰于大夫，則吾猶可以止。』桓子卒受齊女樂，郊又不致膰俎于大夫，孔子遂行。」孟子言以為為肉者，固不足道；以為為無禮，則亦未為深知孔子者。"
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-012-supp-023",
+        "order": 23,
+        "source_block_chunk": 6,
+        "source_block_order": 7,
+        "text": "蓋聖人於父母之國，不欲顯其君相之失，又不欲為無故而苟去，故不以女樂去，而以膰肉行。其見幾明決，而用意忠厚，固非眾人所能識也。然則孟子之所為，豈髡之所能識哉？尹氏曰：「淳于髡未嘗知仁，亦1未嘗識賢也，宜乎其言若是。"
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-012-supp-024",
+        "order": 24,
+        "source_block_chunk": 7,
+        "source_block_order": 7,
+        "text": "」1. 亦 : Originally read: \"而\". 據清仿宋大字本改。"
+      },
+      {
+        "character_count": 74,
+        "id": "chapter-012-supp-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "趙氏曰：「五霸：齊桓、晉文、秦穆、宋襄、楚莊也。三王，夏禹、商湯、周文、武也。」丁氏曰：「夏昆吾，商大彭、豕韋，周齊桓、晉文，謂之五霸。」朝，音潮。辟，與闢同。治，去聲。慶，賞也，益其地以賞之也。掊克，聚斂也。讓，責也。"
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-012-supp-026",
+        "order": 26,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "移之者，誅其人而變置之也。討者，出命以討其罪，而使方伯連帥帥諸侯以伐之也。伐者奉天子之命，聲其罪而伐之也。摟，牽也。五霸牽諸侯以伐諸侯，不用天子之命也。自入其疆至則有讓，言巡狩之事；自一不朝至六師移之，言述職之事。歃，所洽反。糴，音狄。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-012-supp-027",
+        "order": 27,
+        "source_block_chunk": 3,
+        "source_block_order": 8,
+        "text": "好，去聲。按春秋傳：「僖公九年，葵丘之會，陳牲而不殺。讀書加於牲上，壹明天子之禁。」樹，立也。已立世子，不得擅易。初命三事，所以修身正家之要也。賓，賓客也。旅，行旅也。皆當有以待之，不可忽忘也。士世祿而不世官，恐其未必賢也。"
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-012-supp-028",
+        "order": 28,
+        "source_block_chunk": 4,
+        "source_block_order": 8,
+        "text": "官事無攝，當廣求賢才以充之，不可以闕人廢事也。取士必得，必得其人也。無專殺大夫，有罪則請命於天子而後殺之也。無曲防，不得曲為隄防，壅泉1激水，以專小利，病鄰國也。無遏糴，鄰國凶荒，不得閉糴也。無有封而不告者，不得專封國邑而不告天子也。"
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-012-supp-029",
+        "order": 29,
+        "source_block_chunk": 5,
+        "source_block_order": 8,
+        "text": "長，上聲。君有過不能諫，又順之者，長君之惡也。君之過未萌，而先意導之者，逢君之惡也。林氏曰：「邵子有言：『治春秋者，不先治五霸之功罪，則事無統理，而不得聖人之心。春秋之閒，有功者未有大於五霸，有過者亦未有大於五霸。"
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-012-supp-030",
+        "order": 30,
+        "source_block_chunk": 6,
+        "source_block_order": 8,
+        "text": "故五霸者，功之首，罪之魁也。』孟子此章之義，其若此也與？然五霸得罪於三王，今之諸侯得罪於五霸，皆出於異世，故得以逃其罪。至於今之大夫，其得罪於今之諸侯，則同時矣；而諸侯非惟莫之罪也，乃反以為良臣而厚禮之。不以為罪而反以為功，何其謬哉！"
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-012-supp-031",
+        "order": 31,
+        "source_block_chunk": 7,
+        "source_block_order": 8,
+        "text": "」1. 泉 : Originally read: \"水\". 據清仿宋大字本改。"
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-012-supp-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "慎子，魯臣。教民者，教之禮義，使知入事父兄，出事長上也。用之，使之戰也。是時魯蓋欲使慎子伐齊，取南陽也。故孟子言就使慎子善戰有功如此，且猶不可。滑，音骨。滑釐，慎子名。待諸侯，謂待其朝覲聘問之禮。宗廟典籍，祭祀會同之常制也。"
+      },
+      {
+        "character_count": 72,
+        "id": "chapter-012-supp-033",
+        "order": 33,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "二公有大勳勞於天下，而其封國不過百里。儉，止而不過之意也。魯地之大，皆并吞小國而得之。有王者作，則必在所損矣。徒，空也，言不殺人而取之也。當道，謂事合於理，志仁，謂心在於仁。"
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-012-supp-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "為，去聲。辟，與闢同。鄉，與向同，下皆同。辟，開墾也。約，要結也。與國，和好相與之國也。言必爭奪而至於危亡也。"
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-012-supp-035",
+        "order": 35,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "白圭，名丹，周人也。欲更稅法，二十分而取其一分。林氏曰：「按史記：白圭能薄飲食，忍嗜欲，與童僕同苦樂。樂觀時變，人棄我取，人取我與，以此居積致富。其為此論，蓋欲以其術施之國家也。」貉，音陌。貉，北方夷狄之國名也。"
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-012-supp-036",
+        "order": 36,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "孟子設喻以詰圭，而圭亦知其不可也。夫，音扶。北方地寒，不生五穀，黍早熟，故生之。饔飧，以飲食饋客之禮也。無君臣、祭祀、交際之禮，是去人倫；無百官有司，是無君子。因其辭以折之。什一而稅，堯舜之道也。多則桀，寡則貉。"
+      },
+      {
+        "character_count": 13,
+        "id": "chapter-012-supp-037",
+        "order": 37,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "今欲輕重之，則是小貉、小桀而已。"
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-012-supp-038",
+        "order": 38,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "趙氏曰：「當時諸侯有小水，白圭為之築隄，壅而注之他國。」順水之性也。壑，受水處也。惡，去聲。水逆行者，下流壅塞，故水逆流，今乃壅水以害人，則與洪水之災無異矣。"
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-012-supp-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "喜其道之得行。知，去聲。此三者，皆當世之所尚，而樂正子之所短，故丑疑而歷問之。丑問也。好，去聲，下同。丑問也。優，有餘裕也。言雖治天下，尚有餘力也。夫，音扶，下同。輕，易也，言不以千里為難也。訑，音移。治，去聲。"
+      },
+      {
+        "character_count": 62,
+        "id": "chapter-012-supp-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 13,
+        "text": "訑訑，自足其智，不嗜善言之貌。君子小人，迭為消長。直諒多聞之士遠，則讒諂面諛之人至，理勢然也。此章言為政，不在於用一己之長，而貴於有以來天下之善。"
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-012-supp-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "其目在下。所謂見行可之仕，若孔子於季桓子是也。受女樂而不朝，則去之矣。所謂際可之仕，若孔子於衛靈公是也。故與公遊於囿，公仰視蜚鴈而後去之。所謂公養之仕也。君之於民，固有周之之義，況此又有悔過之言，所以可受。"
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-012-supp-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 14,
+        "text": "然未至於飢餓不能出門戶，則猶不受也。其曰免死而已，則其所受亦有節矣。"
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-012-supp-043",
+        "order": 43,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "說，音悅。舜耕歷山，三十登庸。說築傅嚴，武丁舉之。膠鬲遭亂，鬻販魚鹽，文王舉之。管仲囚於士官，桓公舉以相國。孫叔敖隱處海濱，楚莊王舉之為令尹。百里奚事見前篇。曾，與增同。降大任，使之任大事也，若舜以下是也。空，窮也。乏，絕也。"
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-012-supp-044",
+        "order": 44,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "拂，戾也，言使之所為不遂，多背戾也。動心忍性，謂竦動其心，堅忍其性也。然所謂性，亦指氣稟食色而言耳。程子曰：「若要熟，也須從這裏過。」衡，與橫同。恒，常也。猶言大率也。橫，不順也。作，奮起也。徵，驗也。喻，曉也。"
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-012-supp-045",
+        "order": 45,
+        "source_block_chunk": 3,
+        "source_block_order": 15,
+        "text": "此又言中人之性，常必有過，然後能改。蓋不能謹於平日，故必事勢窮蹙，以至困於心，橫於慮，然後能奮發而興起；不能燭於幾微，故必事理暴著，以至驗於人之色，發於人之聲，然後能警悟而通曉也。拂，與弼同。此言國亦然也。法家，法度之世臣也。"
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-012-supp-046",
+        "order": 46,
+        "source_block_chunk": 4,
+        "source_block_order": 15,
+        "text": "拂士，輔弼之賢士也。樂，音洛。以上文觀之，則知人之生全，出於憂患，而死亡由於安樂矣。尹氏曰：「言困窮拂鬱，能堅人之志，而熟人之仁，以安樂失之者多矣。」"
+      },
+      {
+        "character_count": 69,
+        "id": "chapter-012-supp-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "多術，言非一端。屑，潔也。不以其人為潔而拒絕之，所謂不屑之教誨也。其人若能感此，退自修省，則是亦我教誨之也。尹氏曰：「言或抑或揚，或與或不與，各因其材而篤之，無非教也。」"
+      }
+    ],
+    "text": "任人有問屋廬子曰：「禮與食孰重？」曰：「禮重。」\n「色與禮孰重？」\n曰：「禮重。」曰：「以禮食，則飢而死；不以禮食，則得食，必以禮乎？親迎，則不得妻；不親迎，則得妻，必親迎乎！」\n屋廬子不能對，明日之鄒以告孟子。孟子曰：「於答是也何有？\n不揣其本而齊其末，方寸之木可使高於岑樓。\n金重於羽者，豈謂一鉤金與一輿羽之謂哉？\n取食之重者，與禮之輕者而比之，奚翅食重？取色之重者，與禮之輕者而比之，奚翅色重？\n往應之曰：『紾兄之臂而奪之食，則得食；不紾，則不得食，則將紾之乎？踰東家牆而摟其處子，則得妻；不摟，則不得妻，則將摟之乎？』」\n曹交問曰：「人皆可以為堯舜，有諸？」孟子曰：「然。」\n交聞文王十尺，湯九尺，今交九尺四寸以長，食粟而已，如何則可？」\n曰：「奚有於是？亦為之而已矣。有人於此，力不能勝一匹雛，則為無力人矣；今曰舉百鈞，則為有力人矣。然則舉烏獲之任，是亦為烏獲而已矣。夫人豈以不勝為患哉？弗為耳。\n徐行後長者謂之弟，疾行先長者謂之不弟。夫徐行者，豈人所不能哉？所不為也。堯舜之道，孝弟而已矣。\n子服堯之服，誦堯之言，行堯之行，是堯而已矣；子服桀之服，誦桀之言，行桀之行，是桀而已矣。」\n曰：「交得見於鄒君，可以假館，願留而受業於門。」\n曰：「夫道，若大路然，豈難知哉？人病不求耳。子歸而求之，有餘師。」\n公孫丑問曰：「高子曰：『小弁，小人之詩也。』」孟子曰：「何以言之？」曰：「怨。」\n曰：「固哉，高叟之為詩也！有人於此，越人關弓而射之，則己談笑而道之；無他，疏之也。其兄關弓而射之，則己垂涕泣而道之；無他，戚之也。小弁之怨，親親也。親親，仁也。固矣夫，高叟之為詩也！」\n曰：「凱風何以不怨？」\n曰：「凱風，親之過小者也；小弁，親之過大者也。親之過大而不怨，是愈疏也；親之過小而怨，是不可磯也。愈疏，不孝也；不可磯，亦不孝也。\n孔子曰：『舜其至孝矣，五十而慕。』」\n宋牼將之楚，孟子遇於石丘。\n曰：「先生將何之？」\n曰：「吾聞秦楚構兵，我將見楚王說而罷之。楚王不悅，我將見秦王說而罷之，二王我將有所遇焉。」\n曰：「軻也請無問其詳，願聞其指。說之將何如？」曰：「我將言其不利也。」曰：「先生之志則大矣，先生之號則不可。\n先生以利說秦楚之王，秦楚之王悅於利，以罷三軍之師，是三軍之士樂罷而悅於利也。為人臣者懷利以事其君，為人子者懷利以事其父，為人弟者懷利以事其兄。是君臣、父子、兄弟終去仁義，懷利以相接，然而不亡者，未之有也。\n先生以仁義說秦楚之王，秦楚之王悅於仁義，而罷三軍之師，是三軍之士樂罷而悅於仁義也。為人臣者懷仁義以事其君，為人子者懷仁義以事其父，為人弟者懷仁義以事其兄，是君臣、父子、兄弟去利，懷仁義以相接也。然而不王者，未之有也。何必曰利？」\n孟子居鄒，季任為任處守，以幣交，受之而不報。處於平陸，儲子為相，以幣交，受之而不報。\n他日由鄒之任，見季子；由平陸之齊，不見儲子。屋廬子喜曰：「連得閒矣。」\n問曰：「夫子之任見季子，之齊不見儲子，為其為相與？」\n曰：「非也。書曰：『享多儀，儀不及物曰不享，惟不役志于享。』\n為其不成享也。」\n屋廬子悅。或問之。屋廬子曰：「季子不得之鄒，儲子得之平陸。」\n淳于髡曰：「先名實者，為人也；後名實者，自為也。夫子在三卿之中，名實未加於上下而去之，仁者固如此乎？」\n孟子曰：「居下位，不以賢事不肖者，伯夷也；五就湯，五就桀者，伊尹也；不惡汙君，不辭小官者，柳下惠也。三子者不同道，其趨一也。一者何也？曰：仁也。君子亦仁而已矣，何必同？」\n曰：「魯繆公之時，公儀子為政，子柳、子思為臣，魯之削也滋甚。若是乎賢者之無益於國也！」\n曰：「虞不用百里奚而亡，秦穆公用之而霸。不用賢則亡，削何可得與？」\n曰：「昔者王豹處於淇，而河西善謳；綿駒處於高唐，而齊右善歌；華周、杞梁之妻善哭其夫，而變國俗。有諸內必形諸外。為其事而無其功者，髡未嘗睹之也。是故無賢者也，有則髡必識之。」\n曰：「孔子為魯司寇，不用，從而祭，燔肉不至，不稅冕而行。不知者以為為肉也。其知者以為為無禮也。乃孔子則欲以微罪行，不欲為苟去。君子之所為，眾人固不識也。」\n孟子曰：「五霸者，三王之罪人也；今之諸侯，五霸之罪人也；今之大夫，今之諸侯之罪人也。\n天子適諸侯曰巡狩，諸侯朝於天子曰述職。春省耕而補不足，秋省斂而助不給。入其疆，土地辟，田野治，養老尊賢，俊傑在位，則有慶，慶以地。入其疆，土地荒蕪，遺老失賢，掊克在位，則有讓。一不朝，則貶其爵；再不朝，則削其地；三不朝，則六師移之。是故天子討而不伐，諸侯伐而不討。五霸者，摟諸侯以伐諸侯者也，故曰：五霸者，三王之罪人也。\n五霸，桓公為盛。葵丘之會諸侯，束牲、載書而不歃血。初命曰：『誅不孝，無易樹子，無以妾為妻。』再命曰：『尊賢育才，以彰有德。』三命曰：『敬老慈幼，無忘賓旅。』四命曰：『士無世官，官事無攝，取士必得，無專殺大夫。』五命曰：『無曲防，無遏糴，無有封而不告。』曰：『凡我同盟之人，既盟之後，言歸于好。』今之諸侯，皆犯此五禁，故曰：今之諸侯，五霸之罪人也。\n長君之惡其罪小，逢君之惡其罪大。今之大夫，皆逢君之惡，故曰：今之大夫，今之諸侯之罪人也。」\n魯欲使慎子為將軍。\n孟子曰：「不教民而用之，謂之殃民。殃民者，不容於堯舜之世。\n一戰勝齊，遂有南陽，然且不可。」\n慎子勃然不悅曰：「此則滑釐所不識也。」\n曰：「吾明告子。天子之地方千里；不千里，不足以待諸侯。諸侯之地方百里；不百里，不足以守宗廟之典籍。\n周公之封於魯，為方百里也；地非不足，而儉於百里。太公之封於齊也，亦為方百里也；地非不足也，而儉於百里。\n今魯方百里者五，子以為有王者作，則魯在所損乎？在所益乎？\n徒取諸彼以與此，然且仁者不為，況於殺人以求之乎？\n君子之事君也，務引其君以當道，志於仁而已。」\n孟子曰：「今之事君者曰：『我能為君辟土地，充府庫。』今之所謂良臣，古之所謂民賊也。君不鄉道，不志於仁，而求富之，是富桀也。\n『我能為君約與國，戰必克。』今之所謂良臣，古之所謂民賊也。君不鄉道，不志於仁，而求為之強戰，是輔桀也。\n由今之道，無變今之俗，雖與之天下，不能一朝居也。」\n白圭曰：「吾欲二十而取一，何如？」\n孟子曰：「子之道，貉道也。\n萬室之國，一人陶，則可乎？」曰：「不可，器不足用也。」\n曰：「夫貉，五穀不生，惟黍生之。無城郭、宮室、宗廟、祭祀之禮，無諸侯幣帛饔飧，無百官有司，故二十取一而足也。\n今居中國，去人倫，無君子，如之何其可也？\n陶以寡，且不可以為國，況無君子乎？\n欲輕之於堯舜之道者，大貉小貉也；欲重之於堯舜之道者，大桀小桀也。」\n白圭曰：「丹之治水也愈於禹。」\n孟子曰：「子過矣。禹之治水，水之道也。\n是故禹以四海為壑，今吾子以鄰國為壑。\n水逆行，謂之洚水。洚水者，洪水也，仁人之所惡也。吾子過矣。」\n孟子曰：「君子不亮，惡乎執？」惡，平聲。亮，信也，與諒同。惡乎執，言凡事苟且，無所執持也。\n魯欲使樂正子為政。孟子曰：「吾聞之，喜而不寐。」\n公孫丑曰：「樂正子強乎？」曰：「否。」「有知慮乎？」曰：「否。」「多聞識乎？」曰：「否。」\n「然則奚為喜而不寐？」\n曰：「其為人也好善。」\n「好善足乎？」\n曰：「好善優於天下，而況魯國乎？\n夫苟好善，則四海之內，皆將輕千里而來告之以善。\n夫苟不好善，則人將曰：『訑訑，予既已知之矣。』訑訑之聲音顏色，距人於千里之外。士止於千里之外，則讒諂面諛之人至矣。與讒諂面諛之人居，國欲治，可得乎？」\n陳子曰：「古之君子何如則仕？」孟子曰：「所就三，所去三。\n迎之致敬以有禮，言將行其言也，則就之；禮貌未衰，言弗行也，則去之。\n其次，雖未行其言也，迎之致敬以有禮，則就之；禮貌衰，則去之。\n其下，朝不食，夕不食，飢餓不能出門戶。君聞之曰：『吾大者不能行其道，又不能從其言也，使飢餓於我土地，吾恥之。』周之，亦可受也，免死而已矣。」\n孟子曰：「舜發於畎畝之中，傅說舉於版築之閒，膠鬲舉於魚鹽之中，管夷吾舉於士，孫叔敖舉於海，百里奚舉於市。\n故天將降大任於是人也，必先苦其心志，勞其筋骨，餓其體膚，空乏其身，行拂亂其所為，所以動心忍性，曾益其所不能。\n人恒過，然後能改；困於心，衡於慮，而後作；徵於色，發於聲，而後喻。\n入則無法家拂士，出則無敵國外患者，國恒亡。\n然後知生於憂患而死於安樂也。」\n孟子曰：「教亦多術矣，予不屑之教誨也者，是亦教誨之而已矣。」",
+    "title": "告子章句下"
+  },
+  "chapter_path": "books/mengzi/chapters/chapter-012.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 孟子集注",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/meng-zi-ji-zhu?if=en"
+}

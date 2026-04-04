@@ -1,0 +1,326 @@
+{
+  "commentary": {
+    "character_count": 839,
+    "id": "commentary-introduction",
+    "order": 0,
+    "reading_unit_count": 14,
+    "reading_units": [
+      {
+        "character_count": 99,
+        "id": "commentary-introduction-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "大學之書，古之大學所以教人之法也。蓋自天降生民，則既莫不與之以仁義禮智之性矣。然其氣質之稟或不能齊，是以不能皆有以知其性之所有而全之也。一有聰明睿智能盡其性者出於其閒，則天必命之以為億兆之君師，使之治而教之，以復其性。"
+      },
+      {
+        "character_count": 28,
+        "id": "commentary-introduction-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "此伏羲、神農、黃帝、堯、舜，所以繼天立極，而司徒之職、典樂之官所由設也。"
+      },
+      {
+        "character_count": 63,
+        "id": "commentary-introduction-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "三代之隆，其法寖備，然後王宮、國都以及閭巷，莫不有學。人生八歲，則自王公以下，至於庶人之子弟，皆入小學，而教之以灑掃、應對、進退之節，禮樂、射御、書數之文；"
+      },
+      {
+        "character_count": 64,
+        "id": "commentary-introduction-line-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "及其十有五年，則自天子之元子、眾子，以至公、卿、大夫、元士之適子，與凡民之俊秀，皆入大學，而教之以窮理、正心、修己、治人之道。此又學校之教、大小之節所以分也。"
+      },
+      {
+        "character_count": 94,
+        "id": "commentary-introduction-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "夫以學校之設，其廣如此，教之之術，其次第節目之詳又如此，而其所以為教，則又皆本之人君躬行心得之餘，不待求之民生日用彝倫之外，是以當世之人無不學。其學焉者，無不有以知其性分之所固有，職分之所當為，而各俛焉以盡其力。"
+      },
+      {
+        "character_count": 24,
+        "id": "commentary-introduction-line-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "此古昔盛時所以治隆於上，俗美於下，而非後世之所能及也！"
+      },
+      {
+        "character_count": 60,
+        "id": "commentary-introduction-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "及周之衰，賢聖之君不作，學校之政不修，教化陵夷，風俗頹敗，時則有若孔子之聖，而不得君師之位以行其政教，於是獨取先王之法，誦而傳之以詔後世。"
+      },
+      {
+        "character_count": 88,
+        "id": "commentary-introduction-line-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "若曲禮、少儀、內則、弟子職諸篇，固小學之支流餘裔，而此篇者，則因小學之成功，以著大學之明法，外有以極其規模之大，而內有以盡其節目之詳者也。三千之徒，蓋莫不聞其說，而曾氏之傳獨得其宗，於是作為傳義，以發其意。"
+      },
+      {
+        "character_count": 19,
+        "id": "commentary-introduction-line-009",
+        "order": 9,
+        "source_block_chunk": 3,
+        "source_block_order": 4,
+        "text": "及孟子沒而其傳泯焉，則其書雖存，而知者鮮矣！"
+      },
+      {
+        "character_count": 79,
+        "id": "commentary-introduction-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "自是以來，俗儒記誦詞章之習，其功倍於小學而無用；異端虛無寂滅之教，其高過於大學而無實。其他權謀術數，一切以就功名之說，與夫百家眾技之流，所以惑世誣民、充塞仁義者，又紛然雜出乎其閒。"
+      },
+      {
+        "character_count": 46,
+        "id": "commentary-introduction-line-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "使其君子不幸而不得聞大道之要，其小人不幸而不得蒙至治之澤，晦盲否塞，反覆沈痼，以及五季之衰，而壞亂極矣！"
+      },
+      {
+        "character_count": 94,
+        "id": "commentary-introduction-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "天運循環，無往不復。宋德隆盛，治教休明。於是河南程氏兩夫子出，而有以接乎孟氏之傳。實始尊信此篇而表章之，既又為之次其簡編，發其歸趣，然後古者大學教人之法、聖經賢傳之指，粲然復明於世。雖以熹之不敏，亦幸私淑而與有聞焉。"
+      },
+      {
+        "character_count": 67,
+        "id": "commentary-introduction-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "顧其為書猶頗放失，是以忘其固陋，采而輯之，閒亦竊附己意，補其闕略，以俟後之君子。極知僭踰，無所逃罪，然於國家化民成俗之意、學者修己治人之方，則未必無小補云。"
+      },
+      {
+        "character_count": 14,
+        "id": "commentary-introduction-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "淳熙己酉春二月申子，新安朱熹序"
+      }
+    ],
+    "summary": "《大學章句》序與經一章總說",
+    "supplemental_text": "大學之書，古之大學所以教人之法也。蓋自天降生民，則既莫不與之以仁義禮智之性矣。然其氣質之稟或不能齊，是以不能皆有以知其性之所有而全之也。一有聰明睿智能盡其性者出於其閒，則天必命之以為億兆之君師，使之治而教之，以復其性。此伏羲、神農、黃帝、堯、舜，所以繼天立極，而司徒之職、典樂之官所由設也。\n三代之隆，其法寖備，然後王宮、國都以及閭巷，莫不有學。人生八歲，則自王公以下，至於庶人之子弟，皆入小學，而教之以灑掃、應對、進退之節，禮樂、射御、書數之文；及其十有五年，則自天子之元子、眾子，以至公、卿、大夫、元士之適子，與凡民之俊秀，皆入大學，而教之以窮理、正心、修己、治人之道。此又學校之教、大小之節所以分也。\n夫以學校之設，其廣如此，教之之術，其次第節目之詳又如此，而其所以為教，則又皆本之人君躬行心得之餘，不待求之民生日用彝倫之外，是以當世之人無不學。其學焉者，無不有以知其性分之所固有，職分之所當為，而各俛焉以盡其力。此古昔盛時所以治隆於上，俗美於下，而非後世之所能及也！\n及周之衰，賢聖之君不作，學校之政不修，教化陵夷，風俗頹敗，時則有若孔子之聖，而不得君師之位以行其政教，於是獨取先王之法，誦而傳之以詔後世。若曲禮、少儀、內則、弟子職諸篇，固小學之支流餘裔，而此篇者，則因小學之成功，以著大學之明法，外有以極其規模之大，而內有以盡其節目之詳者也。三千之徒，蓋莫不聞其說，而曾氏之傳獨得其宗，於是作為傳義，以發其意。及孟子沒而其傳泯焉，則其書雖存，而知者鮮矣！\n自是以來，俗儒記誦詞章之習，其功倍於小學而無用；異端虛無寂滅之教，其高過於大學而無實。其他權謀術數，一切以就功名之說，與夫百家眾技之流，所以惑世誣民、充塞仁義者，又紛然雜出乎其閒。使其君子不幸而不得聞大道之要，其小人不幸而不得蒙至治之澤，晦盲否塞，反覆沈痼，以及五季之衰，而壞亂極矣！\n天運循環，無往不復。宋德隆盛，治教休明。於是河南程氏兩夫子出，而有以接乎孟氏之傳。實始尊信此篇而表章之，既又為之次其簡編，發其歸趣，然後古者大學教人之法、聖經賢傳之指，粲然復明於世。雖以熹之不敏，亦幸私淑而與有聞焉。顧其為書猶頗放失，是以忘其固陋，采而輯之，閒亦竊附己意，補其闕略，以俟後之君子。極知僭踰，無所逃罪，然於國家化民成俗之意、學者修己治人之方，則未必無小補云。\n淳熙己酉春二月申子，新安朱熹序\n大，舊音泰，今讀如字。\n子程子曰：「大學，孔氏之遺書，而初學入德之門也。」於今可見古人為學次第者，獨賴此篇之存，而論、孟次之。學者必由是而學焉，則庶乎其不差矣。\n程子曰：「親，當作新。」大學者，大人之學也。明，明之也。明德者，人之所得乎天，而虛靈不昧，以具眾理而應萬事者也。但為氣稟所拘，人欲所蔽，則有時而昏；然其本體之明，則有未嘗息者。故學者當因其所發而遂明之，以復其初也。新者，革其舊之謂也，言既自明其明德，又當推以及人，使之亦有以去其舊染之污也。止者，必至於是而不遷之意。至善，則事理當然之極也。言明明德、新民，皆當至於至善之地而不遷。蓋必其有以盡夫天理之極，而無一毫人欲之私也。此三者，大學之綱領也。后，與後同，後放此。止者，所當止之地，即至善之所在也。知之，則志有定向。靜，謂心不妄動。安，謂所處而安。慮，謂處事精詳。得，謂得其所止。明德為本，新民為末。知止為始，能得為終。本始所先，末終所後。此結上文兩節之意。治，平聲，後放此。明明德於天下者，使天下之人皆有以明其明德也。心者，身之所主也。誠，實也。意者，心之所發也。實其心之所發，欲其一於善而無自欺也。致，推極也。知，猶識也。推極吾之知識，欲其所知無不盡也。格，至也。物，猶事也。窮至事物之理，欲其極處無不到也。此八者，大學之條目也。治，去聲，後放此。物格者，物理之極處無不到也。知至者，吾心之所知無不盡也。知既盡，則意可得而實矣，意既實，則心可得而正矣。脩身以上，明明德之事也。齊家以下，新民之事也。物格知至，則知所止矣。意誠以下，則皆得所止之序也。壹是，一切也。正心以上，皆所以脩身也。齊家以下，則舉此而措之耳。本，謂身也。所厚，謂家也。此兩節結上文兩節之意。\n右經一章，蓋孔子之言，而曾子述之。凡二百五字。其傳十章，則曾子之意而門人記之也。舊本頗有錯簡，今因程子所定，而更考經文，別為序次如左。凡千五百四十六字。凡傳文，雜引經傳，若無統紀，然文理接續，血脈貫通，深淺始終，至為精密。熟讀詳味，久當見之，今不盡釋也。",
+    "supplemental_unit_count": 24,
+    "supplemental_units": [
+      {
+        "character_count": 99,
+        "id": "commentary-introduction-supp-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "大學之書，古之大學所以教人之法也。蓋自天降生民，則既莫不與之以仁義禮智之性矣。然其氣質之稟或不能齊，是以不能皆有以知其性之所有而全之也。一有聰明睿智能盡其性者出於其閒，則天必命之以為億兆之君師，使之治而教之，以復其性。"
+      },
+      {
+        "character_count": 28,
+        "id": "commentary-introduction-supp-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "此伏羲、神農、黃帝、堯、舜，所以繼天立極，而司徒之職、典樂之官所由設也。"
+      },
+      {
+        "character_count": 63,
+        "id": "commentary-introduction-supp-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "三代之隆，其法寖備，然後王宮、國都以及閭巷，莫不有學。人生八歲，則自王公以下，至於庶人之子弟，皆入小學，而教之以灑掃、應對、進退之節，禮樂、射御、書數之文；"
+      },
+      {
+        "character_count": 64,
+        "id": "commentary-introduction-supp-004",
+        "order": 4,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "及其十有五年，則自天子之元子、眾子，以至公、卿、大夫、元士之適子，與凡民之俊秀，皆入大學，而教之以窮理、正心、修己、治人之道。此又學校之教、大小之節所以分也。"
+      },
+      {
+        "character_count": 94,
+        "id": "commentary-introduction-supp-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "夫以學校之設，其廣如此，教之之術，其次第節目之詳又如此，而其所以為教，則又皆本之人君躬行心得之餘，不待求之民生日用彝倫之外，是以當世之人無不學。其學焉者，無不有以知其性分之所固有，職分之所當為，而各俛焉以盡其力。"
+      },
+      {
+        "character_count": 24,
+        "id": "commentary-introduction-supp-006",
+        "order": 6,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "此古昔盛時所以治隆於上，俗美於下，而非後世之所能及也！"
+      },
+      {
+        "character_count": 60,
+        "id": "commentary-introduction-supp-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "及周之衰，賢聖之君不作，學校之政不修，教化陵夷，風俗頹敗，時則有若孔子之聖，而不得君師之位以行其政教，於是獨取先王之法，誦而傳之以詔後世。"
+      },
+      {
+        "character_count": 88,
+        "id": "commentary-introduction-supp-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "若曲禮、少儀、內則、弟子職諸篇，固小學之支流餘裔，而此篇者，則因小學之成功，以著大學之明法，外有以極其規模之大，而內有以盡其節目之詳者也。三千之徒，蓋莫不聞其說，而曾氏之傳獨得其宗，於是作為傳義，以發其意。"
+      },
+      {
+        "character_count": 19,
+        "id": "commentary-introduction-supp-009",
+        "order": 9,
+        "source_block_chunk": 3,
+        "source_block_order": 4,
+        "text": "及孟子沒而其傳泯焉，則其書雖存，而知者鮮矣！"
+      },
+      {
+        "character_count": 79,
+        "id": "commentary-introduction-supp-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "自是以來，俗儒記誦詞章之習，其功倍於小學而無用；異端虛無寂滅之教，其高過於大學而無實。其他權謀術數，一切以就功名之說，與夫百家眾技之流，所以惑世誣民、充塞仁義者，又紛然雜出乎其閒。"
+      },
+      {
+        "character_count": 46,
+        "id": "commentary-introduction-supp-011",
+        "order": 11,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "使其君子不幸而不得聞大道之要，其小人不幸而不得蒙至治之澤，晦盲否塞，反覆沈痼，以及五季之衰，而壞亂極矣！"
+      },
+      {
+        "character_count": 94,
+        "id": "commentary-introduction-supp-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "天運循環，無往不復。宋德隆盛，治教休明。於是河南程氏兩夫子出，而有以接乎孟氏之傳。實始尊信此篇而表章之，既又為之次其簡編，發其歸趣，然後古者大學教人之法、聖經賢傳之指，粲然復明於世。雖以熹之不敏，亦幸私淑而與有聞焉。"
+      },
+      {
+        "character_count": 67,
+        "id": "commentary-introduction-supp-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "顧其為書猶頗放失，是以忘其固陋，采而輯之，閒亦竊附己意，補其闕略，以俟後之君子。極知僭踰，無所逃罪，然於國家化民成俗之意、學者修己治人之方，則未必無小補云。"
+      },
+      {
+        "character_count": 14,
+        "id": "commentary-introduction-supp-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "淳熙己酉春二月申子，新安朱熹序"
+      },
+      {
+        "character_count": 8,
+        "id": "commentary-introduction-supp-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "大，舊音泰，今讀如字。"
+      },
+      {
+        "character_count": 56,
+        "id": "commentary-introduction-supp-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "子程子曰：「大學，孔氏之遺書，而初學入德之門也。」於今可見古人為學次第者，獨賴此篇之存，而論、孟次之。學者必由是而學焉，則庶乎其不差矣。"
+      },
+      {
+        "character_count": 87,
+        "id": "commentary-introduction-supp-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "程子曰：「親，當作新。」大學者，大人之學也。明，明之也。明德者，人之所得乎天，而虛靈不昧，以具眾理而應萬事者也。但為氣稟所拘，人欲所蔽，則有時而昏；然其本體之明，則有未嘗息者。故學者當因其所發而遂明之，以復其初也。"
+      },
+      {
+        "character_count": 100,
+        "id": "commentary-introduction-supp-018",
+        "order": 18,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "新者，革其舊之謂也，言既自明其明德，又當推以及人，使之亦有以去其舊染之污也。止者，必至於是而不遷之意。至善，則事理當然之極也。言明明德、新民，皆當至於至善之地而不遷。蓋必其有以盡夫天理之極，而無一毫人欲之私也。此三者，大學之綱領也。"
+      },
+      {
+        "character_count": 90,
+        "id": "commentary-introduction-supp-019",
+        "order": 19,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "后，與後同，後放此。止者，所當止之地，即至善之所在也。知之，則志有定向。靜，謂心不妄動。安，謂所處而安。慮，謂處事精詳。得，謂得其所止。明德為本，新民為末。知止為始，能得為終。本始所先，末終所後。此結上文兩節之意。治，平聲，後放此。"
+      },
+      {
+        "character_count": 96,
+        "id": "commentary-introduction-supp-020",
+        "order": 20,
+        "source_block_chunk": 4,
+        "source_block_order": 10,
+        "text": "明明德於天下者，使天下之人皆有以明其明德也。心者，身之所主也。誠，實也。意者，心之所發也。實其心之所發，欲其一於善而無自欺也。致，推極也。知，猶識也。推極吾之知識，欲其所知無不盡也。格，至也。物，猶事也。窮至事物之理，欲其極處無不到也。"
+      },
+      {
+        "character_count": 99,
+        "id": "commentary-introduction-supp-021",
+        "order": 21,
+        "source_block_chunk": 5,
+        "source_block_order": 10,
+        "text": "此八者，大學之條目也。治，去聲，後放此。物格者，物理之極處無不到也。知至者，吾心之所知無不盡也。知既盡，則意可得而實矣，意既實，則心可得而正矣。脩身以上，明明德之事也。齊家以下，新民之事也。物格知至，則知所止矣。意誠以下，則皆得所止之序也。"
+      },
+      {
+        "character_count": 45,
+        "id": "commentary-introduction-supp-022",
+        "order": 22,
+        "source_block_chunk": 6,
+        "source_block_order": 10,
+        "text": "壹是，一切也。正心以上，皆所以脩身也。齊家以下，則舉此而措之耳。本，謂身也。所厚，謂家也。此兩節結上文兩節之意。"
+      },
+      {
+        "character_count": 93,
+        "id": "commentary-introduction-supp-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "右經一章，蓋孔子之言，而曾子述之。凡二百五字。其傳十章，則曾子之意而門人記之也。舊本頗有錯簡，今因程子所定，而更考經文，別為序次如左。凡千五百四十六字。凡傳文，雜引經傳，若無統紀，然文理接續，血脈貫通，深淺始終，至為精密。"
+      },
+      {
+        "character_count": 13,
+        "id": "commentary-introduction-supp-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "熟讀詳味，久當見之，今不盡釋也。"
+      }
+    ],
+    "text": "大學之書，古之大學所以教人之法也。蓋自天降生民，則既莫不與之以仁義禮智之性矣。然其氣質之稟或不能齊，是以不能皆有以知其性之所有而全之也。一有聰明睿智能盡其性者出於其閒，則天必命之以為億兆之君師，使之治而教之，以復其性。此伏羲、神農、黃帝、堯、舜，所以繼天立極，而司徒之職、典樂之官所由設也。\n三代之隆，其法寖備，然後王宮、國都以及閭巷，莫不有學。人生八歲，則自王公以下，至於庶人之子弟，皆入小學，而教之以灑掃、應對、進退之節，禮樂、射御、書數之文；及其十有五年，則自天子之元子、眾子，以至公、卿、大夫、元士之適子，與凡民之俊秀，皆入大學，而教之以窮理、正心、修己、治人之道。此又學校之教、大小之節所以分也。\n夫以學校之設，其廣如此，教之之術，其次第節目之詳又如此，而其所以為教，則又皆本之人君躬行心得之餘，不待求之民生日用彝倫之外，是以當世之人無不學。其學焉者，無不有以知其性分之所固有，職分之所當為，而各俛焉以盡其力。此古昔盛時所以治隆於上，俗美於下，而非後世之所能及也！\n及周之衰，賢聖之君不作，學校之政不修，教化陵夷，風俗頹敗，時則有若孔子之聖，而不得君師之位以行其政教，於是獨取先王之法，誦而傳之以詔後世。若曲禮、少儀、內則、弟子職諸篇，固小學之支流餘裔，而此篇者，則因小學之成功，以著大學之明法，外有以極其規模之大，而內有以盡其節目之詳者也。三千之徒，蓋莫不聞其說，而曾氏之傳獨得其宗，於是作為傳義，以發其意。及孟子沒而其傳泯焉，則其書雖存，而知者鮮矣！\n自是以來，俗儒記誦詞章之習，其功倍於小學而無用；異端虛無寂滅之教，其高過於大學而無實。其他權謀術數，一切以就功名之說，與夫百家眾技之流，所以惑世誣民、充塞仁義者，又紛然雜出乎其閒。使其君子不幸而不得聞大道之要，其小人不幸而不得蒙至治之澤，晦盲否塞，反覆沈痼，以及五季之衰，而壞亂極矣！\n天運循環，無往不復。宋德隆盛，治教休明。於是河南程氏兩夫子出，而有以接乎孟氏之傳。實始尊信此篇而表章之，既又為之次其簡編，發其歸趣，然後古者大學教人之法、聖經賢傳之指，粲然復明於世。雖以熹之不敏，亦幸私淑而與有聞焉。顧其為書猶頗放失，是以忘其固陋，采而輯之，閒亦竊附己意，補其闕略，以俟後之君子。極知僭踰，無所逃罪，然於國家化民成俗之意、學者修己治人之方，則未必無小補云。\n淳熙己酉春二月申子，新安朱熹序",
+    "title": "朱熹序與總說"
+  },
+  "commentary_path": "books/da-xue/commentary/commentary-introduction.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 大學章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en"
+}

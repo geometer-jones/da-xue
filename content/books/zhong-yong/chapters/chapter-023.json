@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 34,
+    "id": "chapter-023",
+    "order": 23,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 34,
+        "id": "chapter-023-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "其次致曲，曲能有誠，誠則形，形則著，著則明，明則動，動則變，變則化，唯天下至誠為能化。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Next to the above is he who cultivates to the utmost the shoots of goodness in him. From those he can attain to the possession of sincerity. This sincerity becomes apparent. From being apparent, it becomes manifest. From being manifest, it becomes brilliant. Brilliant, it affects others. Affecting others, they are changed by it. Changed by it, they are transformed. It is only he who is possessed of the most complete sincerity that can exist under heaven, who can transform."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "其次致曲，曲能有誠，誠則形，形則著，著則明，明則動，動則變，變則化，唯天下至誠為能化。",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-023.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

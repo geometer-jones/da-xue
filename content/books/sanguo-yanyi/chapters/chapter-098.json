@@ -1,0 +1,749 @@
+{
+  "chapter": {
+    "character_count": 4157,
+    "id": "chapter-098",
+    "order": 98,
+    "reading_unit_count": 56,
+    "reading_units": [
+      {
+        "character_count": 84,
+        "id": "chapter-098-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說司馬懿奏曰：「臣嘗奏陛下，言孔明必出陳倉，故以郝昭守之。今果然矣。彼若從陳倉入寇，運糧甚便。今幸有郝昭、王雙把守，不敢從此路運糧，其餘小道，搬運艱難。臣算蜀兵行糧止有一月，利在急戰。我軍只宜久守。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Jui was pleased to hear so succinct a statement, but he said, “Since, Noble Sir, you foresaw all this so plainly, why did you not lead an army to prevent it?”"
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-098-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "陛下可降詔，令曹真堅守諸路關隘，不要出戰。不須一月，蜀兵自退。那時乘虛擊之。諸葛亮可擒也。」叡欣然曰：「卿既有先見之明，何不自引一軍以襲之？」懿曰：「臣非惜身重命，實欲存下此兵，以防東吳陸遜耳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“It is not because I grudged the effort, but I had to keep the army here to guard against Lu Hsün of Wu. Sun Chüan will declare himself 'Emperor' before long. If he does, I think Your Majesty will attack him, and I shall be ready to cross over the frontier. The army is prepared.”"
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-098-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "孫權不久必僭號稱尊，如稱尊號，恐陛下伐之，定先入寇也。臣故欲以兵待之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just then one of the courtiers announced despatches from Ts‘ao Chên on military affairs, and Ssŭma closed his speech, saying, “Your Majesty should send someone especially to caution the general to be careful not to be tricked by K‘ungming, not to pursue rashly and never to penetrate deeply into the enemy country.”"
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-098-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "正言間，忽近臣奏曰：「曹都督奏報軍情。」懿曰：「陛下可即令人告戒曹真：凡追趕蜀兵，必須觀其虛實，不可深入重地，以中諸葛亮之計。」叡即時下詔，遣太常卿韓暨持節告戒曹真：「切不可戰，務在謹守；只待蜀兵退去，方纔擊之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The king gave the order, and he sent the command by the hand of the T‘ai-ch‘ang Han Chi and gave him authority to warn Ts‘ao Chên against giving battle. Ssŭma escorted the royal messenger out of the city and, at parting, said “I am giving this magnificent opportunity to obtain glory to Ts‘ao Chên, but do not tell him the suggestion was mine; only quote the royal command. Tell him that defence is the best, pursuit is to be most cautious, and he is not to send any impetuous man to follow up the enemy.”"
+          }
+        }
+      },
+      {
+        "character_count": 63,
+        "id": "chapter-098-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "」司馬懿送韓暨於城外，囑之曰：「吾以此功讓與子丹，公見子丹，休言是吾所陳之意，只道天子降詔，教保守為上。追趕之人，切要仔細，勿遣性急氣躁者追之。」暨辭去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Chên was deep in affairs connected with his army when they brought news of a royal messenger, but he went forth to bid him welcome, and when the ceremonial receipt of the edict had come to an end, he retired to discuss matters with Kuo Huai and Sun Li."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-098-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "卻說曹真正升帳議事，忽報天子遣太常卿韓暨持節至。真出寨接入；受詔已畢，退與郭淮、孫禮計議。淮笑曰：「此乃司馬仲達之見也。」真曰：「此見若何？」淮曰：「此言深識諸葛亮用兵之法。久後能禦蜀兵者，必仲達也。」真曰：「倘蜀兵不退，又將如何？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ “Ssŭma’s idea,” said Kuo with a laugh. “But what of the idea?” asked Ts‘ao. “It means that the man who perfectly understands Chuko Liang’s plans and who will eventually have to be called in to defeat them is our friend Ssŭma.” “But if the Shu army holds its ground?”"
+          }
+        }
+      },
+      {
+        "character_count": 84,
+        "id": "chapter-098-line-007",
+        "order": 7,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "」淮曰：「可密令人去教王雙，引兵於小路哨巡，彼自不敢運糧。待其糧盡兵退，乘勢追擊，可獲全勝。」孫禮曰：「某去祁山虛妝做運糧兵，車上盡裝乾柴茅草，以硫黃燄硝灌之，卻教人虛報隴西運糧到。若蜀兵無糧，必然來搶。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“We will send Wang Shuang to reconnoitre and keep on the move along the by-roads so that they dare not attempt to bring up supplies. They must retreat when they have no more to eat, and we shall be able to beat them.”"
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-098-line-008",
+        "order": 8,
+        "source_block_chunk": 3,
+        "source_block_order": 3,
+        "text": "待入其中，放火燒車，外以伏兵應之，可勝矣。」真喜曰：「此計大妙！」即令孫禮引兵依計而行。又遣人教王雙引兵於小路上巡哨，郭淮引兵提調箕谷、街亭，令諸路軍馬守把險要。真又令張遼子張虎爲先鋒，樂進子樂綝爲副先鋒。同守頭營，不許出戰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then said Sun Li, “Let me go out to Ch‘ishan as if to escort a convoy, only the carts shall be laden with combustibles instead of grain. We will sprinkle sulphur and nitre over wood and reeds. The men of Shu will surely seize the convoy and take it to their own camp, when we will set fire to the carts. When they are blazing, our hidden men can attack.”"
+          }
+        }
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-098-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "卻說孔明在祁山寨中，每日令人挑戰，魏兵堅守不出。孔明喚姜維商議曰：「魏兵堅守不出，是料吾軍中無糧也。今陳倉轉運不通，其餘小路盤涉艱難，吾算隨軍糧草，不敷一月用度，如之奈何？」正躊躇間，忽報隴西魏軍運糧數千車於祁山之西，運糧官乃孫禮也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“It seems an excellent plan,” said Ts‘ao Chên, and he issued the requisite orders: Sun to pretend to escort a convoy; Wang to prowl about the by-roads; Kuo to command in the Chi Valley. Also Chang Hu, son of Chang Liao, was made leader of the van, and Yo Lin, son of Yo Chin, was his second. These two were to remain on guard in the outermost camp. Now at Ch‘ishan K‘ung-ming sought to bring on a battle, and daily sent champions to provoke a combat. But the men of Wei would not come out."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-098-line-010",
+        "order": 10,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "孔明曰：「其人如何？」有魏人告曰：「此人曾隨魏主出獵於大石山。忽驚起一猛虎，直奔御前，孫禮下馬拔劍斬之。從此封為上將軍。乃曹真心腹人也。」孔明笑曰：「此是魏將料吾乏糧，故用此計。車上裝載者，必是茅草引火之物。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then K‘ung-ming called Chiang Wei and certain others to him and said, “I do not know what to do. The enemy refuse battle, because they know we are short of food. We can get none by way of Ch'ênts‘ang, and all other roads are very difficult. I reckon the grain we brought with us will not last a month.”"
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-098-line-011",
+        "order": 11,
+        "source_block_chunk": 3,
+        "source_block_order": 4,
+        "text": "吾平生專用火攻，彼乃欲以此計誘我耶？彼若知吾軍去劫糧草，必來劫我寨矣。可將計就計而行。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "While thus perplexed, they heard that many carts of provisions for Wei were in the west and the convoy was commanded by Sun Li. “What is known of this Sun?” asked K‘ung-ming."
+          }
+        }
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-098-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "遂喚馬岱分付曰：「汝引三千軍逕到魏兵屯糧之所，不可入營，但於上風頭放火。若燒著車仗，魏兵必來圍吾寨。」又差馬忠、張嶷各引五千兵在外圍住，內外夾攻。三人受計去了。又喚關興、張苞分付曰：「魏兵頭營接連四通之路。今晚若西山火起，魏兵必來劫吾營。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Acertain man of Wei replied, “He is a bold man. Once he was out hunting on Great Rock Hill, and a tiger suddenly appeared in front of his master’s chariot. He jumped off his horse and despatched the beast with his sword. He was rewarded with a leadership. He is an intimate friend of Ts‘ao Chên.” “This is a ruse,” said K‘ung-ming. “They know we are short of food, and those carts are only a temptation. They are laden with combustibles. How can they imagine that I shall be deceived by this sort of thing when I have fought them with fire so many times? If we go to seize the convoy they will come and raid our camp. But I will meet ruse with ruse.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-098-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "汝二人卻伏於魏寨左右。只等他兵出寨，汝二人便可劫之。」又喚吳班、吳懿分付曰：「汝二人各引一軍伏於營外。若魏兵到，可截其歸路。」孔明分撥已畢，自在祁山上憑高而坐。魏兵探知蜀兵要來劫糧，慌忙報與孫禮。禮令人飛報曹真。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then he sent Ma Tai, with three companies, to make his way to the enemy’s store camp and, when the wind served, to ​ start a fire. When the stores were burning, the soldiers of Wei would come to surround the camp of Shu. He also sent Ma Chung and Chang I to halt near the camp so that they might attack. These having gone, he called Kuan Hsing and Chang Pao, and said, “The outermost camp of Wei is on the main road. This night, when the enemy see a blaze, our camp will be attacked, so you two are to lie in wait on the two sides of the Wei camp and seize it when they have left.”"
+          }
+        }
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-098-line-014",
+        "order": 14,
+        "source_block_chunk": 3,
+        "source_block_order": 5,
+        "text": "真遣人去頭營分付看張虎、樂綝：「看今夜山西火起，蜀兵必來救應。可以出軍，如此如此。」二人受計，令人登樓專看火號。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Calling Wu Pan and Wu I, he said, “You are to lie in wait outside the camp to cut off the retreat of the men of Wei.” All these arrangements made, K‘ung-ming betook himself to the summit of Ch‘ishan to watch the results."
+          }
+        }
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-098-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "卻說孫禮把軍伏於山西，只待蜀兵到。是夜二更馬岱引三千兵來，人皆銜枚，馬皆勒口。逕到山西，見許多車仗，重重疊疊，攢遶成營，車仗虛插旌旗。正值西南風起，岱令軍士逕去營南放火，車仗盡著，光火沖天。孫禮只道蜀兵到魏寨內放號火，急引兵一齊掩至。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The men of Wei heard that their enemies were coming to seize the grain convoy and ran to tell Sun Li, who sent on a message to Ts‘ao Chên. Ts‘ao sent to the chief camp to the officers on guard and told them to look out for a signal blaze. That would mean the coming of the men of Shu, and then they were to issue forth and carry out certain instructions."
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-098-line-016",
+        "order": 16,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "背後鼓角喧天，兩路兵殺來，乃是馬忠、張嶷把魏軍圍在垓心。孫禮大驚。又聽得魏軍中喊聲起，一彪軍從火光邊殺來，乃是馬岱。內外夾攻，魏兵大敗。火緊風急，人馬亂竄，死者無數。孫禮引中傷軍，突煙冒火而走。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Watchers were sent on the tower to look out for the promised blaze. Meanwhile Sun Li marched over and hid in the west hills to await the coming of the men of Shu. That night, at the second watch, Ma Tai came with his three companies all silent, the men with gags, the horses with a lashing round their muzzles. They saw tier after tier of carts on the hills, making an enclosure like a walled camp, and on the carts were planted many flags."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-098-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "卻說張虎在營中，望見火光沖天，大開寨門，與樂綝盡引人馬，殺奔蜀寨來，寨中不見一人；急收軍回時，吳班、吳懿兩路兵殺出，斷其歸路。張、樂二將急衝出軍圍，奔回本寨，只見土城之上，箭如飛蝗。原來卻被關興、張苞襲了營寨。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They waited. Presently the south-west wind came up, and then the fire was started. Soon all the carts were in a blaze that lit up the sky. Sun saw the blaze and could only conclude that the men of Shu had arrived and his own side were giving the signal, so he dashed out to attack. But soon two parties of soldiers were heard behind him closing in. These were Ma Chung and Chang I, who soon had Sun as in a net. Then he heard a third ominous roll of drums, which heralded the approach of Ma Tai from the direction of the blaze."
+          }
+        }
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-098-line-018",
+        "order": 18,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "魏兵大敗，皆投曹真寨來，方欲入寨，只見一彪敗軍飛奔而來，乃是孫禮；遂同入寨見真，各言中計之事。真聽知，謹守大寨，更不出戰。蜀兵得勝，回見孔明。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Under these several attacks the men of Wei quailed and gave way. The fire grew more and more fierce. Men ran and horses stampeded, and the dead were too many to count. Sun Li made a dash through the smoke and fire of the battle and got away."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-098-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "孔明密令人授計與魏延，一面教拔寨齊起。楊儀曰：「今已大勝，挫盡魏兵銳氣，何故反欲收兵？」孔明曰：「吾兵無糧，利在急戰。今彼堅守不出，吾受其病矣。彼今雖暫時兵敗，中原必有添益。若以輕騎襲吾糧道，那時要歸不能。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Chang Hu and Yo Lin saw the fire they threw open the gates of their camp and sallied forth to help defeat the men of Shu by seizing their camp. But when they reached the camp they found it empty. So they set out to return. That was the moment for Wu Pan and Wu I to appear and cut off their retreat. However, they fought bravely and got through. But when at length they reached their own camp they were met by arrows flying thick as locusts. For Kuan and Chang had taken possession in their absence."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-098-line-020",
+        "order": 20,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "今乘魏兵新敗，不敢正視蜀兵，便可出其不意，乘機退去。所憂者但魏延一軍，在陳倉道口拒住王雙，急不能脫身。吾已令人授以密計，教斬王雙，使魏人不敢來追，只令後隊先行。」當夜孔明只留金鼓守在寨中打更。一夜兵已盡退，只落空營。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ They could only set out for headquarters to report their mishap. As they neared Ts‘ao Chên’s camp they met another remnant marching up. They were Sun Li’s men, and the two parties went into camp together and told the tale of their victimisation. Ts‘ao Chên thereafter looked to his defences and attacked no more. Thus victorious, the men of Shu went to K‘ung-ming, who at once despatched secret directions to Wei Yen. Then he gave orders to break camp and retreat. This move was not understood, and Yang I asked the leader why he retired after a victory so damaging to the enemy."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-098-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "卻說曹真正在寨中憂悶，忽報左將軍張郃領兵到。郃下馬入帳謂真曰：「某奉聖旨，特來聽調。」真曰：「曾別仲達否？」郃曰：「仲達分付云：『吾軍勝，蜀兵必不便去；若吾軍敗，蜀兵必即去矣。』今吾軍失利之後，都督曾往哨探蜀兵消息否？」真曰：「未也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Because we are short of food,” said K‘ung-ming. “Our success lay in swift victory, but the enemy will not fight, and thus they weaken us day by day. Though we have worsted them now they will soon be reinforced, and their light horse can cut off our provisions. Then we could not retreat at all. For a time they will not dare look at us, and we must take the occasion to do what they do not expect, and retreat. But I am solicitous about Wei Yen, who is on the Ch'ênts‘ang road to keep off Wang Shuang. I fear he cannot get away. I have sent him certain orders to slay Wang, and then the men of Wei will not dare to pursue.”"
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-098-line-022",
+        "order": 22,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "」於是即令人往探之，果是虛營，只插著數十面旌旗，兵已去二日也。曹真懊悔莫及。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So the retreat began, but to deceive the enemy the watchmen were left in the empty camp to beat the watches through the night."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-098-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "且說魏延受了密計，當夜二更拔寨，急回漢中。早有細作報知王雙，雙大驅軍馬，併力追趕，追到二十餘里，看看趕上，且魏延旗號在前，大叫曰：「魏延休走！」蜀兵更不回頭。雙拍馬趕來。背後魏兵大叫曰：「城外寨中火起，恐中敵人奸計。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Chên was depressed at his recent misfortune. Then they told him Chang Ho had come. Chang came up to the gate, dismounted and entered. When he saw Ts‘ao Chên he said, “I have received a royal command to come and enquire into your arrangements.” “Did you take leave of friend Ssŭma?” asked Ts‘ao. Chang said, “His instructions to me were to stay away if you were victor, to come if you were not. It seems that our side has missed success. Have you since found out what the men of Shu are doing?” “Not yet.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-098-line-024",
+        "order": 24,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "」雙急勒馬回時，只見一片火光沖天，慌令退軍。行到山坡左側，忽一騎馬從林中驟出，大喝曰：「魏延在此！」王雙大驚，措手不及，被延一刀砍於馬下。魏兵疑有埋伏，四散逃走。延手下止有三十騎人馬，望漢中緩緩而行。後人有詩讚曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So he sent out some scouts, and they found empty camps. There were flags flying, but the men had been gone two days. Ts‘ao Chên was disgusted. When Wei Yen received his secret orders he broke up camp that night and hastened toward Hanchung. Wang Shuang’s scouts heard this and told their chief, who hurried in pursuit. After about twenty li he came in sight of Wei Yen’s ensigns. As soon as he got within hailing distance he shouted, “Do not flee, Wei Yen.” But no one looked back, so he again pressed forward. Then he heard one of his men behind him shouting, “There is a blaze in the camp outside the wall; I think it is some wile of the enemy.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-098-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "孔明妙算勝孫龐，耿若長星照一方。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Wang Shuang pulled up and, turning, saw the fire. He therefore tried to draw off his men. Just as he passed a hill, a horseman sudenly came out of a wood."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-098-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "進退行兵神莫測，陳倉道口斬王雙。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Here is Wei Yen,” shouted the horseman."
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-098-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "原來魏延受了孔明妙計，先教存下三十騎，伏於王雙營邊；只待王雙起兵趕時，卻去他營中放火；待他回營，出其不意，突出斬之。魏延引兵斬了王雙，回到漢中見孔明，交割了人馬。孔明設宴大會，不在話下。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wang Shuang was too startled to defend himself and fell at the first stroke of Wei Yen’s sword. His men thought this was only the beginning of an ambush and serious attack, so they scattered; but really Wei Yen only had thirty men with him, and they moved off leisurely toward Hanchung. No man could better K‘ung-ming’s foresight keen; Brilliant as a comet where it flashed: Back and forth at will his soldiers dashed, And Wang’s dead body marked where they had been."
+          }
+        }
+      },
+      {
+        "character_count": 59,
+        "id": "chapter-098-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "且說張郃追蜀兵不上，回到寨中。忽有陳倉城郝昭差人申報，言王雙被斬。曹真聞之，傷心不已，因此憂成疾病；遂回洛陽，命郭淮、孫禮、張郃守長安諸道。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now we may tell the secret orders sent to Wei Yen. He was to keep back thirty men and hide beside Wang Shuang’s camp till that warrior left. Then the camp was to be set on fire. After that the thirty were to wait till Wang’s return to fall upon him. The plan being successfully carried out, Wei Yen followed the retreating army into Hanchung and handed over his command."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-098-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "卻說吳主孫權設朝，有細作人報知：「蜀諸葛丞相出兵兩次，魏都督曹真兵損將亡。」於是群臣皆勸吳王興師伐魏，以圖中原，權猶豫未決。張昭奏曰：「近聞武昌東山，鳳凰來儀；大江之中，黃龍屢現。主公德配唐、虞，明並文、武，可即皇帝位，然後興兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Here nothing will be said of the feastings that took place in Hanchung, but the story will return to Chang Ho, who, failing to come up with the retiring enemy, presently returned to camp. Hao Chao sent a letter to say that Wang Shuang had met his end. This loss caused Ts‘ao Chên deep grief, so that he became ill and had to return to Loyang. He left Chang Ho, Sun Li and Kuo Huai to guard the approaches to Ch‘angan. At a court held by Sun Ch'üan, King of Wu, a certain spy reported the doings in the west and the results of Chuko Liang’s expeditions. Thereupon certain ministers urged on Sun Ch'üan that he should attack Wei and try to gain the capital. However, Sun Ch'üan could not make up his mind, and Chang Chao endeavoured to prove to him that his hour was come by this memorial:—"
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-098-line-030",
+        "order": 30,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "」多官皆應曰：「子布之言是也。」遂選定夏四月丙寅日，築臺於武昌南郊。是日群臣請權登壇即皇帝位，改黃武八年為黃龍元年。諡父孫堅為武烈皇帝。母吳氏為武烈皇后。兄孫策為長沙桓王。立子孫登為皇太子。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have heard that a phoenix has lately appeared in the hills east of Wuch‘ang and bowed; that a yellow dragon has been seen in the Great River. My lord, your virtue matches that of Tang and Yu and your understanding is on a level with that of Kings Wên and Wu. Wherefore you should now proceed to the imperial style and then raise an army to maintain your authority.”"
+          }
+        }
+      },
+      {
+        "character_count": 25,
+        "id": "chapter-098-line-031",
+        "order": 31,
+        "source_block_chunk": 3,
+        "source_block_order": 15,
+        "text": "命諸葛瑾長子諸葛恪為太子左輔，張昭次子張休為太子右弼。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "And many other officers supported Chang Chao’s proposal. They finally persuaded Sun Ch'üan to decide upon a day. They prepared an altar on the south of Wuch‘ang, and on that day his courtiers formally requested him to ascend to the high place and assume the style of “Emperor.”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-098-line-032",
+        "order": 32,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "恪字元遜，身長七尺，極聰明，善應對。權甚愛之。年六歲時，值東吳筵會，恪隨父在座。權見諸葛謹面長，乃令人牽一驢來，用粉筆書其面曰：「諸葛子瑜」。眾皆大笑。恪趨至前，取粉筆書二字於其下曰：「諸葛子瑜之驢。」滿座之人，無不驚訝。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Huang-Lung was chosen as the style of the reign. Sun Chien, the deceased father of the new Emperor, was given the title of Emperor Wu-lieh , his mother a corresponding title, his elder brother, Sun T’sê, was made posthumously Prince Huan of Changsha, and his son, Sun Têng, was styled Heir Apparent. A high rank, Companion of the Heir Apparent, was conferred upon the eldest son of Chuko Chin and the second son of Chang Chao."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-098-line-033",
+        "order": 33,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "權大喜，遂將驢賜之。又一日，大宴官僚，權命恪把盞。巡至張昭面前，昭不飲曰：「此非養老之禮也。」權謂恪曰：「汝能強子布飲乎？」恪領命，乃謂昭曰：「昔姜尚父年九十，秉旄仗鉞，未嘗言老。今臨陣之日，先生在後；飲酒之日，先生在前；何謂不養老也？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "This son of Chuko Chin was a person below middle height, but very clever, and especially apt at capping verses. Sun Ch'üan liked him much. When he was six he went with his father to a banquet. Sun Ch'üan noticed that Chuko Chin had a long face, so he bade a man lead in a donkey, and he wrote on it with chalk, “My friend Chuko.” Every one roared. But the youngster ran up and added a few strokes making it read, “My friend Chuko’s donkey.” The guests were astonished at his ready wit, and praised him. Sun Ch'üan was also pleased and made him a present of the donkey."
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-098-line-034",
+        "order": 34,
+        "source_block_chunk": 3,
+        "source_block_order": 16,
+        "text": "」張昭無言可答，只得強飲。權因此愛之，故命撫太子。張昭佐吳王，位列三公之上，故以其子張休為太子右弼。又以顧雍為丞相，陸遜為上將軍，輔太子守武昌。權復還建業。群臣共議伐魏之策。張昭奏曰：「陛下初登寶位，未可動兵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Another day, at a large official banquet, Sun Ch'üan sent the boy with a goblet of wine to Chang Chao. The old man declined it, saying, “This is not the proper treatment for old age.” “Can you not make him drink?” said the host. Then said K‘o to the old gentleman, “You remember Father Chiang Shang; he was ninety and yet ‘gripped the signalling flags and wielded the axes' of an army commander in the field. He never spoke of age. Nowadays in battle we put seniors behind, but at the banquet board we give them a front place. How can you say we do not treat old age properly?”"
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-098-line-035",
+        "order": 35,
+        "source_block_chunk": 4,
+        "source_block_order": 16,
+        "text": "只宜修文偃武，增設學校，以安民心﹔遣使入川，與蜀同盟，共分天下，緩緩圖之。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang Chao had no reply ready, and so had to drink. This sort of precocity endeared the boy to Sun Ch'üan, and now he made him an officer, “Companion to the Heir Apparent.”"
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-098-line-036",
+        "order": 36,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "權從其言，即令使命星夜入川，來見後主。禮畢，細奏其事。後主聞知，遂與群臣商議。眾議皆謂孫權僭越，宜絕其盟好。蔣琬曰：「可令人問於丞相。」後主即遣使到漢中問孔明。孔明曰：「可令人齎禮物入吳作賀，乞遣陸遜興師伐魏。魏必令司馬懿拒之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang Chao’s son was chosen for honour on account of the eminent services of his father. Then Ku Yung became Prime Minister and Lu Hsün, Generalissimo. And he assisted the Heir Apparent in the custody of Wuch‘ang. As Sun Ch'üan seemed powerful and well established, the whole of his court turned their thoughts toward the suppression of Wei. Only Chang Chao opposed it and tendered counsels of internal reform. “It is not well to begin Your Majesty’s new reign with fighting; rather improve learning and hide the sword; establish schools and so give the people the blessings of peace. Make a treaty with Shu to share the empire, and lay your plans slowly and carefully.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-098-line-037",
+        "order": 37,
+        "source_block_chunk": 2,
+        "source_block_order": 17,
+        "text": "懿若南拒東吳，我再出祁山，長安可圖也。」後主依言，遂令太尉楊震，將名馬玉帶、金珠寶貝，入吳作賀。震至東吳，見了孫權，呈上國書。權大喜，設宴相待，打發回蜀。權召陸遜入，告以西蜀約會興兵伐魏之事。遜曰：「此乃孔明懼司馬懿之謀也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Ch'üan, by nature peaceful and cautious, saw the wisdom of the advice. He sent an envoy into Shu to lay the scheme of an alliance before the king. The king called his courtiers to discuss it. Many were opposed to Sun Ch'üan as ​ an upstart usurper and advised rejection of any friendly proposals from him. Then Chiang Wan said they might get the opinion of K‘ung-ming. So they sent and put the matter before him. He said, “Send an envoy with presents and felicitations and ask Sun Ch'üan to send Lu Hsün against Wei. Then Ssŭma I will be engaged, and I may once more attempt the capital.”"
+          }
+        }
+      },
+      {
+        "character_count": 55,
+        "id": "chapter-098-line-038",
+        "order": 38,
+        "source_block_chunk": 3,
+        "source_block_order": 17,
+        "text": "既與同謀，不得不從。今卻虛作起兵之勢，遙與蜀兵為應。待孔明攻魏急，吾可乘虛取中原也。」即時下令，教荊襄各處都要訓練人馬，擇日興師。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Wherefore Ch'ên Chên was sent with presents of horses, and a jewelled belt, and gold and pearls and precious things into Wu to congratulate the ruler on his newly assumed dignity. And the presents were accepted, and the bearer thereof honoured and allowed to return."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-098-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "卻說陳震回到漢中，報知孔明。孔明尚憂陳倉不可輕進，先令人去哨探。回報說：「陳倉城中郝昭病重。」孔明曰：「大事成矣。」遂喚魏延、姜維分付曰：「汝二人領五千兵，星夜直奔陳倉城下；如見火起，併力攻城。」二人俱未深信，又來問曰：「何日可行？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When this was all over, Sun Ch'üan called in Lu Hsün and asked his opinion about the compact with Shu. Lu saw through the scheme at once. “We owe this to K‘ung-ming’s fear of Ssǔma I,” said he. “However, we must consent since they ask it. We will make a show of raising an army and in a measure support them. When K‘ung-ming has actually attacked Wei we will make for the capital ourselves.” Orders went forth for enlisting and training soldiers ready for an expedition to start presently."
+          }
+        }
+      },
+      {
+        "character_count": 46,
+        "id": "chapter-098-line-040",
+        "order": 40,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "」孔明曰：「三日都要完備；不須辭我，即便起行。」二人受計去了。又喚關興、張苞至，附耳低言，如此如此，二人各受密計而去。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When Ch'ên Chên returned from Hanchung, he reported that K‘ung-ming was grieving that he could not take Ch'ênts‘ang. Soon after this, however, he was cheered by the news that the able defender of the city, Hao Chao, was very ill. “That means success for me,” cried he."
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-098-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "且說郭淮聞郝昭病重，乃與張郃商議曰：「郝昭病重，你可速去替他。我自寫表申奏朝廷，別行定奪。」張郃引著三千兵，急來替郝昭。時郝昭病危，當夜正呻吟之間，忽報蜀兵到城下了。昭急令人上城把守。時各門上火起，城中大亂。昭聽知驚死。蜀兵一擁入城。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He called in Wei Yen and Chiang Wei, and said, “Take half a legion and hasten to Ch'ênts‘ang. If you see a blaze, then attack.” They could hardly believe the order was meant, and came again to see their chief and asked the exact date of departure. “In three days you should be ready to march. Do not come to take leave of me, but set out as soon as possible.” After they had left his tent he summoned Kuan and Chang and gave them secret instructions. Now when Kuo Huai heard that the commander of Ch'ênts‘ang was ill, he and Chang Ho talked over the matter."
+          }
+        }
+      },
+      {
+        "character_count": 96,
+        "id": "chapter-098-line-042",
+        "order": 42,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "卻說魏延、姜維引兵到陳倉城下看時，並不見一面旗號，又無打更之人。二人驚疑，不敢攻城。忽聽得一聲砲響，四面旗幟齊豎。只見一人綸巾羽扇，鶴氅道袍，大叫曰：「汝二人來的遲了。」二人視之，乃孔明也。二人慌忙下馬，拜伏於地曰：「丞相真神計也！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuo Huai said, “Hao Chao is very ill; you had better go and relieve him. I will report to the capital what we have done that they may arrange.” So Chang Ho started with his three companies to relieve the sick man. Hao was indeed at the point of death, and suddenly they told him that the men of Shu had reached the walls. Hao roused himself and bade them go on the ramparts. But then fire broke out at each gate, a panic spread in the city and the noise of the confusion startled the dying man so that he passed away just as the men of Shu were bursting in."
+          }
+        }
+      },
+      {
+        "character_count": 100,
+        "id": "chapter-098-line-043",
+        "order": 43,
+        "source_block_chunk": 2,
+        "source_block_order": 20,
+        "text": "」孔明令放入城，謂二人曰：「吾打探得郝昭病重，吾令汝三日內領兵取城，此乃穩眾人之心也。吾卻令關興、張苞，只推點軍，暗出漢中。吾即藏於軍中，星夜倍道逕到城下，使彼不能調兵。吾早有細作在城內放火，發喊相助，令魏兵驚疑不定。兵無主將，必自亂矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ When Wei Yen and his colleague reached the walls they were perplexed to find no sign of life. No flags were flying and no watchmen struck the hours. They delayed their attack for a time. Then they heard a bomb, and suddenly the wall was thick with flags, and there appeared the well-known figure of the minister. “You have come too late,” cried he. Both dropped out of the saddle and prostrated themselves. “Really, you are supernatural, O Minister!” they cried."
+          }
+        }
+      },
+      {
+        "character_count": 50,
+        "id": "chapter-098-line-044",
+        "order": 44,
+        "source_block_chunk": 3,
+        "source_block_order": 20,
+        "text": "吾因而取之，易如反掌。兵法云：『出其不意，攻其無備。』正謂此也。」魏延、姜維拜伏。孔明憐郝昭之死，令彼妻小扶靈柩回魏，以表其忠。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They entered the city, and then he explained to them that they had been sent as a blind so that his real plan should be a secret. He had hidden himself in the ranks of another force, which had come by double marches. He had sent spies into the city to start the fires and throw the defenders into confusion."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-098-line-045",
+        "order": 45,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "孔明謂魏延、姜維曰：「汝二人且莫卸甲，可引兵去襲散關。把關之人，若知兵到，必然驚走。若稍遲便有魏兵至關，即難攻矣。」魏延、姜維受命，引兵逕到散關。把關之人，果然盡走。二人上關纔要卸甲，遙見關外塵頭大起，魏兵到來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“This is an instance of the rule of war. Do the unexpected; attack the unprepared,” said he at the end. They bowed. In commiseration K‘ung-ming sent all the family of Hao Chao, and his coffin, over to Wei, thus showing his sense of the dead man’s loyalty. Turning once more to the two generals, he said, “But do not divest yourself of your armour. Go and attack San Pass and drive away the guards while they are in a state of surprise. If you delay, Wei will have sent reinforcements.”"
+          }
+        }
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-098-line-046",
+        "order": 46,
+        "source_block_chunk": 2,
+        "source_block_order": 21,
+        "text": "二人相謂曰：「丞相神算，不可測度！」急登樓視之，乃魏將張郃也。二人乃分兵守住險道。張郃見蜀兵守住要道，遂令退軍。魏延隨後追殺一陣。魏兵死者無數，張郃大敗而去。魏延回到關上，令人報知孔明。孔明先自領兵，出陳倉斜谷，取了建威。後面蜀兵陸續進發。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They went. Surely enough the capture was easy. But when they went up to look around they saw a great cloud of dust moving toward them; the reinforcements were already near. They remarked to each other how exceedingly keen was the foresight of their leader. When they had looked a little longer they saw the leader of the Wei army then approaching was Chang Ho. They then divided their men to hold the approaches. When Chang Ho saw that all was prepared, he retired. Wei Yen followed and fought a battle, defeating Chang with only slight loss to himself. He sent to report his success, but K‘ung-ming had already left Ch'ênts‘ang and had gone into Hsieh Valley to capture Chienwei."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-098-line-047",
+        "order": 47,
+        "source_block_chunk": 3,
+        "source_block_order": 21,
+        "text": "後主又命大將陳式來助。孔明驅大兵復出祁山。安下營寨，孔明聚眾言曰：「吾二出祁山，未得其利；今又到此，吾料魏人必依舊戰之地，與吾相敵。彼意疑我取雍、郿二處，必以兵拒守；吾觀武都、陰平與漢連接，若得此二郡，亦可分魏兵之勢。何人敢取之？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Other armies from Shu followed. Moreover, the king sent Ch'ên Shih to assist in the campaign. K‘ung-ming hurried his main force out by Ch‘ishan and there made a camp. Then he called an assembly of officers. “Twice have I gone out by Ch‘ishan without success, but at last I am here. I think Wei will resume the former battle ground and oppose us. If so, they will assume that I shall attack Yung and Mei and send armies to defend them. But I see Yinp‘ing and Wutu are connected with Hanchung, and if I can win these I can drive a wedge into the Wei force. Who will go to take these places?”"
+          }
+        }
+      },
+      {
+        "character_count": 44,
+        "id": "chapter-098-line-048",
+        "order": 48,
+        "source_block_chunk": 4,
+        "source_block_order": 21,
+        "text": "」姜維曰：「某願往。」王平亦曰：「某亦願往。」孔明大喜；遂令姜維引兵一萬取武都、王平引兵一萬取陰平。二人受計去了。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Chiang Wei and Wang P‘ing offered themselves. The former was sent with one legion to capture Wutu; the latter, with an equal force, went to Yinpʻing."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-098-line-049",
+        "order": 49,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "再說張郃回到長安，見郭淮、孫禮說：「陳倉已失，郝昭已亡，散關亦被蜀兵佔了。今孔明復出祁山，分道進兵。」淮大驚曰：「若如此，必取雍、郿矣！」乃留張郃守長安，令孫禮保雍城。淮自引兵星夜來郿城守禦，一面上表入洛陽告急。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Chang Ho went back to Ch‘angan and saw his colleagues, to whom he said, “Ch‘ênts‘ang is lost, Hao Chao is dead, San Pass is taken and K‘ung-ming is again at Ch‘ishan; and thence has sent out two armies.” Kuo Huai was frightened. “In that case, Yung and Mei are in danger,” said he. Leaving Chang Ho to guard Ch‘angan, he sent Sun Li to Yungch'êng, and he himself set out at once for Meich'êng. He sent an urgent report to Loyang."
+          }
+        }
+      },
+      {
+        "character_count": 98,
+        "id": "chapter-098-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "卻說魏主曹叡設朝，近臣奏曰：「陳倉城已失，郝昭已亡，諸葛亮又出祁山，散關亦被蜀兵奪了。」叡大驚。忽又奏滿寵等有表，說：「東吳孫權僭稱帝號，與蜀同盟，今遣陸遜在武昌訓練人馬，聽候調用。只在旦夕，必入寇矣。」叡聞知兩處危急，舉止失措，甚是驚慌。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "At Wei’s next court the king was informed of all the misfortunes in the west and the threats in the east. Ts‘ao Jui was embarrassed and frightened. Ts‘ao Chên, being ill, could not be consulted, and Ssŭma I was called. He was ready with a proposal. “In my humble opinion, Wu will not attack us,” said he. “What makes you think so?” asked the king."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-098-line-051",
+        "order": 51,
+        "source_block_chunk": 2,
+        "source_block_order": 23,
+        "text": "此時曹真病未痊，即召司馬懿商議。懿曰：「以臣愚意所料，東吳必不舉兵。」叡曰：「卿何以知之？」懿曰：「孔明嘗思報猇亭之讎，非不欲吞吳也，只恐中原乘虛擊彼，故暫與東吳聯盟。陸遜亦知其意，故假作興兵之勢以應之，實是坐觀成敗耳。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Because K‘ung-ming still resents, and wishes to avenge, the event at Hsiaotʻing. He never ceases to desire to absorb Wu. His only fear is that we may swoop down upon Shu. That is why there is an alliance with Wu. Lu Hsün knows it also quite well, and he is only making a show of raising an army as they arranged. The truth is he is sitting on the fence. Hence Your Majesty may disregard the menace on the east and only protect yourself against Shu.” “Your insight is very profound,” said the king."
+          }
+        }
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-098-line-052",
+        "order": 52,
+        "source_block_chunk": 3,
+        "source_block_order": 23,
+        "text": "陛下不必防吳，只須防蜀」。叡曰：「卿真高見！」遂封懿為大都督，總攝隴西諸路軍馬，令近臣取曹真總兵將印來。懿曰：「臣自去取之。」遂辭帝出朝，逕到曹真府下，先令人入府報知，懿方進見。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ssǔma I was created Commander-in-chief of all the forces in the east, and the king directed a courtier to go to Ts‘ao Chên for the seal. “I would rather go myself,” said Ssŭma I. So he left the audience and went to the palace of Ts‘ao Chên, where presently he saw the invalid. First he asked after his health and then gradually opened his errand."
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-098-line-053",
+        "order": 53,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "問病畢，懿曰：「東吳、西蜀會合興兵入寇，今孔明又出祁山下寨，明公知之乎？」真驚訝曰：「吾家人知我病重，不令我知。似此國家危急，何不拜仲達為都督，以退蜀兵耶？」懿曰：「某才薄智淺，不稱其職。」真曰：「取印與仲達。」懿曰：「都督少慮。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Shu and Wu have made an alliance to invade us, and Kʻung-ming is at Ch‘ishan. Have you heard, Illustrious Sir?” “My people have kept back all news as I am ill,” said he, startled. “But if this is true the country is in danger. Why have they not made you Commander-in-chief to stop this invasion?” “I am unequal to the post,” said Ssǔma. “Bring the seal and give it to him,” said Ts‘ao."
+          }
+        }
+      },
+      {
+        "character_count": 94,
+        "id": "chapter-098-line-054",
+        "order": 54,
+        "source_block_chunk": 2,
+        "source_block_order": 24,
+        "text": "某願助一臂之力，只不敢受此印也。」真躍起曰：「如仲達不領此任，中國危矣！吾當抱病見天子以保之！」懿曰：「天子已有恩命，但懿不敢受耳。」真大喜曰：「仲達今領此任，可退蜀兵。」懿見真再三讓印，遂受之，辭了魏主，引兵往長安來與孔明決戰。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“You are anxious on my account; really I am only come to lend you an arm. I dare not accept the seal.” Ts‘ao started up, saying, “If you do not take it I shall have to go to see the king, ill as I am. The country is in danger.” “Really the king has already shown his kindness, but I dare not accept his offer.” ​ “If you have been appointed then Shu will be driven off.” Thrice Ssǔma declined the seal, but eventually he received it into his hands. Then he took leave of the king and marched to Ch‘angan."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-098-line-055",
+        "order": 55,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "舊帥印為新帥取，兩路兵惟一路來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The seal of office changes hands, Two armies now one force become."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-098-line-056",
+        "order": 56,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "未知勝負如何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ssǔma’s success or failure will be told in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說司馬懿奏曰：「臣嘗奏陛下，言孔明必出陳倉，故以郝昭守之。今果然矣。彼若從陳倉入寇，運糧甚便。今幸有郝昭、王雙把守，不敢從此路運糧，其餘小道，搬運艱難。臣算蜀兵行糧止有一月，利在急戰。我軍只宜久守。陛下可降詔，令曹真堅守諸路關隘，不要出戰。不須一月，蜀兵自退。那時乘虛擊之。諸葛亮可擒也。」叡欣然曰：「卿既有先見之明，何不自引一軍以襲之？」懿曰：「臣非惜身重命，實欲存下此兵，以防東吳陸遜耳。孫權不久必僭號稱尊，如稱尊號，恐陛下伐之，定先入寇也。臣故欲以兵待之。」\n正言間，忽近臣奏曰：「曹都督奏報軍情。」懿曰：「陛下可即令人告戒曹真：凡追趕蜀兵，必須觀其虛實，不可深入重地，以中諸葛亮之計。」叡即時下詔，遣太常卿韓暨持節告戒曹真：「切不可戰，務在謹守；只待蜀兵退去，方纔擊之。」司馬懿送韓暨於城外，囑之曰：「吾以此功讓與子丹，公見子丹，休言是吾所陳之意，只道天子降詔，教保守為上。追趕之人，切要仔細，勿遣性急氣躁者追之。」暨辭去。\n卻說曹真正升帳議事，忽報天子遣太常卿韓暨持節至。真出寨接入；受詔已畢，退與郭淮、孫禮計議。淮笑曰：「此乃司馬仲達之見也。」真曰：「此見若何？」淮曰：「此言深識諸葛亮用兵之法。久後能禦蜀兵者，必仲達也。」真曰：「倘蜀兵不退，又將如何？」淮曰：「可密令人去教王雙，引兵於小路哨巡，彼自不敢運糧。待其糧盡兵退，乘勢追擊，可獲全勝。」孫禮曰：「某去祁山虛妝做運糧兵，車上盡裝乾柴茅草，以硫黃燄硝灌之，卻教人虛報隴西運糧到。若蜀兵無糧，必然來搶。待入其中，放火燒車，外以伏兵應之，可勝矣。」真喜曰：「此計大妙！」即令孫禮引兵依計而行。又遣人教王雙引兵於小路上巡哨，郭淮引兵提調箕谷、街亭，令諸路軍馬守把險要。真又令張遼子張虎爲先鋒，樂進子樂綝爲副先鋒。同守頭營，不許出戰。\n卻說孔明在祁山寨中，每日令人挑戰，魏兵堅守不出。孔明喚姜維商議曰：「魏兵堅守不出，是料吾軍中無糧也。今陳倉轉運不通，其餘小路盤涉艱難，吾算隨軍糧草，不敷一月用度，如之奈何？」正躊躇間，忽報隴西魏軍運糧數千車於祁山之西，運糧官乃孫禮也。孔明曰：「其人如何？」有魏人告曰：「此人曾隨魏主出獵於大石山。忽驚起一猛虎，直奔御前，孫禮下馬拔劍斬之。從此封為上將軍。乃曹真心腹人也。」孔明笑曰：「此是魏將料吾乏糧，故用此計。車上裝載者，必是茅草引火之物。吾平生專用火攻，彼乃欲以此計誘我耶？彼若知吾軍去劫糧草，必來劫我寨矣。可將計就計而行。」\n遂喚馬岱分付曰：「汝引三千軍逕到魏兵屯糧之所，不可入營，但於上風頭放火。若燒著車仗，魏兵必來圍吾寨。」又差馬忠、張嶷各引五千兵在外圍住，內外夾攻。三人受計去了。又喚關興、張苞分付曰：「魏兵頭營接連四通之路。今晚若西山火起，魏兵必來劫吾營。汝二人卻伏於魏寨左右。只等他兵出寨，汝二人便可劫之。」又喚吳班、吳懿分付曰：「汝二人各引一軍伏於營外。若魏兵到，可截其歸路。」孔明分撥已畢，自在祁山上憑高而坐。魏兵探知蜀兵要來劫糧，慌忙報與孫禮。禮令人飛報曹真。真遣人去頭營分付看張虎、樂綝：「看今夜山西火起，蜀兵必來救應。可以出軍，如此如此。」二人受計，令人登樓專看火號。\n卻說孫禮把軍伏於山西，只待蜀兵到。是夜二更馬岱引三千兵來，人皆銜枚，馬皆勒口。逕到山西，見許多車仗，重重疊疊，攢遶成營，車仗虛插旌旗。正值西南風起，岱令軍士逕去營南放火，車仗盡著，光火沖天。孫禮只道蜀兵到魏寨內放號火，急引兵一齊掩至。背後鼓角喧天，兩路兵殺來，乃是馬忠、張嶷把魏軍圍在垓心。孫禮大驚。又聽得魏軍中喊聲起，一彪軍從火光邊殺來，乃是馬岱。內外夾攻，魏兵大敗。火緊風急，人馬亂竄，死者無數。孫禮引中傷軍，突煙冒火而走。\n卻說張虎在營中，望見火光沖天，大開寨門，與樂綝盡引人馬，殺奔蜀寨來，寨中不見一人；急收軍回時，吳班、吳懿兩路兵殺出，斷其歸路。張、樂二將急衝出軍圍，奔回本寨，只見土城之上，箭如飛蝗。原來卻被關興、張苞襲了營寨。魏兵大敗，皆投曹真寨來，方欲入寨，只見一彪敗軍飛奔而來，乃是孫禮；遂同入寨見真，各言中計之事。真聽知，謹守大寨，更不出戰。蜀兵得勝，回見孔明。\n孔明密令人授計與魏延，一面教拔寨齊起。楊儀曰：「今已大勝，挫盡魏兵銳氣，何故反欲收兵？」孔明曰：「吾兵無糧，利在急戰。今彼堅守不出，吾受其病矣。彼今雖暫時兵敗，中原必有添益。若以輕騎襲吾糧道，那時要歸不能。今乘魏兵新敗，不敢正視蜀兵，便可出其不意，乘機退去。所憂者但魏延一軍，在陳倉道口拒住王雙，急不能脫身。吾已令人授以密計，教斬王雙，使魏人不敢來追，只令後隊先行。」當夜孔明只留金鼓守在寨中打更。一夜兵已盡退，只落空營。\n卻說曹真正在寨中憂悶，忽報左將軍張郃領兵到。郃下馬入帳謂真曰：「某奉聖旨，特來聽調。」真曰：「曾別仲達否？」郃曰：「仲達分付云：『吾軍勝，蜀兵必不便去；若吾軍敗，蜀兵必即去矣。』今吾軍失利之後，都督曾往哨探蜀兵消息否？」真曰：「未也。」於是即令人往探之，果是虛營，只插著數十面旌旗，兵已去二日也。曹真懊悔莫及。\n且說魏延受了密計，當夜二更拔寨，急回漢中。早有細作報知王雙，雙大驅軍馬，併力追趕，追到二十餘里，看看趕上，且魏延旗號在前，大叫曰：「魏延休走！」蜀兵更不回頭。雙拍馬趕來。背後魏兵大叫曰：「城外寨中火起，恐中敵人奸計。」雙急勒馬回時，只見一片火光沖天，慌令退軍。行到山坡左側，忽一騎馬從林中驟出，大喝曰：「魏延在此！」王雙大驚，措手不及，被延一刀砍於馬下。魏兵疑有埋伏，四散逃走。延手下止有三十騎人馬，望漢中緩緩而行。後人有詩讚曰：\n孔明妙算勝孫龐，耿若長星照一方。\n進退行兵神莫測，陳倉道口斬王雙。\n原來魏延受了孔明妙計，先教存下三十騎，伏於王雙營邊；只待王雙起兵趕時，卻去他營中放火；待他回營，出其不意，突出斬之。魏延引兵斬了王雙，回到漢中見孔明，交割了人馬。孔明設宴大會，不在話下。\n且說張郃追蜀兵不上，回到寨中。忽有陳倉城郝昭差人申報，言王雙被斬。曹真聞之，傷心不已，因此憂成疾病；遂回洛陽，命郭淮、孫禮、張郃守長安諸道。\n卻說吳主孫權設朝，有細作人報知：「蜀諸葛丞相出兵兩次，魏都督曹真兵損將亡。」於是群臣皆勸吳王興師伐魏，以圖中原，權猶豫未決。張昭奏曰：「近聞武昌東山，鳳凰來儀；大江之中，黃龍屢現。主公德配唐、虞，明並文、武，可即皇帝位，然後興兵。」多官皆應曰：「子布之言是也。」遂選定夏四月丙寅日，築臺於武昌南郊。是日群臣請權登壇即皇帝位，改黃武八年為黃龍元年。諡父孫堅為武烈皇帝。母吳氏為武烈皇后。兄孫策為長沙桓王。立子孫登為皇太子。命諸葛瑾長子諸葛恪為太子左輔，張昭次子張休為太子右弼。\n恪字元遜，身長七尺，極聰明，善應對。權甚愛之。年六歲時，值東吳筵會，恪隨父在座。權見諸葛謹面長，乃令人牽一驢來，用粉筆書其面曰：「諸葛子瑜」。眾皆大笑。恪趨至前，取粉筆書二字於其下曰：「諸葛子瑜之驢。」滿座之人，無不驚訝。權大喜，遂將驢賜之。又一日，大宴官僚，權命恪把盞。巡至張昭面前，昭不飲曰：「此非養老之禮也。」權謂恪曰：「汝能強子布飲乎？」恪領命，乃謂昭曰：「昔姜尚父年九十，秉旄仗鉞，未嘗言老。今臨陣之日，先生在後；飲酒之日，先生在前；何謂不養老也？」張昭無言可答，只得強飲。權因此愛之，故命撫太子。張昭佐吳王，位列三公之上，故以其子張休為太子右弼。又以顧雍為丞相，陸遜為上將軍，輔太子守武昌。權復還建業。群臣共議伐魏之策。張昭奏曰：「陛下初登寶位，未可動兵。只宜修文偃武，增設學校，以安民心﹔遣使入川，與蜀同盟，共分天下，緩緩圖之。」\n權從其言，即令使命星夜入川，來見後主。禮畢，細奏其事。後主聞知，遂與群臣商議。眾議皆謂孫權僭越，宜絕其盟好。蔣琬曰：「可令人問於丞相。」後主即遣使到漢中問孔明。孔明曰：「可令人齎禮物入吳作賀，乞遣陸遜興師伐魏。魏必令司馬懿拒之。懿若南拒東吳，我再出祁山，長安可圖也。」後主依言，遂令太尉楊震，將名馬玉帶、金珠寶貝，入吳作賀。震至東吳，見了孫權，呈上國書。權大喜，設宴相待，打發回蜀。權召陸遜入，告以西蜀約會興兵伐魏之事。遜曰：「此乃孔明懼司馬懿之謀也。既與同謀，不得不從。今卻虛作起兵之勢，遙與蜀兵為應。待孔明攻魏急，吾可乘虛取中原也。」即時下令，教荊襄各處都要訓練人馬，擇日興師。\n卻說陳震回到漢中，報知孔明。孔明尚憂陳倉不可輕進，先令人去哨探。回報說：「陳倉城中郝昭病重。」孔明曰：「大事成矣。」遂喚魏延、姜維分付曰：「汝二人領五千兵，星夜直奔陳倉城下；如見火起，併力攻城。」二人俱未深信，又來問曰：「何日可行？」孔明曰：「三日都要完備；不須辭我，即便起行。」二人受計去了。又喚關興、張苞至，附耳低言，如此如此，二人各受密計而去。\n且說郭淮聞郝昭病重，乃與張郃商議曰：「郝昭病重，你可速去替他。我自寫表申奏朝廷，別行定奪。」張郃引著三千兵，急來替郝昭。時郝昭病危，當夜正呻吟之間，忽報蜀兵到城下了。昭急令人上城把守。時各門上火起，城中大亂。昭聽知驚死。蜀兵一擁入城。\n卻說魏延、姜維引兵到陳倉城下看時，並不見一面旗號，又無打更之人。二人驚疑，不敢攻城。忽聽得一聲砲響，四面旗幟齊豎。只見一人綸巾羽扇，鶴氅道袍，大叫曰：「汝二人來的遲了。」二人視之，乃孔明也。二人慌忙下馬，拜伏於地曰：「丞相真神計也！」孔明令放入城，謂二人曰：「吾打探得郝昭病重，吾令汝三日內領兵取城，此乃穩眾人之心也。吾卻令關興、張苞，只推點軍，暗出漢中。吾即藏於軍中，星夜倍道逕到城下，使彼不能調兵。吾早有細作在城內放火，發喊相助，令魏兵驚疑不定。兵無主將，必自亂矣。吾因而取之，易如反掌。兵法云：『出其不意，攻其無備。』正謂此也。」魏延、姜維拜伏。孔明憐郝昭之死，令彼妻小扶靈柩回魏，以表其忠。\n孔明謂魏延、姜維曰：「汝二人且莫卸甲，可引兵去襲散關。把關之人，若知兵到，必然驚走。若稍遲便有魏兵至關，即難攻矣。」魏延、姜維受命，引兵逕到散關。把關之人，果然盡走。二人上關纔要卸甲，遙見關外塵頭大起，魏兵到來。二人相謂曰：「丞相神算，不可測度！」急登樓視之，乃魏將張郃也。二人乃分兵守住險道。張郃見蜀兵守住要道，遂令退軍。魏延隨後追殺一陣。魏兵死者無數，張郃大敗而去。魏延回到關上，令人報知孔明。孔明先自領兵，出陳倉斜谷，取了建威。後面蜀兵陸續進發。後主又命大將陳式來助。孔明驅大兵復出祁山。安下營寨，孔明聚眾言曰：「吾二出祁山，未得其利；今又到此，吾料魏人必依舊戰之地，與吾相敵。彼意疑我取雍、郿二處，必以兵拒守；吾觀武都、陰平與漢連接，若得此二郡，亦可分魏兵之勢。何人敢取之？」姜維曰：「某願往。」王平亦曰：「某亦願往。」孔明大喜；遂令姜維引兵一萬取武都、王平引兵一萬取陰平。二人受計去了。\n再說張郃回到長安，見郭淮、孫禮說：「陳倉已失，郝昭已亡，散關亦被蜀兵佔了。今孔明復出祁山，分道進兵。」淮大驚曰：「若如此，必取雍、郿矣！」乃留張郃守長安，令孫禮保雍城。淮自引兵星夜來郿城守禦，一面上表入洛陽告急。\n卻說魏主曹叡設朝，近臣奏曰：「陳倉城已失，郝昭已亡，諸葛亮又出祁山，散關亦被蜀兵奪了。」叡大驚。忽又奏滿寵等有表，說：「東吳孫權僭稱帝號，與蜀同盟，今遣陸遜在武昌訓練人馬，聽候調用。只在旦夕，必入寇矣。」叡聞知兩處危急，舉止失措，甚是驚慌。此時曹真病未痊，即召司馬懿商議。懿曰：「以臣愚意所料，東吳必不舉兵。」叡曰：「卿何以知之？」懿曰：「孔明嘗思報猇亭之讎，非不欲吞吳也，只恐中原乘虛擊彼，故暫與東吳聯盟。陸遜亦知其意，故假作興兵之勢以應之，實是坐觀成敗耳。陛下不必防吳，只須防蜀」。叡曰：「卿真高見！」遂封懿為大都督，總攝隴西諸路軍馬，令近臣取曹真總兵將印來。懿曰：「臣自去取之。」遂辭帝出朝，逕到曹真府下，先令人入府報知，懿方進見。\n問病畢，懿曰：「東吳、西蜀會合興兵入寇，今孔明又出祁山下寨，明公知之乎？」真驚訝曰：「吾家人知我病重，不令我知。似此國家危急，何不拜仲達為都督，以退蜀兵耶？」懿曰：「某才薄智淺，不稱其職。」真曰：「取印與仲達。」懿曰：「都督少慮。某願助一臂之力，只不敢受此印也。」真躍起曰：「如仲達不領此任，中國危矣！吾當抱病見天子以保之！」懿曰：「天子已有恩命，但懿不敢受耳。」真大喜曰：「仲達今領此任，可退蜀兵。」懿見真再三讓印，遂受之，辭了魏主，引兵往長安來與孔明決戰。正是：\n舊帥印為新帥取，兩路兵惟一路來。\n未知勝負如何，且看下文分解。",
+    "title": "第九十八回 追漢軍王雙受誅　　　襲陳倉武侯取勝"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-098.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

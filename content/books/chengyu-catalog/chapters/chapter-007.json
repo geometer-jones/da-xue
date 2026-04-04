@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-007",
+    "order": 7,
+    "summary": "不卑不亢",
+    "text": "不卑不亢\n直言不讳\n一诺千金\n一言九鼎\n推己及人\n言传身教\n集思广益\n众志成城\n同仇敌忾\n取信于民\n披肝沥胆\n和衷共济\n相亲相爱\n扶危济困\n风雨同舟\n推诚相见\n同心同德\n休戚相关\n相得益彰\n同气连枝\n光明磊落\n大公无私\n克己奉公\n先公后私\n言行一致\n见贤思齐\n闻过则喜\n改过自新\n坚忍不拔\n百折不挠",
+    "title": "181-210",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "不卑不亢",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "neither servile nor overbearing; neither obsequious nor supercilious"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "直言不讳",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to speak bluntly"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "一诺千金",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a promise worth one thousand in gold; a promise that must be kept"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "一言九鼎",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "words of enormous weight"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "推己及人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to understand someone else's position; to put oneself in somebody else's shoes"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "言传身教",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to teach by words and example"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "集思广益",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "collective wisdom for mutual benefit"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "众志成城",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the [unified] will of many people is an fortress"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "同仇敌忾",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "anger against a common enemy; joined in opposition to the same adversary"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "取信于民",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to attain the people's trust; to win the confidence of the people"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "披肝沥胆",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to open one's liver and drip gall; wholehearted loyalty"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "和衷共济",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "mutually supportive; to work with a common purpose"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "相亲相爱",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be kind and love one another; bound by deep emotions"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "扶危济困",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to help those in distress"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "风雨同舟",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "in the same boat under wind and rain; to stick together in hard times"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "推诚相见",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "See each other sincerely"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "同心同德",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "identical in mind and beliefs; of one mind"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "休戚相关",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "closely related"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "相得益彰",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to bring out the best in each other"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "同气连枝",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Connecting branches with the same spirit"
+          }
+        },
+        "category": "人际与协作"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "光明磊落",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "open and candid"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "大公无私",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "impartial and selfless; just and fair"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "克己奉公",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "self-restraint and devotion to public duties; selfless dedication"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "先公后私",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Put public before private"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "言行一致",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "word and actions coincide"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "见贤思齐",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see a worthy, think to imitate; emulate the virtuous"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "闻过则喜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to accept criticism gladly; to be happy when one's errors are pointed out"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "改过自新",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to reform and start afresh; to turn over a new leaf"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "坚忍不拔",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "fortitude"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-007-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "百折不挠",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "keep on fighting in spite of all setbacks; be indomitable"
+          }
+        },
+        "category": "品格与表达"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-007.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

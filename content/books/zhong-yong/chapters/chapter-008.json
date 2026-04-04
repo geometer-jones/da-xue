@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 24,
+    "id": "chapter-008",
+    "order": 8,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 24,
+        "id": "chapter-008-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「回之為人也，擇乎中庸，得一善，則拳拳服膺而弗失之矣。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said \"This was the manner of Hui: he made choice of the Mean, and whenever he got hold of what was good, he clasped it firmly, as if wearing it on his breast, and did not lose it.\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「回之為人也，擇乎中庸，得一善，則拳拳服膺而弗失之矣。」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-008.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

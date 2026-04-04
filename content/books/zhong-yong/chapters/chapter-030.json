@@ -1,0 +1,60 @@
+{
+  "chapter": {
+    "character_count": 76,
+    "id": "chapter-030",
+    "order": 30,
+    "reading_unit_count": 3,
+    "reading_units": [
+      {
+        "character_count": 18,
+        "id": "chapter-030-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "仲尼祖述堯舜，憲章文武；上律天時，下襲水土。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zhong-ni handed down the doctrines of Yao and Shun, as if they had been his ancestors, and elegantly displayed the regulations of Wen and Wu taking them as his model."
+          }
+        }
+      },
+      {
+        "character_count": 26,
+        "id": "chapter-030-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "辟如天地之無不持載，無不覆幬，辟如四時之錯行，如日月之代明。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Above, he harmonized with the times of Heaven, and below, he was conformed to the water and land."
+          }
+        }
+      },
+      {
+        "character_count": 32,
+        "id": "chapter-030-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "萬物並育而不相害，道並行而不相悖，小德川流，大德敦化，此天地之所以為大也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He may be compared to Heaven and Earth in their supporting and containing, their overshadowing and curtaining, all things. He may be compared to the four seasons in their alternating progress, and to the sun and moon in their successive shining. All things are nourished together without their injuring one another. The courses of the seasons, and of the sun and moon, are pursued without any collision among them. The smaller energies are like river currents; the greater energies are seen in mighty transformations. It is this which makes heaven and earth so great."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "仲尼祖述堯舜，憲章文武；上律天時，下襲水土。\n辟如天地之無不持載，無不覆幬，辟如四時之錯行，如日月之代明。\n萬物並育而不相害，道並行而不相悖，小德川流，大德敦化，此天地之所以為大也。",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-030.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-009",
+    "order": 9,
+    "summary": "神采奕奕",
+    "text": "神采奕奕\n不慌不忙\n励精图治\n厚德载物\n名不虚传\n宽宏大量\n问心无愧\n从容自若\n不骄不躁\n谦虚谨慎\n自相矛盾\n画蛇添足\n守株待兔\n刻舟求剑\n叶公好龙\n掩耳盗铃\n狐假虎威\n井底之蛙\n滥竽充数\n南辕北辙\n杯弓蛇影\n画饼充饥\n塞翁失马\n愚公移山\n对牛弹琴\n班门弄斧\n毛遂自荐\n完璧归赵\n负荆请罪\n纸上谈兵",
+    "title": "241-270",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "神采奕奕",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "in glowing spirits; bursting with life; radiating health and vigor"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "不慌不忙",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "calm and unhurried; composed; to take matters calmly"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "励精图治",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(of a ruler) to strive to make one's nation strong and prosperous (idiom)"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "厚德载物",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "with great virtue one can take charge of the world"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "名不虚传",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "name is not in vain; a fully justified reputation; enjoys a well-deserved reputation"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "宽宏大量",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "magnanimous; generous"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "问心无愧",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "look into one's heart, no shame; with a clear conscience"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "从容自若",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Calm and composed"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "不骄不躁",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "neither conceited nor rash; free from arrogance and rashness"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "谦虚谨慎",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "modest and prudent; humble and cautious"
+          }
+        },
+        "category": "品格与表达"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "自相矛盾",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to contradict oneself; self-contradictory"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "画蛇添足",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to draw legs on a snake; to ruin the effect by adding something superfluous; to overdo it"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "守株待兔",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to guard a tree stump waiting for rabbits; to wait passively for an opportunity"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "刻舟求剑",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "an action made pointless by changed circumstances"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "叶公好龙",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lord Ye's passion for dragons; to pretend to be fond of something while actually fearing it"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "掩耳盗铃",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to cover one's ears whilst stealing a bell; to deceive oneself; to bury one's head in the sand"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "狐假虎威",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the fox exploits the tiger; to use powerful connections to intimidate people"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "井底之蛙",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the frog at the bottom of the well; a person of limited outlook and experience"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "滥竽充数",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to play the mouth organ to make up numbers; to make up the numbers with inferior products; to masquerade as having an ability; token member of a group"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "南辕北辙",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "south carriage shaft, north track; to act in a way that defeats one's purpose"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "杯弓蛇影",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to see a bow reflected in a cup as a snake; unnecessary suspicions; overly fearful"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "画饼充饥",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to allay one's hunger using a picture of a cake; to feed on illusions"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "塞翁失马",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the old man lost his horse, but it all turned out for the best; a blessing in disguise"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "愚公移山",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "an old man can move mountains"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "对牛弹琴",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to play the lute to a cow; offering a treat to an unappreciative audience; to cast pearls before swine; caviar to the general; to preach to deaf ears"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "班门弄斧",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to display one's slight skill before an expert"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "毛遂自荐",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Mao Sui recommends himself; to offer one's services; to volunteer"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "完璧归赵",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to return the intact jade annulus to Zhao"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "负荆请罪",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to bring a bramble and ask for punishment; to offer sb a humble apology"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-009-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "纸上谈兵",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "military tactics discussed on paper; theoretical discussion that is useless in practice"
+          }
+        },
+        "category": "高频故事成语"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-009.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

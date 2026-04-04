@@ -159,6 +159,30 @@ flutter run --dart-define=API_BASE_URL=http://127.0.0.1:8080
 
 For the Android emulator, use `http://10.0.2.2:8080` instead of `127.0.0.1`.
 
+### Serve the Flutter app through the backend
+
+Build the Flutter web bundle:
+
+```bash
+cd apps/mobile
+flutter build web
+```
+
+Then start the API:
+
+```bash
+cd services/api
+go run ./cmd/server
+```
+
+If `apps/mobile/build/web` exists, the API auto-detects it and serves the web app from `/` while keeping the JSON API under `/api/v1/*`.
+
+You can also point the server at a specific web build directory:
+
+```bash
+WEB_APP_ROOT=/absolute/path/to/apps/mobile/build/web go run ./cmd/server
+```
+
 ## Environment Configuration
 
 A sample env file lives at `.env.example`.

@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-015",
+    "order": 15,
+    "summary": "无所不为",
+    "text": "无所不为\n至人无梦\n四时之气\n下落不明\n一发破的\n好恶不同\n不相为谋\n人来人往\n好为人师\n不知所言\n一面之辞\n偶一为之\n令人发指\n人各有志\n张大其事\n无事生事\n人心所向\n战无不胜\n人生如梦\n天外有天\n言之成理\n不即不离\n少不经事\n不知所云\n兵无常形\n能上能下\n大有文章\n无能为力\n面不改容\n斗南一人",
+    "title": "421-450",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "无所不为",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "not stopping at anything"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "至人无梦",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No one has any dreams"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "四时之气",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The spirit of the four seasons"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "下落不明",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unaccounted"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "一发破的",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A broken one"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "好恶不同",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Different likes and dislikes"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "不相为谋",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Don't work together"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "人来人往",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "people coming and people going; many people coming and people going"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "好为人师",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to like to lecture others"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "不知所言",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Don't know what to say"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "一面之辞",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the statement of only one of the parties"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "偶一为之",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to do sth once in a while (idiom)"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "令人发指",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to make one's hair stand up in anger; to raise people's hackles"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "人各有志",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "every person has his or her own aspiration"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "张大其事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Make a big deal about it"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "无事生事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Make trouble out of nothing"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "人心所向",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "that which is yearned for by the public"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "战无不胜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to triumph in every battle; to be invincible"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "人生如梦",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "life is like a dream"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "天外有天",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "There is a day outside the sky"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "言之成理",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to speak in a rational or convincing way; to sound reasonable"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "不即不离",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be neither too familiar nor too distant"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "少不经事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 少不更事[shao4 bu4 geng1 shi4]"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "不知所云",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to not know what somebody is saying; to be unintelligible"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "兵无常形",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Soldiers are impermanent"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "能上能下",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "ready to take any job, high or low"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "大有文章",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "some deeper meaning in this"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "无能为力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "strength that is not able to do anything; powerless to help"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "面不改容",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Face remains unchanged"
+          }
+        },
+        "category": "高透明度 III"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-015-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "斗南一人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dounan alone"
+          }
+        },
+        "category": "高透明度 III"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-015.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

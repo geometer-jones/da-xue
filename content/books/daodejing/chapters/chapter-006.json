@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 25,
+    "id": "chapter-006",
+    "order": 6,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 25,
+        "id": "chapter-006-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "谷神 不死 ， 是 謂 玄 牝 。 玄 牝 之 門 ， 是 謂 天地 根 。 緜 緜 若 存 ， 用 之 不 勤 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The valley spirit dies not, aye the same; The female mystery thus do we name. Its gate, from which at first they issued forth, Is called the root from which grew heaven and earth. Long and unbroken does its power remain, Used gently, and without the touch of pain."
+          }
+        }
+      }
+    ],
+    "summary": "谷神不死，是謂玄牝",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "谷神不死，是謂玄牝。玄牝之門，是謂天地根。綿綿若存，用之不勤。",
+    "title": "第6章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-006.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

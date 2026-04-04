@@ -1,0 +1,194 @@
+{
+  "cache_dir": "books/da-xue",
+  "catalog_path": "books/da-xue/catalog.json",
+  "chapter_count": 7,
+  "chapters": [
+    {
+      "chapter_path": "books/da-xue/chapters/chapter-001.json",
+      "character_count": 16,
+      "id": "chapter-001",
+      "order": 1,
+      "reading_unit_count": 1,
+      "summary": "在明明德，在親民，在止於至善",
+      "supplemental_unit_count": 0,
+      "title": "大學之道"
+    },
+    {
+      "chapter_path": "books/da-xue/chapters/chapter-002.json",
+      "character_count": 26,
+      "id": "chapter-002",
+      "order": 2,
+      "reading_unit_count": 1,
+      "summary": "定而后能靜，靜而后能安，安而后能慮，慮而后能得",
+      "supplemental_unit_count": 0,
+      "title": "知止而后有定"
+    },
+    {
+      "chapter_path": "books/da-xue/chapters/chapter-003.json",
+      "character_count": 16,
+      "id": "chapter-003",
+      "order": 3,
+      "reading_unit_count": 1,
+      "summary": "事有終始，知所先後，則近道矣",
+      "supplemental_unit_count": 0,
+      "title": "物有本末"
+    },
+    {
+      "chapter_path": "books/da-xue/chapters/chapter-004.json",
+      "character_count": 64,
+      "id": "chapter-004",
+      "order": 4,
+      "reading_unit_count": 1,
+      "summary": "先治其國；欲治其國者，先齊其家",
+      "supplemental_unit_count": 0,
+      "title": "古之欲明明德於天下者"
+    },
+    {
+      "chapter_path": "books/da-xue/chapters/chapter-005.json",
+      "character_count": 43,
+      "id": "chapter-005",
+      "order": 5,
+      "reading_unit_count": 1,
+      "summary": "知至而后意誠，意誠而后心正",
+      "supplemental_unit_count": 0,
+      "title": "物格而后知至"
+    },
+    {
+      "chapter_path": "books/da-xue/chapters/chapter-006.json",
+      "character_count": 16,
+      "id": "chapter-006",
+      "order": 6,
+      "reading_unit_count": 1,
+      "summary": "壹是皆以脩身為本",
+      "supplemental_unit_count": 0,
+      "title": "自天子以至於庶人"
+    },
+    {
+      "chapter_path": "books/da-xue/chapters/chapter-007.json",
+      "character_count": 24,
+      "id": "chapter-007",
+      "order": 7,
+      "reading_unit_count": 1,
+      "summary": "其所厚者薄，而其所薄者厚，未之有也",
+      "supplemental_unit_count": 0,
+      "title": "其本亂而末治者否矣"
+    }
+  ],
+  "commentary_chapter_count": 11,
+  "commentary_chapters": [
+    {
+      "character_count": 839,
+      "commentary_path": "books/da-xue/commentary/commentary-introduction.json",
+      "id": "commentary-introduction",
+      "order": 0,
+      "reading_unit_count": 14,
+      "summary": "《大學章句》序與經一章總說",
+      "supplemental_unit_count": 24,
+      "title": "朱熹序與總說"
+    },
+    {
+      "character_count": 26,
+      "commentary_path": "books/da-xue/commentary/commentary-chapter-001.json",
+      "id": "commentary-chapter-001",
+      "order": 1,
+      "reading_unit_count": 4,
+      "summary": "釋明明德",
+      "supplemental_unit_count": 2,
+      "title": "右傳之首章"
+    },
+    {
+      "character_count": 40,
+      "commentary_path": "books/da-xue/commentary/commentary-chapter-002.json",
+      "id": "commentary-chapter-002",
+      "order": 2,
+      "reading_unit_count": 4,
+      "summary": "釋新民",
+      "supplemental_unit_count": 3,
+      "title": "右傳之二章"
+    },
+    {
+      "character_count": 203,
+      "commentary_path": "books/da-xue/commentary/commentary-chapter-003.json",
+      "id": "commentary-chapter-003",
+      "order": 3,
+      "reading_unit_count": 5,
+      "summary": "釋止於至善",
+      "supplemental_unit_count": 7,
+      "title": "右傳之三章"
+    },
+    {
+      "character_count": 30,
+      "commentary_path": "books/da-xue/commentary/commentary-chapter-004.json",
+      "id": "commentary-chapter-004",
+      "order": 4,
+      "reading_unit_count": 1,
+      "summary": "釋本末",
+      "supplemental_unit_count": 2,
+      "title": "右傳之四章"
+    },
+    {
+      "character_count": 10,
+      "commentary_path": "books/da-xue/commentary/commentary-chapter-005.json",
+      "id": "commentary-chapter-005",
+      "order": 5,
+      "reading_unit_count": 2,
+      "summary": "，蓋釋格物、致知之義，而今亡矣",
+      "supplemental_unit_count": 3,
+      "title": "右傳之五章"
+    },
+    {
+      "character_count": 118,
+      "commentary_path": "books/da-xue/commentary/commentary-chapter-006.json",
+      "id": "commentary-chapter-006",
+      "order": 6,
+      "reading_unit_count": 4,
+      "summary": "釋誠意",
+      "supplemental_unit_count": 6,
+      "title": "右傳之六章"
+    },
+    {
+      "character_count": 72,
+      "commentary_path": "books/da-xue/commentary/commentary-chapter-007.json",
+      "id": "commentary-chapter-007",
+      "order": 7,
+      "reading_unit_count": 3,
+      "summary": "釋正心脩身",
+      "supplemental_unit_count": 3,
+      "title": "右傳之七章"
+    },
+    {
+      "character_count": 96,
+      "commentary_path": "books/da-xue/commentary/commentary-chapter-008.json",
+      "id": "commentary-chapter-008",
+      "order": 8,
+      "reading_unit_count": 3,
+      "summary": "釋脩身齊家",
+      "supplemental_unit_count": 3,
+      "title": "右傳之八章"
+    },
+    {
+      "character_count": 271,
+      "commentary_path": "books/da-xue/commentary/commentary-chapter-009.json",
+      "id": "commentary-chapter-009",
+      "order": 9,
+      "reading_unit_count": 9,
+      "summary": "釋齊家治國",
+      "supplemental_unit_count": 4,
+      "title": "右傳之九章"
+    },
+    {
+      "character_count": 682,
+      "commentary_path": "books/da-xue/commentary/commentary-chapter-010.json",
+      "id": "commentary-chapter-010",
+      "order": 10,
+      "reading_unit_count": 24,
+      "summary": "釋治國平天下",
+      "supplemental_unit_count": 17,
+      "title": "右傳之十章"
+    }
+  ],
+  "core_text_note": "Core reading is the Da Xue classic extracted from the former bundled chapter-001. Zhu Xi's preface, the chapter-001 commentary block, and the ten 傳 commentary chapters are stored separately under commentary_chapters and should not be presented as the learner's main chapter menu.",
+  "provider": "ctext-html",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju?if=en",
+  "title": "四書章句集注 : 大學章句"
+}

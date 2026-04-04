@@ -1,0 +1,112 @@
+{
+  "chapter": {
+    "character_count": 422,
+    "id": "chapter-003",
+    "order": 3,
+    "reading_unit_count": 7,
+    "reading_units": [
+      {
+        "character_count": 64,
+        "id": "chapter-003-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "孫子 曰 ： 凡 用兵 之 法 ， 全國 為 上 ， 破 國 次之 ；全軍 為 上 ， 破 軍 次之 ； 全 旅 為 上 ， 破 旅 次之 ； 全 卒 為 上 ， 破 卒 次之 ； 全 伍 為 上 ， 破 伍 次之 。是故 百戰百勝 ， 非 善 之 善 者 也 ； 不 戰 而 屈 人 之 兵 ， 善 之 善 者 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sun Tzŭ said: In the practical art of war, the best thing of all is to take the enemy's country whole and intact; to shatter and destroy it is not so good. So, too, it is better to recapture an army entire than to destroy it, to capture a regiment, a detachment or a company entire than to destroy them. Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting."
+          }
+        }
+      },
+      {
+        "character_count": 71,
+        "id": "chapter-003-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "故 上 兵 伐謀 ， 其次 伐 交 ， 其次 伐 兵 ， 其 下 攻城 。攻城 之 法 ， 為 不得已 。修 櫓 轒 轀 ， 具 器械 ， 三月 而後 成 ；距闉 ， 又 三月 而後 已 。將 不勝 其 忿 ， 而 蟻 附 之 ，殺 士 三分之一 ， 而 城 不 拔 者 ， 此 攻 之 災 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thus the highest form of generalship is to baulk the enemy's plans; the next best is to prevent the junction of the enemy's forces; the next in order is to attack the enemy's army in the field; and the worst policy of all is to besiege walled cities. The rule is, not to besiege walled cities if it can possibly be avoided. The preparation of mantlets, movable shelters, and various implements of war, will take up three whole months; and the piling up of mounds over against the walls will take three months more. The general, unable to control his irritation, will launch his men to the assault like swarming ants, with the result that one-third of his men are slain, while the town still remains untaken. Such are the disastrous effects of a siege"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-003-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "故 善用 兵 者 ， 屈 人 之 兵 而 非 戰 也 ， 拔 人 之 城 而 非 攻 也 ， 毀 人 之 國 而 非 久 也 ，必 以 全 爭 於 天下 ， 故 兵 不 頓 而 利 可 全 ，此 謀攻 之 法 也 。故 用兵 之 法 ， 十 則 圍 之 ， 五 則 攻 之 ， 倍 則 分之 ，敵 則 能 戰 之 ， 少 則 能 守 之 ， 不若 則 能 避 之 。故 小 敵 之 堅 ， 大 敵 之 擒 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Therefore the skilful leader subdues the enemy's troops without any fighting; he captures their cities without laying siege to them; he overthrows their kingdom without lengthy operations in the field. With his forces intact he will dispute the mastery of the Empire, and thus, without losing a man, his triumph will be complete. This is the method of attacking by stratagem. It is the rule in war, if our forces are ten to the enemy's one, to surround him; if five to one, to attack him; if twice as numerous, to divide our army into two. If equally matched, we can offer battle; if slightly inferior in numbers, we can avoid the enemy; if quite unequal in every way, we can flee from him. Hence, though an obstinate fight may be made by a small force, in the end it must be captured by the larger force."
+          }
+        }
+      },
+      {
+        "character_count": 93,
+        "id": "chapter-003-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "夫 將 者 ， 國 之 輔 也 。輔 周 則 國 必 強 ，輔 隙 則 國 必 弱 。故 君 之所以 患 於 軍 者 三 ：不知 軍 之 不可以 進 ， 而 謂 之 進 ， 不知 軍 之 不可以 退 ， 而 謂 之 退 ， 是 為 縻 軍 ；不知 三軍 之 事 ， 而 同 三軍 之 政 ， 則 軍士 惑 矣 ；不知 三軍 之 權 ， 而 同 三軍 之 任 ， 則 軍士 疑 矣 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Now the general is the bulwark of the State; if the bulwark is complete at all points; the State will be strong; if the bulwark is defective, the State will be weak. There are three ways in which a ruler can bring misfortune upon his army: — By commanding the army to advance or to retreat, being ignorant of the fact that it cannot obey. This is called hobbling the army. By attempting to govern an army in the same way as he administers a kingdom, being ignorant of the conditions which obtain in an army. This causes restlessness in the soldier's minds. By employing the officers of his army without discrimination,"
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-003-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "三軍 既 惑 且 疑 ， 則 諸侯 之 難 至 矣 ， 是 謂 亂 軍 引 勝 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But when the army is restless and distrustful, trouble is sure to come from the other feudal princes. This is simply bringing anarchy into the army, and flinging victory away."
+          }
+        }
+      },
+      {
+        "character_count": 53,
+        "id": "chapter-003-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "故知 勝 有 五 ： 知 可以 戰 與 不可以 戰 者 勝 ， 識 衆寡 之 用 者 勝 ， 上下 同 欲 者 勝 ， 以 虞 待 不虞 者 勝 ， 將 能 而 君 不 御 者 勝 。 此 五者 ， 知 勝 之 道 也 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thus we may know that there are five essentials for victory: (1) He will win who knows when to fight and when not to fight. (2) He will win who knows how to handle both superior and inferior forces. (3) He will win whose army is animated by the same spirit throughout all its ranks. (4) He will win who, prepared himself, waits to take the enemy unprepared. (5) He will win who has military capacity and is not interfered with by the sovereign. Victory lies in the knowledge of these five points."
+          }
+        }
+      },
+      {
+        "character_count": 30,
+        "id": "chapter-003-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "故 曰 ： 知彼知己 ， 百戰不殆 ； 不知 彼 而 知己 ， 一 勝 一 負 ； 不知 彼 不知 己 ， 每 戰 必 殆 。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "孫子曰：凡用兵之法，全國為上，破國次之；全旅為上，破旅次之；全卒為上，破卒次之；全伍為上，破伍次之。是故百戰百勝，非善之善者也；不戰而屈人之兵，善之善者也。\n故上兵伐謀，其次伐交，其次伐兵，其下攻城。攻城之法，為不得已；修櫓轒轀，具器械，三月而後成；距闉，又三月而後已；將不勝其忿，而蟻附之，殺士卒三分之一，而城不拔者，此攻之災也。\n故善用兵者，屈人之兵，而非戰也；拔人之城，而非攻也；毀人之國，而非久也。必以全爭于天下，故兵不頓，利可全，此謀攻之法也。故用兵之法，十則圍之，五則攻之，倍則分之，敵則能戰之，少則能守之，不若則能避之。故小敵之堅，大敵之擒也。\n夫將者，國之輔也，輔周則國必強，輔隙則國必弱。故軍之所以患于君者三：不知三軍之不可以進，而謂之進；不知三軍之不可以退，而謂之退；是謂縻軍。不知三軍之事，而同三軍之政，則軍士惑矣。不知三軍之權，而同三軍之任，則軍士疑矣。三軍既惑且疑，則諸侯之難至矣，是謂亂軍引勝。\n故知勝者有五：知可以戰與不可以戰者勝，識眾寡之用者勝，上下同欲者勝，以虞待不虞者勝，將能而君不御者勝；此五者，知勝之道也。\n故曰：知彼知己，百戰不殆；不知彼而知己，一勝一負；不知彼，不知己，每戰必敗。",
+    "title": "謀攻"
+  },
+  "chapter_path": "books/sunzi-bingfa/chapters/chapter-003.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "The Art of War",
+  "source_url": "https://ctext.org/art-of-war?if=en"
+}

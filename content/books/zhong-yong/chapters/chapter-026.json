@@ -1,0 +1,164 @@
+{
+  "chapter": {
+    "character_count": 252,
+    "id": "chapter-026",
+    "order": 26,
+    "reading_unit_count": 11,
+    "reading_units": [
+      {
+        "character_count": 5,
+        "id": "chapter-026-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "故至誠無息。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The possessor of sincerity does not merely accomplish the self-completion of himself."
+          }
+        }
+      },
+      {
+        "character_count": 7,
+        "id": "chapter-026-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "不息則久，久則徵，",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "With this quality he completes other men and things also."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-026-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "徵則悠遠，悠遠則博厚，博厚則高明。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The completing himself shows his perfect virtue."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-026-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "博厚，所以載物也；高明，所以覆物也；悠久，所以成物也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The completing other men and things shows his knowledge."
+          }
+        }
+      },
+      {
+        "character_count": 12,
+        "id": "chapter-026-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "博厚配地，高明配天，悠久無疆。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But these are virtues belonging to the nature, and this is the way by which a union is effected of the external and internal."
+          }
+        }
+      },
+      {
+        "character_count": 15,
+        "id": "chapter-026-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "如此者，不見而章，不動而變，無為而成。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Therefore, whenever he-the entirely sincere man-employs them,-that is, these virtues, their action will be right. Hence to entire sincerity there belongs ceaselessness. Not ceasing, it continues long. Continuing long, it evidences itself. Evidencing itself, it reaches far. Reaching far, it becomes large and substantial. Large and substantial, it becomes high and brilliant. Large and substantial;-this is how it contains all things. High and brilliant;-this is how it overspreads all things. Reaching far and continuing long;-this is how it perfects all things. So large and substantial, the individual possessing it is the co-equal of Earth. So high and brilliant, it makes him the co-equal of Heaven. So far-reaching and long-continuing, it makes him infinite. Such being its nature, without any display, it becomes manifested; without any movement, it produces changes; and without any effort, it accomplishes its ends."
+          }
+        }
+      },
+      {
+        "character_count": 21,
+        "id": "chapter-026-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "天地之道，可一言而盡也：其為物不貳，則其生物不測。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The way of Heaven and Earth may be completely declared in one sentence."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-026-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "天地之道：博也，厚也，高也，明也，悠也，久也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "They are without any doubleness, and so they produce things in a manner that is unfathomable."
+          }
+        }
+      },
+      {
+        "character_count": 75,
+        "id": "chapter-026-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "今夫天，斯昭昭之多，及其無窮也，日月星辰繫焉，萬物覆焉。今夫地，一撮土之多，及其廣厚，載華嶽而不重，振河海而不洩，萬物載焉。今夫山，一卷石之多，及其廣大，草木生之，禽獸居之，寶藏興焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The way of Heaven and Earth is large and substantial, high and brilliant, far-reaching and long-enduring."
+          }
+        }
+      },
+      {
+        "character_count": 23,
+        "id": "chapter-026-line-010",
+        "order": 10,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "今夫水，一勺之多，及其不測，黿鼉、蛟龍、魚鱉生焉，貨財殖焉。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Heaven now before us is only this bright shining spot; but when viewed in its inexhaustible extent, the sun, moon, stars, and constellations of the zodiac, are suspended in it, and all things are overspread by it."
+          }
+        }
+      },
+      {
+        "character_count": 43,
+        "id": "chapter-026-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "詩云：「維天之命，於穆不已！」蓋曰天之所以為天也。「於乎不顯！文王之德之純！」蓋曰文王之所以為文也，純亦不已。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The earth before us is but a handful of soil; but when regarded in its breadth and thickness, it sustains mountains like the Hwa and the Yo, without feeling their weight, and contains the rivers and seas, without their leaking away. The mountain now before us appears only a stone; but when contemplated in all the vastness of its size, we see how the grass and trees are produced on it, and birds and beasts dwell on it, and precious things which men treasure up are found on it. The water now before us appears but a ladleful; yet extending our view to its unfathomable depths, the largest tortoises, iguanas, iguanodons, dragons, fishes, and turtles, are produced in it, articles of value and sources of wealth abound in it. It is said in the Book of Poetry, \"The ordinances of Heaven, how profound are they and unceasing!\" The meaning is, that it is thus that Heaven is Heaven. And again, \"How illustrious was it, the singleness of the virtue of King Wen!\" indicating that it was thus that King Wen was what he was. Singleness likewise is unceasing."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "故至誠無息。\n不息則久，久則徵，\n徵則悠遠，悠遠則博厚，博厚則高明。\n博厚，所以載物也；高明，所以覆物也；悠久，所以成物也。\n博厚配地，高明配天，悠久無疆。\n如此者，不見而章，不動而變，無為而成。\n天地之道，可一言而盡也：其為物不貳，則其生物不測。\n天地之道：博也，厚也，高也，明也，悠也，久也。\n今夫天，斯昭昭之多，及其無窮也，日月星辰繫焉，萬物覆焉。今夫地，一撮土之多，及其廣厚，載華嶽而不重，振河海而不洩，萬物載焉。今夫山，一卷石之多，及其廣大，草木生之，禽獸居之，寶藏興焉。\n今夫水，一勺之多，及其不測，黿鼉、蛟龍、魚鱉生焉，貨財殖焉。\n詩云：「維天之命，於穆不已！」蓋曰天之所以為天也。「於乎不顯！文王之德之純！」蓋曰文王之所以為文也，純亦不已。",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-026.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

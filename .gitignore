@@ -1,0 +1,13 @@
+.DS_Store
+.env
+**/.env
+**/.dart_tool/
+**/.idea/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/ios/Flutter/ephemeral/
+**/ios/Pods/
+services/api/bin/
+*.test

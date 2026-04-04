@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 39,
+    "id": "chapter-007",
+    "order": 7,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 39,
+        "id": "chapter-007-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「人皆曰『予知』，驅而納諸罟擭陷阱之中，而莫之知辟也。人皆曰『予知』，擇乎中庸，而不能期月守也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said \"Men all say, 'We are wise'; but being driven forward and taken in a net, a trap, or a pitfall, they know not how to escape. Men all say, 'We are wise'; but happening to choose the course of the Mean, they are not able to keep it for a round month.\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「人皆曰予知，驅而納諸罟擭陷阱之中，而莫之知辟也。人皆曰予知，擇乎中庸而不能期月守也。」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-007.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

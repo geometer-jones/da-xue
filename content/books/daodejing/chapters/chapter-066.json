@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 78,
+    "id": "chapter-066",
+    "order": 66,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 78,
+        "id": "chapter-066-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "江海所以能為百谷王者，以其善下之，故能為百谷王。是以聖人欲上民，必以言下之；欲先民，必以身後之。是以聖人處上而民不重，處前而民不害。是以天下樂推而不厭。以其不爭，故天下莫能與之爭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "That whereby the rivers and seas are able to receive the homage and tribute of all the valley streams, is their skill in being lower than they;--it is thus that they are the kings of them all. So it is that the sage (ruler), wishing to be above men, puts himself by his words below them, and, wishing to be before them, places his person behind them. In this way though he has his place above them, men do not feel his weight, nor though he has his place before them, do they feel it an injury to them. Therefore all in the world delight to exalt him and do not weary of him. Because he does not strive, no one finds it possible to strive with him."
+          }
+        }
+      }
+    ],
+    "summary": "江海所以能為百谷王者，以其善下之，故能為百谷王",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "江海所以能為百谷王者，以其善下之，故能為百谷王。是以聖人欲上民，必以言下之；欲先民，必以身後之。是以聖人處上而民不重，處前而民不害。是以天下樂推而不厭。以其不爭，故天下莫能與之爭。",
+    "title": "第66章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-066.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

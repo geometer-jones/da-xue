@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 40,
+    "id": "chapter-079",
+    "order": 79,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 40,
+        "id": "chapter-079-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "和大怨，必有餘怨；安可以為善？是以聖人執左契，而不責於人。有德司契，無德司徹。天道無親，常與善人。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When a reconciliation is effected (between two parties) after a great animosity, there is sure to be a grudge remaining (in the mind of the one who was wrong). And how can this be beneficial (to the other)? Therefore (to guard against this), the sage keeps the left-hand portion of the record of the engagement, and does not insist on the (speedy) fulfilment of it by the other party. (So), he who has the attributes (of the Tao) regards (only) the conditions of the engagement, while he who has not those attributes regards only the conditions favourable to himself. In the Way of Heaven, there is no partiality of love; it is always on the side of the good man."
+          }
+        }
+      }
+    ],
+    "summary": "和大怨，必有餘怨；安可以為善？是以聖人執左契，而不責於人",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "和大怨，必有餘怨；安可以為善？是以聖人執左契，而不責於人。有德司契，無德司徹。天道無親，常與善人。",
+    "title": "第79章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-079.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

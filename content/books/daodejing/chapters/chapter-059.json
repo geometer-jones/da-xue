@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 64,
+    "id": "chapter-059",
+    "order": 59,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 64,
+        "id": "chapter-059-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "治人事天莫若嗇。夫唯嗇，是謂早服；早服謂之重積德；重積德則無不克；無不克則莫知其極；莫知其極，可以有國；有國之母，可以長久；是謂深根固柢，長生久視之道。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "For regulating the human (in our constitution) and rendering the (proper) service to the heavenly, there is nothing like moderation. It is only by this moderation that there is effected an early return (to man's normal state). That early return is what I call the repeated accumulation of the attributes (of the Tao). With that repeated accumulation of those attributes, there comes the subjugation (of every obstacle to such return). Of this subjugation we know not what shall be the limit; and when one knows not what the limit shall be, he may be the ruler of a state. He who possesses the mother of the state may continue long. His case is like that (of the plant) of which we say that its roots are deep and its flower stalks firm:--this is the way to secure that its enduring life shall long be seen."
+          }
+        }
+      }
+    ],
+    "summary": "治人事天莫若嗇",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "治人事天莫若嗇。夫唯嗇，是謂早服；早服謂之重積德；重積德則無不克；無不克則莫知其極；莫知其極，可以有國；有國之母，可以長久；是謂深根固柢，長生久視之道。",
+    "title": "第59章"
+  },
+  "chapter_path": "books/daodejing/chapters/chapter-059.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "Dao De Jing",
+  "source_url": "https://ctext.org/dao-de-jing?if=en"
+}

@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-003",
+    "order": 3,
+    "summary": "随机应变",
+    "text": "随机应变\n因地制宜\n因势利导\n对症下药\n有的放矢\n居安思危\n防患未然\n量力而行\n量体裁衣\n当务之急\n轻重缓急\n兼容并包\n兼收并蓄\n运筹帷幄\n权宜之计\n深谋远略\n适可而止\n见仁见智\n洞若观火\n一叶知秋\n防微杜渐\n当仁不让\n有条不紊\n高屋建瓴\n统筹兼顾\n明察秋毫\n远见卓识\n见机而作\n先见之明\n因材施教",
+    "title": "61-90",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "随机应变",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to change according to the situation; pragmatic"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "因地制宜",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "in accordance with local customs use appropriate measures; use methods in line with local circumstances"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "因势利导",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to take advantage of the new situation; to make the best of new opportunities"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "对症下药",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to prescribe the right medicine for an illness; to study a problem to find the right way to solve it"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "有的放矢",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. to have a target in mind when shooting one's arrows (idiom)"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "居安思危",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "in times of peace, be vigilant"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "防患未然",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to prevent troubles before the event; to forestall; to nip in the bud"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "量力而行",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to assess one's capabilities and act accordingly; to act within one's competence"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "量体裁衣",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "measure the body then tailor the suit; to act according to actual circumstances"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "当务之急",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a top priority job; a matter of vital importance"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "轻重缓急",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "slight or important, urgent or non-urgent; to deal with important matters first; sense of priority"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "兼容并包",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to include and monopolize many things"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "兼收并蓄",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "incorporating diverse things; eclectic; all-embracing"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "运筹帷幄",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to devise battle plan in a tent; planning strategies"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "权宜之计",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "plan of convenience; stop-gap measure; makeshift stratagem; interim step"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "深谋远略",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a well-thought out long-term strategy"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "适可而止",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to stop before going too far; to stop while one can; don't overdo it; stop while you're ahead"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "见仁见智",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "opinions differ"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "洞若观火",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "clear as a flame; to see things absolutely clearly"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "一叶知秋",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the falling of one leaf heralds the coming of autumn; a small sign can indicate a great trend; a straw in the wind"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "防微杜渐",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to nip in the bud"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "当仁不让",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "unwilling to shirk on one's duty"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "有条不紊",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "regular and not disorderly"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "高屋建瓴",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "water pouring from a tall building can be collected in a bottle; a high position is strategically advantageous"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "统筹兼顾",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "an overall plan taking into account all factors"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "明察秋毫",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "seeing clearly the downy feather of autumn; sensitive to the finest detail; to distinguish right and wrong with acuity; omniscient"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "远见卓识",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "visionary and sagacious"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "见机而作",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to observe an opportunity and act on it; to adapt to changing circumstances"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "先见之明",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "foresight"
+          }
+        },
+        "category": "思考与判断"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-003-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "因材施教",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to teach in line with the student's ability"
+          }
+        },
+        "category": "思考与判断"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-003.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

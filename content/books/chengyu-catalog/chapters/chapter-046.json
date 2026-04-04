@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-046",
+    "order": 46,
+    "summary": "知地知天",
+    "text": "知地知天\n指名道姓\n三反四覆\n乃文乃武\n落地生根\n老成持重\n慎小事微\n死重泰山\n忘象得意\n正法直度\n秀出班行\n背前面后\n得意忘形\n生死未卜\n三怨成府\n腹中兵甲\n知名当世\n及第成名\n死里逃生\n三皇五帝\n舍死忘生\n口服心服\n身非木石\n急功好利\n既得利益\n想入非非\n山止川行\n深情厚意\n度德量力\n去暗投明",
+    "title": "1351-1380",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "知地知天",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ground, terrain, weather"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "指名道姓",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Clearly indicate first and last name"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "三反四覆",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "refers to capriciousness"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "乃文乃武",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Praise for humanity and martial arts"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "落地生根",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "air plant (Bryophyllum pinnatum)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "老成持重",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "old and wise"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "慎小事微",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Be cautious about small things"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "死重泰山",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A metaphor for dying gloriously"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "忘象得意",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Forget about objects and get the true meaning"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "正法直度",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "degree standard"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "秀出班行",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Show off, extend to outstanding ability, excellence"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "背前面后",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Point to face or behind"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "得意忘形",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "so pleased as to lose one's sense of measure"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "生死未卜",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The outcome of life or death is difficult to determine"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "三怨成府",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "If you have a grudge with three people, the hatred will gather together and you will inevitably get into trouble."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "腹中兵甲",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Bingjia is a soldier wearing armor."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "知名当世",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "well-known, famous"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "及第成名",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Successfully passed the imperial examination"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "死里逃生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "mortal danger, escape alive (idiom); a narrow escape"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "三皇五帝",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "three sovereigns 三皇[san1 huang2] and five emperors 五帝[wu3 di4] of myth and legend"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "舍死忘生",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "willing to die, willing to sacrifice"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "口服心服",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "convince"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "身非木石",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to oneself not being an emotionless person"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "急功好利",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Eager for success, coveting immediate results and benefits"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "既得利益",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "vested interest"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "想入非非",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to indulge in fantasy (idiom); to let one's imagination run wild"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "山止川行",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor of being indestructible and unstoppable"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "深情厚意",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "profound love, generous friendship (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "度德量力",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "measure"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-046-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "去暗投明",
+        "category": "较高难度 III",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Escape from the forces of darkness and move towards the path of light"
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-046.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

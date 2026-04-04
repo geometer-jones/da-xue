@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-080",
+    "order": 80,
+    "summary": "力所能及",
+    "text": "力所能及\n不甚了了\n厚貌深文\n情深潭水\n心力衰竭\n名实相副\n明心见性\n太平盛世\n心长力短\n登山涉水\n深思苦索\n音容宛在\n文武之道\n老羞成怒\n知过必改\n如切如磋\n如虎添翼\n浮生若梦\n文章星斗\n一如既往\n誓同生死\n披发入山\n牙白口清\n捷足先登\n相逢恨晚\n高唱入云\n昭然若揭\n落叶知秋\n承平盛世\n被发文身",
+    "title": "2371-2400",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "力所能及",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "as far as one's capabilities extend (idiom); to the best of one's ability"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "不甚了了",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Very"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "厚貌深文",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kind-hearted on the outside but unpredictable on the inside"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "情深潭水",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor of deep friendship"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "心力衰竭",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "heart failure"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "名实相副",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "reputation and reality"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "明心见性",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "①Buddhist language"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "太平盛世",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "peace and prosperity (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "心长力短",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "I really want to do it, but I don’t have the strength."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "登山涉水",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Climb mountains and cross rivers"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "深思苦索",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "rack your brains, think hard"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "音容宛在",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "sound"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "文武之道",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to the method used by King Wen and King Wu of Zhou to govern the country"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "老羞成怒",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 惱羞成怒|恼羞成怒[nao3 xiu1 cheng2 nu4]"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "知过必改",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When you realize you are wrong, you must change it"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "如切如磋",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A metaphor for discussing and strengthening each other"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "如虎添翼",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lit. like a tiger that has grown wings"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "浮生若梦",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "An empty and unreal life"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "文章星斗",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is the top of the articles, describing people's beautifully written articles and being outstanding."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "一如既往",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) just as in the past; as before; continuing as always"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "誓同生死",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Vow to live and die together"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "披发入山",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Refers to leaving the world and living in seclusion"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "牙白口清",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Metaphor speaks clearly"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "捷足先登",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the quick-footed climb up first (idiom)"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "相逢恨晚",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To describe being together as before, having very similar spirits"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "高唱入云",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "loud songs reaches the clouds (idiom); fig. to praise to the skies"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "昭然若揭",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "abundantly clear"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "落叶知秋",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "When you see the yellow leaves falling to the ground, you know autumn is coming."
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "承平盛世",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "peaceful peace"
+          }
+        }
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-080-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "被发文身",
+        "category": "较高难度 V",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Also used to refer to the customs of uncivilized areas."
+          }
+        }
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-080.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

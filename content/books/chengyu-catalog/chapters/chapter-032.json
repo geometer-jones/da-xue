@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-032",
+    "order": 32,
+    "summary": "果不其然",
+    "text": "果不其然\n不法常可\n目无王法\n说地谈天\n出入人罪\n出师不利\n非同小可\n见所未见\n无坚不陷\n堂而皇之\n不得其死\n礼顺人情\n天府之国\n一画开天\n人取我与\n同日而论\n目无余子\n好景不常\n一心一路\n说古道今\n青山一发\n天作之合\n身无长处\n大得人心\n心开目明\n流年不利\n非分之财\n身外之物\n人情世态\n虚有其表",
+    "title": "931-960",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "果不其然",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) just as expected"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "不法常可",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Lawlessness is common"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "目无王法",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to have no regard for the law or discipline; to flagrantly violate the law or rules"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "说地谈天",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "chatting"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "出入人罪",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Crime of coming and going"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "出师不利",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Bad start"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "非同小可",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "extremely important"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "见所未见",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to see something one has never seen before; rare; unprecedented"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "无坚不陷",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No matter how hard it is, it won’t sink."
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "堂而皇之",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "overt"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "不得其死",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to die suddenly for no reason at all"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "礼顺人情",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Courtesy and kindness"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "天府之国",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) land of plenty (usu. used in reference to Sichuan)"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "一画开天",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One painting opens the sky"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "人取我与",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "People take me and"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "同日而论",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On the same day"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "目无余子",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be arrogant; to be self-conceited"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "好景不常",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "good things do not last forever"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "一心一路",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "One heart all the way"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "说古道今",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to talk about everything under the sun"
+          }
+        },
+        "category": "较高难度 I"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "青山一发",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Qingshan Yifa"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "天作之合",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a match made in heaven"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "身无长处",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "No merit"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "大得人心",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Very popular"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "心开目明",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Heart is open and eyes are clear"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "流年不利",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the year's horoscope augurs ill; an unlucky year"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "非分之财",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "undivided wealth"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "身外之物",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "mere worldly possessions"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "人情世态",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Humanity and the world"
+          }
+        },
+        "category": "较高难度 II"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-032-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "虚有其表",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "impressive appearance but void of substance"
+          }
+        },
+        "category": "较高难度 II"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-032.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

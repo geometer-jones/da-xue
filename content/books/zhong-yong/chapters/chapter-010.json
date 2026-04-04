@@ -1,0 +1,86 @@
+{
+  "chapter": {
+    "character_count": 92,
+    "id": "chapter-010",
+    "order": 10,
+    "reading_unit_count": 5,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子路問強。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Zi-lu asked about energy."
+          }
+        }
+      },
+      {
+        "character_count": 16,
+        "id": "chapter-010-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "子曰：「南方之強與？北方之強與？抑而強與？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"Do you mean the energy of the South, the energy of the North, or the energy which you should cultivate yourself?"
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-010-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "寬柔以教，不報無道，南方之強也，君子居之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To show forbearance and gentleness in teaching others; and not to revenge unreasonable conduct - this is the energy of southern regions, and the good man makes it his study."
+          }
+        }
+      },
+      {
+        "character_count": 17,
+        "id": "chapter-010-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "衽金革，死而不厭，北方之強也，而強者居之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To lie under arms; and meet death without regret - this is the energy of northern regions, and the forceful make it their study."
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-010-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "故君子和而不流，強哉矯！中立而不倚，強哉矯！國有道，不變塞焉，強哉矯！國無道，至死不變，強哉矯！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Therefore, the superior man cultivates a friendly harmony, without being weak. How firm is he in his energy! He stands erect in the middle, without inclining to either side. How firm is he in his energy! When good principles prevail in the government of his country, he does not change from what he was in retirement. How firm is he in his energy! When bad principles prevail in the country, he maintains his course to death without changing. How firm is he in his energy!\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子路問強。\n子曰：「南方之強與？北方之強與？抑而強與？\n寬柔以教，不報無道，南方之強也，君子居之。\n衽金革，死而不厭，北方之強也，而強者居之。\n故君子和而不流，強哉矯！中立而不倚，強哉矯！國有道，不變塞焉，強哉矯！國無道，至死不變，強哉矯！」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-010.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

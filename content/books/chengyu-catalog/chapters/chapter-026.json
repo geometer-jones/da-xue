@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-026",
+    "order": 26,
+    "summary": "以文乱法",
+    "text": "以文乱法\n不自量力\n满不在乎\n百不一存\n比比皆然\n为所欲为\n以一持万\n清净无为\n不可开交\n天经地义\n无所不能\n才大难用\n人事代谢\n百折不回\n一相情愿\n用心用意\n极而言之\n指天为誓\n势不可当\n看人行事\n风云人物\n有心有意\n就事论事\n无所不容\n品而第之\n花花公子\n不疾不徐\n人云亦云\n不得要领\n出言成章",
+    "title": "751-780",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "以文乱法",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Confusing the law with words"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "不自量力",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "(idiom) to overestimate one's capabilities"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "满不在乎",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "not in the least concerned; reckless; couldn't give a damn about it; unperturbed; couldn't care less"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "百不一存",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "A hundred different things exist"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "比比皆然",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "found everywhere"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "为所欲为",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to do whatever one desires"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "以一持万",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Hold ten thousand with one"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "清净无为",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Pure and inaction"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "不可开交",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to be awfully (busy etc)"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "天经地义",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "right and proper; right and unalterable; a matter of course"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "无所不能",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "omnipotent"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "才大难用",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Very difficult to use"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "人事代谢",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "personnel metabolism"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "百折不回",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "see 百折不撓|百折不挠[bai3 zhe2 bu4 nao2]"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "一相情愿",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "one's own wishful thinking"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "用心用意",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Carefully"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "极而言之",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To the extreme"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "指天为誓",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to take a solemn oath; to swear by the heavens; to vow to"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "势不可当",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "impossible to resist; an irresistible force"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "看人行事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to treat people according to their rank and one's relationship with them"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "风云人物",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the man (or woman) of the moment; influential figure"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "有心有意",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Deliberately"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "就事论事",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to discuss sth on its own merits"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "无所不容",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Nothing is tolerated"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "品而第之",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Taste it first"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "花花公子",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "playboy"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "不疾不徐",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "neither too fast nor too slow"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "人云亦云",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to echo what others say"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "不得要领",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to fail to grasp the main points"
+          }
+        },
+        "category": "中高透明度 V"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-026-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "出言成章",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Be true to your word"
+          }
+        },
+        "category": "中高透明度 V"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-026.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

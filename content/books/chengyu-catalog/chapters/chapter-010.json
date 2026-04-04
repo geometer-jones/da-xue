@@ -1,0 +1,441 @@
+{
+  "chapter": {
+    "id": "chapter-010",
+    "order": 10,
+    "summary": "四面楚歌",
+    "text": "四面楚歌\n指鹿为马\n洛阳纸贵\n闻鸡起舞\n程门立雪\n卧薪尝胆\n凿壁偷光\n三顾茅庐\n东施效颦\n惊弓之鸟\n揠苗助长\n望梅止渴\n高山流水\n门庭若市\n望洋兴叹\n买椟还珠\n守口如瓶\n邯郸学步\n退避三舍\n唇亡齿寒\n朝三暮四\n盲人摸象\n螳臂当车\n伯乐相马\n车水马龙\n不耻下问\n草木皆兵\n老马识途\n讳疾忌医\n一鸣惊人",
+    "title": "271-300",
+    "character_count": 120,
+    "reading_unit_count": 30,
+    "reading_units": [
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "四面楚歌",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "surrounded by enemies; isolated and without help"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "指鹿为马",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "making a deer out to be a horse; deliberate misrepresentation"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "洛阳纸贵",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "paper has become expensive in Luoyang (because everyone is making a copy of a popular story)"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "闻鸡起舞",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to start practicing at the first crow of the cock; to be diligent in one's studies"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-005",
+        "order": 5,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "程门立雪",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "the snow piles up at Cheng Yi's door; deep reverence for one's master"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-006",
+        "order": 6,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "卧薪尝胆",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "lie on firewood and taste gall; to harden oneself for revenge"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "凿壁偷光",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to pierce the wall to steal a light; to study diligently in the face of hardship"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-008",
+        "order": 8,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "三顾茅庐",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "three visits to a thatched cottage"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-009",
+        "order": 9,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "东施效颦",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Dong Shi imitates Xi Shi's frown; to mimick somebody's idiosyncrasies but make a fool of oneself"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-010",
+        "order": 10,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "惊弓之鸟",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a bird frightened by a bow; one frightened by past experiences"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-011",
+        "order": 11,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "揠苗助长",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "pull up sprouts to help them grow; to spoil with excessive enthusiasm"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "望梅止渴",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to quench one's thirst by thinking of plums; to console oneself with illusions"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-013",
+        "order": 13,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "高山流水",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "sublime musical composition"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "门庭若市",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "front yard as busy as a marketplace; a place with many visitors"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-015",
+        "order": 15,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "望洋兴叹",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to gaze at the ocean and lament one's inadequacy"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "买椟还珠",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to buy a wooden box and return the pearls inside; to show poor judgment"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-017",
+        "order": 17,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "守口如瓶",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to shut one's mouth like a bottle; to keep silent"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-018",
+        "order": 18,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "邯郸学步",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to copy the way they walk in Handan; slavishly copying others, one risks becoming a caricature"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "退避三舍",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to retreat three day's march; to give way in the face of superior strength; a strategic withdrawal"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-020",
+        "order": 20,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "唇亡齿寒",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "without the lips, the teeth feel the cold; intimately interdependent"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-021",
+        "order": 21,
+        "source_block_chunk": 1,
+        "source_block_order": 21,
+        "text": "朝三暮四",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "three [chestnuts] in the morning and four in the evening"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 22,
+        "text": "盲人摸象",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "blind people touch an elephant; unable to see the big picture; to mistake the part for the whole; unable to see the wood for the trees"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-023",
+        "order": 23,
+        "source_block_chunk": 1,
+        "source_block_order": 23,
+        "text": "螳臂当车",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "a mantis trying to stop a chariot; to overrate oneself and attempt something impossible"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 24,
+        "text": "伯乐相马",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Praising those who are good at discovering talent"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-025",
+        "order": 25,
+        "source_block_chunk": 1,
+        "source_block_order": 25,
+        "text": "车水马龙",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "an endless stream of carriages and horses"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-026",
+        "order": 26,
+        "source_block_chunk": 1,
+        "source_block_order": 26,
+        "text": "不耻下问",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "not feel ashamed to ask and learn from one's subordinates"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 27,
+        "text": "草木皆兵",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "every tree or bush an enemy soldier; to treat everyone as an enemy"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-028",
+        "order": 28,
+        "source_block_chunk": 1,
+        "source_block_order": 28,
+        "text": "老马识途",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "an old horse knows the way (idiom); an experienced worker knows what to do"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-029",
+        "order": 29,
+        "source_block_chunk": 1,
+        "source_block_order": 29,
+        "text": "讳疾忌医",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "hiding a sickness for fear of treatment; concealing a fault to avoid criticism; to keep one's shortcomings secret"
+          }
+        },
+        "category": "高频故事成语"
+      },
+      {
+        "character_count": 4,
+        "id": "chapter-010-line-030",
+        "order": 30,
+        "source_block_chunk": 1,
+        "source_block_order": 30,
+        "text": "一鸣惊人",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "to amaze the world with a single brilliant feat; an overnight celebrity"
+          }
+        },
+        "category": "高频故事成语"
+      }
+    ],
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": []
+  },
+  "chapter_path": "books/chengyu-catalog/chapters/chapter-010.json",
+  "provider": "bundled-local",
+  "schema_version": 2,
+  "source_title": "成語目錄",
+  "source_url": "bundled://chengyu-catalog"
+}

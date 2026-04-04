@@ -1,0 +1,684 @@
+{
+  "chapter": {
+    "character_count": 3618,
+    "id": "chapter-074",
+    "order": 74,
+    "reading_unit_count": 51,
+    "reading_units": [
+      {
+        "character_count": 92,
+        "id": "chapter-074-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "卻說曹操欲使于禁赴樊城救援，問眾將誰敢作先鋒，一人應聲願往。操視之，乃龐德也。操大喜曰：「關某威震華夏，未逢對手；今遇令名，真勁敵也。」遂加于禁為征南將軍，加龐德為征西都先鋒，大起七軍，前往樊城。這七軍，皆北方強壯之士。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“That fellow Kuan has a great reputation, and in the whole country he has no rival. He has not met his match yet, but now you are going he will find all his work cut out.” So spake Ts‘ao Ts‘ao. He conferred on Yü Chin the title of “Corrector of the South” and on P‘ang Tê that of “Corrector of the West and Leader of the Van,” and they two marched out with their seven armies to Fanch'êng. These seven armies were composed of sturdy fellows from the north, led by two of their own chiefs named Tung Hêng and Tung Ch‘ao. Hearing who was to command them, these two, supported by their chiefs, went to see Yü Chin and represented that the leader of the van was unsuitable."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-074-line-002",
+        "order": 2,
+        "source_block_chunk": 2,
+        "source_block_order": 1,
+        "text": "兩員領軍將校：一名董衡，一名董超。當日引各頭目參拜于禁。董衡曰：「今將軍提七枝重兵，去解樊城之厄，期在必勝；乃用龐德為先鋒，豈不誤事。」禁驚問其故。衡曰：「龐德原係馬超手下副將，不得已而降魏；今其故主在蜀，職居『五虎上將』；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Tung Hêng spoke, and said, “Sir General, the expedition you lead is for the relief of Fanch'êng and it can confidently expect victory, but is it not unwise to place such as P‘ang Tê in command of the van?” “Why?” said Yü Chin, surprised. “Because he was once under the command of Ma Ch‘ao. He had no alternative but to surrender and fight for Wei. But his former chief is now in high honour in Shu, one of the Five Tiger Generals, and his own brother is there, too, as an officer. To send him as leader of the van just now seems like trying to extinguish a fire with oil. Would it not be well to inform the Prince of Wei and ask him to exchange this man for another?”"
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-074-line-003",
+        "order": 3,
+        "source_block_chunk": 3,
+        "source_block_order": 1,
+        "text": "況其親兄龐柔亦在西川為官；今使他為先鋒，是潑油救火也。將軍何不啟知魏王，別換一人去？」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Without further argument or delay Yü Chin went to see the prince and laid before him the objections to P‘ang’s appointment. As soon as Ts‘ao understood, he summoned P‘ang Tê to the steps and bade him yield his seal as “Leader of the Van.”"
+          }
+        }
+      },
+      {
+        "character_count": 82,
+        "id": "chapter-074-line-004",
+        "order": 4,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "禁聞此語，遂連夜入府啟知曹操。操省悟，即喚龐德至階下，令納下先鋒印。德大驚曰：「某正欲與大王出力，何故不肯見用？」操曰：「孤本無猜疑；但今馬超現在西川，汝兄龐柔亦在西川，俱佐劉備；孤縱不疑，奈眾口何？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“O Prince, why do you reject my services? I was just about to do my best for you.” “I do not doubt you, but Ma Ch‘ao is now in Hsich‘uan and your brother also, both in the service of Liu Pei. I myself have no doubts, but it is what all the crowd are saying. What can I do?\" ​ P‘ang Tê took off his head-dress and prostrated himself, bitter tears rolling down his cheeks."
+          }
+        }
+      },
+      {
+        "character_count": 76,
+        "id": "chapter-074-line-005",
+        "order": 5,
+        "source_block_chunk": 2,
+        "source_block_order": 2,
+        "text": "」龐德聞之，免冠頓首，流血滿面而告曰：「某自漢中投降大王，每感厚恩；雖肝腦塗地，不能補報。大王何疑於德也？德昔在故鄉時，與兄同居；嫂甚不賢，德乘醉殺之；兄恨德入骨髓，誓不相見，恩已斷矣。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Since I surrendered to you, O Prince, I have experienced much kindness, so that I would undergo any sufferings to show my gratitude. I hope you will trust me. When my brother and I were at home together his wife was a wicked woman and I slew her, pretending I was drunk. My brother has never forgiven me, but is permeated with hate for me. He swears never to see me again, and we are enemies. For my old master, Ma Ch‘ao, I have profound contempt. He is bold, but only that, and was in a pitiable and dejected state when he found his way to the west. Now, like me, he serves his own master, but our friendship is at an end. How could I think of another after your kindness to me?”"
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-074-line-006",
+        "order": 6,
+        "source_block_chunk": 3,
+        "source_block_order": 2,
+        "text": "故主馬超，有勇無謀，兵敗地亡，孤身入川，今與德各事其主，舊義已絕。德感大王恩遇，安敢萌異志？惟大王察之。」操乃扶起龐德，撫慰曰：「孤素知卿忠義，前言特以安眾人之心耳。卿可努力建功，卿不負孤，孤亦必不負卿也。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Ts‘ao Ts‘ao raised him from the ground and soothed him, saying, “I have always known what a noble man you are, and what I said just now was to satisfy the feelings of other people. Now you can strive to win fame, and if you do not turn your back on me I shall not on you.”"
+          }
+        }
+      },
+      {
+        "character_count": 80,
+        "id": "chapter-074-line-007",
+        "order": 7,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "德拜謝回家，令匠人造一木櫬。次日，請諸友赴席，列櫬於堂。眾親友見之皆驚，問曰：「將軍出師，何用此不祥之物？」德舉盃謂親友曰：「吾受魏王厚恩，誓以死報。今去樊城，與關某決戰，我若不能殺彼，必為彼所殺；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then P‘ang took his leave and returned to his house, where he ordered the artificers to make him a coffin. Next he invited all his friends to a banquet, and the coffin was set out in the reception room for all to see. And they asked one another what that inauspicious thing could mean put out on the eve of a campaign. By and by, drinking to them, P‘ang Tê said, “The Prince of Wei has been generous to me, and I am pledged to show my gratitude to the death. I am about to go out against this Kuan, and I have to kill him or he must kill me. If he does not kill me I must commit suicide, and so I have prepared what is necessary. I will not return leaving my task unachieved.”"
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-074-line-008",
+        "order": 8,
+        "source_block_chunk": 2,
+        "source_block_order": 3,
+        "text": "即不為彼所殺，我亦當自殺：故先備此櫬，以示無空回之理。」眾皆嗟歎。德喚其妻李氏與其子龐會出，謂其妻曰：「吾今為先鋒，義當效死疆場。我若死，汝好生看養吾兒。吾兒有異相，長大必當與吾報讎也。」妻子痛哭送別，德令扶櫬而行。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The terrible omen saddened the guests, and they fell to sighing. Then he called in his wife and bade her bring their son Hui, whom he commended to her care. “I have been appointed leader of the van of this new expedition against Kuan Yü, and my duty bids me seek death or glory on the battle-field. If I die, our son is in your special care. Alas, the child has been born ill-starred, and when he grows up he will have to avenge a father.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-074-line-009",
+        "order": 9,
+        "source_block_chunk": 3,
+        "source_block_order": 3,
+        "text": "臨行謂部將曰：「吾今去與關某死戰，我若被關某所殺，汝等急取吾屍置此櫬中；我若殺了關某，吾亦即取其首，置此櫬內，回獻魏王。」部將五百人皆曰：「將軍如此忠勇，某等敢不竭力相助？」於是引軍前進。有人將此言報知曹操。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Both mother and son wept as they bade him farewell. When the army marched, the coffin was carried in its train. He bade his officers place his body therein if he fell in combat with Kuan Yü. “And if I slay him, then will I bring his head in this coffin as an offering to our prince.” Then outspake a captain of five hundred men and said, “If you are like this, O General, then we also will follow you to the end.” The vanguard then marched away. A certain man told the story of these happenings to Ts‘ao Ts‘ao, who was very ​ pleased, saying he had no anxiety with such a captain to lead his men."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-074-line-010",
+        "order": 10,
+        "source_block_chunk": 4,
+        "source_block_order": 3,
+        "text": "操喜曰：「龐德忠勇如此，孤何憂焉！」賈詡曰：「龐德恃血氣之勇，欲與關某決死戰，臣竊慮之。」操然其言，急令人傳旨戒龐德曰：「關某智勇雙全，切不可輕敵。可取則取，不可取則宜謹守。」龐德聞命，謂眾將曰：「大王何重視關某也？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Chia Hsü said, “I am anxious for P‘ang Tê's safety. He is over-bold and imprudent to fight with Kuan Yü to the death.” Ts‘ao Ts‘ao thought such an act would be unwise, and he hastily sent a messenger with an edict warning P‘ang Tê against his antagonist. “This Kuan lacks neither cunning nor valour. You are to be most cautious in engaging him. If you can conquer, then conquer; but if there be any doubt remain on the defensive.”"
+          }
+        }
+      },
+      {
+        "character_count": 41,
+        "id": "chapter-074-line-011",
+        "order": 11,
+        "source_block_chunk": 5,
+        "source_block_order": 3,
+        "text": "吾料此去，當挫關某三十年之聲價。」禁曰：「魏王之言，不可不從。」德奮然趲軍前至樊城，耀武揚威，鳴鑼擊鼓。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“How highly does our prince regard this fellow Kuan!” said the captain to his officers when he heard this new command. “But I think I shall be able to take the keen edge off his thirtyyear reputation.” “The command of the prince is to be obeyed,” said Yü Chin."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-074-line-012",
+        "order": 12,
+        "source_block_chunk": 1,
+        "source_block_order": 4,
+        "text": "卻說關公正坐帳中，忽探馬飛報：「曹操差于禁為將，領七枝精壯兵到來。前部先鋒龐德，軍前抬一木櫬，口出不遜之言，誓欲與將軍決一死戰。兵離城止三十里矣。」關公聞言，勃然變色，美髯飄動，大怒曰：「天下英雄，聞吾之名，無不畏服；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "P‘ang Tê hastened to Fanch'êng in all the pomp and panoply of war, his gongs clanging, his drums rolling as he marched. Kuan Yü was sitting in his tent when his spies came to tell him of the approach of the men from the north, seven cohorts of them, all bold fighting men. And they were thirty li away. Rage took possession of him. His face changed colour, his beard shook and he roared out, “There is never a fighting man in all the world who has heard my name without trembling. Does this fellow dare disdain me?”"
+          }
+        }
+      },
+      {
+        "character_count": 69,
+        "id": "chapter-074-line-013",
+        "order": 13,
+        "source_block_chunk": 2,
+        "source_block_order": 4,
+        "text": "龐德豎子，何敢藐視吾耶！關平一面攻打樊城，吾自去斬此匹夫，以雪吾恨！」平曰：「父親不可以泰山之重，與頑石爭高下。辱子願代父去戰龐德。」關公曰：「汝試一往，吾隨後便來接應。」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then he ordered Kuan P‘ing to attack the city while he went out to stay the impudent boaster who dared him. “Father,” said Kuan P‘ing, “Mount T‘ai in its majesty does not quarrel with a pebble. Let me go and fight this P‘ang Tê.” “Well, my son, go and try; I will support you.”"
+          }
+        }
+      },
+      {
+        "character_count": 87,
+        "id": "chapter-074-line-014",
+        "order": 14,
+        "source_block_chunk": 1,
+        "source_block_order": 5,
+        "text": "關平出帳，提刀上馬，領兵來迎龐德。兩陣對圓，魏營一面皂旗上大書「南安龐德」四個白字。龐德青袍銀鎧，鋼刀白馬，立於陣前；背後五百軍兵緊隨，步卒數人肩抬木櫬而出。關平大罵龐德：「背主之賊！」龐德問部卒曰：「此何人也？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "So Kuan P‘ing took his sword, mounted his steed and went out with his men. Both sides being drawn up for battle. On the side of Wei there flew a single black flag on which was inscribed, “P‘ang Tê, 'Pacificator of the South,'” in white. The leader himself wore a blue robe with a silver helmet and rode a white charger. He stood out in front backed by his five hundred faithfuls, and a few foot soldiers were there too, bearing the gruesome coffin. Kuan P‘ing was startled at the crowd behind his opponent."
+          }
+        }
+      },
+      {
+        "character_count": 68,
+        "id": "chapter-074-line-015",
+        "order": 15,
+        "source_block_chunk": 2,
+        "source_block_order": 5,
+        "text": "」或答曰：「此關公義子關平也。」德叫曰：「吾奉魏王旨，來取汝父之首！汝乃疥癩小兒，吾不殺汝！快喚汝父來！」平大怒，縱馬舞刀，來取龐德。德橫刀來迎。戰三十合，不分勝負，兩家各歇。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Who is that?” asked P‘ang Tê of his followers. Acertain one replied, “That is Kuan’s adopted son, Kuan P‘ing.” P‘ang cried, “I have an edict from the Prince of Wei to take your father’s head. You are but a weakling and I will spare you. But call your father.” Kuan P‘ing dashed forward flourishing his sword. P‘ang Tê went to meet him, and there followed thirty odd bouts with no advantage to either."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-074-line-016",
+        "order": 16,
+        "source_block_chunk": 1,
+        "source_block_order": 6,
+        "text": "早有人報知關公。公大怒，令廖化去攻樊城，自己親來迎敵龐德。關平接著，言與龐德交戰，不分勝負。關公隨即橫刀出馬，大叫曰：「關雲長在此，龐德何不早來受死！」鼓聲響處，龐德出馬曰：「吾奉魏王旨，特來取汝首！恐汝不信，備櫬在此。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Both sides then drew off to rest. Soon the news of this combat reached Kuan Yü, and he was not pleased. He sent Liao Hua to assault the city while he went to do battle with P‘ang Tê. Kuan P‘ing met his father and related the story of the indecisive fight. So Kuan Yü rode out with his great sword ready, and he shouted to P‘ang Tê, “Come quickly and be slain.” The drums re-echoed as P‘ang Tê rode out and replied, “The edict from the Prince of Wei tells me to take your head. In case you disbelieve it, here is the coffin ready to receive it. If you fear death, down from your horse and surrender.”"
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-074-line-017",
+        "order": 17,
+        "source_block_chunk": 2,
+        "source_block_order": 6,
+        "text": "汝若怕死，早下馬受降！」關公大罵曰：「量汝一匹夫，又何能為！可惜我青龍刀斬汝鼠賊！」縱馬舞刀，來取龐德。德輪刀來迎。二將戰有百餘合，精神倍長。兩軍各看得癡呆了。魏軍恐龐德有失，急令鳴金收軍，關平恐父年老，亦急鳴金。二將各退。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I hold you for a simple fool” cried Kuan Yü. “What can you do? It is a pity to stain my Black Dragon sword with the blood of such a rat.” Then he galloped out toward P‘ang Tê, flourishing the sword. P‘ang Tê whirled his blade and came to meet him, and they two fought a hundred bouts. And as they fought the lust of battle seemed to grow and both armies were lost in amazement. But the army of Wei began to fear for their champion, and the gongs sounded the retirement. At the same time Kuan P‘ing began to think of his father’s fatigue, and his gongs clanged too. So that both armies drew off at the same time."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-074-line-018",
+        "order": 18,
+        "source_block_chunk": 3,
+        "source_block_order": 6,
+        "text": "龐德歸寨，對眾曰：「人言關公英雄，今日方信也。」正言間，于禁至。相見畢，禁曰：「聞將軍戰關公，百合之上，未得便宜，何不且退軍避之？」德奮然曰：「魏王命將軍為大將，何太弱也？吾來日與關某共決一死，誓不退避！」禁不敢阻而回。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Kuan Yü is really a mighty man of war,” said P‘ang Tê, when he had got back among his own men. Then his chief, Yü Chin, came to see him and spoke of the great combat of a hundred bouts which had ended indecisively. “I think it would be prudent to retire out of his way,” said Yü Chin at the close. But P‘ang Tê replied haughtily, “What makes you so soft? Yet the prince gave you the command! But to-morrow I will fight again and that to the death. I swear I will never give way.”"
+          }
+        }
+      },
+      {
+        "character_count": 88,
+        "id": "chapter-074-line-019",
+        "order": 19,
+        "source_block_chunk": 1,
+        "source_block_order": 7,
+        "text": "卻說關公回寨，謂關平曰：「龐德刀法慣熟，真吾敵手。」平曰：「俗云：『初生之犢不懼虎。』父親縱然斬了此人，只是西羌一小卒耳；倘有疏虞，非所以重伯父之託也。」關公曰：「吾不殺此人，何以雪恨？吾意已決，再勿多言！」次日，上馬引兵前進。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yü Chin could not overcome his decision, so he went back to his own camp. When Kuan Yü had got back to his camp he extolled the swordsmanship of his opponent and acknowledged him a worthy enemy. “The new-born calf fears not the tiger,” said Kuan P‘ing, “But if you slay this fellow, my father, you have only killed a barbarian of the tribes beyond the frontier. If any accident occur, then you will have the reproach of not having considered your brother’s charge.”"
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-074-line-020",
+        "order": 20,
+        "source_block_chunk": 2,
+        "source_block_order": 7,
+        "text": "龐德亦引兵來迎，兩陣對圓，二將齊出，更不打話，出馬交鋒。鬥至五十餘合，龐德撥回馬拖刀而走。關公從後追趕。關平恐有疏失，亦隨後趕去。關公口中大罵：「龐賊欲使拖刀計，吾豈懼汝？」原來龐德虛作拖刀勢，卻把刀就鞍鞽挂住，偷拽雕弓，搭上箭，射將來。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“How can my resentment be assuaged save by the death of this man?” returned Kuan. “I have decided to fight, so say no more.” Next day Kuan took the field first, but P‘ang quickly came out. Both arrayed their men and then went to the front at the same moment. This time neither spoke, but the combat ​ began forthwith. It went on for fifty bouts and then P‘ang pulled his horse, sheathed his sword and fled. Kuan went in pursuit, and Kuan P‘ing followed lest there should be need of him. Kuan Yü roared out revilings to his flying foe and that he wanted to get the chance for an unfair blow. But he was not afraid."
+          }
+        }
+      },
+      {
+        "character_count": 48,
+        "id": "chapter-074-line-021",
+        "order": 21,
+        "source_block_chunk": 3,
+        "source_block_order": 7,
+        "text": "關平眼快，見龐德拽弓，大叫：「賊將休放冷箭！」關公急睜眼看時，弓弦響處，箭早到來；躲閃不及，正中左臂。關平馬到，救父回營。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But the fact was that P‘ang Tê had only pretended to try for a foul stroke in order to cover a resort to his bow. He pulled in his horse, fitted an arrow to the string and was just on the point of shooting when Kuan P‘ing, who was sharpeyed, shouted out a warning. “The bandit is going to shoot!”"
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-074-line-022",
+        "order": 22,
+        "source_block_chunk": 1,
+        "source_block_order": 8,
+        "text": "龐德勒回馬輪刀趕來，忽聽得本營鑼聲大震。德恐後軍有失，急勒馬回。原來于禁見龐德射中關公，恐他成了大功，滅禁威風，故鳴金收軍。龐德回馬，問何故鳴金。于禁曰：「魏王有戒：關公智勇雙全。他雖中箭，只恐有詐，故鳴金收軍。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Kuan Yü saw it, but the bowstring sang and the arrow came flying. He was not nimble enough to avoid it and it wounded his left arm. Kuan P‘ing at once went to his father’s assistance and led him away to the camp. P‘ang wished to follow up this advantage and came back whirling his sword, but, ere he could strike, the gongs of his own side rang out. He thought there was something amiss in the rear and stopped. The signal for retreat had been sounded by Yü Chin out of jealousy, for he had seen that Kuan Yü had been wounded and he grudged his colleague the glory which would eclipse his own. P‘ang obeyed, but when he got back he wanted to know why retreat had been sounded on the very verge of a great success."
+          }
+        }
+      },
+      {
+        "character_count": 37,
+        "id": "chapter-074-line-023",
+        "order": 23,
+        "source_block_chunk": 2,
+        "source_block_order": 8,
+        "text": "」德曰：「若不收軍，吾已斬了此人也。」禁曰：「緊行無好步，當緩圖之。」龐德不知于禁之意，只懊悔不已。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Why did the gongs clang?” asked he. “Because of our prince’s warning. Though he was wounded I feared some trick on his part. He is very cunning.” “I should have killed him if you had not done that,” said P‘ang."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-074-line-024",
+        "order": 24,
+        "source_block_chunk": 1,
+        "source_block_order": 9,
+        "text": "卻說關公回營，拔了箭頭。幸得箭射不深，用金瘡藥敷之。關公痛恨龐德，謂眾將曰：「吾誓報此一箭之讎！」眾將對曰：「將軍且待安息幾日，然後與戰未遲。」次日，人報龐德引兵搦戰。關公就要出戰。眾將勸住。龐德令小軍毀罵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Haste makes slow going; you can postpone your fight with him,” said Yü Chin. P‘ang Tê, though ignorant of the real reason why he was made to miss success at the critical moment, was still very vexed. Kuan Yü went back to camp, and the arrow-head was puled out of the wound. Happily it had not penetrated very deeply, and the usual remedies against injuries by metal were applied. Kuan Yü was very bitter against his enemy and declared that he would have his revenge for his wound. “Never mind anything but recovering now,” said his officers. “Rest and get well; then you may fight again.”"
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-074-line-025",
+        "order": 25,
+        "source_block_chunk": 2,
+        "source_block_order": 9,
+        "text": "關平把住隘口，分付眾將休報知關公。龐德搦戰十餘日，無人出迎，乃與于禁商議曰：「眼見關公箭瘡舉發，不能動作；不若乘此機會，統七軍一擁殺入寨中，可救樊城之圍。」于禁恐龐德成功，只把魏王戒旨相推，不肯動兵。龐德累欲動兵，于禁只是不允；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Before long, P‘ang Tê renewed his challenge, and Kuan Yü was for going out to fight; however, he yielded to the entreaties of his officers. And when P‘ang set his men to reviling the hero, Kuan P‘ing saw to it that his father never heard it. After ten days of challenges hurled uselessly at an army that ignored them, P‘ang took council with Yü Chin. Evidently Kuan Yü is helpless from the effects of that arrow-wound. We ought to advance all our seven armies ​ against him while he is ill and destroy his camp. Thereby we shall relieve Fanch'êng.”"
+          }
+        }
+      },
+      {
+        "character_count": 42,
+        "id": "chapter-074-line-026",
+        "order": 26,
+        "source_block_chunk": 3,
+        "source_block_order": 9,
+        "text": "乃移七軍轉過山口，離樊城北十里，依山下寨。禁自領兵截斷大路，令龐德屯兵於谷後，使德不能進兵成功。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Thus spake P‘ang, but jealousy of the glory that might accrue to his next in command again made Yü Chin urge caution and obedience to the command of the prince. He refused to move his men in spite of P‘ang’s repeated persuasion; still more, he led the army to a new camping ground behind the hills some distance north of Fanch'êng. There his own army stopped communication by the main road, while he sent P‘ang into a valley in the rear so that he could do nothing."
+          }
+        }
+      },
+      {
+        "character_count": 85,
+        "id": "chapter-074-line-027",
+        "order": 27,
+        "source_block_chunk": 1,
+        "source_block_order": 10,
+        "text": "卻說關平見關公箭瘡已合，甚是喜悅。忽聽得于禁移七軍於樊城之北下寨，未知其謀，即報知關公。公遂上馬，引數騎上高阜處望之，見樊城城上旗號不整，軍士慌亂；城北十里山谷之內，屯著軍馬；又見襄江水勢甚急。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "To the son’s great joy Kuan Yü's wound soon healed. Soon after they heard of Yü Chin’s new camp, and as Kuan P‘ing could assign no reason for the change, and suspected some ruse, he told his father, who went up to a high place to reconnoitre. Looking round, he noted that there seemed much slackness about everything in Fanch'êng, that horse and foot were camped in a valley to the north and that the Hsiang River seemed to run very swiftly. After impressing the topography on his mind he called the guides and asked the name of the gully about ten li north of the city."
+          }
+        }
+      },
+      {
+        "character_count": 79,
+        "id": "chapter-074-line-028",
+        "order": 28,
+        "source_block_chunk": 2,
+        "source_block_order": 10,
+        "text": "看了半晌，喚鄉導官問曰：「樊城北十里山谷，是何地名？」對曰：「罾口川也。」關公大喜曰：「于禁必為我擒矣。」眾軍士問曰：「將軍何以知之？」關公曰：「『魚』入『罾口』，豈能久乎？」諸將未信。公回本寨。時值八月秋天，驟雨數日。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Tsêngk‘ouch'üan,” was the reply. He chuckled. “I shall capture Yü Chin,” said he. Those with him asked how he knew that. He replied, “Why, how can anyone last long in such a place?” Those in his train gave but little weight to what he said, and presently he went back to his own tent. It was just then the time for the autumn rains, and a heavy downpour came on, lasting several days. Orders were given to get ready boats and rafts and such things. Kuan P‘ing could not think what such preparations meant in a dry land campaign. So he asked his father."
+          }
+        }
+      },
+      {
+        "character_count": 65,
+        "id": "chapter-074-line-029",
+        "order": 29,
+        "source_block_chunk": 3,
+        "source_block_order": 10,
+        "text": "公令人預備船筏，收拾水具。關平問曰：「陸地相持，何用水具？」公曰：「非汝所知也。于禁七軍不屯於廣易之地，而聚於罾口川險隘之處；方今秋雨連綿，襄江之水，必然泛漲；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Do you not know even?” replied his father. “Our enemies have camped in difficult ground instead of the open country and are crowded in the dangerous valley there. After some days of this rain the Hsiang River will swell, and I shall send men to dam up all the outlets and so let the water rise very high. When at its highest I shall open the dams and let the water out over Fanch'êng. That valley will be flooded too, and all the soldiers will become aquatic animals.”"
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-074-line-030",
+        "order": 30,
+        "source_block_chunk": 4,
+        "source_block_order": 10,
+        "text": "吾已差人堰住各處水口，待水發時，乘高就船，放水一渰，樊城、罾口川之兵，皆為魚鱉矣。」關平拜服。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "It is time to return to the Wei armies. They had camped in the gully, and after several days of heavy rain the captain Ch'êng Ho ventured to speak to his general."
+          }
+        }
+      },
+      {
+        "character_count": 97,
+        "id": "chapter-074-line-031",
+        "order": 31,
+        "source_block_chunk": 1,
+        "source_block_order": 11,
+        "text": "卻說魏軍屯於罾口川，連日大雨不止。督將成何來見于禁曰：「大軍屯於川口，地勢甚低；雖有土山，離營稍遠，今秋雨連綿，軍士艱辛。近有人報說荊州兵移於高阜處，又於漢水口預備戰筏；倘江水泛漲，我軍危矣。宜早為計。」于禁叱曰：「匹夫惑吾軍心耶！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "He said, “The army is camped near the mouth of a stream in a depression. There are hills around us, but they are too far off to keep the water away. Our men are already suffering from these heavy rains, and, moreover, they say the Chingchou men have moved to higher ground. More than that, at Hanshuik‘ow they are preparing boats and rafts so that they ​ can take advantage of the floods if there are any. Our men will be in great danger, and something should be done.” But the general scoffed at his words, called him a fool and blamed him for injuring the spirit of his men. So Chiêng Ho went away greatly ashamed."
+          }
+        }
+      },
+      {
+        "character_count": 90,
+        "id": "chapter-074-line-032",
+        "order": 32,
+        "source_block_chunk": 2,
+        "source_block_order": 11,
+        "text": "再有多言者斬之！」成何羞慚而退，卻來見龐德，說此事。德曰：「汝所見甚當。于將軍不肯移兵，吾明日自移軍屯於他處。」計議方定，是夜風雨大作。龐德坐在帳中，只聽得萬馬爭奔，征鼙震地。德大驚，急出帳上馬看時，四面八方，大水驟至；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then he went to P‘ang Tê, who saw the force of his words and promised that if Yü Chin would not move camp the next day he himself would do so. So Ch'êng Ho left it at that. That night there came a great storm. As P‘ang Tê sat in his tent he heard the sound as of ten thousand horses in stampede and a roar as of the drums of war seeming to shake the earth. He was alarmed, left his tent and mounted his charger to go and see what it meant. Then he saw the rolling waters coming in from every side and the seven armies flying from the flood, which speedily rose to the height of ten feet. Yü Chin and P‘ang Tê, with many other officers, sought safety by rushing up the hills."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-074-line-033",
+        "order": 33,
+        "source_block_chunk": 3,
+        "source_block_order": 11,
+        "text": "七軍亂竄，隨波逐浪者，不計其數；平地水深丈餘。于禁、龐德與諸將各登小山避水。比及平明，關公及眾將皆搖旗鼓譟，乘大船而來。于禁見四下無路，左右止有五六十人，料不能逃，口稱願降。關公令盡去衣甲，拘收入船，然後來擒龐德。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "As day dawned, Kuan Yü and his men came along in large boats with flags flying and drums beating. Yü Chin saw no way of escape, and his following was reduced to about three score. They all said they must surrender. Kuan Yü made them strip and then took them on board. After that he went to capture P‘ang Tê, who was standing on a hillock with the two Tungs, Ch'êng Ho and the faithful five hundred, all unarmed. P'êng Tê saw his arch enemy approach without a sign of fear, and even went boldly to meet him. Kuan Yü surrounded the party with his boats, and the archers began to shoot. When more than half the men had been struck down, the survivors became desperate. The two Tungs pressed their chief to give in. But P‘ang Tê only raged."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-074-line-034",
+        "order": 34,
+        "source_block_chunk": 1,
+        "source_block_order": 12,
+        "text": "時龐德並二董及成何，與步卒五百人，皆無衣甲，立在堤上。見關公來，龐德全無懼怯，奮然前來接戰。關公將船四面圍定，軍士一齊放箭，射死魏兵大半。董衡、董超見勢已危，乃告龐德曰：「軍士折傷大半，四下無路，不如投降。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“I have received great kindness from the prince; think you that I will bow the head to any other?” He cut down the two Tungs and then shouted, “Anyone who says surrender shall be as these two.” So the survivors made a desperate effort to beat off their enemies, and they held their own up to mid-day. Then Kuan Yü's men redoubled their efforts, and the arrows and stones rained down upon the defenders, who fought desperately hand to hand with their assailants."
+          }
+        }
+      },
+      {
+        "character_count": 78,
+        "id": "chapter-074-line-035",
+        "order": 35,
+        "source_block_chunk": 2,
+        "source_block_order": 12,
+        "text": "」龐德大怒曰：「吾受魏王厚恩，豈肯屈節於人！」遂親斬董衡、董超於前，厲聲曰：「再說降者，以此二人為例！」於是眾皆奮力禦敵。自平明戰至日中，勇力倍增。關公催四面急攻，矢石如雨。德令軍士用短兵接戰。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“The valorous leader fears death less than desertion; the brave warrior does not break faith to save his life,” cried P‘ang Tê. “This is the day of my death, but I will fight on to the last.” So Ch'êng Ho pressed on till he fell into the water wounded, and then the soldiers yielded."
+          }
+        }
+      },
+      {
+        "character_count": 101,
+        "id": "chapter-074-line-036",
+        "order": 36,
+        "source_block_chunk": 3,
+        "source_block_order": 12,
+        "text": "德回顧成何曰：「吾聞『勇將不怯死以苟免，壯士不毀節以求生。』今日乃我死日也。汝可努力死戰。」成何依令向前，被關公一箭射落水中。眾軍皆降，止有龐德一人力戰。正遇荊州數十人，駕小船近堤來，德提刀飛身一躍，早上小船，立殺十餘人，餘皆棄船赴水逃命。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "P‘ang Tê fought on. Then one of the boats happened to close in to the bank. With a tremendous leap P‘ang Tê lighted on it and slashed at the occupants, killing several. The others ​ jumped overboard and swam away. Then P‘ang Tê, one hand still holding his sword, tried to manoeuver the boat across the river to the city. Then there came drifting down a raft, which collided with and upset his boat so that he was struggling in the water. But a captain on the raft jumped into the water, gripped him and put him on the boat again. The captor was Chou Ts‘ang, a skilful waterman who, having lived in Chingchou for many years, was thoroughly expert in boat navigation. Beside, he was very powerful and so was able to make P‘ang Tê a prisoner."
+          }
+        }
+      },
+      {
+        "character_count": 92,
+        "id": "chapter-074-line-037",
+        "order": 37,
+        "source_block_chunk": 4,
+        "source_block_order": 12,
+        "text": "龐德一手提刀，一手使短棹，欲向樊城而走。只見上流頭，一將撐大筏而至，將小船撞翻，龐德落於水中。船上那將跳下水去，生擒龐德上船。眾視之，擒龐德者，乃周倉也。倉素知水性，又在荊州住了數年，愈加慣熟；更兼力大，因此擒了龐德。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "In this flood perished the whole of the seven armies, except the few that saved themselves by swimming; these latter, having no way of escape, surrendered to the victors. In the depth of night rolled the war drums, Summonding the warriors as to battle; But the enemy was no man, For the waters had risen and the flood came. This was the plan of Kuan Yü, the crafty, To drown his enemies. More than human was he in cunning. The ages hand on his fame As his glory was told in his own day. Kuan Yü then returned to the higher ground, where his tent was pitched and therein took his seat to receive his prisoners. The lictors brought up Yü Chin, who prostrated himself humbly and begged his life."
+          }
+        }
+      },
+      {
+        "character_count": 28,
+        "id": "chapter-074-line-038",
+        "order": 38,
+        "source_block_chunk": 5,
+        "source_block_order": 12,
+        "text": "于禁所領七軍，皆死於水中。其會水者料無去路，亦俱投降。後人有詩曰：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“How dared you think to oppose me?” “I was sent; I came not of my own will. I crave my lord’s pity, and one day I will requite.”"
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-074-line-039",
+        "order": 39,
+        "source_block_chunk": 1,
+        "source_block_order": 13,
+        "text": "夜半征鼙響震天，襄樊平地作深淵。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“To execute you would be like killing a dog or a hog. It would be soiling weapons for nothing,” said Kuan Yü, stroking his beard."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-074-line-040",
+        "order": 40,
+        "source_block_chunk": 1,
+        "source_block_order": 14,
+        "text": "關公神算誰能及？華夏威名萬古傳！",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Yü Chin was bound and sent to the great prison in Chingchou. “I will decide your fate when I return,” said Kuan Yü."
+          }
+        }
+      },
+      {
+        "character_count": 91,
+        "id": "chapter-074-line-041",
+        "order": 41,
+        "source_block_chunk": 1,
+        "source_block_order": 15,
+        "text": "關公回到高阜去處，升帳而坐。群刀手押過于禁來。禁拜伏於地，乞哀請命。關公曰：「汝怎敢抗吾？」禁曰：「上命差遣，身不由己。望君侯憐憫，誓以死報。」公綽髯笑曰：「吾殺汝，猶殺狗彘耳，空污刀斧！」令人縛送荊州大牢內監候，「待吾回，別作區處。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The general having thus dealt with his chief, P‘ang Tê was sent for. He came, pride and anger flashing from his eyes; he did not kneel but stood boldly erect. “You have a brother in Hanchung and your old chief was Ma Ch‘ao, also in high honour in Shu. Had you not better join them?” “Rather than surrender to you I would perish beneath the sword,” cried P‘ang. He reviled his captors without ceasing till, losing patience at last, Kuan Yü sent him to his death. He was beheaded. He stretched out his neck for the headsman’s sword. Out of pity he was honourably buried."
+          }
+        }
+      },
+      {
+        "character_count": 89,
+        "id": "chapter-074-line-042",
+        "order": 42,
+        "source_block_chunk": 2,
+        "source_block_order": 15,
+        "text": "」發落去訖，關公又令押過龐德。德睜眉怒目，立而不跪，關公曰：「汝兄現在漢中；汝故主馬超，亦在蜀中為大將；汝如何不早降？」德大怒曰：「吾寧死於刀下，豈降汝耶！」罵不絕口。公大怒，喝令刀斧手推出斬之。德引頸受刑。關公憐而葬之。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The floods were still out, and taking advantage of them they boarded the boats to move toward Fanch'êng, which now ​ stood out as a mere island with waves breaking against the walls. The force of the waters being great, the city wall was beginning to give way, and the whole population, male and female, were carrying mud and bricks to strengthen it. Their efforts seemed vain, and the leaders of Ts‘ao Ts‘ao’s army were very desperate. Some of the captains went to see Ts‘ao Jên, who said, “No ordinary man’s strength can fend off to-day’s danger. If we can hold out till nightfall we may escape by boat. We shall lose the city, but we shall save our skins.”"
+          }
+        }
+      },
+      {
+        "character_count": 20,
+        "id": "chapter-074-line-043",
+        "order": 43,
+        "source_block_chunk": 3,
+        "source_block_order": 15,
+        "text": "於是乘水勢未退，復上戰船，引大小將校來攻樊城。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "But Man Ch‘ung interposed before the boats could be got ready. He pointed out that the force of the waters was too great for any boats to live, while they only had to wait ten days or so and the flood would have passed."
+          }
+        }
+      },
+      {
+        "character_count": 95,
+        "id": "chapter-074-line-044",
+        "order": 44,
+        "source_block_chunk": 1,
+        "source_block_order": 16,
+        "text": "卻說樊城周圍，白浪滔天，水勢益甚；城垣漸漸浸塌，男女擔土搬磚，填塞不住。曹軍眾將，無不喪膽，慌忙來告曹仁。仁曰：「今日之危，非力可救；可趁敵軍未至，乘舟夜走；雖然失城，尚可全身。」正商議。方欲備船出走，滿寵諫曰：「不可。山水驟至，豈能長存？",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "“Though Kuan Yü has not assaulted the city, yet he has sent another army to Chiahsia, and he dares not abvance lest we should fall upon his rear. Remember, too, that to retire from this city means the abandonment of everything south of the Yellow River. Therefore I decide that you defend this place, which is strong.” Ts‘ao Jên saluted Man Ch‘ung as he concluded his harangue, saying, “What a tremendous error I should have committed had it not been for you, Sir!”"
+          }
+        }
+      },
+      {
+        "character_count": 99,
+        "id": "chapter-074-line-045",
+        "order": 45,
+        "source_block_chunk": 2,
+        "source_block_order": 16,
+        "text": "不旬日即當自退。關公雖未攻城，已遣別將在郟下。其所以不敢輕進者，慮吾軍襲其後也。今若棄城而去，黃河以南，非國家所有矣。願將軍固守此城，以為保障。」仁拱手稱謝曰：「非伯寧之教，幾誤大事。」乃自騎白馬上城，聚眾將發誓曰：「吾受魏王命，保守此城；",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then riding his white charger he went up on the city walls, gathered his officers around him and pledged himself not to surrender. “The prince’s command being to defend this city, I shall defend it to the last. And I shall put to death anyone who even mentions abandonment.” said he. “And we desire to defend it to out last gasp,” chimed in his officers."
+          }
+        }
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-074-line-046",
+        "order": 46,
+        "source_block_chunk": 3,
+        "source_block_order": 16,
+        "text": "但有言棄城而去者斬！」諸將皆曰：「某等願以死據守！」仁大喜，就城上設弓弩數百。軍士晝夜防護，不敢懈怠。老幼居民，擔土石填塞城垣。旬日之內，水勢漸退。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Then they saw to it that the means of offence were good. Many hundreds of archers and crossbowmen were stationed on the wall and kept watch night and day. The old and the young of ordinary people were made to carry earth and stones to strengthen the wall."
+          }
+        }
+      },
+      {
+        "character_count": 60,
+        "id": "chapter-074-line-047",
+        "order": 47,
+        "source_block_chunk": 1,
+        "source_block_order": 17,
+        "text": "關公自擒魏將于禁等，威震天下，無不驚駭。忽次子關興來寨內省親。公就令興齎諸官立功文書去成都見漢中王，各求陞遷。興拜辭父親，逕投成都去訖。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After some ten days the flood was at an end. Then the news of Kuan Yü's success got abroad, and the terror of his name spread wider and wider. About the same time, too, his second son, Hsing, came to visit his father in camp. Kuan Yü thought this a good opportunity to send his report of success to Ch'êngtu and entrusted to Hsing a despatch mentioning each officer’s services and requesting promotion for them. Kuan Hsing accordingly took leave of his father and left."
+          }
+        }
+      },
+      {
+        "character_count": 86,
+        "id": "chapter-074-line-048",
+        "order": 48,
+        "source_block_chunk": 1,
+        "source_block_order": 18,
+        "text": "卻說關公分兵一半，直抵郟下。公自領兵四面攻打樊城。當日關公自到北門，立馬揚鞭，指而問曰：「汝等鼠輩，不早來降，更待何時？」正言間，曹仁在敵樓上，見關公身上止披掩心甲，斜袒著綠袍，乃急招五百弓弩手，一齊放箭。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "After his departure the army was divided into two halves, one under Kuan Yü to attack the city and the other to go to Chiahsia. One day Kuan Yü rode over to the north gate. Halting his steed, he pointed with his whip toward the defenders on the wall, and called out, “You lot of rats will not give in then! What are you waiting for?”"
+          }
+        }
+      },
+      {
+        "character_count": 19,
+        "id": "chapter-074-line-049",
+        "order": 49,
+        "source_block_chunk": 2,
+        "source_block_order": 18,
+        "text": "公急勒馬回時，右臂上中一弩箭，翻身落馬。正是：",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "​ Ts‘ao Jên, who was among his men on the wall, saw that Kuan Yü had no armour on, so he ordered his men to shoot. The archers and bowmen at once sent a great flight of arrows and bolts that way. Kuan Yü hastily pulled the reins to retire, but an arrow struck him in the arm. The shock of the blow made him turn in the saddle and he fell from his horse."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-074-line-050",
+        "order": 50,
+        "source_block_chunk": 1,
+        "source_block_order": 19,
+        "text": "水裡七軍方喪膽，城中一箭忽傷身。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Just now a mighty army perished By the river’s overflow; A crossbow bolt from the city wall Lays a valiant warrior low."
+          }
+        }
+      },
+      {
+        "character_count": 14,
+        "id": "chapter-074-line-051",
+        "order": 51,
+        "source_block_chunk": 1,
+        "source_block_order": 20,
+        "text": "未知關公性命如何，且看下文分解。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "What further befell Kuan Yü will be told in the next chapter."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "卻說曹操欲使于禁赴樊城救援，問眾將誰敢作先鋒，一人應聲願往。操視之，乃龐德也。操大喜曰：「關某威震華夏，未逢對手；今遇令名，真勁敵也。」遂加于禁為征南將軍，加龐德為征西都先鋒，大起七軍，前往樊城。這七軍，皆北方強壯之士。兩員領軍將校：一名董衡，一名董超。當日引各頭目參拜于禁。董衡曰：「今將軍提七枝重兵，去解樊城之厄，期在必勝；乃用龐德為先鋒，豈不誤事。」禁驚問其故。衡曰：「龐德原係馬超手下副將，不得已而降魏；今其故主在蜀，職居『五虎上將』；況其親兄龐柔亦在西川為官；今使他為先鋒，是潑油救火也。將軍何不啟知魏王，別換一人去？」\n禁聞此語，遂連夜入府啟知曹操。操省悟，即喚龐德至階下，令納下先鋒印。德大驚曰：「某正欲與大王出力，何故不肯見用？」操曰：「孤本無猜疑；但今馬超現在西川，汝兄龐柔亦在西川，俱佐劉備；孤縱不疑，奈眾口何？」龐德聞之，免冠頓首，流血滿面而告曰：「某自漢中投降大王，每感厚恩；雖肝腦塗地，不能補報。大王何疑於德也？德昔在故鄉時，與兄同居；嫂甚不賢，德乘醉殺之；兄恨德入骨髓，誓不相見，恩已斷矣。故主馬超，有勇無謀，兵敗地亡，孤身入川，今與德各事其主，舊義已絕。德感大王恩遇，安敢萌異志？惟大王察之。」操乃扶起龐德，撫慰曰：「孤素知卿忠義，前言特以安眾人之心耳。卿可努力建功，卿不負孤，孤亦必不負卿也。」\n德拜謝回家，令匠人造一木櫬。次日，請諸友赴席，列櫬於堂。眾親友見之皆驚，問曰：「將軍出師，何用此不祥之物？」德舉盃謂親友曰：「吾受魏王厚恩，誓以死報。今去樊城，與關某決戰，我若不能殺彼，必為彼所殺；即不為彼所殺，我亦當自殺：故先備此櫬，以示無空回之理。」眾皆嗟歎。德喚其妻李氏與其子龐會出，謂其妻曰：「吾今為先鋒，義當效死疆場。我若死，汝好生看養吾兒。吾兒有異相，長大必當與吾報讎也。」妻子痛哭送別，德令扶櫬而行。臨行謂部將曰：「吾今去與關某死戰，我若被關某所殺，汝等急取吾屍置此櫬中；我若殺了關某，吾亦即取其首，置此櫬內，回獻魏王。」部將五百人皆曰：「將軍如此忠勇，某等敢不竭力相助？」於是引軍前進。有人將此言報知曹操。操喜曰：「龐德忠勇如此，孤何憂焉！」賈詡曰：「龐德恃血氣之勇，欲與關某決死戰，臣竊慮之。」操然其言，急令人傳旨戒龐德曰：「關某智勇雙全，切不可輕敵。可取則取，不可取則宜謹守。」龐德聞命，謂眾將曰：「大王何重視關某也？吾料此去，當挫關某三十年之聲價。」禁曰：「魏王之言，不可不從。」德奮然趲軍前至樊城，耀武揚威，鳴鑼擊鼓。\n卻說關公正坐帳中，忽探馬飛報：「曹操差于禁為將，領七枝精壯兵到來。前部先鋒龐德，軍前抬一木櫬，口出不遜之言，誓欲與將軍決一死戰。兵離城止三十里矣。」關公聞言，勃然變色，美髯飄動，大怒曰：「天下英雄，聞吾之名，無不畏服；龐德豎子，何敢藐視吾耶！關平一面攻打樊城，吾自去斬此匹夫，以雪吾恨！」平曰：「父親不可以泰山之重，與頑石爭高下。辱子願代父去戰龐德。」關公曰：「汝試一往，吾隨後便來接應。」\n關平出帳，提刀上馬，領兵來迎龐德。兩陣對圓，魏營一面皂旗上大書「南安龐德」四個白字。龐德青袍銀鎧，鋼刀白馬，立於陣前；背後五百軍兵緊隨，步卒數人肩抬木櫬而出。關平大罵龐德：「背主之賊！」龐德問部卒曰：「此何人也？」或答曰：「此關公義子關平也。」德叫曰：「吾奉魏王旨，來取汝父之首！汝乃疥癩小兒，吾不殺汝！快喚汝父來！」平大怒，縱馬舞刀，來取龐德。德橫刀來迎。戰三十合，不分勝負，兩家各歇。\n早有人報知關公。公大怒，令廖化去攻樊城，自己親來迎敵龐德。關平接著，言與龐德交戰，不分勝負。關公隨即橫刀出馬，大叫曰：「關雲長在此，龐德何不早來受死！」鼓聲響處，龐德出馬曰：「吾奉魏王旨，特來取汝首！恐汝不信，備櫬在此。汝若怕死，早下馬受降！」關公大罵曰：「量汝一匹夫，又何能為！可惜我青龍刀斬汝鼠賊！」縱馬舞刀，來取龐德。德輪刀來迎。二將戰有百餘合，精神倍長。兩軍各看得癡呆了。魏軍恐龐德有失，急令鳴金收軍，關平恐父年老，亦急鳴金。二將各退。龐德歸寨，對眾曰：「人言關公英雄，今日方信也。」正言間，于禁至。相見畢，禁曰：「聞將軍戰關公，百合之上，未得便宜，何不且退軍避之？」德奮然曰：「魏王命將軍為大將，何太弱也？吾來日與關某共決一死，誓不退避！」禁不敢阻而回。\n卻說關公回寨，謂關平曰：「龐德刀法慣熟，真吾敵手。」平曰：「俗云：『初生之犢不懼虎。』父親縱然斬了此人，只是西羌一小卒耳；倘有疏虞，非所以重伯父之託也。」關公曰：「吾不殺此人，何以雪恨？吾意已決，再勿多言！」次日，上馬引兵前進。龐德亦引兵來迎，兩陣對圓，二將齊出，更不打話，出馬交鋒。鬥至五十餘合，龐德撥回馬拖刀而走。關公從後追趕。關平恐有疏失，亦隨後趕去。關公口中大罵：「龐賊欲使拖刀計，吾豈懼汝？」原來龐德虛作拖刀勢，卻把刀就鞍鞽挂住，偷拽雕弓，搭上箭，射將來。關平眼快，見龐德拽弓，大叫：「賊將休放冷箭！」關公急睜眼看時，弓弦響處，箭早到來；躲閃不及，正中左臂。關平馬到，救父回營。\n龐德勒回馬輪刀趕來，忽聽得本營鑼聲大震。德恐後軍有失，急勒馬回。原來于禁見龐德射中關公，恐他成了大功，滅禁威風，故鳴金收軍。龐德回馬，問何故鳴金。于禁曰：「魏王有戒：關公智勇雙全。他雖中箭，只恐有詐，故鳴金收軍。」德曰：「若不收軍，吾已斬了此人也。」禁曰：「緊行無好步，當緩圖之。」龐德不知于禁之意，只懊悔不已。\n卻說關公回營，拔了箭頭。幸得箭射不深，用金瘡藥敷之。關公痛恨龐德，謂眾將曰：「吾誓報此一箭之讎！」眾將對曰：「將軍且待安息幾日，然後與戰未遲。」次日，人報龐德引兵搦戰。關公就要出戰。眾將勸住。龐德令小軍毀罵。關平把住隘口，分付眾將休報知關公。龐德搦戰十餘日，無人出迎，乃與于禁商議曰：「眼見關公箭瘡舉發，不能動作；不若乘此機會，統七軍一擁殺入寨中，可救樊城之圍。」于禁恐龐德成功，只把魏王戒旨相推，不肯動兵。龐德累欲動兵，于禁只是不允；乃移七軍轉過山口，離樊城北十里，依山下寨。禁自領兵截斷大路，令龐德屯兵於谷後，使德不能進兵成功。\n卻說關平見關公箭瘡已合，甚是喜悅。忽聽得于禁移七軍於樊城之北下寨，未知其謀，即報知關公。公遂上馬，引數騎上高阜處望之，見樊城城上旗號不整，軍士慌亂；城北十里山谷之內，屯著軍馬；又見襄江水勢甚急。看了半晌，喚鄉導官問曰：「樊城北十里山谷，是何地名？」對曰：「罾口川也。」關公大喜曰：「于禁必為我擒矣。」眾軍士問曰：「將軍何以知之？」關公曰：「『魚』入『罾口』，豈能久乎？」諸將未信。公回本寨。時值八月秋天，驟雨數日。公令人預備船筏，收拾水具。關平問曰：「陸地相持，何用水具？」公曰：「非汝所知也。于禁七軍不屯於廣易之地，而聚於罾口川險隘之處；方今秋雨連綿，襄江之水，必然泛漲；吾已差人堰住各處水口，待水發時，乘高就船，放水一渰，樊城、罾口川之兵，皆為魚鱉矣。」關平拜服。\n卻說魏軍屯於罾口川，連日大雨不止。督將成何來見于禁曰：「大軍屯於川口，地勢甚低；雖有土山，離營稍遠，今秋雨連綿，軍士艱辛。近有人報說荊州兵移於高阜處，又於漢水口預備戰筏；倘江水泛漲，我軍危矣。宜早為計。」于禁叱曰：「匹夫惑吾軍心耶！再有多言者斬之！」成何羞慚而退，卻來見龐德，說此事。德曰：「汝所見甚當。于將軍不肯移兵，吾明日自移軍屯於他處。」計議方定，是夜風雨大作。龐德坐在帳中，只聽得萬馬爭奔，征鼙震地。德大驚，急出帳上馬看時，四面八方，大水驟至；七軍亂竄，隨波逐浪者，不計其數；平地水深丈餘。于禁、龐德與諸將各登小山避水。比及平明，關公及眾將皆搖旗鼓譟，乘大船而來。于禁見四下無路，左右止有五六十人，料不能逃，口稱願降。關公令盡去衣甲，拘收入船，然後來擒龐德。\n時龐德並二董及成何，與步卒五百人，皆無衣甲，立在堤上。見關公來，龐德全無懼怯，奮然前來接戰。關公將船四面圍定，軍士一齊放箭，射死魏兵大半。董衡、董超見勢已危，乃告龐德曰：「軍士折傷大半，四下無路，不如投降。」龐德大怒曰：「吾受魏王厚恩，豈肯屈節於人！」遂親斬董衡、董超於前，厲聲曰：「再說降者，以此二人為例！」於是眾皆奮力禦敵。自平明戰至日中，勇力倍增。關公催四面急攻，矢石如雨。德令軍士用短兵接戰。德回顧成何曰：「吾聞『勇將不怯死以苟免，壯士不毀節以求生。』今日乃我死日也。汝可努力死戰。」成何依令向前，被關公一箭射落水中。眾軍皆降，止有龐德一人力戰。正遇荊州數十人，駕小船近堤來，德提刀飛身一躍，早上小船，立殺十餘人，餘皆棄船赴水逃命。龐德一手提刀，一手使短棹，欲向樊城而走。只見上流頭，一將撐大筏而至，將小船撞翻，龐德落於水中。船上那將跳下水去，生擒龐德上船。眾視之，擒龐德者，乃周倉也。倉素知水性，又在荊州住了數年，愈加慣熟；更兼力大，因此擒了龐德。于禁所領七軍，皆死於水中。其會水者料無去路，亦俱投降。後人有詩曰：\n夜半征鼙響震天，襄樊平地作深淵。\n關公神算誰能及？華夏威名萬古傳！\n關公回到高阜去處，升帳而坐。群刀手押過于禁來。禁拜伏於地，乞哀請命。關公曰：「汝怎敢抗吾？」禁曰：「上命差遣，身不由己。望君侯憐憫，誓以死報。」公綽髯笑曰：「吾殺汝，猶殺狗彘耳，空污刀斧！」令人縛送荊州大牢內監候，「待吾回，別作區處。」發落去訖，關公又令押過龐德。德睜眉怒目，立而不跪，關公曰：「汝兄現在漢中；汝故主馬超，亦在蜀中為大將；汝如何不早降？」德大怒曰：「吾寧死於刀下，豈降汝耶！」罵不絕口。公大怒，喝令刀斧手推出斬之。德引頸受刑。關公憐而葬之。於是乘水勢未退，復上戰船，引大小將校來攻樊城。\n卻說樊城周圍，白浪滔天，水勢益甚；城垣漸漸浸塌，男女擔土搬磚，填塞不住。曹軍眾將，無不喪膽，慌忙來告曹仁。仁曰：「今日之危，非力可救；可趁敵軍未至，乘舟夜走；雖然失城，尚可全身。」正商議。方欲備船出走，滿寵諫曰：「不可。山水驟至，豈能長存？不旬日即當自退。關公雖未攻城，已遣別將在郟下。其所以不敢輕進者，慮吾軍襲其後也。今若棄城而去，黃河以南，非國家所有矣。願將軍固守此城，以為保障。」仁拱手稱謝曰：「非伯寧之教，幾誤大事。」乃自騎白馬上城，聚眾將發誓曰：「吾受魏王命，保守此城；但有言棄城而去者斬！」諸將皆曰：「某等願以死據守！」仁大喜，就城上設弓弩數百。軍士晝夜防護，不敢懈怠。老幼居民，擔土石填塞城垣。旬日之內，水勢漸退。\n關公自擒魏將于禁等，威震天下，無不驚駭。忽次子關興來寨內省親。公就令興齎諸官立功文書去成都見漢中王，各求陞遷。興拜辭父親，逕投成都去訖。\n卻說關公分兵一半，直抵郟下。公自領兵四面攻打樊城。當日關公自到北門，立馬揚鞭，指而問曰：「汝等鼠輩，不早來降，更待何時？」正言間，曹仁在敵樓上，見關公身上止披掩心甲，斜袒著綠袍，乃急招五百弓弩手，一齊放箭。公急勒馬回時，右臂上中一弩箭，翻身落馬。正是：\n水裡七軍方喪膽，城中一箭忽傷身。\n未知關公性命如何，且看下文分解。",
+    "title": "第七十四回 龐令明擡櫬決死戰　　關雲長放水渰七軍"
+  },
+  "chapter_path": "books/sanguo-yanyi/chapters/chapter-074.json",
+  "provider": "wikisource-html",
+  "schema_version": 2,
+  "source_title": "三國演義 - 维基文库，自由的图书馆",
+  "source_url": "https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9"
+}

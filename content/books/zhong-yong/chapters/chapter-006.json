@@ -1,0 +1,34 @@
+{
+  "chapter": {
+    "character_count": 36,
+    "id": "chapter-006",
+    "order": 6,
+    "reading_unit_count": 1,
+    "reading_units": [
+      {
+        "character_count": 36,
+        "id": "chapter-006-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "子曰：「舜其大知也與！舜好問而好察邇言，隱惡而揚善，執其兩端，用其中於民，其斯以為舜乎！」",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "The Master said, \"There was Shun: He indeed was greatly wise! Shun loved to question others, and to study their words, though they might be shallow. He concealed what was bad in them and displayed what was good. He took hold of their two extremes, determined the Mean, and employed it in his government of the people. It was by this that he was Shun!\""
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "子曰：「舜其大知也與！舜好問而好察邇言，隱惡而揚善，執其兩端，用其中於民，其斯以為舜乎！」",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-006.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}

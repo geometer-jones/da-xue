@@ -1,0 +1,60 @@
+{
+  "chapter": {
+    "character_count": 66,
+    "id": "chapter-025",
+    "order": 25,
+    "reading_unit_count": 3,
+    "reading_units": [
+      {
+        "character_count": 10,
+        "id": "chapter-025-line-001",
+        "order": 1,
+        "source_block_chunk": 1,
+        "source_block_order": 1,
+        "text": "誠者自成也，而道自道也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sincerity is that whereby self-completion is effected, and its way is that by which man must direct himself."
+          }
+        }
+      },
+      {
+        "character_count": 18,
+        "id": "chapter-025-line-002",
+        "order": 2,
+        "source_block_chunk": 1,
+        "source_block_order": 2,
+        "text": "誠者物之終始，不誠無物。是故君子誠之為貴。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "Sincerity is the end and beginning of things; without sincerity there would be nothing."
+          }
+        }
+      },
+      {
+        "character_count": 38,
+        "id": "chapter-025-line-003",
+        "order": 3,
+        "source_block_chunk": 1,
+        "source_block_order": 3,
+        "text": "誠者非自成己而已也，所以成物也。成己，仁也；成物，知也。性之德也，合外內之道也，故時措之宜也。",
+        "generated_annotation": {
+          "layers": {
+            "translation_en": "On this account, the superior man regards the attainment of sincerity as the most excellent thing."
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "supplemental_text": "",
+    "supplemental_unit_count": 0,
+    "supplemental_units": [],
+    "text": "誠者自成也，而道自道也。\n誠者物之終始，不誠無物。是故君子誠之為貴。\n誠者非自成己而已也，所以成物也。成己，仁也；成物，知也。性之德也，合外內之道也，故時措之宜也。",
+    "title": ""
+  },
+  "chapter_path": "books/zhong-yong/chapters/chapter-025.json",
+  "provider": "ctext-html",
+  "schema_version": 2,
+  "source_title": "四書章句集注 : 中庸章句",
+  "source_url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/zhong-yong-zhang-ju?if=en"
+}
