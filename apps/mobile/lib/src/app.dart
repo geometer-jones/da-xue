@@ -865,12 +865,6 @@ Iterable<String> _visibleCharacters(String text) sync* {
 
 enum ChineseFontOption { systemSans, pingFang, heiTi, songTi, fangSong, kaiTi }
 
-const String _bundledPingFangFamily = 'DaxuePingFangSC';
-const String _bundledHeiTiFamily = 'DaxueHeiTiSC';
-const String _bundledSongTiFamily = 'DaxueSongTiSC';
-const String _bundledFangSongFamily = 'DaxueFangSongSC';
-const String _bundledKaiTiFamily = 'DaxueKaiTiSC';
-
 extension ChineseFontOptionPresentation on ChineseFontOption {
   String get label => switch (this) {
     ChineseFontOption.systemSans => 'System Sans',
@@ -907,46 +901,43 @@ extension ChineseFontOptionPresentation on ChineseFontOption {
 
   List<String> get fallbackFamilies => switch (this) {
     ChineseFontOption.systemSans => const <String>[
-      _bundledPingFangFamily,
-      _bundledHeiTiFamily,
       'PingFang SC',
       'Hiragino Sans GB',
       'Heiti SC',
       'Microsoft YaHei',
+      'Noto Sans CJK SC',
+      'Source Han Sans SC',
     ],
     ChineseFontOption.pingFang => const <String>[
       'Hiragino Sans GB',
       'Heiti SC',
       'Microsoft YaHei',
-      _bundledPingFangFamily,
-      _bundledHeiTiFamily,
+      'Noto Sans CJK SC',
+      'Source Han Sans SC',
     ],
     ChineseFontOption.heiTi => const <String>[
-      _bundledHeiTiFamily,
       'Heiti SC',
       'SimHei',
       'Microsoft YaHei',
+      'Noto Sans CJK SC',
     ],
     ChineseFontOption.songTi => const <String>[
       'STSong',
       'SimSun',
       'Source Han Serif SC',
-      _bundledSongTiFamily,
-      _bundledFangSongFamily,
+      'Noto Serif CJK SC',
     ],
     ChineseFontOption.fangSong => const <String>[
       'FangSong',
       'FangSong_GB2312',
       'STSong',
-      _bundledFangSongFamily,
-      _bundledSongTiFamily,
+      'Noto Serif CJK SC',
     ],
     ChineseFontOption.kaiTi => const <String>[
       'STKaiti',
       'KaiTi',
       'BiauKai',
-      _bundledKaiTiFamily,
-      _bundledSongTiFamily,
+      'Kaiti SC',
     ],
   };
 
@@ -1340,6 +1331,7 @@ class _HomeShellPageState extends State<HomeShellPage> {
   static const int _tabCount = 4;
 
   int _selectedTabIndex = 0;
+  final Set<int> _loadedTabIndexes = <int>{0};
   final GlobalKey<_FlashcardsPageState> _flashcardsPageKey =
       GlobalKey<_FlashcardsPageState>();
   final List<GlobalKey<NavigatorState>> _tabNavigatorKeys = List.generate(
@@ -1350,8 +1342,9 @@ class _HomeShellPageState extends State<HomeShellPage> {
   void _selectTab(int index) {
     final isReadingTab = index == 1;
     final isFlashcardsTab = index == 2;
+    final didLoadTab = _loadedTabIndexes.add(index);
 
-    if (_selectedTabIndex != index) {
+    if (_selectedTabIndex != index || didLoadTab) {
       setState(() {
         _selectedTabIndex = index;
       });
@@ -1372,6 +1365,7 @@ class _HomeShellPageState extends State<HomeShellPage> {
   }
 
   Widget _buildTabRoot(int index) {
+    final isActive = _selectedTabIndex == index;
     switch (index) {
       case 0:
         return IntroPage(onOpenReadings: () => _selectTab(1));
@@ -1381,7 +1375,7 @@ class _HomeShellPageState extends State<HomeShellPage> {
         return FlashcardsPage(
           key: _flashcardsPageKey,
           client: widget.client,
-          isActive: true,
+          isActive: isActive,
         );
       case 3:
         return SettingsPage(
@@ -1397,6 +1391,10 @@ class _HomeShellPageState extends State<HomeShellPage> {
   }
 
   Widget _buildTabNavigator(int index) {
+    if (!_loadedTabIndexes.contains(index)) {
+      return const SizedBox.shrink();
+    }
+
     return Offstage(
       offstage: _selectedTabIndex != index,
       child: Navigator(

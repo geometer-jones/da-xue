@@ -14,7 +14,7 @@
         "text": "卻說曹操興師西征分兵三隊，前部先鋒夏侯淵、張郃；操自領諸將居中；後部曹仁、夏侯惇，押運糧草。早有細作報入漢中來。張魯與弟張衛，商議退敵之策。衛曰：「漢中最險，無如陽平關。可於關之左右，依山傍林，下十餘個寨柵，迎敵曹兵。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Said Wei, “The strategical point to hold is Yangp‘ing Pass, and there should be half a score of stockades there with the forest to support them. You, my brother, should make your dépôt of supplies at Hanning.” Thereupon two captains, Yang Ang and Yang Jên, were sent with Chang Wei to the Pass, and they built the stockades. Soon the vanguard of the enemy arrived and camped at a point fifteen li away. The soldiers were fatigued after the long march, and all lay down to rest without placing proper guards. Suddenly the camp was attacked in the rear by the two Yangs from different points. Hsiahou Yüan and Chang Ho mounted quickly and tried to beat off the attackers, but the enemy poured in all round, and Ts‘ao’s men suffered great loss. They returned to the main body to tell of their defeat, and their chief abused them for their want of care."
+            "translation_en": "Said Wei, “The strategical point to hold is Yangp‘ing Pass, and there should be half a score of stockades there with the forest to support them. You, my brother, should make your dépôt of supplies at Hanning.”"
           }
         }
       },
@@ -27,7 +27,7 @@
         "text": "兄在漢寧，多撥糧草應付。」",
         "generated_annotation": {
           "layers": {
-            "translation_en": "“Old soldiers like you should have known better and taken precautions against a raid of the camp when the enemy knew your men were exhausted by a long march.”"
+            "translation_en": "Thereupon two captains, Yang Ang and Yang Jên, were sent with Chang Wei to the Pass, and they built the stockades."
           }
         }
       },
@@ -40,7 +40,7 @@
         "text": "張魯依言，遣大將楊昂、楊任，與其弟即日起程。軍馬到陽平關，下寨已定。夏侯淵、張郃前軍隨到；聞陽平關已有準備，離關一十五里下寨。是夜軍士疲困，各自歇息。忽寨後一把火起，楊昂、楊任兩路兵殺來劫寨。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "He even desired to put them to death as a warning, but their fellow-officers interceded and he spared them. Soon Ts‘ao himself marched in the van. Then he saw the dangerous and evil nature of the place, with its thick growth of trees, and as he knew nothing of the roads and was fearful of an ambush he returned to his camp. Calling up his two henchmen, Hsü Ch‘u and Hsü Huang, he said, “Had I known the dangerous nature of the place I would never have come.”"
+            "translation_en": "Soon the vanguard of the enemy arrived and camped at a point fifteen li away."
           }
         }
       },
@@ -53,7 +53,7 @@
         "text": "夏侯淵、張郃急上得馬，四下裏大兵擁入，曹兵大敗，退見曹操。操怒曰：「汝二人行軍許多年，豈不知『兵若遠行疲困，須防劫寨』？如何不作準備？」欲斬二人，以明軍法。眾官告免。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Hsü Ch‘u replied, “The soldiers are here now, my lord, and you cannot recoil before the hardships.” Next day Ts‘ao Ts‘ao with only his two guards rode out to reconnoitre the enemy’s camp. As they rode over the hills Ts‘ao Ts‘ao pointed out the position with his whip and said, “It will be very difficult to reduce a place as strong as this.”"
+            "translation_en": "The soldiers were fatigued after the long march, and all lay down to rest without placing proper guards."
           }
         }
       },
@@ -66,7 +66,7 @@
         "text": "操次日自引兵為前隊；見山勢險惡，林木叢雜，不知路徑，恐有伏兵，即引軍回寨，謂許褚、徐晃二將曰：「吾若知此處如此險惡，必不起兵來。」許褚曰：「兵已至此，主公不可憚勞。」次日操上馬，只帶許褚、徐晃二人，來看張衛寨柵。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "​ Just then there arose a shout in their rear and a shower of arrows fell about them. The two Yangs were attacking and the danger became great. “Friend Hsü, you look after our lord;” cried Hsü Ch‘u, “I can hold the enemy.” He galloped out and the two leaders took to flight, while their men scattered. In the meantime Hsü Huang led his master over the hills. Soon he met a troop of soldiers led by Hsiahou Yüan and Chang Ho, who had heard the sound of fighting and had come to the rescue, and Ts‘ao Ts‘ao got back safely to camp. The four captains were rewarded."
+            "translation_en": "Suddenly the camp was attacked in the rear by the two Yangs from different points. Hsiahou Yüan and Chang Ho mounted quickly and tried to beat off the attackers, but the enemy poured in all round, and Ts‘ao’s men suffered great loss."
           }
         }
       },
@@ -79,7 +79,7 @@
         "text": "三匹馬轉過山坡，早望見張衛寨柵。操揚鞭遙指，謂二將曰：「如此堅固，急切難下！」",
         "generated_annotation": {
           "layers": {
-            "translation_en": "For fifty days the two armies held each other at bay without coming to a fight. At the end of this time, orders were given to retire."
+            "translation_en": "They returned to the main body to tell of their defeat, and their chief abused them for their want of care."
           }
         }
       },
@@ -92,7 +92,7 @@
         "text": "言未已，背後一聲喊起，箭如雨發。楊昂、楊任分兩路殺來。操大驚。許褚大呼曰：「吾當敵賊！徐公明善保主公！」說罷，提刀縱馬向前，力敵二將。楊昂、楊任不能當許褚之勇，回馬退去，其餘不敢向前。徐晃保著曹操奔過山坡，前面又一軍到；",
         "generated_annotation": {
           "layers": {
-            "translation_en": "“We have not tried the strength of the enemy,” said Chia Hsü. “You should not retire, my lord.” “I see that they are always on the alert,” said Ts‘ao Ts‘ao. “I am only retiring to put them off their guard. By and by I will send some light horse to attack their rear. I shall defeat them then.” “Ah! your skill is unfathomable!” cried Chia Hsü."
+            "translation_en": "“Old soldiers like you should have known better and taken precautions against a raid of the camp when the enemy knew your men were exhausted by a long march.”"
           }
         }
       },
@@ -105,7 +105,7 @@
         "text": "看時，卻是夏侯淵、張郃二將，聽得喊聲，故引軍殺來接應。於是殺退楊昂、楊任，救得曹操回寨。操重賞四將。自此兩邊相拒，五十餘日，只不交戰。曹操傳令退軍。賈詡曰：「賊勢未見強弱，主公何故自退耶﹖」操曰：「吾料賊兵每日提備，急難取勝。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Two parties were then sent to get round behind the Pass by unfrequented roads, while Ts‘ao Ts‘ao broke up his camp and led his main body backward. When Yang Ang heard of the retreat he thought it would be a good chance to attack, but Yang Jên, remembering the cunning of their opponent, opposed it. Yang Ang was wilful and said, “I shall go; you may come or not, as you wish.”"
+            "translation_en": "He even desired to put them to death as a warning, but their fellow-officers interceded and he spared them."
           }
         }
       },
@@ -118,7 +118,7 @@
         "text": "吾以退軍為名，使賊懈而無備，然後分輕騎抄襲其後，必勝賊矣。」賈詡曰：「丞相神機，不可測也。」",
         "generated_annotation": {
           "layers": {
-            "translation_en": "In spite of the protestations of his colleague, Yang Ang marched, taking with him the men of five camps and leaving only a few defenders. The day he set out was very foggy, so that one could hardly see his neighbour’s face, and soon the force got into difficulties and could not advance. They bivouacked on the road."
+            "translation_en": "Soon Ts‘ao himself marched in the van."
           }
         }
       },
@@ -131,7 +131,7 @@
         "text": "於是令夏侯淵、張郃分兵兩路，各引輕騎三千，取小路抄陽平關後。曹操一面引大軍拔寨盡起。楊昂聽得曹兵退，請楊任商議，欲乘勢擊之。楊任曰：「操詭計極多，未知真實，不可追趕。」楊昂曰：「公不往，吾當自去。」楊任苦諫不從。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Now, Hsiahou Yüan was out with a reconnoitring force behind the hills when they heard the voices of men and the neighing of horses. In the dense fog they could see nothing, but fearing an ambush they hastened to retire. They lost their way and presently stumbled on the deserted camp. The few defenders thought their comrades had returned, so they threw open the gates to let them in. One camp was empty and there they raised a great blaze, which frightened those in the other camps so that they fled. As soon as the fog cleared, Yang Jên came to the rescue, but as more of Ts‘ao’s men came up, the force was too strong for him and he quickly fled toward Nanch'êng. By and by, when Yang Ang returned, he found his camp in the possession of Ts‘ao Ts‘ao’s men."
+            "translation_en": "Then he saw the dangerous and evil nature of the place, with its thick growth of trees, and as he knew nothing of the roads and was fearful of an ambush he returned to his camp."
           }
         }
       },
@@ -144,7 +144,7 @@
         "text": "楊昂盡提五寨軍馬前進，只留些少軍士守寨。是日大霧迷漫，對面不相見。楊昂軍至半路，不能行，且權紮住。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Soon Ts‘ao Ts‘ao’s main army came up, and Yang was between two forces. There seemed no other way but to make a ​ dash for it. Falling in with Ho, the two engaged and Yang Ang fell. Those who escaped carried the news of the disaster to Chang Wei, who abandoned the Pass and fled."
+            "translation_en": "Calling up his two henchmen, Hsü Ch‘u and Hsü Huang, he said, “Had I known the dangerous nature of the place I would never have come.”"
           }
         }
       },
@@ -157,7 +157,7 @@
         "text": "卻說夏侯淵一軍抄過山後，見重霧垂空，又聞人語馬嘶，恐有伏兵，急催人馬行動，大霧中誤走到楊昂寨前。守寨軍士，聽得馬蹄響，只道是楊昂兵回，開門納之。曹軍一擁而入，見是空寨，便就寨中放起火來。五寨軍士，皆棄寨而走。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "So the invaders took possession of the Pass, and its late defenders, Chang Wei and Yang Jên, had to go back and report failure. Chang Wei laid the blame on his companion, saying the Pass could not be held after its supporting positions had been lost. Chang Lu threatened to behead Yang Jên for his failure. Yang said he had tried to prevent the rashness of his brother and begged to be allowed to make another attack. If he failed he would abide by the consequences without protest. Chang Lu took his formal pledge to succeed, gave him two legions and sent him away. He marched to Nanch'êng and made a stockade."
+            "translation_en": "Hsü Ch‘u replied, “The soldiers are here now, my lord, and you cannot recoil before the hardships.”"
           }
         }
       },
@@ -170,7 +170,7 @@
         "text": "比及霧散，楊任領兵來救，與夏侯淵戰不數合，背後張郃兵到。楊任殺條出路，奔回南鄭。楊昂待要回時，已被夏侯淵、張郃兩個占了寨柵。背後曹操大隊軍馬趕來。兩下夾攻，四邊無路。楊昂欲突陣而出，正撞著張郃。兩個交手，被張郃殺死。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Before Ts‘ao Ts‘ao made any further advance he sent Hsiahou Yüan, with half a legion, to reconnoitre the road and they fell in with the force led by Yang Jên. Both sides drew up their battle array. From Yang’s side went out Ch‘ang Ch‘i to engage Hsiahou Yüan, who disposed of him in the third bout. Then Yang Jên set his spear and rode to the front. They two fought near two score bouts and neither could claim victory. Then Hsiahou Yüan pretended defeat and fled. The other rushed in pursuit. The fugitive suddenly employed the Parthian stab and killed his pursuer. His men ran away."
+            "translation_en": "Next day Ts‘ao Ts‘ao with only his two guards rode out to reconnoitre the enemy’s camp."
           }
         }
       },
@@ -183,7 +183,7 @@
         "text": "敗兵回投陽平關，來見張衛。原來衛知二將敗走，諸營已失，半夜棄關，奔回去了。曹操遂得陽平關並諸寨。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "As soon as Ts‘ao Ts‘ao knew of the death of this leader of the other side he brought up his army, marched straightway to Nanch'êng and camped."
+            "translation_en": "As they rode over the hills Ts‘ao Ts‘ao pointed out the position with his whip and said, “It will be very difficult to reduce a place as strong as this.”"
           }
         }
       },
@@ -209,7 +209,7 @@
         "text": "卻說曹操提軍將進，先令夏侯淵領五千軍，往南鄭路上哨探，正迎著楊任軍馬，兩軍擺開。任遣部將昌奇出馬，與淵交鋒；戰不三合，被淵一刀斬於馬下。楊任自挺槍出馬，與淵戰三十餘合，不分勝負。淵佯敗而走，任從後追來；被淵用拖刀計，斬於馬下。軍士大敗而回。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "P‘ang Tê was summoned. He came, was loaded with gifts and given a force of one legion, with which he marched and camped ten li from the city, near the besieging force. His camp made, P‘ang Tê rode out and challenged. Now Ts‘ao Ts‘ao, remembering his boldness at the battle of the bridge over the Wei, was desirous of winning his help for himself, so he told his captains to try to weary him by prolonging the fights, and so make him captive."
+            "translation_en": "Just then there arose a shout in their rear and a shower of arrows fell about them. The two Yangs were attacking and the danger became great."
           }
         }
       },
@@ -222,7 +222,7 @@
         "text": "曹操知夏侯淵斬了楊任，即時進兵，直抵南鄭下寨。張魯慌聚文武商議。閻圃曰：「某保一人，可敵曹操手下諸將。」魯問是誰。圃曰：「南安龐德，前隨馬超，投降主公；後馬超往西川龐德臥病不曾行。現今蒙主公恩養，何不令此人去﹖」",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Wherefore first rode out Chang Ho to answer the challenge. He fought a few bouts and returned. Then Hsiahou Yüan did the same thing. So did Hsü Huang. Lastly went Hsü Ch‘u, who kept up the fight to half a hundred bouts before he retired. Still P‘ang Tê showed no signs of fatigue nor of fear, and all those who had fought with him praised his prowess and skill. ​ “If only I could win him over to my side!” said Ts‘ao Ts‘ao longingly."
+            "translation_en": "“Friend Hsü, you look after our lord;” cried Hsü Ch‘u, “I can hold the enemy.”"
           }
         }
       },
@@ -235,7 +235,7 @@
         "text": "張魯大喜，即召龐德至，厚加賞勞；點一萬軍馬，令龐德出。離城十餘里，與曹兵相對，龐德出馬搦戰。曹操在渭橋時，深知龐德之勇，乃囑諸將曰：「龐德乃西涼勇將，原屬馬超；今雖依張魯未稱其心。吾欲得此人。汝等須皆與緩鬥，使其力乏，然後擒之。」",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Said Chia Hsü, “I know one of his subordinates, Yang Sung. He is avaricious and open to a bribe. You might send him secret presents and get him to slander P‘ang Tê to his master so as to weaken his position.” “But how can one get at this man? He is in Nanch'êng.” “In the next battle pretend defeat, flee and let P‘ang take possession of this camp. Return in the night in force and drive him out, and he must retreat into the city. Let one of your own people with a persuasive tongue mingle with his men, disguised as one of his soldiers, and so gain entrance into the city.”"
+            "translation_en": "He galloped out and the two leaders took to flight, while their men scattered."
           }
         }
       },
@@ -248,7 +248,7 @@
         "text": "張郃先出，戰了數合便退。夏侯淵也戰數合退了。徐晃又戰三五合也退了。臨後許褚戰五十餘合亦退。龐德力戰四將，並無懼怯。各將皆於操前誇龐德好武藝。曹操心中大喜，與眾將商議：「如何得此人降？」賈詡曰：「某知張魯手下，有一謀士楊松。其人極貪賄賂。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Asubtle agent was found, and goodly gifts were his in advance, and he was entrusted with a golden breastplate as a bribe. He put it on and over it put on the dress of an ordinary soldier of Hanchung. And he made his way quietly to a point on the road along which the soldiers of Hanchung would retreat into the city. There he waited. Next, two parties were sent to lie in ambush and Hsü Huang was sent to challenge, but with orders to be defeated. The scheme went well, and as P‘ang Tê came on to smite, Ts‘ao Ts‘ao’s men retired before him till he found himself at their very camp. And therein he entered and was exceedingly pleased to find fodder and forage in great quantities."
+            "translation_en": "In the meantime Hsü Huang led his master over the hills. Soon he met a troop of soldiers led by Hsiahou Yüan and Chang Ho, who had heard the sound of fighting and had come to the rescue, and Ts‘ao Ts‘ao got back safely to camp."
           }
         }
       },
@@ -261,7 +261,7 @@
         "text": "今可暗以金帛送之，使譖龐德於張魯，便可圖矣。」操曰：「何由得入南鄭？」詡曰：「來日交鋒詐敗佯輸棄寨而走，使龐德據我寨，我卻於夤夜引兵劫寨；龐德必退入城，卻選一能言軍士，扮作彼軍，雜在陣中，便得入城。」",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Having sent off a messenger to his chief, he spread a feast in celebration of the victory; and when night came on they slept. But about the second watch there was an alarm from three directions, and the camp was threatened by three forces. It was the night-attack arranged by Ts‘ao Ts‘ao, and P‘ang Tê could not make any defence. He got to horse, cut his way through and made for the city. With the attackers in close pursuit he reached the gate, got it opened and rushed in."
+            "translation_en": "The four captains were rewarded. For fifty days the two armies held each other at bay without coming to a fight."
           }
         }
       },
@@ -274,7 +274,7 @@
         "text": "操聽其計，選一精細軍士，重加賞賜，付與金掩心甲一付，令披在貼肉，外穿漢中軍士號衣，先於半路上等侯。次日，先撥夏侯淵、張郃兩枝軍，遠去埋伏；卻教徐晃挑戰，不數合敗走。龐德招軍掩殺，曹兵盡退。龐德卻奪了曹操寨柵。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "And the traitor got in in the confusion. He made his way quickly to Yang Sung’s residence and saw him. He told him that the great minister, Duke Wei, knew him by reputation and held him in great esteem and as a token thereof had sent him his golden breastplate and a confidential letter as well. Yang took it all in, read the letter and said, “I will reply by and by, and the duke need feel no anxiety for I shall find a means of proving my gratitude. You may return.”"
+            "translation_en": "At the end of this time, orders were given to retire."
           }
         }
       },
@@ -287,7 +287,7 @@
         "text": "見寨中糧草極多，大喜，即時申報張魯；一面在寨中設宴慶賀。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Soon after, he went to see Chang Lu and told him that P‘ang Tê had been defeated because he had been bribed. Forthwith Chang Lu summoned his general, abused him and threatened to put him to death. Yen Pu, however, protested and proposed to test P‘ang in another encounter. If he lost that, he might be put to death."
+            "translation_en": "“We have not tried the strength of the enemy,” said Chia Hsü."
           }
         }
       },
@@ -300,7 +300,7 @@
         "text": "當夜二更之後，忽然三路火起：正中是徐晃、許褚；左張郃；右夏侯淵。三路軍馬，齊來劫寨。龐德不及提備，只得上馬衝殺出來，望城而走。背後三路兵追來。龐德即喚開城門，領兵一擁而入。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "P‘ang Tê retired full of resentment. The next day Ts‘ao Ts‘ao attacked, and P‘ang went out to repel him. Ts‘ao sent ​ out his favourite Hsü Ch‘u, but bade him pretend defeat. When P‘ang pursued, Ts‘ao rode toward the hills, where he halted and presently got speech with P‘ang. He proposed surrender."
+            "translation_en": "“You should not retire, my lord.”"
           }
         }
       },
@@ -313,7 +313,7 @@
         "text": "此時細作已雜到城中，逕投楊松府下謁見，具說：「魏公曹丞相久聞盛德，特使某送金甲為信。更有密書呈上。」松大喜，看了密書中言語，謂細作曰：「上覆魏公，但請放心。某自有良策奉報。」打發來人先回，便連夜入見張魯，說龐德受了曹操賄賂，賣此一陣。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "But P‘ang thought within himself that to capture Ts‘ao would be a fine exploit, so he boldly faced his escort and rode up the hill. But there arose a great shouting as if heaven and earth were clashing together and he and his followers went headlong into ditches and pits that had been dug. Out flew men with ropes and hooks, and P‘ang was a prisoner. When he was taken to Ts‘ao he was received with the greatest kindness. Ts‘ao himself dismounted, loosed the captive’s bonds and asked him if he would surrender. P‘ang thought of the ill-treatment he had just received at the hands of his master and of his injustice, and gave in. At once he was helped to mount a horse by Ts‘ao himself and led to the great camp."
+            "translation_en": "“I see that they are always on the alert,” said Ts‘ao Ts‘ao."
           }
         }
       },
@@ -326,7 +326,7 @@
         "text": "張魯大怒，喚龐德責罵，欲斬之。閻圃苦諫。張魯曰：「你來日出戰，不勝必斬！」龐德抱恨而退。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Men placed for the purpose on the city wall saw what happened and told Chang Lu that his leader had ridden off on friendly terms with Ts‘ao Ts‘ao, whereby Chang Lu was persuaded that Yang Sung had spoken truly."
+            "translation_en": "“I am only retiring to put them off their guard. By and by I will send some light horse to attack their rear. I shall defeat them then.”"
           }
         }
       },
@@ -339,7 +339,7 @@
         "text": "次日，曹兵攻城，龐德引兵衝出。操令許褚交戰。褚詐敗，龐德趕來。操自乘馬於山坡上喚曰：「龐令名何不早降﹖」龐德尋思：「拏住曹操，抵一千員上將！」遂飛馬上坡。一聲喊起，天崩地塌，連人和馬，跌入陷坑去；四壁鉤索一齊上前，活捉了龐德，押上坡來。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Soon after, scaling ladders were set against the city walls and catapults threw in great stones. The danger being imminent, Chang Wei counselled the destruction of all supplies and flight to Nanshan, where they might be able to defend Pachung. On the other hand, Yang Sung said the best course was to throw open the gates and surrender. Chang Lu could not decide which to do. His brother, Wei, maintained that burning everything and flight was the only course. Chang Lu said, “I have been always loyal at heart and desired to return to allegiance when circumstances would permit. I have been unable to attain my desire, but now fight seems the only course open to me. However, the granaries and treasures, the public offices and the government property of all kinds must be kept safe.”"
+            "translation_en": "“Ah! your skill is unfathomable!” cried Chia Hsü."
           }
         }
       },
@@ -352,7 +352,7 @@
         "text": "曹操下馬，叱退軍士，親釋其縳，問龐德肯降否。龐德尋思張魯不仁，情願拜降。曹操親扶上馬，共回大寨，故意教城上望見。人報張魯，德與操並馬而行。魯益信楊松之言為實。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "So the public buildings were all carefully barred and sealed. The same night, in the late evening, Chang and his family went out through the south gate and found their way through. Ts‘ao Ts‘ao let them go unpursued. When Ts‘ao entered the city and saw the proofs of Chang Lu’s care of the government property he compassionated the man’s misfortunes. He then sent a messenger into Pachung to induce him to surrender. Chang Lu was disposed to do so, but his brother would not hear of it. Nor would Yang Sung, who wrote a secret letter to Ts‘ao Ts‘ao urging him to attack and promising treacherous aid."
+            "translation_en": "Two parties were then sent to get round behind the Pass by unfrequented roads, while Ts‘ao Ts‘ao broke up his camp and led his main body backward."
           }
         }
       },
@@ -365,7 +365,7 @@
         "text": "次日，曹操三面豎立雲梯，飛砲攻打。張魯見其勢已極，與弟張衛商議。衛曰：「放火盡燒倉廩府庫，出奔南山去守巴中可也。」楊松曰：「不如開門投降。」張魯猶豫未定。衛曰：「只是燒了便行。」張魯曰：「我向本欲歸命國家，而意未得達；",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Ts‘ao presently attacked, and Chang Wei came out to meet him. But his opponent was the mighty Hsü Ch‘u, who made short work of him. The beaten soldiers went back into the city, which Chang Lu then decided to defend. As this would not ​ give Yang Sung the chance to carry out his treacherous scheme, he persuaded his master to go out and fight, leaving him to defend the city. Chang Lu took this advice, although it was opposed by Yen Pu, and went out. But before his van got near the enemy, his rear ranks began to desert, and Chang retreated. Ts‘ao pursued him to the city walls, where Chang found the gates shut against him. There being now no way open, Chang dismounted, prostrated himself and gave in. Because of this and his care of the public property, Ts‘ao treated him with great kindness and consoled him with the title of General, “Guardian of the South.” Yen Pu and many others also were enrolled among the nobles. To each district was appointed a military officer styled Tu-yü , in addition to the Prefect. All the soldiers were feasted and rewarded."
+            "translation_en": "When Yang Ang heard of the retreat he thought it would be a good chance to attack, but Yang Jên, remembering the cunning of their opponent, opposed it."
           }
         }
       },
@@ -378,7 +378,7 @@
         "text": "今不得已而出奔，倉廩府庫，國家之有，不可廢也。」遂盡封鎖。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Then the traitor Yang Sung, who had sold his master, came and sued for honours. He was condemned to public execution and exposure."
+            "translation_en": "Yang Ang was wilful and said, “I shall go; you may come or not, as you wish.”"
           }
         }
       },
@@ -391,7 +391,7 @@
         "text": "是夜二更，張魯引全家老小，開南門殺出。曹操教休追趕，提兵入南鄭；見魯封閉庫藏，心甚憐之，遂差人往巴中，勸使投降。張魯欲降，張衛不肯。楊松以密書報操，便教進兵，松為內應。操得書，親自引兵往巴中。張魯使弟衛領兵出敵，與許褚交鋒；被褚斬於馬下。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "To harm the wise and compass the death of one’s lord may appear signal service, But the gains thereof are vanity; No glory clings to the house of him who dies a shameful death; Wherefore Yang Sung is an object of contempt forever. When the eastern Ch'üan was quite subdued the Recorder Ssuma I said, “The men of Shu are against Liu Pei because of his treatment of the late ruler, Liu Chang, and if on the strength of your present success you press forward, Liu Pei will become as a shattered tile. The wise man takes the occasion when it serves and this should not be missed.”"
+            "translation_en": "In spite of the protestations of his colleague, Yang Ang marched, taking with him the men of five camps and leaving only a few defenders."
           }
         }
       },
@@ -404,7 +404,7 @@
         "text": "敗軍回報張魯，魯欲堅守。楊松曰：「今若不出，坐以待斃矣。某守城，主公當親與決一死戰。」",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Ts‘ao Ts‘ao sighed. “There is no end; now that I have Shênsi I am forced into taking Shu.”"
+            "translation_en": "The day he set out was very foggy, so that one could hardly see his neighbour’s face, and soon the force got into difficulties and could not advance."
           }
         }
       },
@@ -417,7 +417,7 @@
         "text": "魯從之。閻圃諫魯休出。魯不聽，遂引軍出迎。未及交鋒，後軍已走。張魯急退，背後曹兵趕來。魯到城下，楊松閉門不納。張魯無路可走，操從後追至，大叫：「何不早降！」魯乃下馬投拜。操大喜；念其封倉庫之心，優禮相待，封魯為鎮南將軍。閻圃等皆封列侯。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Liu Hua supported Ssŭma I, saying he spoke well. “If you delay, Chuko Liang will have become minister, while Kuan Yü, Chang Fei and the other bold warriors will be at the head of the army. If the man of Shu once settle down, and the points of vantage are held, you will not be able to overcome them.' Ts‘ao replied, “My men have marched far and suffered much; beside we must show pity.” Wherefore he rested his army for a time. Meanwhile the populace of West Shu, having heard of Ts‘ao’s success, concluded that they would suffer next, and fear spread among them. Whereupon Yüan-tê called in the Commander-in-chief and asked his advice. He replied that he could make Ts‘ao Ts‘ao retreat of his own accord."
+            "translation_en": "They bivouacked on the road. Now, Hsiahou Yüan was out with a reconnoitring force behind the hills when they heard the voices of men and the neighing of horses."
           }
         }
       },
@@ -430,7 +430,7 @@
         "text": "於是漢中皆平。曹操傳令各郡分設太守，置都尉，大賞士卒。惟有楊松賣主求榮，即命斬之於市曹示眾。後人有詩歎曰：",
         "generated_annotation": {
           "layers": {
-            "translation_en": "“A part of Ts‘ao Ts‘ao’s army is camped at Hofei because of the fear of Sun Ch'üan. If now we restore those three districts they desire so greatly, and send a specious person to talk, we can make Sun Ch'üan attack Hofei, which will lead to Ts‘ao going southward.”"
+            "translation_en": "In the dense fog they could see nothing, but fearing an ambush they hastened to retire."
           }
         }
       },
@@ -443,7 +443,7 @@
         "text": "妨賢賣主逞奇功，積得金銀總是空。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "​ “Who is a fit person for the messenger?” said Yüan-tê."
+            "translation_en": "They lost their way and presently stumbled on the deserted camp. The few defenders thought their comrades had returned, so they threw open the gates to let them in."
           }
         }
       },
@@ -456,7 +456,7 @@
         "text": "家未榮華身受戮，令人千載笑楊松。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "And I Chi replied, “I will go.”"
+            "translation_en": "One camp was empty and there they raised a great blaze, which frightened those in the other camps so that they fled."
           }
         }
       },
@@ -469,7 +469,7 @@
         "text": "曹操已得東川。主簿司馬懿進曰：「劉備以詐力取劉璋，蜀人尚未歸心。今主公已得漢中，益州震動。可速進兵攻之，勢必瓦解。知者貴於乘時，時不可失也。」曹操歎曰：「人苦不知足，既得隴，復望蜀耶？」劉曄曰：「司馬仲達之言是也。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Yüan-tê, well satisfied, wrote letters and prepared gifts, with which I Chi went, calling in at Chingchou on the way to tell Kuan Yü. Then he went on to Moling and saw Sun Ch‘üan. After the greetings, Sun Ch'üan asked on what business he had come. I Chi replied, “On a former occasion Chuko Chin would have had the three districts but for the absence of the Commander-in-chief, which prevented the actual transfer. Now I am the bearer of letters giving them back to you. Chingchou, Nanchün and Moling were meant to be restored, and now that Ts‘ao Ts‘ao has got possession of Eastern Ch‘uan they are no place for General Kuan. Hofei is empty and we hope you will attack it so as to make Ts‘ao Ts‘ao withdraw to the south and let my master take East Ch‘uan, when he will restore the whole of the Chingchou district.”"
+            "translation_en": "As soon as the fog cleared, Yang Jên came to the rescue, but as more of Ts‘ao’s men came up, the force was too strong for him and he quickly fled toward Nanch'êng."
           }
         }
       },
@@ -482,7 +482,7 @@
         "text": "若少遲緩，諸葛亮明於治國而為相，關、張等勇冠三軍而為將，蜀民既定，據守關隘，不可犯矣。」操曰：「士卒遠涉勞苦，且宜存恤。」遂按兵不動。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "“Go back to the guest-house and let me take counsel in this matter,” said Sun Ch'üan. As soon as I Chi had gone, the marquis turned to his officers and asked what should be done. Chang Chao said, “All this is because Liu Pei fears that Ts‘ao Ts‘ao will attack him. However, since Ts‘ao is absent in Hanchung it would be well to seize the opportunity and attack Hofei.”"
+            "translation_en": "By and by, when Yang Ang returned, he found his camp in the possession of Ts‘ao Ts‘ao’s men. Soon Ts‘ao Ts‘ao’s main army came up, and Yang was between two forces."
           }
         }
       },
@@ -495,7 +495,7 @@
         "text": "卻說西川百姓，聽知曹操已取東川，料必來取西川，一日之間，數遍驚恐。玄德請軍師商議。孔明曰：「亮有一計，曹操自退。」玄德問何計。孔明曰：「曹操分軍屯合淝，懼孫權也。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Sun Ch'üan accepted the advice. After he had sent the messenger away he began to prepare for the expedition. He left Lu Su in command over the three districts of Changsha, Chianghsia and Kueiyang. Then he encamped at Luk‘ou, and withdrew Lü Mêng and Kan Ning and sent to Hangchou (Yühang) for Ling T‘ung."
+            "translation_en": "There seemed no other way but to make a ​ dash for it. Falling in with Ho, the two engaged and Yang Ang fell."
           }
         }
       },
@@ -508,7 +508,7 @@
         "text": "今我若分江夏、長沙、桂陽三郡還吳，遣舌辯之士，陳說利害，令吳起兵襲合淝，牽動其勢，操必勒兵南向矣。」玄德問：「誰可為使？」伊籍曰：「某願往。」玄德大喜，遂作書具禮，令伊籍先到荊州，知會雲長，然後入吳。到秣稜，來見孫權，先通了姓名。權召籍入。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Very soon, Lü Mêng and Kan Ning returned, and the former suggested a plan, saying, “Ts‘ao Ts‘ao has sent Chu Kuang, Prefect of Luchiang, to camp at Huanch'êng and plant grain for the supply of Hofei. Let us first take Huanch'êng and then attack Hofei.” “This scheme is just after my own heart,” said Sun Ch‘üan. So he made dispositions accordingly, he himself with several generals, commanding the centre. But the famous warriors Ch'êng P‘u, Huang Kai and Han Tang were not called to take part in this expedition as they were guarding certain especial places."
+            "translation_en": "Those who escaped carried the news of the disaster to Chang Wei, who abandoned the Pass and fled. So the invaders took possession of the Pass, and its late defenders, Chang Wei and Yang Jên, had to go back and report failure."
           }
         }
       },
@@ -521,7 +521,7 @@
         "text": "籍見權禮畢，權問曰：「汝到此何為﹖」籍曰：「昨承諸葛子瑜取長沙等三郡，為軍師不在，有失交割，今傳書送還。所有荊州南郡、零陵，本欲送還；被曹操襲取東川，使關將軍無容身之地。今合淝空虛，望君侯起兵攻之，使曹操撤兵回南。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "The army crossed the river and captured Hochou on the way. The Prefect of Huanchou sent an urgent message to Hofei for help and set himself to strengthen his fortifications for a siege. Sun Ch'üan went very near the city to observe its defence, and a flight of arrows greeted him, some striking his great official parasol. He went back to camp and asked his officers to offer plans of attack."
+            "translation_en": "Chang Wei laid the blame on his companion, saying the Pass could not be held after its supporting positions had been lost."
           }
         }
       },
@@ -534,7 +534,7 @@
         "text": "吾主若取了東川，即還荊州全土。」權曰：「汝且歸館舍，容吾商議。」",
         "generated_annotation": {
           "layers": {
-            "translation_en": "​ Then Tung Hsi said, “Pile up great hills of earth and attack from the summits.”"
+            "translation_en": "Chang Lu threatened to behead Yang Jên for his failure. Yang said he had tried to prevent the rashness of his brother and begged to be allowed to make another attack."
           }
         }
       },
@@ -547,7 +547,7 @@
         "text": "伊籍退出，權問計於眾謀士。張昭曰：「此是劉備恐曹操取西川，故為此謀。雖然如此，今因操在漢中，乘勢取合淝，亦是上計。」權從之，發付伊籍回蜀去訖，便議起兵攻操：令魯肅收取長沙、江夏、桂楊三郡，屯兵於陸口；取呂蒙、甘寧回；又去餘杭取凌統回。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Said Hsü Shêng, “Set up long ladders and construct platforms whence you can look over the city walls and thus attack.” But Lü Mêng said, “All such plans need a long time to prepare, and in the meantime the soldiers will arrive from Hofei. Do not try such long-drawn-out schemes, but take advantage of the fine, fresh spirit of our newly arrived men and attack impetuously. Their élan will carry the wall. If you attack to-morrow at dawn the city will fall before noon.”"
+            "translation_en": "If he failed he would abide by the consequences without protest. Chang Lu took his formal pledge to succeed, gave him two legions and sent him away."
           }
         }
       },
@@ -560,7 +560,7 @@
         "text": "不一日，呂蒙、甘寧先到。蒙獻策曰：「現今曹操令廬江太守朱光屯兵於皖城，大開稻田，納穀於合淝，以充軍實。今可先取皖城，然後攻合淝。」權曰：「此計甚合吾意。」遂教呂蒙、甘寧爲先鋒；蔣欽、潘璋爲合後；權自引周泰、陳武、董襲、徐盛爲中軍。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "So the early meal was taken at the fifth watch and the army went to the attack. The defenders sent down showers of arrows and stones. Kan Ning took an iron chain in his hand and climbed up the wall. They shot at him with bows and crossbows, but he turned aside the arrows and bolts and he threw the chain round the Prefect Chu Kuang to pull him down. Lü Mêng beat the drum for the attack. The soldiers made a rush forward to climb the wall, and they slew Chu Kuang. His officers and soldiers gave in, and so the city fell to Sun Ch'üan. It was still a long time to noon."
+            "translation_en": "He marched to Nanch'êng and made a stockade. Before Ts‘ao Ts‘ao made any further advance he sent Hsiahou Yüan, with half a legion, to reconnoitre the road and they fell in with the force led by Yang Jên."
           }
         }
       },
@@ -573,7 +573,7 @@
         "text": "時程普、黃蓋、韓當在各處鎮守，都未隨征。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "In the meantime Chang Liao was marching to the aid of the city. Half-way he heard that the city had fallen, and so he returned to Hofei."
+            "translation_en": "Both sides drew up their battle array. From Yang’s side went out Ch‘ang Ch‘i to engage Hsiahou Yüan, who disposed of him in the third bout."
           }
         }
       },
@@ -586,7 +586,7 @@
         "text": "卻說軍馬渡江，取和州，逕到皖城。皖城太守朱光，使人往合淝求救；一面固守城池，堅壁不出。權自到城下看時，城上箭如雨發，射中孫權麾蓋。權回寨，問眾將曰：「如何取得皖城？」董襲曰：「可差軍士築起土山攻之。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Soon after the conqueror’s entry into Huanch'êng, Ling T‘ung came there with his army. The next few days were devoted to feasting the army. Especial rewards were given to the two captains who had done such good work at the capture, and at the banquet to the officers Kan Ning was seated in the seat of honour, which his colleague, Lü Mêng, readily yielded to him for his late prowess."
+            "translation_en": "Then Yang Jên set his spear and rode to the front. They two fought near two score bouts and neither could claim victory."
           }
         }
       },
@@ -599,7 +599,7 @@
         "text": "」徐盛曰：「可豎雲梯，造虹橋，下觀城中而攻之。」呂蒙曰：「此法皆費日月而成，合淝救軍一至，不可圖矣。今我軍初到，士氣方銳，正可乘此銳氣，奮力攻擊。來日平明進兵，午未時便當破城。」",
         "generated_annotation": {
           "layers": {
-            "translation_en": "But as the cup of felicitation was passing round, Ling Tung’s thoughts turned to the enmity he bore Kan Ning for having slain his father, and the praises which Lü Mêng now heaped upon him filled Ling’s heart with bitterness. For some time he glared savagely at Kan Ning, and then he determined on revenge. Drawing his sword, he suddenly rose to his feet and cried, “There is nothing to amuse the assembly. I will give them a display of swordsmanship.”"
+            "translation_en": "Then Hsiahou Yüan pretended defeat and fled. The other rushed in pursuit. The fugitive suddenly employed the Parthian stab and killed his pursuer. His men ran away."
           }
         }
       },
@@ -612,7 +612,7 @@
         "text": "權從之。次日五更飯畢，三軍大進。城上矢石齊下。甘寧手執鐵練，冒矢石而上。朱光令弓拏手齊射，甘寧撥開箭林，一練打倒朱光。呂蒙親自擂鼓。士卒皆一擁而上，亂刀砍死朱光。餘眾多降，得了皖城，方纔辰時。張遼引軍至半路，哨馬回報皖城已失。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Kan Ning quickly saw his real intention. He pushed back his table and laid hold of a ch‘i (halberd) in each hand, crying, “And you may also watch an adept in the use of this weapon.” Lü Mêng saw the evil meaning of both, and assuming his sword and shield he hastily stepped between the two warriors, saying, “Neither of you gentlemen is so dexterous as I.” So he forced the two combatants asunder, while some one ran to tell Sun Ch'üan. He hastily jumped into the saddle and rode to the banquet hall. At sight of their lord they all three lowered their weapons."
+            "translation_en": "As soon as Ts‘ao Ts‘ao knew of the death of this leader of the other side he brought up his army, marched straightway to Nanch'êng and camped."
           }
         }
       },
@@ -625,7 +625,7 @@
         "text": "遼即回兵歸合淝。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "​ “I have bidden you two to forget this old enmity,” said Sun Ch'üan. “Why do you revive it to-day?”"
+            "translation_en": "Chang Lu became alarmed and called a council."
           }
         }
       },
@@ -638,7 +638,7 @@
         "text": "孫權入皖城，淩統亦引軍到。權慰勞畢，大犒三軍，重賞呂蒙、甘寧諸將，設宴慶功。呂蒙遜甘寧上坐，盛稱其功勞。酒至半酣，淩統想起甘寧殺父之讎，又見呂蒙誇美之，心中大怒，瞪目直視良久，忽拔左右所佩之劍，立於筵上曰：「筵前無樂，看吾舞劍。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Ling T‘ung prostrated himself in tears. Sun Ch'üan exhorted him to forget his quarrel, and once again there was peace. The next day the army set out for Hofei. Because of the loss of Huanch'êng, Chang Liao grieved greatly. Ts‘ao Ts‘ao had sent a small casket sealed with his own seal and bearing outside the words, “If rebels come, open this.”"
+            "translation_en": "“I can propose a man able to stand against the best leader of the enemy,” said Yen Pu."
           }
         }
       },
@@ -651,7 +651,7 @@
         "text": "」甘寧知其意，推開席桌起身，兩手取兩枝戟挾定，縱步出曰：「看我筵前使戟。」呂蒙見二人各無好意；便一手挽牌，一手提刀，立於其中曰：「二公雖能，皆不如我巧也。」說罷，舞起刀牌，將二人分於兩下。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "So when he received the news of the coming of a powerful army Chang Liao opened the casket and read the letter therein, which said, “If Sun Ch‘üan comes to attack Hofei the two captains Chang and Li are to go out to oppose him and Yüeh is to be left to guard the walls.” Chang Liao sent the letter to the two men named therein."
+            "translation_en": "“Who is he?” asked Chang Lu."
           }
         }
       },
@@ -664,7 +664,7 @@
         "text": "早有人報知孫權。權慌跨馬，直至筵前。眾將見權至，方各放下軍器。權曰：「吾常言二人休念舊讎，今日又何如此﹖」凌統哭拜於地。孫權再三勸止。至次日，起兵進取合淝，三軍盡發。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "“What do you think to do?” said Yüeh Chin. Chang Liao replied, “Our lord is away and Wu is coming to attack for certain. We must go out to repel them and exert ourselves to the utmost to inflict defeat upon their advanced guard. Thus we shall appease the fears of the populace and then we can hold as best we may.' ”"
+            "translation_en": "“P‘ang Tê, of Nanan. He surrendered at the same time as Ma Ch‘ao, but could not go with him into Ssŭch‘uan as he was ill."
           }
         }
       },
@@ -677,7 +677,7 @@
         "text": "張遼為失了皖城，回到合淝，心中愁悶。忽曹操差薛悌送木匣一個，上有操封，傍書云：「賊來乃發。」是日報說「孫權自引十萬大軍，來攻合淝。」張遼便開匣觀之。內書云：「若孫權至，張、李二將軍出戰，樂將軍守城。」張遼將教帖與李典、樂進觀之。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "But Li Tien was silent, for he was ever unfriendly to Chang Liao. Then seeing his colleague inclined to hold off, Yüeh Chin said, “I am for remaining on the defensive since the enemy is so much more numerous than we.” “Gentlemen, it seems you are selfish and not devoted to the common weal,” said Chang Liao. “You may have your private reasons for what you do, but I intend to go out and try to repel the enemy. I will fight them to the death.”"
+            "translation_en": "If you treated him generously he would save you.' ”"
           }
         }
       },
@@ -690,7 +690,7 @@
         "text": "樂進曰：「將軍之意若何﹖」張遼曰：「主公遠征在外，吳兵以為破我必矣。今可發兵出迎，奮力與戰，折其鋒銳，以安眾心，然後可守也。」",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Thereupon he bade his servants saddle his steed. At this, Li Tien’s better feelings were aroused, and he rose saying, “How can I be careless of the common weal and indulge my private feelings? I am ready to follow you and do as you command.”"
+            "translation_en": "P‘ang Tê was summoned. He came, was loaded with gifts and given a force of one legion, with which he marched and camped ten li from the city, near the besieging force. His camp made, P‘ang Tê rode out and challenged."
           }
         }
       },
@@ -703,7 +703,7 @@
         "text": "李典素與張遼不睦，聞遼此言，默然不答。樂進見李典不語，便道：「賊眾我寡，難以迎敵，不如堅守。」張遼曰：「公等皆是私意，不顧公事。吾今自出迎敵，決一死戰。」便教左右備馬。李典慨然而起曰：「將軍如此，典豈敢以私憾而忘公事乎？願聽指揮。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Chang Liao was elated at this moral victory, and said, “Since I can depend upon your help, my friend, then I would ask you to lie in ambush on the north of the Ch‘aoyao Ford in order to destroy the bridge there as soon as the army of Wu has crossed. I, with my friend Yüeh Chin, will smite the enemy."
+            "translation_en": "Now Ts‘ao Ts‘ao, remembering his boldness at the battle of the bridge over the Wei, was desirous of winning his help for himself, so he told his captains to try to weary him by prolonging the fights, and so make him captive."
           }
         }
       },
@@ -716,7 +716,7 @@
         "text": "」張遼大喜曰：「既曼成肯相助，來日引一軍於逍遙津北埋伏；待吳兵殺過來，可先斷小師橋，吾與樂文謙擊之。」李典領命，自去點軍埋伏。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Li Tien went away to muster his men and prepare the ambush. ”"
+            "translation_en": "Wherefore first rode out Chang Ho to answer the challenge. He fought a few bouts and returned. Then Hsiahou Yüan did the same thing. So did Hsü Huang. Lastly went Hsü Ch‘u, who kept up the fight to half a hundred bouts before he retired. Still P‘ang Tê showed no signs of fatigue nor of fear, and all those who had fought with him praised his prowess and skill."
           }
         }
       },
@@ -729,7 +729,7 @@
         "text": "卻說孫權令呂蒙、甘寧為前隊，自與凌統居中。其餘諸將陸續進發，望合淝殺來。呂蒙、甘寧前隊兵進，正與樂進相迎。甘寧出馬與樂進交鋒，戰不數合，樂進詐敗而走。甘寧招呼呂蒙一齊引軍趕去。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "As has been recorded, the leaders of the advance guard of the Wu army were the veterans Lü Mêng and Kan Ning. Sun Ch'üan and Ling T‘ung were in the centre; the other captains followed them. The leaders of the van met Yüeh Chin first, and Kan Ning rode out and challenged him. After a few bouts Yüeh pretended to be defeated and fled. Kan Ning called to his colleague to join in the pursuit."
+            "translation_en": "“If only I could win him over to my side!” said Ts‘ao Ts‘ao longingly."
           }
         }
       },
@@ -742,7 +742,7 @@
         "text": "孫權在第二隊，聽得前軍得勝，催兵行兵至逍遙津北，忽聞連珠砲響，左邊張遼一軍殺來，右邊李典一軍殺來。孫權大驚，急令人喚呂蒙、甘寧回救時，張遼兵已到。凌統手下，止有三百餘騎，當不得曹軍勢如山倒。凌統大呼曰：「主公何不速渡小師橋！」",
         "generated_annotation": {
           "layers": {
-            "translation_en": "​ When Sun Ch'üan heard that this advance guard had been successful he hastened his men to the Ford. But then there came a series of explosions, and up came Chang Liao and Li Tien, one on each flank. Sun Ch'üan was unprepared for this and sent messengers to call off the pursuit and ask for help. Before it could arrive, Chang Liao had come up."
+            "translation_en": "Said Chia Hsü, “I know one of his subordinates, Yang Sung. He is avaricious and open to a bribe."
           }
         }
       },
@@ -755,7 +755,7 @@
         "text": "言未畢，張遼引二千餘騎，當先殺至。凌統翻身死戰。孫權縱馬上橋，橋南已拆丈餘，並無一片板。孫權驚手足無措。牙將谷利大呼曰：「主公可將馬退後，再放馬向前，跳過橋去。」孫權收回馬來有三丈餘遠，然後縱轡加鞭，那馬一跳飛過橋南。後人有詩曰：",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Manifestly, Ling T‘ung, who had with him only a small troop of horse, could not long withstand the army of Ts‘ao Ts‘ao, but he faced them and fought bravely while his lord galloped for the bridge. The southern end had been already broken down and there was a wide breach between the end of the bridge and the shore. Not a single plank was there by which to cross. What could be done? Sun Ch'üan was in a quandary, and helpless. “Go back and jump for it!” yelled one of the petty officers, Ku Li by name."
+            "translation_en": "You might send him secret presents and get him to slander P‘ang Tê to his master so as to weaken his position.”"
           }
         }
       },
@@ -768,7 +768,7 @@
         "text": "的盧當日跳檀溪；又見吳侯敗合淝。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "He did so. Backing his horse some thirty feet or so, he then gave him his head and lashed him with his whip."
+            "translation_en": "“But how can one get at this man? He is in Nanch'êng.”"
           }
         }
       },
@@ -781,7 +781,7 @@
         "text": "退後著鞭馳駿騎，逍遙津上玉龍飛。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "The good beast leaped, cleared the chasm and his master was safe on the southern shore."
+            "translation_en": "“In the next battle pretend defeat, flee and let P‘ang take possession of this camp. Return in the night in force and drive him out, and he must retreat into the city."
           }
         }
       },
@@ -794,7 +794,7 @@
         "text": "孫權跳過橋南，徐盛、董襲駕舟相迎。凌統、谷利扺住張遼。甘寧、呂蒙引軍回救，卻被樂進從後追來，李典又截住廝殺，吳兵折了大半。凌統所領三百餘人，盡被殺死。統身中數槍，殺到橋邊，橋已拆斷，遶河而逃。孫權在舟中望見，急令董襲棹舟接之，乃得渡回。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Once Tilu leapt across T‘an Torrent wide, And when defeat did Sun of Wu betide, And death came threateningly at Ch‘aoyao Ford, His steed too leapt, and saved him from the sword. Having reached the farther shore, Sun Ch'üan embarked on a boat and was rowed to a place of safety, while Chang Liao’s army was held at bay. Kan Ning and Lü Mêng, coming to his aid, were pursued by Yüeh Chin, and Li Tien also stayed their progress. But the men of Wu fought bravely, and Ling T‘ung’s troop of horse perished to a man. While Ling himself was wounded, but found his way to the bridge. Finding it destroyed, he fled along the stream. Presently he was seen by Sun Ch'üan from the boat and taken on board. Kan Ning and Lü Mêng fled into Honan."
+            "translation_en": "Let one of your own people with a persuasive tongue mingle with his men, disguised as one of his soldiers, and so gain entrance into the city.”"
           }
         }
       },
@@ -807,7 +807,7 @@
         "text": "呂蒙、甘寧皆死命逃過河南。這一陣殺得江南人人害怕；聞張遼大名，小兒也不敢夜啼。眾將保護孫權回營。權乃重賞凌統、谷利，收軍回濡須，整頓船隻，商議水陸並進；一面差人回江南，再起人馬來助戰。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "The terrible slaughter at this battle put such fear into the minds of the men from Chiangnan that the name of Chang Liao kept the very children quiet at night. When Sun Ch'üan reached his camp he richly rewarded Ling T‘ung and the petty officer Ku Li. Then he led his army back to Juhsü and began to put his ships in order so that the army and navy might act in unison. He also sent home for reinforcements."
+            "translation_en": "Asubtle agent was found, and goodly gifts were his in advance, and he was entrusted with a golden breastplate as a bribe. He put it on and over it put on the dress of an ordinary soldier of Hanchung. And he made his way quietly to a point on the road along which the soldiers of Hanchung would retreat into the city. There he waited."
           }
         }
       },
@@ -820,7 +820,7 @@
         "text": "卻說張遼聞孫權在濡須，將欲興兵進攻，恐合淝兵少，難以扺敵，急令薛悌星夜往漢中，報知曹操，求請救兵。操同眾官議曰：「此時可收西川否？」劉曰：「今蜀中稍定，已有準備，不可擊也。不如撤兵去救合淝之急，就下江南。」",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Chang Liao reflected that he had insufficient force to meet another attack if it should be supported by the navy of Wu, so he sent an urgent message to his master in Hanchung. When the messenger arrived, Ts‘ao Ts‘ao saw that his western expedition would have to yield to the urgency of home defence. However, he called in his counsellors and put a direct question to them. ​ “Can we take Western Shu now, or not?” “The country is too well prepared; we cannot,” replied Liu Hua. “It is better to go to the succour of Hofei and then go down the river.”"
+            "translation_en": "Next, two parties were sent to lie in ambush and Hsü Huang was sent to challenge, but with orders to be defeated. The scheme went well, and as P‘ang Tê came on to smite, Ts‘ao Ts‘ao’s men retired before him till he found himself at their very camp."
           }
         }
       },
@@ -833,7 +833,7 @@
         "text": "操乃留夏侯淵守漢中定軍山隘口，留張郃守蒙頭巖等隘口。其餘軍兵拔寨都起，殺奔濡須塢來。正是：",
         "generated_annotation": {
           "layers": {
-            "translation_en": "Wherefore, leaving Hsiahou Yüan to guard what he had taken of Hanchung, and other reliable captains at other points of vantage, Ts‘ao broke up his camp and went toward Juhsü."
+            "translation_en": "And therein he entered and was exceedingly pleased to find fodder and forage in great quantities. Having sent off a messenger to his chief, he spread a feast in celebration of the victory; and when night came on they slept."
           }
         }
       },
@@ -846,7 +846,7 @@
         "text": "鐵騎甫能平隴右，旌旄又復指江南。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "The armoured horsemen would have conquered Shên, The ensigns toward the south were turned again."
+            "translation_en": "But about the second watch there was an alarm from three directions, and the camp was threatened by three forces. It was the night-attack arranged by Ts‘ao Ts‘ao, and P‘ang Tê could not make any defence. He got to horse, cut his way through and made for the city. With the attackers in close pursuit he reached the gate, got it opened and rushed in."
           }
         }
       },
@@ -859,7 +859,7 @@
         "text": "未知勝負如何，且看下文分解。",
         "generated_annotation": {
           "layers": {
-            "translation_en": "The subsequent course of the war will be unfolded in later chapters."
+            "translation_en": "And the traitor got in in the confusion. He made his way quickly to Yang Sung’s residence and saw him. He told him that the great minister, Duke Wei, knew him by reputation and held him in great esteem and as a token thereof had sent him his golden breastplate and a confidential letter as well. Yang took it all in, read the letter and said, “I will reply by and by, and the duke need feel no anxiety for I shall find a means of proving my gratitude. You may return.”"
           }
         }
       }
